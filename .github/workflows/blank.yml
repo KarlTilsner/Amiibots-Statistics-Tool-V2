@@ -26,13 +26,13 @@ jobs:
           pip install requests
 
       - name: Run script
-        run: python Data Collection/Scrape.py
+        run: python Data_Collection/Scrape.py
 
       - name: Commit updated data
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add "Data Collection/Raw Matches/data.json" "Data Collection/state.json"
+          git add "Data_Collection/Raw_Matches/data.json" "Data_Collection/state.json"
           git diff --quiet && exit 0
           git commit -m "Update data + state"
           git push
