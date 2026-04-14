@@ -53,7 +53,7 @@ def fetch_matches(cursor=None):
 
 
 def create_json(data, cursor):
-    with open(f"Data Collection/Raw Matches/data.json", "w", encoding="utf-8") as f:
+    with open(f"Data_Collection/Raw_Matches/data.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
     print("Data saved to data.json")
 
@@ -63,14 +63,14 @@ def create_json(data, cursor):
         "cursor_last_scraped": cursor,
         "last_scrape_date": datetime.now().isoformat()
     }
-    with open('Data Collection/state.json', "w") as e:
+    with open('Data_Collection/state.json', "w") as e:
         json.dump(newstate, e, indent=2)
     print(newstate)
 
 
 
 def start_fetching():
-    with open('Data Collection/state.json', "r") as f:
+    with open('Data_Collection/state.json', "r") as f:
         state = json.load(f)
         
         if state.get("previous_cursor"):
