@@ -86,3 +86,5 @@ start_fetching()
 # Check that there is a previous cursor in the api before storing data
 # Check that there is a state file before trying to read it, if not create one with null values
 # Figure out how to store data chunks in github
+# add retry logic to fetch_matches in case of network errors
+# add error handling for json decoding issues when fetching matches
