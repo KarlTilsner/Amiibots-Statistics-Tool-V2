@@ -1,242 +1,38 @@
 {
   "data": [
     {
-      "created_at": "2020-01-19T02:28:47.033519+00:00",
+      "created_at": "2020-01-19T02:50:15.129062+00:00",
       "fp1": {
-        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
-        "id": "48875a0f-5a68-43f3-8d76-9e86c9f3172a",
-        "name": "Adam2qaz_Mii_Brawler_Chris.bin",
-        "rating": 0.0,
-        "rating_mu": 25.0,
-        "rating_sigma": 8.333333333333334,
-        "trainer_id": null,
-        "trainer_name": null
-      },
-      "fp2": {
-        "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
-        "id": "35a11870-915a-4e97-b6e9-2e587e6d1a72",
-        "name": "KingPingu_Jigglypuff_SSB_Kanye_Rest.bin",
-        "rating": 0.0,
-        "rating_mu": 25.0,
-        "rating_sigma": 8.333333333333334,
-        "trainer_id": null,
-        "trainer_name": null
-      },
-      "id": "d35d2f1a-890c-46ce-b85c-7d5cc9457e71",
-      "loser_info": {
-        "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
-        "id": "35a11870-915a-4e97-b6e9-2e587e6d1a72",
-        "name": "KingPingu_Jigglypuff_SSB_Kanye_Rest.bin",
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "6dd86b00-5a54-4ba8-b0ff-ed43f52756b1",
+        "name": "Boytoy",
         "rating": -0.8016797229894159,
-        "rating_change": -0.8016797229894159,
         "rating_mu": 20.775701662576704,
         "rating_sigma": 7.192460461855374,
-        "trainer_id": null,
-        "trainer_name": null
-      },
-      "match_metadata": {
-        "fp1_win_chance": 0.5000000150000002,
-        "match_quality": 0.4472135954999579
-      },
-      "ruleset_id": "44748ebb-e2f3-4157-90ec-029e26087ad0",
-      "winner_info": {
-        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
-        "id": "48875a0f-5a68-43f3-8d76-9e86c9f3172a",
-        "name": "Adam2qaz_Mii_Brawler_Chris.bin",
-        "rating": 7.646916951857172,
-        "rating_change": 7.646916951857172,
-        "rating_mu": 29.224298337423292,
-        "rating_sigma": 7.192460461855374,
-        "trainer_id": null,
-        "trainer_name": null
-      }
-    },
-    {
-      "created_at": "2020-01-19T02:25:49.536221+00:00",
-      "fp1": {
-        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
-        "id": "920b330c-c773-4926-a631-77d022f38637",
-        "name": "Mews",
-        "rating": 0.0,
-        "rating_mu": 25.0,
-        "rating_sigma": 8.333333333333334,
-        "trainer_id": "32632314-fed4-49fe-9d11-4d88e7827af2",
-        "trainer_name": "gforcepenne"
+        "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
+        "trainer_name": "river_tethys"
       },
       "fp2": {
-        "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
-        "id": "e3c3738b-edb4-4d78-bece-65b0d82dcc53",
-        "name": "NOT Dant3",
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "70ae890b-ce14-41fb-8842-afe209df98f4",
+        "name": "Hellboiiii",
         "rating": 0.0,
         "rating_mu": 25.0,
         "rating_sigma": 8.333333333333334,
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni"
       },
-      "id": "a669ccb2-271e-4376-84ef-bbd163d178fa",
+      "id": "f5a24539-ec2a-4067-9681-59a55bf1ea56",
       "loser_info": {
-        "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
-        "id": "e3c3738b-edb4-4d78-bece-65b0d82dcc53",
-        "name": "NOT Dant3",
-        "rating": -0.8016797229894159,
-        "rating_change": -0.8016797229894159,
-        "rating_mu": 20.775701662576704,
-        "rating_sigma": 7.192460461855374,
-        "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
-        "trainer_name": "Kangoni"
-      },
-      "match_metadata": {
-        "fp1_win_chance": 0.5000000150000002,
-        "match_quality": 0.4472135954999579
-      },
-      "ruleset_id": "44748ebb-e2f3-4157-90ec-029e26087ad0",
-      "winner_info": {
-        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
-        "id": "920b330c-c773-4926-a631-77d022f38637",
-        "name": "Mews",
-        "rating": 7.646916951857172,
-        "rating_change": 7.646916951857172,
-        "rating_mu": 29.224298337423292,
-        "rating_sigma": 7.192460461855374,
-        "trainer_id": "32632314-fed4-49fe-9d11-4d88e7827af2",
-        "trainer_name": "gforcepenne"
-      }
-    },
-    {
-      "created_at": "2020-01-19T02:22:04.568494+00:00",
-      "fp1": {
-        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
-        "id": "4add504c-ed59-4819-bde0-3e81fbb80026",
-        "name": "Dreamy_Jay-Ganondorf.bin",
-        "rating": 0.0,
-        "rating_mu": 25.0,
-        "rating_sigma": 8.333333333333334,
-        "trainer_id": null,
-        "trainer_name": null
-      },
-      "fp2": {
-        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
-        "id": "9df80125-0e8c-459e-950c-ecca8774c159",
-        "name": "Flara",
-        "rating": 0.0,
-        "rating_mu": 25.0,
-        "rating_sigma": 8.333333333333334,
-        "trainer_id": "ab7ba0e4-b4fc-4450-9b33-75fec3fb63fc",
-        "trainer_name": "Vintro_K"
-      },
-      "id": "9e7699bc-f45b-40d0-84c7-1ff88fe0ce68",
-      "loser_info": {
-        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
-        "id": "4add504c-ed59-4819-bde0-3e81fbb80026",
-        "name": "Dreamy_Jay-Ganondorf.bin",
-        "rating": -0.8016797229894159,
-        "rating_change": -0.8016797229894159,
-        "rating_mu": 20.775701662576704,
-        "rating_sigma": 7.192460461855374,
-        "trainer_id": null,
-        "trainer_name": null
-      },
-      "match_metadata": {
-        "fp1_win_chance": 0.5000000150000002,
-        "match_quality": 0.4472135954999579
-      },
-      "ruleset_id": "44748ebb-e2f3-4157-90ec-029e26087ad0",
-      "winner_info": {
-        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
-        "id": "9df80125-0e8c-459e-950c-ecca8774c159",
-        "name": "Flara",
-        "rating": 7.646916951857172,
-        "rating_change": 7.646916951857172,
-        "rating_mu": 29.224298337423292,
-        "rating_sigma": 7.192460461855374,
-        "trainer_id": "ab7ba0e4-b4fc-4450-9b33-75fec3fb63fc",
-        "trainer_name": "Vintro_K"
-      }
-    },
-    {
-      "created_at": "2020-01-19T02:18:27.591285+00:00",
-      "fp1": {
-        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
-        "id": "b4d932b0-12b6-4696-9df8-3d8b70fff5bf",
-        "name": "X R A N K",
-        "rating": 0.0,
-        "rating_mu": 25.0,
-        "rating_sigma": 8.333333333333334,
-        "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
-        "trainer_name": "Kangoni"
-      },
-      "fp2": {
-        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
-        "id": "3edd9b1a-e1f9-41e8-85d5-9894309530de",
-        "name": "Lysithea",
-        "rating": 0.0,
-        "rating_mu": 25.0,
-        "rating_sigma": 8.333333333333334,
-        "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
-        "trainer_name": "lady_cucco"
-      },
-      "id": "a0d0fa64-ea73-4918-a0b8-deb64c532539",
-      "loser_info": {
-        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
-        "id": "3edd9b1a-e1f9-41e8-85d5-9894309530de",
-        "name": "Lysithea",
-        "rating": -0.8016797229894159,
-        "rating_change": -0.8016797229894159,
-        "rating_mu": 20.775701662576704,
-        "rating_sigma": 7.192460461855374,
-        "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
-        "trainer_name": "lady_cucco"
-      },
-      "match_metadata": {
-        "fp1_win_chance": 0.5000000150000002,
-        "match_quality": 0.4472135954999579
-      },
-      "ruleset_id": "44748ebb-e2f3-4157-90ec-029e26087ad0",
-      "winner_info": {
-        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
-        "id": "b4d932b0-12b6-4696-9df8-3d8b70fff5bf",
-        "name": "X R A N K",
-        "rating": 7.646916951857172,
-        "rating_change": 7.646916951857172,
-        "rating_mu": 29.224298337423292,
-        "rating_sigma": 7.192460461855374,
-        "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
-        "trainer_name": "Kangoni"
-      }
-    },
-    {
-      "created_at": "2020-01-19T02:14:09.833047+00:00",
-      "fp1": {
-        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
-        "id": "3afcdbe3-c20f-4aba-b5ca-cd733270909e",
-        "name": "Ham",
-        "rating": -0.8016797229894159,
-        "rating_mu": 20.775701662576704,
-        "rating_sigma": 7.192460461855374,
-        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
-        "trainer_name": "migbui"
-      },
-      "fp2": {
-        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
-        "id": "cfd82fba-c19e-4552-997a-6d664e7ab384",
-        "name": "Lincoln",
-        "rating": 0.0,
-        "rating_mu": 25.0,
-        "rating_sigma": 8.333333333333334,
-        "trainer_id": "32632314-fed4-49fe-9d11-4d88e7827af2",
-        "trainer_name": "gforcepenne"
-      },
-      "id": "08cb7ae2-bdbc-46d3-bdd1-2923bc9f1461",
-      "loser_info": {
-        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
-        "id": "cfd82fba-c19e-4552-997a-6d664e7ab384",
-        "name": "Lincoln",
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "70ae890b-ce14-41fb-8842-afe209df98f4",
+        "name": "Hellboiiii",
         "rating": -1.4315683532759245,
         "rating_change": -1.4315683532759245,
         "rating_mu": 19.275657494808353,
         "rating_sigma": 6.902408616028092,
-        "trainer_id": "32632314-fed4-49fe-9d11-4d88e7827af2",
-        "trainer_name": "gforcepenne"
+        "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+        "trainer_name": "Kangoni"
       },
       "match_metadata": {
         "fp1_win_chance": 0.3675591465735686,
@@ -244,24 +40,228 @@
       },
       "ruleset_id": "44748ebb-e2f3-4157-90ec-029e26087ad0",
       "winner_info": {
-        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
-        "id": "3afcdbe3-c20f-4aba-b5ca-cd733270909e",
-        "name": "Ham",
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "6dd86b00-5a54-4ba8-b0ff-ed43f52756b1",
+        "name": "Boytoy",
         "rating": 6.153034357982495,
         "rating_change": 6.954714080971911,
         "rating_mu": 25.040101696084587,
         "rating_sigma": 6.295689112700698,
-        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
-        "trainer_name": "migbui"
+        "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
+        "trainer_name": "river_tethys"
+      }
+    },
+    {
+      "created_at": "2020-01-19T02:45:54.517866+00:00",
+      "fp1": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "7f2469f1-d61b-4246-9d53-6ed074cb385a",
+        "name": "Stabster",
+        "rating": 0.0,
+        "rating_mu": 25.0,
+        "rating_sigma": 8.333333333333334,
+        "trainer_id": "83ad055f-644c-4c4f-8a57-7f9180b0d326",
+        "trainer_name": "Zanymarshalo\n"
+      },
+      "fp2": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "58388456-ed4e-47d9-9ce8-02b758fcbb34",
+        "name": "StabLady",
+        "rating": -0.8016797229894159,
+        "rating_mu": 20.775701662576704,
+        "rating_sigma": 7.192460461855374,
+        "trainer_id": "7c6d7e35-ffe0-4c7f-ae10-32b296db2b37",
+        "trainer_name": "AuGold197"
+      },
+      "id": "6cb323e8-8459-466c-a734-b7a8721c2553",
+      "loser_info": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "58388456-ed4e-47d9-9ce8-02b758fcbb34",
+        "name": "StabLady",
+        "rating": -1.1854155703362288,
+        "rating_change": -0.3837358473468129,
+        "rating_mu": 18.29365412680011,
+        "rating_sigma": 6.493023232378779,
+        "trainer_id": "7c6d7e35-ffe0-4c7f-ae10-32b296db2b37",
+        "trainer_name": "AuGold197"
+      },
+      "match_metadata": {
+        "fp1_win_chance": 0.6324408534264314,
+        "match_quality": 0.44568474515751805
+      },
+      "ruleset_id": "44748ebb-e2f3-4157-90ec-029e26087ad0",
+      "winner_info": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "7f2469f1-d61b-4246-9d53-6ed074cb385a",
+        "name": "Stabster",
+        "rating": 6.658860676510326,
+        "rating_change": 6.658860676510326,
+        "rating_mu": 28.33179113059537,
+        "rating_sigma": 7.224310151361681,
+        "trainer_id": "83ad055f-644c-4c4f-8a57-7f9180b0d326",
+        "trainer_name": "Zanymarshalo\n"
+      }
+    },
+    {
+      "created_at": "2020-01-19T02:41:35.589665+00:00",
+      "fp1": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "716d5d46-495e-4eaa-bfd1-2081de674859",
+        "name": "Froppy",
+        "rating": 0.0,
+        "rating_mu": 25.0,
+        "rating_sigma": 8.333333333333334,
+        "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
+        "trainer_name": "spike2the9th"
+      },
+      "fp2": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "153572e1-9608-4ad2-9429-dc159a9287ad",
+        "name": "Oness",
+        "rating": 0.0,
+        "rating_mu": 25.0,
+        "rating_sigma": 8.333333333333334,
+        "trainer_id": "d54d14d0-85bb-4485-9f85-957892e8334d",
+        "trainer_name": "NinHartless"
+      },
+      "id": "482518e7-5d94-42b6-a77b-afdb6df27680",
+      "loser_info": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "716d5d46-495e-4eaa-bfd1-2081de674859",
+        "name": "Froppy",
+        "rating": -0.8016797229894159,
+        "rating_change": -0.8016797229894159,
+        "rating_mu": 20.775701662576704,
+        "rating_sigma": 7.192460461855374,
+        "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
+        "trainer_name": "spike2the9th"
+      },
+      "match_metadata": {
+        "fp1_win_chance": 0.5000000150000002,
+        "match_quality": 0.4472135954999579
+      },
+      "ruleset_id": "44748ebb-e2f3-4157-90ec-029e26087ad0",
+      "winner_info": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "153572e1-9608-4ad2-9429-dc159a9287ad",
+        "name": "Oness",
+        "rating": 7.646916951857172,
+        "rating_change": 7.646916951857172,
+        "rating_mu": 29.224298337423292,
+        "rating_sigma": 7.192460461855374,
+        "trainer_id": "d54d14d0-85bb-4485-9f85-957892e8334d",
+        "trainer_name": "NinHartless"
+      }
+    },
+    {
+      "created_at": "2020-01-19T02:36:37.038323+00:00",
+      "fp1": {
+        "character_id": "fa1ac3ba-0880-483b-b94e-9b4952e3f999",
+        "id": "4cd0a2b2-cf33-40b3-9b4c-3a77c7283cf5",
+        "name": "Dreamy_Jay-Simon.bin",
+        "rating": 7.646916951857172,
+        "rating_mu": 29.224298337423292,
+        "rating_sigma": 7.192460461855374,
+        "trainer_id": null,
+        "trainer_name": null
+      },
+      "fp2": {
+        "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
+        "id": "f0f16e6f-5589-480e-97d0-d8c72e55ae70",
+        "name": "PG | Daisy",
+        "rating": 0.0,
+        "rating_mu": 25.0,
+        "rating_sigma": 8.333333333333334,
+        "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+        "trainer_name": "Kangoni"
+      },
+      "id": "19d1f5f7-143c-4a6b-8f6d-a4d0ea5b6632",
+      "loser_info": {
+        "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
+        "id": "f0f16e6f-5589-480e-97d0-d8c72e55ae70",
+        "name": "PG | Daisy",
+        "rating": -0.004721584680414281,
+        "rating_change": -0.004721584680414281,
+        "rating_mu": 21.66820886940463,
+        "rating_sigma": 7.224310151361681,
+        "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+        "trainer_name": "Kangoni"
+      },
+      "match_metadata": {
+        "fp1_win_chance": 0.6324408534264313,
+        "match_quality": 0.4456847451575181
+      },
+      "ruleset_id": "44748ebb-e2f3-4157-90ec-029e26087ad0",
+      "winner_info": {
+        "character_id": "fa1ac3ba-0880-483b-b94e-9b4952e3f999",
+        "id": "4cd0a2b2-cf33-40b3-9b4c-3a77c7283cf5",
+        "name": "Dreamy_Jay-Simon.bin",
+        "rating": 12.227276176063548,
+        "rating_change": 4.580359224206376,
+        "rating_mu": 31.706345873199886,
+        "rating_sigma": 6.493023232378779,
+        "trainer_id": null,
+        "trainer_name": null
+      }
+    },
+    {
+      "created_at": "2020-01-19T02:32:45.560552+00:00",
+      "fp1": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "dc1ade35-d0cd-4a55-8237-6043613ae618",
+        "name": "Katchup",
+        "rating": 0.0,
+        "rating_mu": 25.0,
+        "rating_sigma": 8.333333333333334,
+        "trainer_id": "2cebbbcc-7e22-4bf2-a9dd-6277d40bb23f",
+        "trainer_name": "magarmon"
+      },
+      "fp2": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "ca7cacd4-1232-40f4-ae28-87c5e7de9411",
+        "name": "KingSlayer",
+        "rating": 0.0,
+        "rating_mu": 25.0,
+        "rating_sigma": 8.333333333333334,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot The Great"
+      },
+      "id": "05d15c5f-edd3-4ba7-b985-9812e710d131",
+      "loser_info": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "dc1ade35-d0cd-4a55-8237-6043613ae618",
+        "name": "Katchup",
+        "rating": -0.8016797229894159,
+        "rating_change": -0.8016797229894159,
+        "rating_mu": 20.775701662576704,
+        "rating_sigma": 7.192460461855374,
+        "trainer_id": "2cebbbcc-7e22-4bf2-a9dd-6277d40bb23f",
+        "trainer_name": "magarmon"
+      },
+      "match_metadata": {
+        "fp1_win_chance": 0.5000000150000002,
+        "match_quality": 0.4472135954999579
+      },
+      "ruleset_id": "44748ebb-e2f3-4157-90ec-029e26087ad0",
+      "winner_info": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "ca7cacd4-1232-40f4-ae28-87c5e7de9411",
+        "name": "KingSlayer",
+        "rating": 7.646916951857172,
+        "rating_change": 7.646916951857172,
+        "rating_mu": 29.224298337423292,
+        "rating_sigma": 7.192460461855374,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot The Great"
       }
     }
   ],
   "pagination": {
     "cursor": {
-      "next": "Sun, 19 Jan 2020 02:14:09 GMT",
-      "previous": "Sun, 19 Jan 2020 02:54:40 GMT"
+      "next": "Sun, 19 Jan 2020 02:32:45 GMT",
+      "previous": "Sun, 19 Jan 2020 03:13:25 GMT"
     },
     "per_page": 5,
-    "total_pages": 131171
+    "total_pages": 131173
   }
 }
