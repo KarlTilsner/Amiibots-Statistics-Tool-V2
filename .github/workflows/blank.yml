@@ -28,11 +28,18 @@ jobs:
       - name: Run script
         run: python Data_Collection/fetch_matches.py
 
-      - name: Commit updated data
+      - name: Commit updated data (debug)
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add "Data_Collection/Raw_Matches/data.json" "Data_Collection/state.json"
-          git diff --quiet && exit 0
-          git commit -m "Update data + state"
-          git push
+          echo "=== FILE LIST ==="
+          ls -R
+          echo "=== GIT STATUS BEFORE ADD ==="
+          git status
+          git add -A
+          echo "=== GIT STATUS AFTER ADD ==="
+          git status
+          echo "=== GIT DIFF ==="
+          git diff --cached
+          git commit -m "Debug commit" || echo "Nothing to commit"
+          git push || echo "Nothing to push"
