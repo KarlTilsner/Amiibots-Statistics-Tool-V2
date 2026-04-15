@@ -2,6 +2,7 @@ import requests
 import json
 from urllib.parse import quote
 from datetime import datetime
+import os
 
 previous_cursor = None
 
@@ -10,7 +11,7 @@ def fetch_matches(cursor=None):
 
     # URL Base values
     base_url = "https://www.amiibots.com/api/singles_matches"
-    per_page = "5"
+    per_page = "1000"
     created_at_start = "2018-11-10T00:00:00Z"
     ruleset_id = "44748ebb-e2f3-4157-90ec-029e26087ad0"
 
@@ -53,9 +54,14 @@ def fetch_matches(cursor=None):
 
 
 def create_json(data, cursor):
-    with open(f"Data_Collection/Raw_Matches/data.json", "w", encoding="utf-8") as f:
+    dt = datetime.strptime(cursor, "%a, %d %b %Y %H:%M:%S %Z")
+    safe_name = dt.strftime("%Y-%m-%d_%H-%M-%S")
+
+    print(safe_name)
+
+    with open(f"Data_Collection/Raw_Matches/{safe_name}.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
-    print("Data saved to data.json")
+    print(f"Data saved to {safe_name}.json")
 
     # update state with the new cursor
     newstate = {
@@ -70,21 +76,25 @@ def create_json(data, cursor):
 
 
 def start_fetching():
-    with open('Data_Collection/state.json', "r") as f:
-        state = json.load(f)
-        
-        if state.get("previous_cursor"):
-            fetch_matches(state["previous_cursor"])
-        else:
-            # Start from the beginning
-            fetch_matches('Sun, 19 Jan 2020 00:03:21 GMT')
+    # Check if there is a state file and if it contains a previous cursor, if so start fetching from that cursor
+    if os.path.exists('Data_Collection/state.json'):
+        with open('Data_Collection/state.json', "r") as f:
+            state = json.load(f)
+            
+            if state.get("previous_cursor"):
+                fetch_matches(state["previous_cursor"])
+            else:
+                # Start from the beginning
+                fetch_matches('Sun, 19 Jan 2020 00:03:21 GMT')
+    else:
+        # Start from the beginning
+        fetch_matches('Sun, 19 Jan 2020 00:03:21 GMT')
 
 start_fetching()
 
 
 
 # Check that there is a previous cursor in the api before storing data
-# Check that there is a state file before trying to read it, if not create one with null values
 # Figure out how to store data chunks in github
 # add retry logic to fetch_matches in case of network errors
 # add error handling for json decoding issues when fetching matches
