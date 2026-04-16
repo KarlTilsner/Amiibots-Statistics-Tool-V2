@@ -31,19 +31,18 @@ def fetch_matches(cursor=None):
         pagination = data.get("pagination", {})
         previous_cursor = pagination.get("cursor", {}).get("previous")
 
+        # Data structure to store matches and pagination info
         data_to_store = {
             "data": [],
             "pagination": pagination
         }
 
-        corrupt_matches = 0
+        # Store matches in the data_to_store dictionary, handling any potential issues with corrupt matches
         for match in matches:
             try:
                 data_to_store["data"].append(match)
-
             except Exception as e:
-                corrupt_matches += 1
-                print(f"Corrupt match at {match.get('created_at')}: {e}")
+                print(f"Possible corrupt match/s: {e}")
 
         create_json(data_to_store, cursor)
         return
@@ -57,11 +56,9 @@ def create_json(data, cursor):
     dt = datetime.strptime(cursor, "%a, %d %b %Y %H:%M:%S %Z")
     safe_name = dt.strftime("%Y-%m-%d_%H-%M-%S")
 
-    print(safe_name)
-
     with open(f"Data_Collection/Raw_Matches/{safe_name}.json", "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2)
-    print(f"Data saved to {safe_name}.json")
+    print(f"Data saved to {safe_name}.json \n")
 
     # update state with the new cursor
     newstate = {
@@ -71,7 +68,6 @@ def create_json(data, cursor):
     }
     with open('Data_Collection/state.json', "w") as e:
         json.dump(newstate, e, indent=2)
-    print(newstate)
 
 
 
@@ -95,6 +91,5 @@ start_fetching()
 
 
 # Check that there is a previous cursor in the api before storing data
-# Figure out how to store data chunks in github
 # add retry logic to fetch_matches in case of network errors
-# add error handling for json decoding issues when fetching matches
+# add error handling for json decoding issues when fetching matches (Matches with null values might be fine, can remove them later during processing)
