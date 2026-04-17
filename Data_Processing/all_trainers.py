@@ -16,6 +16,7 @@ def main(match):
             trainer_name = m[player]["trainer_name"]
             amiibo_id = m[player]["id"]
             amiibo_name = m[player]["name"]
+            character_id = m[player]["character_id"]
 
             # Attempt to append the IDs to the respective trainer ID json
             trainer_file = f"Data/Trainers/{trainer_id}.json"
@@ -25,14 +26,20 @@ def main(match):
 
                 # If the trainer ID json does exist, check if the amiibo ID is already in
                 if amiibo_id not in trainer_data["amiibo"]:
-                    trainer_data["amiibo"][amiibo_id] = amiibo_name
+                    trainer_data["amiibo"][amiibo_id] = {
+                        "name": amiibo_name,
+                        "character_id": character_id
+                    }
                     with open(trainer_file, "w", encoding="utf-8") as f:
                         json.dump(trainer_data, f, indent=2, ensure_ascii=False)
 
                 # If the amiibo ID is already in, update the name of the amiibo if it is different
                 else:
-                    if trainer_data["amiibo"][amiibo_id] != amiibo_name:
-                        trainer_data["amiibo"][amiibo_id] = amiibo_name
+                    if trainer_data["amiibo"][amiibo_id]["name"] != amiibo_name:
+                        trainer_data["amiibo"][amiibo_id] = {
+                            "name": amiibo_name,
+                            "character_id": character_id
+                        }
                         with open(trainer_file, "w", encoding="utf-8") as f:
                             json.dump(trainer_data, f, indent=2, ensure_ascii=False)
 
@@ -42,7 +49,10 @@ def main(match):
                     "trainer_id": trainer_id,
                     "trainer_name": trainer_name,
                     "amiibo": {
-                        amiibo_id: amiibo_name
+                        amiibo_id: {
+                            "name": amiibo_name,
+                            "character_id": character_id
+                        }
                     }
                 }
                 with open(trainer_file, "w", encoding="utf-8") as f:

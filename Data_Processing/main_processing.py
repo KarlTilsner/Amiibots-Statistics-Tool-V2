@@ -1,5 +1,6 @@
 import all_trainers as all_trainers
 import all_amiibo as all_amiibo
+import all_characters as all_characters
 import json
 from urllib.parse import quote
 from datetime import datetime
@@ -26,6 +27,9 @@ def run_functions(f):
 
 
 def main():
+    # Fetch all characters data and save it to a json file if it doesn't already exist
+    all_characters.main()
+
     # Sort those by their date/filename
     files.sort()
 
