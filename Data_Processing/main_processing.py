@@ -21,6 +21,7 @@ def run_functions(f):
         # Call the functions to process the matches
         all_trainers.main(data)
         all_amiibo.main(data)
+        print(f"Finished processing file: {f}\n")
 
 
 
@@ -42,7 +43,6 @@ def main():
         if last_processed_file and filename <= last_processed_file:
             continue
         
-        print(f"Processing: {filename}")
         run_functions(filename)
 
         # Update last processed file
