@@ -1,11 +1,51 @@
-# This script will collect all unique trainer IDs and store the IDs of all amiibo associated with each trainer ID
+import os
+import json
 
+
+
+# This script will collect all unique trainer IDs and store the IDs of all amiibo associated with each trainer ID
 def main(match):
-    # Get the IDs of the p1 and p2 amiibo
-    # Attempt to append the IDs to the respective trainer ID json
-    # If the trainer ID json doesn't exist, create it and add the amiibo ID to it
-    # If the trainer ID json does exist, check if the amiibo ID is already in
-    # If the amiibo ID is already in, update the name of the amiibo if it is different
-    print(f"Processing match: {len(match['data'])}")
+    print(f"Processing {len(match['data'])} matches")
+
+    os.makedirs("Data/Trainers", exist_ok=True)
+
+    for m in match["data"]:
+        for player in ["fp1", "fp2"]:
+            # Get the IDs of the p1 and p2 amiibo and trainer
+            trainer_id = m[player]["trainer_id"]
+            trainer_name = m[player]["trainer_name"]
+            amiibo_id = m[player]["id"]
+            amiibo_name = m[player]["name"]
+
+            # Attempt to append the IDs to the respective trainer ID json
+            trainer_file = f"Data/Trainers/{trainer_id}.json"
+            if os.path.exists(trainer_file):
+                with open(trainer_file, "r", encoding="utf-8") as f:
+                    trainer_data = json.load(f)
+
+                # If the trainer ID json does exist, check if the amiibo ID is already in
+                if amiibo_id not in trainer_data["amiibo"]:
+                    trainer_data["amiibo"][amiibo_id] = amiibo_name
+                    with open(trainer_file, "w", encoding="utf-8") as f:
+                        json.dump(trainer_data, f, indent=2, ensure_ascii=False)
+
+                # If the amiibo ID is already in, update the name of the amiibo if it is different
+                else:
+                    if trainer_data["amiibo"][amiibo_id] != amiibo_name:
+                        trainer_data["amiibo"][amiibo_id] = amiibo_name
+                        with open(trainer_file, "w", encoding="utf-8") as f:
+                            json.dump(trainer_data, f, indent=2, ensure_ascii=False)
+
+            # If the trainer ID json doesn't exist, create it and add the amiibo ID to it
+            else:
+                new_trainer_data = {
+                    "trainer_id": trainer_id,
+                    "trainer_name": trainer_name,
+                    "amiibo": {
+                        amiibo_id: amiibo_name
+                    }
+                }
+                with open(trainer_file, "w", encoding="utf-8") as f:
+                    json.dump(new_trainer_data, f, indent=2, ensure_ascii=False)
 
     return

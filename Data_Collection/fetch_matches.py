@@ -59,7 +59,7 @@ def create_json(data, cursor):
     safe_name = dt.strftime("%Y-%m-%d_%H-%M-%S")
 
     with open(f"Data_Collection/Raw_Matches/{safe_name}.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2)
+        json.dump(data, f, indent=2, ensure_ascii=False)
     print(f"Data saved to {safe_name}.json \n")
 
     # update state with the new cursor
@@ -68,15 +68,15 @@ def create_json(data, cursor):
         "cursor_last_scraped": cursor,
         "last_scrape_date": datetime.now().isoformat()
     }
-    with open('Data_Collection/state.json', "w") as e:
-        json.dump(newstate, e, indent=2)
+    with open('Data_Collection/state.json', "w", encoding="utf-8") as e:
+        json.dump(newstate, e, indent=2, ensure_ascii=False)
 
 
 
 def start_fetching():
     # Check if there is a state file and if it contains a previous cursor, if so start fetching from that cursor
     if os.path.exists('Data_Collection/state.json'):
-        with open('Data_Collection/state.json', "r") as f:
+        with open('Data_Collection/state.json', "r", encoding="utf-8") as f:
             state = json.load(f)
             
             if state.get("previous_cursor"):

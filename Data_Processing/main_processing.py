@@ -15,7 +15,7 @@ files = [f for f in os.listdir(folder) if f.endswith(".json")]
 
 def run_functions(f):
     print(f"Opening file: {f}")
-    with open(os.path.join(folder, f), "r") as file:
+    with open(os.path.join(folder, f), "r", encoding="utf-8") as file:
         data = json.load(file)
 
         # Call the functions to process the matches
@@ -32,7 +32,7 @@ def main():
 
     # Check for a state file and load the date of the last processed match, if it exists
     if os.path.exists('Data_Processing/state.json'):
-        with open('Data_Processing/state.json', "r") as f:
+        with open('Data_Processing/state.json', "r", encoding="utf-8") as f:
             state = json.load(f)
             last_processed_file = state.get("last_processed_file")
 
@@ -49,11 +49,11 @@ def main():
         last_processed_file = filename
 
     # Update the state file with the date of the last processed match
-    with open('Data_Processing/state.json', "w") as f:
+    with open('Data_Processing/state.json', "w", encoding="utf-8") as f:
         newstate = {
             "last_processed_file": last_processed_file,
             "last_processed_date": datetime.now().isoformat()
         }
-        json.dump(newstate, f , indent=2)
+        json.dump(newstate, f , indent=2, ensure_ascii=False)
 
 main()
