@@ -20,7 +20,7 @@ def run_functions(f):
 
         # Call the functions to process the matches
         all_trainers.main(data)
-        # all_amiibo.main(data)
+        all_amiibo.main(data)
 
 
 
