@@ -34,5 +34,5 @@ jobs:
           git config user.email "actions@github.com"
           git add "Data_Collection"
           git diff --cached --quiet && echo "No changes to commit" && exit 0
-          git commit -m "Update data + state"
+          git commit -m "Added new match data and updated state file"
           git push
