@@ -10,3 +10,7 @@ def main(match):
     os.makedirs("Data/Amiibo", exist_ok=True)
 
     return
+
+
+
+# Null match handling

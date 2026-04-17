@@ -59,3 +59,6 @@ def main(match):
                     json.dump(new_trainer_data, f, indent=2, ensure_ascii=False)
 
     return
+
+
+# Null match handling

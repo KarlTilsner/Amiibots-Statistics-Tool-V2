@@ -97,4 +97,4 @@ for _ in range(10):  # Loop to fetch multiple pages of matches
 
 # Check that there is a previous cursor in the api before storing data
 # add retry logic to fetch_matches in case of network errors
-# add error handling for json decoding issues when fetching matches (Matches with null values might be fine, can remove them later during processing)
+# Null match handling, skip these matches completely
