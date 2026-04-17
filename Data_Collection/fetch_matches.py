@@ -91,7 +91,8 @@ def start_fetching():
 
 
 for _ in range(10):  # Loop to fetch multiple pages of matches
-    start_fetching()
+    # start_fetching()
+    pass
 
 
 
