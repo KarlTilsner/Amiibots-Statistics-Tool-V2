@@ -5,11 +5,11 @@ import json
 
 # This script will collect all unique trainer IDs and store the IDs of all amiibo associated with each trainer ID
 def main(match):
-    print(f"Processing Trainers from {len(match['data'])} matches")
+    print(f"Processing Trainers from {len(match)} matches")
 
     os.makedirs("Data/Trainers", exist_ok=True)
 
-    for m in match["data"]:
+    for m in match:
         for player in ["fp1", "fp2"]:
             # Get the IDs of the p1 and p2 amiibo and trainer
             trainer_id = m[player]["trainer_id"]
