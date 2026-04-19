@@ -224,6 +224,20 @@
     }
   },
   {
+    "name": "Gaogaen",
+    "id": "6cb23e37-dc59-473b-a8ee-1a593a415f75",
+    "playable_character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+    "wins": 93.0,
+    "losses": 86.0,
+    "rating": 41.27492,
+    "rating_mu": 43.73728,
+    "match_selection_status": "ACTIVE",
+    "user": {
+      "id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+      "twitch_user_name": "beta_dude"
+    }
+  },
+  {
     "name": "DaronPrime",
     "id": "e1cb6f78-0c83-4bf3-8929-37bd6d2f8e4e",
     "playable_character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
@@ -235,20 +249,6 @@
     "user": {
       "id": "8e7a7b23-d3d2-49e6-9b0c-dcb86ce95cf2",
       "twitch_user_name": "Crunchy567"
-    }
-  },
-  {
-    "name": "Gaogaen",
-    "id": "6cb23e37-dc59-473b-a8ee-1a593a415f75",
-    "playable_character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
-    "wins": 92.0,
-    "losses": 86.0,
-    "rating": 41.23278,
-    "rating_mu": 43.692875,
-    "match_selection_status": "ACTIVE",
-    "user": {
-      "id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
-      "twitch_user_name": "beta_dude"
     }
   },
   {
@@ -1764,20 +1764,6 @@
     }
   },
   {
-    "name": "Legs",
-    "id": "8bb9f89e-de67-473e-b167-ae296d2927b9",
-    "playable_character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
-    "wins": 167.0,
-    "losses": 192.0,
-    "rating": 36.80571,
-    "rating_mu": 39.231346,
-    "match_selection_status": "STANDBY",
-    "user": {
-      "id": "b82c6d43-d80c-4195-99a0-67355d12115d",
-      "twitch_user_name": "Rukasu9078"
-    }
-  },
-  {
     "name": "Are U OK?",
     "id": "380e3168-5c59-47ab-ba75-41e885afc266",
     "playable_character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
@@ -1831,6 +1817,20 @@
     "user": {
       "id": "c1a8adfd-561e-4b61-9870-5e000224d33f",
       "twitch_user_name": "Mario_Dude35"
+    }
+  },
+  {
+    "name": "Legs",
+    "id": "8bb9f89e-de67-473e-b167-ae296d2927b9",
+    "playable_character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
+    "wins": 167.0,
+    "losses": 193.0,
+    "rating": 36.75965,
+    "rating_mu": 39.18816,
+    "match_selection_status": "STANDBY",
+    "user": {
+      "id": "b82c6d43-d80c-4195-99a0-67355d12115d",
+      "twitch_user_name": "Rukasu9078"
     }
   },
   {
@@ -5817,7 +5817,7 @@
     "losses": 5.0,
     "rating": 33.39927,
     "rating_mu": 39.012478,
-    "match_selection_status": "ACTIVE",
+    "match_selection_status": "STANDBY",
     "user": {
       "id": "d7805111-3127-4140-80fc-a8788cbe9976",
       "twitch_user_name": "techmode5"
@@ -25270,6 +25270,20 @@
     }
   },
   {
+    "name": "Señor",
+    "id": "f520a2ba-a265-4cf6-9ba6-5d73d6d78f1e",
+    "playable_character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+    "wins": 10.0,
+    "losses": 4.0,
+    "rating": 27.421629,
+    "rating_mu": 33.920403,
+    "match_selection_status": "ACTIVE",
+    "user": {
+      "id": "1b2f2208-154e-44fd-a520-f5a043b3e7ba",
+      "twitch_user_name": "HyperKritical"
+    }
+  },
+  {
     "name": "Moose",
     "id": "f1cba1b2-0a2c-4bdb-9a4f-897d06e47e30",
     "playable_character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
@@ -27146,20 +27160,6 @@
     }
   },
   {
-    "name": "Pythra",
-    "id": "ceb07279-9303-4d9e-9106-135f15b8fc22",
-    "playable_character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
-    "wins": 42.0,
-    "losses": 29.0,
-    "rating": 26.90365,
-    "rating_mu": 30.005932,
-    "match_selection_status": "ACTIVE",
-    "user": {
-      "id": "b79f806f-2030-410d-85f6-d355c50c2a5f",
-      "twitch_user_name": "cr3at1v123"
-    }
-  },
-  {
     "name": "Hasselhoft",
     "id": "1fc0763d-a293-4343-bede-2424b2163e5b",
     "playable_character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
@@ -27398,20 +27398,6 @@
     }
   },
   {
-    "name": "Señor",
-    "id": "f520a2ba-a265-4cf6-9ba6-5d73d6d78f1e",
-    "playable_character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
-    "wins": 9.0,
-    "losses": 4.0,
-    "rating": 26.856316,
-    "rating_mu": 33.493443,
-    "match_selection_status": "ACTIVE",
-    "user": {
-      "id": "1b2f2208-154e-44fd-a520-f5a043b3e7ba",
-      "twitch_user_name": "HyperKritical"
-    }
-  },
-  {
     "name": "City Boy",
     "id": "15c4d90e-085c-4839-910f-4149ed53d1ae",
     "playable_character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
@@ -27619,6 +27605,20 @@
     "user": {
       "id": "86bfb9cf-971e-4bfa-a68d-0a875cd671dd",
       "twitch_user_name": "hjroels02"
+    }
+  },
+  {
+    "name": "Pythra",
+    "id": "ceb07279-9303-4d9e-9106-135f15b8fc22",
+    "playable_character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+    "wins": 42.0,
+    "losses": 30.0,
+    "rating": 26.79848,
+    "rating_mu": 29.892422,
+    "match_selection_status": "ACTIVE",
+    "user": {
+      "id": "b79f806f-2030-410d-85f6-d355c50c2a5f",
+      "twitch_user_name": "cr3at1v123"
     }
   },
   {
@@ -52458,6 +52458,20 @@
     }
   },
   {
+    "name": "Turnip",
+    "id": "62400b8e-4fa9-4851-8dec-4d1cb332a23b",
+    "playable_character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+    "wins": 146.0,
+    "losses": 141.0,
+    "rating": 20.29392,
+    "rating_mu": 22.77188,
+    "match_selection_status": "STANDBY",
+    "user": {
+      "id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
+      "twitch_user_name": "kbee997"
+    }
+  },
+  {
     "name": "Paperplane",
     "id": "bd669a91-08f3-4331-b285-91894a83070d",
     "playable_character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
@@ -52595,20 +52609,6 @@
     "user": {
       "id": "5149ad84-6876-49da-ad17-a50116795daf",
       "twitch_user_name": "StaplesTV_"
-    }
-  },
-  {
-    "name": "Turnip",
-    "id": "62400b8e-4fa9-4851-8dec-4d1cb332a23b",
-    "playable_character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
-    "wins": 145.0,
-    "losses": 141.0,
-    "rating": 20.24663,
-    "rating_mu": 22.722761,
-    "match_selection_status": "STANDBY",
-    "user": {
-      "id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
-      "twitch_user_name": "kbee997"
     }
   },
   {
@@ -55930,20 +55930,6 @@
     }
   },
   {
-    "name": "Balls",
-    "id": "771e4b5a-86b2-4be4-aebb-6ce1d8410883",
-    "playable_character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
-    "wins": 20.0,
-    "losses": 48.0,
-    "rating": 19.029991,
-    "rating_mu": 22.29398,
-    "match_selection_status": "STANDBY",
-    "user": {
-      "id": "3d0239b2-91b4-4705-bfc3-0e69a9b7052e",
-      "twitch_user_name": "stickguy2001"
-    }
-  },
-  {
     "name": "Linkle",
     "id": "0b3c37b8-f2f6-4abe-a791-712cecc09510",
     "playable_character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
@@ -56109,6 +56095,20 @@
     "user": {
       "id": "0dac8a24-5ed7-4fc9-9c00-5674617b4fab",
       "twitch_user_name": "JohnLML123"
+    }
+  },
+  {
+    "name": "Balls",
+    "id": "771e4b5a-86b2-4be4-aebb-6ce1d8410883",
+    "playable_character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+    "wins": 20.0,
+    "losses": 49.0,
+    "rating": 18.913776,
+    "rating_mu": 22.156492,
+    "match_selection_status": "STANDBY",
+    "user": {
+      "id": "3d0239b2-91b4-4705-bfc3-0e69a9b7052e",
+      "twitch_user_name": "stickguy2001"
     }
   },
   {
@@ -56753,6 +56753,20 @@
     "user": {
       "id": "cafb9f3e-3bf0-4595-a167-2c91996ed8f5",
       "twitch_user_name": "superberry587"
+    }
+  },
+  {
+    "name": "Ideal",
+    "id": "28c5f217-edbf-4467-bf07-9d03f03c2941",
+    "playable_character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+    "wins": 13.0,
+    "losses": 13.0,
+    "rating": 18.619188,
+    "rating_mu": 23.407043,
+    "match_selection_status": "ACTIVE",
+    "user": {
+      "id": "68d166a5-c256-4482-b7ba-fce46a9b9a24",
+      "twitch_user_name": "itsecho14"
     }
   },
   {
@@ -57621,20 +57635,6 @@
     "user": {
       "id": "5a615e8e-4b01-4886-a338-1bdc6c7ccf8b",
       "twitch_user_name": "gurtrude27"
-    }
-  },
-  {
-    "name": "Ideal",
-    "id": "28c5f217-edbf-4467-bf07-9d03f03c2941",
-    "playable_character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
-    "wins": 12.0,
-    "losses": 13.0,
-    "rating": 18.215155,
-    "rating_mu": 23.100086,
-    "match_selection_status": "ACTIVE",
-    "user": {
-      "id": "68d166a5-c256-4482-b7ba-fce46a9b9a24",
-      "twitch_user_name": "itsecho14"
     }
   },
   {
@@ -64960,20 +64960,6 @@
     }
   },
   {
-    "name": "Some Suit",
-    "id": "ef45a99e-165b-4567-b5d1-74abf88ca4fe",
-    "playable_character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
-    "wins": 10.0,
-    "losses": 17.0,
-    "rating": 14.099666,
-    "rating_mu": 18.77457,
-    "match_selection_status": "ACTIVE",
-    "user": {
-      "id": "9793ce2c-59b0-4862-a570-9333c10e407b",
-      "twitch_user_name": "El__zor"
-    }
-  },
-  {
     "name": "GogogoBall",
     "id": "7ecb8c03-a4cd-45fd-8690-a5cacab1aec0",
     "playable_character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
@@ -65125,6 +65111,20 @@
     "user": {
       "id": "74b11748-df73-4895-a914-7f048a54ecc8",
       "twitch_user_name": "Dempsey342"
+    }
+  },
+  {
+    "name": "Some Suit",
+    "id": "ef45a99e-165b-4567-b5d1-74abf88ca4fe",
+    "playable_character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+    "wins": 10.0,
+    "losses": 18.0,
+    "rating": 13.991212,
+    "rating_mu": 18.600761,
+    "match_selection_status": "ACTIVE",
+    "user": {
+      "id": "9793ce2c-59b0-4862-a570-9333c10e407b",
+      "twitch_user_name": "El__zor"
     }
   },
   {
@@ -71141,7 +71141,7 @@
     "losses": 21.0,
     "rating": -4.0567966,
     "rating_mu": 1.2588468,
-    "match_selection_status": "STANDBY",
+    "match_selection_status": "ACTIVE",
     "user": {
       "id": "d7805111-3127-4140-80fc-a8788cbe9976",
       "twitch_user_name": "techmode5"
