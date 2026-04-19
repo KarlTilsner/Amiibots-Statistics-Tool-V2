@@ -26,7 +26,7 @@ jobs:
           pip install requests
 
       - name: Run script
-        run: python Data_Collection/fetch_matches.py
+        run: python Data_Collection/main_fetching.py
 
       - name: Commit updated data
         run: |
@@ -34,5 +34,5 @@ jobs:
           git config user.email "actions@github.com"
           git add "Data_Collection"
           git diff --cached --quiet && echo "No changes to commit" && exit 0
-          git commit -m "Added new match data and updated state file"
+          git commit -m "Added new data from Amiibots"
           git push

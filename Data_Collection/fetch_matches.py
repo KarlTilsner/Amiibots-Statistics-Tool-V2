@@ -9,6 +9,8 @@ cursor = 'Sun, 19 Jan 2020 00:03:21 GMT'
 latest_scraped_match_date = "2001-05-16T00:00:00Z"
 data_to_store = []
 num_matches = 100
+ruleset_id = "44748ebb-e2f3-4157-90ec-029e26087ad0"
+
 
 
 def fetch_matches():
@@ -18,8 +20,7 @@ def fetch_matches():
     base_url = "https://www.amiibots.com/api/singles_matches"
     per_page = f"{num_matches}"
     created_at_start = "2018-11-10T00:00:00Z"
-    ruleset_id = "44748ebb-e2f3-4157-90ec-029e26087ad0"
-
+    
     # Construct full query string
     url = f"{base_url}?per_page={per_page}&created_at_start={quote(created_at_start)}&ruleset_id={ruleset_id}"
     if cursor:
@@ -78,13 +79,13 @@ def create_json():
         return
 
     # Make sure directory exists
-    os.makedirs("Data_Collection/Raw_Matches", exist_ok=True)
+    os.makedirs(f"Raw_Matches/{ruleset_id}", exist_ok=True)
     
     # Create a safe filename using the cursor timestamp
     dt = datetime.strptime(cursor, "%a, %d %b %Y %H:%M:%S %Z")
     safe_name = dt.strftime("%Y-%m-%d_%H-%M-%S")
 
-    with open(f"Data_Collection/Raw_Matches/{safe_name}-{len(data_to_store)}.json", "w", encoding="utf-8") as f:
+    with open(f"Raw_Matches/{ruleset_id}/{safe_name}-{len(data_to_store)}.json", "w", encoding="utf-8") as f:
         json.dump(data_to_store, f, indent=2, ensure_ascii=False)
     print(f"Data saved to {safe_name}.json \n")
 
@@ -138,8 +139,6 @@ def main():
         start_fetching()
 
     create_json()
-
-main()
 
 
 

@@ -1,0 +1,52 @@
+import os
+import json
+import requests
+
+
+
+def main():
+    print("Fetching leaderboard data...")
+
+    URL = "https://www.amiibots.com/api/amiibo?per_page=2204355"
+
+    try:
+        response = requests.get(URL)
+        response.raise_for_status()
+        data = response.json()
+
+        # Filter useless data
+        data_to_save = []
+        for item in data["data"]:
+            filtered_item = {
+                "attack_stat": item["attack_stat"],
+                "defense_stat": item["defense_stat"],
+                "spirit_skill_ids": item["spirit_skill_ids"],
+
+                "name": item["name"],
+                "id": item["id"],
+                "playable_character_id": item["playable_character_id"],
+
+                "wins": item["wins"],
+                "losses": item["losses"],
+
+                "rating": item["rating"],
+                "rating_mu": item["rating_mu"],
+                
+                "match_selection_status": item["match_selection_status"],
+                
+                "user": {
+                    "id": item["user"]["id"],
+                    "twitch_user_name": item["user"]["twitch_user_name"]
+                },
+            }
+            data_to_save.append(filtered_item)
+
+        # Save the filtered data to a json file
+        os.makedirs("Data", exist_ok=True)
+        with open("Data/leaderboard.json", "w", encoding="utf-8") as f:
+            json.dump(data_to_save, f, indent=2, ensure_ascii=False)
+
+        print("Leaderboard data saved/updated successfully. \n")
+
+    except requests.RequestException as e:
+        print(f"Error fetching leaderboard data: {e} \n")
