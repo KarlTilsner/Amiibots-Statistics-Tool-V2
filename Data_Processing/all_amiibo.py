@@ -13,4 +13,6 @@ def main(match, ruleset_id):
 
 
 
-# Null match handling
+# Store every unique amiibo and a shortened version of their match history
+# Each amiibo will have a file named after their ID
+# Basic details such as name, rating, trainer, etc. will be stored, along with a list of their matches
