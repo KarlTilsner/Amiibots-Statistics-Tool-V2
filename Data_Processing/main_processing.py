@@ -7,21 +7,21 @@ import os
 
 
 
-def run_functions(folder, f):
-    print(f"Opening file: {f}")
-    with open(os.path.join(folder, f), "r", encoding="utf-8") as file:
+def run_functions(folder, filename, ruleset_id):
+    print(f"Opening file: {filename}")
+    with open(os.path.join(folder, filename), "r", encoding="utf-8") as file:
         data = json.load(file)
 
         # Call the functions to process the matches
-        all_trainers.main(data)
-        all_amiibo.main(data)
-        print(f"Finished processing file: {f}\n")
+        all_trainers.main(data, ruleset_id)
+        all_amiibo.main(data, ruleset_id)
+        print(f"Finished processing file: {filename}\n")
 
 
 
 def process_files(ruleset_id):
     # Get filenames of all raw match jsons
-    folder = f"Data_Collection/Raw_Matches/{ruleset_id}"
+    folder = f"Raw_Matches/{ruleset_id}"
     files = [f for f in os.listdir(folder) if f.endswith(".json")]
 
     # Sort those by their date/filename
@@ -41,7 +41,7 @@ def process_files(ruleset_id):
         if last_processed_file and filename <= last_processed_file:
             continue
         
-        run_functions(folder, filename)
+        run_functions(folder, filename, ruleset_id)
 
         # Update last processed file
         last_processed_file = filename
