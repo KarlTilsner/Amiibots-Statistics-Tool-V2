@@ -18,10 +18,6 @@ def main(ruleset_id):
         data_to_save = []
         for item in data["data"]:
             filtered_item = {
-                "attack_stat": item["attack_stat"],
-                "defense_stat": item["defense_stat"],
-                "spirit_skill_ids": item["spirit_skill_ids"],
-
                 "name": item["name"],
                 "id": item["id"],
                 "playable_character_id": item["playable_character_id"],

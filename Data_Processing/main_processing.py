@@ -7,13 +7,7 @@ import os
 
 
 
-# Get filenames of all raw match jsons
-folder = "Data_Collection/Raw_Matches"
-files = [f for f in os.listdir(folder) if f.endswith(".json")]
-
-
-
-def run_functions(f):
+def run_functions(folder, f):
     print(f"Opening file: {f}")
     with open(os.path.join(folder, f), "r", encoding="utf-8") as file:
         data = json.load(file)
@@ -25,7 +19,11 @@ def run_functions(f):
 
 
 
-def main():
+def process_files(ruleset_id):
+    # Get filenames of all raw match jsons
+    folder = f"Data_Collection/Raw_Matches/{ruleset_id}"
+    files = [f for f in os.listdir(folder) if f.endswith(".json")]
+
     # Sort those by their date/filename
     files.sort()
 
@@ -43,7 +41,7 @@ def main():
         if last_processed_file and filename <= last_processed_file:
             continue
         
-        run_functions(filename)
+        run_functions(folder, filename)
 
         # Update last processed file
         last_processed_file = filename
@@ -55,3 +53,22 @@ def main():
             "last_processed_date": datetime.now().isoformat()
         }
         json.dump(newstate, f , indent=2, ensure_ascii=False)
+
+
+
+def main():
+    print("Starting data processing... \n")
+
+    with open('Data/rulesets.json', "r", encoding="utf-8") as f:
+        rulesets = json.load(f)
+        
+    for ruleset in rulesets:
+        print(f"Processing data for ruleset: {ruleset['name']}")
+        process_files(ruleset["id"])
+
+    print("All data processing complete. \n")
+
+
+
+if __name__ == "__main__":
+    main()
