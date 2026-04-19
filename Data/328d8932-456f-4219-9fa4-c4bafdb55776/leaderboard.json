@@ -3063,6 +3063,27 @@
     }
   },
   {
+    "attack_stat": 1700,
+    "defense_stat": 2500,
+    "spirit_skill_ids": [
+      1,
+      18,
+      117
+    ],
+    "name": "Target HQ",
+    "id": "63bae9ec-8431-48b1-9f31-b40ceaf843da",
+    "playable_character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+    "wins": 30.0,
+    "losses": 21.0,
+    "rating": 36.308414,
+    "rating_mu": 39.76024,
+    "match_selection_status": "ACTIVE",
+    "user": {
+      "id": "932a9ec7-b463-41d8-bc40-59e2e396a8ed",
+      "twitch_user_name": "ricola7ttv"
+    }
+  },
+  {
     "attack_stat": 2100,
     "defense_stat": 2100,
     "spirit_skill_ids": [
@@ -3202,27 +3223,6 @@
     "user": {
       "id": "345febd3-6433-4ed8-addb-b0ead57bf565",
       "twitch_user_name": "ethanexion"
-    }
-  },
-  {
-    "attack_stat": 1700,
-    "defense_stat": 2500,
-    "spirit_skill_ids": [
-      1,
-      18,
-      117
-    ],
-    "name": "Target HQ",
-    "id": "63bae9ec-8431-48b1-9f31-b40ceaf843da",
-    "playable_character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
-    "wins": 29.0,
-    "losses": 21.0,
-    "rating": 36.158897,
-    "rating_mu": 39.63637,
-    "match_selection_status": "ACTIVE",
-    "user": {
-      "id": "932a9ec7-b463-41d8-bc40-59e2e396a8ed",
-      "twitch_user_name": "ricola7ttv"
     }
   },
   {
@@ -5561,26 +5561,6 @@
     }
   },
   {
-    "attack_stat": 2000,
-    "defense_stat": 2200,
-    "spirit_skill_ids": [
-      50,
-      113
-    ],
-    "name": "Raven Beak",
-    "id": "0b52f1ed-a510-4484-986f-6a75fa5cc0b3",
-    "playable_character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
-    "wins": 192.0,
-    "losses": 202.0,
-    "rating": 34.704758,
-    "rating_mu": 37.144833,
-    "match_selection_status": "STANDBY",
-    "user": {
-      "id": "d7f44591-9713-4c95-b840-3607f6a73d24",
-      "twitch_user_name": "luckman21"
-    }
-  },
-  {
     "attack_stat": 2100,
     "defense_stat": 2100,
     "spirit_skill_ids": [
@@ -5761,6 +5741,26 @@
     "user": {
       "id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
       "twitch_user_name": "beta_dude"
+    }
+  },
+  {
+    "attack_stat": 2000,
+    "defense_stat": 2200,
+    "spirit_skill_ids": [
+      50,
+      113
+    ],
+    "name": "Raven Beak",
+    "id": "0b52f1ed-a510-4484-986f-6a75fa5cc0b3",
+    "playable_character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+    "wins": 192.0,
+    "losses": 203.0,
+    "rating": 34.6427,
+    "rating_mu": 37.083523,
+    "match_selection_status": "STANDBY",
+    "user": {
+      "id": "d7f44591-9713-4c95-b840-3607f6a73d24",
+      "twitch_user_name": "luckman21"
     }
   },
   {
@@ -6781,27 +6781,6 @@
     "attack_stat": 2100,
     "defense_stat": 2100,
     "spirit_skill_ids": [
-      15,
-      51,
-      85
-    ],
-    "name": "MasterGuin",
-    "id": "0892e21e-2fb0-4c16-9f92-041cfd69f04e",
-    "playable_character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
-    "wins": 1181.0,
-    "losses": 957.0,
-    "rating": 34.110043,
-    "rating_mu": 36.495586,
-    "match_selection_status": "ACTIVE",
-    "user": {
-      "id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
-      "twitch_user_name": "improv_195"
-    }
-  },
-  {
-    "attack_stat": 2100,
-    "defense_stat": 2100,
-    "spirit_skill_ids": [
       51,
       51,
       85
@@ -6938,6 +6917,27 @@
     "user": {
       "id": "26a79307-74a7-4d40-8f4c-d74a38878187",
       "twitch_user_name": "Nightmare5135"
+    }
+  },
+  {
+    "attack_stat": 2100,
+    "defense_stat": 2100,
+    "spirit_skill_ids": [
+      15,
+      51,
+      85
+    ],
+    "name": "MasterGuin",
+    "id": "0892e21e-2fb0-4c16-9f92-041cfd69f04e",
+    "playable_character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+    "wins": 1181.0,
+    "losses": 958.0,
+    "rating": 34.03846,
+    "rating_mu": 36.425034,
+    "match_selection_status": "ACTIVE",
+    "user": {
+      "id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+      "twitch_user_name": "improv_195"
     }
   },
   {
@@ -8604,6 +8604,26 @@
     }
   },
   {
+    "attack_stat": 2130,
+    "defense_stat": 2070,
+    "spirit_skill_ids": [
+      18,
+      178
+    ],
+    "name": "Hi-Litre",
+    "id": "4067c009-928a-4fb6-9b35-f590c65caf4f",
+    "playable_character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+    "wins": 14.0,
+    "losses": 13.0,
+    "rating": 33.346054,
+    "rating_mu": 37.958817,
+    "match_selection_status": "ACTIVE",
+    "user": {
+      "id": "98a0f133-1669-4320-a3ee-9df476691b19",
+      "twitch_user_name": "kixelmon"
+    }
+  },
+  {
     "attack_stat": 2100,
     "defense_stat": 2100,
     "spirit_skill_ids": [
@@ -9734,26 +9754,6 @@
     "user": {
       "id": "8da52313-7867-4448-992b-710b18dc4742",
       "twitch_user_name": "Vapor73"
-    }
-  },
-  {
-    "attack_stat": 2130,
-    "defense_stat": 2070,
-    "spirit_skill_ids": [
-      18,
-      178
-    ],
-    "name": "Hi-Litre",
-    "id": "4067c009-928a-4fb6-9b35-f590c65caf4f",
-    "playable_character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
-    "wins": 13.0,
-    "losses": 13.0,
-    "rating": 32.989876,
-    "rating_mu": 37.68744,
-    "match_selection_status": "ACTIVE",
-    "user": {
-      "id": "98a0f133-1669-4320-a3ee-9df476691b19",
-      "twitch_user_name": "kixelmon"
     }
   },
   {
@@ -18400,6 +18400,26 @@
     }
   },
   {
+    "attack_stat": 2609,
+    "defense_stat": 1591,
+    "spirit_skill_ids": [
+      52,
+      236
+    ],
+    "name": "Goku",
+    "id": "3bb49580-3814-41b5-a302-9810bd5ec526",
+    "playable_character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+    "wins": 59.0,
+    "losses": 77.0,
+    "rating": 30.964018,
+    "rating_mu": 33.54379,
+    "match_selection_status": "STANDBY",
+    "user": {
+      "id": "6ff63cfa-9570-48d2-9bed-1808b4b29d12",
+      "twitch_user_name": "Zuperdawg1"
+    }
+  },
+  {
     "attack_stat": 2200,
     "defense_stat": 2000,
     "spirit_skill_ids": [
@@ -18871,26 +18891,6 @@
     "user": {
       "id": "70c8500f-2c36-4a45-8885-0f1ed2258d04",
       "twitch_user_name": "rafaelhens"
-    }
-  },
-  {
-    "attack_stat": 2609,
-    "defense_stat": 1591,
-    "spirit_skill_ids": [
-      52,
-      236
-    ],
-    "name": "Goku",
-    "id": "3bb49580-3814-41b5-a302-9810bd5ec526",
-    "playable_character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
-    "wins": 58.0,
-    "losses": 77.0,
-    "rating": 30.871176,
-    "rating_mu": 33.45496,
-    "match_selection_status": "STANDBY",
-    "user": {
-      "id": "6ff63cfa-9570-48d2-9bed-1808b4b29d12",
-      "twitch_user_name": "Zuperdawg1"
     }
   },
   {
@@ -27645,27 +27645,6 @@
     "attack_stat": 2100,
     "defense_stat": 2100,
     "spirit_skill_ids": [
-      18,
-      51,
-      85
-    ],
-    "name": "SillC.Soda",
-    "id": "da4c5900-b91e-44d8-9599-424ac30887ff",
-    "playable_character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7",
-    "wins": 31.0,
-    "losses": 18.0,
-    "rating": 29.115782,
-    "rating_mu": 32.7029,
-    "match_selection_status": "ACTIVE",
-    "user": {
-      "id": "750edae1-eab1-4750-8083-1952ec7a6e8d",
-      "twitch_user_name": "WeFurryPoo"
-    }
-  },
-  {
-    "attack_stat": 2100,
-    "defense_stat": 2100,
-    "spirit_skill_ids": [
       113,
       237
     ],
@@ -28272,6 +28251,27 @@
     "user": {
       "id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
       "twitch_user_name": "schmorchid"
+    }
+  },
+  {
+    "attack_stat": 2100,
+    "defense_stat": 2100,
+    "spirit_skill_ids": [
+      18,
+      51,
+      85
+    ],
+    "name": "SillC.Soda",
+    "id": "da4c5900-b91e-44d8-9599-424ac30887ff",
+    "playable_character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7",
+    "wins": 31.0,
+    "losses": 19.0,
+    "rating": 28.979488,
+    "rating_mu": 32.532448,
+    "match_selection_status": "ACTIVE",
+    "user": {
+      "id": "750edae1-eab1-4750-8083-1952ec7a6e8d",
+      "twitch_user_name": "WeFurryPoo"
     }
   },
   {
@@ -78945,6 +78945,26 @@
     }
   },
   {
+    "attack_stat": 2800,
+    "defense_stat": 1400,
+    "spirit_skill_ids": [
+      18,
+      174
+    ],
+    "name": "CountBleck",
+    "id": "aec98cca-5e19-40fe-83b2-400b016041eb",
+    "playable_character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+    "wins": 25.0,
+    "losses": 34.0,
+    "rating": 19.8731,
+    "rating_mu": 23.166119,
+    "match_selection_status": "STANDBY",
+    "user": {
+      "id": "5149ad84-6876-49da-ad17-a50116795daf",
+      "twitch_user_name": "StaplesTV_"
+    }
+  },
+  {
     "attack_stat": 2100,
     "defense_stat": 2100,
     "spirit_skill_ids": [
@@ -79685,26 +79705,6 @@
     "user": {
       "id": "71eb3456-8f8a-4723-879b-57439190b086",
       "twitch_user_name": "snevy_ssb"
-    }
-  },
-  {
-    "attack_stat": 2800,
-    "defense_stat": 1400,
-    "spirit_skill_ids": [
-      18,
-      174
-    ],
-    "name": "CountBleck",
-    "id": "aec98cca-5e19-40fe-83b2-400b016041eb",
-    "playable_character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
-    "wins": 24.0,
-    "losses": 34.0,
-    "rating": 19.712069,
-    "rating_mu": 23.022738,
-    "match_selection_status": "STANDBY",
-    "user": {
-      "id": "5149ad84-6876-49da-ad17-a50116795daf",
-      "twitch_user_name": "StaplesTV_"
     }
   },
   {
