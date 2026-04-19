@@ -26,8 +26,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-# Handle the rulesets here eg. fm.main(ruleset)
-# Update each function to accept a ruleset parameter

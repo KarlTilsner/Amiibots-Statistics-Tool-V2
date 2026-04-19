@@ -55,5 +55,3 @@ def main():
             "last_processed_date": datetime.now().isoformat()
         }
         json.dump(newstate, f , indent=2, ensure_ascii=False)
-
-main()
