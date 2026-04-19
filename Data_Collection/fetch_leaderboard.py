@@ -4,10 +4,10 @@ import requests
 
 
 
-def main():
+def main(ruleset_id):
     print("Fetching leaderboard data...")
 
-    URL = "https://www.amiibots.com/api/amiibo?per_page=2204355"
+    URL = f"https://www.amiibots.com/api/amiibo?per_page=2204355&ruleset_id={ruleset_id}"
 
     try:
         response = requests.get(URL)
@@ -42,8 +42,8 @@ def main():
             data_to_save.append(filtered_item)
 
         # Save the filtered data to a json file
-        os.makedirs("Data", exist_ok=True)
-        with open("Data/leaderboard.json", "w", encoding="utf-8") as f:
+        os.makedirs(f"Data/{ruleset_id}", exist_ok=True)
+        with open(f"Data/{ruleset_id}/leaderboard.json", "w", encoding="utf-8") as f:
             json.dump(data_to_save, f, indent=2, ensure_ascii=False)
 
         print("Leaderboard data saved/updated successfully. \n")

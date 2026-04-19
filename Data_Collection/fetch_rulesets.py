@@ -10,7 +10,7 @@ def main():
     URL = "https://www.amiibots.com/api/rulesets/public_rulesets"
 
     if os.path.exists("Data/rulesets.json"):
-        print("Ruleset data already exists. Skipping fetch.")
+        print("Ruleset data already exists. Skipping fetch. \n")
         return
 
     try:

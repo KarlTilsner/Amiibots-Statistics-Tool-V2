@@ -9,7 +9,7 @@ cursor = 'Sun, 19 Jan 2020 00:03:21 GMT'
 latest_scraped_match_date = "2001-05-16T00:00:00Z"
 data_to_store = []
 num_matches = 100
-ruleset_id = "44748ebb-e2f3-4157-90ec-029e26087ad0"
+ruleset_id = None
 
 
 
@@ -87,7 +87,7 @@ def create_json():
 
     with open(f"Raw_Matches/{ruleset_id}/{safe_name}-{len(data_to_store)}.json", "w", encoding="utf-8") as f:
         json.dump(data_to_store, f, indent=2, ensure_ascii=False)
-    print(f"Data saved to {safe_name}.json \n")
+    print(f"Data saved to Raw_Matches/{ruleset_id}/{safe_name}-{len(data_to_store)}.json \n")
 
     update_state()
 
@@ -98,7 +98,13 @@ def update_state():
     if previous_cursor is None:
         previous_cursor = cursor
 
-    newstate = {
+    if os.path.exists('Data_Collection/state.json'):
+        with open('Data_Collection/state.json', "r", encoding="utf-8") as f:
+            state = json.load(f)
+    else:
+        state = {}
+
+    state[ruleset_id] = {
         "previous_cursor": previous_cursor,
         "cursor_last_scraped": cursor,
         "last_scrape_date": datetime.now().isoformat(),
@@ -106,7 +112,7 @@ def update_state():
     }
 
     with open('Data_Collection/state.json', "w", encoding="utf-8") as e:
-        json.dump(newstate, e, indent=2, ensure_ascii=False)
+        json.dump(state, e, indent=2, ensure_ascii=False)
 
 
 
@@ -118,11 +124,11 @@ def start_fetching():
         with open('Data_Collection/state.json', "r", encoding="utf-8") as f:
             state = json.load(f)
             
-            if state.get("latest_scraped_match_date"):
-                latest_scraped_match_date = state["latest_scraped_match_date"]
+            if state.get(ruleset_id, {}).get("latest_scraped_match_date"):
+                latest_scraped_match_date = state[ruleset_id]["latest_scraped_match_date"]
 
-            if state.get("previous_cursor"):
-                cursor = state["previous_cursor"]
+            if state.get(ruleset_id, {}).get("previous_cursor"):
+                cursor = state[ruleset_id]["previous_cursor"]
                 fetch_matches()
             else:
                 # Starts from the beginning
@@ -133,7 +139,10 @@ def start_fetching():
 
 
 
-def main():
+def main(ruleset):
+    global ruleset_id
+    ruleset_id = ruleset
+
     for _ in range(10):  # Loop to fetch multiple pages of matches
         print(f"Fetching {num_matches} matches: {_ + 1}/10")
         start_fetching()

@@ -10,7 +10,7 @@ def main():
     URL = "https://www.amiibots.com/api/utility/get_all_characters"
 
     if os.path.exists("Data/all_characters.json"):
-        print("All characters data already exists. Skipping fetch.")
+        print("All characters data already exists. Skipping fetch. \n")
         return
 
     try:

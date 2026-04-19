@@ -1,3 +1,5 @@
+import json
+
 import all_characters as ac
 import fetch_rulesets as fr
 import fetch_matches as fm
@@ -9,8 +11,12 @@ def main():
     print("Starting data fetching... \n")
     ac.main()
     fr.main()
-    fm.main()
-    fl.main()
+
+    with open('Data/rulesets.json', "r", encoding="utf-8") as f:
+        rulesets = json.load(f)
+        
+    fm.main(rulesets[0]["id"])
+    # fl.main(rulesets[0]["id"])
     print("All data fetching complete. \n")
 
 
