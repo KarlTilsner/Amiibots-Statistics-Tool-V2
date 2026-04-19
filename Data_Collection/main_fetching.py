@@ -16,7 +16,7 @@ def main():
         rulesets = json.load(f)
         
     fm.main(rulesets[0]["id"])
-    # fl.main(rulesets[0]["id"])
+    fl.main(rulesets[0]["id"])
     print("All data fetching complete. \n")
 
 
