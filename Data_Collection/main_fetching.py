@@ -15,8 +15,11 @@ def main():
     with open('Data/rulesets.json', "r", encoding="utf-8") as f:
         rulesets = json.load(f)
         
-    fm.main(rulesets[0]["id"])
-    fl.main(rulesets[0]["id"])
+    for ruleset in rulesets:
+        print(f"Fetching data for ruleset: {ruleset['name']}")
+        fm.main(ruleset["id"])
+        fl.main(ruleset["id"])
+    
     print("All data fetching complete. \n")
 
 
