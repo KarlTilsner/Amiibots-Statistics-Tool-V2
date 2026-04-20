@@ -17,7 +17,9 @@ def main():
         
     for ruleset in rulesets:
         print(f"Fetching data for ruleset: {ruleset['name']}")
-        fm.main(ruleset["id"])
+        for _ in range(10):
+            fm.main(ruleset["id"])
+            
         fl.main(ruleset["id"])
     
     print("All data fetching complete. \n")
