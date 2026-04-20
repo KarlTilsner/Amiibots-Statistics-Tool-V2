@@ -18,10 +18,12 @@ def main():
         response.raise_for_status()
         data = response.json()
 
+        all_characters = {character["id"]: character["name"] for character in data["data"]}
+
         os.makedirs("Data", exist_ok=True)
 
         with open("Data/all_characters.json", "w", encoding="utf-8") as f:
-            json.dump(data["data"], f, indent=2, ensure_ascii=False)
+            json.dump(all_characters, f, indent=2, ensure_ascii=False)
 
         print("All characters data saved successfully. \n")
 
