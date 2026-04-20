@@ -57,5 +57,3 @@ def main(match, ruleset_id):
                 }
                 with open(trainer_file, "w", encoding="utf-8") as f:
                     json.dump(new_trainer_data, f, indent=2, ensure_ascii=False)
-
-    return
