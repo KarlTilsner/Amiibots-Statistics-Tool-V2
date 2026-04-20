@@ -2,6 +2,7 @@ import all_trainers as all_trainers
 import all_amiibo as all_amiibo
 import simple_list as simple_list
 import matchups as matchups
+import rating_history as rating_history
 import json
 from urllib.parse import quote
 from datetime import datetime
@@ -21,6 +22,7 @@ def run_functions(folder, filename, ruleset_id):
         all_amiibo.main(data, ruleset_id)
         simple_list.main(data, ruleset_id)
         matchups.main(data, ruleset_id)
+        rating_history.main(data, ruleset_id)
 
         print(f"Finished processing file: {filename}\n")
 
