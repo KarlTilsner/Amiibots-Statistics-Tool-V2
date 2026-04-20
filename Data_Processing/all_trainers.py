@@ -5,7 +5,7 @@ import json
 
 # This script will collect all unique trainer IDs and store the IDs of all amiibo associated with each trainer ID
 def main(match, ruleset_id):
-    print(f"Processing Trainers from {len(match)} matches")
+    print(f"Processing Trainers")
 
     os.makedirs(f"Data/{ruleset_id}/Trainers", exist_ok=True)
 
