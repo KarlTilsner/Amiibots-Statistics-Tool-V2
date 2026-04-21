@@ -111,8 +111,10 @@ async function characterMatchup(selectedOption) {
     async function createMatchupChart() {
 
         // Push specific amiibo data into array for matchup chart
-        const matchups_query = await fetch('./json/AmiibotsMatchupData.json');
+        const matchups_query = await fetch('./Data/44748ebb-e2f3-4157-90ec-029e26087ad0/matchups.json');
         const matchups_data = await matchups_query.json();
+
+
         console.log("🚀 ~ createMatchupChart ~ matchups_data:", matchups_data);
 
         // Data for amiibo card
@@ -120,20 +122,15 @@ async function characterMatchup(selectedOption) {
         let specified_character_wins = 0;
         let specified_character_losses = 0;
 
-        matchups_data.map(function (index) {
-            if (index.id == specifiedCharacter) {
-                index.data.map(element => {
-                    specified_character_wins += element.wins;
-                    specified_character_losses += element.losses;
+        Object.entries(matchups_data[specifiedCharacter].data).forEach(([k, v]) => {
+            specified_character_wins += v.wins;
+            specified_character_losses += v.losses;
 
-                    matchupChart_wonTo_data.push(element.wins);
-                    matchupChart_lostTo_data.push(element.losses);
+            matchupChart_wonTo_data.push(v.wins);
+            matchupChart_lostTo_data.push(v.losses);
 
-                    matchupChart_characterPlayed_data.push(`${element.name} (${((element.wins / (element.wins + element.losses)) * 100).toFixed(2)})`);
-                    matchupChart_win_rate.push(`${((element.wins / (element.wins + element.losses)) * 100).toFixed(2)}`);
-
-                });
-            }
+            matchupChart_characterPlayed_data.push(`${v.name} (${((v.wins / (v.wins + v.losses)) * 100).toFixed(2)})`);
+            matchupChart_win_rate.push(`${((v.wins / (v.wins + v.losses)) * 100).toFixed(2)}`);
         });
 
         document.getElementById('matchup_chart_title').innerText = `Character Matchup Chart of: ${specifiedCharacter_name}`;
@@ -169,23 +166,34 @@ async function characterMatchup(selectedOption) {
         highestRatedHistory = [];
 
         // Push specified amiibo data into array for rating history chart
-        const rating_history_query = await fetch(`./json/Rating History/${specifiedCharacter_name} Rating History.json`);
+        const rating_history_query = await fetch(`./Data/44748ebb-e2f3-4157-90ec-029e26087ad0/Rating_History/${specifiedCharacter_name} Rating History.json`);
         const rating_history_data = await rating_history_query.json();
         console.log("🚀 ~ createHighestRatingHistoryChart ~ rating_history_data:", rating_history_data);
 
         // get highest rating
         let highest_rating = 0;
-        rating_history_data.rating_history.map(index => {
-            if (index.rating > highest_rating) {
-                highest_rating = index.rating;
+        Object.entries(rating_history_data.rating_history).forEach(([k, v]) => {
+            if (v.rating > highest_rating) {
+                highest_rating = v.rating;
                 document.getElementById('list_rating').innerText = highest_rating.toFixed(3);
             }
-            highestRatedHistory.push(index);
+            highestRatedHistory.push(v);
         });
+
+
+        // rating_history_data.rating_history.map(index => {
+        //     if (index.rating > highest_rating) {
+        //         highest_rating = index.rating;
+        //         document.getElementById('list_rating').innerText = highest_rating.toFixed(3);
+        //     }
+        //     highestRatedHistory.push(index);
+        // });
+
+
 
         // get most dominant player for the character
         function topPlayers() {
-            const trainerIdCounts = rating_history_data.rating_history.reduce((counts, item) => {
+            const trainerIdCounts = Object.values(rating_history_data.rating_history).reduce((counts, item) => {
                 const trainerId = item.trainer_id;
                 const trainerName = item.trainer_name;
 
@@ -235,27 +243,6 @@ async function characterMatchup(selectedOption) {
                 );
             });
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
         }
         topPlayers();
 
@@ -297,9 +284,13 @@ async function characterMatchup(selectedOption) {
 
         // push data for the graph to read into arrays
         xAxis_weeks = [];
-        for (let i = 0; i < highestRatedHistory.length; i++) {
-            xAxis_weeks.push(highestRatedHistory[i].current_week);
-        }
+        Object.entries(rating_history_data.rating_history).forEach(([k, v]) => {
+            xAxis_weeks.push(k);
+        });
+
+        // for (let i = 0; i < highestRatedHistory.length; i++) {
+        //     xAxis_weeks.push(highestRatedHistory[i].current_week);
+        // }
 
         // get random colours for each trainer
         let randomBorderColour = 0;
