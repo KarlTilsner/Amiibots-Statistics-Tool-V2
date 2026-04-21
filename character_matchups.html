@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UFT-8">
+        <meta name="Amiibots Statistics Tool" content="width = device-width", initial-scale = "1.0">
+        <title>Amiibots Statistics Tool</title>
+
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+
+        <link rel="stylesheet" href="css/styles.css">
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.6.0/jszip.min.js"></script>
+        <script src="js/character_matchups.js"></script>
+        <script src="js/versionNumber.js"></script>
+        <script src="js/navBarElement.js"></script>
+        <script src="js/search_history.js"></script>
+
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-datalabels/2.2.0/chartjs-plugin-datalabels.min.js" 
+                integrity="sha512-JPcRR8yFa8mmCsfrw4TNte1ZvF1e3+1SdGMslZvmrzDYxS69J7J49vkFL8u6u8PlPJK+H3voElBtUCzaXj+6ig==" 
+                crossorigin="anonymous" 
+                referrerpolicy="no-referrer"></script>
+    </head>
+
+
+
+
+
+    <body>
+
+        <nav class="navbar" id="documentNavbar"></nav>
+
+
+
+        
+
+        <main>
+            <div class="header">
+                <div>
+                    <h1 class="title">Amiibots Statistics Tool<span class="subtitle"> / Matchups</span></h1>
+
+                    <p class="version" id="versionNo"></p>
+                </div>
+
+                <div class="search_history_button" onclick="toggleVisibility()">
+                    <img class="search_history_icon" src="images/icon_search_history.png">
+                </div>
+
+            </div>
+
+
+
+            <div class="block" id="searchHistoryDropdown" style="display: none;">
+                <div class="container">
+                    <h1 style="margin-left: 1rem; margin-right: 1rem; border-bottom: 1px solid rgba(200, 200, 200, 0.2);">Search History</h1>
+                    <div class="even_padding">
+                        <div class="flex_list_container" id="searchHistoryDropdownContent"></div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="block">
+
+                <div class="flex_container">
+                    <select class="dropdownMenu" id="selectCharacterDropdown" onchange="characterMatchup(this)">
+                        <option class="dropdownMenuOption" value="Select a Character" id="">Select a Character</option>
+                    </select>
+
+                    <div class="container">
+                        <div class="list_item" id="list_item_searchable" onclick="listDominantPlayers()">
+                            <img id="list_img" src="images/Blank Icon.png" class="list_image">
+
+                            <div class="list_stats_container">
+                                <div class="list_stats">
+                                    <h2>Highest Rating</h2>
+                                    <h1 id="list_rating">--.--</h1>
+                                </div>
+
+                                <div class="list_stats">
+                                    <h2>Win Rate</h2>   
+                                    <h1 id="list_win_rate">--.--%</h1>
+                                </div>
+
+                                <div class="list_stats">
+                                    <h2>Wins</h2>
+                                    <h1 id="list_wins">----</h1>
+                                </div>
+
+                                <div class="list_stats">
+                                    <h2>Losses</h2>
+                                    <h1 id="list_losses">----</h1>
+                                </div>
+
+                                <div class="list_stats">
+                                    <h2>Total Matches</h2>   
+                                    <h1 id="list_total_matches">----</h1>
+                                </div>
+
+                                <div class="list_stats mobile_remove">
+                                    <h2 id="list_longest_streak_trainer">Trainer Streak</h2>
+                                    <h1 id="list_longest_streak">xxxx Days</h1>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+
+
+            <div class="block" id="dominantPlayerDropdown" style="display: none;">
+                <div class="container">
+                    <h1 style="margin-left: 1rem; margin-right: 1rem; border-bottom: 1px solid rgba(200, 200, 200, 0.2);">Dominant Players</h1>
+                    <div class="even_padding">
+                        <div class="flex_list_container" id="dominantPlayerDropdownContent"></div>
+                    </div>
+                </div>
+            </div>
+       
+
+
+            <div class="block">
+                <div class="container">
+                    <h2 class="stats" id="rating_history_chart_title" style="text-align: center;">Rating History</h2>
+
+                    <div class="rating_history" id="rating_history">
+                        <canvas id="rating_history_chart_canvas"></canvas>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="block" id="matchup_chart_canvas">
+                <div class="container amiibo_lost_to">
+                        <h2 class="stats" id="matchup_chart_title" style="text-align: center;">Character Matchups</h2>
+
+                        <div class="search_buttons">
+                            <input type="button"    value="Sort by Alphabetical"            id="sort_by_alphabetical"   onclick="   sortMatchupChartData('alphabetical'); 
+                                                                                                                                    highlightSortButton('sort_by_alphabetical')" required></form>
+
+                            <input type="button"    value="Sort by Win Rate"                id="sort_by_win_rate"       onclick="   sortMatchupChartData('winRate'); 
+                                                                                                                                    highlightSortButton('sort_by_win_rate')" required></form>
+
+                            <input type="button" value="Copy to clipboard" onclick="copyCanvas('amiibo_lost_to_chart_canvas');">
+                        </div>
+
+                        
+
+                        <div id="amiibo_lost_to">
+                            <canvas id="amiibo_lost_to_chart_canvas"></canvas>
+                        </div>
+                </div>
+            </div>
+
+
+
+
+
+        </main>
+
+
+
+
+
+    <script>
+
+
+           
+//                                                              GRAPH RATING HISTORY
+//---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    async function RatingHistoryChart(datasets) {
+        const barWidth = (highestRatedHistory.length / 100) * 0.25;
+
+        let rating_history_chart_location = document.getElementById('rating_history_chart_canvas');
+        let rating_history_chart = new Chart(rating_history_chart_location, {
+            type: 'line',
+            data: {
+                labels: xAxis_weeks,
+                datasets: datasets, // Use the provided datasets array
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                scales: {
+                    x: {
+                        grid: {
+                            display: false,
+                        },
+                        title: {
+                            display: true,
+                            text: 'Day',
+                        },
+                    },
+                    y: {
+                        beginAtZero: true,
+                        grid: {
+                            color: 'rgba(200, 200, 200, 0.2)',
+                        },
+                        title: {
+                            display: true,
+                            text: 'Rating Over Time',
+                        },
+                    },
+                },
+            },
+        });
+    }
+
+
+
+
+
+// GRAPH MATCHUP DATA
+//---------------------------------------------------------------------------------------------------------------------------------------------------------
+    async function characterMatchupChart(sorted) {
+    let character_matchup_chart_location = document.getElementById('amiibo_lost_to_chart_canvas');  
+        
+        if (sorted == 'sorted') {
+            const graph_height = ((matchupChart_characterPlayed_data.length * 20) + 200);
+            document.getElementById('amiibo_lost_to').setAttribute("style", `height:${graph_height}px`);
+
+            let character_matchup_chart = new Chart(character_matchup_chart_location, {
+                type: 'bar',
+                
+                data: {
+                    labels: matchupChart_characterPlayed_data,
+                    datasets: [{
+                        label: `Defeated`,
+                        data: matchupChart_wonTo_data,
+                        backgroundColor: secondary_background_colour,
+                        borderColor: secondary_border_colour,
+                        fill: true,
+                        borderWidth: 1
+                    },
+                    {
+                        label: `Lost to`,
+                        data: matchupChart_lostTo_data,
+                        backgroundColor: primary_background_colour,
+                        borderColor: primary_border_colour,
+                        fill: true,
+                        borderWidth: 1
+                    }]
+                },
+                
+                options: {
+                    indexAxis: 'y',
+                    responsive: true,
+                    maintainAspectRatio: false,
+                                            scales: {
+                        x: {
+                            stacked: true,
+                            title: {
+                                display: true,
+                                text: 'Times Defeated'
+                            },
+                        },
+                        y: {
+                            stacked: true,
+                        },
+                    }
+                },
+                plugins: [ChartDataLabels], 
+                labels: {
+                    fontColor: 'rgba(170, 200, 100, 1)',
+                }
+            });
+
+
+
+        } else {
+            const graph_height = ((matchupChart_characterPlayed_data.length * 20) + 200);
+            document.getElementById('amiibo_lost_to').setAttribute("style", `height:${graph_height}px`);
+            let character_matchup_chart = new Chart(character_matchup_chart_location, {
+                type: 'bar',
+                
+                data: {
+                    labels: matchupChart_characterPlayed_data,
+                    datasets: [{
+                        label: `Defeated`,
+                        data: matchupChart_wonTo_data,
+                        backgroundColor: secondary_background_colour,
+                        borderColor: secondary_border_colour,
+                        fill: true,
+                        borderWidth: 1
+                    },
+                    {
+                        label: `Lost to`,
+                        data: matchupChart_lostTo_data,
+                        backgroundColor: primary_background_colour,
+                        borderColor: primary_border_colour,
+                        fill: true,
+                        borderWidth: 1
+                    },
+                    {
+                        label: 'Tier',
+                        data: tier_break,
+                        backgroundColor: 'rgba(100, 100, 100, 0.2)',
+                        borderColor: 'rgba(100, 100, 100, 0.8)',
+                        fill: true,
+                        borderWidth: 1
+                    }]
+                },
+                
+                options: {
+                    indexAxis: 'y',
+                    responsive: true,
+                    maintainAspectRatio: false,
+                                            scales: {
+                        x: {
+                            stacked: true,
+                            title: {
+                                display: true,
+                                text: 'Times Defeated'
+                            },
+                        },
+                        y: {
+                            stacked: true,
+                        },
+                    }
+                },
+                plugins: [ChartDataLabels], 
+                labels: {
+                    fontColor: 'rgba(170, 200, 100, 1)',
+                }
+            });
+        }
+    }
+
+
+
+
+
+//                                                              END OF SCRIPT
+//---------------------------------------------------------------------------------------------------------------------------------------------------------
+        </script>
+    </body>
+</html>
