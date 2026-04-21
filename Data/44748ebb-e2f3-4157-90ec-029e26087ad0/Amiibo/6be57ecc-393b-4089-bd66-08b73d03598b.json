@@ -1,0 +1,43 @@
+{
+  "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+  "id": "6be57ecc-393b-4089-bd66-08b73d03598b",
+  "name": "Seiδr",
+  "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+  "trainer_name": "Kangoni",
+  "matches": {
+    "2020-07-01T13:10:22.688615+00:00": {
+      "this_amiibo": {
+        "rating": 13.588087568007941,
+        "rating_mu": 28.768978391497882,
+        "rating_sigma": 5.060296941163314,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "9fd69433-a00c-4b7d-9e9b-0dc30303c3be",
+        "name": "Thunderhed",
+        "rating": 26.119397234565024,
+        "trainer_id": "ea3ef328-9dbb-495e-b94c-009462f39c59",
+        "trainer_name": "LittleHelper",
+        "result": "loss"
+      }
+    },
+    "2020-07-01T12:19:29.952391+00:00": {
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "512739fd-ef89-4306-be6f-b7ec159236d8",
+        "name": "Bubba",
+        "rating": 26.845137136731537,
+        "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
+        "trainer_name": "MaskXP",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.2153761124392695,
+        "rating_mu": 21.524314419924156,
+        "rating_sigma": 6.769646102494962,
+        "result": "loss"
+      }
+    }
+  }
+}

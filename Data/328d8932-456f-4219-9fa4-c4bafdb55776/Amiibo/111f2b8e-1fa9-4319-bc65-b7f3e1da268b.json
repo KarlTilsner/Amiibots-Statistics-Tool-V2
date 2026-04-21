@@ -1,0 +1,43 @@
+{
+  "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+  "id": "111f2b8e-1fa9-4319-bc65-b7f3e1da268b",
+  "name": "Mike nerfd",
+  "trainer_id": "d23c127d-b419-42fc-94da-1ca9ee90a8fc",
+  "trainer_name": "BottoTheBulliedPirate",
+  "matches": {
+    "2021-03-22T06:59:04.960482+00:00": {
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "4c60e81a-b0ea-449c-a3ba-66c23b934790",
+        "name": "Boyo",
+        "rating": 24.607599531984903,
+        "trainer_id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
+        "trainer_name": "pinheadpatrick017",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.1525255116089177,
+        "rating_mu": 21.859866220390323,
+        "rating_sigma": 6.902446902927135,
+        "result": "loss"
+      }
+    },
+    "2021-03-23T09:46:58.755831+00:00": {
+      "this_amiibo": {
+        "rating": 7.176619453482438,
+        "rating_mu": 25.352495811271766,
+        "rating_sigma": 6.058625452596442,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "d1efa8e9-9010-4d46-bdd0-447140c71790",
+        "name": "Ravel bass",
+        "rating": -0.03182445845033399,
+        "trainer_id": "d23c127d-b419-42fc-94da-1ca9ee90a8fc",
+        "trainer_name": "BottoTheBulliedPirate",
+        "result": "loss"
+      }
+    }
+  }
+}

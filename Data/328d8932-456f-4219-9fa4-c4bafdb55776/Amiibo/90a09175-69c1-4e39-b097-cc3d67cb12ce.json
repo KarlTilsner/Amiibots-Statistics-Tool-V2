@@ -1,0 +1,43 @@
+{
+  "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+  "id": "90a09175-69c1-4e39-b097-cc3d67cb12ce",
+  "name": "Boyo",
+  "trainer_id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
+  "trainer_name": "pinheadpatrick017",
+  "matches": {
+    "2022-01-05T10:31:19.134773+00:00": {
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "e477c120-aabf-4f48-bbf2-dcff18b0c7b9",
+        "name": "Kronk",
+        "rating": 33.75931136136809,
+        "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
+        "trainer_name": "Murbert_AM",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 15.263219373074396,
+        "rating_mu": 30.683668803914813,
+        "rating_sigma": 5.140149810280139,
+        "result": "loss"
+      }
+    },
+    "2022-01-05T09:50:25.770368+00:00": {
+      "this_amiibo": {
+        "rating": 15.013609843069638,
+        "rating_mu": 33.11562553869206,
+        "rating_sigma": 6.03400523187414,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "fef9a5c0-a54e-4f1f-a6bf-fff73be5d8b3",
+        "name": "why not",
+        "rating": 24.032922459893808,
+        "trainer_id": "0a934d92-e487-4f3d-aa09-0dc402188994",
+        "trainer_name": "JoKe07_pose",
+        "result": "loss"
+      }
+    }
+  }
+}

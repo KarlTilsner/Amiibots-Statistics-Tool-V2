@@ -1,0 +1,60 @@
+{
+  "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+  "id": "7a4c32b6-2af0-400c-b5a8-e8f67b0aa74e",
+  "name": "Dogy",
+  "trainer_id": "8806a0a9-04df-48a0-9b3e-357f8177411c",
+  "trainer_name": "fake_l3af",
+  "matches": {
+    "2023-04-27T16:37:51.455679+00:00": {
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "646779cb-d36b-407b-998b-dc8a94c64162",
+        "name": "Ysera",
+        "rating": 13.024131699818522,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.10930411253146133,
+        "rating_mu": 21.73782577464627,
+        "rating_sigma": 7.209507220704936,
+        "result": "loss"
+      }
+    },
+    "2023-04-30T09:09:49.371806+00:00": {
+      "this_amiibo": {
+        "rating": 6.990695459024309,
+        "rating_mu": 22.148202060345962,
+        "rating_sigma": 5.052502200440551,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "dd351ddf-7266-4128-b0cc-28ccaa560f72",
+        "name": "Doug",
+        "rating": 8.964286217681918,
+        "trainer_id": "10e1e457-bcce-49f5-8373-418a1526b5b1",
+        "trainer_name": "Bowlo_",
+        "result": "loss"
+      }
+    },
+    "2023-04-30T06:15:54.578387+00:00": {
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "5196dc78-7cbc-44dc-81b9-6d193942d295",
+        "name": "Kynomenime",
+        "rating": 23.079126601480432,
+        "trainer_id": "dd0f3778-cdcb-4c39-9401-8c35d4116745",
+        "trainer_name": "ZEgg87",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.8382737289364819,
+        "rating_mu": 18.786288359124857,
+        "rating_sigma": 5.982671543396125,
+        "result": "loss"
+      }
+    }
+  }
+}

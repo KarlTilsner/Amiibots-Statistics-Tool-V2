@@ -1,0 +1,43 @@
+{
+  "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+  "id": "c7115b3a-2adb-4d10-a70a-7d34965a6e93",
+  "name": "T. Whopper",
+  "trainer_id": "829abfdd-a372-4835-b8d2-8bd05b7dbfd8",
+  "trainer_name": "chillindude300",
+  "matches": {
+    "2024-02-29T02:26:09.507267+00:00": {
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "852bda1d-e139-46e2-bba5-ae2bafb41183",
+        "name": "BarBeQueQ",
+        "rating": 20.654913728417792,
+        "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
+        "trainer_name": "schmorchid",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.5102176867518722,
+        "rating_mu": 19.626144653810965,
+        "rating_sigma": 6.371975655686364,
+        "result": "loss"
+      }
+    },
+    "2024-03-30T07:37:45.525997+00:00": {
+      "this_amiibo": {
+        "rating": 6.092557992091798,
+        "rating_mu": 22.24801853927688,
+        "rating_sigma": 5.385153515728361,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "961a6643-d39e-4641-8864-09a3992389a8",
+        "name": "Dick Dump",
+        "rating": 12.088636520675866,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "loss"
+      }
+    }
+  }
+}

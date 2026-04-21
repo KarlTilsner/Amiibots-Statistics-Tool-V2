@@ -1,0 +1,43 @@
+{
+  "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+  "id": "48e036a6-249d-40cf-920c-949b2c8153b5",
+  "name": "SMBZ Yoshi",
+  "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+  "trainer_name": "Competitively2",
+  "matches": {
+    "2024-05-25T05:24:14.734916+00:00": {
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "99a44d17-3317-41df-815b-db2df848d9af",
+        "name": "Tennis",
+        "rating": 19.875068258693936,
+        "trainer_id": "1c4294fb-b0ae-40ac-8797-79913cd40162",
+        "trainer_name": "superlamp6",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.37376366162931873,
+        "rating_mu": 19.352186782571238,
+        "rating_sigma": 6.326141040313972,
+        "result": "loss"
+      }
+    },
+    "2024-06-25T16:03:05.398435+00:00": {
+      "this_amiibo": {
+        "rating": 8.30177973703146,
+        "rating_mu": 23.537888796992885,
+        "rating_sigma": 5.078703019987142,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+        "id": "8121e8bf-5828-4db3-94ef-3e6de44463de",
+        "name": "SamsungS10",
+        "rating": 17.894224077631762,
+        "trainer_id": "d7f44591-9713-4c95-b840-3607f6a73d24",
+        "trainer_name": "luckman21",
+        "result": "loss"
+      }
+    }
+  }
+}

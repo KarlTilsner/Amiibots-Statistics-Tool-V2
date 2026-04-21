@@ -1,0 +1,43 @@
+{
+  "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+  "id": "20cf30f0-ee3d-4641-9042-2a5f430d25a6",
+  "name": "Spartan",
+  "trainer_id": "74b11748-df73-4895-a914-7f048a54ecc8",
+  "trainer_name": "Dempsey342",
+  "matches": {
+    "2022-04-27T20:03:01.493739+00:00": {
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "2f29266c-9dc7-4c51-974f-144aac93d197",
+        "name": "Unit-04",
+        "rating": 28.650513431962732,
+        "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
+        "trainer_name": "soysauce881",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 12.498573071825234,
+        "rating_mu": 28.323089952964168,
+        "rating_sigma": 5.274838960379644,
+        "result": "loss"
+      }
+    },
+    "2022-04-27T18:03:25.432123+00:00": {
+      "this_amiibo": {
+        "rating": 12.342765076084454,
+        "rating_mu": 31.14266593718734,
+        "rating_sigma": 6.266633620367628,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "31936486-7580-482f-99bf-dbaff607cd24",
+        "name": "PowerPlant",
+        "rating": 20.906328779320642,
+        "trainer_id": "5f193754-19cc-4e88-a09f-cd36122614ca",
+        "trainer_name": "twrecks64",
+        "result": "loss"
+      }
+    }
+  }
+}

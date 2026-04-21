@@ -1,0 +1,43 @@
+{
+  "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+  "id": "b3ed12c5-181e-47bd-9e92-bef0e7d1def5",
+  "name": "TheSurgeon",
+  "trainer_id": "c38191e3-5f4d-4c5d-9c66-66436166b005",
+  "trainer_name": "qscxz512",
+  "matches": {
+    "2020-10-15T02:45:06.279052+00:00": {
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "eafff79a-f8fb-439f-ba06-8751a420b0ac",
+        "name": "Hades",
+        "rating": 21.861010699514914,
+        "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
+        "trainer_name": "rurpking22",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.8998563047866384,
+        "rating_mu": 20.91312958746927,
+        "rating_sigma": 6.671091094227544,
+        "result": "loss"
+      }
+    },
+    "2020-10-15T16:47:11.952299+00:00": {
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "0b5cf722-89fe-460c-bbc4-d7c7ee224f74",
+        "name": "Garibaldi",
+        "rating": 21.486423822044884,
+        "trainer_id": "ee675c7c-7836-4aa2-8a36-fef64e67b80a",
+        "trainer_name": "truetitan14",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.479018617453157,
+        "rating_mu": 18.64196011047295,
+        "rating_sigma": 5.720980497673265,
+        "result": "loss"
+      }
+    }
+  }
+}

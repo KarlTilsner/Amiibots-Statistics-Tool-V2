@@ -1,0 +1,43 @@
+{
+  "character_id": "96e48494-946f-4280-a419-488d644135e0",
+  "id": "dfec0500-4e3d-4b72-bfb7-95495c1d821e",
+  "name": "aids",
+  "trainer_id": "29fc3e9c-b568-4dcb-b821-9f4c12354a8c",
+  "trainer_name": "reiaddict",
+  "matches": {
+    "2022-03-19T02:37:54.265788+00:00": {
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "56198ae8-b8e0-4b1c-8637-47abac7e3bd0",
+        "name": "Clobbered",
+        "rating": 22.977262753281448,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "HalfMario45678",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 10.669799536163474,
+        "rating_mu": 26.774024193386687,
+        "rating_sigma": 5.368074885741072,
+        "result": "loss"
+      }
+    },
+    "2022-03-18T23:39:23.054854+00:00": {
+      "this_amiibo": {
+        "rating": 10.857357809204974,
+        "rating_mu": 30.086033592610022,
+        "rating_sigma": 6.40955859446835,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "9effd2d5-cf35-4f10-a242-580443748f6b",
+        "name": "Turnips",
+        "rating": 20.64689337686085,
+        "trainer_id": "bca0a1d3-990a-41ae-9816-08df49985a8f",
+        "trainer_name": "turnips_god",
+        "result": "loss"
+      }
+    }
+  }
+}

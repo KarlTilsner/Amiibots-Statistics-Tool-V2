@@ -1,0 +1,43 @@
+{
+  "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+  "id": "725da509-cac7-4786-920b-a5e8a23decd5",
+  "name": "BoarPrince",
+  "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
+  "trainer_name": "wyvernfalcon",
+  "matches": {
+    "2022-10-04T10:08:57.142449+00:00": {
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "af63fc5b-c570-406a-9322-bd18cdceecb8",
+        "name": "kirbo",
+        "rating": 13.86654053000846,
+        "trainer_id": "9891eba0-a578-4f25-97ce-338fb6d4890b",
+        "trainer_name": "STRYDER_49",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.6305192729764464,
+        "rating_mu": 17.948989721738926,
+        "rating_sigma": 6.193169664905124,
+        "result": "loss"
+      }
+    },
+    "2022-10-04T21:18:32.638015+00:00": {
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "90cfa87b-7baf-410f-8cf8-4c43eb0111bc",
+        "name": "Ben 10",
+        "rating": 5.195895972082994,
+        "trainer_id": "12089c7d-a8c3-435e-bcb1-c9e632a15e4b",
+        "trainer_name": "zornchist",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -1.1980638048553036,
+        "rating_mu": 15.356674640197847,
+        "rating_sigma": 5.51824614835105,
+        "result": "loss"
+      }
+    }
+  }
+}

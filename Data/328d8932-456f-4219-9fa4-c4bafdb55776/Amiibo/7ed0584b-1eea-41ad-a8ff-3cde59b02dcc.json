@@ -1,0 +1,43 @@
+{
+  "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+  "id": "7ed0584b-1eea-41ad-a8ff-3cde59b02dcc",
+  "name": "№Ridley",
+  "trainer_id": "405e4707-8f38-4324-8416-3d636552e1ff",
+  "trainer_name": "Aythr",
+  "matches": {
+    "2021-11-22T06:06:23.035911+00:00": {
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "136b5700-683d-443a-904a-33069f7ba32d",
+        "name": "ToonDisney",
+        "rating": 23.657125778062174,
+        "trainer_id": "5d49133f-f2e3-449b-b297-19d899fdf013",
+        "trainer_name": "thedailydude",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.8409448162910174,
+        "rating_mu": 20.27488432205501,
+        "rating_sigma": 6.477979835254664,
+        "result": "loss"
+      }
+    },
+    "2021-12-24T13:06:15.306767+00:00": {
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "4ff8ec58-d09d-48ff-9458-712bc6205a14",
+        "name": "Janie",
+        "rating": 23.782370247718504,
+        "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
+        "trainer_name": "spike2the9th",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.449610815323414,
+        "rating_mu": 18.266239680999444,
+        "rating_sigma": 5.605542955225344,
+        "result": "loss"
+      }
+    }
+  }
+}

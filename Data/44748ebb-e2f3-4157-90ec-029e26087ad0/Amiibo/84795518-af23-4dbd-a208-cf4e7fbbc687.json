@@ -1,0 +1,43 @@
+{
+  "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+  "id": "84795518-af23-4dbd-a208-cf4e7fbbc687",
+  "name": "PrinZess",
+  "trainer_id": "046b6cbc-d2e8-4317-a680-a2e5b4b18bb0",
+  "trainer_name": "prinzess16",
+  "matches": {
+    "2020-07-26T21:56:54.434415+00:00": {
+      "opponent": {
+        "character_id": "3a80cdac-93bb-4a75-8e38-f69f37d10ec6",
+        "id": "d546a6b1-6a44-4c3e-a09d-5d7f6549779d",
+        "name": "Joe Mamma",
+        "rating": 23.17578367628923,
+        "trainer_id": "56136ec1-5ca9-410d-8ac0-8b59608fae92",
+        "trainer_name": "xir1ca",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.6781879513136637,
+        "rating_mu": 19.825496416888438,
+        "rating_sigma": 6.382436155191591,
+        "result": "loss"
+      }
+    },
+    "2020-07-27T02:14:14.542032+00:00": {
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "d16a3720-5808-49c3-831e-8b538a3d41b7",
+        "name": "Westley",
+        "rating": 21.215092234155268,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.1998664131059478,
+        "rating_mu": 17.7958814556786,
+        "rating_sigma": 5.532005014190885,
+        "result": "loss"
+      }
+    }
+  }
+}

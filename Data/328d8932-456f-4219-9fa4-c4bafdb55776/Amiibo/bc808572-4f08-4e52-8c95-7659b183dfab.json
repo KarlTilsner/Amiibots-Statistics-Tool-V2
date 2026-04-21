@@ -1,0 +1,43 @@
+{
+  "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+  "id": "bc808572-4f08-4e52-8c95-7659b183dfab",
+  "name": "Spectre",
+  "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+  "trainer_name": "FrostByte245",
+  "matches": {
+    "2021-12-06T15:03:03.244448+00:00": {
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "4a4d8978-6eac-4ff5-ad46-e8a796e7befe",
+        "name": "Mad Lad",
+        "rating": 28.200277155046457,
+        "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
+        "trainer_name": "SG_Bubs",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 2.090425283784704,
+        "rating_mu": 20.581582570169004,
+        "rating_sigma": 6.163719095461433,
+        "result": "loss"
+      }
+    },
+    "2021-12-06T14:28:28.099538+00:00": {
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "eebcac5d-5554-4687-b7d2-3894e4f8636f",
+        "name": "*Ends You*",
+        "rating": 28.431334591622072,
+        "trainer_id": "7ff68788-3366-489f-9efd-bb3c16421574",
+        "trainer_name": "VocalFan",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.2971196676756662,
+        "rating_mu": 21.922772132601274,
+        "rating_sigma": 6.875217488308536,
+        "result": "loss"
+      }
+    }
+  }
+}

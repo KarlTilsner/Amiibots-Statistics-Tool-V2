@@ -1,0 +1,43 @@
+{
+  "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+  "id": "5664ce1a-fc2d-4799-aa96-6fb26906462e",
+  "name": "My $8.00",
+  "trainer_id": "932a9ec7-b463-41d8-bc40-59e2e396a8ed",
+  "trainer_name": "ricola7ttv",
+  "matches": {
+    "2024-03-15T18:58:53.202992+00:00": {
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "627d00aa-14f0-412a-8662-d153bceb1959",
+        "name": "Mommy",
+        "rating": 21.53244153243412,
+        "trainer_id": "340b16cc-6edc-4f6f-9d5b-cb3004218d3f",
+        "trainer_name": "neontide438",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.746273507707734,
+        "rating_mu": 20.261368633379238,
+        "rating_sigma": 6.505031708557168,
+        "result": "loss"
+      }
+    },
+    "2024-03-19T05:26:05.896240+00:00": {
+      "this_amiibo": {
+        "rating": 9.236125408224279,
+        "rating_mu": 24.745969311487062,
+        "rating_sigma": 5.169947967754261,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+        "id": "8121e8bf-5828-4db3-94ef-3e6de44463de",
+        "name": "SamsungS10",
+        "rating": 18.939432878986928,
+        "trainer_id": "d7f44591-9713-4c95-b840-3607f6a73d24",
+        "trainer_name": "luckman21",
+        "result": "loss"
+      }
+    }
+  }
+}

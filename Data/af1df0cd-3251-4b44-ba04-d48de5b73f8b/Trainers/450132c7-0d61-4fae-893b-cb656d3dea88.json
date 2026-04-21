@@ -1,0 +1,998 @@
+{
+  "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+  "trainer_name": "average_videogame_user",
+  "amiibo": {
+    "f304cd3d-f6d8-4446-9d0c-91639dc6342c": {
+      "name": "CASH MONEY",
+      "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0"
+    },
+    "b35a3279-db7d-4098-ad20-dfa0e9b89e84": {
+      "name": "Rampage",
+      "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9"
+    },
+    "6a7909ee-0bba-4d78-bcf6-56d27b5377ea": {
+      "name": "Batman",
+      "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb"
+    },
+    "83e85b87-f9e4-4baa-979d-97ff112ba8b9": {
+      "name": "Leo",
+      "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb"
+    },
+    "7091e795-dab8-4e16-99b9-8253e570bd7d": {
+      "name": "Boy Lucina",
+      "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432"
+    },
+    "9ecc4ce8-44ed-4129-8f4c-d63ce434568e": {
+      "name": "Aerith",
+      "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb"
+    },
+    "3ab36689-13f5-40c3-b080-abcde59d59fc": {
+      "name": "Are you ok",
+      "character_id": "5a6be0b7-a734-4507-8999-65130e56e292"
+    },
+    "1bc57f88-3bf2-48ce-bdd5-6ce75995ce4e": {
+      "name": "Paul",
+      "character_id": "5a6be0b7-a734-4507-8999-65130e56e292"
+    },
+    "be361547-0b5e-471e-8813-222a0d87fb9f": {
+      "name": "Aether",
+      "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7"
+    },
+    "6e32f9ab-94b2-417d-8a88-594bcb6ff661": {
+      "name": "TheRevival",
+      "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6"
+    },
+    "f7136246-bdf1-4698-a700-c0d767d896af": {
+      "name": "DarkKnight",
+      "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7"
+    },
+    "6bb3d3c2-5b5e-4d39-989b-bd2a2d834cd1": {
+      "name": "Joe Flaco",
+      "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9"
+    },
+    "ad2dc83b-0827-492d-9304-f1b9811dc543": {
+      "name": "Hehe",
+      "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1"
+    },
+    "22c73614-eacc-4150-a79d-edcf6c4899ff": {
+      "name": "Man Fox",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "bf612492-5758-4ffc-9699-1c12a87dc04a": {
+      "name": "KSI",
+      "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047"
+    },
+    "4981ee1b-444e-442e-916b-30575a24afa8": {
+      "name": "WAAAAAAAAA",
+      "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105"
+    },
+    "01f8ba55-175c-49da-9ebe-d7e02baa5efc": {
+      "name": "The Legend",
+      "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb"
+    },
+    "6152d346-e239-4037-8763-03f512966e2c": {
+      "name": "Phil Swift",
+      "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509"
+    },
+    "571e6926-caa0-425b-9fe5-664a9f6f13a8": {
+      "name": "Joe Flaco",
+      "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9"
+    },
+    "5ecf81aa-b5d0-457f-8ef2-7f5311d315b2": {
+      "name": "Man Fox",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "785222f7-ae9e-48aa-9a67-5db593bb0061": {
+      "name": "Man Fox",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "973bda71-d001-4ce1-ba4a-274b39f3e44f": {
+      "name": "Man Fox",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "9595ddb8-410e-483c-8072-d0a17292be55": {
+      "name": "Man Fox",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "7316581c-b6c1-4584-a90d-a2e26b481d39": {
+      "name": "Man Fox",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "36a1aad1-c282-4002-b67f-25aed3985ca8": {
+      "name": "Man Fox",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "fd836e1f-4313-4712-933e-a304c632a7da": {
+      "name": "Man Fox",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "fa74bb57-28bd-4ac9-975a-4e8b82fb5bae": {
+      "name": "Man Fox",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "866c156d-b47e-4ea9-b10e-e48d72d3fb5c": {
+      "name": "Man Fox",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "90ce8171-9181-4c66-b5f5-88f190321f9f": {
+      "name": "Man Fox",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "e632a703-f9bc-4f10-8c3b-99ffd31d9572": {
+      "name": "Man Fox",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "1c61ebec-ca4c-4e7b-9b4e-f52878b258ed": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "ff75b419-e41d-4927-8c7c-377abb05b6ea": {
+      "name": "why?",
+      "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b"
+    },
+    "2c70d096-81f1-4436-9f36-144ae91640e3": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "6651d8cb-195e-4831-875a-e0969e4bf1b7": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "d8b28e72-7882-4d64-ba85-a6520f48de45": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "e60fb92e-f1f3-4c51-b955-66a4b108d98a": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "547ac0eb-8724-434a-bb6a-89ed8361f052": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "a1cf78a1-0415-409d-82eb-452941918326": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "1d103f70-ec70-4b93-ae06-e275218b8012": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "d51fd3fa-5b3b-4ce2-b72d-927c52a9a518": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "efb24a67-8d63-4bf6-bdd8-aac90d74e7e4": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "504d70a0-e82f-479f-8b9e-178afcc400b0": {
+      "name": "Man Fox",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "3081d05a-f213-478e-9a82-41725e6f2ab8": {
+      "name": "Aeris",
+      "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb"
+    },
+    "caf4e049-7ffb-43c3-b173-d644b7f4765e": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "ac3bb104-e97f-4bf5-a2c1-b2b81ef80e56": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "d1c32b2b-d9aa-4f0c-b136-d66872a47fb8": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "662e2995-32df-48bd-9337-68d37e9c7922": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "203ba63f-deda-47b9-9dd6-19d969528df0": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "970677ba-28ce-475b-9ab3-019d1fbb00f4": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "cbcbe91c-31c6-4050-b66c-c2f57faf5d49": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "c8d7ff08-1b8a-496c-9e74-0e5e832828f0": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "4fe0a916-a77d-4bde-9085-fc67e7c13a50": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "0e9741e8-cbbf-405c-97e8-168ffe0e0f8e": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "0f3439e9-8bfe-405e-8187-8323527d6151": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "3260c8f4-aecb-417b-8012-ecb8f0c19cdf": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "fe1532cc-d496-4cf9-a583-09de959dc2a7": {
+      "name": ":cloud:",
+      "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626"
+    },
+    "006820cd-03ca-45a1-a391-8bc6bc2cea8c": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "09d407ad-37a9-4d1a-b3e7-f5fdaf1808e8": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "2147b772-bb5c-487c-8cc2-80ec26711389": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "35c89747-8213-4fc7-8b81-6674750f940d": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "980bdbfc-b813-406a-b82f-644f957f5156": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "53b8e1cf-e6f3-449f-b999-952dbc90461f": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "9a627522-28af-4850-9b1b-edbd62fe8f38": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "4b9f9f8b-a0a0-4a61-8eaa-9c6aa8de6637": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "fd9c5b17-d83d-4471-98a5-ce224412ab53": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "bc66a2f5-41bf-4057-8038-d60df915dbb3": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "ab757d21-1680-4924-a62d-3c6bd591f168": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "76be13df-d419-4000-a518-97c2489f02ec": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "459b6ce5-4de0-444b-a757-5d94cd683917": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "8edf27a1-2d9a-4fe7-aff3-f611ef299ac7": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "7cf9ce60-b6ae-47f1-a248-e5416d54bfc3": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "7deedbb6-1004-424e-a16b-640412ec5eb2": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "1e88d1dc-4d65-4f54-b225-8b8b1bfd1151": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "6eff251c-cd9b-4f18-b111-daf87914fb15": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "dfebc36c-bce1-47f9-90f9-e93fd01e59db": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "c6f07b4a-14ce-4464-aeb4-bf8a7359fb91": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "2570b03b-b196-4513-afcd-a10d87cd9a5d": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "82a6088b-890c-47e6-8fcd-f6efa9e3e9c5": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "6f3dd7cd-fd6a-46ed-b33c-b9f55686301b": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "9c3cdef4-8332-4b7d-bfce-8214d2335a34": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "c63f95c8-28e7-4766-bbbf-9c7efdfce61c": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "7fb92fec-e3fe-4c00-9ea4-9206668bbce7": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "3ae9ac2c-162f-4bc8-9b84-6f34e5245e51": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "b0a24830-2232-47a9-9300-2d156be6ba2d": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "a097732d-5216-466f-9f05-113ae7a1a9ad": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "c065752b-a776-479e-98da-8be5bd6c06af": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "8e75bbf1-6e7e-4d4d-94df-2c20eebdb713": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "f1fe5145-72a7-4a5c-a883-9d329a49d862": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "cf8766cc-a231-4f7b-913e-3fe323eccb52": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "4ccb96e2-3b52-4af6-905c-c9e277c6544d": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "32b7c742-7d36-4779-8dfa-c1ba62f81f34": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "20e4865a-4949-4092-9a74-46b571299f4e": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "002139e3-0287-42e6-af33-90800c0f5486": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "0b83fe2b-3953-4189-9ae5-9d8bf95302b2": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "1c808c95-3640-4ada-b56c-850e47c04e6d": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "357e1e72-5799-476e-9f0c-339fdbbf2560": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "ec57b919-1575-49af-b12d-d4aafcf93056": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "36b6c208-275c-4c6e-b8ab-00fcbfb2452c": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "976728b1-5960-40f7-9267-77d18b341443": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "1a2bdec5-7613-4ed3-b005-d86a135e046b": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "c991c8ed-7353-4370-94d3-809ae8fdc65e": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "598dcbf9-8974-460b-b3f6-bec8652c4794": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "da0a80ff-229e-4ada-9f32-280b3993c8d3": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "b700468a-2602-4a58-9b69-812abf114b23": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "057a6b60-290c-4a7d-b00b-5e467ec1d1dd": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "eb8d3d29-cc5f-4868-8691-37e88278aa84": {
+      "name": "Duhbuffalo",
+      "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105"
+    },
+    "db6088e8-9503-498f-a4af-9796e74bd46b": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "fd85e475-efcb-469a-ab23-76e8a80805d4": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "c6ee83c0-e81d-4c05-a643-19ea0b6716a6": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "2072365d-3e41-492f-9621-46b336dbf830": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "360b6212-4002-4eda-95e6-9936a835fc8e": {
+      "name": "STOOOOOPID",
+      "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9"
+    },
+    "9f5d66a5-d1fe-4b12-9991-ceae626d9f98": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "79b6bd3d-ecd3-4b13-b98f-993e772425ec": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "89afe8fe-223d-4c1e-8df7-2561973a31ca": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "58cc1bf7-6a08-4d40-b1b1-db30e0c1d84c": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "1ca55174-45e1-46c9-8837-5746eb6aa7e9": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "ebeb92e6-0e08-48a0-b946-d4980df4fab3": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "7fd7f885-8563-45d4-860f-ff9524f2d3a1": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "b25a1433-a29f-4698-ad0f-f23cce6fe25d": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "5b2930b2-ef0b-494d-a789-1d95dbb8fb96": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "659e92bf-14e5-4016-b5ce-23a02e1d4242": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "962cd842-2063-43bd-b33b-b8ec9be746b3": {
+      "name": "SSRACING",
+      "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d"
+    },
+    "46654c5f-4ef8-41b0-9904-8a97780f4b95": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "79842210-f19f-4091-ab86-15cacec69c06": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "ea78668a-7691-4180-95a9-3de8d6f81383": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "6a34bd47-76df-4534-9f5d-4bf1c9907bea": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "c2b3520d-081a-42a5-9faf-3e7491d4c572": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "17b44567-bfc3-4cd7-9452-31d1df71babb": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "b1414ee3-e8e1-4a19-ace5-396fc67914dc": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "b960f244-6e3f-4ad7-afe9-4e5ed4109e76": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "55cb6266-fb21-4736-a145-778d415a014f": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "68a9f15d-d027-4a99-bd0f-9fc36e1930a3": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "7776550d-8195-4209-828a-022be624668d": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "4ddfec56-0e5b-4825-a0c6-34750823402a": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "a2d1f845-008a-4706-b211-6447490c2403": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "1d06d5d0-7d05-4437-ae91-7eb1f2954ea9": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "6ae1717f-093f-4512-a43b-514e4ac31f84": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "89af953f-df0b-4d03-8d69-c91401cdd9b5": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "883db2aa-8cf9-45df-baae-ff34b6aa63b2": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "f87d5218-dd73-4bdc-b853-2419af4d44cd": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "2500e5f4-cd43-4192-b9a4-7fda38e0823c": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "f127af59-d918-4f24-9add-f46c62b82671": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "3b36ac2c-a75b-461e-945d-64c5fc6e9c20": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "7a21bf4a-ddf7-482c-807c-bbf4ae155ed2": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "3f1dae29-2c04-4638-8cf3-e231eb1f23cf": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "65a42416-3e09-496a-bee0-aefdd52f53d8": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "0b5dd321-f7af-4d2b-88d1-2b6dd3fddfd2": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "0027c393-6153-432b-8815-5178dece2ef8": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "cc15b92c-b9a7-4db4-afd3-53cfcde47512": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "a32c21bb-694d-43d7-9a5b-00920e86793c": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "9d3420e0-e9d5-4f83-8f6f-0555a56e9d21": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "12766ce0-d894-4364-88b6-69658f2ab467": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "09381952-3d29-461b-9054-437fb361ba84": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "898079e9-fa32-4bcf-9867-ced4d43684ea": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "fb959522-1c21-42cd-99d5-0c32e1fb3ddc": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "bf27881b-fe15-48c2-a95c-e80c17044939": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "29d89840-1f19-410d-bdf7-ddbef4fc9e88": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "261870a8-4988-47a3-ad89-e2b6829ae000": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "980332bc-e2fb-404f-b7e3-4d396399ca44": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "aa098519-2598-4e69-b112-01e8c1c83797": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "2c663129-3557-4e04-98f4-f605aaab70bb": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "670097e5-acf2-43d4-a3c4-313cb2751f60": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "12582d84-efe0-4a75-a932-79a8a5df2960": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "6e727ab8-19a2-45c1-b506-b351a1b7ed33": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "4cf0fa28-a80b-4ed9-a9d1-a1e8cc11bd59": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "618ec061-8eb0-4d8f-b971-558e6d41a197": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "170cc6e7-125c-41c7-987e-a3731f5f8f57": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "67d9dd44-40ad-448b-92e5-0188550a39df": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "ae53ed63-493e-4173-8531-93ae895d5531": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "f4a74d76-98bb-4c41-9d8e-d5c05b46b9ec": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "7ee12e77-ebd3-4f7a-91c4-47424a9a62ab": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "ef8fc65c-768a-4ccb-a171-3838ee12dcea": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "6e7aa251-fb01-41c5-8f14-0d5668b82113": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "91a792e5-a17a-49fb-aa8b-9222c58ccab5": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "90f3f690-5eab-4aa7-a4b2-86e022c1ebb1": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "2def3834-69fc-46a9-890e-964f498a0e78": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "40bb0946-5f4d-414a-9c81-6c1bf048dd2b": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "addf51a5-6791-40e1-9276-8d9c3831203a": {
+      "name": "Let'sMosey",
+      "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626"
+    },
+    "50eb9c71-4805-4e84-80bb-129d347491c9": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "4c397507-3bd8-4963-89f1-4c6852a1d03f": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "1fcae290-4a52-4a49-b516-a45a4177fe6e": {
+      "name": "Daredevil!",
+      "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb"
+    },
+    "d478f18b-2ee4-4924-84f2-a45f9371d26b": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "4c97e5ce-7c6e-49be-9859-324a83b42699": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "3aaa32ab-c898-489c-88af-e22fb4344385": {
+      "name": "Reborn",
+      "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509"
+    },
+    "37074771-c161-47de-b80f-e17349c424bb": {
+      "name": "CASH MONEY",
+      "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0"
+    },
+    "f1860e5a-64e1-4005-bd67-02487984dfa7": {
+      "name": "CT-5555",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "1309b5d1-b4bc-475d-b77b-6d1e5a02170a": {
+      "name": "Aerith",
+      "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb"
+    },
+    "5a85f496-31ee-4229-afac-a6aec73b7a78": {
+      "name": "Joe Flacco",
+      "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9"
+    },
+    "ad590bf0-5002-450b-a8fa-7e622cc07941": {
+      "name": "Daboomin",
+      "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9"
+    },
+    "5e9918f8-a745-4cc7-9bc2-3094568f6ea7": {
+      "name": "Daboomin",
+      "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9"
+    },
+    "12aafbb4-70a1-4b67-bf1d-173ea205fb78": {
+      "name": "Daboomin",
+      "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9"
+    },
+    "0d676b9c-fa0d-4e5c-a4d1-5a6a7d62d581": {
+      "name": "Fυcks",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "1fc93bb6-8d61-42de-899e-c002cf5690d6": {
+      "name": "Fυcks",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "f8ff4c87-40df-4cec-9799-478e43cd72d4": {
+      "name": "ITS AH MEE",
+      "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3"
+    },
+    "3a1aed01-a807-41ef-b312-649a9f881cd0": {
+      "name": "StealYoGrl",
+      "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c"
+    },
+    "13f9585f-8de0-47fd-a066-3047f3e8ce31": {
+      "name": "Going Dark",
+      "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366"
+    },
+    "244c9926-71b5-4458-b3d4-ce88ed952729": {
+      "name": "Daft Punk",
+      "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9"
+    },
+    "9d20ad69-31a1-4702-b78f-8b66d61e6c26": {
+      "name": "No Damage",
+      "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5"
+    },
+    "af3d8a8f-4054-4ef0-b11f-a28281c1e019": {
+      "name": "Scarlet",
+      "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb"
+    },
+    "59cff60d-bf80-4505-acbe-58251d53f5fc": {
+      "name": "My Queen",
+      "character_id": "e2531ffe-e834-49ae-b233-56386472a6ed"
+    },
+    "ffb4d302-869e-412e-9684-11b58c1a2d4c": {
+      "name": ":no_mouth:",
+      "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828"
+    },
+    "f0b23bb1-8635-4d3b-9249-307d132d9cde": {
+      "name": "BÏTCHĀSSHØ",
+      "character_id": "518596af-acc8-4205-b24e-db8f8a953756"
+    },
+    "d27bbf0b-3b35-42be-9782-c23e4fdba9b4": {
+      "name": "Johnathan",
+      "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432"
+    },
+    "d8e92620-ce8c-4932-bcae-d80152f04a91": {
+      "name": "silly :D",
+      "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b"
+    },
+    "21226e80-e746-4e56-be04-4f186f251ed2": {
+      "name": "Let'sMosey",
+      "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626"
+    },
+    "c0663017-a028-41dc-9427-2df83fc8af67": {
+      "name": "Daboomin",
+      "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9"
+    },
+    "1f500cc8-9118-480e-8dfe-0d9cf93a8f8a": {
+      "name": "Genesis",
+      "character_id": "96e48494-946f-4280-a419-488d644135e0"
+    },
+    "d172f4fb-8741-4a41-9c9a-efd8deed29cb": {
+      "name": "Daboomin",
+      "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9"
+    },
+    "5346481e-b738-4018-abc6-d4f37ba6cc3c": {
+      "name": "Fυck you",
+      "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc"
+    },
+    "4e20e344-1e64-4849-9b83-820f9672ad4c": {
+      "name": "Josh Allen",
+      "character_id": "2cf4a409-b186-43a9-948f-175abbef3426"
+    },
+    "1ec42461-46d9-4a54-ac91-b4f46cad088f": {
+      "name": "Josh Allen",
+      "character_id": "2cf4a409-b186-43a9-948f-175abbef3426"
+    },
+    "331cb0a0-40ac-466d-a86a-5246951b624a": {
+      "name": "Josh Allen",
+      "character_id": "2cf4a409-b186-43a9-948f-175abbef3426"
+    },
+    "19c2e28c-4eeb-4b4c-b631-21fa29e425f0": {
+      "name": "Josh Allen",
+      "character_id": "2cf4a409-b186-43a9-948f-175abbef3426"
+    },
+    "01893dad-db7f-46c3-b24f-9ca1b7e0c65b": {
+      "name": "THE Blade",
+      "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504"
+    },
+    "07a77e4f-df2d-4be9-9763-61b93ab4f019": {
+      "name": "YOU!",
+      "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3"
+    },
+    "de53e11e-ff12-4995-9ca6-a2fa9c4419cf": {
+      "name": "Lock♥",
+      "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba"
+    },
+    "98e12d41-b506-40fa-9e55-20316f6478dc": {
+      "name": "BDHF7000",
+      "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb"
+    },
+    "d380c859-a00f-45b9-9f0b-cd3db741baa0": {
+      "name": "GO GO GO!",
+      "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6"
+    },
+    "75adc441-8fa5-4e95-9f9d-d99f70439a53": {
+      "name": "The Plant",
+      "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89"
+    },
+    "3b5f1b20-4c04-4a0d-a798-e27947ac464b": {
+      "name": "OmniAerith",
+      "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1"
+    },
+    "c1153702-4056-4559-93ff-734ba6b9f356": {
+      "name": "Little Ben",
+      "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41"
+    },
+    "43aedce9-f8a2-452f-93b1-6b3176696514": {
+      "name": "Daft Punk",
+      "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9"
+    },
+    "f40eb515-871b-4893-8e4c-59813f3edb7b": {
+      "name": "Daft Punk",
+      "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9"
+    },
+    "72a13267-97eb-4259-8812-b88ee00280e4": {
+      "name": "Fυcks",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "0191d4c8-b9ab-4261-8b74-621f04058c9b": {
+      "name": "Fυcks",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "73c31fd6-4985-4035-a305-ec8e4fffcd8a": {
+      "name": "Fυcks",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "a5d7d97f-fd16-4b88-ad0c-f3d89afc93e1": {
+      "name": "Fυcks",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "d082effe-e51b-48a6-8aec-fd3bc53a2c06": {
+      "name": "Fυcks",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "f576eb51-a2c7-4695-91a4-55cfeb4e2139": {
+      "name": "Fυcks",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "8fd65f54-d86b-46a0-96b9-4f922ef8291c": {
+      "name": "Fυcks",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "5b68d449-5ba9-46d2-8a31-f741b99406d4": {
+      "name": "Fυcks",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "a876ce15-6098-4a04-b61d-6744c1a6eb48": {
+      "name": "Fυcks",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "023a3b77-5369-4da9-8ccf-836df04e5f93": {
+      "name": "Fυcks",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "1e68dc55-f0c4-45b9-bb8b-f396037cc803": {
+      "name": "Fυcks",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "6e5dbab2-9812-47f2-b9b3-9ac2a53788d1": {
+      "name": "Fυcks",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "ab02b258-98e0-471a-84f1-b92f5d352210": {
+      "name": "Fυcks",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "fb011d79-17a9-4dfb-a28b-68f69e72f368": {
+      "name": "Fυcks",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "269c0005-c2ca-4330-b9e8-48143b57c681": {
+      "name": "Fυcks",
+      "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272"
+    },
+    "47f6698c-ce15-45c1-9495-fe55ec3e4d38": {
+      "name": "HIM",
+      "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509"
+    },
+    "f67a4339-8b66-4ed6-9465-2fdca14d7f4f": {
+      "name": "Talk is< $",
+      "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823"
+    },
+    "aec45d03-1200-4e9f-8166-b92ca35ac516": {
+      "name": "I AM STEVE",
+      "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330"
+    },
+    "0a90effc-d64d-4e31-b185-3017d64e5f64": {
+      "name": "Sakurai",
+      "character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7"
+    },
+    "f65e9578-789e-46b6-a863-949a7e45b0b1": {
+      "name": "TIFAAAAAA!",
+      "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626"
+    },
+    "f512c26f-3419-4ca6-8302-450afb3f9489": {
+      "name": "Sandalphon",
+      "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928"
+    },
+    "a8140477-b56b-4fae-a035-ac8e34c3c9fc": {
+      "name": "Monke Do",
+      "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded"
+    },
+    "839d5b22-7307-43ab-908e-e2102652fc20": {
+      "name": ":no_mouth:",
+      "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828"
+    },
+    "859a285e-96fa-460d-87ed-caa82921b02d": {
+      "name": "I AM STEVE",
+      "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330"
+    },
+    "88a1a82a-d17a-472a-abd6-cf71d8482f6e": {
+      "name": "TIFAAAAAA!",
+      "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626"
+    }
+  }
+}

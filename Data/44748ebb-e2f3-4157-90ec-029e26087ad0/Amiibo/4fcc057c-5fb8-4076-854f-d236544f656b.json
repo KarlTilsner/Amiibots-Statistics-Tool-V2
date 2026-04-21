@@ -1,0 +1,60 @@
+{
+  "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+  "id": "4fcc057c-5fb8-4076-854f-d236544f656b",
+  "name": "Lucky",
+  "trainer_id": "43cffe5f-d305-452b-a9de-fdff2396f7c3",
+  "trainer_name": "UltraDPG",
+  "matches": {
+    "2020-08-24T12:49:01.347803+00:00": {
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "4a9b4fd5-63a0-46de-beea-31f32f6c3eca",
+        "name": "CS Tolkien",
+        "rating": 15.223073548174133,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.001837794094427636,
+        "rating_mu": 19.429035240971007,
+        "rating_sigma": 6.476957678355145,
+        "result": "loss"
+      }
+    },
+    "2020-08-25T02:46:36.477403+00:00": {
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "e6c4e527-9cdb-441a-9995-343357921dc5",
+        "name": "C-Void",
+        "rating": 19.813970001330567,
+        "trainer_id": "e315cc8f-425d-4686-a648-103739846f36",
+        "trainer_name": "darkmega5",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.4892523680391072,
+        "rating_mu": 17.155043877419264,
+        "rating_sigma": 5.555263836460052,
+        "result": "loss"
+      }
+    },
+    "2020-10-07T03:46:58.588894+00:00": {
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "ab968745-fbae-4342-ac56-39d88f53f8fe",
+        "name": "Yoker",
+        "rating": 23.221867042134004,
+        "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+        "trainer_name": "Kangoni",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.8173079399769563,
+        "rating_mu": 16.67298537705887,
+        "rating_sigma": 5.285225812360637,
+        "result": "loss"
+      }
+    }
+  }
+}

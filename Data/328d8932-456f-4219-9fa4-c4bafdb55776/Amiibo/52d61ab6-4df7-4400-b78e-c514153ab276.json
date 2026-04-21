@@ -1,0 +1,43 @@
+{
+  "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+  "id": "52d61ab6-4df7-4400-b78e-c514153ab276",
+  "name": "Purprue",
+  "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
+  "trainer_name": "gotelin_",
+  "matches": {
+    "2021-11-21T04:17:36.990184+00:00": {
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "59b051a7-2954-40ad-a9e4-ec3ffa248e9e",
+        "name": "AllSkill",
+        "rating": 23.978776297352255,
+        "trainer_id": "c19b6888-ed95-45db-9980-5ecbf0506cf5",
+        "trainer_name": "tylertfisher",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 9.521376125988954,
+        "rating_mu": 26.26173234667206,
+        "rating_sigma": 5.580118740227701,
+        "result": "loss"
+      }
+    },
+    "2021-11-21T04:09:15.356255+00:00": {
+      "this_amiibo": {
+        "rating": 9.399717448510508,
+        "rating_mu": 29.308243786604677,
+        "rating_sigma": 6.63617544603139,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "227536fa-d082-4105-ab73-fd6588d5c8fa",
+        "name": "Ratboy",
+        "rating": 14.740996366357436,
+        "trainer_id": "285e7975-8b1a-4cc6-8e3a-4c62d6e41e9a",
+        "trainer_name": "ironicname",
+        "result": "loss"
+      }
+    }
+  }
+}

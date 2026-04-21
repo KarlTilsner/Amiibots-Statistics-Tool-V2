@@ -1,0 +1,43 @@
+{
+  "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+  "id": "1ad73cd8-188c-41a5-ad35-be598e6ac1ae",
+  "name": "Costy",
+  "trainer_id": "b3c93a1e-0aee-4a76-a0ed-36bc7258e629",
+  "trainer_name": "Bananika7",
+  "matches": {
+    "2022-03-29T03:42:40.981434+00:00": {
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "dc8b8e40-6590-4791-b976-6918338755e9",
+        "name": "ShellShock",
+        "rating": 23.698302279260737,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.1022084591650945,
+        "rating_mu": 22.09163601206686,
+        "rating_sigma": 6.996475850967255,
+        "result": "loss"
+      }
+    },
+    "2022-04-13T07:55:45.867512+00:00": {
+      "this_amiibo": {
+        "rating": 9.88933146577589,
+        "rating_mu": 26.562728300429185,
+        "rating_sigma": 5.557798944884432,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "edc7b3bf-14a7-47d6-9c35-d923cae3260d",
+        "name": "Turnip",
+        "rating": 17.36453088412107,
+        "trainer_id": "db478eb2-7e39-43c5-9dca-2fe9358ad69a",
+        "trainer_name": "thatbupguy",
+        "result": "loss"
+      }
+    }
+  }
+}

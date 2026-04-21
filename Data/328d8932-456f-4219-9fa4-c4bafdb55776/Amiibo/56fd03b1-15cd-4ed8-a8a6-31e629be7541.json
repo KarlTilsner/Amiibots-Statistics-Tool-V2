@@ -1,0 +1,43 @@
+{
+  "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+  "id": "56fd03b1-15cd-4ed8-a8a6-31e629be7541",
+  "name": "Karen",
+  "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+  "trainer_name": "sp_staples",
+  "matches": {
+    "2021-08-21T20:47:42.408190+00:00": {
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "ba255257-47fd-4af6-b7d2-16341c843fec",
+        "name": "Doggo",
+        "rating": 18.19119169929987,
+        "trainer_id": "f15712ec-1029-4da4-b09b-8c5e7f335f7b",
+        "trainer_name": "0underscore",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.13999659067174974,
+        "rating_mu": 18.311512102637945,
+        "rating_sigma": 6.150502897769898,
+        "result": "loss"
+      }
+    },
+    "2021-08-21T21:46:58.851150+00:00": {
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "7b9f3508-e8bf-4a11-8aaf-39c5a73d7400",
+        "name": "ANNIHILATE",
+        "rating": 17.25553443764479,
+        "trainer_id": "e315cc8f-425d-4686-a648-103739846f36",
+        "trainer_name": "darkmega5",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.0976633598856953,
+        "rating_mu": 15.794075686757187,
+        "rating_sigma": 5.232137442290497,
+        "result": "loss"
+      }
+    }
+  }
+}

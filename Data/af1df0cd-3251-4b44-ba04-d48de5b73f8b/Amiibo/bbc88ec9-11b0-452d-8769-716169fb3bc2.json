@@ -1,0 +1,77 @@
+{
+  "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+  "id": "bbc88ec9-11b0-452d-8769-716169fb3bc2",
+  "name": "Mr. M",
+  "trainer_id": "89946893-b4ec-41d4-a71b-b925e22b4225",
+  "trainer_name": "marioandfriends1",
+  "matches": {
+    "2022-11-13T08:53:11.273015+00:00": {
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "a4d5d085-4fb3-4a3c-b531-08235c0117fe",
+        "name": "KingK Cool",
+        "rating": 18.231379486437135,
+        "trainer_id": "64acd7f3-4e04-47ff-9205-3462b48f8e72",
+        "trainer_name": "jessee1209",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.47068861873244927,
+        "rating_mu": 20.095247907589304,
+        "rating_sigma": 6.5415197629522845,
+        "result": "loss"
+      }
+    },
+    "2022-11-22T21:12:52.916901+00:00": {
+      "this_amiibo": {
+        "rating": 10.09325127442385,
+        "rating_mu": 25.46825175007352,
+        "rating_sigma": 5.1250001585498905,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "eb20e32a-e569-4854-b7d5-573a1b78ae07",
+        "name": "pikavolt",
+        "rating": 18.735715638010902,
+        "trainer_id": "714644dd-f017-4e27-ba29-bcd0c56229af",
+        "trainer_name": "pikavolt_",
+        "result": "loss"
+      }
+    },
+    "2022-12-21T06:19:59.392704+00:00": {
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "c2586051-0402-496d-a882-82b803a765cd",
+        "name": "SelieQueen",
+        "rating": 24.36966172934342,
+        "trainer_id": "b9f75440-e3f7-4c8e-8a3f-8dc09b8327ae",
+        "trainer_name": "blackstargem11",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 9.879329378594756,
+        "rating_mu": 23.159829356394123,
+        "rating_sigma": 4.4268333259331225,
+        "result": "loss"
+      }
+    },
+    "2022-12-23T00:20:42.926481+00:00": {
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "bf3a49a5-5c17-40dd-ace0-21f06c6d0323",
+        "name": "Squirteen",
+        "rating": 20.51368450521225,
+        "trainer_id": "c77a47ee-60f9-487e-abed-a8514fdaeeac",
+        "trainer_name": "trueschavi",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 9.560480897376603,
+        "rating_mu": 21.407863368613704,
+        "rating_sigma": 3.9491274904123665,
+        "result": "loss"
+      }
+    }
+  }
+}

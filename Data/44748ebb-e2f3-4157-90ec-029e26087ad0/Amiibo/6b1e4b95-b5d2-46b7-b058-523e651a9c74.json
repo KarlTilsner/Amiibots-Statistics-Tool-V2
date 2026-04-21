@@ -1,0 +1,43 @@
+{
+  "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
+  "id": "6b1e4b95-b5d2-46b7-b058-523e651a9c74",
+  "name": "Gible",
+  "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+  "trainer_name": "Kangoni",
+  "matches": {
+    "2020-06-24T06:55:04.530418+00:00": {
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "f6dd4dbc-52b8-48fc-ade4-541b4b189c43",
+        "name": "Barry",
+        "rating": 13.716068865973318,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "FulminixGaming",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 5.313514402416001,
+        "rating_mu": 20.43539662339715,
+        "rating_sigma": 5.040627406993717,
+        "result": "loss"
+      }
+    },
+    "2020-06-24T06:51:56.280206+00:00": {
+      "this_amiibo": {
+        "rating": 8.203985613916338,
+        "rating_mu": 28.486937958330063,
+        "rating_sigma": 6.760984114804575,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "94963cf9-e38b-4de5-bab5-7117d31791f5",
+        "name": "Mike West",
+        "rating": 17.229752747678983,
+        "trainer_id": "147dbdd6-0e08-4d4a-b7eb-0146fb5735f6",
+        "trainer_name": "Adam2qaz",
+        "result": "loss"
+      }
+    }
+  }
+}

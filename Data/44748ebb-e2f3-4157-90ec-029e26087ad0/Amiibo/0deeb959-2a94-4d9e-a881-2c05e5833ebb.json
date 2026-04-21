@@ -1,0 +1,43 @@
+{
+  "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+  "id": "0deeb959-2a94-4d9e-a881-2c05e5833ebb",
+  "name": "Dark",
+  "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+  "trainer_name": "Kangoni",
+  "matches": {
+    "2020-10-23T06:16:07.164356+00:00": {
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "9e35f76b-06e1-4661-9032-b07cb785141f",
+        "name": "Linner",
+        "rating": 21.935237132311933,
+        "trainer_id": "3e1642f4-3a61-4225-bd2d-d551616be0fa",
+        "trainer_name": "doopfizzle",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.947994495510784,
+        "rating_mu": 21.222833889882335,
+        "rating_sigma": 6.7582797981238505,
+        "result": "loss"
+      }
+    },
+    "2020-10-28T14:51:14.179448+00:00": {
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "9c91d95c-c06e-4719-80c3-7c1370d9513c",
+        "name": "yIKEs",
+        "rating": 17.609082684402622,
+        "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+        "trainer_name": "Kangoni",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.2429019949323319,
+        "rating_mu": 18.221835477854402,
+        "rating_sigma": 5.659644494307357,
+        "result": "loss"
+      }
+    }
+  }
+}

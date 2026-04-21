@@ -1,0 +1,43 @@
+{
+  "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+  "id": "670dfdd5-58da-466a-8ca3-cf681185f297",
+  "name": "Lt. Love",
+  "trainer_id": "60cc23aa-c39d-49e0-b13d-13e205d499bd",
+  "trainer_name": "youaregoknba",
+  "matches": {
+    "2020-11-16T18:57:31.103004+00:00": {
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "97ddc2ce-ee70-4b62-a472-13bff90b1fe3",
+        "name": "Neo-Xion",
+        "rating": 22.108083586819134,
+        "trainer_id": "b4ab7a10-b35b-4091-9c4e-dac76cc4d1f2",
+        "trainer_name": "mercy_main_skye",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.48717191573733487,
+        "rating_mu": 19.403662553964622,
+        "rating_sigma": 6.305496879409096,
+        "result": "loss"
+      }
+    },
+    "2020-11-16T20:23:00.788506+00:00": {
+      "opponent": {
+        "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+        "id": "e67e9e9f-454d-4576-9e35-233396500e87",
+        "name": "JiU",
+        "rating": 24.413192092152258,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.1023687374304316,
+        "rating_mu": 18.093950067705496,
+        "rating_sigma": 5.663860443425022,
+        "result": "loss"
+      }
+    }
+  }
+}

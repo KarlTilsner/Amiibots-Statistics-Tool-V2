@@ -1,0 +1,43 @@
+{
+  "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+  "id": "a56f934e-64c3-47f4-8f18-c9d96f10bda8",
+  "name": "Onka",
+  "trainer_id": "777d12f5-fc42-4921-adbb-e0038cb093e2",
+  "trainer_name": "Halyaran",
+  "matches": {
+    "2021-03-15T12:53:48.299083+00:00": {
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "280a1b8a-4d99-4b48-951a-8fa1397daea2",
+        "name": "BananaKing",
+        "rating": 20.67688837296446,
+        "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
+        "trainer_name": "Murbert_AM",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.6215009013189245,
+        "rating_mu": 19.998335019818,
+        "rating_sigma": 6.458944706166359,
+        "result": "loss"
+      }
+    },
+    "2021-03-21T19:09:05.198895+00:00": {
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "6322a62a-9fc6-4de8-8250-a79e7e8e5ef0",
+        "name": "Boyo",
+        "rating": 15.147351026386584,
+        "trainer_id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
+        "trainer_name": "pinheadpatrick017",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.8958552457611688,
+        "rating_mu": 18.113743750940316,
+        "rating_sigma": 5.739296168393049,
+        "result": "loss"
+      }
+    }
+  }
+}

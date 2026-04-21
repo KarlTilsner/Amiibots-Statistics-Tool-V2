@@ -1,0 +1,43 @@
+{
+  "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+  "id": "7e35bb16-9601-45d9-81a8-3c4dc3275d84",
+  "name": "dragon bro",
+  "trainer_id": "c4b64610-bef3-429c-a9db-6e6e4bc17e05",
+  "trainer_name": "sheepplant",
+  "matches": {
+    "2022-01-17T18:42:45.101866+00:00": {
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "52730ee7-42e5-4153-b2dc-d928053e3490",
+        "name": "ΩJackBlack",
+        "rating": 22.452868358175625,
+        "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
+        "trainer_name": "schmorchid",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.019933157070934,
+        "rating_mu": 21.703313940615875,
+        "rating_sigma": 6.8944602611816475,
+        "result": "loss"
+      }
+    },
+    "2022-01-18T17:31:44.042217+00:00": {
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "df118e62-9508-4327-a23c-8e81ad597448",
+        "name": "kfc $5 box",
+        "rating": 23.321052422985836,
+        "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+        "trainer_name": "fammydamammy",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.734649150258452,
+        "rating_mu": 19.55723655661977,
+        "rating_sigma": 5.940862468787106,
+        "result": "loss"
+      }
+    }
+  }
+}

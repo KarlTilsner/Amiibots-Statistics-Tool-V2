@@ -1,0 +1,43 @@
+{
+  "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+  "id": "3c89ec29-980f-4ef6-8262-224856ae60d4",
+  "name": "Sam",
+  "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
+  "trainer_name": "gotelin_",
+  "matches": {
+    "2022-09-09T07:29:05.884308+00:00": {
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "dee46c5c-5372-46ad-b836-2e6784ecfe9a",
+        "name": "Midoriya",
+        "rating": 25.138032559182026,
+        "trainer_id": "4345ecdf-2886-46de-b0e4-755576321316",
+        "trainer_name": "mariocraft6000",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 13.195422830891072,
+        "rating_mu": 27.940256205748785,
+        "rating_sigma": 4.9149444582859045,
+        "result": "loss"
+      }
+    },
+    "2022-09-09T07:15:42.337347+00:00": {
+      "this_amiibo": {
+        "rating": 14.03659917952944,
+        "rating_mu": 32.35063593436024,
+        "rating_sigma": 6.104678918276933,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "1f547f08-4ac6-488d-8408-e07c15799050",
+        "name": "Chuckya",
+        "rating": 23.205582794855193,
+        "trainer_id": "26942317-1919-4c5c-8072-7bc3e0bc2838",
+        "trainer_name": "NurfboyU",
+        "result": "loss"
+      }
+    }
+  }
+}

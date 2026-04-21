@@ -1,0 +1,43 @@
+{
+  "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+  "id": "f2e86f6a-2ba2-4682-8b07-7c730741fdca",
+  "name": "Greg",
+  "trainer_id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
+  "trainer_name": "pinheadpatrick017",
+  "matches": {
+    "2022-01-03T00:12:21.307008+00:00": {
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "24abca9e-ba91-4c4b-84fc-81a9015cdb12",
+        "name": "Slingshot",
+        "rating": 27.893238810846736,
+        "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
+        "trainer_name": "YM44",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 9.640648076847455,
+        "rating_mu": 25.743299051181488,
+        "rating_sigma": 5.36755032477801,
+        "result": "loss"
+      }
+    },
+    "2022-01-02T23:59:44.926280+00:00": {
+      "this_amiibo": {
+        "rating": 9.525637578542003,
+        "rating_mu": 29.27687978579484,
+        "rating_sigma": 6.583747402417613,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "a7064a2b-f6e0-4a70-b4f0-7861fe448c74",
+        "name": "Corkscrew",
+        "rating": 18.04836129714998,
+        "trainer_id": "5d49133f-f2e3-449b-b297-19d899fdf013",
+        "trainer_name": "thedailydude",
+        "result": "loss"
+      }
+    }
+  }
+}

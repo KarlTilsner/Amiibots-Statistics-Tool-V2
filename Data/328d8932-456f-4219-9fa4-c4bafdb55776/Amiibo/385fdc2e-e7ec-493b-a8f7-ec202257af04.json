@@ -1,0 +1,43 @@
+{
+  "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+  "id": "385fdc2e-e7ec-493b-a8f7-ec202257af04",
+  "name": "Ninten",
+  "trainer_id": "333ada9d-112d-469a-8a26-320358969432",
+  "trainer_name": "smashssf2_ita",
+  "matches": {
+    "2022-01-27T04:34:14.742013+00:00": {
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
+        "name": "Hero",
+        "rating": 32.7458781988773,
+        "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
+        "trainer_name": "nozzly",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.3213533845000889,
+        "rating_mu": 23.086030989917248,
+        "rating_sigma": 7.254892535139053,
+        "result": "loss"
+      }
+    },
+    "2022-02-23T10:18:50.057643+00:00": {
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "98843f24-8e1b-4ade-b0bf-0e2c3ec4e0b9",
+        "name": "ぶた",
+        "rating": 28.042120455878422,
+        "trainer_id": "73ed9260-7617-4ae1-a395-7e0ddb479057",
+        "trainer_name": "CupNoodle",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 2.253456274458003,
+        "rating_mu": 21.00086536471664,
+        "rating_sigma": 6.249136363419545,
+        "result": "loss"
+      }
+    }
+  }
+}

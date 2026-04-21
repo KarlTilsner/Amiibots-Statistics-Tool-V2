@@ -1,0 +1,60 @@
+{
+  "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+  "id": "4cc28c0a-4136-45c2-9b7f-7b22eb148c10",
+  "name": "Teamers",
+  "trainer_id": "be212866-ad85-4168-8fa5-a520d39174b1",
+  "trainer_name": "ThouDetect1ve",
+  "matches": {
+    "2022-07-27T01:41:17.964694+00:00": {
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "acd480bd-3d56-4dbd-a974-07a8f8340d68",
+        "name": "Naruto",
+        "rating": 20.087435372124638,
+        "trainer_id": "6e7c5192-3b94-41ee-a44c-1476c68bdade",
+        "trainer_name": "frosteefromyt",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.31845196179785873,
+        "rating_mu": 19.171186537427563,
+        "rating_sigma": 6.284244858543235,
+        "result": "loss"
+      }
+    },
+    "2022-08-12T13:42:27.154271+00:00": {
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "e88ce1de-1e52-40f1-9f9b-9f2504b41530",
+        "name": "Minerva",
+        "rating": 6.382185364271825,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "TheConceptionist",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.6407103130634422,
+        "rating_mu": 15.277953633383602,
+        "rating_sigma": 5.306221315482348,
+        "result": "loss"
+      }
+    },
+    "2022-08-25T23:49:40.778545+00:00": {
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "5e7d1e6c-b732-4d61-87c9-7bd3b9be2635",
+        "name": "Homework",
+        "rating": 14.447148927232721,
+        "trainer_id": "e315cc8f-425d-4686-a648-103739846f36",
+        "trainer_name": "Darkmega5",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.606519536280512,
+        "rating_mu": 13.33734048665641,
+        "rating_sigma": 4.647953340978974,
+        "result": "loss"
+      }
+    }
+  }
+}

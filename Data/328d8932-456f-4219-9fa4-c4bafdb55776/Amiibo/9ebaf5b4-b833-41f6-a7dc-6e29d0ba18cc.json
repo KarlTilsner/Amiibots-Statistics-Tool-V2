@@ -1,0 +1,43 @@
+{
+  "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+  "id": "9ebaf5b4-b833-41f6-a7dc-6e29d0ba18cc",
+  "name": "HalfKiller",
+  "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+  "trainer_name": "HalfMario45678",
+  "matches": {
+    "2022-03-14T09:04:18.740830+00:00": {
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "7efa3407-f6c8-4cba-b8b5-67c82952abaf",
+        "name": "Ban This",
+        "rating": 31.580602922828966,
+        "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
+        "trainer_name": "gotelin_",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.3397120251349612,
+        "rating_mu": 22.856217249316895,
+        "rating_sigma": 7.172168408060645,
+        "result": "loss"
+      }
+    },
+    "2022-03-14T16:34:47.797658+00:00": {
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "24abca9e-ba91-4c4b-84fc-81a9015cdb12",
+        "name": "Slingshot",
+        "rating": 28.109849594668518,
+        "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
+        "trainer_name": "YM44",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 2.248476546691503,
+        "rating_mu": 20.88480647665736,
+        "rating_sigma": 6.212109976655285,
+        "result": "loss"
+      }
+    }
+  }
+}

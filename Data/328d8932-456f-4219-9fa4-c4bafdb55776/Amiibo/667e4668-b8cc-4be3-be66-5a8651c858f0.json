@@ -1,0 +1,43 @@
+{
+  "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+  "id": "667e4668-b8cc-4be3-be66-5a8651c858f0",
+  "name": "Go Dai",
+  "trainer_id": "29fc3e9c-b568-4dcb-b821-9f4c12354a8c",
+  "trainer_name": "reiaddict",
+  "matches": {
+    "2022-02-14T06:47:51.966518+00:00": {
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "5bc543cd-117a-4bef-b7ca-60d04e8cae06",
+        "name": "AntagKirby",
+        "rating": 25.483036322281755,
+        "trainer_id": "45ebea1d-3449-40f8-b447-ed2e9a172238",
+        "trainer_name": "Pheonix039",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 2.134552028892795,
+        "rating_mu": 20.08477524699421,
+        "rating_sigma": 5.983407739367138,
+        "result": "loss"
+      }
+    },
+    "2022-02-14T05:23:35.331043+00:00": {
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "6d15833c-8f1b-4065-bdac-c7310555d9f0",
+        "name": "Dragmire",
+        "rating": 30.3093835002185,
+        "trainer_id": "345febd3-6433-4ed8-addb-b0ead57bf565",
+        "trainer_name": "cloudnine987",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.3496497376666348,
+        "rating_mu": 22.397769516812488,
+        "rating_sigma": 7.016039926381951,
+        "result": "loss"
+      }
+    }
+  }
+}

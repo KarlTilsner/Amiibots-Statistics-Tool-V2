@@ -1,0 +1,43 @@
+{
+  "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+  "id": "a4a64c26-2ea8-40d1-bc1b-d542a1f6767d",
+  "name": "Big Timmy",
+  "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+  "trainer_name": "Azend_1",
+  "matches": {
+    "2024-03-29T01:21:47.500351+00:00": {
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "1fb3664e-1467-48b7-8da2-b5a33bac32ae",
+        "name": "DIG DUG",
+        "rating": 24.308251734886937,
+        "trainer_id": "c0462f23-574c-4971-9ce9-13e9ea34d148",
+        "trainer_name": "oklovelyllarona",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 10.842462532477192,
+        "rating_mu": 26.000761294098726,
+        "rating_sigma": 5.052766253873845,
+        "result": "loss"
+      }
+    },
+    "2024-03-29T00:49:36.410833+00:00": {
+      "this_amiibo": {
+        "rating": 11.50962080589916,
+        "rating_mu": 30.48304569501952,
+        "rating_sigma": 6.324474963040119,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "c2586051-0402-496d-a882-82b803a765cd",
+        "name": "SelieQueen",
+        "rating": 22.661678449338712,
+        "trainer_id": "b9f75440-e3f7-4c8e-8a3f-8dc09b8327ae",
+        "trainer_name": "blackstargem11",
+        "result": "loss"
+      }
+    }
+  }
+}

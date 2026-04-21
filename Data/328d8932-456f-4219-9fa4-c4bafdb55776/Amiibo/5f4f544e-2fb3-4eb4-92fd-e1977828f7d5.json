@@ -1,0 +1,43 @@
+{
+  "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+  "id": "5f4f544e-2fb3-4eb4-92fd-e1977828f7d5",
+  "name": "Gene",
+  "trainer_id": "989b85c3-4ffc-41c0-8596-2d2c67fd7158",
+  "trainer_name": "leemanza",
+  "matches": {
+    "2022-07-28T07:05:09.232747+00:00": {
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "e63410e9-c952-4d46-98a2-6671bc839adf",
+        "name": "Ocean Man",
+        "rating": 22.602968529408475,
+        "trainer_id": "76092551-3aba-4182-923a-848b2d279e4c",
+        "trainer_name": "bleachyboi_426",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.8061486570190581,
+        "rating_mu": 20.28632556033824,
+        "rating_sigma": 6.493392301106394,
+        "result": "loss"
+      }
+    },
+    "2022-07-31T03:03:27.330558+00:00": {
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "a2efa090-c6d0-40d5-9c1a-5e90ccd82d0c",
+        "name": "PJDaPlant",
+        "rating": 6.718796654161917,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.4157675069107363,
+        "rating_mu": 18.308051787329717,
+        "rating_sigma": 5.96409476013966,
+        "result": "loss"
+      }
+    }
+  }
+}

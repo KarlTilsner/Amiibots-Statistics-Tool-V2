@@ -1,0 +1,43 @@
+{
+  "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+  "id": "3ffdbc77-ba50-4721-8ba4-6e6d4b572162",
+  "name": "Chompy",
+  "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
+  "trainer_name": "raid_boss_09",
+  "matches": {
+    "2022-07-15T10:05:06.614180+00:00": {
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "acd480bd-3d56-4dbd-a974-07a8f8340d68",
+        "name": "Naruto",
+        "rating": 17.584916546452472,
+        "trainer_id": "6e7c5192-3b94-41ee-a44c-1476c68bdade",
+        "trainer_name": "frosteefromyt",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.004655070137335571,
+        "rating_mu": 18.721562988217027,
+        "rating_sigma": 6.242072686118121,
+        "result": "loss"
+      }
+    },
+    "2022-07-24T03:18:05.434855+00:00": {
+      "this_amiibo": {
+        "rating": 6.868817426702416,
+        "rating_mu": 22.22508558948173,
+        "rating_sigma": 5.118756054259771,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "b30c85f1-ae9a-480c-8646-9ad6245c507d",
+        "name": "EDGELORD",
+        "rating": 15.062823475405407,
+        "trainer_id": "0dac8a24-5ed7-4fc9-9c00-5674617b4fab",
+        "trainer_name": "JohnLML123",
+        "result": "loss"
+      }
+    }
+  }
+}

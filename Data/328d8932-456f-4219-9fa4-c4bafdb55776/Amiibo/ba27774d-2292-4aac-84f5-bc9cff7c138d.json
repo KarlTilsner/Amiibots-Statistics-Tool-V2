@@ -1,0 +1,43 @@
+{
+  "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+  "id": "ba27774d-2292-4aac-84f5-bc9cff7c138d",
+  "name": "Gambler",
+  "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
+  "trainer_name": "wyvernfalcon",
+  "matches": {
+    "2022-09-20T16:45:05.157817+00:00": {
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "1ff2772b-3eef-4652-a83d-81e109ba5185",
+        "name": "Bystander",
+        "rating": 13.502947211451195,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.39863477851561235,
+        "rating_mu": 16.1974068295634,
+        "rating_sigma": 5.266257350349262,
+        "result": "loss"
+      }
+    },
+    "2022-09-20T10:45:46.831800+00:00": {
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "864944f3-3858-46a3-8a76-77ad1b8669ba",
+        "name": "Kpop",
+        "rating": 22.115589000821227,
+        "trainer_id": "76092551-3aba-4182-923a-848b2d279e4c",
+        "trainer_name": "bleachyboi_426",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.7319320880199385,
+        "rating_mu": 20.103184108309787,
+        "rating_sigma": 6.457084006763282,
+        "result": "loss"
+      }
+    }
+  }
+}

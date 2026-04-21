@@ -1,0 +1,43 @@
+{
+  "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+  "id": "d9c7414a-f00f-450c-a908-16f51db075c1",
+  "name": "Domino II",
+  "trainer_id": "e8e5ceb3-094e-4dd0-821a-1be83af3c473",
+  "trainer_name": "Moxievegas",
+  "matches": {
+    "2020-06-20T22:58:54.458352+00:00": {
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "0aafc686-0745-4e98-9071-ff986ac76572",
+        "name": "KangLoveMe",
+        "rating": 20.319023474813363,
+        "trainer_id": "046b6cbc-d2e8-4317-a680-a2e5b4b18bb0",
+        "trainer_name": "prinzess16",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.8055551563464469,
+        "rating_mu": 21.0139604485404,
+        "rating_sigma": 6.736135097397984,
+        "result": "loss"
+      }
+    },
+    "2020-06-21T05:19:03.496447+00:00": {
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "2e86a7d7-4aca-472e-bbde-e7681cc1849a",
+        "name": "1 PunchMan",
+        "rating": 19.1268725110749,
+        "trainer_id": "7c20e90f-67fe-43c5-a623-83c60ef05858",
+        "trainer_name": "Zizogod",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.8816014644182211,
+        "rating_mu": 17.17451082491436,
+        "rating_sigma": 5.430969786832046,
+        "result": "loss"
+      }
+    }
+  }
+}

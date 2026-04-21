@@ -1,0 +1,43 @@
+{
+  "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+  "id": "3835317d-911d-49e7-94e5-157f267aae22",
+  "name": "Pac-Man",
+  "trainer_id": "f0ff13ad-2d79-43ed-9754-edd686d76dfe",
+  "trainer_name": "nozsmash",
+  "matches": {
+    "2020-06-21T18:45:23.351802+00:00": {
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "1ae4cb60-fda9-447b-aa0a-be537db86569",
+        "name": "Lang",
+        "rating": 17.88191985587227,
+        "trainer_id": "e107d104-7f29-4a8c-973c-d767b9d963e2",
+        "trainer_name": "cryotheist",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 9.840320112885838,
+        "rating_mu": 25.70588470327855,
+        "rating_sigma": 5.288521530130904,
+        "result": "loss"
+      }
+    },
+    "2020-06-21T17:59:33.038353+00:00": {
+      "this_amiibo": {
+        "rating": 10.863068483302062,
+        "rating_mu": 30.07975258521857,
+        "rating_sigma": 6.405561367305503,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "afbff0a5-4826-43ff-b00f-62686cc1c30e",
+        "name": "Mark",
+        "rating": 21.07617382309028,
+        "trainer_id": "ee675c7c-7836-4aa2-8a36-fef64e67b80a",
+        "trainer_name": "truetitan14",
+        "result": "loss"
+      }
+    }
+  }
+}

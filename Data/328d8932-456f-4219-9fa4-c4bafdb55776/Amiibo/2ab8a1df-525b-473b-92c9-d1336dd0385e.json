@@ -1,0 +1,43 @@
+{
+  "character_id": "96e48494-946f-4280-a419-488d644135e0",
+  "id": "2ab8a1df-525b-473b-92c9-d1336dd0385e",
+  "name": "№Roy",
+  "trainer_id": "405e4707-8f38-4324-8416-3d636552e1ff",
+  "trainer_name": "Aythr",
+  "matches": {
+    "2021-11-23T03:52:12.896799+00:00": {
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "9930590d-fa02-4dcc-a799-ea490936861c",
+        "name": "Xialing",
+        "rating": 28.952406887585646,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.9372485048617918,
+        "rating_mu": 23.86700077452548,
+        "rating_sigma": 7.643250756554563,
+        "result": "loss"
+      }
+    },
+    "2022-05-25T11:44:23.093848+00:00": {
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "7a4993ce-fd70-4001-8a27-d24f8b5fb92c",
+        "name": "big mac",
+        "rating": 16.884354514892408,
+        "trainer_id": "cb46a453-dbf5-40d7-b749-4e649f1dc419",
+        "trainer_name": "bkaeo18",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.9825138497710739,
+        "rating_mu": 19.005903926083732,
+        "rating_sigma": 6.00779669210422,
+        "result": "loss"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+  "id": "b5b0ac9c-9572-4628-936d-0d76da416fc4",
+  "name": "Kosugi",
+  "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
+  "trainer_name": "rurpking22",
+  "matches": {
+    "2020-12-07T02:11:43.134276+00:00": {
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "b423da72-fe6b-4d01-85f3-e1e882c93f27",
+        "name": "Gaben",
+        "rating": 17.868411897998264,
+        "trainer_id": "a256c98d-3560-47c7-8725-afe5bf79bf98",
+        "trainer_name": "VIPSKARMXR",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.6154312538346325,
+        "rating_mu": 22.593097071072687,
+        "rating_sigma": 7.325888605746018,
+        "result": "loss"
+      }
+    },
+    "2020-12-07T08:23:18.358495+00:00": {
+      "this_amiibo": {
+        "rating": 12.748398914477779,
+        "rating_mu": 29.23720644752199,
+        "rating_sigma": 5.4962691776814045,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "4206a6f3-7eb1-4c9a-8941-04212397deb4",
+        "name": "Lance",
+        "rating": 22.838328780552033,
+        "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
+        "trainer_name": "RockMyRole",
+        "result": "loss"
+      }
+    }
+  }
+}

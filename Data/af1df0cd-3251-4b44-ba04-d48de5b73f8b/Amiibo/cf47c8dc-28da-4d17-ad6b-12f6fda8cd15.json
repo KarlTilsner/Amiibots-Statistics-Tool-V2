@@ -1,0 +1,43 @@
+{
+  "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+  "id": "cf47c8dc-28da-4d17-ad6b-12f6fda8cd15",
+  "name": "HomeSchool",
+  "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+  "trainer_name": "sst_bearslayer",
+  "matches": {
+    "2023-07-06T00:15:10.320767+00:00": {
+      "opponent": {
+        "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
+        "id": "f29c9231-ae91-4170-ac90-e5c9e0324595",
+        "name": "Waifu",
+        "rating": 25.279082574620624,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.0079920402878564,
+        "rating_mu": 20.69210597788407,
+        "rating_sigma": 6.561371312532071,
+        "result": "loss"
+      }
+    },
+    "2023-07-09T11:37:20.001804+00:00": {
+      "this_amiibo": {
+        "rating": 9.484773905200614,
+        "rating_mu": 25.126475348245553,
+        "rating_sigma": 5.21390048101498,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "f6ac8831-2660-4266-9b4f-d63f93cb8143",
+        "name": "LemLem!",
+        "rating": 19.409561329488522,
+        "trainer_id": "fdef585b-96e2-4ebe-93c3-82641f2cefd3",
+        "trainer_name": "yendekai",
+        "result": "loss"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+  "id": "9bd120bf-ef28-4c6d-83b5-abac4949363a",
+  "name": "Dr.Volcano",
+  "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
+  "trainer_name": "raid_boss_09",
+  "matches": {
+    "2021-11-26T01:11:44.197897+00:00": {
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "24abca9e-ba91-4c4b-84fc-81a9015cdb12",
+        "name": "Slingshot",
+        "rating": 25.414846634943213,
+        "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
+        "trainer_name": "YM44",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.1685184703947726,
+        "rating_mu": 21.543440426825974,
+        "rating_sigma": 6.791640652143734,
+        "result": "loss"
+      }
+    },
+    "2021-11-27T00:32:29.260529+00:00": {
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "5cb67ffa-ca7b-43f9-aa23-98fa0780712d",
+        "name": "Brutus",
+        "rating": 6.207586686474183,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.2245740641401781,
+        "rating_mu": 17.98975566389353,
+        "rating_sigma": 5.921727199917783,
+        "result": "loss"
+      }
+    },
+    "2021-12-10T05:44:17.907394+00:00": {
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "051c410d-0fd8-4c76-845e-0a36a47b7b00",
+        "name": "Transcend",
+        "rating": 29.43634681637486,
+        "trainer_id": "71eb3456-8f8a-4723-879b-57439190b086",
+        "trainer_name": "snevy_ssb",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.6116814496343999,
+        "rating_mu": 17.57584149342227,
+        "rating_sigma": 5.654720014595957,
+        "result": "loss"
+      }
+    }
+  }
+}

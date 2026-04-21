@@ -1,0 +1,43 @@
+{
+  "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+  "id": "cd8d6ca3-d92d-4c73-9773-1f28ec7bc361",
+  "name": "The Robot",
+  "trainer_id": "80293c8e-0e4f-44be-830b-5090da4c2ab8",
+  "trainer_name": "marioluigifans",
+  "matches": {
+    "2020-12-01T04:59:20.605140+00:00": {
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "89fe0c01-11da-45bd-ac6f-ea53b0633eb0",
+        "name": "Rikka",
+        "rating": 25.907857390876178,
+        "trainer_id": "1a40b865-6138-4324-b2d6-f23b1fb07270",
+        "trainer_name": "Linkushi_mario",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.1748757917669614,
+        "rating_mu": 21.4410088586574,
+        "rating_sigma": 6.755377688963479,
+        "result": "loss"
+      }
+    },
+    "2020-12-02T10:42:04.021192+00:00": {
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "becfd4ab-2080-4137-9439-1c1411485bfe",
+        "name": "MARIO",
+        "rating": 24.47396014231249,
+        "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
+        "trainer_name": "nozzly",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.8445048509806092,
+        "rating_mu": 19.125316295444698,
+        "rating_sigma": 5.760270481488029,
+        "result": "loss"
+      }
+    }
+  }
+}

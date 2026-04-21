@@ -1,0 +1,43 @@
+{
+  "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+  "id": "36ccb9d7-f522-483d-8579-9ee785ad712d",
+  "name": "Red Hood",
+  "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+  "trainer_name": "Zoom__",
+  "matches": {
+    "2021-11-09T23:10:53.791343+00:00": {
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "13a78973-d784-4eed-ba9b-6492bb8bfa6a",
+        "name": "Soul Eater",
+        "rating": 30.48080272590717,
+        "trainer_id": "345febd3-6433-4ed8-addb-b0ead57bf565",
+        "trainer_name": "cloudnine987",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 9.670366146104051,
+        "rating_mu": 26.465992848829256,
+        "rating_sigma": 5.598542234241735,
+        "result": "loss"
+      }
+    },
+    "2021-11-09T22:29:24.662889+00:00": {
+      "this_amiibo": {
+        "rating": 9.151850044525155,
+        "rating_mu": 29.102480305528747,
+        "rating_sigma": 6.650210087001198,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fa1ac3ba-0880-483b-b94e-9b4952e3f999",
+        "id": "c17768cd-6286-4108-8359-326faa967fa2",
+        "name": "He-Man",
+        "rating": 15.747599733175688,
+        "trainer_id": "74b11748-df73-4895-a914-7f048a54ecc8",
+        "trainer_name": "Dempsey342",
+        "result": "loss"
+      }
+    }
+  }
+}

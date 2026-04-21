@@ -1,0 +1,43 @@
+{
+  "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+  "id": "75bff3b0-1a17-406c-a271-b81612bec3c0",
+  "name": "PktMonster",
+  "trainer_id": "989b85c3-4ffc-41c0-8596-2d2c67fd7158",
+  "trainer_name": "leemanza",
+  "matches": {
+    "2022-07-24T19:41:24.969652+00:00": {
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "fa4b8212-def7-44ec-b59f-930377471bbe",
+        "name": "Maslow",
+        "rating": 22.72551982170493,
+        "trainer_id": "5c6fabea-f6b5-4c64-84fd-afe78dd35a32",
+        "trainer_name": "islabecausewhynot",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.932303607398822,
+        "rating_mu": 20.792904820995613,
+        "rating_sigma": 6.620200404532263,
+        "result": "loss"
+      }
+    },
+    "2022-08-26T02:04:27.758777+00:00": {
+      "this_amiibo": {
+        "rating": 7.939379810050049,
+        "rating_mu": 24.354161469907854,
+        "rating_sigma": 5.471593886619268,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "b890f447-6c3b-4cf9-ab9d-6ae690deafdf",
+        "name": "Megumin",
+        "rating": 11.667342273788066,
+        "trainer_id": "ccf04f03-a422-4721-9c3c-6930e9089ef6",
+        "trainer_name": "kyloryne",
+        "result": "loss"
+      }
+    }
+  }
+}

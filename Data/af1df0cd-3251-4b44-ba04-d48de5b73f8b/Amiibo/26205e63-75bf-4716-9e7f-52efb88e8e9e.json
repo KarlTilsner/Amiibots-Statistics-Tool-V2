@@ -1,0 +1,43 @@
+{
+  "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+  "id": "26205e63-75bf-4716-9e7f-52efb88e8e9e",
+  "name": "Mufasa",
+  "trainer_id": "932a9ec7-b463-41d8-bc40-59e2e396a8ed",
+  "trainer_name": "ricola7ttv",
+  "matches": {
+    "2024-05-09T09:14:17.891433+00:00": {
+      "opponent": {
+        "character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7",
+        "id": "98942796-9b2a-4d40-9ede-833f4521ac87",
+        "name": "Asora",
+        "rating": 23.714162996641406,
+        "trainer_id": "775d94ac-48c8-43d7-884b-41edf0a61ed3",
+        "trainer_name": "shaymlayy",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.013718828932511,
+        "rating_mu": 20.965288153869032,
+        "rating_sigma": 6.650523108312173,
+        "result": "loss"
+      }
+    },
+    "2024-06-07T23:05:27.521338+00:00": {
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "3b7be979-47be-4dda-b809-7c87ee53c872",
+        "name": "bob",
+        "rating": 16.305152222143192,
+        "trainer_id": "1d010d4b-3cd8-48ff-a42c-9c52da93f904",
+        "trainer_name": "giganot1",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.9293229737622823,
+        "rating_mu": 17.112621970164717,
+        "rating_sigma": 5.394432998800811,
+        "result": "loss"
+      }
+    }
+  }
+}

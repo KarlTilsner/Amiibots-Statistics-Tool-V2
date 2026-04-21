@@ -1,0 +1,43 @@
+{
+  "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+  "id": "6be131d6-e470-4992-948d-6d64281614bf",
+  "name": "Shogayma",
+  "trainer_id": "9ec875f4-9688-4d08-85b7-ff2d44018bcd",
+  "trainer_name": "Unkinker3",
+  "matches": {
+    "2023-12-17T14:38:09.155208+00:00": {
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "f55bc996-26e8-45d4-9ff4-b06d858fd009",
+        "name": "Subway",
+        "rating": 26.128137585891643,
+        "trainer_id": "0918eb1f-823d-4b61-8da3-387a14718ebf",
+        "trainer_name": "GamerJohn_",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.110475202566228,
+        "rating_mu": 21.028746026224088,
+        "rating_sigma": 6.639423607885953,
+        "result": "loss"
+      }
+    },
+    "2024-02-05T06:38:25.572317+00:00": {
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "bf1158fe-d5c0-4073-baa9-9c818cb7c89f",
+        "name": "\"bowser\"",
+        "rating": 18.75341291999551,
+        "trainer_id": "e8c228c8-a377-4a5c-91ba-4ab8238a4023",
+        "trainer_name": "MrSmart13579",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.1019216106320364,
+        "rating_mu": 17.165678019677046,
+        "rating_sigma": 5.35458546968167,
+        "result": "loss"
+      }
+    }
+  }
+}

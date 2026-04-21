@@ -1,0 +1,43 @@
+{
+  "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+  "id": "b0eecb84-fcf5-41e2-a803-c6e48a138649",
+  "name": "Kaminari",
+  "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
+  "trainer_name": "Sirffuzzylogik",
+  "matches": {
+    "2020-04-19T12:33:20.947828+00:00": {
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "4d40da24-7c4f-4170-902d-626786ecacf1",
+        "name": "Kruel",
+        "rating": 25.42969914881241,
+        "trainer_id": "4994b4dd-52cc-4b67-bf51-07bcd8c806b3",
+        "trainer_name": "SupayTaita",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.0392371267991471,
+        "rating_mu": 20.806865120329316,
+        "rating_sigma": 6.589209331176724,
+        "result": "loss"
+      }
+    },
+    "2020-04-28T22:05:11.845016+00:00": {
+      "this_amiibo": {
+        "rating": 7.498778995326031,
+        "rating_mu": 24.24929848363657,
+        "rating_sigma": 5.583506496103513,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
+        "id": "acc56cdb-e4b6-43b3-8a39-144c9eb7dfd1",
+        "name": "Fair",
+        "rating": 6.735301961770027,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "PaperLuigi3",
+        "result": "loss"
+      }
+    }
+  }
+}

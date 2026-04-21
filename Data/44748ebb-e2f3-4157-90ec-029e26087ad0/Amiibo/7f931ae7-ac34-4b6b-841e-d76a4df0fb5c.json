@@ -1,0 +1,43 @@
+{
+  "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
+  "id": "7f931ae7-ac34-4b6b-841e-d76a4df0fb5c",
+  "name": "Richter",
+  "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+  "trainer_name": "Competitively2",
+  "matches": {
+    "2020-04-23T17:13:35.196176+00:00": {
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "a002b611-301e-4f72-a40a-a870fc85ca37",
+        "name": "Sharon1",
+        "rating": 14.809694766511246,
+        "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
+        "trainer_name": "Lady_Cucco",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.3562913846721649,
+        "rating_mu": 18.44041319333198,
+        "rating_sigma": 6.265568192668049,
+        "result": "loss"
+      }
+    },
+    "2020-04-23T19:46:02.838274+00:00": {
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "dc1ade35-d0cd-4a55-8237-6043613ae618",
+        "name": "Katchup",
+        "rating": 18.257176193863597,
+        "trainer_id": "2cebbbcc-7e22-4bf2-a9dd-6277d40bb23f",
+        "trainer_name": "magarmon",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.15801181441637802,
+        "rating_mu": 15.549146362698137,
+        "rating_sigma": 5.235719392371505,
+        "result": "loss"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+  "id": "49f15f48-2c6a-4571-bd2d-74d2d61842bb",
+  "name": " BuffMarth",
+  "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+  "trainer_name": "FrostByte245",
+  "matches": {
+    "2021-07-25T01:17:08.944067+00:00": {
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "d01fffe1-368d-47be-ab0f-9a35fb152c87",
+        "name": "BustaNut",
+        "rating": 16.71037809125235,
+        "trainer_id": "5b811e0a-9d5b-497a-91c7-0868e4e49a95",
+        "trainer_name": "early_mp",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.36722920263123626,
+        "rating_mu": 19.580232666894254,
+        "rating_sigma": 6.649153956508497,
+        "result": "loss"
+      }
+    },
+    "2021-07-25T00:42:09.796125+00:00": {
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "46012443-0ce0-4c93-8688-a2a33b8aa6ff",
+        "name": "We Did It!",
+        "rating": 7.646916951857172,
+        "trainer_id": "fdc1350c-e911-4557-88ae-b29111abb0e9",
+        "trainer_name": "Angel3lego",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.8016797229894159,
+        "rating_mu": 20.775701662576704,
+        "rating_sigma": 7.192460461855374,
+        "result": "loss"
+      }
+    }
+  }
+}

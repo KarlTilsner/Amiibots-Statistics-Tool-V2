@@ -1,0 +1,43 @@
+{
+  "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+  "id": "877312c9-b786-48ea-afe9-beb83c30eab0",
+  "name": "All Might",
+  "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
+  "trainer_name": "Sirffuzzylogik",
+  "matches": {
+    "2020-04-20T18:47:20.317768+00:00": {
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "03d250c3-065c-4047-a486-4098d4e0a412",
+        "name": "G.I. Jones",
+        "rating": 21.41220890652764,
+        "trainer_id": "b73cffef-c9fc-4a4d-9c1e-2ba84a63d775",
+        "trainer_name": "Precision_Rhythm",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.32637373553650306,
+        "rating_mu": 19.065140938079264,
+        "rating_sigma": 6.24625573418092,
+        "result": "loss"
+      }
+    },
+    "2020-05-04T13:27:18.154738+00:00": {
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "ac85cbdb-333e-4a8b-8dc7-ed50581c1cfb",
+        "name": "Big Bad",
+        "rating": 26.208360155368947,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "migbui",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.895881645978374,
+        "rating_mu": 18.196720116941755,
+        "rating_sigma": 5.766946156987793,
+        "result": "loss"
+      }
+    }
+  }
+}

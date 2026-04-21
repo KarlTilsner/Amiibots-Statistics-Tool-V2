@@ -1,0 +1,60 @@
+{
+  "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+  "id": "ef958c5c-e7e1-45ff-a75c-0174ece345bb",
+  "name": "Vanessa",
+  "trainer_id": "b3c93a1e-0aee-4a76-a0ed-36bc7258e629",
+  "trainer_name": "Bananika7",
+  "matches": {
+    "2022-04-25T22:55:22.311505+00:00": {
+      "opponent": {
+        "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
+        "id": "90cbf23d-5a4a-44a2-b8ee-215c9b2ae128",
+        "name": "Cy",
+        "rating": 16.494228150911574,
+        "trainer_id": "b3c93a1e-0aee-4a76-a0ed-36bc7258e629",
+        "trainer_name": "Bananika7",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.17973334674215735,
+        "rating_mu": 19.578303029454002,
+        "rating_sigma": 6.4661898942372815,
+        "result": "loss"
+      }
+    },
+    "2022-05-01T17:33:10.400729+00:00": {
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "ec660c1f-6ee0-487a-a707-95c72fc4db7a",
+        "name": "Isa",
+        "rating": 15.093626954693052,
+        "trainer_id": "2ec0adf7-0ef2-4a97-adae-e9197c66067f",
+        "trainer_name": "SunBurntRed",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.2506584552448885,
+        "rating_mu": 15.226432026693217,
+        "rating_sigma": 5.159030160646036,
+        "result": "loss"
+      }
+    },
+    "2022-05-02T04:42:27.852311+00:00": {
+      "this_amiibo": {
+        "rating": 5.254199855844448,
+        "rating_mu": 18.311417691475082,
+        "rating_sigma": 4.3524059452102115,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "f6ba6f19-7890-4d3b-a4e4-3588408603a0",
+        "name": "Anakin",
+        "rating": 13.855085177743671,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    }
+  }
+}

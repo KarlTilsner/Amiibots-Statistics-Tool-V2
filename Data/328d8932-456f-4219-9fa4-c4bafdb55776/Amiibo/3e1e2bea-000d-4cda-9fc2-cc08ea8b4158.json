@@ -1,0 +1,43 @@
+{
+  "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+  "id": "3e1e2bea-000d-4cda-9fc2-cc08ea8b4158",
+  "name": "Destiny",
+  "trainer_id": "26942317-1919-4c5c-8072-7bc3e0bc2838",
+  "trainer_name": "NurfboyU",
+  "matches": {
+    "2022-10-04T10:18:15.419891+00:00": {
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "09750d80-9c33-4d6b-8506-320fe8ab3e36",
+        "name": "Benjamin",
+        "rating": 11.621752406608806,
+        "trainer_id": "a3b72cea-5dac-4ea2-ba28-afde3dcd38d6",
+        "trainer_name": "emboooooooo",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.19395971054126981,
+        "rating_mu": 15.461275675218834,
+        "rating_sigma": 5.218411795253368,
+        "result": "loss"
+      }
+    },
+    "2022-10-04T09:19:12.820484+00:00": {
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "3fe023f5-ecb0-4f6a-87c8-e6ad2ece0857",
+        "name": "Screwyu",
+        "rating": 18.316594000367118,
+        "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
+        "trainer_name": "schmorchid",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.1597137035413887,
+        "rating_mu": 19.025196272045047,
+        "rating_sigma": 6.288494189501219,
+        "result": "loss"
+      }
+    }
+  }
+}

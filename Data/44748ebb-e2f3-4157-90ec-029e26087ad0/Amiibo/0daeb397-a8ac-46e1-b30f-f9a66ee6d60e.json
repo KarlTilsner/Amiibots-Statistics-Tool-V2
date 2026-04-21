@@ -1,0 +1,43 @@
+{
+  "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+  "id": "0daeb397-a8ac-46e1-b30f-f9a66ee6d60e",
+  "name": "Stella",
+  "trainer_id": "95c09948-6452-4ce4-b27f-6c73c294c610",
+  "trainer_name": "2Snowblind",
+  "matches": {
+    "2020-12-05T12:31:58.563495+00:00": {
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "714a5ba1-b4f0-43c0-a9f5-535a88e2f015",
+        "name": "Sσισ Iσια",
+        "rating": 22.856633806403714,
+        "trainer_id": "94403b6f-17a3-4d6a-be29-de66b221db6d",
+        "trainer_name": "penguhhhh",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.8794910429254124,
+        "rating_mu": 20.53855321528458,
+        "rating_sigma": 6.5530207241197225,
+        "result": "loss"
+      }
+    },
+    "2020-12-08T05:16:44.432470+00:00": {
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "721b21e5-705b-4472-bab9-59b3a5f57b1b",
+        "name": "Battle Kid",
+        "rating": 24.616653270449945,
+        "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
+        "trainer_name": "SteelswarmCycada",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.5578909656105928,
+        "rating_mu": 19.0068797027135,
+        "rating_sigma": 5.816329579034303,
+        "result": "loss"
+      }
+    }
+  }
+}

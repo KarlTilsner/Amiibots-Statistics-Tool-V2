@@ -1,0 +1,43 @@
+{
+  "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+  "id": "5464d70e-efde-4749-b975-773fc556a86f",
+  "name": "TimeZC",
+  "trainer_id": "f0ff13ad-2d79-43ed-9754-edd686d76dfe",
+  "trainer_name": "nozsmash",
+  "matches": {
+    "2020-06-11T20:46:04.626665+00:00": {
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "8af29ba3-7757-48a0-b6d1-9feea29fbedc",
+        "name": "Ryeta",
+        "rating": 26.32214085915424,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.1622451455592113,
+        "rating_mu": 21.27491370613932,
+        "rating_sigma": 6.704222853526702,
+        "result": "loss"
+      }
+    },
+    "2020-06-11T21:46:46.419688+00:00": {
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "dc402ea4-64ae-4c70-95b3-9fd8ac1031a5",
+        "name": "Fusion",
+        "rating": 7.017031234180415,
+        "trainer_id": "7b9f6364-0291-4832-a2d0-bffa6edd6579",
+        "trainer_name": "resplendentxatu",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.31473484913874117,
+        "rating_mu": 17.703462975727586,
+        "rating_sigma": 5.796242708862948,
+        "result": "loss"
+      }
+    }
+  }
+}

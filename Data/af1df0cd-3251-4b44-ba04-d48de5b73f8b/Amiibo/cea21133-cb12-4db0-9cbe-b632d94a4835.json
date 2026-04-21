@@ -1,0 +1,43 @@
+{
+  "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+  "id": "cea21133-cb12-4db0-9cbe-b632d94a4835",
+  "name": "Hype Ike",
+  "trainer_id": "e5a5b15b-0230-444c-a8c9-7fd2076e7766",
+  "trainer_name": "wonder24681",
+  "matches": {
+    "2022-10-15T05:50:28.729577+00:00": {
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "51129f6e-2d5c-4379-a21f-016607f9207c",
+        "name": "Good Daisy",
+        "rating": 22.380762265515557,
+        "trainer_id": "e8c228c8-a377-4a5c-91ba-4ab8238a4023",
+        "trainer_name": "MrSmart13579",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.5619533406638944,
+        "rating_mu": 19.56883802027843,
+        "rating_sigma": 6.335628226538179,
+        "result": "loss"
+      }
+    },
+    "2022-10-15T19:28:00.464908+00:00": {
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "06348bc1-8d61-4dbd-8ae3-6a4c1658a28d",
+        "name": "Donatello",
+        "rating": 20.693145591125756,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.9326907791763546,
+        "rating_mu": 16.99371193859359,
+        "rating_sigma": 5.353673719805746,
+        "result": "loss"
+      }
+    }
+  }
+}

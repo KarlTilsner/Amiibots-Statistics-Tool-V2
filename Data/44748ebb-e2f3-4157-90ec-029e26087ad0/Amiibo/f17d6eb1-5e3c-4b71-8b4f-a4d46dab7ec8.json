@@ -1,0 +1,43 @@
+{
+  "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+  "id": "f17d6eb1-5e3c-4b71-8b4f-a4d46dab7ec8",
+  "name": "Luiginger",
+  "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+  "trainer_name": "foamtray",
+  "matches": {
+    "2020-07-23T05:52:39.603703+00:00": {
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "dffd6916-fc74-400f-8316-cd7c6e641fe0",
+        "name": "Le'Squirt",
+        "rating": 22.47421408432521,
+        "trainer_id": "83ad055f-644c-4c4f-8a57-7f9180b0d326",
+        "trainer_name": "ZanyMarshalo",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.5038432388145928,
+        "rating_mu": 18.1393254083223,
+        "rating_sigma": 5.545160723169236,
+        "result": "loss"
+      }
+    },
+    "2020-07-23T03:39:18.528412+00:00": {
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "cb2505c5-6c47-4883-ae8b-7eaf1e7dbb63",
+        "name": "Granondorf",
+        "rating": 25.273047585469058,
+        "trainer_id": "62b02980-cc2d-4396-a9fa-610aec10ec5e",
+        "trainer_name": "lozlover",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.9925221776307254,
+        "rating_mu": 20.641802456396174,
+        "rating_sigma": 6.549760092921816,
+        "result": "loss"
+      }
+    }
+  }
+}

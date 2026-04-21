@@ -1,0 +1,43 @@
+{
+  "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+  "id": "b69ef41e-286b-4527-a366-f2dd2a3ec328",
+  "name": "mario kart",
+  "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+  "trainer_name": "fammydamammy",
+  "matches": {
+    "2021-03-27T19:15:43.129877+00:00": {
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "5ba32368-9a82-485a-a991-d3f384563398",
+        "name": "Reinhardt",
+        "rating": 26.65905739651291,
+        "trainer_id": "7ff68788-3366-489f-9efd-bb3c16421574",
+        "trainer_name": "VocalFan",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 15.854487477701326,
+        "rating_mu": 29.701563338588443,
+        "rating_sigma": 4.615691953629039,
+        "result": "loss"
+      }
+    },
+    "2021-03-27T17:59:49.788015+00:00": {
+      "this_amiibo": {
+        "rating": 17.439188306065468,
+        "rating_mu": 34.88527962842468,
+        "rating_sigma": 5.815363774119739,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "094867cf-a926-4631-b8de-1c965b72e32e",
+        "name": "SchoolboyQ",
+        "rating": 28.855842235745982,
+        "trainer_id": "b2d4f8ba-040d-4121-af64-e1b950939672",
+        "trainer_name": "KeepThatCoin",
+        "result": "loss"
+      }
+    }
+  }
+}

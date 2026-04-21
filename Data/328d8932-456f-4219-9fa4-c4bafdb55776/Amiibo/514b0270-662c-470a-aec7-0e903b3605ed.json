@@ -1,0 +1,43 @@
+{
+  "character_id": "96e48494-946f-4280-a419-488d644135e0",
+  "id": "514b0270-662c-470a-aec7-0e903b3605ed",
+  "name": "Heatran",
+  "trainer_id": "74b11748-df73-4895-a914-7f048a54ecc8",
+  "trainer_name": "Dempsey342",
+  "matches": {
+    "2021-08-01T07:42:08.635026+00:00": {
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "b6288dee-c08b-42c0-88c1-cdbbedebe62e",
+        "name": "Golden Boy",
+        "rating": 26.588560727838246,
+        "trainer_id": "3b8edbe3-e8c2-401d-a151-0e152c4a7123",
+        "trainer_name": "Destruktow",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.2368871666759027,
+        "rating_mu": 22.40175386586108,
+        "rating_sigma": 7.054955566395059,
+        "result": "loss"
+      }
+    },
+    "2021-08-01T19:46:34.917136+00:00": {
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "ec660c1f-6ee0-487a-a707-95c72fc4db7a",
+        "name": "Isa",
+        "rating": 10.758113464665804,
+        "trainer_id": "2ec0adf7-0ef2-4a97-adae-e9197c66067f",
+        "trainer_name": "SunBurntRed",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.023468696257594956,
+        "rating_mu": 16.336964710706987,
+        "rating_sigma": 5.453477802321528,
+        "result": "loss"
+      }
+    }
+  }
+}

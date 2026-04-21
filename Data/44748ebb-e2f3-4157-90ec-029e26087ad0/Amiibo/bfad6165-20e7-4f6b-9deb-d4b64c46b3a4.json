@@ -1,0 +1,43 @@
+{
+  "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+  "id": "bfad6165-20e7-4f6b-9deb-d4b64c46b3a4",
+  "name": "Soul",
+  "trainer_id": "3f22c3b9-ea0e-4ad5-8e22-0f90eb4d6915",
+  "trainer_name": "capnhicks",
+  "matches": {
+    "2020-11-24T06:08:50.030640+00:00": {
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "97ddc2ce-ee70-4b62-a472-13bff90b1fe3",
+        "name": "Neo-Xion",
+        "rating": 22.382856906606612,
+        "trainer_id": "b4ab7a10-b35b-4091-9c4e-dac76cc4d1f2",
+        "trainer_name": "mercy_main_skye",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.5295312879359741,
+        "rating_mu": 19.490231215363405,
+        "rating_sigma": 6.320233309142477,
+        "result": "loss"
+      }
+    },
+    "2020-11-24T20:23:13.192677+00:00": {
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "103e72f8-a036-4fbd-80e1-a035866d15e7",
+        "name": "Steve",
+        "rating": 28.84455355835901,
+        "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
+        "trainer_name": "Sirffuzzylogik",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.1047829844286845,
+        "rating_mu": 18.72955187760977,
+        "rating_sigma": 5.874922964393694,
+        "result": "loss"
+      }
+    }
+  }
+}

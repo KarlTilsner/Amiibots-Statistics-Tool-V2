@@ -1,0 +1,43 @@
+{
+  "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+  "id": "cdee35a6-3253-41cd-abeb-487b13e9aa8e",
+  "name": "ZardPls",
+  "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
+  "trainer_name": "Murbert_AM",
+  "matches": {
+    "2020-09-02T06:30:12.647605+00:00": {
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "a2d5a34c-e395-4a55-b1fc-b4fa0e4cffa9",
+        "name": "lasaga",
+        "rating": 23.31044981521616,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 11.722453173429898,
+        "rating_mu": 26.44358212538845,
+        "rating_sigma": 4.907042983986184,
+        "result": "loss"
+      }
+    },
+    "2020-09-02T06:00:17.720941+00:00": {
+      "this_amiibo": {
+        "rating": 13.651776373822827,
+        "rating_mu": 32.95999137252475,
+        "rating_sigma": 6.436071666233974,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "08125acf-53c1-4048-bd1c-36b1d9ce31e0",
+        "name": "Boulder",
+        "rating": 15.69069555196929,
+        "trainer_id": "ab1f76a6-17bb-4125-aafe-261bbce07ff1",
+        "trainer_name": "the_scuttler",
+        "result": "loss"
+      }
+    }
+  }
+}

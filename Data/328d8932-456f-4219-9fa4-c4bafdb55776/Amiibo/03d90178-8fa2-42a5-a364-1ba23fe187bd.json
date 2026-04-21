@@ -1,0 +1,43 @@
+{
+  "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+  "id": "03d90178-8fa2-42a5-a364-1ba23fe187bd",
+  "name": "Gabe",
+  "trainer_id": "eb1a1462-8797-4683-9357-0c3ba91b599a",
+  "trainer_name": "Gamer_gaben1",
+  "matches": {
+    "2022-09-05T21:17:43.413421+00:00": {
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "38814379-74d1-49bb-8d0f-3ca6e26074c7",
+        "name": "TommyInit",
+        "rating": 18.785047184712255,
+        "trainer_id": "faf132fe-f69f-4bbc-b0d9-6d9808d36439",
+        "trainer_name": "AnimeGamer77318",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.5358211703693065,
+        "rating_mu": 20.174259796933175,
+        "rating_sigma": 6.546146208854623,
+        "result": "loss"
+      }
+    },
+    "2022-09-12T23:41:20.533267+00:00": {
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "224c4fee-6843-4ccf-82eb-51aba8e21331",
+        "name": "Venus",
+        "rating": 12.531806479531248,
+        "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
+        "trainer_name": "River_Tethys",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.26379359955093307,
+        "rating_mu": 16.488004132055025,
+        "rating_sigma": 5.408070177501364,
+        "result": "loss"
+      }
+    }
+  }
+}

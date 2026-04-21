@@ -1,0 +1,43 @@
+{
+  "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+  "id": "1fcce8e0-bf0f-46bd-ac60-c80d5b199a0d",
+  "name": "IddiDidiDo",
+  "trainer_id": "26cad4d1-9d7d-457c-b6e3-6a285e74f071",
+  "trainer_name": "toonlinktroll",
+  "matches": {
+    "2022-10-05T01:54:36.258968+00:00": {
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "6b8a3701-d89a-4775-ad64-fc0224089a57",
+        "name": "Renegade",
+        "rating": 14.232177292766409,
+        "trainer_id": "2b51db02-3ed4-4bab-880e-ce9433fd54ef",
+        "trainer_name": "DONkL",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.19879540216556357,
+        "rating_mu": 15.290288932455423,
+        "rating_sigma": 5.163028111540329,
+        "result": "loss"
+      }
+    },
+    "2022-10-04T23:35:33.973805+00:00": {
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "133a3510-952a-45bf-a236-f8c9981c7d57",
+        "name": "Doodle",
+        "rating": 17.778917284059734,
+        "trainer_id": "7fbfc865-b4e0-4c64-a130-49134186b7cf",
+        "trainer_name": "crazychase10",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.16472189111492952,
+        "rating_mu": 18.29945295428584,
+        "rating_sigma": 6.1547249484669235,
+        "result": "loss"
+      }
+    }
+  }
+}

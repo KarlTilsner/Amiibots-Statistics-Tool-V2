@@ -1,0 +1,43 @@
+{
+  "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+  "id": "9a5b3caf-8e2e-4e49-b74d-1e2f8445d12e",
+  "name": "Young M2",
+  "trainer_id": "2ed90aa2-1e49-4ba2-b3e3-195f6a93fb7f",
+  "trainer_name": "ivysaurboi",
+  "matches": {
+    "2023-06-18T09:52:17.839080+00:00": {
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "3757e8a3-a8e4-4638-b2de-4e44cd1c30cc",
+        "name": "Phineas",
+        "rating": 10.641961513372081,
+        "trainer_id": "eb1a1462-8797-4683-9357-0c3ba91b599a",
+        "trainer_name": "Gamer_gaben1",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.7572692948548436,
+        "rating_mu": 18.84740291297455,
+        "rating_sigma": 6.534890735943131,
+        "result": "loss"
+      }
+    },
+    "2023-06-19T02:14:27.582012+00:00": {
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "01d29db1-6140-4a1f-8f88-32f304bbe9c6",
+        "name": "Mecha Kid",
+        "rating": 8.470663038397884,
+        "trainer_id": "f4fd132e-1e28-43f5-8ae3-8ee937c55d66",
+        "trainer_name": "colexcole47",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -1.619903516946465,
+        "rating_mu": 14.222608966651443,
+        "rating_sigma": 5.280837494532636,
+        "result": "loss"
+      }
+    }
+  }
+}

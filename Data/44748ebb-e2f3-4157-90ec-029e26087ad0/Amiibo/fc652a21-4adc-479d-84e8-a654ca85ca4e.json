@@ -1,0 +1,60 @@
+{
+  "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
+  "id": "fc652a21-4adc-479d-84e8-a654ca85ca4e",
+  "name": "PG | Daisy",
+  "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+  "trainer_name": "Kangoni",
+  "matches": {
+    "2020-09-02T15:09:54.784140+00:00": {
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "28f80b12-f6cc-4f0c-adf2-90f637dcf20e",
+        "name": "Charlie",
+        "rating": 29.56299019183171,
+        "trainer_id": "b8caead1-f5ec-408e-8e1c-1ccdfc145d69",
+        "trainer_name": "ILuvBubbleBuddy",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 13.78703880154968,
+        "rating_mu": 29.02513720378141,
+        "rating_sigma": 5.079366134077243,
+        "result": "loss"
+      }
+    },
+    "2020-09-02T09:33:01.221529+00:00": {
+      "this_amiibo": {
+        "rating": 14.09829670294365,
+        "rating_mu": 32.918474224773085,
+        "rating_sigma": 6.273392507276479,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "08125acf-53c1-4048-bd1c-36b1d9ce31e0",
+        "name": "Boulder",
+        "rating": 18.531891293791944,
+        "trainer_id": "ab1f76a6-17bb-4125-aafe-261bbce07ff1",
+        "trainer_name": "the_scuttler",
+        "result": "loss"
+      }
+    },
+    "2020-09-02T19:41:19.422763+00:00": {
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "2f5bc223-3204-42d6-8173-d1c5e99dba12",
+        "name": "SilverLink",
+        "rating": 9.772663398915974,
+        "trainer_id": "1a40b865-6138-4324-b2d6-f23b1fb07270",
+        "trainer_name": "Linkushi_mario",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 11.45925001423905,
+        "rating_mu": 24.927297513678376,
+        "rating_sigma": 4.4893491664797756,
+        "result": "loss"
+      }
+    }
+  }
+}

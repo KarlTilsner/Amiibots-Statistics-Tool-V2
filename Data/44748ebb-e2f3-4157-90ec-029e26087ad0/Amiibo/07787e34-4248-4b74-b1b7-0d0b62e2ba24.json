@@ -1,0 +1,43 @@
+{
+  "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+  "id": "07787e34-4248-4b74-b1b7-0d0b62e2ba24",
+  "name": "Kronk",
+  "trainer_id": "dc49cd22-1fda-42b6-81df-0ae6b296d681",
+  "trainer_name": "MulliganMayhem",
+  "matches": {
+    "2020-10-09T13:15:58.014147+00:00": {
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "483c3e3b-4179-4e19-ad9a-f9dbb5bec2d2",
+        "name": "Æ",
+        "rating": 27.805627647370166,
+        "trainer_id": "46a95889-6568-4424-886f-86a60b829425",
+        "trainer_name": "thatMAGICstore",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.253564463822844,
+        "rating_mu": 21.632293239996045,
+        "rating_sigma": 6.792909592057733,
+        "result": "loss"
+      }
+    },
+    "2020-10-09T22:53:02.396496+00:00": {
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "13213852-cd04-4e58-bd87-9817c92c667b",
+        "name": "Maria",
+        "rating": 15.043857870460936,
+        "trainer_id": "060e12dd-a8a9-4e3d-a6e1-bd34c23446db",
+        "trainer_name": "the_shade1972",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.4131600905663397,
+        "rating_mu": 18.88438183687925,
+        "rating_sigma": 5.823740582104303,
+        "result": "loss"
+      }
+    }
+  }
+}

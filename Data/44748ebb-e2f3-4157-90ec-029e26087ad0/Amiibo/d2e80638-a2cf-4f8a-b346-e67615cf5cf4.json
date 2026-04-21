@@ -1,0 +1,77 @@
+{
+  "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+  "id": "d2e80638-a2cf-4f8a-b346-e67615cf5cf4",
+  "name": "Windmill",
+  "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+  "trainer_name": "foamtray",
+  "matches": {
+    "2020-04-26T02:43:48.875891+00:00": {
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "f9215e0e-c0a6-42ce-a988-4b67f1d071b0",
+        "name": "Vader",
+        "rating": 20.835332397251026,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot The Great",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.20326545020392217,
+        "rating_mu": 18.824508765851924,
+        "rating_sigma": 6.207081105216001,
+        "result": "loss"
+      }
+    },
+    "2020-05-14T21:31:47.756533+00:00": {
+      "this_amiibo": {
+        "rating": 4.344289970190452,
+        "rating_mu": 20.806399006116784,
+        "rating_sigma": 5.487369678642111,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "538da43b-f7b1-4268-b1a9-9fdfa41a8093",
+        "name": "Boy Tifa",
+        "rating": 1.760627204312069,
+        "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
+        "trainer_name": "Sirffuzzylogik",
+        "result": "loss"
+      }
+    },
+    "2020-05-15T07:07:39.903926+00:00": {
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "41656226-39cc-466d-9254-1bccf5dd373a",
+        "name": "Deen Lerns",
+        "rating": 22.938615441471022,
+        "trainer_id": "e8e5ceb3-094e-4dd0-821a-1be83af3c473",
+        "trainer_name": "Moxievegas",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 4.674723632660671,
+        "rating_mu": 19.929381732471057,
+        "rating_sigma": 5.084886033270129,
+        "result": "loss"
+      }
+    },
+    "2020-05-15T18:54:56.597731+00:00": {
+      "opponent": {
+        "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
+        "id": "164887a1-f1e9-44af-8fac-e7946fdde7ff",
+        "name": "Coffee",
+        "rating": 26.354767666416592,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "migbui",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 4.981499891184871,
+        "rating_mu": 19.204584581996297,
+        "rating_sigma": 4.741028230270476,
+        "result": "loss"
+      }
+    }
+  }
+}

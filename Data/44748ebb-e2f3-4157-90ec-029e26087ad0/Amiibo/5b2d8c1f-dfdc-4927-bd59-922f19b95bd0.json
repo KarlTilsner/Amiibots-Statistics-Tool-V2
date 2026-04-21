@@ -1,0 +1,43 @@
+{
+  "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+  "id": "5b2d8c1f-dfdc-4927-bd59-922f19b95bd0",
+  "name": "Typhon",
+  "trainer_id": "c2fef7d0-92be-4111-8eff-4f229176422c",
+  "trainer_name": "dreamy_b_jay",
+  "matches": {
+    "2020-07-04T22:24:26.720758+00:00": {
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "467317d2-4201-4dcf-b16b-201f81b02c20",
+        "name": "MadCap",
+        "rating": 26.466382489496574,
+        "trainer_id": "f0ff13ad-2d79-43ed-9754-edd686d76dfe",
+        "trainer_name": "nozsmash",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.2012433991450244,
+        "rating_mu": 21.501903242367856,
+        "rating_sigma": 6.7668866144076105,
+        "result": "loss"
+      }
+    },
+    "2020-07-05T08:41:37.222445+00:00": {
+      "this_amiibo": {
+        "rating": 10.035357991870288,
+        "rating_mu": 26.082576759272797,
+        "rating_sigma": 5.349072922467503,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
+        "id": "03538127-4b85-47b3-affc-ebc0f65ad530",
+        "name": "Emoboi Mk1",
+        "rating": 19.30954347455381,
+        "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
+        "trainer_name": "Sirffuzzylogik",
+        "result": "loss"
+      }
+    }
+  }
+}

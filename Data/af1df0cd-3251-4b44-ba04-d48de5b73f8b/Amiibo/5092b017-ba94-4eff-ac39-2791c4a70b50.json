@@ -1,0 +1,43 @@
+{
+  "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+  "id": "5092b017-ba94-4eff-ac39-2791c4a70b50",
+  "name": "Zidane T ",
+  "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+  "trainer_name": "AlexanderAgne",
+  "matches": {
+    "2022-08-30T15:39:44.805481+00:00": {
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "5483118f-34e1-46a9-a652-3b05d52237a7",
+        "name": "Yahoo",
+        "rating": 21.611263527345756,
+        "trainer_id": "558d6371-ada9-4c14-b300-5eecf975ef68",
+        "trainer_name": "smashssbu",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.9606913653587732,
+        "rating_mu": 21.573136564977137,
+        "rating_sigma": 6.870815066539455,
+        "result": "loss"
+      }
+    },
+    "2022-08-31T00:01:12.566835+00:00": {
+      "opponent": {
+        "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
+        "id": "c1167001-7fd0-4a90-b611-2cf33bb43590",
+        "name": "Min Max",
+        "rating": 23.5348682010518,
+        "trainer_id": "559b97d3-faa3-4aa1-9697-8e87271c7b16",
+        "trainer_name": "ammoknight208",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.6281817105174348,
+        "rating_mu": 19.062559613015623,
+        "rating_sigma": 5.8114593008327295,
+        "result": "loss"
+      }
+    }
+  }
+}

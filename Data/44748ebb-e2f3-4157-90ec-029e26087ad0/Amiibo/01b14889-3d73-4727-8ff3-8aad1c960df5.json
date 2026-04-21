@@ -1,0 +1,43 @@
+{
+  "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+  "id": "01b14889-3d73-4727-8ff3-8aad1c960df5",
+  "name": "Phasma",
+  "trainer_id": "9dd080a5-5309-4ab0-bc0c-f92cef816efa",
+  "trainer_name": "leeya310",
+  "matches": {
+    "2020-07-24T21:50:25.866108+00:00": {
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "f4e6ea01-5a4d-4aa7-b90d-7c08c5137b55",
+        "name": "Snow Cone",
+        "rating": 21.785452862467025,
+        "trainer_id": "039f9f7b-2987-47c4-aed0-00bac57db74d",
+        "trainer_name": "FuryWingsYT",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.4639868363445245,
+        "rating_mu": 18.197648286143995,
+        "rating_sigma": 5.577887149933156,
+        "result": "loss"
+      }
+    },
+    "2020-07-24T19:55:07.555048+00:00": {
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "62a46832-6630-49ab-9093-23be5fdf922d",
+        "name": "Smash 64",
+        "rating": 23.333793207004163,
+        "trainer_id": "6769a5da-b1bb-4563-af5a-4439304198aa",
+        "trainer_name": "truth_wario",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.035060367583906,
+        "rating_mu": 21.245487682394202,
+        "rating_sigma": 6.736809104936765,
+        "result": "loss"
+      }
+    }
+  }
+}

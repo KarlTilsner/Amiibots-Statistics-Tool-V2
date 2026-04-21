@@ -1,0 +1,43 @@
+{
+  "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+  "id": "408e98f3-9f6b-46f8-9445-b6077a291176",
+  "name": "#TeamSeas",
+  "trainer_id": "1b2f2208-154e-44fd-a520-f5a043b3e7ba",
+  "trainer_name": "RufflestheKirbyplayer",
+  "matches": {
+    "2022-01-31T08:23:27.303021+00:00": {
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "46012443-0ce0-4c93-8688-a2a33b8aa6ff",
+        "name": "We Did It!",
+        "rating": 27.472395888824387,
+        "trainer_id": "fdc1350c-e911-4557-88ae-b29111abb0e9",
+        "trainer_name": "Angel3lego",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.2225586794298735,
+        "rating_mu": 21.466881508052087,
+        "rating_sigma": 6.748107609540738,
+        "result": "loss"
+      }
+    },
+    "2022-02-03T08:23:04.472070+00:00": {
+      "this_amiibo": {
+        "rating": 8.31605166427488,
+        "rating_mu": 24.87550143467584,
+        "rating_sigma": 5.5198165901336536,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "f6ba6f19-7890-4d3b-a4e4-3588408603a0",
+        "name": "Anakin",
+        "rating": 16.535570402907588,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    }
+  }
+}

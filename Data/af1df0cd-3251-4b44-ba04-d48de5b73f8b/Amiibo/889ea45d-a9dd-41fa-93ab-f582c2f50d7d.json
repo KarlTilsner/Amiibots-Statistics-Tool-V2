@@ -1,0 +1,43 @@
+{
+  "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+  "id": "889ea45d-a9dd-41fa-93ab-f582c2f50d7d",
+  "name": "Stockholm",
+  "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+  "trainer_name": "Competitively2",
+  "matches": {
+    "2024-06-26T03:16:34.273968+00:00": {
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "26b4498b-6715-4579-beb2-070998f39f50",
+        "name": "Lil' Twink",
+        "rating": 22.025468720316386,
+        "trainer_id": "5ecc9f0c-afdd-455b-8077-db8be3c428b8",
+        "trainer_name": "mrgoddamskittles",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.8420575299950706,
+        "rating_mu": 20.544055584882656,
+        "rating_sigma": 6.567332684962529,
+        "result": "loss"
+      }
+    },
+    "2024-07-13T12:00:41.892314+00:00": {
+      "this_amiibo": {
+        "rating": 8.29813097860455,
+        "rating_mu": 24.269754255580416,
+        "rating_sigma": 5.323874425658622,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "15daa9ae-1257-4406-adb6-11b04410d58f",
+        "name": "Kenikamin",
+        "rating": 17.318596577361703,
+        "trainer_id": "9ec875f4-9688-4d08-85b7-ff2d44018bcd",
+        "trainer_name": "Unkinker3",
+        "result": "loss"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+  "id": "24da79b4-07b2-4586-a33a-077595a7ec4a",
+  "name": "Squidward",
+  "trainer_id": "2f9c8c00-fa6a-404d-8718-68edf85cb21f",
+  "trainer_name": "irongelatin",
+  "matches": {
+    "2022-10-04T14:16:52.650793+00:00": {
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "f4292ac1-7e69-44af-adb6-08fd01f787c0",
+        "name": "KingSlayer",
+        "rating": 24.42425174122454,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.8864716339541481,
+        "rating_mu": 20.342844786620507,
+        "rating_sigma": 6.485457717555453,
+        "result": "loss"
+      }
+    },
+    "2022-10-05T00:19:28.985805+00:00": {
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "4d086b18-13d4-446e-94f2-07aa1d067361",
+        "name": "EnemySquid",
+        "rating": 20.946356182461372,
+        "trainer_id": "6a92a875-ad10-4927-9ac9-43f4cea3e878",
+        "trainer_name": "ArkansasAFC",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.343852111767756,
+        "rating_mu": 17.85196712951579,
+        "rating_sigma": 5.502705005916011,
+        "result": "loss"
+      }
+    }
+  }
+}

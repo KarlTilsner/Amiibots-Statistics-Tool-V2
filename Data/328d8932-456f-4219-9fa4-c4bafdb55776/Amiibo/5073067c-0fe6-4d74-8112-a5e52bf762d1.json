@@ -1,0 +1,43 @@
+{
+  "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+  "id": "5073067c-0fe6-4d74-8112-a5e52bf762d1",
+  "name": "Chili",
+  "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
+  "trainer_name": "soysauce881",
+  "matches": {
+    "2022-09-25T11:34:35.845044+00:00": {
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "8e23e5bd-386e-4b7f-bc47-754bd50df311",
+        "name": "SMASH",
+        "rating": 24.65453282155533,
+        "trainer_id": "e819f7ca-4d21-4e94-8e30-7edff2b94fc5",
+        "trainer_name": "dogboyton",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 9.931606280828426,
+        "rating_mu": 25.934790745388284,
+        "rating_sigma": 5.334394821519952,
+        "result": "loss"
+      }
+    },
+    "2022-09-25T11:29:23.208428+00:00": {
+      "this_amiibo": {
+        "rating": 10.122977491203713,
+        "rating_mu": 29.8825205986393,
+        "rating_sigma": 6.5865143691451955,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "994c7f80-67ed-4afc-b96e-72d0567fd12c",
+        "name": "Kirby",
+        "rating": 13.956364181682163,
+        "trainer_id": "860520ba-0394-4d67-86e7-9269f8c25b20",
+        "trainer_name": "마스터_커비",
+        "result": "loss"
+      }
+    }
+  }
+}

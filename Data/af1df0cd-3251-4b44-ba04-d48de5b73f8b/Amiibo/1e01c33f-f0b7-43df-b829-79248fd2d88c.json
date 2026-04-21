@@ -1,0 +1,43 @@
+{
+  "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+  "id": "1e01c33f-f0b7-43df-b829-79248fd2d88c",
+  "name": "Dare Devil",
+  "trainer_id": "a03324ae-7a0c-4a4a-a608-046e54c99664",
+  "trainer_name": "picvity",
+  "matches": {
+    "2023-04-30T04:57:06.296975+00:00": {
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "8e4e7583-62d3-4f00-8324-5ea482d768d8",
+        "name": "Tom Tucker",
+        "rating": 21.057391984058548,
+        "trainer_id": "16484274-0bf1-42ca-8003-5797b387bdc5",
+        "trainer_name": "Denneylaw83",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.3623608380450847,
+        "rating_mu": 17.975559120028308,
+        "rating_sigma": 5.537732760661074,
+        "result": "loss"
+      }
+    },
+    "2023-04-30T01:57:55.088548+00:00": {
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "c3ede0df-ccd5-4388-9d7f-3e7a45c24cc4",
+        "name": "Cember",
+        "rating": 24.14820222649664,
+        "trainer_id": "b82c6d43-d80c-4195-99a0-67355d12115d",
+        "trainer_name": "Rukasu9078",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.8683856545208144,
+        "rating_mu": 20.308128689391822,
+        "rating_sigma": 6.4799143449570025,
+        "result": "loss"
+      }
+    }
+  }
+}

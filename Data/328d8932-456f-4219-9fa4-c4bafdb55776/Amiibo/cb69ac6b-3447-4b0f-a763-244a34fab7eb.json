@@ -1,0 +1,43 @@
+{
+  "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+  "id": "cb69ac6b-3447-4b0f-a763-244a34fab7eb",
+  "name": "α Catboy",
+  "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
+  "trainer_name": "soysauce881",
+  "matches": {
+    "2022-03-06T20:24:07.392510+00:00": {
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "05822e58-3a2f-4500-9055-431b4aec54d2",
+        "name": "Felicia",
+        "rating": 13.275440833252025,
+        "trainer_id": "be58a4cf-84b7-4a35-959b-721591e6dfcb",
+        "trainer_name": "chillquillz",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 6.569135113317483,
+        "rating_mu": 21.435755589433825,
+        "rating_sigma": 4.955540158705447,
+        "result": "loss"
+      }
+    },
+    "2022-03-06T18:53:05.882697+00:00": {
+      "this_amiibo": {
+        "rating": 9.693198515343358,
+        "rating_mu": 29.36090448032746,
+        "rating_sigma": 6.555901988328034,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "a7064a2b-f6e0-4a70-b4f0-7861fe448c74",
+        "name": "Corkscrew",
+        "rating": 19.077051576579343,
+        "trainer_id": "5d49133f-f2e3-449b-b297-19d899fdf013",
+        "trainer_name": "thedailydude",
+        "result": "loss"
+      }
+    }
+  }
+}

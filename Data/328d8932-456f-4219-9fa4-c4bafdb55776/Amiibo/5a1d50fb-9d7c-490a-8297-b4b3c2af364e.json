@@ -1,0 +1,43 @@
+{
+  "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+  "id": "5a1d50fb-9d7c-490a-8297-b4b3c2af364e",
+  "name": "Shinkū",
+  "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
+  "trainer_name": "raid_boss_09",
+  "matches": {
+    "2022-07-31T10:19:07.266245+00:00": {
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "739ed823-7fa4-4fda-a781-5e62109edc85",
+        "name": "Raiden",
+        "rating": 15.008387888346766,
+        "trainer_id": "57b7c7ba-025a-4f68-a714-8df0b8eba37d",
+        "trainer_name": "Reddragun08",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.24853807416197427,
+        "rating_mu": 18.668421784235758,
+        "rating_sigma": 6.305653286132578,
+        "result": "loss"
+      }
+    },
+    "2022-08-27T09:50:11.906643+00:00": {
+      "this_amiibo": {
+        "rating": 6.336657776682372,
+        "rating_mu": 22.536760468374183,
+        "rating_sigma": 5.400034230563937,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+        "id": "7966b414-03bf-4c8b-a31d-e0e08d6666c7",
+        "name": "Hands Jr.",
+        "rating": 4.257478303725502,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
+        "result": "loss"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+  "id": "317efd18-5bc0-409d-b8c5-d46ed6fc90e0",
+  "name": "Gaspy",
+  "trainer_id": "333ada9d-112d-469a-8a26-320358969432",
+  "trainer_name": "smashssf2_ita",
+  "matches": {
+    "2022-08-11T03:21:12.464709+00:00": {
+      "opponent": {
+        "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
+        "id": "17626f73-c412-4f47-a71d-9c2a8f38b082",
+        "name": "Bootleg",
+        "rating": 20.04908355769776,
+        "trainer_id": "5d49133f-f2e3-449b-b297-19d899fdf013",
+        "trainer_name": "thedailydude",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.09342974891427147,
+        "rating_mu": 18.63455763817893,
+        "rating_sigma": 6.18037596308822,
+        "result": "loss"
+      }
+    },
+    "2022-08-11T12:36:13.859452+00:00": {
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "6b8352fc-be2d-4c9a-8b85-ff0ccb420953",
+        "name": "W.A.S",
+        "rating": 11.235865939124745,
+        "trainer_id": "c698afb6-6645-4f81-b3b9-a71f4ebcd6a0",
+        "trainer_name": "tegtegthe5",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.31149123524845024,
+        "rating_mu": 15.094352764469573,
+        "rating_sigma": 5.135281333239341,
+        "result": "loss"
+      }
+    }
+  }
+}

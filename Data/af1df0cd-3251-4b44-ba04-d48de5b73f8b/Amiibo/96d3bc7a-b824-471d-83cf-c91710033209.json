@@ -1,0 +1,43 @@
+{
+  "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+  "id": "96d3bc7a-b824-471d-83cf-c91710033209",
+  "name": "BBC",
+  "trainer_id": "307f6903-c331-4a36-ad71-1a222a716ca2",
+  "trainer_name": "Sanity_Jay0",
+  "matches": {
+    "2024-04-02T19:08:34.573694+00:00": {
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "7b11e4a7-aebc-4b5a-baf6-9b4ccd3d5fb1",
+        "name": "Psikatana",
+        "rating": 16.255360321270583,
+        "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
+        "trainer_name": "schmorchid",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.4313987370459458,
+        "rating_mu": 21.054725419896386,
+        "rating_sigma": 6.874442227616813,
+        "result": "loss"
+      }
+    },
+    "2024-04-03T09:19:14.626150+00:00": {
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "3be4ae2f-2451-408d-9499-9f842e44cdb7",
+        "name": "Incinerate",
+        "rating": 6.871038159243465,
+        "trainer_id": "7a20ac35-2d48-4f54-8a35-81d128b198a5",
+        "trainer_name": "ghoul2089",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.003974424786360231,
+        "rating_mu": 18.7286897454124,
+        "rating_sigma": 6.2442213900662535,
+        "result": "loss"
+      }
+    }
+  }
+}

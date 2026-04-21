@@ -1,0 +1,43 @@
+{
+  "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+  "id": "bfdad47e-48e4-4f2f-aeb6-9f74dabffdf9",
+  "name": "Luka Hein",
+  "trainer_id": "a35e4c31-9d53-4103-bc9e-5b57c0515236",
+  "trainer_name": "sorpl3x",
+  "matches": {
+    "2020-10-21T07:27:22.917231+00:00": {
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "0b5cf722-89fe-460c-bbc4-d7c7ee224f74",
+        "name": "Garibaldi",
+        "rating": 24.31047649307342,
+        "trainer_id": "ee675c7c-7836-4aa2-8a36-fef64e67b80a",
+        "trainer_name": "truetitan14",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.9169116122819112,
+        "rating_mu": 20.464590111738193,
+        "rating_sigma": 6.515892833152094,
+        "result": "loss"
+      }
+    },
+    "2020-10-21T15:00:11.168059+00:00": {
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "c96f11ed-bc04-44e6-804d-69f4481d561a",
+        "name": "Ringing?",
+        "rating": 21.392172439551388,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.3742968376574574,
+        "rating_mu": 17.890247706444306,
+        "rating_sigma": 5.505316956262283,
+        "result": "loss"
+      }
+    }
+  }
+}

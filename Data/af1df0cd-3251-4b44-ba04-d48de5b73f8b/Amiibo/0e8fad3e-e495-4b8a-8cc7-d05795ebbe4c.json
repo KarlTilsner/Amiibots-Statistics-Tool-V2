@@ -1,0 +1,43 @@
+{
+  "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+  "id": "0e8fad3e-e495-4b8a-8cc7-d05795ebbe4c",
+  "name": "SEPHIROTH",
+  "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+  "trainer_name": "Competitively2",
+  "matches": {
+    "2024-09-24T09:02:12.117891+00:00": {
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "543f916d-f110-451a-bf31-e385fec90db6",
+        "name": "EWGF",
+        "rating": 29.253757561274348,
+        "trainer_id": "157f614e-7fc2-4ded-9ef3-5384077edcec",
+        "trainer_name": "wish0727v2",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 12.366636337500491,
+        "rating_mu": 27.859859426960647,
+        "rating_sigma": 5.164407696486719,
+        "result": "loss"
+      }
+    },
+    "2024-09-24T03:55:08.388400+00:00": {
+      "this_amiibo": {
+        "rating": 12.330811288112738,
+        "rating_mu": 31.024810687592357,
+        "rating_sigma": 6.231333133159873,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "76c21066-d7c7-4db6-b842-c0982f3ad412",
+        "name": "Wubdolwa",
+        "rating": 23.85394094712762,
+        "trainer_id": "e38c8bde-3fd5-4f26-aa98-691255967e55",
+        "trainer_name": "Bewni",
+        "result": "loss"
+      }
+    }
+  }
+}

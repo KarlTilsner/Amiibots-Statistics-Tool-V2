@@ -1,0 +1,43 @@
+{
+  "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+  "id": "fdb70e47-d2f0-4121-9658-3b0a3335fc92",
+  "name": "Comedian",
+  "trainer_id": "cafb9f3e-3bf0-4595-a167-2c91996ed8f5",
+  "trainer_name": "superberry58",
+  "matches": {
+    "2020-11-14T21:02:41.808455+00:00": {
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "ab2c7810-aee8-4c58-8390-d7ae848df0a8",
+        "name": "Pingu",
+        "rating": 31.07441874258001,
+        "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
+        "trainer_name": "apple_beebs",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.3182969273765686,
+        "rating_mu": 22.935457025588846,
+        "rating_sigma": 7.205720032737426,
+        "result": "loss"
+      }
+    },
+    "2020-11-15T16:15:25.120862+00:00": {
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "ab2c7810-aee8-4c58-8390-d7ae848df0a8",
+        "name": "Pingu",
+        "rating": 31.440375309602548,
+        "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
+        "trainer_name": "apple_beebs",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 2.1603745574957394,
+        "rating_mu": 21.847583458057734,
+        "rating_sigma": 6.562402966853998,
+        "result": "loss"
+      }
+    }
+  }
+}

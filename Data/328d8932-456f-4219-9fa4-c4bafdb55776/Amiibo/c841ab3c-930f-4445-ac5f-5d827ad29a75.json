@@ -1,0 +1,43 @@
+{
+  "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+  "id": "c841ab3c-930f-4445-ac5f-5d827ad29a75",
+  "name": "Frozone",
+  "trainer_id": "26e7e2d5-119d-4773-8cc4-328463893bbe",
+  "trainer_name": "GamerJohn_SSB",
+  "matches": {
+    "2021-09-14T14:59:02.059343+00:00": {
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "873e29e0-05f6-4bc2-a46e-7d79635c8cba",
+        "name": "GokenBlack",
+        "rating": 26.8721455432258,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.1726037532509217,
+        "rating_mu": 21.25575428240519,
+        "rating_sigma": 6.694383509718089,
+        "result": "loss"
+      }
+    },
+    "2021-11-28T07:31:02.519789+00:00": {
+      "this_amiibo": {
+        "rating": 14.011324888812327,
+        "rating_mu": 29.09963059147846,
+        "rating_sigma": 5.029435234222044,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "1ea3b7b4-5429-47d4-bd2f-12fb67e8ebea",
+        "name": "Zucchini",
+        "rating": 24.638691526718265,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "loss"
+      }
+    }
+  }
+}

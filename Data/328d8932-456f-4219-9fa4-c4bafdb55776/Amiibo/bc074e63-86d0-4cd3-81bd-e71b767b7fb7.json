@@ -1,0 +1,43 @@
+{
+  "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+  "id": "bc074e63-86d0-4cd3-81bd-e71b767b7fb7",
+  "name": "Pazimoya",
+  "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
+  "trainer_name": "soysauce881",
+  "matches": {
+    "2022-09-22T11:12:20.213598+00:00": {
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "a251961c-4c92-476f-9ba5-48ee27a6325b",
+        "name": "Suzaku",
+        "rating": 23.765244731783614,
+        "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
+        "trainer_name": "wyvernfalcon",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 12.160387958262586,
+        "rating_mu": 27.84018371244602,
+        "rating_sigma": 5.226598584727811,
+        "result": "loss"
+      }
+    },
+    "2022-09-22T10:44:30.549936+00:00": {
+      "this_amiibo": {
+        "rating": 12.456937012025758,
+        "rating_mu": 31.166112804683173,
+        "rating_sigma": 6.236391930885805,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "8bc7cb9f-18c1-4e1b-95e7-fdcac3363148",
+        "name": "Nier",
+        "rating": 22.234660460285454,
+        "trainer_id": "75cc3f13-4e2c-4d71-8a80-80a1ba3a705a",
+        "trainer_name": "Duncle_Iroh_",
+        "result": "loss"
+      }
+    }
+  }
+}

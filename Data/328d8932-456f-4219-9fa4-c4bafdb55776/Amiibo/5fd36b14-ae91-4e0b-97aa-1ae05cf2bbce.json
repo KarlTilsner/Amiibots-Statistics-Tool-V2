@@ -1,0 +1,77 @@
+{
+  "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+  "id": "5fd36b14-ae91-4e0b-97aa-1ae05cf2bbce",
+  "name": "Sunflower",
+  "trainer_id": "c1461260-903f-4aae-ad42-af21e07e1e98",
+  "trainer_name": "TheWohaPolice",
+  "matches": {
+    "2021-09-08T15:47:03.739355+00:00": {
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "89aa1c9c-3de3-4f36-9ffc-1cca390732dc",
+        "name": "DryDryRuin",
+        "rating": 25.258916062417406,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "sp_staples",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.158200579337688,
+        "rating_mu": 22.56178185363597,
+        "rating_sigma": 7.13452709143276,
+        "result": "loss"
+      }
+    },
+    "2021-09-10T05:41:24.552136+00:00": {
+      "this_amiibo": {
+        "rating": 7.244509859828202,
+        "rating_mu": 25.913228618834026,
+        "rating_sigma": 6.222906253001941,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "b9e961c4-5e25-4c81-bd2b-f2615044683b",
+        "name": "AmiiboChad",
+        "rating": 0.5512425692591094,
+        "trainer_id": "1c4294fb-b0ae-40ac-8797-79913cd40162",
+        "trainer_name": "superlamp64",
+        "result": "loss"
+      }
+    },
+    "2021-09-23T15:01:43.236781+00:00": {
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "c77b66ab-a91a-4f6d-8aff-af00e2ec5496",
+        "name": "Pegasus",
+        "rating": 8.66195510365166,
+        "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
+        "trainer_name": "LovingStew",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 5.580792410336748,
+        "rating_mu": 21.71552143713601,
+        "rating_sigma": 5.3782430089330875,
+        "result": "loss"
+      }
+    },
+    "2021-09-24T12:16:00.603664+00:00": {
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "136b5700-683d-443a-904a-33069f7ba32d",
+        "name": "ToonDisney",
+        "rating": 23.210956276366513,
+        "trainer_id": "5d49133f-f2e3-449b-b297-19d899fdf013",
+        "trainer_name": "thedailydude",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 5.813628214558978,
+        "rating_mu": 20.189907942678616,
+        "rating_sigma": 4.792093242706546,
+        "result": "loss"
+      }
+    }
+  }
+}

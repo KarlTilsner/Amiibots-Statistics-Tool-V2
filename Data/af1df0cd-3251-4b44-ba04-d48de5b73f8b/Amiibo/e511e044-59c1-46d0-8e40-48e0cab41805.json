@@ -1,0 +1,43 @@
+{
+  "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+  "id": "e511e044-59c1-46d0-8e40-48e0cab41805",
+  "name": "1-Hit Rat",
+  "trainer_id": "527dbaa3-6592-43af-ba6f-652fdb69b059",
+  "trainer_name": "RetTheBestSoupLeg",
+  "matches": {
+    "2023-06-15T05:55:24.792553+00:00": {
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c4323567-6050-436c-8781-73bdda2b8a95",
+        "name": "Cthulhu",
+        "rating": 13.784204331546064,
+        "trainer_id": "88381722-5c6e-46ed-9b7c-444896ad8a81",
+        "trainer_name": "jax091707",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.20018595098283143,
+        "rating_mu": 21.7307270239048,
+        "rating_sigma": 7.176847024307324,
+        "result": "loss"
+      }
+    },
+    "2023-06-15T22:34:39.084019+00:00": {
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "3482c4fa-288d-46fb-9f42-508a09982eb5",
+        "name": "Supr Soakr",
+        "rating": 7.002516269416905,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.2803732361347393,
+        "rating_mu": 19.092961482640774,
+        "rating_sigma": 6.457778239591838,
+        "result": "loss"
+      }
+    }
+  }
+}

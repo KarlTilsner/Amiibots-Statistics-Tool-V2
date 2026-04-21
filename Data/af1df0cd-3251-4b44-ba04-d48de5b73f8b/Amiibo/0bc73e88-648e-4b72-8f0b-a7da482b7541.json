@@ -1,0 +1,43 @@
+{
+  "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+  "id": "0bc73e88-648e-4b72-8f0b-a7da482b7541",
+  "name": "Squid#2",
+  "trainer_id": "b4ded674-d14a-4e96-a0c7-5dc00906f8f7",
+  "trainer_name": "aggron_ghost",
+  "matches": {
+    "2023-08-08T20:28:13.193925+00:00": {
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "31ac56cd-dd7e-48b3-a72b-d128e29d6dd3",
+        "name": "Lucifer",
+        "rating": 20.525865943738435,
+        "trainer_id": "6620a138-5af3-4d27-8bc7-1e989943136b",
+        "trainer_name": "ethanzombiek",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.5178859731766252,
+        "rating_mu": 19.670584820601338,
+        "rating_sigma": 6.384232949141571,
+        "result": "loss"
+      }
+    },
+    "2024-09-28T00:07:56.220797+00:00": {
+      "this_amiibo": {
+        "rating": 7.121790457346627,
+        "rating_mu": 22.932377010014363,
+        "rating_sigma": 5.270195517555912,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "a5feae79-111d-4b7d-acd2-a054fa6147fa",
+        "name": "GOKU",
+        "rating": 14.600262155187783,
+        "trainer_id": "9829dfa3-05a1-4936-8d5d-320c204abb1e",
+        "trainer_name": "white_pikminyt",
+        "result": "loss"
+      }
+    }
+  }
+}

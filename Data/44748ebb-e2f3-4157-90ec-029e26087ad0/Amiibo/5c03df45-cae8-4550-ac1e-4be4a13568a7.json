@@ -1,0 +1,60 @@
+{
+  "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+  "id": "5c03df45-cae8-4550-ac1e-4be4a13568a7",
+  "name": "Nel",
+  "trainer_id": "43cffe5f-d305-452b-a9de-fdff2396f7c3",
+  "trainer_name": "UltraDPG",
+  "matches": {
+    "2020-09-13T16:41:58.401489+00:00": {
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "103e72f8-a036-4fbd-80e1-a035866d15e7",
+        "name": "Steve",
+        "rating": 26.788893510202016,
+        "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
+        "trainer_name": "Sirffuzzylogik",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.2282682551078317,
+        "rating_mu": 21.645194208551093,
+        "rating_sigma": 6.8056419844810865,
+        "result": "loss"
+      }
+    },
+    "2020-09-29T18:28:58.491897+00:00": {
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "0b167b76-2496-4aee-a9e0-0d870acbe693",
+        "name": "twitch.tv",
+        "rating": 21.057606604042455,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.8372022821329388,
+        "rating_mu": 19.761680300552815,
+        "rating_sigma": 5.974826006139958,
+        "result": "loss"
+      }
+    },
+    "2020-10-17T22:12:21.010525+00:00": {
+      "this_amiibo": {
+        "rating": 6.534513027208874,
+        "rating_mu": 22.464069784660246,
+        "rating_sigma": 5.309852252483791,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "fb9e6937-de9f-49c1-8ca9-d76dbd472bce",
+        "name": "Raven",
+        "rating": 0.5660143338530297,
+        "trainer_id": "43cffe5f-d305-452b-a9de-fdff2396f7c3",
+        "trainer_name": "UltraDPG",
+        "result": "loss"
+      }
+    }
+  }
+}

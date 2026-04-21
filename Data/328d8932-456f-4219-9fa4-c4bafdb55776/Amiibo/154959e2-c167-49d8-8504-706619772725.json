@@ -1,0 +1,43 @@
+{
+  "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
+  "id": "154959e2-c167-49d8-8504-706619772725",
+  "name": "BloodyWhip",
+  "trainer_id": "333ada9d-112d-469a-8a26-320358969432",
+  "trainer_name": "smashssf2_ita",
+  "matches": {
+    "2021-10-25T03:28:28.058806+00:00": {
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "637a669f-1ec2-4515-a8a1-46bca92569cb",
+        "name": "Mr. Bill",
+        "rating": 23.527185367137175,
+        "trainer_id": "16484274-0bf1-42ca-8003-5797b387bdc5",
+        "trainer_name": "Denneylaw83",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.808661476089128,
+        "rating_mu": 20.183025677742222,
+        "rating_sigma": 6.458121400551032,
+        "result": "loss"
+      }
+    },
+    "2021-10-26T04:55:38.003942+00:00": {
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "dc904b04-d52f-4529-867b-e07361fa88ca",
+        "name": "Starboks",
+        "rating": 30.51021364741149,
+        "trainer_id": "c1461260-903f-4aae-ad42-af21e07e1e98",
+        "trainer_name": "MoonBeanBie",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.1936682600704103,
+        "rating_mu": 19.83328385996973,
+        "rating_sigma": 6.213205199966439,
+        "result": "loss"
+      }
+    }
+  }
+}

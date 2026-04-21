@@ -1,0 +1,43 @@
+{
+  "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+  "id": "a2e20ea1-6078-4ce6-8150-fca9f92e62f7",
+  "name": "KFC",
+  "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+  "trainer_name": "foamtray",
+  "matches": {
+    "2020-06-08T15:08:01.099541+00:00": {
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "aac36bee-e52a-492a-ac5e-deda8880e237",
+        "name": "TornadoMan",
+        "rating": 21.878231030379244,
+        "trainer_id": "d0e3f535-e180-4251-94b6-6c528f278d1e",
+        "trainer_name": "cadenlisa",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.6476080994244242,
+        "rating_mu": 19.875276706831077,
+        "rating_sigma": 6.409222869135551,
+        "result": "loss"
+      }
+    },
+    "2020-06-11T05:49:02.330411+00:00": {
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "8a97b589-7653-44ee-9bc7-2bee9619a5b8",
+        "name": "Kiwi",
+        "rating": 23.9902460032348,
+        "trainer_id": "0636d0e3-7111-4073-a31d-f07fb7d61394",
+        "trainer_name": "ScroogeMcDuk",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.2789002411281878,
+        "rating_mu": 18.235629955287617,
+        "rating_sigma": 5.652243238053144,
+        "result": "loss"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+  "id": "9056151f-12e9-4fe3-b47c-7b2058d61718",
+  "name": "Shigeo",
+  "trainer_id": "43cffe5f-d305-452b-a9de-fdff2396f7c3",
+  "trainer_name": "UltraDPG",
+  "matches": {
+    "2020-09-20T12:02:01.728454+00:00": {
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "11d49cad-a426-4788-8853-81490ed82af9",
+        "name": "Not Sans",
+        "rating": 22.030772655314223,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.9734975639995369,
+        "rating_mu": 21.413264805418226,
+        "rating_sigma": 6.813255747139563,
+        "result": "loss"
+      }
+    },
+    "2020-09-23T11:17:49.563245+00:00": {
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "1627acfe-abf6-4e3b-bafb-33a14739a864",
+        "name": "NatPlumber",
+        "rating": 17.59008017073237,
+        "trainer_id": "70e98331-604c-4eb1-a32f-65e392d4fed0",
+        "trainer_name": "123hyden",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.3898679499298048,
+        "rating_mu": 19.081218374279146,
+        "rating_sigma": 5.897116808116447,
+        "result": "loss"
+      }
+    },
+    "2020-09-28T20:53:54.625328+00:00": {
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "97fadc51-eeb6-4fbd-8742-67f81e7cc398",
+        "name": "Alfyn",
+        "rating": 21.03820440086764,
+        "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
+        "trainer_name": "Sirffuzzylogik",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.751944473694607,
+        "rating_mu": 17.18822595256911,
+        "rating_sigma": 5.145427159624834,
+        "result": "loss"
+      }
+    }
+  }
+}

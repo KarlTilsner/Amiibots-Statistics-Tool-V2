@@ -1,0 +1,43 @@
+{
+  "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
+  "id": "bf22151b-1d42-4205-9c45-f2f950b16810",
+  "name": "Gutted",
+  "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
+  "trainer_name": "Sirffuzzylogik",
+  "matches": {
+    "2020-04-21T01:07:03.483987+00:00": {
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "cc3566f3-b987-4457-b70d-b4282c43711f",
+        "name": "Goken",
+        "rating": 22.68877071803088,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "migbui",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.5829156370947146,
+        "rating_mu": 19.60553631647143,
+        "rating_sigma": 6.340873559792238,
+        "result": "loss"
+      }
+    },
+    "2020-05-05T23:20:18.812058+00:00": {
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "9b47150d-5928-48f8-85a3-f74fe7b9bf2d",
+        "name": "Humbler",
+        "rating": 21.49177873163798,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "migbui",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.1130602104001426,
+        "rating_mu": 18.46357793654535,
+        "rating_sigma": 5.783505908715069,
+        "result": "loss"
+      }
+    }
+  }
+}

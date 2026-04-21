@@ -1,0 +1,43 @@
+{
+  "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+  "id": "5217b463-b676-42a1-b32b-6f41ddcf9cef",
+  "name": "Mori",
+  "trainer_id": "046b6cbc-d2e8-4317-a680-a2e5b4b18bb0",
+  "trainer_name": "prinzess16",
+  "matches": {
+    "2020-09-19T22:37:52.746540+00:00": {
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "94e52399-bef1-486f-88cb-6aba07b53e61",
+        "name": "King Dyson",
+        "rating": 23.574879648309313,
+        "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
+        "trainer_name": "rurpking22",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.8488719131090896,
+        "rating_mu": 20.311355251616273,
+        "rating_sigma": 6.487494446169061,
+        "result": "loss"
+      }
+    },
+    "2020-09-20T02:05:15.442166+00:00": {
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "664f464e-7e55-411f-a690-37371e97c3f8",
+        "name": "Flanders",
+        "rating": 16.0772913979735,
+        "trainer_id": "6769a5da-b1bb-4563-af5a-4439304198aa",
+        "trainer_name": "truth_wario",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.1713651179223703,
+        "rating_mu": 18.463254576040818,
+        "rating_sigma": 5.7639631527061495,
+        "result": "loss"
+      }
+    }
+  }
+}

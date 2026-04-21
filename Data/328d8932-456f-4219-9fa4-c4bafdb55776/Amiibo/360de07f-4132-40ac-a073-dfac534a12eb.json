@@ -1,0 +1,43 @@
+{
+  "character_id": "96e48494-946f-4280-a419-488d644135e0",
+  "id": "360de07f-4132-40ac-a073-dfac534a12eb",
+  "name": "aids",
+  "trainer_id": "29fc3e9c-b568-4dcb-b821-9f4c12354a8c",
+  "trainer_name": "reiaddict",
+  "matches": {
+    "2022-03-18T17:45:43.799153+00:00": {
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "69a6c9f8-4a15-4279-917c-e4cac32627ad",
+        "name": "Pure One",
+        "rating": 31.05549128213273,
+        "trainer_id": "280c4d25-34f7-4e2f-a2a4-b085faf86b60",
+        "trainer_name": "gsus22",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 15.108697577466769,
+        "rating_mu": 30.018018884103085,
+        "rating_sigma": 4.969773768878772,
+        "result": "loss"
+      }
+    },
+    "2022-03-18T14:20:42.564591+00:00": {
+      "this_amiibo": {
+        "rating": 15.284895941430964,
+        "rating_mu": 33.3162723910345,
+        "rating_sigma": 6.010458816534513,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "f32439d7-b894-427a-a86d-1277d9790727",
+        "name": "Royal",
+        "rating": 24.4845944732119,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "loss"
+      }
+    }
+  }
+}

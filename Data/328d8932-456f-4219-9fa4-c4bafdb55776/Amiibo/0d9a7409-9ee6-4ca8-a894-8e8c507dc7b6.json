@@ -1,0 +1,43 @@
+{
+  "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+  "id": "0d9a7409-9ee6-4ca8-a894-8e8c507dc7b6",
+  "name": "Young Pwog",
+  "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+  "trainer_name": "Zoom__",
+  "matches": {
+    "2021-07-25T14:20:59.016057+00:00": {
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "2b32dcf6-cb44-4088-9e54-fd482ce2e80b",
+        "name": "kiwi",
+        "rating": 26.04601321210722,
+        "trainer_id": "800690a5-19de-4098-8fd4-33bcbadf4a18",
+        "trainer_name": "TheAuraKing6",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.4661783695477233,
+        "rating_mu": 18.864446893624212,
+        "rating_sigma": 5.79942284135883,
+        "result": "loss"
+      }
+    },
+    "2021-07-25T14:14:05.515373+00:00": {
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "391c9106-3cc1-47bb-8855-3748f1eaf058",
+        "name": "Russel",
+        "rating": 22.655486316188252,
+        "trainer_id": "7a64b242-781f-4587-bc41-05a41706b321",
+        "trainer_name": "Sammirott",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.7869124225167852,
+        "rating_mu": 20.22121362352149,
+        "rating_sigma": 6.478100400334902,
+        "result": "loss"
+      }
+    }
+  }
+}

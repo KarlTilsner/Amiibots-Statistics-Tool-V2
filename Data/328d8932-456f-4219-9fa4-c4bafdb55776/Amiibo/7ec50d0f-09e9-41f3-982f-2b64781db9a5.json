@@ -1,0 +1,60 @@
+{
+  "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+  "id": "7ec50d0f-09e9-41f3-982f-2b64781db9a5",
+  "name": "1FistShort",
+  "trainer_id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
+  "trainer_name": "pinheadpatrick017",
+  "matches": {
+    "2022-03-07T04:08:56.798495+00:00": {
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "b1622d54-c050-4b16-a157-09e417e02e0f",
+        "name": "Clara",
+        "rating": 17.401162002460087,
+        "trainer_id": "dc1275c1-7af0-4fd0-82ab-9e36b562c48c",
+        "trainer_name": "Jakeob_1",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 6.080145088337808,
+        "rating_mu": 20.861642070813637,
+        "rating_sigma": 4.927165660825277,
+        "result": "loss"
+      }
+    },
+    "2022-03-07T03:38:12.210779+00:00": {
+      "this_amiibo": {
+        "rating": 7.6962365756037805,
+        "rating_mu": 26.812811502843772,
+        "rating_sigma": 6.3721916424133305,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "27c111a0-d307-49dd-b70e-22ac4c212d57",
+        "name": "Susan",
+        "rating": -0.9763152114973863,
+        "trainer_id": "5b69eb86-90ac-4570-977f-51a23bb7c40b",
+        "trainer_name": "LouBerto_",
+        "result": "loss"
+      }
+    },
+    "2022-03-07T03:24:46.039749+00:00": {
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "2a023997-0caa-4ed4-98e9-983643fef723",
+        "name": "Ban This",
+        "rating": 32.10040645928674,
+        "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
+        "trainer_name": "gotelin_",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.3222919292083795,
+        "rating_mu": 23.026501825396277,
+        "rating_sigma": 7.234736632062632,
+        "result": "loss"
+      }
+    }
+  }
+}

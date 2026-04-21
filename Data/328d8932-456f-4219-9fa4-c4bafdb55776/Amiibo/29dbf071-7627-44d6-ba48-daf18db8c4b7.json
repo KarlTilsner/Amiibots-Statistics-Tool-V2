@@ -1,0 +1,43 @@
+{
+  "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
+  "id": "29dbf071-7627-44d6-ba48-daf18db8c4b7",
+  "name": "№DarkSamus",
+  "trainer_id": "405e4707-8f38-4324-8416-3d636552e1ff",
+  "trainer_name": "NoAmiibo",
+  "matches": {
+    "2021-12-10T21:14:29.306038+00:00": {
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "0e3921c6-673d-46ae-9ff5-a17a46303e00",
+        "name": "Anti-Ness",
+        "rating": 26.524237699680793,
+        "trainer_id": "db478eb2-7e39-43c5-9dca-2fe9358ad69a",
+        "trainer_name": "thatbupguy",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.1488566904047595,
+        "rating_mu": 21.175072149091488,
+        "rating_sigma": 6.675405152895576,
+        "result": "loss"
+      }
+    },
+    "2021-12-13T20:19:52.497745+00:00": {
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "37290ccf-b7f6-4d8b-8387-7c09289ec20b",
+        "name": "Eragon",
+        "rating": 29.0864693016417,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.8829109929565675,
+        "rating_mu": 20.01596041708914,
+        "rating_sigma": 6.04434980804419,
+        "result": "loss"
+      }
+    }
+  }
+}

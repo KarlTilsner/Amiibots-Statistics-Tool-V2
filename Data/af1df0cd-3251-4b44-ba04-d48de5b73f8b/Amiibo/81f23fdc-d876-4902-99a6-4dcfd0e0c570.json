@@ -1,0 +1,43 @@
+{
+  "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+  "id": "81f23fdc-d876-4902-99a6-4dcfd0e0c570",
+  "name": "Mario",
+  "trainer_id": "0dbb4031-0bb5-4915-81aa-3f796d5d9776",
+  "trainer_name": "infinite_ultimate_life",
+  "matches": {
+    "2024-06-29T06:25:36.595214+00:00": {
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "676881d6-cc61-46d3-9ac5-f80f268df797",
+        "name": "YAKUZA",
+        "rating": 20.6175241712496,
+        "trainer_id": "5bbdd0ed-bab2-465a-97ab-46b2192286d6",
+        "trainer_name": "nothingxl",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.2681459537438329,
+        "rating_mu": 18.986946133582506,
+        "rating_sigma": 6.239600059946224,
+        "result": "loss"
+      }
+    },
+    "2024-07-11T02:29:50.644521+00:00": {
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "06eeb8b7-959f-4baf-9710-15659fb305ee",
+        "name": "UNDERSTAND",
+        "rating": 19.274415301055008,
+        "trainer_id": "97dbd0ce-b9c2-4547-9e58-048231ec5d1c",
+        "trainer_name": "spider_lungs",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.536991307880017,
+        "rating_mu": 16.30402587308609,
+        "rating_sigma": 5.255678188402024,
+        "result": "loss"
+      }
+    }
+  }
+}

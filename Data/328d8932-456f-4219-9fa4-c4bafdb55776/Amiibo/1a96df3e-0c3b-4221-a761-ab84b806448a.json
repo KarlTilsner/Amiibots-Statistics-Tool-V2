@@ -1,0 +1,43 @@
+{
+  "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+  "id": "1a96df3e-0c3b-4221-a761-ab84b806448a",
+  "name": "Faust",
+  "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+  "trainer_name": "FrostByte245",
+  "matches": {
+    "2021-10-26T17:52:22.155059+00:00": {
+      "opponent": {
+        "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
+        "id": "11335d68-477b-4948-a978-cd6fac9cd313",
+        "name": "NASCAR",
+        "rating": 24.260323829133323,
+        "trainer_id": "8b58def7-f142-4a59-b1d1-322b89f76a74",
+        "trainer_name": "t_newcomer",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 12.253302264332374,
+        "rating_mu": 27.125669895927267,
+        "rating_sigma": 4.9574558771982975,
+        "result": "loss"
+      }
+    },
+    "2021-10-26T16:06:20.625289+00:00": {
+      "this_amiibo": {
+        "rating": 13.068039544218987,
+        "rating_mu": 31.550285750420787,
+        "rating_sigma": 6.1607487354006,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "f56b0407-0b6f-4a47-9e06-0872d59b634b",
+        "name": "The Fool",
+        "rating": 23.98759273462551,
+        "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
+        "trainer_name": "CikadaKing",
+        "result": "loss"
+      }
+    }
+  }
+}

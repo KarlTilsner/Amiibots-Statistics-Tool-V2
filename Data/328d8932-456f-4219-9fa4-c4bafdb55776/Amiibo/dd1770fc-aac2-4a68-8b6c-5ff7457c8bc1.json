@@ -1,0 +1,43 @@
+{
+  "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+  "id": "dd1770fc-aac2-4a68-8b6c-5ff7457c8bc1",
+  "name": "JOKER",
+  "trainer_id": "57b7c7ba-025a-4f68-a714-8df0b8eba37d",
+  "trainer_name": "Reddragun08",
+  "matches": {
+    "2022-08-28T01:08:39.482353+00:00": {
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c9be4e8c-f23f-447a-858f-fe86cc3fc48a",
+        "name": "Fire Furry",
+        "rating": 14.968523082659555,
+        "trainer_id": "06f417e6-7ed4-4ca4-9721-521a9eb782c2",
+        "trainer_name": "hypercodec",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.24339070037962074,
+        "rating_mu": 18.695716015462914,
+        "rating_sigma": 6.313035571947512,
+        "result": "loss"
+      }
+    },
+    "2022-08-28T10:37:38.482256+00:00": {
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "224c4fee-6843-4ccf-82eb-51aba8e21331",
+        "name": "Venus",
+        "rating": 7.892996551982627,
+        "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
+        "trainer_name": "River_Tethys",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.7374256253000535,
+        "rating_mu": 15.54198908114313,
+        "rating_sigma": 5.426471568814395,
+        "result": "loss"
+      }
+    }
+  }
+}

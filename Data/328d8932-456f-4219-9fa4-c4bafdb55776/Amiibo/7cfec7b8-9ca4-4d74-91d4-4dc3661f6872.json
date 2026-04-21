@@ -1,0 +1,43 @@
+{
+  "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+  "id": "7cfec7b8-9ca4-4d74-91d4-4dc3661f6872",
+  "name": "bird man",
+  "trainer_id": "be212866-ad85-4168-8fa5-a520d39174b1",
+  "trainer_name": "ThouDetect1ve",
+  "matches": {
+    "2022-07-19T14:02:48.695477+00:00": {
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "acd480bd-3d56-4dbd-a974-07a8f8340d68",
+        "name": "Naruto",
+        "rating": 18.486365433914884,
+        "trainer_id": "6e7c5192-3b94-41ee-a44c-1476c68bdade",
+        "trainer_name": "frosteefromyt",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.08681515777227844,
+        "rating_mu": 18.802797423747176,
+        "rating_sigma": 6.238660755324966,
+        "result": "loss"
+      }
+    },
+    "2022-08-14T00:47:34.696349+00:00": {
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "5b9b5e63-9c33-4bd3-8240-926973e84cc3",
+        "name": "Wild",
+        "rating": 13.120783217544561,
+        "trainer_id": "5698fb14-f308-4a11-aed3-54172bed5dac",
+        "trainer_name": "ivythesnivy",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.21932636098602032,
+        "rating_mu": 16.692561438010305,
+        "rating_sigma": 5.491078359008095,
+        "result": "loss"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
+  "id": "63b79bcf-3443-4f5d-b2a5-65d4f45703c6",
+  "name": "Mx.Gimmick",
+  "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
+  "trainer_name": "schmorchid",
+  "matches": {
+    "2022-03-03T09:13:27.379686+00:00": {
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "4ff8ec58-d09d-48ff-9458-712bc6205a14",
+        "name": "Janie",
+        "rating": 25.280799926369795,
+        "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
+        "trainer_name": "spike2the9th",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.9984324067082966,
+        "rating_mu": 20.66298305256633,
+        "rating_sigma": 6.55485021528601,
+        "result": "loss"
+      }
+    },
+    "2022-03-03T14:20:31.433900+00:00": {
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "a4db3765-9109-4ed3-a150-ff47ec535a4d",
+        "name": "Jeremy",
+        "rating": 22.35154779771941,
+        "trainer_id": "a9ec9d87-61e1-4c87-be6d-3442cf3a59d4",
+        "trainer_name": "bluerunner0",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.6117495438413272,
+        "rating_mu": 19.16135753246582,
+        "rating_sigma": 5.849869329541498,
+        "result": "loss"
+      }
+    }
+  }
+}

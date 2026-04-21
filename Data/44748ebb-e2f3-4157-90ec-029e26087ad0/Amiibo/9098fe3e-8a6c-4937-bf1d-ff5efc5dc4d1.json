@@ -1,0 +1,43 @@
+{
+  "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+  "id": "9098fe3e-8a6c-4937-bf1d-ff5efc5dc4d1",
+  "name": "Aesling",
+  "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
+  "trainer_name": "Sirffuzzylogik",
+  "matches": {
+    "2020-04-24T14:12:31.071505+00:00": {
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "eda22798-c6ce-49a8-8707-4b700ec490e8",
+        "name": "Oyecomova",
+        "rating": 24.12927826516117,
+        "trainer_id": "230f182d-da7d-4674-a361-4ac214df6610",
+        "trainer_name": "Zenabievg",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.9151727278024353,
+        "rating_mu": 20.47902663045749,
+        "rating_sigma": 6.521284634218351,
+        "result": "loss"
+      }
+    },
+    "2020-05-03T14:17:41.226690+00:00": {
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "dc8ecf93-fd75-4fa8-808b-91a7055c418a",
+        "name": "Alf",
+        "rating": 20.065685753911485,
+        "trainer_id": "fd778c3b-88f5-407b-a713-6a94ba115819",
+        "trainer_name": "Rem1dis",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.3499898157374872,
+        "rating_mu": 17.958381159050756,
+        "rating_sigma": 5.5361304477710895,
+        "result": "loss"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
+  "id": "742c8a3f-004a-4469-9940-a1f4b8f0ee33",
+  "name": "Armpitoo",
+  "trainer_id": "ab1f76a6-17bb-4125-aafe-261bbce07ff1",
+  "trainer_name": "thescuttler62",
+  "matches": {
+    "2020-08-17T21:28:23.265515+00:00": {
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "b93ce2d7-e185-4be3-88ef-b691dfa9de52",
+        "name": "Blond Ness",
+        "rating": 7.646916951857172,
+        "trainer_id": "cbea8289-f383-4cad-8950-3fa18407df3a",
+        "trainer_name": "toxicfur36",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.8016797229894159,
+        "rating_mu": 20.775701662576704,
+        "rating_sigma": 7.192460461855374,
+        "result": "loss"
+      }
+    },
+    "2020-08-18T02:47:50.084432+00:00": {
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "f961b451-81b3-459c-a0c3-c8662daccb4c",
+        "name": "Melone",
+        "rating": 22.683242321007576,
+        "trainer_id": "230f182d-da7d-4674-a361-4ac214df6610",
+        "trainer_name": "Zenabievg",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.06838289765999761,
+        "rating_mu": 17.835305740729204,
+        "rating_sigma": 5.967896212796401,
+        "result": "loss"
+      }
+    }
+  }
+}

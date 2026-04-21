@@ -1,0 +1,77 @@
+{
+  "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+  "id": "67324044-f331-4afa-b417-c64b4328970c",
+  "name": "ELO",
+  "trainer_id": "6fcd9113-8cc8-48cd-b29b-46b2ccb55f27",
+  "trainer_name": "sunnyfunnytrueform",
+  "matches": {
+    "2022-04-02T10:27:34.095140+00:00": {
+      "opponent": {
+        "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+        "id": "195573cc-2038-4d27-92d6-bd978f6e5a1c",
+        "name": "Rose Tyler",
+        "rating": 23.158647797697984,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 21.826533288336655,
+        "rating_mu": 25.344285431260925,
+        "rating_sigma": 1.1725840476414238,
+        "result": "loss"
+      }
+    },
+    "2022-04-03T11:52:07.892139+00:00": {
+      "this_amiibo": {
+        "rating": 21.66263834043633,
+        "rating_mu": 25.07757766430248,
+        "rating_sigma": 1.138313107955383,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+        "id": "195573cc-2038-4d27-92d6-bd978f6e5a1c",
+        "name": "Rose Tyler",
+        "rating": 22.864053068427186,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "loss"
+      }
+    },
+    "2022-04-03T08:20:03.897504+00:00": {
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "c19e9af0-8684-4dc1-9e89-b2d25422097a",
+        "name": "ink&mink",
+        "rating": 16.9944638019842,
+        "trainer_id": "2bcb87ea-4200-4b24-99e6-b8ffcf5cc901",
+        "trainer_name": "julianesco14",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 21.429590186582228,
+        "rating_mu": 24.877510472684456,
+        "rating_sigma": 1.1493067620340756,
+        "result": "loss"
+      }
+    },
+    "2022-04-03T06:51:25.983007+00:00": {
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "f3729722-6b67-45bd-949f-40c52a7b0fe7",
+        "name": "Comedian",
+        "rating": 20.81832143966716,
+        "trainer_id": "cafb9f3e-3bf0-4595-a167-2c91996ed8f5",
+        "trainer_name": "superberry58",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 21.691901621104076,
+        "rating_mu": 25.18025394024914,
+        "rating_sigma": 1.1627841063816884,
+        "result": "loss"
+      }
+    }
+  }
+}

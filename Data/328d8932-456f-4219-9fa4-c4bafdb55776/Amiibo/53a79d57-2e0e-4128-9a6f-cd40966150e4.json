@@ -1,0 +1,43 @@
+{
+  "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+  "id": "53a79d57-2e0e-4128-9a6f-cd40966150e4",
+  "name": "Gorudo",
+  "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
+  "trainer_name": "raid_boss_09",
+  "matches": {
+    "2022-04-30T01:15:52.652880+00:00": {
+      "opponent": {
+        "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
+        "id": "ae98c011-f20f-4df7-a763-28306bf87736",
+        "name": "Champloo",
+        "rating": 17.5002413818965,
+        "trainer_id": "26cad4d1-9d7d-457c-b6e3-6a285e74f071",
+        "trainer_name": "toonlinktroll",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.40702463980186465,
+        "rating_mu": 20.10795179971382,
+        "rating_sigma": 6.566975719970651,
+        "result": "loss"
+      }
+    },
+    "2022-08-11T19:59:48.315543+00:00": {
+      "this_amiibo": {
+        "rating": 7.479099557063627,
+        "rating_mu": 23.62374001830715,
+        "rating_sigma": 5.381546820414507,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "94741e81-af0c-42bf-91bb-96905e0ed6a7",
+        "name": "edgelord",
+        "rating": 14.175377295603226,
+        "trainer_id": "053e11d2-837c-40bd-b6f0-7928f5ce5ba5",
+        "trainer_name": "redshadow203",
+        "result": "loss"
+      }
+    }
+  }
+}

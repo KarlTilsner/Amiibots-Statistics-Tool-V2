@@ -1,0 +1,43 @@
+{
+  "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+  "id": "81cce970-ff51-4114-bd3b-4e70402580d7",
+  "name": "Ribbon Kid",
+  "trainer_id": "74b11748-df73-4895-a914-7f048a54ecc8",
+  "trainer_name": "Dempsey342",
+  "matches": {
+    "2022-01-13T18:59:37.595670+00:00": {
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "e526d12c-9b00-4eea-9d4a-94ee57ccf695",
+        "name": "Big Smoke",
+        "rating": 27.408213222920025,
+        "trainer_id": "0dac8a24-5ed7-4fc9-9c00-5674617b4fab",
+        "trainer_name": "JohnLML123",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.895378857268959,
+        "rating_mu": 20.012271452562764,
+        "rating_sigma": 6.038964198431269,
+        "result": "loss"
+      }
+    },
+    "2022-01-13T18:51:39.784357+00:00": {
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "14d5e573-14fb-4d61-986b-d5b37e98c853",
+        "name": "starchess",
+        "rating": 24.432841284357984,
+        "trainer_id": "8e290d89-5484-46ab-b222-914c45b7b11c",
+        "trainer_name": "pixel_gunners",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.1179898749657546,
+        "rating_mu": 21.475581214451193,
+        "rating_sigma": 6.78586377982848,
+        "result": "loss"
+      }
+    }
+  }
+}

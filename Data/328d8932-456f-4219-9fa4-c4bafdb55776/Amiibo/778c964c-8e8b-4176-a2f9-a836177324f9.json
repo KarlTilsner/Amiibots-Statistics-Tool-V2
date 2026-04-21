@@ -1,0 +1,43 @@
+{
+  "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+  "id": "778c964c-8e8b-4176-a2f9-a836177324f9",
+  "name": "Kai",
+  "trainer_id": "02a79d5f-5734-44b8-bcd3-226117854539",
+  "trainer_name": "emmanuelccjr",
+  "matches": {
+    "2022-05-10T03:29:56.477921+00:00": {
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "773606dd-b5b7-46ff-b769-5d83daa7acb9",
+        "name": "Gluttony",
+        "rating": 22.619556490354668,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.5896089195446805,
+        "rating_mu": 19.622847787159618,
+        "rating_sigma": 6.344412955871646,
+        "result": "loss"
+      }
+    },
+    "2022-05-25T08:35:51.835942+00:00": {
+      "this_amiibo": {
+        "rating": 9.730165667393791,
+        "rating_mu": 24.70415130929197,
+        "rating_sigma": 4.991328547299393,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
+        "id": "58c22e1c-c242-46f0-9da6-aa0f7148907b",
+        "name": "B.F.B.",
+        "rating": 19.879676323860256,
+        "trainer_id": "2999d0f5-b8db-41d6-8076-6548015a50f8",
+        "trainer_name": "keane26092005",
+        "result": "loss"
+      }
+    }
+  }
+}

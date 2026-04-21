@@ -1,0 +1,43 @@
+{
+  "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+  "id": "65a926fd-2a9d-44d0-b04d-69110beb1321",
+  "name": "Squidiot",
+  "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
+  "trainer_name": "SteelswarmCycada",
+  "matches": {
+    "2020-10-02T13:48:17.680256+00:00": {
+      "opponent": {
+        "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
+        "id": "55f40ec4-0e1c-432a-b526-5c2b438e4d3d",
+        "name": "PG | Daisy",
+        "rating": 21.182440960381726,
+        "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+        "trainer_name": "Kangoni",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.8910023746278775,
+        "rating_mu": 21.180826733463263,
+        "rating_sigma": 6.763274786278462,
+        "result": "loss"
+      }
+    },
+    "2020-10-03T02:58:03.241506+00:00": {
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "5b0dbba7-8a59-4e99-a0ff-c54446d6c933",
+        "name": "Aquamarine",
+        "rating": 16.328128063075237,
+        "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
+        "trainer_name": "apple_beebs",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.2250566417142252,
+        "rating_mu": 19.899466009908657,
+        "rating_sigma": 6.224803122731477,
+        "result": "loss"
+      }
+    }
+  }
+}

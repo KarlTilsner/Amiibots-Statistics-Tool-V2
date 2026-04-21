@@ -1,0 +1,43 @@
+{
+  "character_id": "e2531ffe-e834-49ae-b233-56386472a6ed",
+  "id": "e72319cc-2e08-49fe-9d8e-4bf398950ef3",
+  "name": "GodOfSpac3",
+  "trainer_id": "932a9ec7-b463-41d8-bc40-59e2e396a8ed",
+  "trainer_name": "ricola7ttv",
+  "matches": {
+    "2024-05-27T04:35:36.342730+00:00": {
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "1068f51d-ee9c-431c-a1b5-3279a8e715a9",
+        "name": "KRAKATOA!",
+        "rating": 19.89949255012069,
+        "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
+        "trainer_name": "raid_boss_09",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.5627113951090266,
+        "rating_mu": 19.94834167622291,
+        "rating_sigma": 6.461876760371295,
+        "result": "loss"
+      }
+    },
+    "2024-06-04T05:29:28.044144+00:00": {
+      "this_amiibo": {
+        "rating": 8.273743972878986,
+        "rating_mu": 24.170330712064693,
+        "rating_sigma": 5.2988622463952355,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "93425d54-b240-4df0-b3d4-77fda3de0ca0",
+        "name": "Zoom Zoom",
+        "rating": 11.673564258084479,
+        "trainer_id": "932a9ec7-b463-41d8-bc40-59e2e396a8ed",
+        "trainer_name": "ricola7ttv",
+        "result": "loss"
+      }
+    }
+  }
+}

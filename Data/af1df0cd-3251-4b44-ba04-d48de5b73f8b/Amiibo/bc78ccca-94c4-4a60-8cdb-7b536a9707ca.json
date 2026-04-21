@@ -1,0 +1,43 @@
+{
+  "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+  "id": "bc78ccca-94c4-4a60-8cdb-7b536a9707ca",
+  "name": "WW2",
+  "trainer_id": "fd2be56f-b542-4651-9b7e-94a43c060a58",
+  "trainer_name": "BleuScreen",
+  "matches": {
+    "2022-08-05T11:21:27.446365+00:00": {
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "8b2b387e-ce52-429f-885e-8d5f3d9ec5b6",
+        "name": "Pac-luster",
+        "rating": 21.929213142240446,
+        "trainer_id": "d92b7874-c5d1-4579-8e92-86d56c5e594f",
+        "trainer_name": "sumrando123",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.4885348734136699,
+        "rating_mu": 18.244989714520568,
+        "rating_sigma": 5.585484947035632,
+        "result": "loss"
+      }
+    },
+    "2022-08-05T09:45:03.089163+00:00": {
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "1f6e19af-8c55-491d-aba7-868fe538243c",
+        "name": "MegaMeUp!",
+        "rating": 23.321584224275007,
+        "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
+        "trainer_name": "soysauce881",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.0268241018897406,
+        "rating_mu": 21.161455207989686,
+        "rating_sigma": 6.711543702033315,
+        "result": "loss"
+      }
+    }
+  }
+}

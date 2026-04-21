@@ -1,0 +1,60 @@
+{
+  "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+  "id": "96c943cc-9c22-4079-a06e-fc8b50c94b50",
+  "name": "Inkina",
+  "trainer_id": "43cffe5f-d305-452b-a9de-fdff2396f7c3",
+  "trainer_name": "UltraDPG",
+  "matches": {
+    "2020-11-02T10:30:28.739229+00:00": {
+      "opponent": {
+        "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+        "id": "0a8185a0-1406-471a-967c-2f2af0aa00d5",
+        "name": "Rose Tyler",
+        "rating": 26.887535886479967,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.233765225249872,
+        "rating_mu": 21.668780981983655,
+        "rating_sigma": 6.8116719189112604,
+        "result": "loss"
+      }
+    },
+    "2020-11-06T22:26:40.090232+00:00": {
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "648b6a53-cefb-49fd-b7c1-62a7351b3284",
+        "name": "Sozin",
+        "rating": 19.638230850586385,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.7674760701154355,
+        "rating_mu": 19.99501258225748,
+        "rating_sigma": 6.075845504047348,
+        "result": "loss"
+      }
+    },
+    "2020-11-09T01:54:53.157969+00:00": {
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "3f090dcd-49cc-4ea2-8024-64cb1634f7d6",
+        "name": "Tom",
+        "rating": 23.264463278041944,
+        "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
+        "trainer_name": "apple_beebs",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 2.2819906446767924,
+        "rating_mu": 18.767105429390543,
+        "rating_sigma": 5.495038261571251,
+        "result": "loss"
+      }
+    }
+  }
+}

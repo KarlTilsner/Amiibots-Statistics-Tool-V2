@@ -1,0 +1,43 @@
+{
+  "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+  "id": "4d89246e-2c4a-463a-b3c2-2d38a4c00b35",
+  "name": "Urania",
+  "trainer_id": "8a479357-a5de-4f56-8700-0d1a85c3d46b",
+  "trainer_name": "OmenApproaching",
+  "matches": {
+    "2021-08-18T03:44:16.651147+00:00": {
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "7b7fad7d-ea69-4f45-89a3-c95b281476db",
+        "name": "Weakling",
+        "rating": 14.10070269270966,
+        "trainer_id": "a9ec9d87-61e1-4c87-be6d-3442cf3a59d4",
+        "trainer_name": "bluerunner0",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.4072837515344503,
+        "rating_mu": 18.51224208426042,
+        "rating_sigma": 6.3065086119316245,
+        "result": "loss"
+      }
+    },
+    "2021-08-18T08:19:35.182314+00:00": {
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "994758ca-cef6-41d3-8263-4c32734b0d6c",
+        "name": "Is-A-Belle",
+        "rating": 18.377415913469335,
+        "trainer_id": "1b2f2208-154e-44fd-a520-f5a043b3e7ba",
+        "trainer_name": "RufflestheKirbyplayer",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.07294466683293166,
+        "rating_mu": 17.002019898128104,
+        "rating_sigma": 5.643025077098391,
+        "result": "loss"
+      }
+    }
+  }
+}

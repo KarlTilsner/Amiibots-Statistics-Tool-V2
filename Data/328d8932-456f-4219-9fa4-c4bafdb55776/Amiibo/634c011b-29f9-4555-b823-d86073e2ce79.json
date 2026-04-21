@@ -1,0 +1,43 @@
+{
+  "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+  "id": "634c011b-29f9-4555-b823-d86073e2ce79",
+  "name": "Kronos",
+  "trainer_id": "ee675c7c-7836-4aa2-8a36-fef64e67b80a",
+  "trainer_name": "truetitan14",
+  "matches": {
+    "2021-03-07T21:23:38.392338+00:00": {
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "7a23fabc-261c-4e8f-827b-b1d6dc3b7087",
+        "name": "Jon",
+        "rating": 7.646916951857172,
+        "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+        "trainer_name": "fammydamammy",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.8016797229894159,
+        "rating_mu": 20.775701662576704,
+        "rating_sigma": 7.192460461855374,
+        "result": "loss"
+      }
+    },
+    "2021-03-08T01:06:56.594243+00:00": {
+      "this_amiibo": {
+        "rating": 11.274842472259493,
+        "rating_mu": 27.41257279569637,
+        "rating_sigma": 5.379243441145626,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "8e5c43e3-ccae-4cec-9b72-528316705f41",
+        "name": "Breakfast",
+        "rating": 23.201368389598613,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "loss"
+      }
+    }
+  }
+}

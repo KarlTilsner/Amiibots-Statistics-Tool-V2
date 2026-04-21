@@ -1,0 +1,60 @@
+{
+  "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+  "id": "f4975dbb-2700-4934-9126-8329530d8e24",
+  "name": "Gabi",
+  "trainer_id": "31ac0377-29d9-4a82-afea-5fe20989ce28",
+  "trainer_name": "magimiku",
+  "matches": {
+    "2022-04-03T16:46:04.023151+00:00": {
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "daa944b0-a8b4-4bad-b1e0-cfb89b01c9d1",
+        "name": "Gluttony",
+        "rating": 23.321094083910758,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 22.257580747574263,
+        "rating_mu": 25.837644870914332,
+        "rating_sigma": 1.1933547077800233,
+        "result": "loss"
+      }
+    },
+    "2023-01-12T11:05:09.223209+00:00": {
+      "this_amiibo": {
+        "rating": 22.434002221148866,
+        "rating_mu": 25.98386722504964,
+        "rating_sigma": 1.1832883346335907,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "77b4d129-a2f3-4e37-8f50-9847b98cc826",
+        "name": "Akechi",
+        "rating": 20.02316714096216,
+        "trainer_id": "a5eb3823-a703-4a48-9039-c1142b46ebde",
+        "trainer_name": "False_Justice",
+        "result": "loss"
+      }
+    },
+    "2023-01-20T20:35:51.102115+00:00": {
+      "this_amiibo": {
+        "rating": 22.67125716255783,
+        "rating_mu": 26.188240021898423,
+        "rating_sigma": 1.1723276197801984,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "83e85b87-f9e4-4baa-979d-97ff112ba8b9",
+        "name": "Leo",
+        "rating": 20.230324036604806,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "average_videogame_user",
+        "result": "loss"
+      }
+    }
+  }
+}

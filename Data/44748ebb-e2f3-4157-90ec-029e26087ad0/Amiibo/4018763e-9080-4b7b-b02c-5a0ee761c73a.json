@@ -1,0 +1,43 @@
+{
+  "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+  "id": "4018763e-9080-4b7b-b02c-5a0ee761c73a",
+  "name": "air dodge",
+  "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+  "trainer_name": "Kangoni",
+  "matches": {
+    "2020-07-08T03:59:07.431401+00:00": {
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "035e29a7-49e5-4767-9e1e-ed27fbb34971",
+        "name": "Zechrom",
+        "rating": 19.679255669137525,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "FulminixGaming",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.12832834721246655,
+        "rating_mu": 18.756750060815225,
+        "rating_sigma": 6.209473904534253,
+        "result": "loss"
+      }
+    },
+    "2020-07-08T11:09:21.705755+00:00": {
+      "opponent": {
+        "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
+        "id": "38ca3f4f-c79b-4271-96c3-0f333ea8ebe3",
+        "name": "Faucet",
+        "rating": 17.060115578472697,
+        "trainer_id": "6a92a875-ad10-4927-9ac9-43f4cea3e878",
+        "trainer_name": "trandomp",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.41662467657674895,
+        "rating_mu": 16.419397150632125,
+        "rating_sigma": 5.334257491351792,
+        "result": "loss"
+      }
+    }
+  }
+}

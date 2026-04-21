@@ -1,0 +1,43 @@
+{
+  "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+  "id": "6374f3b6-2ae6-496a-a320-32bde4cfd866",
+  "name": "Red",
+  "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+  "trainer_name": "Competitively2",
+  "matches": {
+    "2024-05-16T16:36:26.383302+00:00": {
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "8d964d2a-a6b3-44be-8bc2-c4a71fa666e9",
+        "name": "joe",
+        "rating": 23.69100051710405,
+        "trainer_id": "9f1c726d-a483-4ac3-92ce-b8199d4a2177",
+        "trainer_name": "thenotthatrots",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.7857535001762592,
+        "rating_mu": 20.088979758185108,
+        "rating_sigma": 6.434408752669616,
+        "result": "loss"
+      }
+    },
+    "2024-07-23T01:59:10.814211+00:00": {
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "836fb487-3cd5-438a-ab30-4f0e144c6686",
+        "name": "Pikachad",
+        "rating": 20.62507766715908,
+        "trainer_id": "1dbad9b6-c3fe-42c6-958e-e4bf6e70f9f0",
+        "trainer_name": "bunswe55",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.1246595246186324,
+        "rating_mu": 17.28176249989527,
+        "rating_sigma": 5.385700991758879,
+        "result": "loss"
+      }
+    }
+  }
+}

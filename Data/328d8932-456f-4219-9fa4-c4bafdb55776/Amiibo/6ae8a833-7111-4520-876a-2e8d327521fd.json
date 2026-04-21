@@ -1,0 +1,43 @@
+{
+  "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+  "id": "6ae8a833-7111-4520-876a-2e8d327521fd",
+  "name": "Isabelle",
+  "trainer_id": "9891eba0-a578-4f25-97ce-338fb6d4890b",
+  "trainer_name": "STRYDER_49",
+  "matches": {
+    "2022-09-09T05:59:18.029166+00:00": {
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "4d4749e8-ceba-4f71-9d36-015884114533",
+        "name": "Fister",
+        "rating": 21.952777093030654,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.4577618506872767,
+        "rating_mu": 19.336275516089188,
+        "rating_sigma": 6.292837888467304,
+        "result": "loss"
+      }
+    },
+    "2022-10-05T13:38:16.666235+00:00": {
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "95ed6a58-051b-4f5e-b4dd-023ba4e01e8e",
+        "name": "Poppy",
+        "rating": 5.622991950004465,
+        "trainer_id": "62b3b451-2ded-4a7e-bcac-ab768ccfbe26",
+        "trainer_name": "capt_cacdi",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.28297046581354124,
+        "rating_mu": 16.386411071085345,
+        "rating_sigma": 5.556460512299629,
+        "result": "loss"
+      }
+    }
+  }
+}

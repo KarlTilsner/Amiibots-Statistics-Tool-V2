@@ -1,0 +1,60 @@
+{
+  "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
+  "id": "f14f6c69-b0e6-42bf-b797-7d6756eb3749",
+  "name": "Bubby Blur",
+  "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
+  "trainer_name": "bubsthechamp",
+  "matches": {
+    "2021-03-29T04:47:59.103075+00:00": {
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "089bfac7-a81e-4745-9662-9bc3f8fb8091",
+        "name": "Badnik",
+        "rating": 6.070533018594377,
+        "trainer_id": "4ad370a1-5d2c-4519-a253-8af2eeed1443",
+        "trainer_name": "drweegeepie",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -3.0221009508269585,
+        "rating_mu": 14.848475982416806,
+        "rating_sigma": 5.956858977747921,
+        "result": "loss"
+      }
+    },
+    "2021-03-30T06:00:19.011864+00:00": {
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "96305648-fa13-4f36-a67f-937b012bd664",
+        "name": "Agent Léa",
+        "rating": 14.154276276196558,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 3.142953395615029,
+        "rating_mu": 17.092501705758494,
+        "rating_sigma": 4.649849436714488,
+        "result": "loss"
+      }
+    },
+    "2021-03-30T00:09:43.344678+00:00": {
+      "this_amiibo": {
+        "rating": 3.205051951571974,
+        "rating_mu": 18.729216739721405,
+        "rating_sigma": 5.17472159604981,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
+        "id": "d5918173-c07f-4bef-b50e-532df1708722",
+        "name": "Regular CP",
+        "rating": 0.370082973301999,
+        "trainer_id": "d23c127d-b419-42fc-94da-1ca9ee90a8fc",
+        "trainer_name": "BottoTheBulliedPirate",
+        "result": "loss"
+      }
+    }
+  }
+}

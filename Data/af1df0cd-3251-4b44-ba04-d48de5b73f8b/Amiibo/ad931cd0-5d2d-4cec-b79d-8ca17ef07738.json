@@ -1,0 +1,43 @@
+{
+  "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+  "id": "ad931cd0-5d2d-4cec-b79d-8ca17ef07738",
+  "name": "Froskur",
+  "trainer_id": "084deb59-90e8-41b3-9e74-8b2f595fec0f",
+  "trainer_name": "sh42ow710",
+  "matches": {
+    "2022-04-09T21:18:49.980977+00:00": {
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "5b2c5bf9-eab0-484a-a374-d76ad30fc42d",
+        "name": "#winning",
+        "rating": 23.05043360047261,
+        "trainer_id": "d3b9e42a-530d-4db7-95cf-c71ee2dc1602",
+        "trainer_name": "CoolerGlassBerriez",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 10.273829486988962,
+        "rating_mu": 23.450242558998376,
+        "rating_sigma": 4.392137690669805,
+        "result": "loss"
+      }
+    },
+    "2022-04-22T14:28:36.596104+00:00": {
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "39e3289f-d045-4e55-a83d-7b7b7a95d4b8",
+        "name": "JstAPhazon",
+        "rating": 20.055493131138356,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 9.618755681961312,
+        "rating_mu": 21.154333372253816,
+        "rating_sigma": 3.845192563430835,
+        "result": "loss"
+      }
+    }
+  }
+}

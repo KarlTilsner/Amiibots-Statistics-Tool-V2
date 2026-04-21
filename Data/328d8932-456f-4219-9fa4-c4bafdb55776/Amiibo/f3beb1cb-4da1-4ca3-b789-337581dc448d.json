@@ -1,0 +1,60 @@
+{
+  "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+  "id": "f3beb1cb-4da1-4ca3-b789-337581dc448d",
+  "name": "Agent Léa",
+  "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+  "trainer_name": "Oliirik",
+  "matches": {
+    "2021-10-16T04:05:43.882964+00:00": {
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "a13fc23b-bdab-4140-b5fc-df9474d48d80",
+        "name": "Dark Kirbo",
+        "rating": 25.52000639564499,
+        "trainer_id": "8611b3c4-4441-4e46-a466-fa1d8dc052e6",
+        "trainer_name": "josephTPG",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.8014494724260395,
+        "rating_mu": 18.140261286866714,
+        "rating_sigma": 5.7796039381468916,
+        "result": "loss"
+      }
+    },
+    "2021-10-15T10:37:59.017556+00:00": {
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "b9e961c4-5e25-4c81-bd2b-f2615044683b",
+        "name": "AmiiboChad",
+        "rating": 20.84341758806378,
+        "trainer_id": "1c4294fb-b0ae-40ac-8797-79913cd40162",
+        "trainer_name": "superlamp64",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.25859851851106797,
+        "rating_mu": 18.95098310884266,
+        "rating_sigma": 6.230794863443864,
+        "result": "loss"
+      }
+    },
+    "2021-10-16T06:26:53.542410+00:00": {
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "36a27b2c-2fb0-403c-ad8b-d5504d841c12",
+        "name": "Barney",
+        "rating": 28.40343808030634,
+        "trainer_id": "007f0154-70c5-4781-87aa-e020b2fd5452",
+        "trainer_name": "dirty_meme1",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.215099239299711,
+        "rating_mu": 17.61512294486488,
+        "rating_sigma": 5.466674568521723,
+        "result": "loss"
+      }
+    }
+  }
+}

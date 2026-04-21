@@ -1,0 +1,43 @@
+{
+  "character_id": "e2531ffe-e834-49ae-b233-56386472a6ed",
+  "id": "ddb6dc3e-127a-4a3c-841f-0f3da5a6d7d8",
+  "name": "Starlight",
+  "trainer_id": "1ff722e8-6dfd-43a5-9e1c-6726b7a6392f",
+  "trainer_name": "Mrjuiq",
+  "matches": {
+    "2024-01-03T02:17:21.205162+00:00": {
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "63160fca-8a8b-43c6-b9f0-4f5796628a60",
+        "name": "Sausage",
+        "rating": 23.577889931619136,
+        "trainer_id": "08d3dbd8-a168-4f7a-b225-d726244d815e",
+        "trainer_name": "numba1frontiersfan",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.8166396357356582,
+        "rating_mu": 20.195738664308422,
+        "rating_sigma": 6.459699676190922,
+        "result": "loss"
+      }
+    },
+    "2024-09-17T23:42:12.590293+00:00": {
+      "this_amiibo": {
+        "rating": 9.793511706531323,
+        "rating_mu": 25.053727882999436,
+        "rating_sigma": 5.086738725489371,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "a726a1ac-1bb2-416d-ba02-de4f733902f2",
+        "name": "Fortnite",
+        "rating": 20.398935309601143,
+        "trainer_id": "43e9b485-c8e8-4d9a-bf5f-4f51c5cae826",
+        "trainer_name": "tapumasu",
+        "result": "loss"
+      }
+    }
+  }
+}

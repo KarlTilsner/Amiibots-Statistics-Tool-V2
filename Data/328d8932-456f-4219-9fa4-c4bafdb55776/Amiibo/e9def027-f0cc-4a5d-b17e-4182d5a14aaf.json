@@ -1,0 +1,43 @@
+{
+  "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+  "id": "e9def027-f0cc-4a5d-b17e-4182d5a14aaf",
+  "name": "Centurion",
+  "trainer_id": "130d14e0-8ba1-407c-8c69-6c2544843b8f",
+  "trainer_name": "bertolupin",
+  "matches": {
+    "2022-07-07T19:34:05.954382+00:00": {
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "b0a63dfa-0d7f-4e0c-9d0d-b8c9fc672033",
+        "name": "Matluba",
+        "rating": 15.250857918599038,
+        "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
+        "trainer_name": "gotelin_",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.2637632521819313,
+        "rating_mu": 20.64652610197826,
+        "rating_sigma": 6.794254283265444,
+        "result": "loss"
+      }
+    },
+    "2022-07-08T05:06:14.698450+00:00": {
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "405dd86f-3561-48e1-8a39-3aaab4d6d102",
+        "name": "Jade ★",
+        "rating": 16.53924718840576,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.6233966773726287,
+        "rating_mu": 18.02287706277679,
+        "rating_sigma": 5.79982679513472,
+        "result": "loss"
+      }
+    }
+  }
+}

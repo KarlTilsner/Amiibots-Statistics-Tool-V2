@@ -1,0 +1,43 @@
+{
+  "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+  "id": "7a6ed722-990a-4ebe-b4fd-4622d4bd7f8d",
+  "name": "Mac and Me",
+  "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
+  "trainer_name": "schmorca",
+  "matches": {
+    "2021-07-27T11:10:19.801188+00:00": {
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "ef994606-d3ef-45d5-b8a0-79d19982621d",
+        "name": "jared",
+        "rating": 27.53538261043675,
+        "trainer_id": "ee1d9a05-9070-4b4f-ad6c-768064c23993",
+        "trainer_name": "mythricity",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.9606563570959388,
+        "rating_mu": 21.47083263934932,
+        "rating_sigma": 6.503392094084461,
+        "result": "loss"
+      }
+    },
+    "2021-07-27T10:48:06.210055+00:00": {
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "4d00d868-7c64-463f-861f-4080c59ea7eb",
+        "name": "Mallow",
+        "rating": 32.204006120986264,
+        "trainer_id": "3c6a2558-822c-45dc-9c83-95b524978633",
+        "trainer_name": "0ccactuss0",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.8921022734325561,
+        "rating_mu": 24.10957138617213,
+        "rating_sigma": 7.739156370913192,
+        "result": "loss"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+  "id": "20467231-21e3-4d5e-ab41-7c252a033a9f",
+  "name": "Rusty",
+  "trainer_id": "ab1f76a6-17bb-4125-aafe-261bbce07ff1",
+  "trainer_name": "Scuttlerrr",
+  "matches": {
+    "2024-09-12T19:03:03.122049+00:00": {
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "2d417fc5-dad9-46d9-8e19-8eda35622ea6",
+        "name": "Scorcher",
+        "rating": 25.592920911286893,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 10.162506045687527,
+        "rating_mu": 25.49322847670495,
+        "rating_sigma": 5.110240810339141,
+        "result": "loss"
+      }
+    },
+    "2024-09-12T16:00:30.716447+00:00": {
+      "this_amiibo": {
+        "rating": 10.67801624199004,
+        "rating_mu": 29.953421079563142,
+        "rating_sigma": 6.4251349458577005,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "1dae4af9-d33f-4f0c-8f20-bb99fb9d9de5",
+        "name": "Bane",
+        "rating": 21.36373210235456,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "loss"
+      }
+    }
+  }
+}

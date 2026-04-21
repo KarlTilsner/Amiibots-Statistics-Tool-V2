@@ -1,0 +1,43 @@
+{
+  "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+  "id": "46de1185-905f-41ec-a2cc-3fc820bf0b7b",
+  "name": "Nein",
+  "trainer_id": "046b6cbc-d2e8-4317-a680-a2e5b4b18bb0",
+  "trainer_name": "prinzess16",
+  "matches": {
+    "2020-05-21T16:43:49.190960+00:00": {
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "b7562ac0-c096-4258-baee-765aa8db96b0",
+        "name": "Tajador",
+        "rating": 7.646916951857172,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "flareofstars",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.8016797229894159,
+        "rating_mu": 20.775701662576704,
+        "rating_sigma": 7.192460461855374,
+        "result": "loss"
+      }
+    },
+    "2020-05-24T02:33:43.657306+00:00": {
+      "this_amiibo": {
+        "rating": 15.621114713096906,
+        "rating_mu": 30.93519435050234,
+        "rating_sigma": 5.104693212468478,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "12586b1b-ad81-48f3-afcf-182c75bdb9d4",
+        "name": "ELITESMASH",
+        "rating": 30.261063040436945,
+        "trainer_id": "82cc96d9-020f-4b3c-8060-12c31d207082",
+        "trainer_name": "Roflcopter6k",
+        "result": "loss"
+      }
+    }
+  }
+}

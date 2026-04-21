@@ -1,0 +1,43 @@
+{
+  "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+  "id": "016d638d-fe79-4b01-af2f-12eec77c76db",
+  "name": "Spwike",
+  "trainer_id": "5d3b8188-c17a-4198-acb8-a011895c7c7e",
+  "trainer_name": "MonoMalard",
+  "matches": {
+    "2021-03-07T11:56:37.018536+00:00": {
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "0e9ab7e1-db2e-48c1-8a2f-328777ebd48e",
+        "name": "Ω Luigi",
+        "rating": 21.23333242348081,
+        "trainer_id": "0dac8a24-5ed7-4fc9-9c00-5674617b4fab",
+        "trainer_name": "JohnLML123",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 6.389722531889841,
+        "rating_mu": 22.486094627343846,
+        "rating_sigma": 5.365457365151335,
+        "result": "loss"
+      }
+    },
+    "2021-03-07T10:58:21.105873+00:00": {
+      "this_amiibo": {
+        "rating": 7.646916951857172,
+        "rating_mu": 29.224298337423292,
+        "rating_sigma": 7.192460461855374,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "34612841-3e1a-43aa-8cea-b3d51763d5ba",
+        "name": "Pacman",
+        "rating": -0.8016797229894159,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "loss"
+      }
+    }
+  }
+}

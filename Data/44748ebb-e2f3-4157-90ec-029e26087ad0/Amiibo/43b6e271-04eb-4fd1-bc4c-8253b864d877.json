@@ -1,0 +1,60 @@
+{
+  "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+  "id": "43b6e271-04eb-4fd1-bc4c-8253b864d877",
+  "name": "Bulgaria",
+  "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+  "trainer_name": "foamtray",
+  "matches": {
+    "2020-10-08T21:02:25.572904+00:00": {
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "fdc8a22b-21e2-4c6f-aa9f-2a75fce3c794",
+        "name": "Gambit",
+        "rating": 11.564973147696264,
+        "trainer_id": "559b97d3-faa3-4aa1-9697-8e87271c7b16",
+        "trainer_name": "ammoknight208",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -1.1469292052837972,
+        "rating_mu": 17.33484139240182,
+        "rating_sigma": 6.1605901992285395,
+        "result": "loss"
+      }
+    },
+    "2020-10-09T05:24:05.409526+00:00": {
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "0b012a19-4e02-40b0-b069-f66f33727d16",
+        "name": "Snowball",
+        "rating": 13.514409683023203,
+        "trainer_id": "e1140a03-deef-45f1-b331-d3045158b3ed",
+        "trainer_name": "tycebomba",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 8.192918381713355,
+        "rating_mu": 22.40166528852886,
+        "rating_sigma": 4.736248968938502,
+        "result": "loss"
+      }
+    },
+    "2020-10-09T04:58:03.298526+00:00": {
+      "this_amiibo": {
+        "rating": 8.640337882350828,
+        "rating_mu": 24.17940142063853,
+        "rating_sigma": 5.179687846095901,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "83a8f365-fe98-47fd-b514-e56aecba943f",
+        "name": "LupinRed",
+        "rating": 10.29084918238965,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "flareofstars",
+        "result": "loss"
+      }
+    }
+  }
+}

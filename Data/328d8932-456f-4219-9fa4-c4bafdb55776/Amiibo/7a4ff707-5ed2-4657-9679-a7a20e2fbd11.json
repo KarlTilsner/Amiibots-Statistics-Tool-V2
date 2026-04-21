@@ -1,0 +1,43 @@
+{
+  "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+  "id": "7a4ff707-5ed2-4657-9679-a7a20e2fbd11",
+  "name": "CORRADO",
+  "trainer_id": "52395cd5-7302-493e-a7a9-c0cf640159cd",
+  "trainer_name": "mafriel",
+  "matches": {
+    "2022-10-03T00:51:44.712865+00:00": {
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "891fb2d4-a0b5-41cd-85e9-0f3974b1c9b8",
+        "name": "Great Lord",
+        "rating": 7.621024054838067,
+        "trainer_id": "145d61cf-f74e-4452-bbc6-d34fe6fdba86",
+        "trainer_name": "Linkz099",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.7899217551096172,
+        "rating_mu": 20.79452709502615,
+        "rating_sigma": 7.194816283378589,
+        "result": "loss"
+      }
+    },
+    "2022-10-05T04:02:12.951082+00:00": {
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "cb1dcfac-b455-4f0c-8462-cbce968639a0",
+        "name": "Mario, Bro",
+        "rating": 16.42017575589578,
+        "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
+        "trainer_name": "schmorchid",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.7978669827627201,
+        "rating_mu": 16.186832134529933,
+        "rating_sigma": 5.661566372430884,
+        "result": "loss"
+      }
+    }
+  }
+}

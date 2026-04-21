@@ -1,0 +1,43 @@
+{
+  "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+  "id": "3a9f4f71-5266-457a-a92b-a9bcf945c742",
+  "name": "Ananass",
+  "trainer_id": "3c6a2558-822c-45dc-9c83-95b524978633",
+  "trainer_name": "0ccactuss0",
+  "matches": {
+    "2022-03-01T18:06:50.191668+00:00": {
+      "opponent": {
+        "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+        "id": "fb0c1cce-0b8f-4b32-a07c-3415a4f3611a",
+        "name": "Snoop Dogg",
+        "rating": 17.219191132074897,
+        "trainer_id": "28283938-6ce4-4e27-93d7-2eef9a8b79d6",
+        "trainer_name": "momjm_21",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 7.533025299985333,
+        "rating_mu": 24.372275896500785,
+        "rating_sigma": 5.613083532171817,
+        "result": "loss"
+      }
+    },
+    "2022-03-01T18:01:52.766833+00:00": {
+      "this_amiibo": {
+        "rating": 8.164206420640365,
+        "rating_mu": 28.486792986193134,
+        "rating_sigma": 6.774195521850922,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "c6180021-429b-456a-aff4-5fd8ab1a014e",
+        "name": "That B!tch",
+        "rating": 15.777055261815917,
+        "trainer_id": "16484274-0bf1-42ca-8003-5797b387bdc5",
+        "trainer_name": "Denneylaw83",
+        "result": "loss"
+      }
+    }
+  }
+}

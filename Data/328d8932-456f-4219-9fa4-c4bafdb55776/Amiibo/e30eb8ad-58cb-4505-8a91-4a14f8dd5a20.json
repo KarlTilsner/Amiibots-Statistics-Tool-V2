@@ -1,0 +1,43 @@
+{
+  "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+  "id": "e30eb8ad-58cb-4505-8a91-4a14f8dd5a20",
+  "name": "Jon",
+  "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+  "trainer_name": "fammydamammy",
+  "matches": {
+    "2021-08-22T06:24:40.470753+00:00": {
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "533eeef4-81a3-4b74-b689-85bb0c246c09",
+        "name": "UpperClass",
+        "rating": 21.519340845801167,
+        "trainer_id": "3b8edbe3-e8c2-401d-a151-0e152c4a7123",
+        "trainer_name": "Destruktow",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 11.937905026386403,
+        "rating_mu": 26.56733340897935,
+        "rating_sigma": 4.8764761275309825,
+        "result": "loss"
+      }
+    },
+    "2021-08-22T04:45:42.281365+00:00": {
+      "this_amiibo": {
+        "rating": 13.330318274319293,
+        "rating_mu": 31.70644767308522,
+        "rating_sigma": 6.125376466255309,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "e352304b-c507-4aa3-ab1e-38799772ba7c",
+        "name": "W00MY :D",
+        "rating": 25.235200687349504,
+        "trainer_id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
+        "trainer_name": "pinheadpatrick017",
+        "result": "loss"
+      }
+    }
+  }
+}

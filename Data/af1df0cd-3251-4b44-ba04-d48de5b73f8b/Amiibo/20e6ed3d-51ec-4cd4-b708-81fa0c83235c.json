@@ -1,0 +1,43 @@
+{
+  "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+  "id": "20e6ed3d-51ec-4cd4-b708-81fa0c83235c",
+  "name": "Blorg",
+  "trainer_id": "7ae72c01-0479-4b54-8c47-7a7e7ed61902",
+  "trainer_name": "dittowog",
+  "matches": {
+    "2024-08-14T10:31:47.179128+00:00": {
+      "opponent": {
+        "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+        "id": "afc2496d-f9ab-4f73-be39-766fe6526a9a",
+        "name": "GunsNRoses",
+        "rating": 28.132721440989503,
+        "trainer_id": "b13c42a0-c638-4703-87c4-875e5ec0bf94",
+        "trainer_name": "MMMMMMMMTTYYY",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 11.92367483612437,
+        "rating_mu": 27.154332877845714,
+        "rating_sigma": 5.076886013907115,
+        "result": "loss"
+      }
+    },
+    "2024-08-14T07:59:47.637701+00:00": {
+      "this_amiibo": {
+        "rating": 12.172801240996655,
+        "rating_mu": 30.91887961407661,
+        "rating_sigma": 6.248692791026651,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "63160fca-8a8b-43c6-b9f0-4f5796628a60",
+        "name": "Sausage",
+        "rating": 23.642367511979838,
+        "trainer_id": "08d3dbd8-a168-4f7a-b225-d726244d815e",
+        "trainer_name": "numba1frontiersfan",
+        "result": "loss"
+      }
+    }
+  }
+}

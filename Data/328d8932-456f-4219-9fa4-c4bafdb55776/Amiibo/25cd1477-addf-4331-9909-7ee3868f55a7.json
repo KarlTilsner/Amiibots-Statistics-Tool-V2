@@ -1,0 +1,43 @@
+{
+  "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+  "id": "25cd1477-addf-4331-9909-7ee3868f55a7",
+  "name": "Lilith",
+  "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
+  "trainer_name": "raid_boss_09",
+  "matches": {
+    "2022-07-17T14:25:23.457079+00:00": {
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "e03f6a6b-30d4-49f5-8291-f6dc83e15d9d",
+        "name": "Shadodraco",
+        "rating": 25.30803591104885,
+        "trainer_id": "053e11d2-837c-40bd-b6f0-7928f5ce5ba5",
+        "trainer_name": "redshadow203",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.0183368666100776,
+        "rating_mu": 20.72887019365399,
+        "rating_sigma": 6.570177775681303,
+        "result": "loss"
+      }
+    },
+    "2022-07-29T19:43:50.030049+00:00": {
+      "this_amiibo": {
+        "rating": 7.394729656495706,
+        "rating_mu": 24.03174995807647,
+        "rating_sigma": 5.545673433860255,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "59cc1530-7ac3-461f-9f50-74dd4abdde0d",
+        "name": "Natalie",
+        "rating": 7.895320459627328,
+        "trainer_id": "26942317-1919-4c5c-8072-7bc3e0bc2838",
+        "trainer_name": "NurfboyU",
+        "result": "loss"
+      }
+    }
+  }
+}

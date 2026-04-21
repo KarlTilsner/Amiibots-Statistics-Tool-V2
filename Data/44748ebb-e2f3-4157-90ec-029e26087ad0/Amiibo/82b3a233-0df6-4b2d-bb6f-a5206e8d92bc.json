@@ -1,0 +1,43 @@
+{
+  "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
+  "id": "82b3a233-0df6-4b2d-bb6f-a5206e8d92bc",
+  "name": "Karen",
+  "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+  "trainer_name": "foamtray",
+  "matches": {
+    "2020-05-14T07:15:18.763768+00:00": {
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "d6c2a939-5c70-4ba0-9499-9ab40de1ce59",
+        "name": "Epanar",
+        "rating": 19.402917996590133,
+        "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
+        "trainer_name": "spike2the9th",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.6258452388438975,
+        "rating_mu": 20.384406455777924,
+        "rating_sigma": 6.5861870723113425,
+        "result": "loss"
+      }
+    },
+    "2020-05-14T18:30:11.577301+00:00": {
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "2c8407f0-02eb-4d0b-92aa-b49756754811",
+        "name": "Emerald",
+        "rating": 15.821900993279758,
+        "trainer_id": "981c6af2-809d-4590-80a6-e051c0344f24",
+        "trainer_name": "Cheimerman",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.7527940406916258,
+        "rating_mu": 17.2691655144543,
+        "rating_sigma": 5.505457157920892,
+        "result": "loss"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+  "id": "b421caf1-bd1d-48ae-8e58-2dca2352ad68",
+  "name": "Joe Stalin",
+  "trainer_id": "1d938197-2922-4fd5-8104-862ce6783eea",
+  "trainer_name": "Emanperson",
+  "matches": {
+    "2021-11-12T12:25:12.976751+00:00": {
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "74dfb937-24a9-4013-a3bb-eb0d8723d0e5",
+        "name": "SelieQueen",
+        "rating": 25.143965398531616,
+        "trainer_id": "b9f75440-e3f7-4c8e-8a3f-8dc09b8327ae",
+        "trainer_name": "blackstargem11",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.9846763330302721,
+        "rating_mu": 20.62486063594756,
+        "rating_sigma": 6.546728100972429,
+        "result": "loss"
+      }
+    },
+    "2021-11-12T16:04:51.629278+00:00": {
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "78d22a18-3748-4997-8d60-e0dc6524cd39",
+        "name": "Untamed",
+        "rating": 24.983106078301716,
+        "trainer_id": "42b5ba6a-accd-4a43-8caf-4e6732e41542",
+        "trainer_name": "KallMeKoto",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.653498586005437,
+        "rating_mu": 18.77347736920033,
+        "rating_sigma": 5.706659594398297,
+        "result": "loss"
+      }
+    }
+  }
+}

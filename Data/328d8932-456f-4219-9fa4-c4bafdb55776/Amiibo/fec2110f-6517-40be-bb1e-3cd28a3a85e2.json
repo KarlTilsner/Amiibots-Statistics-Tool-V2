@@ -1,0 +1,43 @@
+{
+  "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+  "id": "fec2110f-6517-40be-bb1e-3cd28a3a85e2",
+  "name": "Mr. Power",
+  "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
+  "trainer_name": "raid_boss_09",
+  "matches": {
+    "2022-07-13T09:22:18.336107+00:00": {
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "53df838a-ee8e-4417-a58e-46beb6870f9c",
+        "name": "El Gato ;(",
+        "rating": 19.4536463137213,
+        "trainer_id": "b03ddf3c-0e54-4b9c-bf81-3373bed76b0a",
+        "trainer_name": "neoboy239",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.1959706669184591,
+        "rating_mu": 18.939696202117062,
+        "rating_sigma": 6.247908511732867,
+        "result": "loss"
+      }
+    },
+    "2022-09-21T01:42:59.990726+00:00": {
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "ea8d6fa6-5504-49e1-81d6-e41107424e85",
+        "name": "Frumple",
+        "rating": 13.98012681640228,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": -0.045722985151325446,
+        "rating_mu": 15.359140336742849,
+        "rating_sigma": 5.134954440631391,
+        "result": "loss"
+      }
+    }
+  }
+}

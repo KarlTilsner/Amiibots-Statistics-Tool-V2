@@ -1,0 +1,60 @@
+{
+  "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+  "id": "84b52e32-ffe6-470a-9652-5ecfa54217fa",
+  "name": "ToonDisney",
+  "trainer_id": "5d49133f-f2e3-449b-b297-19d899fdf013",
+  "trainer_name": "thedailydude",
+  "matches": {
+    "2022-08-02T06:33:41.072841+00:00": {
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "cf5cb418-baf0-4fcb-b7ba-f6bf54ba9086",
+        "name": "RdRobinYum",
+        "rating": 25.051694808067623,
+        "trainer_id": "053e11d2-837c-40bd-b6f0-7928f5ce5ba5",
+        "trainer_name": "redshadow203",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 24.863990712887915,
+        "rating_mu": 27.48948256330813,
+        "rating_sigma": 0.8751639501400719,
+        "result": "loss"
+      }
+    },
+    "2022-08-03T01:07:03.262887+00:00": {
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "bb682742-1401-48ad-8c45-c7d0e1a81c56",
+        "name": "Janie",
+        "rating": 23.2243865365283,
+        "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
+        "trainer_name": "spike2the9th",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 24.7417133804927,
+        "rating_mu": 27.359257262495948,
+        "rating_sigma": 0.8725146273344152,
+        "result": "loss"
+      }
+    },
+    "2022-08-04T19:30:35.993127+00:00": {
+      "this_amiibo": {
+        "rating": 24.82040308578715,
+        "rating_mu": 27.435701793055816,
+        "rating_sigma": 0.8717662357562224,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "9262a5a7-6a3c-4da0-aef0-62c59351ff40",
+        "name": "Genwunner",
+        "rating": 18.25270660830966,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    }
+  }
+}

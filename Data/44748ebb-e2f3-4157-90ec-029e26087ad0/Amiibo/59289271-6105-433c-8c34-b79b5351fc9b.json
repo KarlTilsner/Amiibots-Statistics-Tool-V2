@@ -1,0 +1,43 @@
+{
+  "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+  "id": "59289271-6105-433c-8c34-b79b5351fc9b",
+  "name": "Recon/TRUE",
+  "trainer_id": "c1461260-903f-4aae-ad42-af21e07e1e98",
+  "trainer_name": "TheWohaPolice",
+  "matches": {
+    "2020-12-05T14:15:54.220410+00:00": {
+      "opponent": {
+        "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
+        "id": "20aa3ef8-0f73-4832-b67f-7687739b9050",
+        "name": "Zagreus",
+        "rating": 22.214183393115913,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.9820971994632757,
+        "rating_mu": 21.373049081609487,
+        "rating_sigma": 6.796983960715403,
+        "result": "loss"
+      }
+    },
+    "2020-12-06T15:12:05.697480+00:00": {
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "d98f8398-ddeb-4585-96a9-82892cda230a",
+        "name": "Goth GF",
+        "rating": 20.528544483131682,
+        "trainer_id": "b4ab7a10-b35b-4091-9c4e-dac76cc4d1f2",
+        "trainer_name": "mercy_main_skye",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.2510222568444718,
+        "rating_mu": 17.850755737160647,
+        "rating_sigma": 5.533244493438725,
+        "result": "loss"
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+  "id": "44cc89cb-5278-4542-b989-b8418658624a",
+  "name": "Unlicensed",
+  "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+  "trainer_name": "staples___",
+  "matches": {
+    "2020-07-09T15:10:09.705949+00:00": {
+      "opponent": {
+        "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+        "id": "9ec75c88-c16f-4eed-bb65-2413ec0c9eb3",
+        "name": "Baenetta",
+        "rating": 19.831709784221378,
+        "trainer_id": "b079e5eb-cecb-48d2-a350-091fc4698bd3",
+        "trainer_name": "kangasmom",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.236889146931464,
+        "rating_mu": 19.00365376291502,
+        "rating_sigma": 6.255588205327853,
+        "result": "loss"
+      }
+    },
+    "2020-07-12T09:47:45.614578+00:00": {
+      "this_amiibo": {
+        "rating": 14.57231145696268,
+        "rating_mu": 28.458962373951774,
+        "rating_sigma": 4.628883638996364,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "28f80b12-f6cc-4f0c-adf2-90f637dcf20e",
+        "name": "Charlie",
+        "rating": 30.40530426717099,
+        "trainer_id": "b8caead1-f5ec-408e-8e1c-1ccdfc145d69",
+        "trainer_name": "ILuvBubbleBuddy",
+        "result": "loss"
+      }
+    },
+    "2020-07-16T06:18:34.178788+00:00": {
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "9be6e7bc-f96c-4951-893b-5a7b74c122de",
+        "name": "GIOVANNI",
+        "rating": 26.190176014423287,
+        "trainer_id": "a6686cbf-503b-4a02-94b1-a5147b9d08ed",
+        "trainer_name": "Armored_Sage",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 14.159725647200712,
+        "rating_mu": 26.325844608352647,
+        "rating_sigma": 4.055372987050645,
+        "result": "loss"
+      }
+    }
+  }
+}

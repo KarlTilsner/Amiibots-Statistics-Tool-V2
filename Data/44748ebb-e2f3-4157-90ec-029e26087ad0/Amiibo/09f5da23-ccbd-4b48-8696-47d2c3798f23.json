@@ -1,0 +1,43 @@
+{
+  "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+  "id": "09f5da23-ccbd-4b48-8696-47d2c3798f23",
+  "name": "BigKitty",
+  "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+  "trainer_name": "jozz024",
+  "matches": {
+    "2020-08-08T11:45:58.323437+00:00": {
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "dbdad66f-29c2-444f-be04-f22ffc9cd101",
+        "name": "25¢",
+        "rating": 20.546369882074867,
+        "trainer_id": "842fd55b-5c9f-4914-820e-99639a5ccf96",
+        "trainer_name": "littlefang__",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 11.928709200104542,
+        "rating_mu": 26.277687059054024,
+        "rating_sigma": 4.782992619649828,
+        "result": "loss"
+      }
+    },
+    "2020-08-08T09:45:44.622190+00:00": {
+      "this_amiibo": {
+        "rating": 13.843845316135795,
+        "rating_mu": 32.11421568474218,
+        "rating_sigma": 6.090123456202128,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "38bcaeda-b5ec-4e44-9db9-84070f4a431e",
+        "name": "AERITH",
+        "rating": 24.601661673872712,
+        "trainer_id": "9dd080a5-5309-4ab0-bc0c-f92cef816efa",
+        "trainer_name": "leeya310",
+        "result": "loss"
+      }
+    }
+  }
+}

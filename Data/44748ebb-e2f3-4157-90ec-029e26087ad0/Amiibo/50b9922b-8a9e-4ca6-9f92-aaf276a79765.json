@@ -1,0 +1,60 @@
+{
+  "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+  "id": "50b9922b-8a9e-4ca6-9f92-aaf276a79765",
+  "name": "Bicycle",
+  "trainer_id": "ab1f76a6-17bb-4125-aafe-261bbce07ff1",
+  "trainer_name": "thescuttler62",
+  "matches": {
+    "2020-08-13T07:37:50.630126+00:00": {
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "aefc43da-dd2f-42a0-a488-2bc3835eef5e",
+        "name": "Agent B",
+        "rating": 19.2031224487597,
+        "trainer_id": "75cc72db-3f1a-4ecb-a476-a681603d9d4e",
+        "trainer_name": "boristhekoopa",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.22222327942374065,
+        "rating_mu": 19.05433702482051,
+        "rating_sigma": 6.277371248465589,
+        "result": "loss"
+      }
+    },
+    "2020-08-18T02:31:22.233472+00:00": {
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "f4f8952c-f120-44af-9aa6-84025a3187fb",
+        "name": "Silvio",
+        "rating": 20.89449098044478,
+        "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
+        "trainer_name": "apple_beebs",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.7435482343662656,
+        "rating_mu": 17.239133595119107,
+        "rating_sigma": 5.49852845358428,
+        "result": "loss"
+      }
+    },
+    "2020-08-25T21:46:07.737533+00:00": {
+      "this_amiibo": {
+        "rating": 6.875589541890424,
+        "rating_mu": 20.662217605343717,
+        "rating_sigma": 4.5955426878177645,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "4c2fcfa5-6669-4043-b0f3-8ddb20331a61",
+        "name": "Diives",
+        "rating": 13.286770637916606,
+        "trainer_id": "3388d666-674d-404e-b6ea-96a6f0e4f893",
+        "trainer_name": "Bodhiston",
+        "result": "loss"
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+  "id": "437b0a4b-e720-43a1-8628-1d3896cb5cba",
+  "name": "MinMax",
+  "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+  "trainer_name": "Competitively2",
+  "matches": {
+    "2024-05-16T14:27:01.626018+00:00": {
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "d72c8136-6734-41fd-8c6c-6dacf0d6d2d6",
+        "name": "Tank",
+        "rating": 21.633905345294554,
+        "trainer_id": "bf0353aa-8296-43e7-9903-0aad38a27dbe",
+        "trainer_name": "noah113012",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.7867899175731949,
+        "rating_mu": 20.40067794138486,
+        "rating_sigma": 6.537962674603889,
+        "result": "loss"
+      }
+    },
+    "2024-05-21T14:15:29.967826+00:00": {
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "eb14f75f-7538-4adb-9d38-401cc4c57e37",
+        "name": "ONION",
+        "rating": 9.265481941589027,
+        "trainer_id": "0a04604c-bea5-449d-a960-dd4b2c97b98b",
+        "trainer_name": "YumYumCactus_",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.07525933922733685,
+        "rating_mu": 16.35103927642532,
+        "rating_sigma": 5.425259979065994,
+        "result": "loss"
+      }
+    },
+    "2024-06-02T10:18:37.242597+00:00": {
+      "this_amiibo": {
+        "rating": 4.208669582103395,
+        "rating_mu": 18.741953801848382,
+        "rating_sigma": 4.844428073248329,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "f7d2fc12-e15f-4d43-8ca9-39e268ced5f6",
+        "name": "TootsyRoll",
+        "rating": -0.2725212881037056,
+        "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
+        "trainer_name": "schmorchid",
+        "result": "loss"
+      }
+    },
+    "2024-06-04T03:54:40.987512+00:00": {
+      "this_amiibo": {
+        "rating": 8.863506577925087,
+        "rating_mu": 21.413126462360665,
+        "rating_sigma": 4.183206628145193,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "fdf51b08-27b4-4542-833c-67bbc30a122d",
+        "name": "HoshiBlade",
+        "rating": 14.141932668793785,
+        "trainer_id": "4ef50fd5-b406-48f9-bc3d-95922e8d1456",
+        "trainer_name": "Ashidlun",
+        "result": "loss"
+      }
+    }
+  }
+}

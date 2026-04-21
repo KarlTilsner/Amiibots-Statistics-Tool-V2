@@ -1,0 +1,43 @@
+{
+  "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+  "id": "2e8e6f37-5f30-4935-8023-7577dc0b3084",
+  "name": "Lupo",
+  "trainer_id": "5f33d75b-4dbe-45f5-9715-ce2f5810646e",
+  "trainer_name": "sh42ow",
+  "matches": {
+    "2022-03-04T14:53:27.369941+00:00": {
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "2202ebbd-245f-4448-bee1-2685f7ff8c85",
+        "name": "IFRIT",
+        "rating": 29.49089612009801,
+        "trainer_id": "d7f44591-9713-4c95-b840-3607f6a73d24",
+        "trainer_name": "luckman21",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.3329559890821336,
+        "rating_mu": 22.40181008432441,
+        "rating_sigma": 7.0229513650807585,
+        "result": "loss"
+      }
+    },
+    "2022-03-25T03:58:23.491456+00:00": {
+      "this_amiibo": {
+        "rating": 7.878314239445967,
+        "rating_mu": 25.364955581598345,
+        "rating_sigma": 5.828880447384126,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "f6ba6f19-7890-4d3b-a4e4-3588408603a0",
+        "name": "Anakin",
+        "rating": 15.456366865697351,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    }
+  }
+}

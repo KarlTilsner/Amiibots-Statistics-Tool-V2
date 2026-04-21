@@ -1,0 +1,77 @@
+{
+  "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+  "id": "63ce76a1-8034-4c9f-8891-369f04ab8fea",
+  "name": "My toe",
+  "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+  "trainer_name": "foamtray",
+  "matches": {
+    "2020-11-09T03:12:26.696720+00:00": {
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "184c2c0e-aa49-4473-bf46-4f58598681bd",
+        "name": "Wack-o",
+        "rating": 27.623822353113294,
+        "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
+        "trainer_name": "nozzly",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.2391053816938111,
+        "rating_mu": 21.55512363349942,
+        "rating_sigma": 6.772006083935203,
+        "result": "loss"
+      }
+    },
+    "2020-11-09T11:14:27.276252+00:00": {
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "8039a8d4-fa11-4d0f-bdf8-ae09b11349bb",
+        "name": "Mitsuru",
+        "rating": 21.404660513495344,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.8554839591739132,
+        "rating_mu": 19.794967749944334,
+        "rating_sigma": 5.979827930256807,
+        "result": "loss"
+      }
+    },
+    "2020-11-10T11:34:54.331829+00:00": {
+      "this_amiibo": {
+        "rating": 11.556255401900456,
+        "rating_mu": 24.336032927301765,
+        "rating_sigma": 4.259925841800436,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "fe70151b-5f22-484f-a698-a06dd15a7465",
+        "name": "Grooky",
+        "rating": 23.99966400766981,
+        "trainer_id": "c38191e3-5f4d-4c5d-9c66-66436166b005",
+        "trainer_name": "qscxz512",
+        "result": "loss"
+      }
+    },
+    "2020-11-10T10:36:29.726259+00:00": {
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "e1d6f88a-5694-4c90-bab4-8b718d4dd8a5",
+        "name": "Hole",
+        "rating": 24.56189535992807,
+        "trainer_id": "d330fd84-86e6-4816-aa55-f8c21af74561",
+        "trainer_name": "schmlif324",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 2.365594578833065,
+        "rating_mu": 18.362963589031704,
+        "rating_sigma": 5.332456336732879,
+        "result": "loss"
+      }
+    }
+  }
+}

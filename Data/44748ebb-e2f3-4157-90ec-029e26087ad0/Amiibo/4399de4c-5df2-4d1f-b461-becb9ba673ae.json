@@ -1,0 +1,43 @@
+{
+  "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+  "id": "4399de4c-5df2-4d1f-b461-becb9ba673ae",
+  "name": "Hurricane",
+  "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+  "trainer_name": "jozz024",
+  "matches": {
+    "2020-08-06T15:17:55.584486+00:00": {
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "7812e303-07ef-4419-aaba-2cd4edad6087",
+        "name": "Uvogin",
+        "rating": 14.01201388860143,
+        "trainer_id": "ab1f76a6-17bb-4125-aafe-261bbce07ff1",
+        "trainer_name": "thescuttler62",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 9.71915916783019,
+        "rating_mu": 25.21138717608641,
+        "rating_sigma": 5.164076002752074,
+        "result": "loss"
+      }
+    },
+    "2020-08-06T12:35:55.169382+00:00": {
+      "this_amiibo": {
+        "rating": 11.807225074114111,
+        "rating_mu": 30.677941893223046,
+        "rating_sigma": 6.290238939702978,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "baf106ce-37f2-4c0b-a893-3158196318b3",
+        "name": "Smoothie",
+        "rating": 22.994972145706868,
+        "trainer_id": "a8c60bfc-4873-4ad3-a7e9-0950af775811",
+        "trainer_name": "SteelDragonKing",
+        "result": "loss"
+      }
+    }
+  }
+}

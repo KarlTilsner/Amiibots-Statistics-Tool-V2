@@ -1,0 +1,43 @@
+{
+  "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+  "id": "56ce2870-2be2-4b6e-9303-09b5ccd45645",
+  "name": "イカ",
+  "trainer_id": "c698afb6-6645-4f81-b3b9-a71f4ebcd6a0",
+  "trainer_name": "tegtegthe5",
+  "matches": {
+    "2022-05-23T11:04:01.383390+00:00": {
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "12fb57f9-39fe-4223-8d77-78a975212eac",
+        "name": "Carizard",
+        "rating": 25.692866800243014,
+        "trainer_id": "b82c6d43-d80c-4195-99a0-67355d12115d",
+        "trainer_name": "the_real_rukasu",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 1.059279097246069,
+        "rating_mu": 20.853618453632592,
+        "rating_sigma": 6.598113118795508,
+        "result": "loss"
+      }
+    },
+    "2022-05-24T09:27:41.570378+00:00": {
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "2bde0d72-1b72-4ce4-b6ca-59f1da3eb159",
+        "name": "MonadOuchë",
+        "rating": 6.906645486325775,
+        "trainer_id": "8b58def7-f142-4a59-b1d1-322b89f76a74",
+        "trainer_name": "t_newcomer",
+        "result": "win"
+      },
+      "this_amiibo": {
+        "rating": 0.6229157033984478,
+        "rating_mu": 18.72508749367256,
+        "rating_sigma": 6.034057263424705,
+        "result": "loss"
+      }
+    }
+  }
+}
