@@ -786,6 +786,40 @@
         "trainer_name": "pikavolt_",
         "result": "loss"
       }
+    },
+    "2023-03-22T10:40:27.553138+00:00": {
+      "this_amiibo": {
+        "rating": 33.59058297003175,
+        "rating_mu": 37.166994420239924,
+        "rating_sigma": 1.1921371500693927,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
+        "name": "Hero",
+        "rating": 34.86796262064468,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "win"
+      }
+    },
+    "2023-03-22T18:30:33.865630+00:00": {
+      "this_amiibo": {
+        "rating": 33.442413118177065,
+        "rating_mu": 36.9834246993824,
+        "rating_sigma": 1.1803371937351115,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
+        "name": "Hero",
+        "rating": 35.030105178529396,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "win"
+      }
     }
   }
 }

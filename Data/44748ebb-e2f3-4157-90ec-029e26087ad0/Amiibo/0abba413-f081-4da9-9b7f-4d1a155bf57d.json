@@ -38,6 +38,40 @@
         "trainer_name": "Pixel__SSB",
         "result": "loss"
       }
+    },
+    "2021-02-02T00:16:41.667120+00:00": {
+      "this_amiibo": {
+        "rating": 16.19772184647427,
+        "rating_mu": 28.65413358431796,
+        "rating_sigma": 4.152137245947897,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "74b2cb2c-63b0-401d-87b4-6f41896e5ede",
+        "name": "BanSnake.2",
+        "rating": 11.953367655871153,
+        "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+        "trainer_name": "Kangoni",
+        "result": "win"
+      }
+    },
+    "2021-02-02T10:18:18.891313+00:00": {
+      "this_amiibo": {
+        "rating": 19.52201960371671,
+        "rating_mu": 30.594339650862178,
+        "rating_sigma": 3.6907733490484893,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "1d856ac1-dcbc-43a4-a4c6-333192a77556",
+        "name": "NightShade",
+        "rating": 26.036973306233236,
+        "trainer_id": "93f967b4-5933-4e9b-9f67-3d16fd17437f",
+        "trainer_name": "glitched_artist",
+        "result": "loss"
+      }
     }
   }
 }

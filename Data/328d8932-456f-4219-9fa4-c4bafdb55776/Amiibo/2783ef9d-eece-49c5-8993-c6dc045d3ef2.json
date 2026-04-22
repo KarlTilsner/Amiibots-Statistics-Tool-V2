@@ -480,6 +480,57 @@
         "trainer_name": "smashssf2_ita",
         "result": "win"
       }
+    },
+    "2023-03-22T01:48:22.084172+00:00": {
+      "this_amiibo": {
+        "rating": 28.719188588237877,
+        "rating_mu": 33.231413178804786,
+        "rating_sigma": 1.5040748635223025,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "bc323fbd-ae41-4d7e-b7c6-2b1261576461",
+        "name": "Peter",
+        "rating": 31.18503968309781,
+        "trainer_id": "a9ec9d87-61e1-4c87-be6d-3442cf3a59d4",
+        "trainer_name": "bluerunner0",
+        "result": "win"
+      }
+    },
+    "2023-03-23T14:13:36.058940+00:00": {
+      "this_amiibo": {
+        "rating": 28.957306713838417,
+        "rating_mu": 33.40930814092167,
+        "rating_sigma": 1.4840004756944167,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
+        "id": "c635e01d-9a29-43d8-bbed-daa193065a8c",
+        "name": "DarkWorker",
+        "rating": 25.934048662073987,
+        "trainer_id": "799c290d-4ab5-4f35-b859-0c4e7b0234a7",
+        "trainer_name": "bl_bk_44",
+        "result": "loss"
+      }
+    },
+    "2023-03-25T12:56:42.190353+00:00": {
+      "this_amiibo": {
+        "rating": 29.1381229025739,
+        "rating_mu": 33.541105796338336,
+        "rating_sigma": 1.4676609645881447,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "8f3f34aa-430a-478b-bdb8-b157f0c86423",
+        "name": "Platinum",
+        "rating": 25.38902090421217,
+        "trainer_id": "a783d150-bd51-4b0c-9379-b32e55643dac",
+        "trainer_name": "iguyw",
+        "result": "loss"
+      }
     }
   }
 }

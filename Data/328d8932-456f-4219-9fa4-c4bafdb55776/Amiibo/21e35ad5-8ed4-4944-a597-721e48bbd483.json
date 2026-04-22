@@ -1041,6 +1041,40 @@
         "trainer_name": "track8regret",
         "result": "win"
       }
+    },
+    "2023-03-22T17:08:09.643260+00:00": {
+      "this_amiibo": {
+        "rating": 20.416835351011503,
+        "rating_mu": 23.885521428638864,
+        "rating_sigma": 1.1562286925424536,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "dbce05fa-8f3c-40d7-a73e-45994c8f56b7",
+        "name": "John Fatal",
+        "rating": 18.35007725057689,
+        "trainer_id": "0fb55565-9a16-4eaf-9ae8-e089b432d6f0",
+        "trainer_name": "sdm_ranch",
+        "result": "win"
+      }
+    },
+    "2023-03-24T22:08:59.831832+00:00": {
+      "this_amiibo": {
+        "rating": 20.26876512906003,
+        "rating_mu": 23.705408868457326,
+        "rating_sigma": 1.1455479131324318,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "e88ce1de-1e52-40f1-9f9b-9f2504b41530",
+        "name": "Minerva",
+        "rating": 21.380541674271676,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "win"
+      }
     }
   }
 }

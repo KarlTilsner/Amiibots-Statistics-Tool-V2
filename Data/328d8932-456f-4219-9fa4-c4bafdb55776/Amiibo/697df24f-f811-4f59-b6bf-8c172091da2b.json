@@ -1041,6 +1041,40 @@
         "trainer_name": "random_fire",
         "result": "loss"
       }
+    },
+    "2023-03-23T03:47:02.432439+00:00": {
+      "this_amiibo": {
+        "rating": 30.69584310129128,
+        "rating_mu": 33.91593926531193,
+        "rating_sigma": 1.0733653880068823,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "11dc4f19-0cad-4566-8975-a52bdf9bf4c0",
+        "name": "Soldier",
+        "rating": 33.71101009171946,
+        "trainer_id": "f346091f-8917-49bc-b479-b0c568026dbf",
+        "trainer_name": "RazorForce21",
+        "result": "win"
+      }
+    },
+    "2023-03-24T21:33:22.142900+00:00": {
+      "this_amiibo": {
+        "rating": 30.55340757593563,
+        "rating_mu": 33.74918885495409,
+        "rating_sigma": 1.0652604263394871,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "f3349cb5-b223-48e6-8559-f9431c447786",
+        "name": "Adzuki",
+        "rating": 30.957932850360255,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
     }
   }
 }
