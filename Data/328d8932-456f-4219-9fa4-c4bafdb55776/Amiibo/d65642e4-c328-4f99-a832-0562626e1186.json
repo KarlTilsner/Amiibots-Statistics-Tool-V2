@@ -1075,6 +1075,57 @@
         "trainer_name": "AmiibotsCurseDistributor_",
         "result": "loss"
       }
+    },
+    "2023-02-07T00:04:15.993862+00:00": {
+      "this_amiibo": {
+        "rating": 37.64807029811851,
+        "rating_mu": 41.26639207072974,
+        "rating_sigma": 1.2061072575370755,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "39e64ed8-1ceb-4391-afde-76555d455ea0",
+        "name": "Scar",
+        "rating": 36.37444071361283,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "win"
+      }
+    },
+    "2023-02-08T15:53:02.188049+00:00": {
+      "this_amiibo": {
+        "rating": 37.88199938015359,
+        "rating_mu": 41.462804132169005,
+        "rating_sigma": 1.1936015840051397,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "39e64ed8-1ceb-4391-afde-76555d455ea0",
+        "name": "Scar",
+        "rating": 38.28822102279994,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "loss"
+      }
+    },
+    "2023-03-03T01:32:27.522710+00:00": {
+      "this_amiibo": {
+        "rating": 38.08563372483872,
+        "rating_mu": 41.632762819324824,
+        "rating_sigma": 1.182376364828701,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "ee1f09d6-d82d-42aa-b3a4-92a32f294a4b",
+        "name": "Scar",
+        "rating": 37.58797218247693,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "loss"
+      }
     }
   }
 }

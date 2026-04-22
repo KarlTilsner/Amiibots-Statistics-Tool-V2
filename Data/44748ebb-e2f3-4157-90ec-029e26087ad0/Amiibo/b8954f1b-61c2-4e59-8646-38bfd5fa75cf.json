@@ -21,6 +21,40 @@
         "trainer_name": "temp_anon",
         "result": "loss"
       }
+    },
+    "2021-01-21T22:49:08.051930+00:00": {
+      "this_amiibo": {
+        "rating": 12.311899404440403,
+        "rating_mu": 27.591924795463324,
+        "rating_sigma": 5.09334179700764,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "27c7c95c-d208-4eb4-9eb7-86753b370964",
+        "name": "kiwi",
+        "rating": 24.669787400658798,
+        "trainer_id": "800690a5-19de-4098-8fd4-33bcbadf4a18",
+        "trainer_name": "TMSO_Aura",
+        "result": "win"
+      }
+    },
+    "2021-01-28T22:51:34.866989+00:00": {
+      "this_amiibo": {
+        "rating": 18.163047065117034,
+        "rating_mu": 30.989801402632565,
+        "rating_sigma": 4.275584779171844,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e2531ffe-e834-49ae-b233-56386472a6ed",
+        "id": "66e77d56-7a29-4923-b734-af6fdbce3710",
+        "name": "Quasar",
+        "rating": 26.7407365169327,
+        "trainer_id": "ee675c7c-7836-4aa2-8a36-fef64e67b80a",
+        "trainer_name": "truetitan14",
+        "result": "loss"
+      }
     }
   }
 }

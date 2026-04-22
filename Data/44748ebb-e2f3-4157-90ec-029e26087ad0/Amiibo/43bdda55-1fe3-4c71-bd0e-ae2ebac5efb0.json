@@ -684,6 +684,40 @@
         "trainer_name": "MiDe1",
         "result": "win"
       }
+    },
+    "2021-01-21T12:03:33.443541+00:00": {
+      "this_amiibo": {
+        "rating": 24.4924164994412,
+        "rating_mu": 28.505335398927695,
+        "rating_sigma": 1.3376396331621647,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "34ae051b-24a7-4f2d-b680-4bb1685c8ac1",
+        "name": "1 PunchMan",
+        "rating": 22.262981478953797,
+        "trainer_id": "7c20e90f-67fe-43c5-a623-83c60ef05858",
+        "trainer_name": "Zizogod",
+        "result": "loss"
+      }
+    },
+    "2021-01-28T18:51:10.845317+00:00": {
+      "this_amiibo": {
+        "rating": 24.197542813886464,
+        "rating_mu": 28.144915415587743,
+        "rating_sigma": 1.31579086723376,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "83f14565-1770-4997-b7a5-4fa85e516a7f",
+        "name": "Jacob",
+        "rating": 22.467190744533955,
+        "trainer_id": "4f6f55b1-cf3e-4c7b-a378-2641d72fcf23",
+        "trainer_name": "TheLimpWalrus",
+        "result": "win"
+      }
     }
   }
 }

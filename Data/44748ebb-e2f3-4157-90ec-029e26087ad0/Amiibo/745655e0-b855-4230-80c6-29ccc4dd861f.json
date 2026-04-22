@@ -446,6 +446,40 @@
         "trainer_name": "MiDe1",
         "result": "loss"
       }
+    },
+    "2021-01-22T03:27:41.782147+00:00": {
+      "this_amiibo": {
+        "rating": 20.707656033450228,
+        "rating_mu": 26.232770717137857,
+        "rating_sigma": 1.8417048945625427,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "51f4f207-8ea1-48ba-8ff6-8691589020d7",
+        "name": "Medli",
+        "rating": 29.577184115221943,
+        "trainer_id": "60cc23aa-c39d-49e0-b13d-13e205d499bd",
+        "trainer_name": "youaregoknba",
+        "result": "win"
+      }
+    },
+    "2021-01-29T11:27:54.132974+00:00": {
+      "this_amiibo": {
+        "rating": 20.99430770724026,
+        "rating_mu": 26.471381388841014,
+        "rating_sigma": 1.825691227200252,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "77c5e7b5-0dd8-40c1-9557-1cd19356fc88",
+        "name": "Zelda",
+        "rating": 0.6750553259173095,
+        "trainer_id": "dd6555fd-a19c-44f9-8e49-d533db72a667",
+        "trainer_name": "jholdc3",
+        "result": "loss"
+      }
     }
   }
 }

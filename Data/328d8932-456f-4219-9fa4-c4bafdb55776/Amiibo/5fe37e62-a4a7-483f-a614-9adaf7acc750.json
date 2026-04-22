@@ -2248,6 +2248,40 @@
         "trainer_name": "sdm_ranch",
         "result": "loss"
       }
+    },
+    "2023-02-10T12:01:24.636575+00:00": {
+      "this_amiibo": {
+        "rating": 35.02867110241415,
+        "rating_mu": 37.6550435726219,
+        "rating_sigma": 0.8754574900692504,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "7cccf9ce-119e-4d4b-9f74-4426331fcfb6",
+        "name": "One Wing",
+        "rating": 32.036740071202544,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "win"
+      }
+    },
+    "2023-02-27T22:36:04.237637+00:00": {
+      "this_amiibo": {
+        "rating": 34.92054389840642,
+        "rating_mu": 37.5398720512168,
+        "rating_sigma": 0.8731093842701257,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
+        "name": "Hero",
+        "rating": 34.437913793067025,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "win"
+      }
     }
   }
 }

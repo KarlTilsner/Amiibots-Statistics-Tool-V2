@@ -21,6 +21,40 @@
         "trainer_name": "average_videogame_user",
         "result": "loss"
       }
+    },
+    "2023-02-07T23:05:13.156526+00:00": {
+      "this_amiibo": {
+        "rating": 11.393078448361674,
+        "rating_mu": 27.602836449743965,
+        "rating_sigma": 5.403252667127431,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+        "id": "5a91cc91-1a97-44a4-bf24-771a2e227807",
+        "name": "Banjojo",
+        "rating": 30.903355320733972,
+        "trainer_id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
+        "trainer_name": "pinheadpatrick017",
+        "result": "win"
+      }
+    },
+    "2023-03-02T11:20:12.013389+00:00": {
+      "this_amiibo": {
+        "rating": 17.933395512668863,
+        "rating_mu": 31.59494132087446,
+        "rating_sigma": 4.5538486027352,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "ae281f4c-b762-406a-9f5e-a9ea4526675e",
+        "name": "Sakura",
+        "rating": 21.675948631780585,
+        "trainer_id": "8611b3c4-4441-4e46-a466-fa1d8dc052e6",
+        "trainer_name": "JosephTPG",
+        "result": "loss"
+      }
     }
   }
 }
