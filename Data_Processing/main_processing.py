@@ -10,60 +10,60 @@ import os
 
 
 
-def run_functions(folder, filename, ruleset_id):
-    print(f"Opening file: {filename}")
-    with open(os.path.join(folder, filename), "r", encoding="utf-8") as file:
-        data = json.load(file)
-
-        print(f"Processing {len(data)} matches")
-
-        # Call the functions to process the matches
-        all_trainers.main(data, ruleset_id)
-        all_amiibo.main(data, ruleset_id)
-        simple_list.main(data, ruleset_id)
-        matchups.main(data, ruleset_id)
-        rating_history.main(data, ruleset_id)
-
-        print(f"Finished processing file: {filename}\n")
-
-
-
 def process_files(ruleset_id):
-    # Get filenames of all raw match jsons
     folder = f"Raw_Matches/{ruleset_id}"
-    files = [f for f in os.listdir(folder) if f.endswith(".json")]
+    files = sorted(f for f in os.listdir(folder) if f.endswith(".json"))
 
-    # Sort those by their date/filename
-    files.sort()
-
-    last_processed_file = None
-
-    # Check for a state file and load the date of the last processed match, if it exists
+    # Load state
     if os.path.exists('Data_Processing/state.json'):
         with open('Data_Processing/state.json', "r", encoding="utf-8") as f:
             state = json.load(f)
-            last_processed_file = state.get(ruleset_id, {}).get("last_processed_file")
     else:
         state = {}
 
-    # Start with the earliest date in the list, check the state file for the last date that was processed
+    last_processed_file = state.get(ruleset_id, {}).get("last_processed_file")
+
+    # Load all caches at once
+    trainer_cache = all_trainers.load(ruleset_id)
+    amiibo_cache = all_amiibo.load(ruleset_id)
+    matchup_cache = matchups.load(ruleset_id)
+    rating_cache, current_best = rating_history.load(ruleset_id)
+
+    with open("Data/all_characters.json", "r", encoding="utf-8") as f:
+        all_characters = json.load(f)
+
+    # Call processor fuctions
     for filename in files:
-        # If we have a last processed file, skip older/equal files
         if last_processed_file and filename <= last_processed_file:
             continue
-        
-        run_functions(folder, filename, ruleset_id)
 
-        # Update last processed file
+        print(f"Processing {filename}")
+
+        with open(os.path.join(folder, filename), "r", encoding="utf-8") as file:
+            data = json.load(file)
+
+        simple_list.main(data, ruleset_id)
+
+        for match in data:
+            all_trainers.update(match, trainer_cache)
+            all_amiibo.update(match, amiibo_cache)
+            matchups.update(match, matchup_cache, all_characters)
+            rating_history.update(match, rating_cache, all_characters, current_best)
+
         last_processed_file = filename
 
-    # Update the state file with the date of the last processed match
+    # Save data
+    all_trainers.save(trainer_cache, ruleset_id)
+    all_amiibo.save(amiibo_cache, ruleset_id)
+    matchups.save(matchup_cache, ruleset_id)
+    rating_history.save(rating_cache, ruleset_id)
+
+    # Update state
     with open('Data_Processing/state.json', "w", encoding="utf-8") as f:
         state[ruleset_id] = {
-            "last_processed_file": last_processed_file,
-            "last_processed_date": datetime.now().isoformat()
+            "last_processed_file": last_processed_file
         }
-        json.dump(state, f , indent=2, ensure_ascii=False)
+        json.dump(state, f, indent=2, ensure_ascii=False)
 
 
 

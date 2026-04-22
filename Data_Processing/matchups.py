@@ -2,48 +2,53 @@ import os
 import json
 
 
-def main(data, ruleset_id):
-    print("Processing matchups...")
 
-    os.makedirs(f"Data/{ruleset_id}", exist_ok=True)
+def load(ruleset_id):
+    path = f"Data/{ruleset_id}/matchups.json"
 
-    with open(f"Data/all_characters.json", "r", encoding="utf-8") as f:
-        all_characters = json.load(f)
+    if os.path.exists(path):
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
 
-    # Check if the matchups file exists and load it
-    matchups_file_dir = f"Data/{ruleset_id}/matchups.json"
-    if os.path.exists(matchups_file_dir):
-        with open(matchups_file_dir, "r", encoding="utf-8") as f:
-            matchups = json.load(f)
-    else:
-        matchups = {}
+    return {}
 
-    for match in data:
-        for amiibo in ["winner_info", "loser_info"]:
 
-            if match[amiibo]["character_id"] not in matchups:
-                matchups[match[amiibo]["character_id"]] = {
-                    "id": match[amiibo]["character_id"],
-                    "name": all_characters[match[amiibo]["character_id"]],
-                    "data": {}
-                }
 
-            opponent = "loser_info" if amiibo == "winner_info" else "winner_info"
-            opponent_id = match[opponent]["character_id"]
+def update(match, cache, all_characters):
+    winner = match["winner_info"]
+    loser = match["loser_info"]
 
-            if opponent_id not in matchups[match[amiibo]["character_id"]]["data"]:
-                matchups[match[amiibo]["character_id"]]["data"][opponent_id] = {
-                    "id": opponent_id,
-                    "name": all_characters[opponent_id],
-                    "wins": 0,
-                    "losses": 0
-                }
+    for this, opponent, is_win in [
+        (winner, loser, True),
+        (loser, winner, False)
+    ]:
+        char_id = this["character_id"]
+        opp_id = opponent["character_id"]
 
-            if amiibo == "winner_info":
-                matchups[match[amiibo]["character_id"]]["data"][opponent_id]["wins"] += 1
-            else:
-                matchups[match[amiibo]["character_id"]]["data"][opponent_id]["losses"] += 1
-    
-    # Save the matchups to a JSON file
-    with open(matchups_file_dir, "w", encoding="utf-8") as f:
-        json.dump(matchups, f, indent=2, ensure_ascii=False)
+        if char_id not in cache:
+            cache[char_id] = {
+                "id": char_id,
+                "name": all_characters[char_id],
+                "data": {}
+            }
+
+        if opp_id not in cache[char_id]["data"]:
+            cache[char_id]["data"][opp_id] = {
+                "id": opp_id,
+                "name": all_characters[opp_id],
+                "wins": 0,
+                "losses": 0
+            }
+
+        if is_win:
+            cache[char_id]["data"][opp_id]["wins"] += 1
+        else:
+            cache[char_id]["data"][opp_id]["losses"] += 1
+
+
+
+def save(cache, ruleset_id):
+    path = f"Data/{ruleset_id}/matchups.json"
+
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(cache, f, indent=2, ensure_ascii=False)

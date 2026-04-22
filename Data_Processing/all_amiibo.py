@@ -3,66 +3,91 @@ import json
 
 
 
-# This script will collect all unique amiibo IDs and store each of their match history 
-def main(match, ruleset_id):
-    print(f"Processing Amiibo")
+def load(ruleset_id):
+    base_dir = f"Data/{ruleset_id}/Amiibo"
+    os.makedirs(base_dir, exist_ok=True)
 
-    os.makedirs(f"Data/{ruleset_id}/Amiibo", exist_ok=True)
+    cache = {}
 
-    for m in match:
-        for amiibo in ["fp1", "fp2"]:
-            # Get the IDs of the p1 and p2 amiibo and trainer
-            new_amiibo_data = {
-                "character_id": m[amiibo]["character_id"],
-                "id": m[amiibo]["id"],
-                "name": m[amiibo]["name"],
-                "trainer_id": m[amiibo]["trainer_id"],
-                "trainer_name": m[amiibo]["trainer_name"],
+    for file in os.listdir(base_dir):
+        if file.endswith(".json"):
+            path = os.path.join(base_dir, file)
+            with open(path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                cache[data["id"]] = data
+
+    return cache
+
+
+
+def update(match, cache):
+    created_at = match["created_at"]
+
+    winner = match["winner_info"]
+    loser = match["loser_info"]
+
+    for p in [match["fp1"], match["fp2"]]:
+        amiibo_id = p["id"]
+
+        # Initialise if new
+        if amiibo_id not in cache:
+            cache[amiibo_id] = {
+                "character_id": p["character_id"],
+                "id": amiibo_id,
+                "name": p["name"],
+                "trainer_id": p["trainer_id"],
+                "trainer_name": p["trainer_name"],
                 "matches": {}
             }
 
-            match_result = {}
+        amiibo_data = cache[amiibo_id]
 
-            # Create the shortened match data to be stored in the amiibo json
-            for result in ["winner_info", "loser_info"]:
-                if m[result]["id"] != new_amiibo_data["id"]:
-                    match_result["opponent"] = {
-                        "character_id": m[result]["character_id"],
-                        "id": m[result]["id"],
-                        "name": m[result]["name"],
-                        "rating": m[result]["rating"],
-                        "trainer_id": m[result]["trainer_id"],
-                        "trainer_name": m[result]["trainer_name"],
-                        "result": "win" if result == "winner_info" else "loss"
-                    }
+        # Skip duplicate match
+        if created_at in amiibo_data["matches"]:
+            continue
 
-                if m[result]["id"] == new_amiibo_data["id"]:
-                    match_result["this_amiibo"] = {
-                        "rating": m[result]["rating"],
-                        "rating_mu": m[result]["rating_mu"],
-                        "rating_sigma": m[result]["rating_sigma"],
-                        "result": "win" if result == "winner_info" else "loss"
-                    }
+        # Determine perspective
+        if winner["id"] == amiibo_id:
+            this = winner
+            opponent = loser
+            result = "win"
+        else:
+            this = loser
+            opponent = winner
+            result = "loss"
 
-            # Attempt to append the match to the respective amiibo ID json
-            amiibo_file = f"Data/{ruleset_id}/Amiibo/{new_amiibo_data['id']}.json"
-            if os.path.exists(amiibo_file):
-                with open(amiibo_file, "r", encoding="utf-8") as f:
-                    amiibo_data = json.load(f)
+        match_result = {
+            "this_amiibo": {
+                "rating": this["rating"],
+                "rating_mu": this["rating_mu"],
+                "rating_sigma": this["rating_sigma"],
+                "result": result
+            },
+            "opponent": {
+                "character_id": opponent["character_id"],
+                "id": opponent["id"],
+                "name": opponent["name"],
+                "rating": opponent["rating"],
+                "trainer_id": opponent["trainer_id"],
+                "trainer_name": opponent["trainer_name"],
+                "result": "loss" if result == "win" else "win"
+            }
+        }
 
-                # If the amiibo ID json does exist, check if the match is already in
-                if m["created_at"] not in amiibo_data["matches"]:
-                    amiibo_data["matches"][m["created_at"]] = match_result
+        # Store match
+        amiibo_data["matches"][created_at] = match_result
 
-                    # Update the name of the amiibo if it is different
-                    if amiibo_data["name"] != new_amiibo_data["name"]:
-                        amiibo_data["name"] = new_amiibo_data["name"]
+        # Update name if changed
+        if amiibo_data["name"] != p["name"]:
+            amiibo_data["name"] = p["name"]
 
-                    with open(amiibo_file, "w", encoding="utf-8") as f:
-                        json.dump(amiibo_data, f, indent=2, ensure_ascii=False)
 
-            # If the amiibo ID json doesn't exist, create it and add the match to it
-            else:
-                with open(amiibo_file, "w", encoding="utf-8") as f:
-                    new_amiibo_data["matches"][m["created_at"]] = match_result
-                    json.dump(new_amiibo_data, f, indent=2, ensure_ascii=False)
+
+def save(cache, ruleset_id):
+    base_dir = f"Data/{ruleset_id}/Amiibo"
+
+    for amiibo_id, data in cache.items():
+        path = f"{base_dir}/{amiibo_id}.json"
+
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
