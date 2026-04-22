@@ -718,6 +718,40 @@
         "trainer_name": "mafriel",
         "result": "loss"
       }
+    },
+    "2023-05-17T09:07:04.778037+00:00": {
+      "this_amiibo": {
+        "rating": 23.730220261208146,
+        "rating_mu": 27.74406120936194,
+        "rating_sigma": 1.3379469827179313,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "1cb4aef0-ef80-4495-b348-82cc14c4e3ad",
+        "name": "Chandra",
+        "rating": 22.08084868510129,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2023-05-19T18:32:33.695751+00:00": {
+      "this_amiibo": {
+        "rating": 23.580012528290908,
+        "rating_mu": 27.558287009677496,
+        "rating_sigma": 1.3260914937955297,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "ab3adc15-74da-485d-8fab-00c8081f7aa2",
+        "name": "Rotbart",
+        "rating": 19.351206908289175,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
     }
   }
 }

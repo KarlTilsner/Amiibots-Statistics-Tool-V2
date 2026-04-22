@@ -2962,6 +2962,40 @@
         "trainer_name": "nozomup",
         "result": "loss"
       }
+    },
+    "2023-05-16T10:57:54.919199+00:00": {
+      "this_amiibo": {
+        "rating": 33.15662184648456,
+        "rating_mu": 35.84859443398316,
+        "rating_sigma": 0.8973241958328663,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
+        "name": "Hero",
+        "rating": 34.24787308167188,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "win"
+      }
+    },
+    "2023-05-21T16:20:35.834843+00:00": {
+      "this_amiibo": {
+        "rating": 33.26984459075052,
+        "rating_mu": 35.95577230119265,
+        "rating_sigma": 0.8953092368140433,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "453ab52e-7e13-4366-bb03-17511db0d358",
+        "name": "αρσιση",
+        "rating": 29.08013913388983,
+        "trainer_id": "777d12f5-fc42-4921-adbb-e0038cb093e2",
+        "trainer_name": "Halyaran",
+        "result": "loss"
+      }
     }
   }
 }

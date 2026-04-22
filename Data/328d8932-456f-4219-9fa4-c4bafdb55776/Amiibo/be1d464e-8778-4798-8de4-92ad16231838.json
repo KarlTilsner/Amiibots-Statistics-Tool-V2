@@ -225,6 +225,57 @@
         "trainer_name": "River_Tethys",
         "result": "loss"
       }
+    },
+    "2023-05-18T02:42:44.017613+00:00": {
+      "this_amiibo": {
+        "rating": 17.244998505979012,
+        "rating_mu": 24.09373728101421,
+        "rating_sigma": 2.282912925011733,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "51109a76-8b7a-463e-8a99-78f3d8bfa2d5",
+        "name": "Guardian",
+        "rating": 25.726798468981123,
+        "trainer_id": "c840966a-507d-4219-bd15-d0678aac918b",
+        "trainer_name": "HBH111502",
+        "result": "win"
+      }
+    },
+    "2023-05-19T13:13:42.108695+00:00": {
+      "this_amiibo": {
+        "rating": 18.492572817605257,
+        "rating_mu": 25.017674496861925,
+        "rating_sigma": 2.1750338930855557,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "7611ad8e-640b-41a3-9782-44be188c249a",
+        "name": "Zangief",
+        "rating": 24.4703732931005,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "loss"
+      }
+    },
+    "2023-05-21T17:37:56.945716+00:00": {
+      "this_amiibo": {
+        "rating": 19.64987189722122,
+        "rating_mu": 25.892552058747384,
+        "rating_sigma": 2.0808933871753874,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "e5621bf4-34f3-4985-b524-8c424680d38e",
+        "name": "Leaf",
+        "rating": 24.953707639071762,
+        "trainer_id": "0dc4a16f-927f-41d7-bcf5-b338e590b5fa",
+        "trainer_name": "KodinGaming",
+        "result": "loss"
+      }
     }
   }
 }

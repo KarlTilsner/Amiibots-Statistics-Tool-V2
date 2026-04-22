@@ -752,6 +752,57 @@
         "trainer_name": "leCharade",
         "result": "loss"
       }
+    },
+    "2023-05-15T21:14:47.509722+00:00": {
+      "this_amiibo": {
+        "rating": 28.348810463417216,
+        "rating_mu": 31.98482144455595,
+        "rating_sigma": 1.2120036603795787,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "3d5bf73d-7d2e-433b-ac61-7b3e360a001a",
+        "name": "Subway",
+        "rating": 30.00612042519337,
+        "trainer_id": "0918eb1f-823d-4b61-8da3-387a14718ebf",
+        "trainer_name": "GamerJohn_",
+        "result": "win"
+      }
+    },
+    "2023-05-16T21:17:28.831200+00:00": {
+      "this_amiibo": {
+        "rating": 28.58140215519362,
+        "rating_mu": 32.17955276567787,
+        "rating_sigma": 1.199383536828083,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "cd076064-cdc7-4476-8c16-9edacff6d39f",
+        "name": "Lücus",
+        "rating": 28.870747161671982,
+        "trainer_id": "c4b64610-bef3-429c-a9db-6e6e4bc17e05",
+        "trainer_name": "sheepplant",
+        "result": "loss"
+      }
+    },
+    "2023-05-18T02:47:24.513031+00:00": {
+      "this_amiibo": {
+        "rating": 28.801018285123096,
+        "rating_mu": 32.363231062413774,
+        "rating_sigma": 1.1874042590968927,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "62a03a04-fa72-4346-b5a4-68566eb5ad3c",
+        "name": "BombVoyage",
+        "rating": 29.290960409741736,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "loss"
+      }
     }
   }
 }

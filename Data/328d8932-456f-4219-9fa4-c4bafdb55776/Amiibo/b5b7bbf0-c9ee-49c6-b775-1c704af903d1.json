@@ -6124,6 +6124,40 @@
         "trainer_name": "snevy_ssb",
         "result": "loss"
       }
+    },
+    "2023-05-20T04:56:36.998758+00:00": {
+      "this_amiibo": {
+        "rating": 28.301478045663828,
+        "rating_mu": 30.748299474093912,
+        "rating_sigma": 0.8156071428100286,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "6058b6d8-3d5b-4886-a20c-00ad7d3f9eab",
+        "name": "Hydrangea",
+        "rating": 23.153698910981753,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2023-05-20T13:24:29.570512+00:00": {
+      "this_amiibo": {
+        "rating": 28.35295536184737,
+        "rating_mu": 30.805814950390943,
+        "rating_sigma": 0.8176198628478565,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "6b622cb4-7f3d-46b3-a20f-025f8f06898e",
+        "name": "HO-HO",
+        "rating": 10.833317905923973,
+        "trainer_id": "558d6371-ada9-4c14-b300-5eecf975ef68",
+        "trainer_name": "deante_ssb",
+        "result": "loss"
+      }
     }
   }
 }
