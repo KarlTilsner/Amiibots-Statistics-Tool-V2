@@ -38,17 +38,21 @@ def fetch_matches():
         previous_cursor = pagination.get("cursor", {}).get("previous")
 
         # Store matches in the data_to_store dictionary, handling any potential issues with corrupt matches
+        skipcounter = 0
+        corruptcounter = 0
         for match in matches:
             if to_iso(match["created_at"]) <= to_iso(latest_scraped_match_date):
-                print("Reached matches that have already been scraped. Skipping match.")
+                skipcounter += 1
                 continue
 
             if match["winner_info"] is None and match["loser_info"] is None:
-                print("Skipping match with no winner or loser info.")
+                corruptcounter += 1
                 continue
 
             data_to_store.append(match)
 
+        print(f">>>> Reached {skipcounter} matches that have already been scraped.")
+        print(f">>>> Found {corruptcounter} matches")
         update_state()
 
     except Exception as e:
