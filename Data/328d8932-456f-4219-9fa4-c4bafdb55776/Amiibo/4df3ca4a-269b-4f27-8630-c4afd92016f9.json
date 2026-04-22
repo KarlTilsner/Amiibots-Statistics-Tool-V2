@@ -1,0 +1,43 @@
+{
+  "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+  "id": "4df3ca4a-269b-4f27-8630-c4afd92016f9",
+  "name": "Hero Flare",
+  "trainer_id": "bc1694aa-a544-452f-ab20-f308c36ae0c9",
+  "trainer_name": "blueflares1",
+  "matches": {
+    "2023-04-26T14:56:38.893176+00:00": {
+      "this_amiibo": {
+        "rating": 0.11917811190433625,
+        "rating_mu": 19.027965276590525,
+        "rating_sigma": 6.3029290548953965,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "8897ddd4-439f-41a3-b072-d9235ca085da",
+        "name": "So Mac!",
+        "rating": 17.740128640335513,
+        "trainer_id": "614b04cd-0374-4a8b-a0cf-293709a624d7",
+        "trainer_name": "Zecnode",
+        "result": "win"
+      }
+    },
+    "2023-05-10T09:19:43.167124+00:00": {
+      "this_amiibo": {
+        "rating": 4.52298777696965,
+        "rating_mu": 21.31800435009997,
+        "rating_sigma": 5.5983388577101065,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "c04718e2-ca30-421e-a63e-34c05bfde497",
+        "name": "Satanael",
+        "rating": -1.2366072580696912,
+        "trainer_id": "690ab18e-fdac-4267-84c7-b624388b4692",
+        "trainer_name": "yoyoshi22",
+        "result": "loss"
+      }
+    }
+  }
+}

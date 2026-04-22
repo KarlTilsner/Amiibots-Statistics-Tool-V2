@@ -1925,6 +1925,40 @@
         "trainer_name": "wizard_real",
         "result": "win"
       }
+    },
+    "2023-04-23T08:46:01.760962+00:00": {
+      "this_amiibo": {
+        "rating": 30.570780666069403,
+        "rating_mu": 33.283338689023985,
+        "rating_sigma": 0.9041860076515271,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "a87acca8-24f8-408c-a0c7-2fbf2945181a",
+        "name": "Dwayne",
+        "rating": 32.25479921454777,
+        "trainer_id": "4bdb229d-51e8-43ec-a2d3-8ceb540f9ced",
+        "trainer_name": "cramorant_is_hungry",
+        "result": "win"
+      }
+    },
+    "2023-05-09T02:12:18.740247+00:00": {
+      "this_amiibo": {
+        "rating": 30.68853887118906,
+        "rating_mu": 33.39317548510826,
+        "rating_sigma": 0.9015455379730662,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "700a304d-a429-45c7-bdce-a2ca7d81fbe9",
+        "name": "Doc Ock",
+        "rating": 29.346529294012385,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "loss"
+      }
     }
   }
 }

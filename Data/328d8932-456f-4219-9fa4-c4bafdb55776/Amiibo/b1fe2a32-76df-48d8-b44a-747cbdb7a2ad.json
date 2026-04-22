@@ -191,6 +191,57 @@
         "trainer_name": "bosn23",
         "result": "loss"
       }
+    },
+    "2023-04-24T08:51:15.077890+00:00": {
+      "this_amiibo": {
+        "rating": 28.31662854179993,
+        "rating_mu": 35.146235527939524,
+        "rating_sigma": 2.2765356620465322,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "a87acca8-24f8-408c-a0c7-2fbf2945181a",
+        "name": "Dwayne",
+        "rating": 32.64806169699426,
+        "trainer_id": "4bdb229d-51e8-43ec-a2d3-8ceb540f9ced",
+        "trainer_name": "cramorant_is_hungry",
+        "result": "win"
+      }
+    },
+    "2023-04-24T17:34:40.098477+00:00": {
+      "this_amiibo": {
+        "rating": 29.247031199381272,
+        "rating_mu": 35.796891313882,
+        "rating_sigma": 2.1832867048335762,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "81712b81-f83f-4044-b382-6232f905daf6",
+        "name": "Peter",
+        "rating": 32.66122091588818,
+        "trainer_id": "fff1df31-fc68-4fba-8d11-7e4016df1268",
+        "trainer_name": "patspatchgaming_yt",
+        "result": "loss"
+      }
+    },
+    "2023-04-24T20:53:20.539871+00:00": {
+      "this_amiibo": {
+        "rating": 28.801478733280838,
+        "rating_mu": 35.0916982275875,
+        "rating_sigma": 2.0967398314355545,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "9bbf7ddd-ac6a-4330-a31f-4607da524ffe",
+        "name": "DatingSim",
+        "rating": 30.64651959711817,
+        "trainer_id": "8a479357-a5de-4f56-8700-0d1a85c3d46b",
+        "trainer_name": "OmenApproaching",
+        "result": "win"
+      }
     }
   }
 }

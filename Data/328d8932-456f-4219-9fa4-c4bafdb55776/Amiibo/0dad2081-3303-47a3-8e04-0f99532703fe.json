@@ -72,6 +72,40 @@
         "trainer_name": "leCharade",
         "result": "loss"
       }
+    },
+    "2023-04-23T03:17:42.123474+00:00": {
+      "this_amiibo": {
+        "rating": 2.5998823367630006,
+        "rating_mu": 14.804692029685992,
+        "rating_sigma": 4.068269897640997,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "75db3dfb-a17d-4dc7-a2b5-29a5d985881c",
+        "name": "Sayonara",
+        "rating": 15.453912306315328,
+        "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
+        "trainer_name": "schmorchid",
+        "result": "win"
+      }
+    },
+    "2023-05-10T06:03:15.169990+00:00": {
+      "this_amiibo": {
+        "rating": 2.120838100306818,
+        "rating_mu": 13.475608266652003,
+        "rating_sigma": 3.784923388781728,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "92dbdf62-9254-4285-9d33-e3b497b64ee8",
+        "name": "Arizona",
+        "rating": 5.392627186300242,
+        "trainer_id": "6dc742b4-3fe4-4c3a-8d77-81dde5ea3025",
+        "trainer_name": "ShiiroNekowo",
+        "result": "win"
+      }
     }
   }
 }
