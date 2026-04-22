@@ -344,6 +344,40 @@
         "trainer_name": "track8regret",
         "result": "loss"
       }
+    },
+    "2023-04-15T20:59:14.725157+00:00": {
+      "this_amiibo": {
+        "rating": 19.612011700667075,
+        "rating_mu": 24.80590452063265,
+        "rating_sigma": 1.7312976066551926,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "fb1fda64-234f-491f-a76c-32c79f559340",
+        "name": "GetSERIOUS",
+        "rating": 16.223166451760463,
+        "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
+        "trainer_name": "Sirffuzzylogik",
+        "result": "loss"
+      }
+    },
+    "2023-04-22T02:11:58.144562+00:00": {
+      "this_amiibo": {
+        "rating": 19.311845673787253,
+        "rating_mu": 24.37444051653246,
+        "rating_sigma": 1.6875316142484023,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "330207ed-7de8-4c32-8b61-36725851af6c",
+        "name": "Bungee",
+        "rating": 21.559830710568832,
+        "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
+        "trainer_name": "Lucina_Nadine",
+        "result": "win"
+      }
     }
   }
 }

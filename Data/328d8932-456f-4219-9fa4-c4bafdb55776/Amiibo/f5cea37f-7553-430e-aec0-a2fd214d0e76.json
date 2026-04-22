@@ -21,6 +21,57 @@
         "trainer_name": "mf_dimi",
         "result": "loss"
       }
+    },
+    "2023-04-18T01:52:52.579650+00:00": {
+      "this_amiibo": {
+        "rating": 19.39025655699615,
+        "rating_mu": 32.02723160623902,
+        "rating_sigma": 4.21232501641429,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "20af6141-472a-4c61-8de9-ecbef91704aa",
+        "name": "monday man",
+        "rating": 30.40089317127247,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HD_ssbu",
+        "result": "win"
+      }
+    },
+    "2023-04-17T23:20:49.404383+00:00": {
+      "this_amiibo": {
+        "rating": 20.30889163018568,
+        "rating_mu": 35.318837735135894,
+        "rating_sigma": 5.003315368316738,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "42990a07-0421-4ac9-a939-aa05c0f52076",
+        "name": "Darth Sion",
+        "rating": 30.006106951675456,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "loss"
+      }
+    },
+    "2023-04-19T23:34:32.554687+00:00": {
+      "this_amiibo": {
+        "rating": 18.97639545493709,
+        "rating_mu": 30.404333962676972,
+        "rating_sigma": 3.809312835913293,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "405652d6-57e8-497e-8185-90aceef27ad4",
+        "name": "Assassin",
+        "rating": 26.735953464510587,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
     }
   }
 }

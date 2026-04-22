@@ -429,6 +429,40 @@
         "trainer_name": "Reo21000",
         "result": "loss"
       }
+    },
+    "2023-04-15T00:33:25.194430+00:00": {
+      "this_amiibo": {
+        "rating": 11.707110291847052,
+        "rating_mu": 16.662595566279137,
+        "rating_sigma": 1.651828424810695,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "5890bf1d-d800-43b2-b876-6fe965259798",
+        "name": "LoneSword",
+        "rating": 14.759361688997732,
+        "trainer_id": "fdef585b-96e2-4ebe-93c3-82641f2cefd3",
+        "trainer_name": "yendekai",
+        "result": "win"
+      }
+    },
+    "2023-04-15T16:52:59.808537+00:00": {
+      "this_amiibo": {
+        "rating": 12.054255794223074,
+        "rating_mu": 16.95472222667465,
+        "rating_sigma": 1.6334888108171919,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "98e6b28c-c1e8-4974-9d75-42f1b8c4f656",
+        "name": "Freddy",
+        "rating": -0.6877008943044167,
+        "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
+        "trainer_name": "leCharade",
+        "result": "loss"
+      }
     }
   }
 }
