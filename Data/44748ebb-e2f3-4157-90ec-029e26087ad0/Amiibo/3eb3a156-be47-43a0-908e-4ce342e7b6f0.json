@@ -72,6 +72,40 @@
         "trainer_name": "cramorant_is_hungry",
         "result": "loss"
       }
+    },
+    "2021-02-01T01:26:39.190806+00:00": {
+      "this_amiibo": {
+        "rating": 13.914345936706438,
+        "rating_mu": 25.827568303606682,
+        "rating_sigma": 3.9710741223000814,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "ee5cf22c-fb64-4533-844c-68dcac90ac0e",
+        "name": "Blue",
+        "rating": 24.320469188884523,
+        "trainer_id": "3605a786-32a1-41fb-b184-d117ec5e1782",
+        "trainer_name": "jredskins",
+        "result": "win"
+      }
+    },
+    "2021-02-01T05:21:27.819501+00:00": {
+      "this_amiibo": {
+        "rating": 13.89738379222749,
+        "rating_mu": 24.970264440716424,
+        "rating_sigma": 3.6909602161629778,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "51f4f207-8ea1-48ba-8ff6-8691589020d7",
+        "name": "Medli",
+        "rating": 28.710154457426064,
+        "trainer_id": "60cc23aa-c39d-49e0-b13d-13e205d499bd",
+        "trainer_name": "youaregoknba",
+        "result": "win"
+      }
     }
   }
 }
