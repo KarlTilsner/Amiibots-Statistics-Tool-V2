@@ -786,6 +786,40 @@
         "trainer_name": "Azend_1",
         "result": "win"
       }
+    },
+    "2023-04-14T02:35:02.874613+00:00": {
+      "this_amiibo": {
+        "rating": 31.702428417421096,
+        "rating_mu": 35.17613128232161,
+        "rating_sigma": 1.1579009549668389,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "4c0ecc48-e1bc-4128-84d8-3212555dc36b",
+        "name": "S. Goodman",
+        "rating": 31.353425314999114,
+        "trainer_id": "f346091f-8917-49bc-b479-b0c568026dbf",
+        "trainer_name": "RazorForce21",
+        "result": "loss"
+      }
+    },
+    "2023-04-14T00:55:28.888791+00:00": {
+      "this_amiibo": {
+        "rating": 31.496149207295552,
+        "rating_mu": 35.0018371087769,
+        "rating_sigma": 1.168562633827115,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "2554a66e-d7f7-4c12-814f-b8ca677b3b3c",
+        "name": "Yuno",
+        "rating": 32.93364289127475,
+        "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
+        "trainer_name": "wyvernfalcon",
+        "result": "win"
+      }
     }
   }
 }

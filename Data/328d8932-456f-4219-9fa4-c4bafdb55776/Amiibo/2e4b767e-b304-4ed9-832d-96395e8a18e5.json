@@ -191,6 +191,40 @@
         "trainer_name": "iguyw",
         "result": "loss"
       }
+    },
+    "2023-04-13T22:22:00.734175+00:00": {
+      "this_amiibo": {
+        "rating": 18.39203714950233,
+        "rating_mu": 25.216919148030698,
+        "rating_sigma": 2.274960666176123,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "1fb2b125-2897-4659-ac82-cddc28ce746d",
+        "name": "INGSCI",
+        "rating": 11.388368290800308,
+        "trainer_id": "a3502dff-9fb2-4950-9ac1-819049ef7ff3",
+        "trainer_name": "beast_sagington",
+        "result": "win"
+      }
+    },
+    "2023-04-14T19:56:26.304433+00:00": {
+      "this_amiibo": {
+        "rating": 18.879411890322018,
+        "rating_mu": 25.605809165469292,
+        "rating_sigma": 2.242132425049092,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "f776ef98-3c5d-4cca-97df-a1af9e865ec0",
+        "name": "Big X",
+        "rating": 0.44546123083110345,
+        "trainer_id": "e4931ae7-1311-40d6-811c-354742e96bc0",
+        "trainer_name": "atomic_salvy",
+        "result": "loss"
+      }
     }
   }
 }
