@@ -191,6 +191,40 @@
         "trainer_name": "Azend_1",
         "result": "loss"
       }
+    },
+    "2023-04-11T16:46:16.062680+00:00": {
+      "this_amiibo": {
+        "rating": 24.554691950235505,
+        "rating_mu": 31.872050274099998,
+        "rating_sigma": 2.4391194412881645,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "c159b58f-fcaa-4858-a461-8a34ff148395",
+        "name": "Dexter",
+        "rating": 11.676848905886125,
+        "trainer_id": "62b3b451-2ded-4a7e-bcac-ab768ccfbe26",
+        "trainer_name": "capt_cacdi",
+        "result": "loss"
+      }
+    },
+    "2023-04-11T14:37:57.958172+00:00": {
+      "this_amiibo": {
+        "rating": 23.850405243466103,
+        "rating_mu": 31.346728977960787,
+        "rating_sigma": 2.4987745781648947,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "70956e1d-97fd-4b7b-b06c-5cfbaa186736",
+        "name": "GG",
+        "rating": 24.895293771265788,
+        "trainer_id": "8e290d89-5484-46ab-b222-914c45b7b11c",
+        "trainer_name": "pixel_gunners",
+        "result": "win"
+      }
     }
   }
 }

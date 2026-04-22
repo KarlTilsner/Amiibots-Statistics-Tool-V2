@@ -1262,6 +1262,57 @@
         "trainer_name": "toonlinktroll",
         "result": "loss"
       }
+    },
+    "2023-04-13T00:40:21.177183+00:00": {
+      "this_amiibo": {
+        "rating": 30.048333294507827,
+        "rating_mu": 33.04896589344969,
+        "rating_sigma": 1.0002108663139544,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "42990a07-0421-4ac9-a939-aa05c0f52076",
+        "name": "Darth Sion",
+        "rating": 29.26059428924504,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2023-04-13T05:19:05.594471+00:00": {
+      "this_amiibo": {
+        "rating": 30.107894608323072,
+        "rating_mu": 33.0782820340861,
+        "rating_sigma": 0.9901291419210098,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "6f7d9fce-4668-4e7c-a53f-d5faba861b94",
+        "name": "Ferno",
+        "rating": 29.864653071714383,
+        "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
+        "trainer_name": "gotelin_",
+        "result": "loss"
+      }
+    },
+    "2023-04-13T04:17:37.631406+00:00": {
+      "this_amiibo": {
+        "rating": 29.945700194328914,
+        "rating_mu": 32.932507501964764,
+        "rating_sigma": 0.9956024358786173,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "42990a07-0421-4ac9-a939-aa05c0f52076",
+        "name": "Darth Sion",
+        "rating": 29.633533871259228,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
     }
   }
 }

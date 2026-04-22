@@ -463,6 +463,40 @@
         "trainer_name": "zmantheoverpowered",
         "result": "loss"
       }
+    },
+    "2023-04-12T03:38:27.024179+00:00": {
+      "this_amiibo": {
+        "rating": 23.199324889745775,
+        "rating_mu": 27.971109541317425,
+        "rating_sigma": 1.5905948838572161,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "848a7d03-e516-4dc0-899b-7e9c373bfe28",
+        "name": "Vanilla",
+        "rating": 26.138241446571968,
+        "trainer_id": "3c6a2558-822c-45dc-9c83-95b524978633",
+        "trainer_name": "0ccactuss0",
+        "result": "win"
+      }
+    },
+    "2023-04-12T15:41:53.912793+00:00": {
+      "this_amiibo": {
+        "rating": 23.621823639968724,
+        "rating_mu": 28.30463849463502,
+        "rating_sigma": 1.5609382848887658,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "0d224de1-1be2-496d-91f3-8247c8e9db00",
+        "name": "Mari",
+        "rating": 21.643638338655045,
+        "trainer_id": "8b58def7-f142-4a59-b1d1-322b89f76a74",
+        "trainer_name": "t_newcomer",
+        "result": "loss"
+      }
     }
   }
 }

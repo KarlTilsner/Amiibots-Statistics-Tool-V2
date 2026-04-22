@@ -718,6 +718,40 @@
         "trainer_name": "gotelin_",
         "result": "loss"
       }
+    },
+    "2023-04-11T12:50:04.505320+00:00": {
+      "this_amiibo": {
+        "rating": 31.07176676329406,
+        "rating_mu": 34.824659926095485,
+        "rating_sigma": 1.2509643876004743,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "4fa30746-f51c-44ef-b5a0-a39a328219af",
+        "name": "Dessert",
+        "rating": 33.60838483723004,
+        "trainer_id": "e09adf1e-56b7-4943-891c-141f18d440fc",
+        "trainer_name": "gold_dxj",
+        "result": "win"
+      }
+    },
+    "2023-04-12T22:22:43.924348+00:00": {
+      "this_amiibo": {
+        "rating": 31.198373761616423,
+        "rating_mu": 34.92550759285415,
+        "rating_sigma": 1.2423779437459095,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "b3e49c09-9f1a-4f2f-8980-0c9845d3306f",
+        "name": "Rebellious",
+        "rating": 24.903447385306926,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "loss"
+      }
     }
   }
 }
