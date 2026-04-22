@@ -25,26 +25,26 @@ jobs:
         run: |
           pip install requests
 
-      # - name: Run script
-      #   run: python Data_Collection/main_fetching.py
+      - name: Run script
+        run: python Data_Collection/main_fetching.py
 
-      # - name: Commit updated data
-      #   run: |
-      #     git config user.name "github-actions"
-      #     git config user.email "actions@github.com"
-      #     git add -A
-      #     git diff --cached --quiet && echo "No changes to commit" && exit 0
-      #     git commit -m "Added new data from Amiibots"
-      #     git push
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Added new data from Amiibots"
+          git push
 
-      # - name: Run script
-      #   run: python Data_Processing/main_processing.py
+      - name: Run script
+        run: python Data_Processing/main_processing.py
 
-      # - name: Commit updated data
-      #   run: |
-      #     git config user.name "github-actions"
-      #     git config user.email "actions@github.com"
-      #     git add -A
-      #     git diff --cached --quiet && echo "No changes to commit" && exit 0
-      #     git commit -m "Processed new data"
-      #     git push
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add -A
+          git diff --cached --quiet && echo "No changes to commit" && exit 0
+          git commit -m "Processed new data"
+          git push

@@ -144,8 +144,8 @@ def main(ruleset):
     ruleset_id = ruleset
     data_to_store = []
 
-    for _ in range(10):  # Loop to fetch multiple pages of matches
-        print(f"Fetching {num_matches} matches: {_ + 1}/10")
+    for _ in range(50):  # Loop to fetch multiple pages of matches
+        print(f"Fetching {num_matches} matches: {_ + 1}/50")
         start_fetching()
 
     create_json()
