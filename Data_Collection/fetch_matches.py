@@ -11,7 +11,8 @@ data_to_store = []
 num_matches = 100
 ruleset_id = None
 
-
+skipcounter = 0
+corruptcounter = 0
 
 def fetch_matches():
     global previous_cursor, latest_scraped_match_date
@@ -38,8 +39,6 @@ def fetch_matches():
         previous_cursor = pagination.get("cursor", {}).get("previous")
 
         # Store matches in the data_to_store dictionary, handling any potential issues with corrupt matches
-        skipcounter = 0
-        corruptcounter = 0
         for match in matches:
             if to_iso(match["created_at"]) <= to_iso(latest_scraped_match_date):
                 skipcounter += 1
@@ -51,8 +50,6 @@ def fetch_matches():
 
             data_to_store.append(match)
 
-        print(f">>>> Reached {skipcounter} matches that have already been scraped.")
-        print(f">>>> Found {corruptcounter} matches")
         update_state()
 
     except Exception as e:
@@ -151,6 +148,9 @@ def main(ruleset):
     for _ in range(50):  # Loop to fetch multiple pages of matches
         print(f"Fetching {num_matches} matches: {_ + 1}/50")
         start_fetching()
+
+    print(f"Reached {skipcounter} matches that have already been scraped.")
+    print(f"Found {corruptcounter} corrupt matches")
 
     create_json()
 
