@@ -429,6 +429,40 @@
         "trainer_name": "knowinape",
         "result": "loss"
       }
+    },
+    "2021-01-30T03:16:43.217384+00:00": {
+      "this_amiibo": {
+        "rating": 22.64626240613079,
+        "rating_mu": 27.839874448956184,
+        "rating_sigma": 1.7312040142751313,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "ca81e362-f82d-4c63-96d0-c790991407be",
+        "name": "Sakura",
+        "rating": 26.58896522075484,
+        "trainer_id": "93f967b4-5933-4e9b-9f67-3d16fd17437f",
+        "trainer_name": "glitched_artist",
+        "result": "win"
+      }
+    },
+    "2021-01-30T09:12:30.104206+00:00": {
+      "this_amiibo": {
+        "rating": 22.878395096751127,
+        "rating_mu": 27.997241824926988,
+        "rating_sigma": 1.706282242725287,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "5163e9f6-b60f-4937-9fc6-d266e6e8c21c",
+        "name": "BigBrain",
+        "rating": 18.663671647268835,
+        "trainer_id": "3f22c3b9-ea0e-4ad5-8e22-0f90eb4d6915",
+        "trainer_name": "capnhicks",
+        "result": "loss"
+      }
     }
   }
 }

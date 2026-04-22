@@ -548,6 +548,40 @@
         "trainer_name": "temp_anon",
         "result": "win"
       }
+    },
+    "2021-01-30T15:33:15.838895+00:00": {
+      "this_amiibo": {
+        "rating": 19.37764435187645,
+        "rating_mu": 23.74688782658181,
+        "rating_sigma": 1.4564144915684525,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "fe8b3abe-7076-4ca0-bd32-37b6d1aef9c5",
+        "name": "Squishy",
+        "rating": 19.699136337843203,
+        "trainer_id": "3e1642f4-3a61-4225-bd2d-d551616be0fa",
+        "trainer_name": "doopfizzle",
+        "result": "win"
+      }
+    },
+    "2021-01-30T21:28:03.297189+00:00": {
+      "this_amiibo": {
+        "rating": 19.812410304995993,
+        "rating_mu": 24.10616331600372,
+        "rating_sigma": 1.4312510036692416,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
+        "id": "eb8cebae-846a-4aa2-8b63-cb7c1ad44826",
+        "name": "TransRghts",
+        "rating": 19.90252865654636,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "loss"
+      }
     }
   }
 }

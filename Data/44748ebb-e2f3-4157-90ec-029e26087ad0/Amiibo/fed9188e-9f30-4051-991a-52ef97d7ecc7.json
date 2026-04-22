@@ -1721,6 +1721,40 @@
         "trainer_name": "ScroogeMcDuk",
         "result": "loss"
       }
+    },
+    "2021-01-30T05:56:09.049871+00:00": {
+      "this_amiibo": {
+        "rating": 22.985983394202215,
+        "rating_mu": 25.843626581228648,
+        "rating_sigma": 0.9525477290088107,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "6333aa0a-b799-43d6-8cd0-6bd101ef9b88",
+        "name": "ROB-O",
+        "rating": 24.53241885005876,
+        "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
+        "trainer_name": "nozzly",
+        "result": "win"
+      }
+    },
+    "2021-01-30T13:33:55.332428+00:00": {
+      "this_amiibo": {
+        "rating": 23.210034681939035,
+        "rating_mu": 26.051128521361672,
+        "rating_sigma": 0.9470312798075452,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "0df48c9c-d50a-426d-9668-7e6725f78c63",
+        "name": "McDonald's",
+        "rating": 26.523360621262256,
+        "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
+        "trainer_name": "apple_beebs",
+        "result": "loss"
+      }
     }
   }
 }

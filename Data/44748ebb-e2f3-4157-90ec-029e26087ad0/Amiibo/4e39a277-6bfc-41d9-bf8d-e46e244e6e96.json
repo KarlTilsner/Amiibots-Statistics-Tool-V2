@@ -1517,6 +1517,40 @@
         "trainer_name": "green_magician",
         "result": "loss"
       }
+    },
+    "2021-01-30T07:12:42.556832+00:00": {
+      "this_amiibo": {
+        "rating": 28.967882332361544,
+        "rating_mu": 31.991617174643345,
+        "rating_sigma": 1.007911614093934,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "49dcfca1-44dc-4f6e-a438-6b0ae0deb085",
+        "name": "Omar",
+        "rating": 19.19845748068068,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "staples___",
+        "result": "win"
+      }
+    },
+    "2021-01-30T17:07:29.256071+00:00": {
+      "this_amiibo": {
+        "rating": 29.038254001230904,
+        "rating_mu": 32.05431306955924,
+        "rating_sigma": 1.0053530227761136,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "d8192f3c-db66-46ae-a3dd-4d68ffff2f99",
+        "name": "Dennis",
+        "rating": 22.971298701639313,
+        "trainer_id": "5a135aa7-b12a-44a0-b70e-2167dc7ce12c",
+        "trainer_name": "BearSnackMedia",
+        "result": "loss"
+      }
     }
   }
 }

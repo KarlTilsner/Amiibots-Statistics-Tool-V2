@@ -293,6 +293,40 @@
         "trainer_name": "CraigUK37",
         "result": "loss"
       }
+    },
+    "2021-01-30T10:16:13.640820+00:00": {
+      "this_amiibo": {
+        "rating": 17.013313018394015,
+        "rating_mu": 23.653357055143495,
+        "rating_sigma": 2.213348012249827,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "0df48c9c-d50a-426d-9668-7e6725f78c63",
+        "name": "McDonald's",
+        "rating": 25.99127079359159,
+        "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
+        "trainer_name": "apple_beebs",
+        "result": "win"
+      }
+    },
+    "2021-01-30T18:38:29.114523+00:00": {
+      "this_amiibo": {
+        "rating": 18.50664274290441,
+        "rating_mu": 24.826341901020232,
+        "rating_sigma": 2.1065663860386064,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "0df48c9c-d50a-426d-9668-7e6725f78c63",
+        "name": "McDonald's",
+        "rating": 25.94482338185064,
+        "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
+        "trainer_name": "apple_beebs",
+        "result": "loss"
+      }
     }
   }
 }

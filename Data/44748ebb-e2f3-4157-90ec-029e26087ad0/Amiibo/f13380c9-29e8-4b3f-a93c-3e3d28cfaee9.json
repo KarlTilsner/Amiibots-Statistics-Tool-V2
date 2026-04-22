@@ -1,7 +1,7 @@
 {
   "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
   "id": "f13380c9-29e8-4b3f-a93c-3e3d28cfaee9",
-  "name": "Baalsamem",
+  "name": "Baalshamin",
   "trainer_id": "e128e4c8-61ed-4890-87ed-5122450d8b28",
   "trainer_name": "Rehshef",
   "matches": {
@@ -37,6 +37,23 @@
         "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
         "trainer_name": "Renegade_Marbles",
         "result": "loss"
+      }
+    },
+    "2021-01-30T04:45:19.143966+00:00": {
+      "this_amiibo": {
+        "rating": 10.141009074077713,
+        "rating_mu": 23.470095970248547,
+        "rating_sigma": 4.443028965390278,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "10325aa3-4439-4999-8f48-412586821f2f",
+        "name": "Chungus",
+        "rating": 25.914511827426146,
+        "trainer_id": "ab4f37d8-cc78-43da-97be-708516d98233",
+        "trainer_name": "tschmid22",
+        "result": "win"
       }
     }
   }

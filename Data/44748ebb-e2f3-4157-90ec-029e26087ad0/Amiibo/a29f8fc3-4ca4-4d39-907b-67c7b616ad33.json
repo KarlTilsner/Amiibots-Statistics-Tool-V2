@@ -225,6 +225,57 @@
         "trainer_name": "temp_anon",
         "result": "loss"
       }
+    },
+    "2021-01-30T14:43:59.456713+00:00": {
+      "this_amiibo": {
+        "rating": 21.271360541064993,
+        "rating_mu": 29.32067628733454,
+        "rating_sigma": 2.6831052487565152,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "1526ee75-5eb7-4f23-89cb-ec54a059b79f",
+        "name": "DookyNukem",
+        "rating": 25.20996585439335,
+        "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+        "trainer_name": "fammydamammy",
+        "result": "win"
+      }
+    },
+    "2021-01-30T20:18:38.095794+00:00": {
+      "this_amiibo": {
+        "rating": 21.00620167582122,
+        "rating_mu": 28.215631009064815,
+        "rating_sigma": 2.403143111081198,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
+        "id": "5271506d-2fd9-43a7-800e-200c1bd1ad49",
+        "name": "AenarionJr",
+        "rating": 21.20198481011111,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "flareofstars",
+        "result": "loss"
+      }
+    },
+    "2021-01-30T17:01:53.287539+00:00": {
+      "this_amiibo": {
+        "rating": 20.209987826318514,
+        "rating_mu": 27.71129881866047,
+        "rating_sigma": 2.500436997447319,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "faa94f7f-26b0-4b02-8f78-54aa69af51f9",
+        "name": "Egg",
+        "rating": 20.334885358971018,
+        "trainer_id": "fd2be56f-b542-4651-9b7e-94a43c060a58",
+        "trainer_name": "TheoreticalMyth",
+        "result": "win"
+      }
     }
   }
 }
