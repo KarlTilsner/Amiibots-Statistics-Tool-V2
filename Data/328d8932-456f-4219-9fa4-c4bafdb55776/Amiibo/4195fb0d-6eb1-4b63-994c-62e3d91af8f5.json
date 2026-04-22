@@ -123,6 +123,40 @@
         "trainer_name": "spike2the9th",
         "result": "loss"
       }
+    },
+    "2023-03-08T14:57:34.314053+00:00": {
+      "this_amiibo": {
+        "rating": 12.590034930782522,
+        "rating_mu": 22.51685197033626,
+        "rating_sigma": 3.3089390131845784,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "247a3bba-6d37-4a97-9529-ac06f1023c40",
+        "name": "Society",
+        "rating": 17.964651955056937,
+        "trainer_id": "0fb55565-9a16-4eaf-9ae8-e089b432d6f0",
+        "trainer_name": "sdm_ranch",
+        "result": "win"
+      }
+    },
+    "2023-03-11T10:29:50.450742+00:00": {
+      "this_amiibo": {
+        "rating": 13.886361392053647,
+        "rating_mu": 23.487708406270368,
+        "rating_sigma": 3.200449004738907,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "c7cfc57b-c7e6-4139-ad64-696ca071de07",
+        "name": "Louka",
+        "rating": -0.3154359835082623,
+        "trainer_id": "6dc742b4-3fe4-4c3a-8d77-81dde5ea3025",
+        "trainer_name": "ShiiroNekowo",
+        "result": "loss"
+      }
     }
   }
 }

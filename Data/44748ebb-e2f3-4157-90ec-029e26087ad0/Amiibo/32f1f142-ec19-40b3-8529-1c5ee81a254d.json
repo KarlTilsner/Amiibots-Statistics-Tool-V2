@@ -1,0 +1,43 @@
+{
+  "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+  "id": "32f1f142-ec19-40b3-8529-1c5ee81a254d",
+  "name": "Agent 3",
+  "trainer_id": "007f0154-70c5-4781-87aa-e020b2fd5452",
+  "trainer_name": "dirty_meme1",
+  "matches": {
+    "2021-01-31T10:03:34.745313+00:00": {
+      "this_amiibo": {
+        "rating": -1.2127930867302474,
+        "rating_mu": 19.376991163757147,
+        "rating_sigma": 6.863261416829132,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "f570abb3-7800-43a3-a686-f6cdcdc4ad45",
+        "name": "Falcon",
+        "rating": 7.194249324667101,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "Renegade_Marbles",
+        "result": "win"
+      }
+    },
+    "2021-01-31T19:15:25.004125+00:00": {
+      "this_amiibo": {
+        "rating": -1.4967332056100418,
+        "rating_mu": 17.329423324561077,
+        "rating_sigma": 6.275385510057039,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "e4496c77-a433-4208-b710-2421014c0fb9",
+        "name": "Hunter",
+        "rating": 6.250367592471687,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "Renegade_Marbles",
+        "result": "win"
+      }
+    }
+  }
+}

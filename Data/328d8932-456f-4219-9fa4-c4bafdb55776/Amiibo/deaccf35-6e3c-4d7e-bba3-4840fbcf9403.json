@@ -344,6 +344,40 @@
         "trainer_name": "PortalScout2004",
         "result": "loss"
       }
+    },
+    "2023-03-06T04:51:22.152022+00:00": {
+      "this_amiibo": {
+        "rating": 16.551767721824902,
+        "rating_mu": 22.068837333838715,
+        "rating_sigma": 1.839023204004605,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "efa62791-57c3-46fd-bfd2-d11e87495abb",
+        "name": "Ivan Drago",
+        "rating": 20.181148295837144,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "win"
+      }
+    },
+    "2023-03-10T02:23:42.305855+00:00": {
+      "this_amiibo": {
+        "rating": 17.250229959849232,
+        "rating_mu": 22.603361678036453,
+        "rating_sigma": 1.7843772393957404,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "e88ce1de-1e52-40f1-9f9b-9f2504b41530",
+        "name": "Minerva",
+        "rating": 21.17449576662798,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "loss"
+      }
     }
   }
 }

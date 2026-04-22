@@ -2078,6 +2078,40 @@
         "trainer_name": "nozomup",
         "result": "loss"
       }
+    },
+    "2023-03-05T17:13:46.807582+00:00": {
+      "this_amiibo": {
+        "rating": 33.542828482126936,
+        "rating_mu": 36.27533773210884,
+        "rating_sigma": 0.9108364166606349,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
+        "name": "Hero",
+        "rating": 34.32849687286388,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "win"
+      }
+    },
+    "2023-03-05T13:15:18.036780+00:00": {
+      "this_amiibo": {
+        "rating": 33.64157513389193,
+        "rating_mu": 36.38281560325948,
+        "rating_sigma": 0.913746823122515,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "fa730e6a-e102-4c03-89fa-0552d4304bc1",
+        "name": "Seolahh",
+        "rating": 33.79846161009762,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "loss"
+      }
     }
   }
 }

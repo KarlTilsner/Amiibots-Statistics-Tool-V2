@@ -2265,6 +2265,40 @@
         "trainer_name": "HD_ssbu",
         "result": "loss"
       }
+    },
+    "2023-03-06T15:21:53.535305+00:00": {
+      "this_amiibo": {
+        "rating": 29.220720197262033,
+        "rating_mu": 31.80180390841284,
+        "rating_sigma": 0.8603612370502689,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "577b601f-e75f-4401-9ac8-e1c34c731faa",
+        "name": "Darth Sion",
+        "rating": 29.774235488866033,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2023-03-10T19:33:52.119945+00:00": {
+      "this_amiibo": {
+        "rating": 29.119861951775924,
+        "rating_mu": 31.695381777829063,
+        "rating_sigma": 0.8585066086843799,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "24abca9e-ba91-4c4b-84fc-81a9015cdb12",
+        "name": "Slingshot",
+        "rating": 28.923417363404713,
+        "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
+        "trainer_name": "YM44",
+        "result": "win"
+      }
     }
   }
 }

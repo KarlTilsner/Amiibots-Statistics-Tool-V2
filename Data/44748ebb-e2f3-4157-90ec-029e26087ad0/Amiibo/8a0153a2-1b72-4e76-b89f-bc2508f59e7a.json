@@ -684,6 +684,40 @@
         "trainer_name": "gotelin_",
         "result": "loss"
       }
+    },
+    "2021-01-31T15:21:20.938233+00:00": {
+      "this_amiibo": {
+        "rating": 25.97078141847077,
+        "rating_mu": 30.051789265340954,
+        "rating_sigma": 1.3603359489567273,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "4e39a277-6bfc-41d9-bf8d-e46e244e6e96",
+        "name": "NAIR",
+        "rating": 29.155354651588038,
+        "trainer_id": "8f5a6657-738e-4f3b-a7d9-114cb8a0ebc6",
+        "trainer_name": "meleewaluigi",
+        "result": "win"
+      }
+    },
+    "2021-01-31T18:38:49.977120+00:00": {
+      "this_amiibo": {
+        "rating": 26.154875969734512,
+        "rating_mu": 30.193347257623874,
+        "rating_sigma": 1.3461570959631202,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "ebefdbda-b1ec-48f4-a762-47621102812e",
+        "name": "Misneach",
+        "rating": 23.812995886563435,
+        "trainer_id": "78058de3-e8d4-4a0a-a333-11d0a5901cdd",
+        "trainer_name": "onyxlouise",
+        "result": "loss"
+      }
     }
   }
 }

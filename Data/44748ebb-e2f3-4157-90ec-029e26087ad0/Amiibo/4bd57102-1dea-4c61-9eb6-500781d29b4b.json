@@ -1568,6 +1568,40 @@
         "trainer_name": "nonSenseTaco",
         "result": "loss"
       }
+    },
+    "2021-01-31T13:00:18.943964+00:00": {
+      "this_amiibo": {
+        "rating": 20.8063127344414,
+        "rating_mu": 23.731408403735106,
+        "rating_sigma": 0.9750318897645693,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "2cf88bfe-7d62-4046-b3c6-35e12a4ec150",
+        "name": "Mochi",
+        "rating": 21.27874226467131,
+        "trainer_id": "73ed9260-7617-4ae1-a395-7e0ddb479057",
+        "trainer_name": "CupNoodle",
+        "result": "win"
+      }
+    },
+    "2021-01-31T09:49:49.992036+00:00": {
+      "this_amiibo": {
+        "rating": 20.9232709170506,
+        "rating_mu": 23.863128643167105,
+        "rating_sigma": 0.9799525753721682,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "ce3414e0-2242-4fdb-8b76-2a3f2e59116a",
+        "name": "ASMR",
+        "rating": 25.929071336194767,
+        "trainer_id": "8c8215a3-3883-42c6-92ac-9871c24c8093",
+        "trainer_name": "peace_love_metal",
+        "result": "win"
+      }
     }
   }
 }
