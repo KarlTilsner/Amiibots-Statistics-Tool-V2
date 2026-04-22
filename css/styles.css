@@ -167,8 +167,7 @@ div.header {
 
 
 .search_history_button {
-    margin: auto;
-    margin-right: 0;
+    margin: auto 1rem auto 2rem;
     transition: var(--theme-transition-speed);
 }
 
@@ -183,6 +182,25 @@ div.header {
     height: 3rem;
 }
 
+.rulesetSelect {
+    width: auto;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+.rulesetDropdownMenu {
+    color: white;
+    background-color: var(--main-background-colour);
+    padding: 0.5rem;
+    border: var(--theme-border);
+    border-color: var(--theme-border-colour);
+    border-radius: var(--border-radius);
+}
+
+.rulesetDropdownMenu:hover {
+    cursor: pointer;
+}
 
 
 

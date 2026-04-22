@@ -4,6 +4,7 @@ window.onload = function () {
     window.localStorage.setItem('SortType', 'sort_by_alphabetical');
     window.localStorage.setItem('', 'sort_by_alphabetical');
     highlightSortButton('sort_by_alphabetical');
+
     getAllCharacters();
 };
 
@@ -68,7 +69,6 @@ async function getAllCharacters() {
 // AMIIBO MATCHUP CHART DATA
 //--------------------------------------------------------------------------------------------------------------------------------------------------------- 
 async function characterMatchup(selectedOption) {
-
     let combinedAmiibotsMatchData = [];
 
     // reset elements if this function is called
@@ -109,13 +109,11 @@ async function characterMatchup(selectedOption) {
     // AMIIBO MATCHUP CHART CODE
     //---------------------------------------------------------------------------------------------------------------------------------------------------------
     async function createMatchupChart() {
-
         // Push specific amiibo data into array for matchup chart
-        const matchups_query = await fetch('./Data/44748ebb-e2f3-4157-90ec-029e26087ad0/matchups.json');
+        const matchups_query = await fetch(`./Data/${window.localStorage.getItem('Global_Ruleset')}/matchups.json`);
         const matchups_data = await matchups_query.json();
 
-
-        console.log("🚀 ~ createMatchupChart ~ matchups_data:", matchups_data);
+        console.log("matchups_data:", matchups_data);
 
         // Data for amiibo card
         let specified_character_rating = 0;
@@ -161,14 +159,14 @@ async function characterMatchup(selectedOption) {
 
     // HIGHEST RATING HISTORY CODE
     //---------------------------------------------------------------------------------------------------------------------------------------------------------
-    async function createHighestRatingHistoryChart() {
+    async function createHighestRatingHistoryChart(RULESET_ID) {
         document.getElementById('rating_history_chart_title').innerText = `Rating History of: ${specifiedCharacter_name}`;
         highestRatedHistory = [];
 
         // Push specified amiibo data into array for rating history chart
-        const rating_history_query = await fetch(`./Data/44748ebb-e2f3-4157-90ec-029e26087ad0/Rating_History/${specifiedCharacter_name} Rating History.json`);
+        const rating_history_query = await fetch(`./Data/${window.localStorage.getItem('Global_Ruleset')}/Rating_History/${specifiedCharacter_name} Rating History.json`);
         const rating_history_data = await rating_history_query.json();
-        console.log("🚀 ~ createHighestRatingHistoryChart ~ rating_history_data:", rating_history_data);
+        console.log("rating_history_data:", rating_history_data);
 
         // get highest rating
         let highest_rating = 0;
@@ -179,17 +177,6 @@ async function characterMatchup(selectedOption) {
             }
             highestRatedHistory.push(v);
         });
-
-
-        // rating_history_data.rating_history.map(index => {
-        //     if (index.rating > highest_rating) {
-        //         highest_rating = index.rating;
-        //         document.getElementById('list_rating').innerText = highest_rating.toFixed(3);
-        //     }
-        //     highestRatedHistory.push(index);
-        // });
-
-
 
         // get most dominant player for the character
         function topPlayers() {
@@ -287,10 +274,6 @@ async function characterMatchup(selectedOption) {
         Object.entries(rating_history_data.rating_history).forEach(([k, v]) => {
             xAxis_weeks.push(k);
         });
-
-        // for (let i = 0; i < highestRatedHistory.length; i++) {
-        //     xAxis_weeks.push(highestRatedHistory[i].current_week);
-        // }
 
         // get random colours for each trainer
         let randomBorderColour = 0;
