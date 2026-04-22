@@ -1,7 +1,7 @@
 {
   "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
   "id": "0d224de1-1be2-496d-91f3-8247c8e9db00",
-  "name": "E621",
+  "name": "Mari",
   "trainer_id": "8b58def7-f142-4a59-b1d1-322b89f76a74",
   "trainer_name": "t_newcomer",
   "matches": {
@@ -530,6 +530,57 @@
         "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
         "trainer_name": "gotelin_",
         "result": "loss"
+      }
+    },
+    "2023-01-24T22:05:58.460909+00:00": {
+      "this_amiibo": {
+        "rating": 21.263576532012124,
+        "rating_mu": 29.442853417626875,
+        "rating_sigma": 2.72642562853825,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "a0e1f027-b0b0-4c5b-8b44-eb236a7a12e6",
+        "name": "Top G",
+        "rating": 26.673798092708367,
+        "trainer_id": "c3ef73c8-30ee-488b-955a-a3b0706ef3b6",
+        "trainer_name": "slimsyt4",
+        "result": "win"
+      }
+    },
+    "2023-01-25T10:40:05.946520+00:00": {
+      "this_amiibo": {
+        "rating": 22.46994658863816,
+        "rating_mu": 30.223787690118876,
+        "rating_sigma": 2.5846137004935716,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "3e8409c6-b935-48d7-a998-844730a8d84a",
+        "name": "Cioccolata",
+        "rating": 24.69230830333188,
+        "trainer_id": "259c6c07-f590-4aba-8069-85a64f78c6f3",
+        "trainer_name": "massivmann",
+        "result": "loss"
+      }
+    },
+    "2023-01-30T04:42:16.611224+00:00": {
+      "this_amiibo": {
+        "rating": 22.020167795654917,
+        "rating_mu": 29.40627601594781,
+        "rating_sigma": 2.4620360734309648,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "ae1e684f-552a-4619-b1a4-999c52dd427a",
+        "name": "chυsσr",
+        "rating": 24.042279048383776,
+        "trainer_id": "777d12f5-fc42-4921-adbb-e0038cb093e2",
+        "trainer_name": "Halyaran",
+        "result": "win"
       }
     }
   }

@@ -4713,6 +4713,40 @@
         "trainer_name": "cloin",
         "result": "win"
       }
+    },
+    "2021-01-11T23:00:33.016557+00:00": {
+      "this_amiibo": {
+        "rating": 26.497287089924786,
+        "rating_mu": 29.03526025506746,
+        "rating_sigma": 0.8459910550475577,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "c604d381-2c60-45c5-a49d-a18dcd2d5d3f",
+        "name": "Not Mario",
+        "rating": 25.075271401354673,
+        "trainer_id": "1a40b865-6138-4324-b2d6-f23b1fb07270",
+        "trainer_name": "Linkushi_mario",
+        "result": "win"
+      }
+    },
+    "2021-01-19T15:27:11.044008+00:00": {
+      "this_amiibo": {
+        "rating": 26.548827379443182,
+        "rating_mu": 29.0880254750314,
+        "rating_sigma": 0.8463993651960735,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "495976c6-2505-4680-8ff5-1bdf6e0a6a08",
+        "name": "Machu",
+        "rating": 17.98444479455685,
+        "trainer_id": "180df160-b67f-470f-8ddb-1cfba1202adb",
+        "trainer_name": "over_9000_ping",
+        "result": "loss"
+      }
     }
   }
 }

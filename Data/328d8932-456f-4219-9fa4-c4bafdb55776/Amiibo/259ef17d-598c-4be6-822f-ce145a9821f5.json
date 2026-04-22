@@ -123,6 +123,74 @@
         "trainer_name": "pixel_gunners",
         "result": "loss"
       }
+    },
+    "2023-01-04T19:28:37.333835+00:00": {
+      "this_amiibo": {
+        "rating": -0.9483047472353316,
+        "rating_mu": 8.272880673625838,
+        "rating_sigma": 3.07372847362039,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "9ab85c5f-e133-45da-9da7-56e80eff136c",
+        "name": "Sparky",
+        "rating": 8.80710540178038,
+        "trainer_id": "b341d599-da55-4bdf-be0d-cd5c49049f0c",
+        "trainer_name": "promadebison",
+        "result": "win"
+      }
+    },
+    "2023-01-07T03:13:06.530458+00:00": {
+      "this_amiibo": {
+        "rating": 1.1119967827652264,
+        "rating_mu": 9.515074229481948,
+        "rating_sigma": 2.8010258155722405,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "21fdb427-49bc-436f-bd6b-2042c8c00a1a",
+        "name": "LewdWeeg",
+        "rating": -3.3738908440656914,
+        "trainer_id": "9ab00719-f6c9-4b32-94fe-fa00b3bcf87a",
+        "trainer_name": "ZuupMummy",
+        "result": "loss"
+      }
+    },
+    "2023-01-06T23:19:25.664059+00:00": {
+      "this_amiibo": {
+        "rating": 0.24397788056761804,
+        "rating_mu": 9.002073975432692,
+        "rating_sigma": 2.9193653649550244,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "21fdb427-49bc-436f-bd6b-2042c8c00a1a",
+        "name": "LewdWeeg",
+        "rating": -3.036124566246248,
+        "trainer_id": "9ab00719-f6c9-4b32-94fe-fa00b3bcf87a",
+        "trainer_name": "ZuupMummy",
+        "result": "loss"
+      }
+    },
+    "2023-02-02T11:21:52.469037+00:00": {
+      "this_amiibo": {
+        "rating": 0.827832899493206,
+        "rating_mu": 8.814681507410782,
+        "rating_sigma": 2.6622828693058587,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "36f588d1-229e-4530-8b44-489793d1c347",
+        "name": "metroid",
+        "rating": 7.426700914845991,
+        "trainer_id": "7f8b89a3-9146-4112-be99-17d04b41118f",
+        "trainer_name": "27masonp",
+        "result": "win"
+      }
     }
   }
 }

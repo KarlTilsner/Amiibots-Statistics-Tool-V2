@@ -123,6 +123,40 @@
         "trainer_name": "carbon_show",
         "result": "win"
       }
+    },
+    "2021-01-15T09:50:49.324719+00:00": {
+      "this_amiibo": {
+        "rating": 18.882336891809633,
+        "rating_mu": 27.827589335166756,
+        "rating_sigma": 2.9817508144523748,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "adcc7263-b818-43b8-a257-1d630590d6f5",
+        "name": "Wisdom",
+        "rating": 29.156726915093397,
+        "trainer_id": "8f5a6657-738e-4f3b-a7d9-114cb8a0ebc6",
+        "trainer_name": "meleewaluigi",
+        "result": "win"
+      }
+    },
+    "2021-01-15T21:44:10.154007+00:00": {
+      "this_amiibo": {
+        "rating": 20.36430524676455,
+        "rating_mu": 28.773703167154526,
+        "rating_sigma": 2.8031326401299923,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "d8192f3c-db66-46ae-a3dd-4d68ffff2f99",
+        "name": "Dennis",
+        "rating": 21.706670306341728,
+        "trainer_id": "5a135aa7-b12a-44a0-b70e-2167dc7ce12c",
+        "trainer_name": "BearSnackMedia",
+        "result": "loss"
+      }
     }
   }
 }

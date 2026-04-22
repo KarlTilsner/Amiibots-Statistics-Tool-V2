@@ -1517,6 +1517,40 @@
         "trainer_name": "wizard_real",
         "result": "loss"
       }
+    },
+    "2023-01-05T07:34:49.113787+00:00": {
+      "this_amiibo": {
+        "rating": 25.31881147618112,
+        "rating_mu": 28.317079262972968,
+        "rating_sigma": 0.9994225955972821,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "aad1771d-67b1-4bce-a291-46479d6f3692",
+        "name": "Argyle AL",
+        "rating": 24.19180258529999,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "loss"
+      }
+    },
+    "2023-01-05T04:06:52.560794+00:00": {
+      "this_amiibo": {
+        "rating": 25.158930009136213,
+        "rating_mu": 28.17372395355925,
+        "rating_sigma": 1.0049313148076784,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "fe7b6c8b-616a-45ba-af05-e1c7744cf2b7",
+        "name": "DrRobotnik",
+        "rating": 23.533117162360185,
+        "trainer_id": "26cad4d1-9d7d-457c-b6e3-6a285e74f071",
+        "trainer_name": "toonlinktroll",
+        "result": "win"
+      }
     }
   }
 }

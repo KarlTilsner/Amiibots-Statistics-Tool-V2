@@ -361,6 +361,57 @@
         "trainer_name": "someguy_456",
         "result": "loss"
       }
+    },
+    "2023-01-07T18:00:18.963408+00:00": {
+      "this_amiibo": {
+        "rating": 27.371208930544206,
+        "rating_mu": 32.469537323300315,
+        "rating_sigma": 1.6994427975853692,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "6a04a55c-c478-45c8-b82c-b581c527f103",
+        "name": "Tower",
+        "rating": 29.848414310719566,
+        "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+        "trainer_name": "fammydamammy",
+        "result": "win"
+      }
+    },
+    "2023-01-27T18:11:50.068391+00:00": {
+      "this_amiibo": {
+        "rating": 27.011461361544686,
+        "rating_mu": 32.00721537143313,
+        "rating_sigma": 1.66525133662948,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "31aba3b2-a6e7-4acb-9bca-ebc8d4dfbe4e",
+        "name": "Scar",
+        "rating": 21.44164093289515,
+        "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
+        "trainer_name": "rurpking22",
+        "result": "win"
+      }
+    },
+    "2023-01-31T06:11:11.640714+00:00": {
+      "this_amiibo": {
+        "rating": 27.50015598305808,
+        "rating_mu": 32.39407563086019,
+        "rating_sigma": 1.6313065492673708,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "0ac91353-3c5e-4a69-89e5-e2d9bd151f4d",
+        "name": "Riddles Jr",
+        "rating": 25.134359059806208,
+        "trainer_id": "c72590ae-93c9-4132-99b2-b8f957919ed3",
+        "trainer_name": "Leonard_Lauryn",
+        "result": "loss"
+      }
     }
   }
 }
