@@ -446,6 +446,40 @@
         "trainer_name": "OmenApproaching",
         "result": "loss"
       }
+    },
+    "2023-05-13T06:18:23.723708+00:00": {
+      "this_amiibo": {
+        "rating": 31.736448566301974,
+        "rating_mu": 36.444405638099816,
+        "rating_sigma": 1.5693190239326147,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
+        "name": "Hero",
+        "rating": 33.02588810812373,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "loss"
+      }
+    },
+    "2023-05-14T12:10:48.615756+00:00": {
+      "this_amiibo": {
+        "rating": 31.48425339596663,
+        "rating_mu": 36.09633021611609,
+        "rating_sigma": 1.5373589400498193,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
+        "name": "Hero",
+        "rating": 33.45903752198177,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "win"
+      }
     }
   }
 }

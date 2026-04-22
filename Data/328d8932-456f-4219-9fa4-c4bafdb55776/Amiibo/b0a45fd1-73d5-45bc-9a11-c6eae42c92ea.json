@@ -3319,6 +3319,40 @@
         "trainer_name": "22_woah",
         "result": "loss"
       }
+    },
+    "2023-05-13T00:47:08.296440+00:00": {
+      "this_amiibo": {
+        "rating": 29.68506993749973,
+        "rating_mu": 32.21267497774898,
+        "rating_sigma": 0.8425350134164171,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
+        "name": "Hero",
+        "rating": 33.06025727699163,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "win"
+      }
+    },
+    "2023-05-13T10:29:35.569473+00:00": {
+      "this_amiibo": {
+        "rating": 29.571040187348313,
+        "rating_mu": 32.093352123260615,
+        "rating_sigma": 0.840770645304101,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "5ba32368-9a82-485a-a991-d3f384563398",
+        "name": "Reinhardt",
+        "rating": 27.985938426251312,
+        "trainer_id": "7ff68788-3366-489f-9efd-bb3c16421574",
+        "trainer_name": "VocalFan",
+        "result": "win"
+      }
     }
   }
 }

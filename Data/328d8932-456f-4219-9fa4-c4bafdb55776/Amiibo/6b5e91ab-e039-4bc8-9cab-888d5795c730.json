@@ -242,6 +242,57 @@
         "trainer_name": "aarsters",
         "result": "loss"
       }
+    },
+    "2023-05-13T19:10:14.379457+00:00": {
+      "this_amiibo": {
+        "rating": 18.16233302146422,
+        "rating_mu": 25.4645341545955,
+        "rating_sigma": 2.4340670443770933,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "8d796b9a-7e2f-407a-9bb7-8122e30784ef",
+        "name": "Bebop",
+        "rating": 18.443423424811634,
+        "trainer_id": "558d6371-ada9-4c14-b300-5eecf975ef68",
+        "trainer_name": "deante_ssb",
+        "result": "win"
+      }
+    },
+    "2023-05-14T07:47:37.606894+00:00": {
+      "this_amiibo": {
+        "rating": 19.095367769532807,
+        "rating_mu": 26.08799298263937,
+        "rating_sigma": 2.3308750710355213,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
+        "id": "14651fb9-1a63-4ed1-8863-48e702203892",
+        "name": "Dreadmus",
+        "rating": 20.895693168068316,
+        "trainer_id": "de8bfcb6-60de-48e2-8a23-31517707e203",
+        "trainer_name": "nam_nmad",
+        "result": "loss"
+      }
+    },
+    "2023-05-14T13:25:33.325803+00:00": {
+      "this_amiibo": {
+        "rating": 18.514592891084583,
+        "rating_mu": 25.169019434816665,
+        "rating_sigma": 2.2181421812440267,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "4ff8ec58-d09d-48ff-9458-712bc6205a14",
+        "name": "Janie",
+        "rating": 21.091369848951604,
+        "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
+        "trainer_name": "spike2the9th",
+        "result": "win"
+      }
     }
   }
 }

@@ -2758,6 +2758,57 @@
         "trainer_name": "capt_cacdi",
         "result": "loss"
       }
+    },
+    "2023-05-12T23:18:55.398641+00:00": {
+      "this_amiibo": {
+        "rating": 29.682317173466583,
+        "rating_mu": 32.204026399208104,
+        "rating_sigma": 0.8405697419138404,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "bc323fbd-ae41-4d7e-b7c6-2b1261576461",
+        "name": "Peter",
+        "rating": 30.750225741698046,
+        "trainer_id": "a9ec9d87-61e1-4c87-be6d-3442cf3a59d4",
+        "trainer_name": "bluerunner0",
+        "result": "win"
+      }
+    },
+    "2023-05-13T21:14:34.330654+00:00": {
+      "this_amiibo": {
+        "rating": 29.707982568610053,
+        "rating_mu": 32.226900500363264,
+        "rating_sigma": 0.8396393105844039,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
+        "name": "Hero",
+        "rating": 33.11754674931026,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "win"
+      }
+    },
+    "2023-05-13T20:15:46.769022+00:00": {
+      "this_amiibo": {
+        "rating": 29.76613409327007,
+        "rating_mu": 32.2853248710927,
+        "rating_sigma": 0.8397302592742084,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "61b90f5f-8d85-47fa-af0a-89e6d5135413",
+        "name": "sams",
+        "rating": 28.29779284833203,
+        "trainer_id": "e8c228c8-a377-4a5c-91ba-4ab8238a4023",
+        "trainer_name": "MrSmart13579",
+        "result": "loss"
+      }
     }
   }
 }

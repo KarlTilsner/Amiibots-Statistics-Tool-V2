@@ -378,6 +378,57 @@
         "trainer_name": "nozomup",
         "result": "loss"
       }
+    },
+    "2023-05-12T17:33:35.327185+00:00": {
+      "this_amiibo": {
+        "rating": 28.9673305145918,
+        "rating_mu": 34.000662524537404,
+        "rating_sigma": 1.6777773366485351,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
+        "name": "Hero",
+        "rating": 33.03001396244999,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "win"
+      }
+    },
+    "2023-05-13T13:06:15.529375+00:00": {
+      "this_amiibo": {
+        "rating": 28.639781751998296,
+        "rating_mu": 33.548294535586564,
+        "rating_sigma": 1.6361709278627563,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "4d91c55c-ef83-438f-946f-a280259908f8",
+        "name": "CaptainKid",
+        "rating": 29.88049965619106,
+        "trainer_id": "6a92a875-ad10-4927-9ac9-43f4cea3e878",
+        "trainer_name": "ArkansasAFC",
+        "result": "win"
+      }
+    },
+    "2023-05-14T23:00:38.263211+00:00": {
+      "this_amiibo": {
+        "rating": 29.21980897006881,
+        "rating_mu": 34.00959697860052,
+        "rating_sigma": 1.596596002843903,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
+        "name": "Hero",
+        "rating": 33.4116547469103,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "loss"
+      }
     }
   }
 }

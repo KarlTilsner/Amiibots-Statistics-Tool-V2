@@ -480,6 +480,40 @@
         "trainer_name": "nam_nmad",
         "result": "loss"
       }
+    },
+    "2023-05-13T08:37:13.662388+00:00": {
+      "this_amiibo": {
+        "rating": 15.830371267693852,
+        "rating_mu": 20.608509502325457,
+        "rating_sigma": 1.5927127448772018,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "320c42cb-69d0-4104-843f-e00482fd977a",
+        "name": "Cobbler",
+        "rating": 14.213319690426164,
+        "trainer_id": "8b58def7-f142-4a59-b1d1-322b89f76a74",
+        "trainer_name": "t_newcomer",
+        "result": "win"
+      }
+    },
+    "2023-05-13T15:03:22.887827+00:00": {
+      "this_amiibo": {
+        "rating": 16.190327612969227,
+        "rating_mu": 20.893002788689707,
+        "rating_sigma": 1.567558391906826,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+        "id": "fecc635d-7eca-4af1-b79f-86f3ea1e8f4d",
+        "name": "ChefBazo",
+        "rating": 10.536720267658023,
+        "trainer_id": "faf132fe-f69f-4bbc-b0d9-6d9808d36439",
+        "trainer_name": "AnimeGamer77318",
+        "result": "loss"
+      }
     }
   }
 }

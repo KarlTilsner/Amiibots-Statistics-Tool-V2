@@ -16919,6 +16919,57 @@
         "trainer_name": "track8regret",
         "result": "loss"
       }
+    },
+    "2023-05-13T21:32:45.771372+00:00": {
+      "this_amiibo": {
+        "rating": 24.199115565470557,
+        "rating_mu": 26.707095534254165,
+        "rating_sigma": 0.8359933229278693,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "a97a3c14-ecd6-4529-9807-1a9222f8fc9e",
+        "name": "Yharon",
+        "rating": 26.01607991037458,
+        "trainer_id": "bd4dae24-8e9d-4665-9e4c-e39b115b825a",
+        "trainer_name": "WoopalotlSSBU",
+        "result": "win"
+      }
+    },
+    "2023-05-14T13:21:16.196878+00:00": {
+      "this_amiibo": {
+        "rating": 24.229709872978088,
+        "rating_mu": 26.72952263582628,
+        "rating_sigma": 0.8332709209493981,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "d3baf93e-1a9d-4e24-89d7-751a8a89a952",
+        "name": "Persona 5",
+        "rating": 25.736202506160957,
+        "trainer_id": "43e9b485-c8e8-4d9a-bf5f-4f51c5cae826",
+        "trainer_name": "tapumasu",
+        "result": "loss"
+      }
+    },
+    "2023-05-14T11:40:25.186499+00:00": {
+      "this_amiibo": {
+        "rating": 24.106978457811703,
+        "rating_mu": 26.61151954809232,
+        "rating_sigma": 0.8348470300935399,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "f4292ac1-7e69-44af-adb6-08fd01f787c0",
+        "name": "KingSlayer",
+        "rating": 24.212595203251393,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "win"
+      }
     }
   }
 }
