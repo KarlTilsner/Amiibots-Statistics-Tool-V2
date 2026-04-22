@@ -1007,6 +1007,57 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2023-01-05T08:27:32.752286+00:00": {
+      "this_amiibo": {
+        "rating": 28.13462218071446,
+        "rating_mu": 31.43246020641858,
+        "rating_sigma": 1.0992793419013736,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "416f980a-d94b-4f7d-ab6d-23dd58392ee8",
+        "name": "Demise",
+        "rating": 28.31049099363809,
+        "trainer_id": "1e848987-e461-41be-81f8-21c8c405b511",
+        "trainer_name": "907Colton",
+        "result": "win"
+      }
+    },
+    "2023-01-08T23:49:53.000754+00:00": {
+      "this_amiibo": {
+        "rating": 28.31619456863513,
+        "rating_mu": 31.589502917564168,
+        "rating_sigma": 1.0911027829763464,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "8d07ec09-1af1-43fe-9280-e5ee2555ac5d",
+        "name": "Cap. Sokka",
+        "rating": 27.178069143088614,
+        "trainer_id": "80f98683-a318-47dd-bcf2-93f67d0878d4",
+        "trainer_name": "Sir_Dragonite",
+        "result": "loss"
+      }
+    },
+    "2023-02-01T17:32:34.481814+00:00": {
+      "this_amiibo": {
+        "rating": 28.186514898672485,
+        "rating_mu": 31.436400441731177,
+        "rating_sigma": 1.0832951810195646,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "8238a48a-50a0-4dcb-8871-a9df7c268a9d",
+        "name": "Cyanide",
+        "rating": 27.748860700520005,
+        "trainer_id": "74b11748-df73-4895-a914-7f048a54ecc8",
+        "trainer_name": "Dempsey342",
+        "result": "win"
+      }
     }
   }
 }

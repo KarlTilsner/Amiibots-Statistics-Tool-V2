@@ -1,7 +1,7 @@
 {
   "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
   "id": "5b15cded-9573-47e3-a132-5baf5ad9db57",
-  "name": "1950's Elf",
+  "name": "Explorer",
   "trainer_id": "8b58def7-f142-4a59-b1d1-322b89f76a74",
   "trainer_name": "t_newcomer",
   "matches": {
@@ -54,6 +54,57 @@
         "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
         "trainer_name": "SG_Bubs",
         "result": "loss"
+      }
+    },
+    "2023-01-04T19:19:52.309865+00:00": {
+      "this_amiibo": {
+        "rating": 12.01508703566797,
+        "rating_mu": 25.304717819133327,
+        "rating_sigma": 4.429876927821786,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "1eda75d8-b1c4-496d-aad3-56818d99eee5",
+        "name": "Father",
+        "rating": 23.488593453627516,
+        "trainer_id": "4345ecdf-2886-46de-b0e4-755576321316",
+        "trainer_name": "mariocraft6000",
+        "result": "win"
+      }
+    },
+    "2023-01-27T08:48:56.271070+00:00": {
+      "this_amiibo": {
+        "rating": 15.39594088548587,
+        "rating_mu": 27.205017729918257,
+        "rating_sigma": 3.936358948144129,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "f26a8f85-0360-4f60-8191-ec00dc7117d7",
+        "name": "Lily Marie",
+        "rating": 19.33789277844617,
+        "trainer_id": "990b4da9-c224-4edf-be2f-5f47cca12e69",
+        "trainer_name": "splatdude35",
+        "result": "loss"
+      }
+    },
+    "2023-01-31T02:33:23.113578+00:00": {
+      "this_amiibo": {
+        "rating": 15.272918655877968,
+        "rating_mu": 26.15635914548369,
+        "rating_sigma": 3.627813496535241,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "d08d197e-353f-4f0f-9d6a-eddbf1308432",
+        "name": "Kapre",
+        "rating": 27.95269710367411,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "win"
       }
     }
   }

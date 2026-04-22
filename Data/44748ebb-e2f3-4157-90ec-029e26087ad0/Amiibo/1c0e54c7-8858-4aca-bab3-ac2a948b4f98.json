@@ -1755,6 +1755,40 @@
         "trainer_name": "random_fire",
         "result": "loss"
       }
+    },
+    "2021-01-11T09:26:45.421011+00:00": {
+      "this_amiibo": {
+        "rating": 20.166196859485986,
+        "rating_mu": 23.22747284354926,
+        "rating_sigma": 1.0204253280210913,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "a6b899c9-f811-4f00-9cbd-6e44251c6f14",
+        "name": "Tropicana",
+        "rating": 28.186760869526996,
+        "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
+        "trainer_name": "apple_beebs",
+        "result": "win"
+      }
+    },
+    "2021-01-11T12:50:28.817800+00:00": {
+      "this_amiibo": {
+        "rating": 20.33402585475941,
+        "rating_mu": 23.376852775117513,
+        "rating_sigma": 1.0142756401193678,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "ce277cec-2d69-41c5-b8ce-d230e7a4905a",
+        "name": "Salmondorf",
+        "rating": 19.980454385310292,
+        "trainer_id": "62b02980-cc2d-4396-a9fa-610aec10ec5e",
+        "trainer_name": "lozlover",
+        "result": "loss"
+      }
     }
   }
 }

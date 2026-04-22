@@ -21,6 +21,40 @@
         "trainer_name": "qscxz512",
         "result": "loss"
       }
+    },
+    "2021-01-10T20:01:21.071092+00:00": {
+      "this_amiibo": {
+        "rating": 14.10921034606897,
+        "rating_mu": 32.05326824479762,
+        "rating_sigma": 5.98135263290955,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "28a9e9f8-bf2a-4ac8-887b-b2a4f3ff685f",
+        "name": "Lux",
+        "rating": -1.1925637113843983,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "loss"
+      }
+    },
+    "2021-01-18T19:42:17.863763+00:00": {
+      "this_amiibo": {
+        "rating": 12.143711129354521,
+        "rating_mu": 27.384851624678657,
+        "rating_sigma": 5.080380165108045,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "f54e33fa-d7ee-4316-bc58-90ebc4a05e97",
+        "name": "HoldingOut",
+        "rating": 14.855216494924111,
+        "trainer_id": "180df160-b67f-470f-8ddb-1cfba1202adb",
+        "trainer_name": "over_9000_ping",
+        "result": "win"
+      }
     }
   }
 }

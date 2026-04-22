@@ -1007,6 +1007,57 @@
         "trainer_name": "MiDe1",
         "result": "win"
       }
+    },
+    "2023-01-09T00:11:15.099777+00:00": {
+      "this_amiibo": {
+        "rating": 41.15286489382207,
+        "rating_mu": 44.363692919710196,
+        "rating_sigma": 1.070276008629375,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c91f2fa4-c625-4468-a59b-04f1e12a3797",
+        "name": "Stone Cold",
+        "rating": 40.89106360231322,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "win"
+      }
+    },
+    "2023-01-24T22:44:53.087153+00:00": {
+      "this_amiibo": {
+        "rating": 41.29127848506536,
+        "rating_mu": 44.48456416874058,
+        "rating_sigma": 1.0644285612250743,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "2b26bd2b-6ebc-429d-abaa-d290f8e365df",
+        "name": "Miyagi-Do",
+        "rating": 36.582583857630674,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "AmiibotsCurseDistributor_",
+        "result": "loss"
+      }
+    },
+    "2023-01-29T21:40:25.092856+00:00": {
+      "this_amiibo": {
+        "rating": 41.13429706012664,
+        "rating_mu": 44.30279802228467,
+        "rating_sigma": 1.0561669873860093,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c91f2fa4-c625-4468-a59b-04f1e12a3797",
+        "name": "Stone Cold",
+        "rating": 40.65530164749622,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "win"
+      }
     }
   }
 }

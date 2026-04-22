@@ -922,6 +922,40 @@
         "trainer_name": "StaplesTV_",
         "result": "loss"
       }
+    },
+    "2023-01-06T01:54:24.263304+00:00": {
+      "this_amiibo": {
+        "rating": 19.101679086973103,
+        "rating_mu": 23.843064047113547,
+        "rating_sigma": 1.5804616533801477,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "4d4749e8-ceba-4f71-9d36-015884114533",
+        "name": "Fister",
+        "rating": 20.666613023236916,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "win"
+      }
+    },
+    "2023-01-06T20:06:16.486407+00:00": {
+      "this_amiibo": {
+        "rating": 19.49124662977064,
+        "rating_mu": 24.141894084652918,
+        "rating_sigma": 1.550215818294093,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "4d4749e8-ceba-4f71-9d36-015884114533",
+        "name": "Fister",
+        "rating": 20.69467483981392,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "loss"
+      }
     }
   }
 }
