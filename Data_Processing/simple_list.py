@@ -4,8 +4,6 @@ import os
 
 
 def main(data, ruleset_id):
-    print("Processing simple lists")
-
     os.makedirs(f"Data/{ruleset_id}", exist_ok=True)  
 
     # Check if the list files exist
