@@ -6,6 +6,12 @@
   "trainer_name": "forenmagra",
   "matches": {
     "2020-05-10T06:39:27.812588+00:00": {
+      "this_amiibo": {
+        "rating": -0.18773019948609715,
+        "rating_mu": 18.15446722371124,
+        "rating_sigma": 6.1140658077324455,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
         "id": "288c6ead-3890-4f5d-b499-d71b1586bed9",
@@ -14,12 +20,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "migbui",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.18773019948609715,
-        "rating_mu": 18.15446722371124,
-        "rating_sigma": 6.1140658077324455,
-        "result": "loss"
       }
     }
   }

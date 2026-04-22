@@ -6,6 +6,12 @@
   "trainer_name": "nozsmash",
   "matches": {
     "2020-06-09T04:30:16.013823+00:00": {
+      "this_amiibo": {
+        "rating": 0.9402851955369123,
+        "rating_mu": 20.49762022609607,
+        "rating_sigma": 6.519111676853052,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "f435741c-b516-4b1c-a642-0adf2b2434de",
@@ -14,15 +20,15 @@
         "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
         "trainer_name": "Lady_Cucco",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9402851955369123,
-        "rating_mu": 20.49762022609607,
-        "rating_sigma": 6.519111676853052,
-        "result": "loss"
       }
     },
     "2020-06-09T08:21:01.100047+00:00": {
+      "this_amiibo": {
+        "rating": 1.7460315735062935,
+        "rating_mu": 16.700785459991685,
+        "rating_sigma": 4.984917962161798,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
         "id": "a70fbd05-1b53-427d-a746-888db9dc32c1",
@@ -31,15 +37,15 @@
         "trainer_id": "4994b4dd-52cc-4b67-bf51-07bcd8c806b3",
         "trainer_name": "supaytaita",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.7460315735062935,
-        "rating_mu": 16.700785459991685,
-        "rating_sigma": 4.984917962161798,
-        "result": "loss"
       }
     },
     "2020-06-09T04:51:35.765330+00:00": {
+      "this_amiibo": {
+        "rating": 1.3566170992460727,
+        "rating_mu": 17.764799198420615,
+        "rating_sigma": 5.4693940330581805,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e2531ffe-e834-49ae-b233-56386472a6ed",
         "id": "7e6cb38a-574f-4746-8260-2a04586d5eb7",
@@ -48,12 +54,6 @@
         "trainer_id": "9e8a6dc5-1e8a-4e52-8e6c-dbd866f14fd4",
         "trainer_name": "kaizo_and_friends_live",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.3566170992460727,
-        "rating_mu": 17.764799198420615,
-        "rating_sigma": 5.4693940330581805,
-        "result": "loss"
       }
     },
     "2020-06-09T16:18:20.791471+00:00": {
@@ -91,6 +91,12 @@
       }
     },
     "2020-06-09T14:28:35.531376+00:00": {
+      "this_amiibo": {
+        "rating": 2.0002734942896847,
+        "rating_mu": 16.07872739006624,
+        "rating_sigma": 4.692817965258852,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "0b756102-16f5-47ba-9214-2732923bdc0e",
@@ -99,12 +105,6 @@
         "trainer_id": "a6686cbf-503b-4a02-94b1-a5147b9d08ed",
         "trainer_name": "Armored_Sage",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 2.0002734942896847,
-        "rating_mu": 16.07872739006624,
-        "rating_sigma": 4.692817965258852,
-        "result": "loss"
       }
     }
   }

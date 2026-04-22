@@ -23,6 +23,12 @@
       }
     },
     "2022-10-05T03:07:50.406471+00:00": {
+      "this_amiibo": {
+        "rating": 10.854147772297546,
+        "rating_mu": 26.611985190781407,
+        "rating_sigma": 5.252612472827954,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "24abca9e-ba91-4c4b-84fc-81a9015cdb12",
@@ -31,12 +37,108 @@
         "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
         "trainer_name": "YM44",
         "result": "win"
-      },
+      }
+    },
+    "2022-10-09T11:27:47.106883+00:00": {
       "this_amiibo": {
-        "rating": 10.854147772297546,
-        "rating_mu": 26.611985190781407,
-        "rating_sigma": 5.252612472827954,
+        "rating": 15.21878600495361,
+        "rating_mu": 28.860322021344704,
+        "rating_sigma": 4.547178672130364,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c9be4e8c-f23f-447a-858f-fe86cc3fc48a",
+        "name": "Fire Furry",
+        "rating": 20.772509144848286,
+        "trainer_id": "06f417e6-7ed4-4ca4-9721-521a9eb782c2",
+        "trainer_name": "hypercodec",
         "result": "loss"
+      }
+    },
+    "2022-10-10T00:16:36.725722+00:00": {
+      "this_amiibo": {
+        "rating": 15.095056831021985,
+        "rating_mu": 27.341219665625914,
+        "rating_sigma": 4.082054278201309,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "bc323fbd-ae41-4d7e-b7c6-2b1261576461",
+        "name": "Peter",
+        "rating": 28.156586336845947,
+        "trainer_id": "a9ec9d87-61e1-4c87-be6d-3442cf3a59d4",
+        "trainer_name": "bluerunner0",
+        "result": "win"
+      }
+    },
+    "2022-10-22T06:18:18.227923+00:00": {
+      "this_amiibo": {
+        "rating": 14.77697843937514,
+        "rating_mu": 26.23364679358855,
+        "rating_sigma": 3.8188894514044702,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "45d3e3b8-e945-46e1-af29-04b07d9cd82a",
+        "name": "GME",
+        "rating": 19.520481725856953,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "win"
+      }
+    },
+    "2022-11-04T01:46:53.250527+00:00": {
+      "this_amiibo": {
+        "rating": 14.497788912755514,
+        "rating_mu": 24.984588642827344,
+        "rating_sigma": 3.495599910023943,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "b09f30f6-a928-4ca7-8121-d834fcdc5aae",
+        "name": "Fre- uh oh",
+        "rating": 25.398115526974884,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
+        "result": "win"
+      }
+    },
+    "2022-11-15T07:09:00.310652+00:00": {
+      "this_amiibo": {
+        "rating": 16.83643821248687,
+        "rating_mu": 26.429901334930577,
+        "rating_sigma": 3.1978210408145697,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "4f9fab9b-fef5-4c8c-a1fc-6b873f73995c",
+        "name": "Bullet",
+        "rating": 21.83529224798109,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "loss"
+      }
+    },
+    "2022-12-08T04:55:47.808783+00:00": {
+      "this_amiibo": {
+        "rating": 16.106398509415186,
+        "rating_mu": 25.02951644675158,
+        "rating_sigma": 2.9743726457787973,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "04303f7c-d2d3-4610-b2d4-058f678c879c",
+        "name": "SlippyJolt",
+        "rating": 17.531460971154623,
+        "trainer_id": "737b125c-6dc9-418e-80cf-0dc6b78049cd",
+        "trainer_name": "flaminjolt",
+        "result": "win"
       }
     }
   }

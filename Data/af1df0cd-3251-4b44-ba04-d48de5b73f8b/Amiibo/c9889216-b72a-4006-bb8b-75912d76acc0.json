@@ -6,6 +6,12 @@
   "trainer_name": "MisterFunnymonkey",
   "matches": {
     "2023-02-25T09:54:33.149076+00:00": {
+      "this_amiibo": {
+        "rating": 0.12298846274643083,
+        "rating_mu": 18.71855567195791,
+        "rating_sigma": 6.198522403070492,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
         "id": "09411614-8982-4961-9974-ab064491f171",
@@ -14,12 +20,6 @@
         "trainer_id": "fdef585b-96e2-4ebe-93c3-82641f2cefd3",
         "trainer_name": "yendekai",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.12298846274643083,
-        "rating_mu": 18.71855567195791,
-        "rating_sigma": 6.198522403070492,
-        "result": "loss"
       }
     }
   }

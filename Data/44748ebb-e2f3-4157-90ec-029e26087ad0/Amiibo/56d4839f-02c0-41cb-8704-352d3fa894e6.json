@@ -6,6 +6,12 @@
   "trainer_name": "Kangoni",
   "matches": {
     "2020-11-25T06:20:43.428644+00:00": {
+      "this_amiibo": {
+        "rating": -0.21424145649836035,
+        "rating_mu": 18.06625768583455,
+        "rating_sigma": 6.09349971411097,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
         "id": "0ee49b45-955f-4890-a93f-461a8fc942ba",
@@ -14,15 +20,15 @@
         "trainer_id": "73ed9260-7617-4ae1-a395-7e0ddb479057",
         "trainer_name": "CupNoodle",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.21424145649836035,
-        "rating_mu": 18.06625768583455,
-        "rating_sigma": 6.09349971411097,
-        "result": "loss"
       }
     },
     "2020-11-25T13:31:37.796820+00:00": {
+      "this_amiibo": {
+        "rating": 0.258746977393546,
+        "rating_mu": 17.490571316374425,
+        "rating_sigma": 5.74394144632696,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
         "id": "ec4a2573-8b03-45fc-a17a-e44c628d90c5",
@@ -31,15 +37,15 @@
         "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
         "trainer_name": "Murbert_AM",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.258746977393546,
-        "rating_mu": 17.490571316374425,
-        "rating_sigma": 5.74394144632696,
-        "result": "loss"
       }
     },
     "2020-11-25T21:20:31.208563+00:00": {
+      "this_amiibo": {
+        "rating": 0.633074950532718,
+        "rating_mu": 16.156065662424393,
+        "rating_sigma": 5.174330237297225,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
         "id": "fe7f669a-6ecf-4970-a855-8a567c390f80",
@@ -48,15 +54,15 @@
         "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
         "trainer_name": "Competitively2",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.633074950532718,
-        "rating_mu": 16.156065662424393,
-        "rating_sigma": 5.174330237297225,
-        "result": "loss"
       }
     },
     "2020-11-27T04:04:03.665843+00:00": {
+      "this_amiibo": {
+        "rating": 0.9260233814351473,
+        "rating_mu": 15.72852624939496,
+        "rating_sigma": 4.934167622653271,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
         "id": "256d86c5-7039-420d-8de1-3a9bd55aef5a",
@@ -65,15 +71,15 @@
         "trainer_id": "842fd55b-5c9f-4914-820e-99639a5ccf96",
         "trainer_name": "littlefang__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9260233814351473,
-        "rating_mu": 15.72852624939496,
-        "rating_sigma": 4.934167622653271,
-        "result": "loss"
       }
     },
     "2020-11-27T08:48:57.548415+00:00": {
+      "this_amiibo": {
+        "rating": 1.1487940623130655,
+        "rating_mu": 15.262183141362737,
+        "rating_sigma": 4.704463026349891,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "438cb2b8-bf76-4168-bd10-939a14aff5f6",
@@ -82,12 +88,6 @@
         "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
         "trainer_name": "foamtray",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1487940623130655,
-        "rating_mu": 15.262183141362737,
-        "rating_sigma": 4.704463026349891,
-        "result": "loss"
       }
     }
   }

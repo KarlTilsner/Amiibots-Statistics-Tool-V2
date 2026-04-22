@@ -6,6 +6,12 @@
   "trainer_name": "LunagradeTV",
   "matches": {
     "2022-04-29T20:26:36.822000+00:00": {
+      "this_amiibo": {
+        "rating": 1.0038871245792897,
+        "rating_mu": 20.779510891089988,
+        "rating_sigma": 6.591874588836899,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
         "id": "3bf61dc1-c341-45da-b25e-8777737fb462",
@@ -14,12 +20,6 @@
         "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
         "trainer_name": "MiDe1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0038871245792897,
-        "rating_mu": 20.779510891089988,
-        "rating_sigma": 6.591874588836899,
-        "result": "loss"
       }
     }
   }

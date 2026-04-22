@@ -6,6 +6,12 @@
   "trainer_name": "combine788",
   "matches": {
     "2022-03-18T20:55:41.862965+00:00": {
+      "this_amiibo": {
+        "rating": 1.2428284108794543,
+        "rating_mu": 21.761373204845203,
+        "rating_sigma": 6.839514931321916,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "fb445572-4581-4b3a-9b1b-d511506399ad",
@@ -14,15 +20,15 @@
         "trainer_id": "30e95e5d-d4ef-4bad-922b-ad3f6cd29afa",
         "trainer_name": "reesespawfs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2428284108794543,
-        "rating_mu": 21.761373204845203,
-        "rating_sigma": 6.839514931321916,
-        "result": "loss"
       }
     },
     "2022-05-24T00:56:35.466883+00:00": {
+      "this_amiibo": {
+        "rating": 1.4322398035008561,
+        "rating_mu": 19.272765597003325,
+        "rating_sigma": 5.94684193116749,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
         "id": "ed7af1d8-7eb5-4896-b4d4-734ea25d4be8",
@@ -31,12 +37,6 @@
         "trainer_id": "26942317-1919-4c5c-8072-7bc3e0bc2838",
         "trainer_name": "NurfboyU",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.4322398035008561,
-        "rating_mu": 19.272765597003325,
-        "rating_sigma": 5.94684193116749,
-        "result": "loss"
       }
     }
   }

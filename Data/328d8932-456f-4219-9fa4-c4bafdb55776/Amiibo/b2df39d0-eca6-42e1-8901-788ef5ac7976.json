@@ -6,6 +6,12 @@
   "trainer_name": "0ccactuss0",
   "matches": {
     "2021-11-15T19:50:34.727384+00:00": {
+      "this_amiibo": {
+        "rating": 0.6685214336947709,
+        "rating_mu": 20.576690050458694,
+        "rating_sigma": 6.636056205587974,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "492ed9a3-0db5-48e4-a032-e3ae3994b2ae",
@@ -14,12 +20,6 @@
         "trainer_id": "fd88f995-3090-47f4-bb1f-61a9aa4a1863",
         "trainer_name": "DazzleMeTaric",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6685214336947709,
-        "rating_mu": 20.576690050458694,
-        "rating_sigma": 6.636056205587974,
-        "result": "loss"
       }
     }
   }

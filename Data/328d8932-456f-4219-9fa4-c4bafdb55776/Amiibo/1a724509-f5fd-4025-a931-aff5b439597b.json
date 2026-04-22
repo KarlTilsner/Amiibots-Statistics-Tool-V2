@@ -6,6 +6,12 @@
   "trainer_name": "leemanza",
   "matches": {
     "2022-07-27T03:17:18.572377+00:00": {
+      "this_amiibo": {
+        "rating": 0.6370544381486383,
+        "rating_mu": 19.89003018398145,
+        "rating_sigma": 6.417658581944271,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "987ec21f-c5cc-452e-8d1a-3b4e8ab1a085",
@@ -14,12 +20,6 @@
         "trainer_id": "de8bfcb6-60de-48e2-8a23-31517707e203",
         "trainer_name": "nam_nmad",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6370544381486383,
-        "rating_mu": 19.89003018398145,
-        "rating_sigma": 6.417658581944271,
-        "result": "loss"
       }
     },
     "2022-07-29T01:03:03.588457+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2022-08-22T00:41:09.683742+00:00": {
+      "this_amiibo": {
+        "rating": 5.565176324372398,
+        "rating_mu": 18.973562321410853,
+        "rating_sigma": 4.469461999012818,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
         "id": "0cfa7de8-7e13-4ac3-a7f6-710b93715258",
@@ -48,15 +54,15 @@
         "trainer_id": "5f193754-19cc-4e88-a09f-cd36122614ca",
         "trainer_name": "twrecks64",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 5.565176324372398,
-        "rating_mu": 18.973562321410853,
-        "rating_sigma": 4.469461999012818,
-        "result": "loss"
       }
     },
     "2022-08-22T21:17:55.354753+00:00": {
+      "this_amiibo": {
+        "rating": 4.476201504444425,
+        "rating_mu": 16.249127939338496,
+        "rating_sigma": 3.9243088116313567,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
         "id": "3cbc992b-1207-45cf-919d-47356da4cdd3",
@@ -65,12 +71,6 @@
         "trainer_id": "7c0ee4ae-5d77-4016-a663-0d9eaaa09c49",
         "trainer_name": "Stolridur",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 4.476201504444425,
-        "rating_mu": 16.249127939338496,
-        "rating_sigma": 3.9243088116313567,
-        "result": "loss"
       }
     }
   }

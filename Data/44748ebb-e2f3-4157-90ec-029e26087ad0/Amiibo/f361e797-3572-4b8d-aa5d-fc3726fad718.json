@@ -6,6 +6,12 @@
   "trainer_name": "SteelswarmCycada",
   "matches": {
     "2020-10-03T13:11:21.917151+00:00": {
+      "this_amiibo": {
+        "rating": 0.412115424615326,
+        "rating_mu": 20.015936031462996,
+        "rating_sigma": 6.534606868949224,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "87f06174-f9d3-47d1-8ce8-b37129a007cb",
@@ -14,15 +20,15 @@
         "trainer_id": "ee675c7c-7836-4aa2-8a36-fef64e67b80a",
         "trainer_name": "truetitan14",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.412115424615326,
-        "rating_mu": 20.015936031462996,
-        "rating_sigma": 6.534606868949224,
-        "result": "loss"
       }
     },
     "2020-10-03T22:39:16.554067+00:00": {
+      "this_amiibo": {
+        "rating": 1.1070897833563578,
+        "rating_mu": 18.74516709316894,
+        "rating_sigma": 5.879359103270861,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
         "id": "315da5e6-0730-48d3-afcb-5b91d6736880",
@@ -31,12 +37,6 @@
         "trainer_id": "82cc96d9-020f-4b3c-8060-12c31d207082",
         "trainer_name": "Roflcopter6k",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1070897833563578,
-        "rating_mu": 18.74516709316894,
-        "rating_sigma": 5.879359103270861,
-        "result": "loss"
       }
     }
   }

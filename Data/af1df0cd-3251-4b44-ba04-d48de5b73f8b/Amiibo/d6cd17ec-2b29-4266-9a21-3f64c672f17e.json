@@ -6,6 +6,12 @@
   "trainer_name": "sst_bearslayer",
   "matches": {
     "2023-04-07T21:49:04.346810+00:00": {
+      "this_amiibo": {
+        "rating": 0.48482946291281337,
+        "rating_mu": 19.747231359376055,
+        "rating_sigma": 6.420800632154414,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
         "id": "8e099bd4-1016-4f89-b817-5c5d34757ed4",
@@ -14,12 +20,6 @@
         "trainer_id": "ae366d8f-bbaa-4dc9-9533-45a8dce887a1",
         "trainer_name": "cybertsarbomba",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.48482946291281337,
-        "rating_mu": 19.747231359376055,
-        "rating_sigma": 6.420800632154414,
-        "result": "loss"
       }
     }
   }

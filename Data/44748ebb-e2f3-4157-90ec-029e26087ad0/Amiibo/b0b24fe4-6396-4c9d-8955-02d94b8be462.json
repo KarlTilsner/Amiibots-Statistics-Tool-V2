@@ -6,6 +6,12 @@
   "trainer_name": "flareofstars",
   "matches": {
     "2020-06-16T10:28:04.705817+00:00": {
+      "this_amiibo": {
+        "rating": 0.5749476951032335,
+        "rating_mu": 20.27601350062235,
+        "rating_sigma": 6.567021935173039,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
         "id": "afbff0a5-4826-43ff-b00f-62686cc1c30e",
@@ -14,12 +20,6 @@
         "trainer_id": "ee675c7c-7836-4aa2-8a36-fef64e67b80a",
         "trainer_name": "truetitan14",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5749476951032335,
-        "rating_mu": 20.27601350062235,
-        "rating_sigma": 6.567021935173039,
-        "result": "loss"
       }
     },
     "2020-06-18T04:46:09.114195+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2020-06-20T22:01:33.520785+00:00": {
+      "this_amiibo": {
+        "rating": 10.37115407851422,
+        "rating_mu": 23.784120974567188,
+        "rating_sigma": 4.4709889653509896,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
         "id": "8a060df7-3b85-4d70-91d4-8e5a94b5e384",
@@ -48,12 +54,6 @@
         "trainer_id": "56136ec1-5ca9-410d-8ac0-8b59608fae92",
         "trainer_name": "xir1ca",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.37115407851422,
-        "rating_mu": 23.784120974567188,
-        "rating_sigma": 4.4709889653509896,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "ScuttIer",
   "matches": {
     "2021-03-18T07:09:57.375982+00:00": {
+      "this_amiibo": {
+        "rating": 1.0111421277896326,
+        "rating_mu": 20.903883600917887,
+        "rating_sigma": 6.630913824376085,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
         "id": "280a1b8a-4d99-4b48-951a-8fa1397daea2",
@@ -14,15 +20,15 @@
         "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
         "trainer_name": "Murbert_AM",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0111421277896326,
-        "rating_mu": 20.903883600917887,
-        "rating_sigma": 6.630913824376085,
-        "result": "loss"
       }
     },
     "2021-03-18T15:56:37.942357+00:00": {
+      "this_amiibo": {
+        "rating": -0.9918277432250626,
+        "rating_mu": 15.382862934045711,
+        "rating_sigma": 5.458230225756925,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
         "id": "ca7c2354-ecea-4988-93f1-80b8053adb4d",
@@ -31,12 +37,6 @@
         "trainer_id": "cafb9f3e-3bf0-4595-a167-2c91996ed8f5",
         "trainer_name": "superberry58",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.9918277432250626,
-        "rating_mu": 15.382862934045711,
-        "rating_sigma": 5.458230225756925,
-        "result": "loss"
       }
     }
   }

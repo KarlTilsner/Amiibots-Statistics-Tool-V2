@@ -6,6 +6,12 @@
   "trainer_name": "NoAmiibo",
   "matches": {
     "2021-12-10T19:05:09.474157+00:00": {
+      "this_amiibo": {
+        "rating": 0.4898023933811011,
+        "rating_mu": 21.460742539257176,
+        "rating_sigma": 6.990313381958692,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
         "id": "42c336a8-a8e5-48b9-a69b-de83d5c7a0f8",
@@ -14,12 +20,6 @@
         "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
         "trainer_name": "gotelin_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.4898023933811011,
-        "rating_mu": 21.460742539257176,
-        "rating_sigma": 6.990313381958692,
-        "result": "loss"
       }
     }
   }

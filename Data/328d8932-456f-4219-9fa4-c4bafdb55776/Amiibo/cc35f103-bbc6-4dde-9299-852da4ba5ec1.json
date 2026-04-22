@@ -6,6 +6,12 @@
   "trainer_name": "NoAmiibo",
   "matches": {
     "2021-11-26T06:45:50.466792+00:00": {
+      "this_amiibo": {
+        "rating": 1.2607085913715004,
+        "rating_mu": 21.944769280243236,
+        "rating_sigma": 6.894686896290579,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "4186298e-ab42-490e-bb84-6d2808e8996e",
@@ -14,12 +20,6 @@
         "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
         "trainer_name": "LovingStew",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2607085913715004,
-        "rating_mu": 21.944769280243236,
-        "rating_sigma": 6.894686896290579,
-        "result": "loss"
       }
     }
   }

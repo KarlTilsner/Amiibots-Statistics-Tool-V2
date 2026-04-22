@@ -6,6 +6,12 @@
   "trainer_name": "circuit404",
   "matches": {
     "2022-02-06T11:07:51.118987+00:00": {
+      "this_amiibo": {
+        "rating": 1.2520809936362625,
+        "rating_mu": 22.69119201492859,
+        "rating_sigma": 7.146370340430775,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
         "id": "87aa20e2-432a-4e22-99b8-0a40533aea3f",
@@ -14,12 +20,6 @@
         "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
         "trainer_name": "gotelin_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2520809936362625,
-        "rating_mu": 22.69119201492859,
-        "rating_sigma": 7.146370340430775,
-        "result": "loss"
       }
     },
     "2022-02-07T11:59:52.090117+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2022-02-07T21:32:01.845398+00:00": {
+      "this_amiibo": {
+        "rating": 16.087057219484944,
+        "rating_mu": 29.58094384766233,
+        "rating_sigma": 4.497962209392462,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
@@ -48,15 +54,15 @@
         "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
         "trainer_name": "nozzly",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 16.087057219484944,
-        "rating_mu": 29.58094384766233,
-        "rating_sigma": 4.497962209392462,
-        "result": "loss"
       }
     },
     "2022-02-08T21:59:08.908452+00:00": {
+      "this_amiibo": {
+        "rating": 16.03979176472891,
+        "rating_mu": 28.226917750641213,
+        "rating_sigma": 4.062375328637434,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
         "id": "bbad6124-acc3-4874-a73c-e45f61874823",
@@ -65,12 +71,6 @@
         "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
         "trainer_name": "gotelin_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 16.03979176472891,
-        "rating_mu": 28.226917750641213,
-        "rating_sigma": 4.062375328637434,
-        "result": "loss"
       }
     }
   }

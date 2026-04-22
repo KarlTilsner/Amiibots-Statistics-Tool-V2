@@ -6,6 +6,12 @@
   "trainer_name": "its_alexis_16",
   "matches": {
     "2022-07-09T05:00:46.619361+00:00": {
+      "this_amiibo": {
+        "rating": 0.5804332053307633,
+        "rating_mu": 19.799347268619577,
+        "rating_sigma": 6.406304687762939,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "53df838a-ee8e-4417-a58e-46beb6870f9c",
@@ -14,12 +20,6 @@
         "trainer_id": "b03ddf3c-0e54-4b9c-bf81-3373bed76b0a",
         "trainer_name": "neoboy239",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5804332053307633,
-        "rating_mu": 19.799347268619577,
-        "rating_sigma": 6.406304687762939,
-        "result": "loss"
       }
     }
   }

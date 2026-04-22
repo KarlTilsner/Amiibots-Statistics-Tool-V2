@@ -6,6 +6,12 @@
   "trainer_name": "soysauce881",
   "matches": {
     "2022-08-30T03:07:02.716713+00:00": {
+      "this_amiibo": {
+        "rating": -0.15660601497823023,
+        "rating_mu": 18.15659670350017,
+        "rating_sigma": 6.104400906159467,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
         "id": "39e3289f-d045-4e55-a83d-7b7b7a95d4b8",
@@ -14,12 +20,6 @@
         "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
         "trainer_name": "WynnThornton",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.15660601497823023,
-        "rating_mu": 18.15659670350017,
-        "rating_sigma": 6.104400906159467,
-        "result": "loss"
       }
     }
   }

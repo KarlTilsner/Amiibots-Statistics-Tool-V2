@@ -6,6 +6,12 @@
   "trainer_name": "BottoTheBulliedPirate",
   "matches": {
     "2021-03-12T18:01:42.974168+00:00": {
+      "this_amiibo": {
+        "rating": -0.939504178896371,
+        "rating_mu": 18.07805296260733,
+        "rating_sigma": 6.339185713834567,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
         "id": "76a0cf3e-727a-4493-9808-6d491dd69fc1",
@@ -14,12 +20,6 @@
         "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
         "trainer_name": "staples___",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.939504178896371,
-        "rating_mu": 18.07805296260733,
-        "rating_sigma": 6.339185713834567,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "2Snowblind",
   "matches": {
     "2022-07-20T15:01:02.163763+00:00": {
+      "this_amiibo": {
+        "rating": 1.0788578711268677,
+        "rating_mu": 20.918879283010565,
+        "rating_sigma": 6.613340470627898,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "12fb57f9-39fe-4223-8d77-78a975212eac",
@@ -14,15 +20,15 @@
         "trainer_id": "b82c6d43-d80c-4195-99a0-67355d12115d",
         "trainer_name": "the_real_rukasu",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0788578711268677,
-        "rating_mu": 20.918879283010565,
-        "rating_sigma": 6.613340470627898,
-        "result": "loss"
       }
     },
     "2022-07-21T01:05:16.701394+00:00": {
+      "this_amiibo": {
+        "rating": 0.9356206610152036,
+        "rating_mu": 17.152955203302,
+        "rating_sigma": 5.405778180762265,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "a82f2ebc-ee0d-4755-a40b-3b05fe81eb5d",
@@ -31,15 +37,15 @@
         "trainer_id": "c77a47ee-60f9-487e-abed-a8514fdaeeac",
         "trainer_name": "trueschavi",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9356206610152036,
-        "rating_mu": 17.152955203302,
-        "rating_sigma": 5.405778180762265,
-        "result": "loss"
       }
     },
     "2022-07-28T02:20:46.887651+00:00": {
+      "this_amiibo": {
+        "rating": -0.051997722489881326,
+        "rating_mu": 13.41846046735458,
+        "rating_sigma": 4.490152729948154,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
         "id": "be638f62-781c-40fe-9089-26b844be4b9e",
@@ -48,15 +54,15 @@
         "trainer_id": "a52a8430-cf55-42e5-bf19-5b02af9f1896",
         "trainer_name": "Shimedge",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.051997722489881326,
-        "rating_mu": 13.41846046735458,
-        "rating_sigma": 4.490152729948154,
-        "result": "loss"
       }
     },
     "2022-07-31T07:52:59.791676+00:00": {
+      "this_amiibo": {
+        "rating": -0.298212977063427,
+        "rating_mu": 12.071660914562104,
+        "rating_sigma": 4.12329129720851,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
         "id": "b55ec01c-cd53-4a0a-a523-7f6294d041d0",
@@ -65,12 +71,6 @@
         "trainer_id": "4345ecdf-2886-46de-b0e4-755576321316",
         "trainer_name": "mariocraft6000",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.298212977063427,
-        "rating_mu": 12.071660914562104,
-        "rating_sigma": 4.12329129720851,
-        "result": "loss"
       }
     }
   }

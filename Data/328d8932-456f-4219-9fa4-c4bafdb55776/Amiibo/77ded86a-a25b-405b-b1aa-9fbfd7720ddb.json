@@ -6,6 +6,12 @@
   "trainer_name": "jimcarrey1234567",
   "matches": {
     "2021-03-30T11:49:57.715458+00:00": {
+      "this_amiibo": {
+        "rating": 0.7977078843327199,
+        "rating_mu": 20.27434617386275,
+        "rating_sigma": 6.492212763176676,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
         "id": "9bef1f51-163e-497e-83cb-8944b6113ba4",
@@ -14,15 +20,15 @@
         "trainer_id": "280c4d25-34f7-4e2f-a2a4-b085faf86b60",
         "trainer_name": "gsus22",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7977078843327199,
-        "rating_mu": 20.27434617386275,
-        "rating_sigma": 6.492212763176676,
-        "result": "loss"
       }
     },
     "2021-03-30T13:50:03.805278+00:00": {
+      "this_amiibo": {
+        "rating": 1.4487281866322093,
+        "rating_mu": 19.342275460686842,
+        "rating_sigma": 5.964515758018211,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96e48494-946f-4280-a419-488d644135e0",
         "id": "25cb4298-ea83-40f1-beb4-73baccec63e7",
@@ -31,12 +37,6 @@
         "trainer_id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
         "trainer_name": "pinheadpatrick017",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.4487281866322093,
-        "rating_mu": 19.342275460686842,
-        "rating_sigma": 5.964515758018211,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "sirxyonder",
   "matches": {
     "2023-11-08T17:35:47.824285+00:00": {
+      "this_amiibo": {
+        "rating": 0.6645249621776301,
+        "rating_mu": 19.8254266838234,
+        "rating_sigma": 6.386967240548591,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
         "id": "83e85b87-f9e4-4baa-979d-97ff112ba8b9",
@@ -14,12 +20,6 @@
         "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
         "trainer_name": "joah_22",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6645249621776301,
-        "rating_mu": 19.8254266838234,
-        "rating_sigma": 6.386967240548591,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "marioandfriends1",
   "matches": {
     "2022-09-18T03:47:23.360553+00:00": {
+      "this_amiibo": {
+        "rating": 1.0042828257857117,
+        "rating_mu": 21.26786527108938,
+        "rating_sigma": 6.754527481767889,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
         "id": "266356ce-3cb5-413c-a306-7b936f4a8f6f",
@@ -14,12 +20,6 @@
         "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
         "trainer_name": "wyvernfalcon",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0042828257857117,
-        "rating_mu": 21.26786527108938,
-        "rating_sigma": 6.754527481767889,
-        "result": "loss"
       }
     }
   }

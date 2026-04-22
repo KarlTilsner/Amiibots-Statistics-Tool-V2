@@ -6,6 +6,12 @@
   "trainer_name": "the_scuttler",
   "matches": {
     "2020-11-06T10:15:04.075098+00:00": {
+      "this_amiibo": {
+        "rating": 1.278198480932467,
+        "rating_mu": 21.794450667645254,
+        "rating_sigma": 6.838750728904262,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
         "id": "103e72f8-a036-4fbd-80e1-a035866d15e7",
@@ -14,15 +20,15 @@
         "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
         "trainer_name": "Sirffuzzylogik",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.278198480932467,
-        "rating_mu": 21.794450667645254,
-        "rating_sigma": 6.838750728904262,
-        "result": "loss"
       }
     },
     "2020-11-07T05:20:22.404141+00:00": {
+      "this_amiibo": {
+        "rating": 1.9676677758025392,
+        "rating_mu": 19.426029244455524,
+        "rating_sigma": 5.819453822884328,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
         "id": "59e9cbaa-f24e-45ad-a612-aff5d9ef7f69",
@@ -31,12 +37,6 @@
         "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
         "trainer_name": "apple_beebs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.9676677758025392,
-        "rating_mu": 19.426029244455524,
-        "rating_sigma": 5.819453822884328,
-        "result": "loss"
       }
     },
     "2020-11-07T22:10:32.188213+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2020-11-08T06:55:09.849078+00:00": {
+      "this_amiibo": {
+        "rating": 11.376801150617307,
+        "rating_mu": 23.9551325279688,
+        "rating_sigma": 4.192777125783831,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
         "id": "b735c7ef-4545-4fd1-a1aa-abf3e9fb5cf1",
@@ -65,12 +71,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.376801150617307,
-        "rating_mu": 23.9551325279688,
-        "rating_sigma": 4.192777125783831,
-        "result": "loss"
       }
     }
   }

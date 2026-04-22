@@ -6,6 +6,12 @@
   "trainer_name": "husk_firewolf",
   "matches": {
     "2020-08-07T20:39:09.979191+00:00": {
+      "this_amiibo": {
+        "rating": 0.612518419351904,
+        "rating_mu": 20.011686941361916,
+        "rating_sigma": 6.466389507336671,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "ac412c58-b24b-4541-89a5-c5eeaf30b477",
@@ -14,12 +20,6 @@
         "trainer_id": "00c4b536-3cdd-4252-b27e-138717ddf6d6",
         "trainer_name": "TheAgentOfChaos",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.612518419351904,
-        "rating_mu": 20.011686941361916,
-        "rating_sigma": 6.466389507336671,
-        "result": "loss"
       }
     },
     "2020-08-09T00:54:33.855984+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2020-08-10T06:40:24.434847+00:00": {
+      "this_amiibo": {
+        "rating": 12.923097075339443,
+        "rating_mu": 25.238649950276567,
+        "rating_sigma": 4.105184291645708,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
         "id": "7fa21c1c-3b68-43b2-a8e4-6795f6f3bf5d",
@@ -65,15 +71,15 @@
         "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
         "trainer_name": "forenmagra",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.923097075339443,
-        "rating_mu": 25.238649950276567,
-        "rating_sigma": 4.105184291645708,
-        "result": "loss"
       }
     },
     "2020-08-13T05:03:30.493952+00:00": {
+      "this_amiibo": {
+        "rating": 12.327889366136386,
+        "rating_mu": 22.528365902917866,
+        "rating_sigma": 3.4001588455938263,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
         "id": "61fc8551-365c-4733-b9b6-d7bd4d457537",
@@ -82,15 +88,15 @@
         "trainer_id": "d54d14d0-85bb-4485-9f85-957892e8334d",
         "trainer_name": "NinHartless",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.327889366136386,
-        "rating_mu": 22.528365902917866,
-        "rating_sigma": 3.4001588455938263,
-        "result": "loss"
       }
     },
     "2020-08-13T00:45:31.989143+00:00": {
+      "this_amiibo": {
+        "rating": 12.590998813423308,
+        "rating_mu": 23.680450519929014,
+        "rating_sigma": 3.6964839021685685,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "0987dca0-a61e-440c-acc8-15ab6bece360",
@@ -99,12 +105,6 @@
         "trainer_id": "83ad055f-644c-4c4f-8a57-7f9180b0d326",
         "trainer_name": "ZanyMarshalo",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.590998813423308,
-        "rating_mu": 23.680450519929014,
-        "rating_sigma": 3.6964839021685685,
-        "result": "loss"
       }
     }
   }

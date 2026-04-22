@@ -6,6 +6,12 @@
   "trainer_name": "traumatizedbaconbits",
   "matches": {
     "2020-07-10T06:43:46.684454+00:00": {
+      "this_amiibo": {
+        "rating": 1.09817701304965,
+        "rating_mu": 18.925006016764094,
+        "rating_sigma": 5.942276334571481,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "2362fdaa-5977-48e1-b104-143007531b2a",
@@ -14,15 +20,15 @@
         "trainer_id": "6df82914-e152-4ab4-ad4c-1b166b05da31",
         "trainer_name": "Supernova384",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.09817701304965,
-        "rating_mu": 18.925006016764094,
-        "rating_sigma": 5.942276334571481,
-        "result": "loss"
       }
     },
     "2020-07-10T04:05:44.912446+00:00": {
+      "this_amiibo": {
+        "rating": 0.3760104770885917,
+        "rating_mu": 21.217395662904952,
+        "rating_sigma": 6.94712839527212,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
         "id": "d6376166-73fb-4d98-909c-fb00bc139dfc",
@@ -31,12 +37,6 @@
         "trainer_id": "94403b6f-17a3-4d6a-be29-de66b221db6d",
         "trainer_name": "penguhhhh",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.3760104770885917,
-        "rating_mu": 21.217395662904952,
-        "rating_sigma": 6.94712839527212,
-        "result": "loss"
       }
     }
   }

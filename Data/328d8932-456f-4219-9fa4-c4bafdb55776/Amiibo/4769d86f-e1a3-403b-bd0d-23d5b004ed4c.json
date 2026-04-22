@@ -6,6 +6,12 @@
   "trainer_name": "dat1woomy",
   "matches": {
     "2022-07-20T02:15:17.920788+00:00": {
+      "this_amiibo": {
+        "rating": 0.02980531395066066,
+        "rating_mu": 18.756573028470335,
+        "rating_sigma": 6.242255904839892,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
         "id": "293b3970-2d3c-41f1-b0c1-a5a0ccc0d12b",
@@ -14,12 +20,6 @@
         "trainer_id": "c1461260-903f-4aae-ad42-af21e07e1e98",
         "trainer_name": "MoonBeanBie",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.02980531395066066,
-        "rating_mu": 18.756573028470335,
-        "rating_sigma": 6.242255904839892,
-        "result": "loss"
       }
     },
     "2022-07-22T00:52:57.630246+00:00": {
@@ -108,6 +108,12 @@
       }
     },
     "2022-09-06T09:12:09.912928+00:00": {
+      "this_amiibo": {
+        "rating": 17.624098646234255,
+        "rating_mu": 27.000782166790437,
+        "rating_sigma": 3.1255611735187268,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "70a53ded-566f-4b24-8f8a-f3ef7d94bd18",
@@ -116,15 +122,15 @@
         "trainer_id": "ec91db0b-baee-4719-bbb3-56b99120fd6f",
         "trainer_name": "awesomeavo64",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 17.624098646234255,
-        "rating_mu": 27.000782166790437,
-        "rating_sigma": 3.1255611735187268,
-        "result": "loss"
       }
     },
     "2022-09-08T05:04:21.120690+00:00": {
+      "this_amiibo": {
+        "rating": 16.85828735354977,
+        "rating_mu": 25.54698969134923,
+        "rating_sigma": 2.8962341125998203,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
         "id": "a022890b-7d1d-4755-87da-e9a67e2041b0",
@@ -133,15 +139,15 @@
         "trainer_id": "1cc83845-d9b0-4e59-bcc9-445663864886",
         "trainer_name": "ryryjs_twitch",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 16.85828735354977,
-        "rating_mu": 25.54698969134923,
-        "rating_sigma": 2.8962341125998203,
-        "result": "loss"
       }
     },
     "2022-09-11T06:36:30.533784+00:00": {
+      "this_amiibo": {
+        "rating": 16.263898276174388,
+        "rating_mu": 24.38430228837733,
+        "rating_sigma": 2.7068013374009814,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
         "id": "3a4a5221-cbf3-4c88-824a-aa50b880af7b",
@@ -150,12 +156,227 @@
         "trainer_id": "599b16e4-90a5-41b2-ad41-917b1e5b5548",
         "trainer_name": "Pixeluchiha",
         "result": "win"
-      },
+      }
+    },
+    "2022-10-17T04:33:50.306587+00:00": {
       "this_amiibo": {
-        "rating": 16.263898276174388,
-        "rating_mu": 24.38430228837733,
-        "rating_sigma": 2.7068013374009814,
+        "rating": 15.93822336848656,
+        "rating_mu": 23.661833839838774,
+        "rating_sigma": 2.574536823784072,
         "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "800c5fa9-207e-4bc7-b594-98664228616f",
+        "name": "Cheeto",
+        "rating": 21.580396625657386,
+        "trainer_id": "a3b72cea-5dac-4ea2-ba28-afde3dcd38d6",
+        "trainer_name": "emboooooooo",
+        "result": "win"
+      }
+    },
+    "2022-10-17T15:22:08.785869+00:00": {
+      "this_amiibo": {
+        "rating": 15.620698084809973,
+        "rating_mu": 23.000852513613722,
+        "rating_sigma": 2.460051476267916,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "202d7b7e-28f4-4f89-9775-86da48b206a1",
+        "name": "Sans",
+        "rating": 20.470052029065403,
+        "trainer_id": "b4ded674-d14a-4e96-a0c7-5dc00906f8f7",
+        "trainer_name": "aggron_ghost",
+        "result": "win"
+      }
+    },
+    "2022-10-18T17:21:06.067433+00:00": {
+      "this_amiibo": {
+        "rating": 16.565736879089446,
+        "rating_mu": 23.627873594585623,
+        "rating_sigma": 2.354045571832059,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "f3a87287-e936-4965-8430-c631f1a84bd5",
+        "name": "taterchip2",
+        "rating": 18.63017294230849,
+        "trainer_id": "f7365f6a-424b-48bb-acd6-85795db13deb",
+        "trainer_name": "TMSweaty",
+        "result": "loss"
+      }
+    },
+    "2022-10-20T21:20:40.455883+00:00": {
+      "this_amiibo": {
+        "rating": 17.37902711091479,
+        "rating_mu": 24.170320101043714,
+        "rating_sigma": 2.2637643300429744,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "dcd2c64e-16ee-4e56-ab49-d6212d3c242d",
+        "name": "buhbye",
+        "rating": 18.38032697254699,
+        "trainer_id": "98f1bb92-24de-4201-a0fb-821cc876a9cf",
+        "trainer_name": "gwehyr",
+        "result": "loss"
+      }
+    },
+    "2022-10-21T16:11:22.890530+00:00": {
+      "this_amiibo": {
+        "rating": 17.110422311874558,
+        "rating_mu": 23.65612521645593,
+        "rating_sigma": 2.1819009681937906,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
+        "id": "f5b9eea0-1a87-4032-ba87-a4f943984250",
+        "name": "Red Maple",
+        "rating": 22.834534734004997,
+        "trainer_id": "3c6a2558-822c-45dc-9c83-95b524978633",
+        "trainer_name": "0ccactuss0",
+        "result": "win"
+      }
+    },
+    "2022-11-07T01:18:52.387684+00:00": {
+      "this_amiibo": {
+        "rating": 16.854904973952486,
+        "rating_mu": 23.18619990073874,
+        "rating_sigma": 2.110431642262084,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "ecf5b2f3-a8cc-41e4-90e7-7d87c1fbe821",
+        "name": "SSF2",
+        "rating": 21.2875666324852,
+        "trainer_id": "a783d150-bd51-4b0c-9379-b32e55643dac",
+        "trainer_name": "iguyw",
+        "result": "win"
+      }
+    },
+    "2022-11-07T19:45:48.803658+00:00": {
+      "this_amiibo": {
+        "rating": 17.510344444333573,
+        "rating_mu": 23.641948607156863,
+        "rating_sigma": 2.04386805427443,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "133a3510-952a-45bf-a236-f8c9981c7d57",
+        "name": "Doodle",
+        "rating": 17.704336696290074,
+        "trainer_id": "7fbfc865-b4e0-4c64-a130-49134186b7cf",
+        "trainer_name": "crazychase10",
+        "result": "loss"
+      }
+    },
+    "2022-11-19T00:35:23.399027+00:00": {
+      "this_amiibo": {
+        "rating": 17.284117487099586,
+        "rating_mu": 23.238844241631234,
+        "rating_sigma": 1.9849089181772162,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "3ce419cd-9e6a-4bb9-97eb-772eb71da527",
+        "name": "iDK",
+        "rating": 22.13837622159742,
+        "trainer_id": "8e290d89-5484-46ab-b222-914c45b7b11c",
+        "trainer_name": "pixel_gunners",
+        "result": "win"
+      }
+    },
+    "2022-12-10T04:40:13.428217+00:00": {
+      "this_amiibo": {
+        "rating": 17.9000919300384,
+        "rating_mu": 23.680588345003336,
+        "rating_sigma": 1.9268321383216462,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "8713b86a-ec62-4204-8852-6fb54a3bbc8d",
+        "name": "ßôêß",
+        "rating": 18.469477815234477,
+        "trainer_id": "660bb2db-ac69-4ebd-92f0-78b54e774a71",
+        "trainer_name": "swordsparring",
+        "result": "loss"
+      }
+    },
+    "2022-12-12T13:05:00.545646+00:00": {
+      "this_amiibo": {
+        "rating": 18.50681117937434,
+        "rating_mu": 24.12616213309734,
+        "rating_sigma": 1.8731169845743332,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "bdadc395-00de-4c74-9fd6-485eeb8de96d",
+        "name": "Alexa",
+        "rating": 18.328446437622386,
+        "trainer_id": "56626cd0-adf6-401a-ab14-ebb04a627419",
+        "trainer_name": "slippyfishy3",
+        "result": "loss"
+      }
+    },
+    "2022-12-13T04:14:09.435124+00:00": {
+      "this_amiibo": {
+        "rating": 19.17420106249914,
+        "rating_mu": 24.633115950165408,
+        "rating_sigma": 1.8196382958887556,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "ea9a1e94-028e-4a1a-b9c8-8e599e744e6f",
+        "name": "Spam I Am",
+        "rating": 20.212628238167383,
+        "trainer_id": "74b11748-df73-4895-a914-7f048a54ecc8",
+        "trainer_name": "Dempsey342",
+        "result": "loss"
+      }
+    },
+    "2022-12-19T05:35:53.971544+00:00": {
+      "this_amiibo": {
+        "rating": 19.6538566969315,
+        "rating_mu": 24.99155824497658,
+        "rating_sigma": 1.7792338493483604,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "299930aa-9d2d-4cdf-883e-9b4634663e95",
+        "name": "BloodPunch",
+        "rating": 16.200435764511454,
+        "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
+        "trainer_name": "wyvernfalcon",
+        "result": "loss"
+      }
+    },
+    "2023-01-01T15:55:08.254426+00:00": {
+      "this_amiibo": {
+        "rating": 19.45573226078072,
+        "rating_mu": 24.680526873471322,
+        "rating_sigma": 1.7415982042302003,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "d447d6fb-d520-4d6e-9b79-59e9a382e9e0",
+        "name": "Luigi V3.7",
+        "rating": 21.734462593161716,
+        "trainer_id": "e1230ca5-8141-40aa-9bc9-b9db827ee644",
+        "trainer_name": "Mail6yt",
+        "result": "win"
       }
     }
   }

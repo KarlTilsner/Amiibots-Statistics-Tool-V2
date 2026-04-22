@@ -6,6 +6,12 @@
   "trainer_name": "BCRiparo",
   "matches": {
     "2020-09-14T16:16:56.099336+00:00": {
+      "this_amiibo": {
+        "rating": 1.3433271453729958,
+        "rating_mu": 22.318771002345457,
+        "rating_sigma": 6.99181461899082,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
         "id": "28f80b12-f6cc-4f0c-adf2-90f637dcf20e",
@@ -14,12 +20,6 @@
         "trainer_id": "b8caead1-f5ec-408e-8e1c-1ccdfc145d69",
         "trainer_name": "ILuvBubbleBuddy",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.3433271453729958,
-        "rating_mu": 22.318771002345457,
-        "rating_sigma": 6.99181461899082,
-        "result": "loss"
       }
     },
     "2020-09-16T03:28:51.189402+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2020-09-17T06:23:31.442791+00:00": {
+      "this_amiibo": {
+        "rating": 11.458927465645022,
+        "rating_mu": 25.53733884797053,
+        "rating_sigma": 4.692803794108503,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
         "id": "5bb926b4-a2f3-43f1-ac34-069b1085b5c0",
@@ -48,12 +54,6 @@
         "trainer_id": "de6653cb-e31e-46dd-bd08-6068b56a543d",
         "trainer_name": "Fernando___",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.458927465645022,
-        "rating_mu": 25.53733884797053,
-        "rating_sigma": 4.692803794108503,
-        "result": "loss"
       }
     },
     "2020-09-19T05:10:41.263650+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2020-09-19T04:29:23.511496+00:00": {
+      "this_amiibo": {
+        "rating": 11.469816453406084,
+        "rating_mu": 24.284382724850527,
+        "rating_sigma": 4.271522090481481,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
         "id": "8775a385-6cfb-4788-9283-fc9a502edb62",
@@ -82,12 +88,6 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.469816453406084,
-        "rating_mu": 24.284382724850527,
-        "rating_sigma": 4.271522090481481,
-        "result": "loss"
       }
     }
   }

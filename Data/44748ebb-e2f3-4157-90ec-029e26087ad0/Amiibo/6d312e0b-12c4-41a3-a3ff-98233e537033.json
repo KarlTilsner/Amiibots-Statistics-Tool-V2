@@ -23,6 +23,12 @@
       }
     },
     "2020-05-04T06:52:33.835487+00:00": {
+      "this_amiibo": {
+        "rating": 8.775627046596824,
+        "rating_mu": 23.834457253660922,
+        "rating_sigma": 5.019610069021366,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3a80cdac-93bb-4a75-8e38-f69f37d10ec6",
         "id": "d546a6b1-6a44-4c3e-a09d-5d7f6549779d",
@@ -31,15 +37,15 @@
         "trainer_id": "56136ec1-5ca9-410d-8ac0-8b59608fae92",
         "trainer_name": "足を見せて",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 8.775627046596824,
-        "rating_mu": 23.834457253660922,
-        "rating_sigma": 5.019610069021366,
-        "result": "loss"
       }
     },
     "2020-05-04T20:35:46.890949+00:00": {
+      "this_amiibo": {
+        "rating": 8.580795874573347,
+        "rating_mu": 21.67413768159048,
+        "rating_sigma": 4.364447269005711,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3a80cdac-93bb-4a75-8e38-f69f37d10ec6",
         "id": "4d51e361-3f3e-4878-866e-3b0304d5c3a3",
@@ -48,12 +54,6 @@
         "trainer_id": "b8caead1-f5ec-408e-8e1c-1ccdfc145d69",
         "trainer_name": "ILuvBubbleBuddy",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 8.580795874573347,
-        "rating_mu": 21.67413768159048,
-        "rating_sigma": 4.364447269005711,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "MonoMalard",
   "matches": {
     "2021-04-05T14:33:47.146019+00:00": {
+      "this_amiibo": {
+        "rating": 1.2693130882187944,
+        "rating_mu": 21.75794420255373,
+        "rating_sigma": 6.829543704778311,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "22df6f77-ab65-4161-8efc-79613481ffe3",
@@ -14,12 +20,6 @@
         "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
         "trainer_name": "improv_195",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2693130882187944,
-        "rating_mu": 21.75794420255373,
-        "rating_sigma": 6.829543704778311,
-        "result": "loss"
       }
     }
   }

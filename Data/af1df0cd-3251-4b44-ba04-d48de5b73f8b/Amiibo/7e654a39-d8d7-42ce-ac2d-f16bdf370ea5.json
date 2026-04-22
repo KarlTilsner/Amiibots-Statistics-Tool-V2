@@ -57,6 +57,12 @@
       }
     },
     "2023-11-10T07:34:07.178336+00:00": {
+      "this_amiibo": {
+        "rating": 20.012470001009422,
+        "rating_mu": 31.928123290636712,
+        "rating_sigma": 3.9718844298757636,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "e372c11d-8006-447c-a55b-352f5d4fcb7c",
@@ -65,12 +71,6 @@
         "trainer_id": "e4931ae7-1311-40d6-811c-354742e96bc0",
         "trainer_name": "atomic_salvy",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 20.012470001009422,
-        "rating_mu": 31.928123290636712,
-        "rating_sigma": 3.9718844298757636,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "jenny51501",
   "matches": {
     "2024-02-22T12:47:31.513464+00:00": {
+      "this_amiibo": {
+        "rating": 3.203381324861862,
+        "rating_mu": 11.55162188493371,
+        "rating_sigma": 2.782746853357282,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
         "id": "362a0cbb-31d3-4c2c-a51b-690f1b81ea91",
@@ -14,12 +20,6 @@
         "trainer_id": "08391206-9665-4d1a-80ca-633bf46c7587",
         "trainer_name": "itzblue22",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 3.203381324861862,
-        "rating_mu": 11.55162188493371,
-        "rating_sigma": 2.782746853357282,
-        "result": "loss"
       }
     },
     "2024-02-23T09:55:24.456830+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2024-02-27T23:40:34.088247+00:00": {
+      "this_amiibo": {
+        "rating": 4.000158528676833,
+        "rating_mu": 11.623524272895605,
+        "rating_sigma": 2.5411219147395907,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
         "id": "7ae42c46-e76c-45cf-931b-4ba1a26d1e52",
@@ -48,15 +54,15 @@
         "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
         "trainer_name": "leCharade",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 4.000158528676833,
-        "rating_mu": 11.623524272895605,
-        "rating_sigma": 2.5411219147395907,
-        "result": "loss"
       }
     },
     "2024-03-09T08:19:18.924139+00:00": {
+      "this_amiibo": {
+        "rating": 3.6330188744689664,
+        "rating_mu": 10.994884161558405,
+        "rating_sigma": 2.4539550956964793,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
         "id": "a61fa9f4-4d59-4984-9405-1f32b515a763",
@@ -65,12 +71,6 @@
         "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
         "trainer_name": "leCharade",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 3.6330188744689664,
-        "rating_mu": 10.994884161558405,
-        "rating_sigma": 2.4539550956964793,
-        "result": "loss"
       }
     }
   }

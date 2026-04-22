@@ -6,6 +6,12 @@
   "trainer_name": "AlexanderAgne",
   "matches": {
     "2024-09-20T15:22:03.030711+00:00": {
+      "this_amiibo": {
+        "rating": 0.49607401529675244,
+        "rating_mu": 19.425860702388842,
+        "rating_sigma": 6.309928895697363,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "11e2a43e-c86e-4245-a829-3c0ebb65b917",
@@ -14,15 +20,15 @@
         "trainer_id": "805ee09b-1c40-434b-9e7c-b71c3fd1c42d",
         "trainer_name": "elisha_davisyt_new",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.49607401529675244,
-        "rating_mu": 19.425860702388842,
-        "rating_sigma": 6.309928895697363,
-        "result": "loss"
       }
     },
     "2024-09-25T08:16:48.403664+00:00": {
+      "this_amiibo": {
+        "rating": -0.041866205937530765,
+        "rating_mu": 16.89403427186176,
+        "rating_sigma": 5.64530015926643,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "f50a0056-eef3-406e-a29a-fda5ad938685",
@@ -31,12 +37,6 @@
         "trainer_id": "c5656c48-9de7-4566-91a6-45c834e63cf9",
         "trainer_name": "netsyyy",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.041866205937530765,
-        "rating_mu": 16.89403427186176,
-        "rating_sigma": 5.64530015926643,
-        "result": "loss"
       }
     },
     "2024-09-25T18:35:40.852537+00:00": {
@@ -159,6 +159,12 @@
       }
     },
     "2024-10-07T10:48:01.088479+00:00": {
+      "this_amiibo": {
+        "rating": 17.68130766747708,
+        "rating_mu": 25.813227519388583,
+        "rating_sigma": 2.7106399506371677,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
         "id": "d1e53bbe-49f4-4c6f-9517-c57e9ef7c015",
@@ -167,15 +173,15 @@
         "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
         "trainer_name": "StaplesTV_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 17.68130766747708,
-        "rating_mu": 25.813227519388583,
-        "rating_sigma": 2.7106399506371677,
-        "result": "loss"
       }
     },
     "2024-10-07T03:50:41.320798+00:00": {
+      "this_amiibo": {
+        "rating": 18.31380526761163,
+        "rating_mu": 26.951013075106946,
+        "rating_sigma": 2.8790692691651047,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
         "id": "4f22d5de-9ebd-4eb7-b8ac-656f6c63a829",
@@ -184,12 +190,6 @@
         "trainer_id": "932a9ec7-b463-41d8-bc40-59e2e396a8ed",
         "trainer_name": "ricola7ttv",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 18.31380526761163,
-        "rating_mu": 26.951013075106946,
-        "rating_sigma": 2.8790692691651047,
-        "result": "loss"
       }
     }
   }

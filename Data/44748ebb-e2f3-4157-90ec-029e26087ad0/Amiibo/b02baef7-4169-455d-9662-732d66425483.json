@@ -6,6 +6,12 @@
   "trainer_name": "foamtray",
   "matches": {
     "2020-06-23T01:48:37.108266+00:00": {
+      "this_amiibo": {
+        "rating": 1.2508294856703586,
+        "rating_mu": 22.445531473316176,
+        "rating_sigma": 7.064900662548606,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "d713ebb6-10db-49ba-9d20-79994223f114",
@@ -14,12 +20,6 @@
         "trainer_id": "94403b6f-17a3-4d6a-be29-de66b221db6d",
         "trainer_name": "penguhhhh",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2508294856703586,
-        "rating_mu": 22.445531473316176,
-        "rating_sigma": 7.064900662548606,
-        "result": "loss"
       }
     }
   }

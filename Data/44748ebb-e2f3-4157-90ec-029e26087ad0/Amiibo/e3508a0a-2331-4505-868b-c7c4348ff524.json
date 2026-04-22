@@ -6,6 +6,12 @@
   "trainer_name": "ytygecho",
   "matches": {
     "2020-11-25T04:24:59.440063+00:00": {
+      "this_amiibo": {
+        "rating": 0.6244174180730084,
+        "rating_mu": 19.937692999943007,
+        "rating_sigma": 6.43775852729,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
         "id": "a896828c-49cd-4242-9404-052eb8c6f35c",
@@ -14,12 +20,6 @@
         "trainer_id": "bb38f34d-4024-4bac-8796-b84083162851",
         "trainer_name": "TechnoPuff",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6244174180730084,
-        "rating_mu": 19.937692999943007,
-        "rating_sigma": 6.43775852729,
-        "result": "loss"
       }
     }
   }

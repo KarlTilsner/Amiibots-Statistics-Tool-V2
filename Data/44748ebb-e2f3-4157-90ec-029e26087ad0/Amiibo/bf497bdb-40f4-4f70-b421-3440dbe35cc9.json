@@ -6,6 +6,12 @@
   "trainer_name": "the_scuttler",
   "matches": {
     "2020-11-19T00:11:34.142204+00:00": {
+      "this_amiibo": {
+        "rating": 1.0551807899419465,
+        "rating_mu": 20.841942694746464,
+        "rating_sigma": 6.595587301601506,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "ffa6cad5-bbea-4400-a7df-42f59b8701e8",
@@ -14,12 +20,6 @@
         "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
         "trainer_name": "nozzly",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0551807899419465,
-        "rating_mu": 20.841942694746464,
-        "rating_sigma": 6.595587301601506,
-        "result": "loss"
       }
     },
     "2020-11-19T12:00:28.900756+00:00": {

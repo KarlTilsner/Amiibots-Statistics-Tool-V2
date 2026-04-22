@@ -91,6 +91,12 @@
       }
     },
     "2024-04-20T03:16:08.438947+00:00": {
+      "this_amiibo": {
+        "rating": 32.39030111182801,
+        "rating_mu": 41.83025483817905,
+        "rating_sigma": 3.1466512421170156,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
         "id": "630f76f7-2b47-4164-84c8-aa361de31194",
@@ -99,15 +105,15 @@
         "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
         "trainer_name": "Azend_1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 32.39030111182801,
-        "rating_mu": 41.83025483817905,
-        "rating_sigma": 3.1466512421170156,
-        "result": "loss"
       }
     },
     "2024-04-24T22:06:42.894726+00:00": {
+      "this_amiibo": {
+        "rating": 32.08102965668088,
+        "rating_mu": 40.92079247150622,
+        "rating_sigma": 2.946587604941777,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "67002ace-760d-4c1f-ad88-f084593f3b29",
@@ -116,12 +122,6 @@
         "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
         "trainer_name": "Pi_Boy_314",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 32.08102965668088,
-        "rating_mu": 40.92079247150622,
-        "rating_sigma": 2.946587604941777,
-        "result": "loss"
       }
     }
   }

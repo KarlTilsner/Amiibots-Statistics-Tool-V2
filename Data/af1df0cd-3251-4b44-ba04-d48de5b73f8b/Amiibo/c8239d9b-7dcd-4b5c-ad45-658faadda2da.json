@@ -5,6 +5,23 @@
   "trainer_id": "c1a8adfd-561e-4b61-9870-5e000224d33f",
   "trainer_name": "Mario_Dude35",
   "matches": {
+    "2024-10-07T21:51:07.015120+00:00": {
+      "this_amiibo": {
+        "rating": 26.41746007909392,
+        "rating_mu": 39.01699491811066,
+        "rating_sigma": 4.199844946338914,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "d7cc0991-3aff-40d7-9819-4e74b1d95c5b",
+        "name": "wumbology",
+        "rating": 35.29838875823291,
+        "trainer_id": "5c6fabea-f6b5-4c64-84fd-afe78dd35a32",
+        "trainer_name": "islabecausewhynot",
+        "result": "loss"
+      }
+    },
     "2024-10-07T07:29:58.998617+00:00": {
       "this_amiibo": {
         "rating": 21.163504361754768,
@@ -36,23 +53,6 @@
         "rating": 25.804879196833642,
         "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
         "trainer_name": "amiibofight",
-        "result": "loss"
-      }
-    },
-    "2024-10-07T21:51:07.015120+00:00": {
-      "this_amiibo": {
-        "rating": 26.41746007909392,
-        "rating_mu": 39.01699491811066,
-        "rating_sigma": 4.199844946338914,
-        "result": "win"
-      },
-      "opponent": {
-        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
-        "id": "d7cc0991-3aff-40d7-9819-4e74b1d95c5b",
-        "name": "wumbology",
-        "rating": 35.29838875823291,
-        "trainer_id": "5c6fabea-f6b5-4c64-84fd-afe78dd35a32",
-        "trainer_name": "islabecausewhynot",
         "result": "loss"
       }
     }

@@ -40,6 +40,12 @@
       }
     },
     "2022-03-25T13:29:23.974863+00:00": {
+      "this_amiibo": {
+        "rating": 15.05527394148672,
+        "rating_mu": 29.394975317769934,
+        "rating_sigma": 4.779900458761071,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
         "id": "8aeca1dd-0620-4cc6-9b48-b1e6a2cdd4a5",
@@ -48,12 +54,6 @@
         "trainer_id": "7ff68788-3366-489f-9efd-bb3c16421574",
         "trainer_name": "VocalFan",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 15.05527394148672,
-        "rating_mu": 29.394975317769934,
-        "rating_sigma": 4.779900458761071,
-        "result": "loss"
       }
     }
   }

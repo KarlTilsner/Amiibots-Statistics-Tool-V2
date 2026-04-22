@@ -6,6 +6,12 @@
   "trainer_name": "moxievegas",
   "matches": {
     "2020-08-08T19:42:21.651281+00:00": {
+      "this_amiibo": {
+        "rating": -1.190748584736621,
+        "rating_mu": 19.633237596505985,
+        "rating_sigma": 6.941328727080869,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
         "id": "6a2b6964-2f97-4100-858d-b5b275216f1c",
@@ -14,12 +20,6 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.190748584736621,
-        "rating_mu": 19.633237596505985,
-        "rating_sigma": 6.941328727080869,
-        "result": "loss"
       }
     }
   }

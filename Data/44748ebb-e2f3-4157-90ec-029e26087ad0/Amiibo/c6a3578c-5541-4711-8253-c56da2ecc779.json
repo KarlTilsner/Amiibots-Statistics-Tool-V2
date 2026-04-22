@@ -6,6 +6,12 @@
   "trainer_name": "leeya310",
   "matches": {
     "2020-10-10T23:06:13.643646+00:00": {
+      "this_amiibo": {
+        "rating": 1.1868627254350805,
+        "rating_mu": 21.66917674280066,
+        "rating_sigma": 6.827438005788526,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
         "id": "b52ee2ad-c86c-4682-b392-e5b1deb4d56b",
@@ -14,12 +20,6 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1868627254350805,
-        "rating_mu": 21.66917674280066,
-        "rating_sigma": 6.827438005788526,
-        "result": "loss"
       }
     }
   }

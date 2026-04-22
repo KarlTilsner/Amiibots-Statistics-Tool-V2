@@ -159,6 +159,12 @@
       }
     },
     "2020-12-02T20:01:25.818125+00:00": {
+      "this_amiibo": {
+        "rating": 25.88895127041992,
+        "rating_mu": 35.37249332362348,
+        "rating_sigma": 3.1611806844011867,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
         "id": "89fe0c01-11da-45bd-ac6f-ea53b0633eb0",
@@ -167,12 +173,40 @@
         "trainer_id": "1a40b865-6138-4324-b2d6-f23b1fb07270",
         "trainer_name": "Linkushi_mario",
         "result": "win"
-      },
+      }
+    },
+    "2020-12-09T04:35:22.038313+00:00": {
       "this_amiibo": {
-        "rating": 25.88895127041992,
-        "rating_mu": 35.37249332362348,
-        "rating_sigma": 3.1611806844011867,
+        "rating": 24.960654424119674,
+        "rating_mu": 33.74695027312452,
+        "rating_sigma": 2.9287652830016153,
         "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "b1d85be5-2753-4e23-ae0a-5058612b9025",
+        "name": "Pegasus",
+        "rating": 25.105701244872716,
+        "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
+        "trainer_name": "LovingStew",
+        "result": "win"
+      }
+    },
+    "2020-12-14T00:04:30.089281+00:00": {
+      "this_amiibo": {
+        "rating": 24.205144201180836,
+        "rating_mu": 32.42928759902632,
+        "rating_sigma": 2.7413811326151603,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "300d3f2e-b0eb-4166-9b73-8359d0fd7792",
+        "name": "Fenrir",
+        "rating": 24.76339465351908,
+        "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
+        "trainer_name": "LovingStew",
+        "result": "win"
       }
     }
   }

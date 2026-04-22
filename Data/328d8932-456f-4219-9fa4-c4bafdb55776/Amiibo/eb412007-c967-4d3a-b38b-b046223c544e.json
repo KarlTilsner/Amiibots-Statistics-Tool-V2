@@ -6,6 +6,12 @@
   "trainer_name": "Mexidan",
   "matches": {
     "2022-01-04T11:41:38.567060+00:00": {
+      "this_amiibo": {
+        "rating": 1.0392753631286915,
+        "rating_mu": 21.713051134393023,
+        "rating_sigma": 6.891258590421444,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "3d4dcc68-f741-4d60-a17b-2c83b192a965",
@@ -14,15 +20,15 @@
         "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
         "trainer_name": "raid_boss_09",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0392753631286915,
-        "rating_mu": 21.713051134393023,
-        "rating_sigma": 6.891258590421444,
-        "result": "loss"
       }
     },
     "2022-01-04T14:52:47.629565+00:00": {
+      "this_amiibo": {
+        "rating": 1.7483339639842903,
+        "rating_mu": 20.879987621516573,
+        "rating_sigma": 6.377217885844094,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "fa730e6a-e102-4c03-89fa-0552d4304bc1",
@@ -31,15 +37,15 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.7483339639842903,
-        "rating_mu": 20.879987621516573,
-        "rating_sigma": 6.377217885844094,
-        "result": "loss"
       }
     },
     "2022-01-04T21:53:35.042033+00:00": {
+      "this_amiibo": {
+        "rating": 2.338750175990004,
+        "rating_mu": 20.018096348823548,
+        "rating_sigma": 5.893115390944515,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
         "id": "8e365dd2-6c1c-4b6f-a2f9-f1b4f50c5bef",
@@ -48,12 +54,6 @@
         "trainer_id": "0c1c5d80-12d9-44f9-8d6b-1235a993cf3f",
         "trainer_name": "bunion_j",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 2.338750175990004,
-        "rating_mu": 20.018096348823548,
-        "rating_sigma": 5.893115390944515,
-        "result": "loss"
       }
     }
   }

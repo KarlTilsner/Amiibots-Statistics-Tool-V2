@@ -40,6 +40,12 @@
       }
     },
     "2021-10-23T04:52:00.543849+00:00": {
+      "this_amiibo": {
+        "rating": 0.9036998254378581,
+        "rating_mu": 20.396282779524054,
+        "rating_sigma": 6.4975276513620654,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "78d22a18-3748-4997-8d60-e0dc6524cd39",
@@ -48,12 +54,6 @@
         "trainer_id": "42b5ba6a-accd-4a43-8caf-4e6732e41542",
         "trainer_name": "KallMeKoto",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9036998254378581,
-        "rating_mu": 20.396282779524054,
-        "rating_sigma": 6.4975276513620654,
-        "result": "loss"
       }
     }
   }

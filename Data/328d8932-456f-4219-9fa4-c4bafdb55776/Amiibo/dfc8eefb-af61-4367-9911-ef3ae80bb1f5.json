@@ -6,6 +6,12 @@
   "trainer_name": "fammydamammy",
   "matches": {
     "2021-04-02T03:40:52.523815+00:00": {
+      "this_amiibo": {
+        "rating": 0.03127997730033627,
+        "rating_mu": 18.515331280112875,
+        "rating_sigma": 6.161350434270846,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
         "id": "f2a284c8-b327-4697-8fe6-4204844ec461",
@@ -14,12 +20,6 @@
         "trainer_id": "c19db4ca-2480-4290-800c-156da376873b",
         "trainer_name": "lazy_dolphin21",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.03127997730033627,
-        "rating_mu": 18.515331280112875,
-        "rating_sigma": 6.161350434270846,
-        "result": "loss"
       }
     }
   }

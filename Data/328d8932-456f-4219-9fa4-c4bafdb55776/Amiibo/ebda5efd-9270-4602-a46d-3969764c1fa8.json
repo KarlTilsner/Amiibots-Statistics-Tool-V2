@@ -6,6 +6,12 @@
   "trainer_name": "toonlinktroll",
   "matches": {
     "2022-02-24T04:50:31.705034+00:00": {
+      "this_amiibo": {
+        "rating": 1.3378116811843874,
+        "rating_mu": 22.82303486573605,
+        "rating_sigma": 7.161741061517221,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "6e4b7ed8-2915-48d8-8ecb-2da3d316242b",
@@ -14,15 +20,15 @@
         "trainer_id": "ee1d9a05-9070-4b4f-ad6c-768064c23993",
         "trainer_name": "psythe_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.3378116811843874,
-        "rating_mu": 22.82303486573605,
-        "rating_sigma": 7.161741061517221,
-        "result": "loss"
       }
     },
     "2022-02-24T14:30:42.879988+00:00": {
+      "this_amiibo": {
+        "rating": 1.9634447501796295,
+        "rating_mu": 21.503853382374732,
+        "rating_sigma": 6.5134695440650345,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
         "id": "531ebe71-0b21-4b92-9e67-4fca2364a3bc",
@@ -31,15 +37,15 @@
         "trainer_id": "fff1df31-fc68-4fba-8d11-7e4016df1268",
         "trainer_name": "patspatch",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.9634447501796295,
-        "rating_mu": 21.503853382374732,
-        "rating_sigma": 6.5134695440650345,
-        "result": "loss"
       }
     },
     "2022-02-24T19:36:48.699076+00:00": {
+      "this_amiibo": {
+        "rating": 2.306379730809816,
+        "rating_mu": 20.688989738139103,
+        "rating_sigma": 6.127536669109762,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
         "id": "2c670302-c6f8-4327-ae8a-1c11244a4e90",
@@ -48,12 +54,6 @@
         "trainer_id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
         "trainer_name": "pinheadpatrick017",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 2.306379730809816,
-        "rating_mu": 20.688989738139103,
-        "rating_sigma": 6.127536669109762,
-        "result": "loss"
       }
     }
   }

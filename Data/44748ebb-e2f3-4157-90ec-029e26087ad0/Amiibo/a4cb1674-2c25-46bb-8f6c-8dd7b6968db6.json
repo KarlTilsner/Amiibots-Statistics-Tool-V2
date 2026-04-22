@@ -6,6 +6,12 @@
   "trainer_name": "thescuttler62",
   "matches": {
     "2020-08-10T05:26:02.931460+00:00": {
+      "this_amiibo": {
+        "rating": 0.9500170029452519,
+        "rating_mu": 20.5249249900076,
+        "rating_sigma": 6.5249693290207835,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
         "id": "6548da8d-9ed4-49bf-8953-5e932824ae46",
@@ -14,15 +20,15 @@
         "trainer_id": "ab7ba0e4-b4fc-4450-9b33-75fec3fb63fc",
         "trainer_name": "Vintro_K",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9500170029452519,
-        "rating_mu": 20.5249249900076,
-        "rating_sigma": 6.5249693290207835,
-        "result": "loss"
       }
     },
     "2020-08-14T08:00:49.572959+00:00": {
+      "this_amiibo": {
+        "rating": -0.03701103533499506,
+        "rating_mu": 16.26168576773704,
+        "rating_sigma": 5.432898934357344,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
         "id": "40af8aba-0742-4f41-839c-773f43b365d5",
@@ -31,15 +37,15 @@
         "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
         "trainer_name": "apple_beebs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.03701103533499506,
-        "rating_mu": 16.26168576773704,
-        "rating_sigma": 5.432898934357344,
-        "result": "loss"
       }
     },
     "2020-08-16T14:53:16.275453+00:00": {
+      "this_amiibo": {
+        "rating": 0.295219181919407,
+        "rating_mu": 15.338978250388397,
+        "rating_sigma": 5.01458635615633,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "599edd14-687c-4264-812e-bc246f562f31",
         "id": "86a0a2ef-6403-4e38-8ca6-3d28c97ea448",
@@ -48,15 +54,15 @@
         "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
         "trainer_name": "MaskXP",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.295219181919407,
-        "rating_mu": 15.338978250388397,
-        "rating_sigma": 5.01458635615633,
-        "result": "loss"
       }
     },
     "2020-08-24T21:24:04.668737+00:00": {
+      "this_amiibo": {
+        "rating": 0.015026249087323862,
+        "rating_mu": 14.08641053585807,
+        "rating_sigma": 4.690461428923582,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
         "id": "43322a06-c1c3-4400-8147-386945ab3736",
@@ -65,12 +71,6 @@
         "trainer_id": "82285cbb-5eea-42e2-9698-0608372a8e5e",
         "trainer_name": "zornchonthecob",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.015026249087323862,
-        "rating_mu": 14.08641053585807,
-        "rating_sigma": 4.690461428923582,
-        "result": "loss"
       }
     }
   }

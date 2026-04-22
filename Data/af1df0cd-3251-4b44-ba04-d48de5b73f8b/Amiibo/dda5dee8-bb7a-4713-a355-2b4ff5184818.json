@@ -6,6 +6,12 @@
   "trainer_name": "ZayinGamer",
   "matches": {
     "2023-07-14T06:53:31.709523+00:00": {
+      "this_amiibo": {
+        "rating": 1.1947587487634266,
+        "rating_mu": 21.34027729028757,
+        "rating_sigma": 6.715172847174714,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
         "id": "de0f25ee-a355-40a4-b590-bd0d09425f4a",
@@ -14,12 +20,6 @@
         "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
         "trainer_name": "track8regret",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1947587487634266,
-        "rating_mu": 21.34027729028757,
-        "rating_sigma": 6.715172847174714,
-        "result": "loss"
       }
     }
   }

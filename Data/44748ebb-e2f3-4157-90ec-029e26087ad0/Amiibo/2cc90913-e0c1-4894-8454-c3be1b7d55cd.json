@@ -6,6 +6,12 @@
   "trainer_name": "MonoMalard",
   "matches": {
     "2020-11-04T10:55:08.547383+00:00": {
+      "this_amiibo": {
+        "rating": -0.035330730697314294,
+        "rating_mu": 18.3872408649609,
+        "rating_sigma": 6.140857198552738,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
         "id": "495d58ab-e502-4ce0-89eb-891b50e93d1d",
@@ -14,12 +20,6 @@
         "trainer_id": "dda12a97-a87f-4669-9725-9e32ab1fc8d4",
         "trainer_name": "superverbina29",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.035330730697314294,
-        "rating_mu": 18.3872408649609,
-        "rating_sigma": 6.140857198552738,
-        "result": "loss"
       }
     }
   }

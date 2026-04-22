@@ -6,6 +6,12 @@
   "trainer_name": "LunagradeTV",
   "matches": {
     "2021-09-22T06:39:15.082139+00:00": {
+      "this_amiibo": {
+        "rating": 1.2433389842571643,
+        "rating_mu": 21.577053216205734,
+        "rating_sigma": 6.777904743982857,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "37290ccf-b7f6-4d8b-8387-7c09289ec20b",
@@ -14,12 +20,6 @@
         "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
         "trainer_name": "AceTempest172",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2433389842571643,
-        "rating_mu": 21.577053216205734,
-        "rating_sigma": 6.777904743982857,
-        "result": "loss"
       }
     }
   }

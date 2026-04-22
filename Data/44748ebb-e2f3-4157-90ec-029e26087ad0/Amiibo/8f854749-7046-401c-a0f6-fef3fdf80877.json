@@ -6,6 +6,12 @@
   "trainer_name": "truth_wario",
   "matches": {
     "2020-06-21T01:09:04.341138+00:00": {
+      "this_amiibo": {
+        "rating": 0.4466150194515315,
+        "rating_mu": 19.35120998676968,
+        "rating_sigma": 6.301531655772716,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
         "id": "afbff0a5-4826-43ff-b00f-62686cc1c30e",
@@ -14,12 +20,6 @@
         "trainer_id": "ee675c7c-7836-4aa2-8a36-fef64e67b80a",
         "trainer_name": "truetitan14",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.4466150194515315,
-        "rating_mu": 19.35120998676968,
-        "rating_sigma": 6.301531655772716,
-        "result": "loss"
       }
     },
     "2020-06-21T07:01:15.509601+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2020-06-21T11:47:24.600746+00:00": {
+      "this_amiibo": {
+        "rating": 10.057258817392576,
+        "rating_mu": 22.917701198803034,
+        "rating_sigma": 4.286814127136819,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "b0d76e6d-08f4-478d-a60c-62c1099dbbcf",
@@ -48,15 +54,15 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.057258817392576,
-        "rating_mu": 22.917701198803034,
-        "rating_sigma": 4.286814127136819,
-        "result": "loss"
       }
     },
     "2020-06-23T06:14:36.128985+00:00": {
+      "this_amiibo": {
+        "rating": 9.643555498778472,
+        "rating_mu": 21.100127325704488,
+        "rating_sigma": 3.818857275642005,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
         "id": "f4e6ea01-5a4d-4aa7-b90d-7c08c5137b55",
@@ -65,15 +71,15 @@
         "trainer_id": "039f9f7b-2987-47c4-aed0-00bac57db74d",
         "trainer_name": "FuryWingsYT",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.643555498778472,
-        "rating_mu": 21.100127325704488,
-        "rating_sigma": 3.818857275642005,
-        "result": "loss"
       }
     },
     "2020-06-24T14:50:17.313776+00:00": {
+      "this_amiibo": {
+        "rating": 9.631613249820738,
+        "rating_mu": 20.36864172525409,
+        "rating_sigma": 3.5790094918111173,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
         "id": "aac36bee-e52a-492a-ac5e-deda8880e237",
@@ -82,15 +88,15 @@
         "trainer_id": "d0e3f535-e180-4251-94b6-6c528f278d1e",
         "trainer_name": "cadenlisa",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.631613249820738,
-        "rating_mu": 20.36864172525409,
-        "rating_sigma": 3.5790094918111173,
-        "result": "loss"
       }
     },
     "2020-06-25T00:32:39.242617+00:00": {
+      "this_amiibo": {
+        "rating": 9.681583039809752,
+        "rating_mu": 19.994002994913284,
+        "rating_sigma": 3.437473318367844,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "599edd14-687c-4264-812e-bc246f562f31",
         "id": "184c2c0e-aa49-4473-bf46-4f58598681bd",
@@ -99,12 +105,6 @@
         "trainer_id": "f0ff13ad-2d79-43ed-9754-edd686d76dfe",
         "trainer_name": "nozsmash",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.681583039809752,
-        "rating_mu": 19.994002994913284,
-        "rating_sigma": 3.437473318367844,
-        "result": "loss"
       }
     }
   }

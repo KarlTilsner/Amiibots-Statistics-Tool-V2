@@ -23,6 +23,12 @@
       }
     },
     "2022-07-24T09:35:19.416289+00:00": {
+      "this_amiibo": {
+        "rating": 10.721016251876197,
+        "rating_mu": 25.925496449350323,
+        "rating_sigma": 5.068160065824709,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
         "id": "a5283510-3301-41d8-bbf6-78ce52185c57",
@@ -31,12 +37,6 @@
         "trainer_id": "180df160-b67f-470f-8ddb-1cfba1202adb",
         "trainer_name": "myls19",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.721016251876197,
-        "rating_mu": 25.925496449350323,
-        "rating_sigma": 5.068160065824709,
-        "result": "loss"
       }
     }
   }

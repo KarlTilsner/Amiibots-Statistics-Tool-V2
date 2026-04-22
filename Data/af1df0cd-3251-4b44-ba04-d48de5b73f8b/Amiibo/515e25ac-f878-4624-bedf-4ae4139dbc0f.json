@@ -6,6 +6,12 @@
   "trainer_name": "enauru_",
   "matches": {
     "2023-09-01T05:05:39.122047+00:00": {
+      "this_amiibo": {
+        "rating": 1.1748945580340653,
+        "rating_mu": 21.261702852276546,
+        "rating_sigma": 6.695602764747493,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "2d417fc5-dad9-46d9-8e19-8eda35622ea6",
@@ -14,15 +20,15 @@
         "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
         "trainer_name": "amiibofight",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1748945580340653,
-        "rating_mu": 21.261702852276546,
-        "rating_sigma": 6.695602764747493,
-        "result": "loss"
       }
     },
     "2023-09-14T21:42:32.163373+00:00": {
+      "this_amiibo": {
+        "rating": 1.5795534898578936,
+        "rating_mu": 18.215901220237704,
+        "rating_sigma": 5.545449243459936,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
         "id": "0a4dfd17-f10e-48d1-b5f0-d2d72c6ff135",
@@ -31,15 +37,15 @@
         "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
         "trainer_name": "forenmagra",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.5795534898578936,
-        "rating_mu": 18.215901220237704,
-        "rating_sigma": 5.545449243459936,
-        "result": "loss"
       }
     },
     "2023-09-15T21:24:09.828451+00:00": {
+      "this_amiibo": {
+        "rating": 0.6876478444106962,
+        "rating_mu": 14.966460145919998,
+        "rating_sigma": 4.7596041005031005,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96e48494-946f-4280-a419-488d644135e0",
         "id": "36261c69-d43d-48ed-983f-feefaeacf794",
@@ -48,12 +54,6 @@
         "trainer_id": "8b643d15-0fd9-4c00-9b31-887650f9ba3b",
         "trainer_name": "enauru_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6876478444106962,
-        "rating_mu": 14.966460145919998,
-        "rating_sigma": 4.7596041005031005,
-        "result": "loss"
       }
     },
     "2023-09-26T12:22:40.965806+00:00": {

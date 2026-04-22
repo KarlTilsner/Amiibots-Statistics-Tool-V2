@@ -23,6 +23,12 @@
       }
     },
     "2022-08-11T04:16:29.690308+00:00": {
+      "this_amiibo": {
+        "rating": 13.639721488168323,
+        "rating_mu": 28.68836685166199,
+        "rating_sigma": 5.016215121164556,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "9af3a950-dbf8-4f94-bf4c-181116afd86a",
@@ -31,12 +37,6 @@
         "trainer_id": "61314a03-5052-497e-a2bf-ebeabc47be55",
         "trainer_name": "amatsoup",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.639721488168323,
-        "rating_mu": 28.68836685166199,
-        "rating_sigma": 5.016215121164556,
-        "result": "loss"
       }
     },
     "2022-08-24T12:23:15.263766+00:00": {
@@ -53,6 +53,23 @@
         "rating": 17.8710872296465,
         "trainer_id": "5698fb14-f308-4a11-aed3-54172bed5dac",
         "trainer_name": "ivythesnivy",
+        "result": "loss"
+      }
+    },
+    "2022-12-06T06:15:57.985614+00:00": {
+      "this_amiibo": {
+        "rating": 21.377250108888667,
+        "rating_mu": 33.01982891628194,
+        "rating_sigma": 3.8808596024644237,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "ab59ee3e-799b-4b3c-9d04-8bd4e0bb5741",
+        "name": "Nightwing",
+        "rating": 30.397613782333288,
+        "trainer_id": "ee1d9a05-9070-4b4f-ad6c-768064c23993",
+        "trainer_name": "psythe_",
         "result": "loss"
       }
     }

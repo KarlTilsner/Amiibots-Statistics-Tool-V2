@@ -6,6 +6,12 @@
   "trainer_name": "Carl_the_Warlock3",
   "matches": {
     "2021-11-14T18:41:56.731215+00:00": {
+      "this_amiibo": {
+        "rating": -0.5719823174364471,
+        "rating_mu": 17.89937236651981,
+        "rating_sigma": 6.157118227985419,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
         "id": "535778ea-07aa-469d-aaf5-932a6c47f6be",
@@ -14,12 +20,6 @@
         "trainer_id": "dc1275c1-7af0-4fd0-82ab-9e36b562c48c",
         "trainer_name": "Jake__134",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.5719823174364471,
-        "rating_mu": 17.89937236651981,
-        "rating_sigma": 6.157118227985419,
-        "result": "loss"
       }
     }
   }

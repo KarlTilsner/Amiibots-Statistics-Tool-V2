@@ -6,6 +6,12 @@
   "trainer_name": "bosn23",
   "matches": {
     "2021-03-21T01:04:43.977834+00:00": {
+      "this_amiibo": {
+        "rating": -0.57281683911269,
+        "rating_mu": 19.139787421010748,
+        "rating_sigma": 6.570868086707812,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
         "id": "8a1b9972-b76c-42bb-9474-5b525b7e268b",
@@ -14,12 +20,6 @@
         "trainer_id": "777d12f5-fc42-4921-adbb-e0038cb093e2",
         "trainer_name": "Halyaran",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.57281683911269,
-        "rating_mu": 19.139787421010748,
-        "rating_sigma": 6.570868086707812,
-        "result": "loss"
       }
     }
   }

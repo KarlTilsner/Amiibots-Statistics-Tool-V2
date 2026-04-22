@@ -6,6 +6,12 @@
   "trainer_name": "Kangoni",
   "matches": {
     "2020-12-02T01:05:58.091838+00:00": {
+      "this_amiibo": {
+        "rating": 1.1757458864907697,
+        "rating_mu": 21.34630088142234,
+        "rating_sigma": 6.723518331643857,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
         "id": "1d856ac1-dcbc-43a4-a4c6-333192a77556",
@@ -14,15 +20,15 @@
         "trainer_id": "93f967b4-5933-4e9b-9f67-3d16fd17437f",
         "trainer_name": "glitched_artist",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1757458864907697,
-        "rating_mu": 21.34630088142234,
-        "rating_sigma": 6.723518331643857,
-        "result": "loss"
       }
     },
     "2020-12-02T16:11:02.651222+00:00": {
+      "this_amiibo": {
+        "rating": 0.9467565591663636,
+        "rating_mu": 17.58343346122607,
+        "rating_sigma": 5.545558967353235,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
         "id": "f62f5989-ab9e-41bb-96ae-646103a4e815",
@@ -31,12 +37,6 @@
         "trainer_id": "9d2e0e79-39fd-4936-8270-f43cb65749cb",
         "trainer_name": "SpliceStream",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9467565591663636,
-        "rating_mu": 17.58343346122607,
-        "rating_sigma": 5.545558967353235,
-        "result": "loss"
       }
     },
     "2020-12-02T16:55:34.371569+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2020-12-03T15:04:33.684821+00:00": {
+      "this_amiibo": {
+        "rating": 10.223150407926376,
+        "rating_mu": 21.84377261358333,
+        "rating_sigma": 3.8735407352189846,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
         "id": "fe358c68-c279-4b84-8395-1b7bf72777b9",
@@ -65,15 +71,15 @@
         "trainer_id": "d68c10f6-3846-4bd2-95ff-523fb62a13a4",
         "trainer_name": "RIANPRATT",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.223150407926376,
-        "rating_mu": 21.84377261358333,
-        "rating_sigma": 3.8735407352189846,
-        "result": "loss"
       }
     },
     "2020-12-03T20:52:33.012051+00:00": {
+      "this_amiibo": {
+        "rating": 10.205079956001022,
+        "rating_mu": 21.052502915155085,
+        "rating_sigma": 3.615807653051354,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
         "id": "dec4db3d-fddf-42fa-9a11-40e1aea5a491",
@@ -82,12 +88,6 @@
         "trainer_id": "b8caead1-f5ec-408e-8e1c-1ccdfc145d69",
         "trainer_name": "ILuvBubbleBuddy",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.205079956001022,
-        "rating_mu": 21.052502915155085,
-        "rating_sigma": 3.615807653051354,
-        "result": "loss"
       }
     }
   }

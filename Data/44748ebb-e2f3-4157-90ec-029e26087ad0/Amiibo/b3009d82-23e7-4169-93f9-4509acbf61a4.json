@@ -6,6 +6,12 @@
   "trainer_name": "leeya310",
   "matches": {
     "2020-10-06T08:01:23.816533+00:00": {
+      "this_amiibo": {
+        "rating": 0.9986071675934127,
+        "rating_mu": 23.907736309906547,
+        "rating_sigma": 7.636376380771044,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "22167950-8372-4b1c-8ed4-ab08d7e93d48",
@@ -14,12 +20,6 @@
         "trainer_id": "1a40b865-6138-4324-b2d6-f23b1fb07270",
         "trainer_name": "Linkushi_mario",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9986071675934127,
-        "rating_mu": 23.907736309906547,
-        "rating_sigma": 7.636376380771044,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "Murbert_AM",
   "matches": {
     "2020-10-13T12:07:40.741898+00:00": {
+      "this_amiibo": {
+        "rating": 1.1154982171579846,
+        "rating_mu": 21.125706083698315,
+        "rating_sigma": 6.6700692888467765,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "599edd14-687c-4264-812e-bc246f562f31",
         "id": "46531daa-1ff6-4f25-aac6-96ae05c60ea3",
@@ -14,15 +20,15 @@
         "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
         "trainer_name": "apple_beebs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1154982171579846,
-        "rating_mu": 21.125706083698315,
-        "rating_sigma": 6.6700692888467765,
-        "result": "loss"
       }
     },
     "2020-10-14T07:00:20.141415+00:00": {
+      "this_amiibo": {
+        "rating": 9.724475733398673,
+        "rating_mu": 23.928269330262893,
+        "rating_sigma": 4.7345978656214065,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "25666e65-01b4-41b9-9a05-2bcb78c5c404",
@@ -31,12 +37,6 @@
         "trainer_id": "c2fef7d0-92be-4111-8eff-4f229176422c",
         "trainer_name": "dreamy_b_jay",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.724475733398673,
-        "rating_mu": 23.928269330262893,
-        "rating_sigma": 4.7345978656214065,
-        "result": "loss"
       }
     },
     "2020-10-14T03:24:13.911544+00:00": {
@@ -108,6 +108,12 @@
       }
     },
     "2020-10-15T08:29:54.001992+00:00": {
+      "this_amiibo": {
+        "rating": 16.332896985688844,
+        "rating_mu": 27.030748955725713,
+        "rating_sigma": 3.565950656678956,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "4c7f141d-82c9-4286-b107-7a4f4812804e",
@@ -116,12 +122,6 @@
         "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
         "trainer_name": "River_Tethys",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 16.332896985688844,
-        "rating_mu": 27.030748955725713,
-        "rating_sigma": 3.565950656678956,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "Competitively2",
   "matches": {
     "2020-11-22T11:53:48.702348+00:00": {
+      "this_amiibo": {
+        "rating": 0.2873917744288015,
+        "rating_mu": 19.005474336632115,
+        "rating_sigma": 6.239360854067771,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
         "id": "2bcf6247-e12b-4b0f-849a-e367ac0f5de3",
@@ -14,12 +20,6 @@
         "trainer_id": "b73cffef-c9fc-4a4d-9c1e-2ba84a63d775",
         "trainer_name": "Precision_Rhythm",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.2873917744288015,
-        "rating_mu": 19.005474336632115,
-        "rating_sigma": 6.239360854067771,
-        "result": "loss"
       }
     }
   }

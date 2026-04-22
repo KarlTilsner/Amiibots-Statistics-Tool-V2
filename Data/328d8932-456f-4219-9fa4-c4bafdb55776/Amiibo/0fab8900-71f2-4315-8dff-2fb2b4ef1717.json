@@ -6,6 +6,12 @@
   "trainer_name": "Dempsey342",
   "matches": {
     "2022-04-28T05:07:29.228196+00:00": {
+      "this_amiibo": {
+        "rating": 0.4013982255185127,
+        "rating_mu": 20.27644701085292,
+        "rating_sigma": 6.625016261778136,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
         "id": "ae98c011-f20f-4df7-a763-28306bf87736",
@@ -14,12 +20,6 @@
         "trainer_id": "26cad4d1-9d7d-457c-b6e3-6a285e74f071",
         "trainer_name": "toonlinktroll",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.4013982255185127,
-        "rating_mu": 20.27644701085292,
-        "rating_sigma": 6.625016261778136,
-        "result": "loss"
       }
     },
     "2022-04-28T15:50:28.918063+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2022-04-28T18:31:56.858015+00:00": {
+      "this_amiibo": {
+        "rating": 10.662116018215563,
+        "rating_mu": 24.2403144915653,
+        "rating_sigma": 4.526066157783245,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "2a40276c-16b7-4ac2-8607-28ed8bf8341d",
@@ -48,12 +54,6 @@
         "trainer_id": "6df82914-e152-4ab4-ad4c-1b166b05da31",
         "trainer_name": "Supernova384",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.662116018215563,
-        "rating_mu": 24.2403144915653,
-        "rating_sigma": 4.526066157783245,
-        "result": "loss"
       }
     }
   }

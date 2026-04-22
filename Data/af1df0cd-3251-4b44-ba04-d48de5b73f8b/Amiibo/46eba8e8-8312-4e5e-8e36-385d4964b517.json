@@ -40,6 +40,12 @@
       }
     },
     "2023-01-10T11:44:14.683094+00:00": {
+      "this_amiibo": {
+        "rating": 17.085745404532897,
+        "rating_mu": 31.50102084957576,
+        "rating_sigma": 4.805091815014287,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "2699c013-58cb-408b-92e2-92e3c7990bcd",
@@ -48,12 +54,6 @@
         "trainer_id": "199590b2-61f1-4557-b6d5-0918d9a4ec09",
         "trainer_name": "tapewormtako",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 17.085745404532897,
-        "rating_mu": 31.50102084957576,
-        "rating_sigma": 4.805091815014287,
-        "result": "loss"
       }
     }
   }

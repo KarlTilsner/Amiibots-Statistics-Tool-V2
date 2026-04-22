@@ -23,6 +23,12 @@
       }
     },
     "2020-08-17T17:39:08.764797+00:00": {
+      "this_amiibo": {
+        "rating": 11.229216893094208,
+        "rating_mu": 26.047856501487438,
+        "rating_sigma": 4.939546536131076,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
         "id": "81def2e2-4c5d-4d7c-bf5f-bf32400b3aca",
@@ -31,15 +37,15 @@
         "trainer_id": "981c6af2-809d-4590-80a6-e051c0344f24",
         "trainer_name": "Cheimerman",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.229216893094208,
-        "rating_mu": 26.047856501487438,
-        "rating_sigma": 4.939546536131076,
-        "result": "loss"
       }
     },
     "2020-08-18T13:44:43.023728+00:00": {
+      "this_amiibo": {
+        "rating": 11.335356774007359,
+        "rating_mu": 24.802908729120638,
+        "rating_sigma": 4.4891839850377595,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "23d6532e-80b3-4e9d-8634-d4fc41504889",
@@ -48,12 +54,6 @@
         "trainer_id": "b85e8371-ba5f-4ba7-8a48-8f21c1056c76",
         "trainer_name": "amiiboaction",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.335356774007359,
-        "rating_mu": 24.802908729120638,
-        "rating_sigma": 4.4891839850377595,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "sp_staples",
   "matches": {
     "2021-09-23T06:46:18.790991+00:00": {
+      "this_amiibo": {
+        "rating": 0.6150261595926594,
+        "rating_mu": 20.14188834279628,
+        "rating_sigma": 6.5089540610678736,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
         "id": "39c70c0b-1006-422a-8284-d789ba7e3b82",
@@ -14,12 +20,6 @@
         "trainer_id": "905b9afb-18d0-4a14-9f3a-88bd1bb97477",
         "trainer_name": "patattack2017",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6150261595926594,
-        "rating_mu": 20.14188834279628,
-        "rating_sigma": 6.5089540610678736,
-        "result": "loss"
       }
     }
   }

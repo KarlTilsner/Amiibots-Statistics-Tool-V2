@@ -23,6 +23,12 @@
       }
     },
     "2020-08-17T03:27:51.025191+00:00": {
+      "this_amiibo": {
+        "rating": 11.084682968855311,
+        "rating_mu": 25.975710074407054,
+        "rating_sigma": 4.963675701850581,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
         "id": "f67704fb-dac1-4b2d-ae4b-3fb578cf69a0",
@@ -31,12 +37,6 @@
         "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
         "trainer_name": "BCRiparo",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.084682968855311,
-        "rating_mu": 25.975710074407054,
-        "rating_sigma": 4.963675701850581,
-        "result": "loss"
       }
     }
   }

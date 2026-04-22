@@ -6,6 +6,12 @@
   "trainer_name": "BottoTheBulliedPirate",
   "matches": {
     "2021-03-29T23:57:16.237960+00:00": {
+      "this_amiibo": {
+        "rating": 0.34779084610681466,
+        "rating_mu": 19.435741186046048,
+        "rating_sigma": 6.362650113313078,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "e9bd7f87-95c9-43ba-a711-e4a4c1ae7a63",
@@ -14,15 +20,15 @@
         "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
         "trainer_name": "rurpking22",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.34779084610681466,
-        "rating_mu": 19.435741186046048,
-        "rating_sigma": 6.362650113313078,
-        "result": "loss"
       }
     },
     "2021-04-03T15:51:04.752418+00:00": {
+      "this_amiibo": {
+        "rating": -0.16481712586941555,
+        "rating_mu": 15.139261537332022,
+        "rating_sigma": 5.101359554400479,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
         "id": "57830c00-991d-4704-a85f-9b7883bde196",
@@ -31,12 +37,6 @@
         "trainer_id": "07e2d0ae-7ddc-461c-886d-5e88205438df",
         "trainer_name": "OctoChris",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.16481712586941555,
-        "rating_mu": 15.139261537332022,
-        "rating_sigma": 5.101359554400479,
-        "result": "loss"
       }
     }
   }

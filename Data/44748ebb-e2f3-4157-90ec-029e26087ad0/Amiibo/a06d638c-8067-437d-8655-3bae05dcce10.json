@@ -6,6 +6,12 @@
   "trainer_name": "staples___",
   "matches": {
     "2020-06-30T13:41:47.878766+00:00": {
+      "this_amiibo": {
+        "rating": 0.45307711121512995,
+        "rating_mu": 19.347011447869317,
+        "rating_sigma": 6.297978112218062,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
         "id": "7d044134-1766-4236-ade3-4b23be58c9bd",
@@ -14,12 +20,6 @@
         "trainer_id": "9e8a6dc5-1e8a-4e52-8e6c-dbd866f14fd4",
         "trainer_name": "kaizo_and_friends_live",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.45307711121512995,
-        "rating_mu": 19.347011447869317,
-        "rating_sigma": 6.297978112218062,
-        "result": "loss"
       }
     }
   }

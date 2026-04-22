@@ -6,6 +6,12 @@
   "trainer_name": "foamtray",
   "matches": {
     "2020-09-12T22:08:10.709162+00:00": {
+      "this_amiibo": {
+        "rating": -0.4993925836669604,
+        "rating_mu": 17.66028566877667,
+        "rating_sigma": 6.053226084147877,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
         "id": "d6a01d03-9d23-4fbc-9121-5ced2374ce70",
@@ -14,12 +20,6 @@
         "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
         "trainer_name": "apple_beebs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.4993925836669604,
-        "rating_mu": 17.66028566877667,
-        "rating_sigma": 6.053226084147877,
-        "result": "loss"
       }
     },
     "2020-09-13T10:15:27.596517+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2020-09-13T07:40:46.173585+00:00": {
+      "this_amiibo": {
+        "rating": -0.0945090231186203,
+        "rating_mu": 15.66723428035103,
+        "rating_sigma": 5.253914434489883,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
         "id": "c37df7b5-c61a-4313-baca-f14a31379297",
@@ -48,12 +54,6 @@
         "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
         "trainer_name": "apple_beebs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.0945090231186203,
-        "rating_mu": 15.66723428035103,
-        "rating_sigma": 5.253914434489883,
-        "result": "loss"
       }
     }
   }

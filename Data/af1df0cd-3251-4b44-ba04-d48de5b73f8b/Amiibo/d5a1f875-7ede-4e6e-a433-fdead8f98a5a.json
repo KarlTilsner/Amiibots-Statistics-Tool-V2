@@ -6,6 +6,12 @@
   "trainer_name": "pacman2k4",
   "matches": {
     "2024-01-27T09:28:32.379568+00:00": {
+      "this_amiibo": {
+        "rating": 12.288435990715978,
+        "rating_mu": 28.545044038458023,
+        "rating_sigma": 5.418869349247348,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "c6f9b12e-7832-44ca-b5b0-66dabdc1a491",
@@ -14,12 +20,6 @@
         "trainer_id": "790bfdd9-7935-4d8a-a2ef-e98e39633f80",
         "trainer_name": "wizard_real",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.288435990715978,
-        "rating_mu": 28.545044038458023,
-        "rating_sigma": 5.418869349247348,
-        "result": "loss"
       }
     },
     "2024-01-27T01:28:15.497215+00:00": {

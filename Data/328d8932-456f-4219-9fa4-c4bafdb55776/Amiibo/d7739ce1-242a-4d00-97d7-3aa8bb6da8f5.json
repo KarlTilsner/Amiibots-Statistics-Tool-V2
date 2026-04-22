@@ -6,6 +6,12 @@
   "trainer_name": "bluerunner0",
   "matches": {
     "2021-10-08T06:58:25.440292+00:00": {
+      "this_amiibo": {
+        "rating": 1.2914110710947426,
+        "rating_mu": 21.841209872285866,
+        "rating_sigma": 6.849932933730375,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3a80cdac-93bb-4a75-8e38-f69f37d10ec6",
         "id": "af866bcd-9131-409d-b6f6-c1b57c865e74",
@@ -14,15 +20,15 @@
         "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
         "trainer_name": "marble_787",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2914110710947426,
-        "rating_mu": 21.841209872285866,
-        "rating_sigma": 6.849932933730375,
-        "result": "loss"
       }
     },
     "2021-10-08T23:05:46.542195+00:00": {
+      "this_amiibo": {
+        "rating": 2.044645192885394,
+        "rating_mu": 20.736450669179135,
+        "rating_sigma": 6.230601825431247,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
         "id": "a348aa1c-b117-4049-af44-808871c8426b",
@@ -31,12 +37,6 @@
         "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
         "trainer_name": "LovingStew",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 2.044645192885394,
-        "rating_mu": 20.736450669179135,
-        "rating_sigma": 6.230601825431247,
-        "result": "loss"
       }
     },
     "2021-10-09T10:49:04.485072+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2021-10-11T03:00:14.988585+00:00": {
+      "this_amiibo": {
+        "rating": 7.670891157807265,
+        "rating_mu": 22.40652848431097,
+        "rating_sigma": 4.911879108834569,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "5a1c59d8-5b04-48f6-8409-7377d2e36a93",
@@ -65,12 +71,6 @@
         "trainer_id": "5dabe73b-a5b8-4de1-a221-70f871aa60d8",
         "trainer_name": "lonadimi",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 7.670891157807265,
-        "rating_mu": 22.40652848431097,
-        "rating_sigma": 4.911879108834569,
-        "result": "loss"
       }
     }
   }

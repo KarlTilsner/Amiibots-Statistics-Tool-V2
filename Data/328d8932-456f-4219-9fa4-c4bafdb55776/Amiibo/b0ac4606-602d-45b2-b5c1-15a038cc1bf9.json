@@ -6,6 +6,12 @@
   "trainer_name": "circuit404",
   "matches": {
     "2022-02-09T13:08:29.982475+00:00": {
+      "this_amiibo": {
+        "rating": 1.1982551703189799,
+        "rating_mu": 21.362186451413418,
+        "rating_sigma": 6.721310427031479,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "24abca9e-ba91-4c4b-84fc-81a9015cdb12",
@@ -14,12 +20,6 @@
         "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
         "trainer_name": "YM44",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1982551703189799,
-        "rating_mu": 21.362186451413418,
-        "rating_sigma": 6.721310427031479,
-        "result": "loss"
       }
     },
     "2022-02-10T18:18:00.020344+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2022-02-11T09:41:47.350342+00:00": {
+      "this_amiibo": {
+        "rating": 13.036586036220786,
+        "rating_mu": 26.15266183463711,
+        "rating_sigma": 4.372025266138775,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "f23157b6-e7e1-4e69-9cc9-b7d2d51fe927",
@@ -48,12 +54,6 @@
         "trainer_id": "adf6160f-1953-47fc-8bc2-42242696281c",
         "trainer_name": "enderren00",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.036586036220786,
-        "rating_mu": 26.15266183463711,
-        "rating_sigma": 4.372025266138775,
-        "result": "loss"
       }
     }
   }

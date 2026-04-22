@@ -6,6 +6,12 @@
   "trainer_name": "nozsmash",
   "matches": {
     "2020-06-10T19:22:55.629662+00:00": {
+      "this_amiibo": {
+        "rating": 1.170265647286616,
+        "rating_mu": 21.394751651003727,
+        "rating_sigma": 6.74149533457237,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
         "id": "8af29ba3-7757-48a0-b6d1-9feea29fbedc",
@@ -14,12 +20,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.170265647286616,
-        "rating_mu": 21.394751651003727,
-        "rating_sigma": 6.74149533457237,
-        "result": "loss"
       }
     }
   }

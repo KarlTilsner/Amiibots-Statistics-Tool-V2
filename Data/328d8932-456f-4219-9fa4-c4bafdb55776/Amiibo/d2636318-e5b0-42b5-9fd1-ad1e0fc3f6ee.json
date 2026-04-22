@@ -6,6 +6,12 @@
   "trainer_name": "rapjm14",
   "matches": {
     "2021-10-30T00:40:25.898667+00:00": {
+      "this_amiibo": {
+        "rating": 1.2471017588529882,
+        "rating_mu": 21.591724508545298,
+        "rating_sigma": 6.781540916564103,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "b37f1c63-f55b-48da-944f-4257dfd7f49e",
@@ -14,12 +20,6 @@
         "trainer_id": "05b24fde-41cd-4fd8-886c-daf4ec4bcc02",
         "trainer_name": "pdizzletheone",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2471017588529882,
-        "rating_mu": 21.591724508545298,
-        "rating_sigma": 6.781540916564103,
-        "result": "loss"
       }
     }
   }

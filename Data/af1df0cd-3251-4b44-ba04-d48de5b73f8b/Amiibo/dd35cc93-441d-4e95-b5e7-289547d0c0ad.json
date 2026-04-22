@@ -40,6 +40,12 @@
       }
     },
     "2023-07-04T13:36:00.296929+00:00": {
+      "this_amiibo": {
+        "rating": 14.92876421102725,
+        "rating_mu": 27.164464556273415,
+        "rating_sigma": 4.078566781748722,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
         "id": "9c7b31ed-3034-473f-b465-9eedd0e16a5d",
@@ -48,15 +54,15 @@
         "trainer_id": "15367c02-736e-484e-979d-f8c9baee4b2c",
         "trainer_name": "kiara_rin",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.92876421102725,
-        "rating_mu": 27.164464556273415,
-        "rating_sigma": 4.078566781748722,
-        "result": "loss"
       }
     },
     "2023-07-04T13:16:54.588433+00:00": {
+      "this_amiibo": {
+        "rating": 15.705517145410688,
+        "rating_mu": 29.920178321552456,
+        "rating_sigma": 4.738220392047256,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
         "id": "cb40fd92-a983-445a-ab11-1a3f86f2ad18",
@@ -65,12 +71,6 @@
         "trainer_id": "0918eb1f-823d-4b61-8da3-387a14718ebf",
         "trainer_name": "GamerJohn_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 15.705517145410688,
-        "rating_mu": 29.920178321552456,
-        "rating_sigma": 4.738220392047256,
-        "result": "loss"
       }
     }
   }

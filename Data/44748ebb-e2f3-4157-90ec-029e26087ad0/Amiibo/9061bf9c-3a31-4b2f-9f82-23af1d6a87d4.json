@@ -23,6 +23,12 @@
       }
     },
     "2020-11-28T12:02:04.563855+00:00": {
+      "this_amiibo": {
+        "rating": 11.23155739990547,
+        "rating_mu": 27.960318560169092,
+        "rating_sigma": 5.576253720087875,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "afc57ea1-4ad0-4103-9e85-6d48b4a62414",
@@ -31,12 +37,6 @@
         "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
         "trainer_name": "SteelswarmCycada",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.23155739990547,
-        "rating_mu": 27.960318560169092,
-        "rating_sigma": 5.576253720087875,
-        "result": "loss"
       }
     }
   }

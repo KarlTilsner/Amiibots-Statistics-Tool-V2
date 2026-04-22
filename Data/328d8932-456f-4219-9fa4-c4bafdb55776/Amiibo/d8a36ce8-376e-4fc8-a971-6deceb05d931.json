@@ -6,6 +6,12 @@
   "trainer_name": "mariodude6700",
   "matches": {
     "2022-01-17T22:42:01.764075+00:00": {
+      "this_amiibo": {
+        "rating": 1.2573006478038664,
+        "rating_mu": 21.66360231537495,
+        "rating_sigma": 6.802100555857027,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
         "id": "72baf0a3-1f9f-4816-98b7-3408d4976bb1",
@@ -14,12 +20,6 @@
         "trainer_id": "a9ec9d87-61e1-4c87-be6d-3442cf3a59d4",
         "trainer_name": "bluerunner0",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2573006478038664,
-        "rating_mu": 21.66360231537495,
-        "rating_sigma": 6.802100555857027,
-        "result": "loss"
       }
     }
   }

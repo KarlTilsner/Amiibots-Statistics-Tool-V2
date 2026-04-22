@@ -6,6 +6,12 @@
   "trainer_name": "staples___",
   "matches": {
     "2020-06-28T17:18:17.766598+00:00": {
+      "this_amiibo": {
+        "rating": 1.2266958694033043,
+        "rating_mu": 21.504611262464948,
+        "rating_sigma": 6.759305131020548,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "599edd14-687c-4264-812e-bc246f562f31",
         "id": "184c2c0e-aa49-4473-bf46-4f58598681bd",
@@ -14,15 +20,15 @@
         "trainer_id": "f0ff13ad-2d79-43ed-9754-edd686d76dfe",
         "trainer_name": "nozsmash",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2266958694033043,
-        "rating_mu": 21.504611262464948,
-        "rating_sigma": 6.759305131020548,
-        "result": "loss"
       }
     },
     "2020-07-08T01:14:58.247914+00:00": {
+      "this_amiibo": {
+        "rating": 1.8999944735118106,
+        "rating_mu": 20.43954883356216,
+        "rating_sigma": 6.179851453350117,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "3c39db90-545c-4b45-93ff-97484812380a",
@@ -31,12 +37,6 @@
         "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
         "trainer_name": "BCRiparo",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.8999944735118106,
-        "rating_mu": 20.43954883356216,
-        "rating_sigma": 6.179851453350117,
-        "result": "loss"
       }
     }
   }

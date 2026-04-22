@@ -6,6 +6,12 @@
   "trainer_name": "TheAbsoluteDingus",
   "matches": {
     "2022-07-27T13:55:26.010307+00:00": {
+      "this_amiibo": {
+        "rating": 0.20818195129324835,
+        "rating_mu": 18.866642653810576,
+        "rating_sigma": 6.219486900839109,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "53df838a-ee8e-4417-a58e-46beb6870f9c",
@@ -14,15 +20,15 @@
         "trainer_id": "b03ddf3c-0e54-4b9c-bf81-3373bed76b0a",
         "trainer_name": "neoboy239",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.20818195129324835,
-        "rating_mu": 18.866642653810576,
-        "rating_sigma": 6.219486900839109,
-        "result": "loss"
       }
     },
     "2022-07-27T23:21:35.420379+00:00": {
+      "this_amiibo": {
+        "rating": 0.2762983068900233,
+        "rating_mu": 15.789263589233691,
+        "rating_sigma": 5.170988427447889,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
         "id": "2865120f-1e58-4294-b13d-ff745feea65e",
@@ -31,15 +37,15 @@
         "trainer_id": "16484274-0bf1-42ca-8003-5797b387bdc5",
         "trainer_name": "Denneylaw83",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.2762983068900233,
-        "rating_mu": 15.789263589233691,
-        "rating_sigma": 5.170988427447889,
-        "result": "loss"
       }
     },
     "2022-07-28T22:03:13.259380+00:00": {
+      "this_amiibo": {
+        "rating": -0.02067410328493402,
+        "rating_mu": 14.44525032962839,
+        "rating_sigma": 4.821974810971108,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
         "id": "3e690d4b-ec36-4775-a459-6dc32dbee4e9",
@@ -48,12 +54,6 @@
         "trainer_id": "c77a47ee-60f9-487e-abed-a8514fdaeeac",
         "trainer_name": "trueschavi",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.02067410328493402,
-        "rating_mu": 14.44525032962839,
-        "rating_sigma": 4.821974810971108,
-        "result": "loss"
       }
     },
     "2022-07-31T06:03:21.630028+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2022-08-09T16:19:15.978127+00:00": {
+      "this_amiibo": {
+        "rating": 4.077626598922258,
+        "rating_mu": 15.257060452448448,
+        "rating_sigma": 3.7264779511753967,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
         "id": "228a565e-fc3c-43ff-964c-1f6e6d26d0dd",
@@ -82,12 +88,6 @@
         "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
         "trainer_name": "WynnThornton",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 4.077626598922258,
-        "rating_mu": 15.257060452448448,
-        "rating_sigma": 3.7264779511753967,
-        "result": "loss"
       }
     }
   }

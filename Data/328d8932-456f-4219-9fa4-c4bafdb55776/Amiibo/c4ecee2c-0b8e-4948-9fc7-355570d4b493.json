@@ -6,6 +6,12 @@
   "trainer_name": "raid_boss_09",
   "matches": {
     "2022-04-26T05:59:46.018003+00:00": {
+      "this_amiibo": {
+        "rating": 0.8572288475414744,
+        "rating_mu": 20.287090978567285,
+        "rating_sigma": 6.476620710341937,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
         "id": "a1aff239-84a7-426d-ae6b-97d0358e2a6b",
@@ -14,12 +20,6 @@
         "trainer_id": "4345ecdf-2886-46de-b0e4-755576321316",
         "trainer_name": "mariocraft6000",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8572288475414744,
-        "rating_mu": 20.287090978567285,
-        "rating_sigma": 6.476620710341937,
-        "result": "loss"
       }
     }
   }

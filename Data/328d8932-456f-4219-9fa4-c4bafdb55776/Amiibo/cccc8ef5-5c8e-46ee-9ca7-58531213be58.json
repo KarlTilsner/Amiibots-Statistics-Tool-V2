@@ -6,6 +6,12 @@
   "trainer_name": "zornchonthecob",
   "matches": {
     "2022-07-17T19:48:17.470922+00:00": {
+      "this_amiibo": {
+        "rating": -0.32737132261505764,
+        "rating_mu": 20.041489383474325,
+        "rating_sigma": 6.789620235363127,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
         "id": "349bdf30-ed8f-4f55-9c76-b0a32c15d2ce",
@@ -14,12 +20,6 @@
         "trainer_id": "790bfdd9-7935-4d8a-a2ef-e98e39633f80",
         "trainer_name": "wizard_real",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.32737132261505764,
-        "rating_mu": 20.041489383474325,
-        "rating_sigma": 6.789620235363127,
-        "result": "loss"
       }
     }
   }

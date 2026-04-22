@@ -6,6 +6,12 @@
   "trainer_name": "TheWohaPolice",
   "matches": {
     "2020-12-03T01:00:59.490432+00:00": {
+      "this_amiibo": {
+        "rating": 1.082525250384922,
+        "rating_mu": 21.826685978547264,
+        "rating_sigma": 6.91472024272078,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
         "id": "ec62956b-606e-428a-9a0c-57cc8250822c",
@@ -14,12 +20,57 @@
         "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
         "trainer_name": "carbon_show",
         "result": "win"
-      },
+      }
+    },
+    "2020-12-12T16:26:55.932310+00:00": {
       "this_amiibo": {
-        "rating": 1.082525250384922,
-        "rating_mu": 21.826685978547264,
-        "rating_sigma": 6.91472024272078,
+        "rating": 1.267364455917587,
+        "rating_mu": 18.282433467861566,
+        "rating_sigma": 5.671689670647993,
         "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "ebc2a198-a170-4c9a-955c-68a9250f66d1",
+        "name": "Agent Léa",
+        "rating": 17.38670795125416,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "win"
+      }
+    },
+    "2020-12-15T20:13:24.178194+00:00": {
+      "this_amiibo": {
+        "rating": 1.3882815986502166,
+        "rating_mu": 17.66733186767755,
+        "rating_sigma": 5.426350089675778,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "29fc7676-42ea-4d78-b826-e0b3729fbb07",
+        "name": "Ms Doggo",
+        "rating": 13.618528843904969,
+        "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
+        "trainer_name": "Murbert_AM",
+        "result": "win"
+      }
+    },
+    "2021-01-09T11:52:05.492998+00:00": {
+      "this_amiibo": {
+        "rating": 1.7595253869450964,
+        "rating_mu": 17.047952131397697,
+        "rating_sigma": 5.0961422481508665,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "02e2744c-b32b-4c3f-bf87-4c5f54789a0e",
+        "name": "girl gamer",
+        "rating": 25.649957502187966,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "win"
       }
     }
   }

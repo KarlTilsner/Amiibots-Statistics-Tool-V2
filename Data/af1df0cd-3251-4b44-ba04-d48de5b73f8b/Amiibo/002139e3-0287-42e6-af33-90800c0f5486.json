@@ -6,6 +6,12 @@
   "trainer_name": "joah_22",
   "matches": {
     "2023-09-25T12:16:14.355153+00:00": {
+      "this_amiibo": {
+        "rating": 0.6876376246155758,
+        "rating_mu": 19.85277716732628,
+        "rating_sigma": 6.388379847570235,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
         "id": "1262ab88-e186-491d-96a7-17ebf6a730ee",
@@ -14,12 +20,6 @@
         "trainer_id": "790bfdd9-7935-4d8a-a2ef-e98e39633f80",
         "trainer_name": "wizard_real",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6876376246155758,
-        "rating_mu": 19.85277716732628,
-        "rating_sigma": 6.388379847570235,
-        "result": "loss"
       }
     },
     "2023-10-02T16:11:23.805216+00:00": {
@@ -142,6 +142,12 @@
       }
     },
     "2023-12-23T17:15:54.946038+00:00": {
+      "this_amiibo": {
+        "rating": 24.118120769042065,
+        "rating_mu": 31.513268526646215,
+        "rating_sigma": 2.4650492525347163,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
         "id": "45cf74e2-21e5-468d-b842-1fed9f08e124",
@@ -150,12 +156,6 @@
         "trainer_id": "558d6371-ada9-4c14-b300-5eecf975ef68",
         "trainer_name": "deante_ssb",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 24.118120769042065,
-        "rating_mu": 31.513268526646215,
-        "rating_sigma": 2.4650492525347163,
-        "result": "loss"
       }
     },
     "2023-12-23T15:48:30.313869+00:00": {
@@ -176,6 +176,12 @@
       }
     },
     "2023-12-23T13:36:50.392367+00:00": {
+      "this_amiibo": {
+        "rating": 23.86983169627072,
+        "rating_mu": 32.14294865200164,
+        "rating_sigma": 2.757705651910308,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3a80cdac-93bb-4a75-8e38-f69f37d10ec6",
         "id": "8937be7e-642d-4e37-9ea6-49f610c90b80",
@@ -184,12 +190,6 @@
         "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
         "trainer_name": "halfmario456_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 23.86983169627072,
-        "rating_mu": 32.14294865200164,
-        "rating_sigma": 2.757705651910308,
-        "result": "loss"
       }
     }
   }

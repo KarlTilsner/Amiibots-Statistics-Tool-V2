@@ -6,6 +6,12 @@
   "trainer_name": "flaminjolt",
   "matches": {
     "2022-11-22T19:38:07.267352+00:00": {
+      "this_amiibo": {
+        "rating": 0.15270062941714002,
+        "rating_mu": 19.030519758877514,
+        "rating_sigma": 6.292606376486791,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
         "id": "11e7ddea-55ce-4560-a06b-7cd77b95a7b3",
@@ -14,12 +20,6 @@
         "trainer_id": "f7bfe992-9f98-47e5-9a46-b2e7cfdece05",
         "trainer_name": "BigMeatyClaws393",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.15270062941714002,
-        "rating_mu": 19.030519758877514,
-        "rating_sigma": 6.292606376486791,
-        "result": "loss"
       }
     },
     "2022-12-21T02:34:58.543149+00:00": {
@@ -91,6 +91,12 @@
       }
     },
     "2022-12-25T21:50:47.950543+00:00": {
+      "this_amiibo": {
+        "rating": 15.821054300998753,
+        "rating_mu": 26.33664767482663,
+        "rating_sigma": 3.5051977912759584,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
         "id": "3d60eda2-553b-4d55-b781-bc24cdbb5300",
@@ -99,12 +105,6 @@
         "trainer_id": "259c6c07-f590-4aba-8069-85a64f78c6f3",
         "trainer_name": "massivmann",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 15.821054300998753,
-        "rating_mu": 26.33664767482663,
-        "rating_sigma": 3.5051977912759584,
-        "result": "loss"
       }
     }
   }

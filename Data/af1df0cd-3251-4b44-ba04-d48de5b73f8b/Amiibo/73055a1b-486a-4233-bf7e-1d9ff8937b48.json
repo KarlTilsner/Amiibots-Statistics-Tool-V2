@@ -6,6 +6,12 @@
   "trainer_name": "picvity",
   "matches": {
     "2023-09-28T02:25:11.033631+00:00": {
+      "this_amiibo": {
+        "rating": 0.7152788903685661,
+        "rating_mu": 19.918161074465274,
+        "rating_sigma": 6.400960728032237,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
         "id": "1262ab88-e186-491d-96a7-17ebf6a730ee",
@@ -14,12 +20,6 @@
         "trainer_id": "790bfdd9-7935-4d8a-a2ef-e98e39633f80",
         "trainer_name": "wizard_real",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7152788903685661,
-        "rating_mu": 19.918161074465274,
-        "rating_sigma": 6.400960728032237,
-        "result": "loss"
       }
     }
   }

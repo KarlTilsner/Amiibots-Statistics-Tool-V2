@@ -6,6 +6,12 @@
   "trainer_name": "gotelin_",
   "matches": {
     "2022-04-30T12:53:07.626358+00:00": {
+      "this_amiibo": {
+        "rating": 1.1208609141742905,
+        "rating_mu": 21.15273673853316,
+        "rating_sigma": 6.677291941452957,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "36c5babd-d201-4529-a4d8-66baa257423a",
@@ -14,12 +20,6 @@
         "trainer_id": "0d50b45b-65ac-488b-b2b4-60456cf8764a",
         "trainer_name": "nabbitplushgang",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1208609141742905,
-        "rating_mu": 21.15273673853316,
-        "rating_sigma": 6.677291941452957,
-        "result": "loss"
       }
     }
   }

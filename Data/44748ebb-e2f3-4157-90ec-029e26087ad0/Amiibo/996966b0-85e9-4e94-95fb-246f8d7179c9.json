@@ -6,6 +6,12 @@
   "trainer_name": "TooLoocas",
   "matches": {
     "2020-12-01T20:04:00.546500+00:00": {
+      "this_amiibo": {
+        "rating": 0.638002268865133,
+        "rating_mu": 19.867864229506356,
+        "rating_sigma": 6.409953986880407,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
         "id": "1577fe8c-9a81-4883-8a13-f7a08b82821b",
@@ -14,12 +20,6 @@
         "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
         "trainer_name": "rurpking22",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.638002268865133,
-        "rating_mu": 19.867864229506356,
-        "rating_sigma": 6.409953986880407,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "Competitively2",
   "matches": {
     "2021-12-29T23:57:12.594401+00:00": {
+      "this_amiibo": {
+        "rating": 1.0803779406552998,
+        "rating_mu": 21.2422304151494,
+        "rating_sigma": 6.720617491498033,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
         "id": "e7ec4d9f-7e93-46d4-9a02-f32ed2dd501b",
@@ -14,12 +20,6 @@
         "trainer_id": "800690a5-19de-4098-8fd4-33bcbadf4a18",
         "trainer_name": "TheAuraKing6",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0803779406552998,
-        "rating_mu": 21.2422304151494,
-        "rating_sigma": 6.720617491498033,
-        "result": "loss"
       }
     }
   }

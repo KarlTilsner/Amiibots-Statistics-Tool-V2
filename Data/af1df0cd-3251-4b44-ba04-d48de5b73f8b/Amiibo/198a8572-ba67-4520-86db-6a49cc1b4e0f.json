@@ -6,6 +6,12 @@
   "trainer_name": "Bananika7",
   "matches": {
     "2023-12-27T12:36:38.716366+00:00": {
+      "this_amiibo": {
+        "rating": 1.2158905683539771,
+        "rating_mu": 21.433048734469107,
+        "rating_sigma": 6.739052722038377,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
         "id": "acda7660-d44e-4a2a-b7b5-b38eac4ce179",
@@ -14,15 +20,15 @@
         "trainer_id": "333ada9d-112d-469a-8a26-320358969432",
         "trainer_name": "smashssf2_ita",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2158905683539771,
-        "rating_mu": 21.433048734469107,
-        "rating_sigma": 6.739052722038377,
-        "result": "loss"
       }
     },
     "2024-01-23T05:39:49.250973+00:00": {
+      "this_amiibo": {
+        "rating": 0.9624064770742322,
+        "rating_mu": 16.980819441866004,
+        "rating_sigma": 5.339470988263924,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "e59606ac-a1eb-4f92-a161-bade9cc3c164",
@@ -31,12 +37,6 @@
         "trainer_id": "01ca434c-a198-412c-b33c-18ffc8fd3c89",
         "trainer_name": "E1024WasTaken",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9624064770742322,
-        "rating_mu": 16.980819441866004,
-        "rating_sigma": 5.339470988263924,
-        "result": "loss"
       }
     }
   }

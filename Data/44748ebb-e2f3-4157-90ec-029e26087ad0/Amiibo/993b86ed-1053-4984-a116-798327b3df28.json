@@ -6,6 +6,12 @@
   "trainer_name": "mono4020",
   "matches": {
     "2020-08-06T15:36:46.911547+00:00": {
+      "this_amiibo": {
+        "rating": -0.3731177311983025,
+        "rating_mu": 17.79948817850047,
+        "rating_sigma": 6.057535303232925,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
         "id": "801d9266-7cd5-4e9b-992c-ff009f82ec4a",
@@ -14,12 +20,6 @@
         "trainer_id": "67752445-1c0b-45ff-872a-f478a3c95ecf",
         "trainer_name": "dreadfather_666",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.3731177311983025,
-        "rating_mu": 17.79948817850047,
-        "rating_sigma": 6.057535303232925,
-        "result": "loss"
       }
     }
   }

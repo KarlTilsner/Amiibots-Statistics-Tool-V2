@@ -40,6 +40,12 @@
       }
     },
     "2021-11-16T04:08:00.845144+00:00": {
+      "this_amiibo": {
+        "rating": 14.025621926682643,
+        "rating_mu": 27.4913393195771,
+        "rating_sigma": 4.488572464298152,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "2746b79f-6dab-4864-a641-d30e7aae414f",
@@ -48,12 +54,6 @@
         "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
         "trainer_name": "AceTempest172",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.025621926682643,
-        "rating_mu": 27.4913393195771,
-        "rating_sigma": 4.488572464298152,
-        "result": "loss"
       }
     }
   }

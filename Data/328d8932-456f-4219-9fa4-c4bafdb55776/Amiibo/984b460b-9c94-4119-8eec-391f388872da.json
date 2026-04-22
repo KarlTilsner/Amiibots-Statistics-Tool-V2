@@ -1,0 +1,43 @@
+{
+  "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
+  "id": "984b460b-9c94-4119-8eec-391f388872da",
+  "name": "Larry",
+  "trainer_id": "989b85c3-4ffc-41c0-8596-2d2c67fd7158",
+  "trainer_name": "tealeevz",
+  "matches": {
+    "2022-10-20T22:30:56.873244+00:00": {
+      "this_amiibo": {
+        "rating": 0.7341035730121597,
+        "rating_mu": 20.099572157691046,
+        "rating_sigma": 6.455156194892963,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "34ee12d7-3132-49c4-ad6a-8245e1968a19",
+        "name": "BomberKing",
+        "rating": 22.186961267428757,
+        "trainer_id": "dd0ab86d-b23e-4b79-b8e6-8e4a050597c2",
+        "trainer_name": "badfish321",
+        "result": "win"
+      }
+    },
+    "2022-11-02T01:09:09.039090+00:00": {
+      "this_amiibo": {
+        "rating": 6.528539056356806,
+        "rating_mu": 23.801994741943634,
+        "rating_sigma": 5.757818561862276,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "6e81c1b4-b957-4b28-b948-5bc4b38cd566",
+        "name": "reddit guy",
+        "rating": -1.4683998875386912,
+        "trainer_id": "558d6371-ada9-4c14-b300-5eecf975ef68",
+        "trainer_name": "deante_ssbu",
+        "result": "loss"
+      }
+    }
+  }
+}

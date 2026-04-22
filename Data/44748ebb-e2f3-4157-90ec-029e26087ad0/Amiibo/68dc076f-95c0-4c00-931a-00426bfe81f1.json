@@ -6,6 +6,12 @@
   "trainer_name": "foamtray",
   "matches": {
     "2020-08-26T10:43:58.789073+00:00": {
+      "this_amiibo": {
+        "rating": -0.3855416218127239,
+        "rating_mu": 17.968214651496115,
+        "rating_sigma": 6.117918757769614,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "9c5f1bcb-ee43-4cdb-9667-42eb88491da3",
@@ -14,12 +20,6 @@
         "trainer_id": "fd2be56f-b542-4651-9b7e-94a43c060a58",
         "trainer_name": "TheoreticalMyth",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.3855416218127239,
-        "rating_mu": 17.968214651496115,
-        "rating_sigma": 6.117918757769614,
-        "result": "loss"
       }
     }
   }

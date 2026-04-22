@@ -6,6 +6,12 @@
   "trainer_name": "foamtray",
   "matches": {
     "2020-02-14T10:56:08.631200+00:00": {
+      "this_amiibo": {
+        "rating": 0.4975982378148949,
+        "rating_mu": 19.507309747225744,
+        "rating_sigma": 6.336570503136949,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
         "id": "aaaea803-1592-468b-807c-dbee74b00209",
@@ -14,15 +20,15 @@
         "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
         "trainer_name": "river_tethys",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.4975982378148949,
-        "rating_mu": 19.507309747225744,
-        "rating_sigma": 6.336570503136949,
-        "result": "loss"
       }
     },
     "2020-02-14T17:10:28.736782+00:00": {
+      "this_amiibo": {
+        "rating": 1.065627495954832,
+        "rating_mu": 18.323088250427237,
+        "rating_sigma": 5.752486918157468,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3a80cdac-93bb-4a75-8e38-f69f37d10ec6",
         "id": "42304e56-0ec7-4bd0-b992-34c25036bfaf",
@@ -31,12 +37,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "migbui",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.065627495954832,
-        "rating_mu": 18.323088250427237,
-        "rating_sigma": 5.752486918157468,
-        "result": "loss"
       }
     },
     "2020-02-15T01:18:33.341259+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2020-02-16T00:28:26.705093+00:00": {
+      "this_amiibo": {
+        "rating": 9.766112228264085,
+        "rating_mu": 21.41109587884908,
+        "rating_sigma": 3.8816612168616644,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
         "id": "dce95cbf-e431-4560-a43b-124e76fa154f",
@@ -82,12 +88,6 @@
         "trainer_id": "83ad055f-644c-4c4f-8a57-7f9180b0d326",
         "trainer_name": "Zanymarshalo\n",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.766112228264085,
-        "rating_mu": 21.41109587884908,
-        "rating_sigma": 3.8816612168616644,
-        "result": "loss"
       }
     },
     "2020-02-16T06:45:23.271560+00:00": {
@@ -108,6 +108,12 @@
       }
     },
     "2020-02-16T10:23:53.804417+00:00": {
+      "this_amiibo": {
+        "rating": 13.014060905589353,
+        "rating_mu": 22.5098763994928,
+        "rating_sigma": 3.165271831301149,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3a80cdac-93bb-4a75-8e38-f69f37d10ec6",
         "id": "0373cbe5-2e25-4a7e-8504-d459f6f0dcc2",
@@ -116,12 +122,6 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.014060905589353,
-        "rating_mu": 22.5098763994928,
-        "rating_sigma": 3.165271831301149,
-        "result": "loss"
       }
     }
   }

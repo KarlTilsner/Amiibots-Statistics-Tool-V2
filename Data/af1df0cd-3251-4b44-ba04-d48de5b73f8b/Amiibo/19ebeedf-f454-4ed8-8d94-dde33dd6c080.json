@@ -6,6 +6,12 @@
   "trainer_name": "infinite_ultimate_life",
   "matches": {
     "2024-02-18T12:14:53.726573+00:00": {
+      "this_amiibo": {
+        "rating": -0.7899217551096172,
+        "rating_mu": 20.79452709502615,
+        "rating_sigma": 7.194816283378589,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
         "id": "da356378-f53b-4b41-8e52-252f71fba94f",
@@ -14,15 +20,15 @@
         "trainer_id": "6620a138-5af3-4d27-8bc7-1e989943136b",
         "trainer_name": "ethanzombiek",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.7899217551096172,
-        "rating_mu": 20.79452709502615,
-        "rating_sigma": 7.194816283378589,
-        "result": "loss"
       }
     },
     "2024-03-03T03:53:35.605331+00:00": {
+      "this_amiibo": {
+        "rating": -0.11864289710687714,
+        "rating_mu": 17.645476935825403,
+        "rating_sigma": 5.9213732776440935,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "c2586051-0402-496d-a882-82b803a765cd",
@@ -31,15 +37,15 @@
         "trainer_id": "b9f75440-e3f7-4c8e-8a3f-8dc09b8327ae",
         "trainer_name": "blackstargem11",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.11864289710687714,
-        "rating_mu": 17.645476935825403,
-        "rating_sigma": 5.9213732776440935,
-        "result": "loss"
       }
     },
     "2024-03-04T04:52:19.178726+00:00": {
+      "this_amiibo": {
+        "rating": -0.9277590664281732,
+        "rating_mu": 13.818427897790732,
+        "rating_sigma": 4.915395654739635,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "358a5e11-2dfc-4ff2-b071-cb7a3aabeb53",
@@ -48,12 +54,6 @@
         "trainer_id": "6c408140-400c-48b3-919d-70583a60c704",
         "trainer_name": "catbeastt",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.9277590664281732,
-        "rating_mu": 13.818427897790732,
-        "rating_sigma": 4.915395654739635,
-        "result": "loss"
       }
     }
   }

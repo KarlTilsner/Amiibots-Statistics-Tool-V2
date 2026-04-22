@@ -6,6 +6,12 @@
   "trainer_name": "ShiiroNekowo",
   "matches": {
     "2022-12-22T15:27:47.121310+00:00": {
+      "this_amiibo": {
+        "rating": -0.5722751922783047,
+        "rating_mu": 19.09945016765969,
+        "rating_sigma": 6.5572417866459975,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
         "id": "44449b48-0e6b-4461-a008-e117efbd2fa1",
@@ -14,12 +20,6 @@
         "trainer_id": "c1461260-903f-4aae-ad42-af21e07e1e98",
         "trainer_name": "MoonBeanBie",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.5722751922783047,
-        "rating_mu": 19.09945016765969,
-        "rating_sigma": 6.5572417866459975,
-        "result": "loss"
       }
     }
   }

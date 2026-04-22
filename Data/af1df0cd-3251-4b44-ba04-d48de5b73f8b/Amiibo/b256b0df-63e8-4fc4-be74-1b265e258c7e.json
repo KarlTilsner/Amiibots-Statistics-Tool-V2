@@ -6,6 +6,12 @@
   "trainer_name": "blueflares1",
   "matches": {
     "2023-04-27T07:56:05.073204+00:00": {
+      "this_amiibo": {
+        "rating": -0.12256605341143256,
+        "rating_mu": 21.426545215188494,
+        "rating_sigma": 7.183037089533308,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
         "id": "454e3a77-141c-44d9-8300-5a945da4d631",
@@ -14,12 +20,6 @@
         "trainer_id": "558d6371-ada9-4c14-b300-5eecf975ef68",
         "trainer_name": "deante_ssb",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.12256605341143256,
-        "rating_mu": 21.426545215188494,
-        "rating_sigma": 7.183037089533308,
-        "result": "loss"
       }
     }
   }

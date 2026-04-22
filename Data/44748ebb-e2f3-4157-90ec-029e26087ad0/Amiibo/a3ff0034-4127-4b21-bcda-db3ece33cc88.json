@@ -6,6 +6,12 @@
   "trainer_name": "TheWohaPolice",
   "matches": {
     "2020-11-29T15:12:52.139523+00:00": {
+      "this_amiibo": {
+        "rating": 1.2928692793754024,
+        "rating_mu": 21.94538796030585,
+        "rating_sigma": 6.884172893643483,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96e48494-946f-4280-a419-488d644135e0",
         "id": "15d1d1cf-25cc-4176-bfb7-1c16e12daa83",
@@ -14,12 +20,6 @@
         "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
         "trainer_name": "carbon_show",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2928692793754024,
-        "rating_mu": 21.94538796030585,
-        "rating_sigma": 6.884172893643483,
-        "result": "loss"
       }
     },
     "2020-12-04T02:14:10.725416+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2020-12-04T17:09:35.953306+00:00": {
+      "this_amiibo": {
+        "rating": 14.602545889455675,
+        "rating_mu": 27.647074435015295,
+        "rating_sigma": 4.348176181853207,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
         "id": "4bf349ac-b04b-42bf-84d9-78489dc6a8ce",
@@ -48,15 +54,15 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.602545889455675,
-        "rating_mu": 27.647074435015295,
-        "rating_sigma": 4.348176181853207,
-        "result": "loss"
       }
     },
     "2020-12-07T11:22:53.240866+00:00": {
+      "this_amiibo": {
+        "rating": 14.355863122261937,
+        "rating_mu": 26.064605305114338,
+        "rating_sigma": 3.9029140609508,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "b13af339-58fc-4451-b5ef-9d0a0d48d576",
@@ -65,11 +71,56 @@
         "trainer_id": "60cc23aa-c39d-49e0-b13d-13e205d499bd",
         "trainer_name": "youaregoknba",
         "result": "win"
-      },
+      }
+    },
+    "2020-12-13T00:30:16.357076+00:00": {
       "this_amiibo": {
-        "rating": 14.355863122261937,
-        "rating_mu": 26.064605305114338,
-        "rating_sigma": 3.9029140609508,
+        "rating": 17.052587293744477,
+        "rating_mu": 27.697936589834665,
+        "rating_sigma": 3.548449765363396,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "1c93418e-be76-4825-b774-17034078d0e4",
+        "name": "Koopa Kid",
+        "rating": 18.310560568919172,
+        "trainer_id": "0dac8a24-5ed7-4fc9-9c00-5674617b4fab",
+        "trainer_name": "LUIGIMARIOLOVER123",
+        "result": "loss"
+      }
+    },
+    "2020-12-30T05:31:04.280006+00:00": {
+      "this_amiibo": {
+        "rating": 16.909840229925454,
+        "rating_mu": 26.89985276287047,
+        "rating_sigma": 3.3300041776483384,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "8b1cb1b5-de9c-400b-96d2-b88ec7b8e4ab",
+        "name": "Top Deck",
+        "rating": 27.01067669734914,
+        "trainer_id": "01df4710-a9ed-40e8-bbe5-853594fb3ae1",
+        "trainer_name": "sloth1990",
+        "result": "win"
+      }
+    },
+    "2021-01-03T04:00:41.680562+00:00": {
+      "this_amiibo": {
+        "rating": 18.685785810338857,
+        "rating_mu": 27.977305334582034,
+        "rating_sigma": 3.0971731747477254,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "5ae5b6e2-f8aa-4a74-83d2-d9c22a5abd90",
+        "name": "Fairy Tail",
+        "rating": 20.453043819205906,
+        "trainer_id": "842fd55b-5c9f-4914-820e-99639a5ccf96",
+        "trainer_name": "littlefang__",
         "result": "loss"
       }
     }

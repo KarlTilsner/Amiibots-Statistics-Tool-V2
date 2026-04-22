@@ -6,6 +6,12 @@
   "trainer_name": "aggron_ghost",
   "matches": {
     "2023-09-05T18:25:39.784238+00:00": {
+      "this_amiibo": {
+        "rating": 0.13914790568373192,
+        "rating_mu": 18.73950375177747,
+        "rating_sigma": 6.2001186153645795,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "57957a09-38d5-4c58-a465-714facae6942",
@@ -14,12 +20,6 @@
         "trainer_id": "1b9237f2-d76d-4746-bde5-f5b316d502a6",
         "trainer_name": "killer_icarus67z",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.13914790568373192,
-        "rating_mu": 18.73950375177747,
-        "rating_sigma": 6.2001186153645795,
-        "result": "loss"
       }
     }
   }

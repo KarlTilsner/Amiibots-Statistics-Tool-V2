@@ -6,6 +6,12 @@
   "trainer_name": "FrostByte245",
   "matches": {
     "2021-12-03T02:49:59.414680+00:00": {
+      "this_amiibo": {
+        "rating": -0.35941060621246734,
+        "rating_mu": 19.600854395744093,
+        "rating_sigma": 6.653421667318853,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
         "id": "bb3c683f-91e6-4d12-87d9-b06d37b44f1b",
@@ -14,15 +20,15 @@
         "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
         "trainer_name": "Zoom__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.35941060621246734,
-        "rating_mu": 19.600854395744093,
-        "rating_sigma": 6.653421667318853,
-        "result": "loss"
       }
     },
     "2021-12-03T05:45:03.275267+00:00": {
+      "this_amiibo": {
+        "rating": 13.558026518120212,
+        "rating_mu": 26.970581343538658,
+        "rating_sigma": 4.470851608472816,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "10113ebf-f945-462b-ae2e-b10942c24d84",
@@ -31,12 +37,6 @@
         "trainer_id": "74b11748-df73-4895-a914-7f048a54ecc8",
         "trainer_name": "Dempsey342",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.558026518120212,
-        "rating_mu": 26.970581343538658,
-        "rating_sigma": 4.470851608472816,
-        "result": "loss"
       }
     },
     "2021-12-03T04:14:42.311617+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2021-12-03T12:11:45.181973+00:00": {
+      "this_amiibo": {
+        "rating": 13.49985256053208,
+        "rating_mu": 25.624908250197375,
+        "rating_sigma": 4.041685229888432,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "eebcac5d-5554-4687-b7d2-3894e4f8636f",
@@ -65,12 +71,6 @@
         "trainer_id": "7ff68788-3366-489f-9efd-bb3c16421574",
         "trainer_name": "VocalFan",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.49985256053208,
-        "rating_mu": 25.624908250197375,
-        "rating_sigma": 4.041685229888432,
-        "result": "loss"
       }
     }
   }

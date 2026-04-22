@@ -6,6 +6,12 @@
   "trainer_name": "LUIGIMARIOLOVER123",
   "matches": {
     "2020-12-03T04:13:20.134324+00:00": {
+      "this_amiibo": {
+        "rating": 1.0337579139489073,
+        "rating_mu": 20.876746754435608,
+        "rating_sigma": 6.614329613495567,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
         "id": "5b720bfc-54d5-435a-a56b-bbafc0ecff02",
@@ -14,15 +20,15 @@
         "trainer_id": "5dfb0237-48b4-423d-afce-a12ad85fc454",
         "trainer_name": "tilinamiibo",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0337579139489073,
-        "rating_mu": 20.876746754435608,
-        "rating_sigma": 6.614329613495567,
-        "result": "loss"
       }
     },
     "2020-12-06T16:14:24.612044+00:00": {
+      "this_amiibo": {
+        "rating": 1.690761922792916,
+        "rating_mu": 18.969707488532684,
+        "rating_sigma": 5.759648521913256,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
         "id": "d30d8206-c5c5-48db-9a84-4f11c26061cf",
@@ -31,11 +37,90 @@
         "trainer_id": "001c3b1a-bb0b-4c08-b8a9-5abd62c7cef7",
         "trainer_name": "joeyfaphone",
         "result": "win"
-      },
+      }
+    },
+    "2020-12-09T04:46:22.794286+00:00": {
       "this_amiibo": {
-        "rating": 1.690761922792916,
-        "rating_mu": 18.969707488532684,
-        "rating_sigma": 5.759648521913256,
+        "rating": 2.074855302033855,
+        "rating_mu": 17.3675602024504,
+        "rating_sigma": 5.097568300138848,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "32b99951-23be-40ab-9969-7f0475b60347",
+        "name": "Gerard Way",
+        "rating": 21.907228544560713,
+        "trainer_id": "8c8215a3-3883-42c6-92ac-9871c24c8093",
+        "trainer_name": "peace_love_metal",
+        "result": "win"
+      }
+    },
+    "2020-12-10T04:33:51.244520+00:00": {
+      "this_amiibo": {
+        "rating": 8.261914237135496,
+        "rating_mu": 21.26664460261045,
+        "rating_sigma": 4.3349101218249855,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "ebc2a198-a170-4c9a-955c-68a9250f66d1",
+        "name": "Agent Léa",
+        "rating": 12.265182342718182,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "loss"
+      }
+    },
+    "2020-12-11T12:31:27.109437+00:00": {
+      "this_amiibo": {
+        "rating": 8.115231892726044,
+        "rating_mu": 19.848734244402248,
+        "rating_sigma": 3.911167450558735,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+        "id": "0dad8a9e-8b83-4f0c-8185-6013825badfd",
+        "name": "MnkeyGoomb",
+        "rating": 21.899143997088103,
+        "trainer_id": "79127d18-8a5d-4b78-b8e9-ad09b1d225c2",
+        "trainer_name": "Veemo_Goomba",
+        "result": "win"
+      }
+    },
+    "2020-12-19T18:45:18.137738+00:00": {
+      "this_amiibo": {
+        "rating": 7.818564875485864,
+        "rating_mu": 18.69237790738977,
+        "rating_sigma": 3.6246043439679685,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "3dfa7bc7-c307-4ff9-a4ca-af0ea4fbd64f",
+        "name": "MetaRidley",
+        "rating": 14.602737698696451,
+        "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
+        "trainer_name": "rurpking22",
+        "result": "win"
+      }
+    },
+    "2021-01-05T17:52:06.399738+00:00": {
+      "this_amiibo": {
+        "rating": 9.661224778506202,
+        "rating_mu": 19.9646397058023,
+        "rating_sigma": 3.4344716424320323,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "6faff917-c435-4bd2-867e-d79cbc2a8d59",
+        "name": "Glados",
+        "rating": 0.8823979557974759,
+        "trainer_id": "ba0504d2-254f-4903-b607-1d504aa24cb2",
+        "trainer_name": "noodlesmonosis",
         "result": "loss"
       }
     }

@@ -23,6 +23,12 @@
       }
     },
     "2022-04-23T17:58:25.598579+00:00": {
+      "this_amiibo": {
+        "rating": 26.807989001026478,
+        "rating_mu": 30.425221507497703,
+        "rating_sigma": 1.2057441688237414,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
         "id": "f80d017f-110a-417c-a1eb-dddd0193b097",
@@ -31,15 +37,15 @@
         "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
         "trainer_name": "SG_Bubs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 26.807989001026478,
-        "rating_mu": 30.425221507497703,
-        "rating_sigma": 1.2057441688237414,
-        "result": "loss"
       }
     },
     "2022-10-29T16:02:10.271871+00:00": {
+      "this_amiibo": {
+        "rating": 26.603963666282272,
+        "rating_mu": 30.180728645575922,
+        "rating_sigma": 1.1922549930978834,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
         "id": "1c8d2004-4b31-41cd-a80a-a0e6eb7d93b3",
@@ -48,12 +54,6 @@
         "trainer_id": "a783d150-bd51-4b0c-9379-b32e55643dac",
         "trainer_name": "iguyw",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 26.603963666282272,
-        "rating_mu": 30.180728645575922,
-        "rating_sigma": 1.1922549930978834,
-        "result": "loss"
       }
     }
   }

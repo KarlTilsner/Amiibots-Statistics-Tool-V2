@@ -6,6 +6,12 @@
   "trainer_name": "J_549",
   "matches": {
     "2022-04-28T22:40:29.078838+00:00": {
+      "this_amiibo": {
+        "rating": -0.14696370606100473,
+        "rating_mu": 19.85091398624026,
+        "rating_sigma": 6.665959230767089,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
         "id": "68697cdb-37c4-4a12-8847-0ad24460ed7d",
@@ -14,15 +20,15 @@
         "trainer_id": "130d14e0-8ba1-407c-8c69-6c2544843b8f",
         "trainer_name": "bertolupin",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.14696370606100473,
-        "rating_mu": 19.85091398624026,
-        "rating_sigma": 6.665959230767089,
-        "result": "loss"
       }
     },
     "2022-04-30T22:38:55.961655+00:00": {
+      "this_amiibo": {
+        "rating": -0.2757368878346682,
+        "rating_mu": 16.125392283345608,
+        "rating_sigma": 5.467043057060092,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
         "id": "f0989067-361b-4c18-94ea-179148e442eb",
@@ -31,12 +37,6 @@
         "trainer_id": "74b11748-df73-4895-a914-7f048a54ecc8",
         "trainer_name": "Dempsey342",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.2757368878346682,
-        "rating_mu": 16.125392283345608,
-        "rating_sigma": 5.467043057060092,
-        "result": "loss"
       }
     },
     "2022-05-12T22:26:08.682410+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2022-05-14T13:14:55.608630+00:00": {
+      "this_amiibo": {
+        "rating": 6.814911700021257,
+        "rating_mu": 18.283402751182805,
+        "rating_sigma": 3.8228303503871826,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
         "id": "7aa30e40-6c38-4c4a-b03b-897a68dec4ba",
@@ -82,12 +88,6 @@
         "trainer_id": "055be47d-4030-4ff1-9595-b663b3a39a88",
         "trainer_name": "Mteal0",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 6.814911700021257,
-        "rating_mu": 18.283402751182805,
-        "rating_sigma": 3.8228303503871826,
-        "result": "loss"
       }
     },
     "2022-05-16T04:52:01.068107+00:00": {
@@ -108,6 +108,12 @@
       }
     },
     "2022-05-25T02:09:15.420724+00:00": {
+      "this_amiibo": {
+        "rating": 8.342452643802707,
+        "rating_mu": 18.228777374422496,
+        "rating_sigma": 3.295441576873263,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "747250c6-f425-402f-8785-313b4a37fa5e",
@@ -116,12 +122,6 @@
         "trainer_id": "99e86932-8f2a-4152-9e1d-84f6d0025f9e",
         "trainer_name": "MattTheBoxingChampFromWii",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 8.342452643802707,
-        "rating_mu": 18.228777374422496,
-        "rating_sigma": 3.295441576873263,
-        "result": "loss"
       }
     }
   }

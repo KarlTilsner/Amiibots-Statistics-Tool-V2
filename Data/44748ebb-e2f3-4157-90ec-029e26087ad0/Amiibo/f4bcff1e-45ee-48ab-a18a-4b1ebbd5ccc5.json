@@ -40,6 +40,12 @@
       }
     },
     "2020-06-21T19:14:34.852532+00:00": {
+      "this_amiibo": {
+        "rating": 8.328974386498924,
+        "rating_mu": 21.537779748805107,
+        "rating_sigma": 4.402935120768728,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "fea4c269-43fd-4c5f-8d9a-e275560259fa",
@@ -48,15 +54,15 @@
         "trainer_id": "b36be25e-e2c7-46ff-b780-e1898b416d9e",
         "trainer_name": "latios7184",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 8.328974386498924,
-        "rating_mu": 21.537779748805107,
-        "rating_sigma": 4.402935120768728,
-        "result": "loss"
       }
     },
     "2020-06-21T19:06:49.272546+00:00": {
+      "this_amiibo": {
+        "rating": 8.696323827263996,
+        "rating_mu": 24.138348951351386,
+        "rating_sigma": 5.14734170802913,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "3644b93e-4b28-4458-ab04-cac84b5ccc6b",
@@ -65,12 +71,6 @@
         "trainer_id": "2b51db02-3ed4-4bab-880e-ce9433fd54ef",
         "trainer_name": "DONkL",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 8.696323827263996,
-        "rating_mu": 24.138348951351386,
-        "rating_sigma": 5.14734170802913,
-        "result": "loss"
       }
     }
   }

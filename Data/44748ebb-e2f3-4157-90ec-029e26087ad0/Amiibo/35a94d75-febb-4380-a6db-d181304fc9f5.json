@@ -6,6 +6,12 @@
   "trainer_name": "nozsmash",
   "matches": {
     "2020-07-11T22:37:57.143877+00:00": {
+      "this_amiibo": {
+        "rating": 7.8863668607843955,
+        "rating_mu": 22.62532680166865,
+        "rating_sigma": 4.912986646961418,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "0b756102-16f5-47ba-9214-2732923bdc0e",
@@ -14,12 +20,6 @@
         "trainer_id": "a6686cbf-503b-4a02-94b1-a5147b9d08ed",
         "trainer_name": "Armored_Sage",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 7.8863668607843955,
-        "rating_mu": 22.62532680166865,
-        "rating_sigma": 4.912986646961418,
-        "result": "loss"
       }
     },
     "2020-07-11T21:43:08.480729+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2020-07-11T21:14:23.333571+00:00": {
+      "this_amiibo": {
+        "rating": 1.2478784429138727,
+        "rating_mu": 21.71233669970984,
+        "rating_sigma": 6.821486085598656,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
         "id": "4126eb18-be13-4749-95ed-728c2d5aad9a",
@@ -48,12 +54,6 @@
         "trainer_id": "e107d104-7f29-4a8c-973c-d767b9d963e2",
         "trainer_name": "cryotheist",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2478784429138727,
-        "rating_mu": 21.71233669970984,
-        "rating_sigma": 6.821486085598656,
-        "result": "loss"
       }
     }
   }

@@ -57,6 +57,12 @@
       }
     },
     "2022-07-23T22:25:19.459028+00:00": {
+      "this_amiibo": {
+        "rating": 22.02339151160662,
+        "rating_mu": 34.050992565555376,
+        "rating_sigma": 4.009200351316252,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "1ecd59be-7631-469a-a21d-c6f6b7e9be25",
@@ -65,11 +71,39 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
+      }
+    },
+    "2022-11-03T05:19:30.009482+00:00": {
       "this_amiibo": {
-        "rating": 22.02339151160662,
-        "rating_mu": 34.050992565555376,
-        "rating_sigma": 4.009200351316252,
+        "rating": 25.274670684427363,
+        "rating_mu": 35.99486985173605,
+        "rating_sigma": 3.573399722436229,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "81712b81-f83f-4044-b382-6232f905daf6",
+        "name": "Peter",
+        "rating": 32.26706687578917,
+        "trainer_id": "fff1df31-fc68-4fba-8d11-7e4016df1268",
+        "trainer_name": "patspatchgaming_yt",
+        "result": "loss"
+      }
+    },
+    "2022-11-06T11:20:53.664428+00:00": {
+      "this_amiibo": {
+        "rating": 26.922341702145303,
+        "rating_mu": 37.00428078002336,
+        "rating_sigma": 3.3606463592926845,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "7f8d75dc-5d5e-4231-aa9f-9af61b421c13",
+        "name": "Imperator",
+        "rating": 21.652491053660857,
+        "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
+        "trainer_name": "leCharade",
         "result": "loss"
       }
     }

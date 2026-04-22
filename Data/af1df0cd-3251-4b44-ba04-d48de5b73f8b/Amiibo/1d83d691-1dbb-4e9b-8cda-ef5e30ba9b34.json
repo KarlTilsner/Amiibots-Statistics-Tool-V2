@@ -40,6 +40,12 @@
       }
     },
     "2024-06-02T08:02:45.315422+00:00": {
+      "this_amiibo": {
+        "rating": 19.625963375199767,
+        "rating_mu": 33.249894183400045,
+        "rating_sigma": 4.541310269400093,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "318567f8-989c-4aad-8bba-b90d9e49d9e5",
@@ -48,12 +54,6 @@
         "trainer_id": "79d00cf1-a587-4002-b190-d9c8b8b8e40a",
         "trainer_name": "DBStreams202",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 19.625963375199767,
-        "rating_mu": 33.249894183400045,
-        "rating_sigma": 4.541310269400093,
-        "result": "loss"
       }
     }
   }

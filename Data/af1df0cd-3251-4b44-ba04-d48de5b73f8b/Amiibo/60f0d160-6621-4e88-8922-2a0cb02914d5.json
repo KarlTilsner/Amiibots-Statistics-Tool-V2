@@ -6,6 +6,12 @@
   "trainer_name": "Unkinker3",
   "matches": {
     "2023-05-30T10:15:14.019070+00:00": {
+      "this_amiibo": {
+        "rating": 0.3084752459928879,
+        "rating_mu": 19.056761928177515,
+        "rating_sigma": 6.249428894061542,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
         "id": "4bf422c0-21c4-4515-8d90-c93280c0dddd",
@@ -14,15 +20,15 @@
         "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
         "trainer_name": "Pi_Boy_314",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.3084752459928879,
-        "rating_mu": 19.056761928177515,
-        "rating_sigma": 6.249428894061542,
-        "result": "loss"
       }
     },
     "2024-02-04T21:13:23.699525+00:00": {
+      "this_amiibo": {
+        "rating": 0.4823097914398744,
+        "rating_mu": 16.131134146550465,
+        "rating_sigma": 5.216274785036863,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
         "id": "bf1158fe-d5c0-4073-baa9-9c818cb7c89f",
@@ -31,12 +37,6 @@
         "trainer_id": "e8c228c8-a377-4a5c-91ba-4ab8238a4023",
         "trainer_name": "MrSmart13579",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.4823097914398744,
-        "rating_mu": 16.131134146550465,
-        "rating_sigma": 5.216274785036863,
-        "result": "loss"
       }
     }
   }

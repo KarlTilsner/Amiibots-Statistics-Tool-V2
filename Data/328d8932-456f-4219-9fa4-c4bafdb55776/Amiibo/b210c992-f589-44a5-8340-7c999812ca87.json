@@ -6,6 +6,12 @@
   "trainer_name": "JohnLML123",
   "matches": {
     "2022-07-20T08:47:40.804628+00:00": {
+      "this_amiibo": {
+        "rating": 0.4768820308554602,
+        "rating_mu": 19.608195107559816,
+        "rating_sigma": 6.377104358901452,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
         "id": "3a4a5221-cbf3-4c88-824a-aa50b880af7b",
@@ -14,15 +20,15 @@
         "trainer_id": "599b16e4-90a5-41b2-ad41-917b1e5b5548",
         "trainer_name": "Pixeluchiha",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.4768820308554602,
-        "rating_mu": 19.608195107559816,
-        "rating_sigma": 6.377104358901452,
-        "result": "loss"
       }
     },
     "2022-07-28T15:28:28.910295+00:00": {
+      "this_amiibo": {
+        "rating": 0.13440630005303156,
+        "rating_mu": 15.652112648966922,
+        "rating_sigma": 5.172568782971297,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
         "id": "9611bcf3-a4a1-43ef-abce-9b970eae8a0b",
@@ -31,12 +37,6 @@
         "trainer_id": "eb1a1462-8797-4683-9357-0c3ba91b599a",
         "trainer_name": "Gamer_gaben1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.13440630005303156,
-        "rating_mu": 15.652112648966922,
-        "rating_sigma": 5.172568782971297,
-        "result": "loss"
       }
     },
     "2022-09-07T20:20:38.247967+00:00": {
@@ -53,6 +53,23 @@
         "rating": -0.7361290130257601,
         "trainer_id": "a3b72cea-5dac-4ea2-ba28-afde3dcd38d6",
         "trainer_name": "emboooooooo",
+        "result": "loss"
+      }
+    },
+    "2023-01-02T13:27:03.390422+00:00": {
+      "this_amiibo": {
+        "rating": 8.242194369414738,
+        "rating_mu": 20.524529215090787,
+        "rating_sigma": 4.09411161522535,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "e627f69e-b7c7-4a82-ad43-e62f1423daf5",
+        "name": "Me at 3AM",
+        "rating": 9.952937195280086,
+        "trainer_id": "1dbad9b6-c3fe-42c6-958e-e4bf6e70f9f0",
+        "trainer_name": "bunswe55",
         "result": "loss"
       }
     }

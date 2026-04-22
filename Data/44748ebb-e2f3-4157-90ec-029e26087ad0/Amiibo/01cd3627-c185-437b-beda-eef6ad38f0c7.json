@@ -6,6 +6,12 @@
   "trainer_name": "Oliirik",
   "matches": {
     "2020-12-01T06:42:25.815507+00:00": {
+      "this_amiibo": {
+        "rating": 0.7440964349946384,
+        "rating_mu": 20.090309455717673,
+        "rating_sigma": 6.448737673574344,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
         "id": "e2207748-6b7e-4a99-a2f4-a176c66ae7cd",
@@ -14,15 +20,15 @@
         "trainer_id": "842fd55b-5c9f-4914-820e-99639a5ccf96",
         "trainer_name": "littlefang__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7440964349946384,
-        "rating_mu": 20.090309455717673,
-        "rating_sigma": 6.448737673574344,
-        "result": "loss"
       }
     },
     "2020-12-01T16:20:13.702107+00:00": {
+      "this_amiibo": {
+        "rating": 1.3377476290220258,
+        "rating_mu": 18.06816943978914,
+        "rating_sigma": 5.576807270255705,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
         "id": "a9a7e72f-0f92-47ac-91a5-edad969ed2fc",
@@ -31,15 +37,15 @@
         "trainer_id": "a35e4c31-9d53-4103-bc9e-5b57c0515236",
         "trainer_name": "sorpl3x",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.3377476290220258,
-        "rating_mu": 18.06816943978914,
-        "rating_sigma": 5.576807270255705,
-        "result": "loss"
       }
     },
     "2020-12-02T00:04:44.969024+00:00": {
+      "this_amiibo": {
+        "rating": 1.765382849857044,
+        "rating_mu": 17.099239717182716,
+        "rating_sigma": 5.1112856224418906,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
         "id": "becfd4ab-2080-4137-9439-1c1411485bfe",
@@ -48,12 +54,6 @@
         "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
         "trainer_name": "nozzly",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.765382849857044,
-        "rating_mu": 17.099239717182716,
-        "rating_sigma": 5.1112856224418906,
-        "result": "loss"
       }
     },
     "2020-12-02T03:42:33.256418+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2020-12-03T21:09:43.325287+00:00": {
+      "this_amiibo": {
+        "rating": 7.629929440498518,
+        "rating_mu": 19.65692464059946,
+        "rating_sigma": 4.008998400033647,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
         "id": "e2207748-6b7e-4a99-a2f4-a176c66ae7cd",
@@ -82,12 +88,6 @@
         "trainer_id": "842fd55b-5c9f-4914-820e-99639a5ccf96",
         "trainer_name": "littlefang__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 7.629929440498518,
-        "rating_mu": 19.65692464059946,
-        "rating_sigma": 4.008998400033647,
-        "result": "loss"
       }
     },
     "2020-12-05T03:47:59.081733+00:00": {
@@ -105,6 +105,74 @@
         "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
         "trainer_name": "forenmagra",
         "result": "loss"
+      }
+    },
+    "2020-12-09T11:22:33.292741+00:00": {
+      "this_amiibo": {
+        "rating": 13.14479962086219,
+        "rating_mu": 23.030039282409838,
+        "rating_sigma": 3.2950798871825495,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
+        "id": "cea85f24-4e16-4e4a-8304-e825a77d29a8",
+        "name": "Top Tier",
+        "rating": 17.930991638954758,
+        "trainer_id": "ab1f76a6-17bb-4125-aafe-261bbce07ff1",
+        "trainer_name": "the_scuttler",
+        "result": "win"
+      }
+    },
+    "2020-12-09T15:41:18.643562+00:00": {
+      "this_amiibo": {
+        "rating": 11.85742981016303,
+        "rating_mu": 20.83876096217484,
+        "rating_sigma": 2.993777050670604,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "ae604d8c-6727-4ee4-8df1-1a5f057143c7",
+        "name": "MY EYES!!!",
+        "rating": 12.745789173658329,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2020-12-10T14:31:05.199020+00:00": {
+      "this_amiibo": {
+        "rating": 11.569025114541278,
+        "rating_mu": 20.35775000173483,
+        "rating_sigma": 2.9295749623978504,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "5ecf79d1-2583-45b0-82f8-6a469a61dd11",
+        "name": "Jack&Jill",
+        "rating": 8.325450148051292,
+        "trainer_id": "68d166a5-c256-4482-b7ba-fce46a9b9a24",
+        "trainer_name": "ytygecho",
+        "result": "win"
+      }
+    },
+    "2020-12-10T22:01:17.290313+00:00": {
+      "this_amiibo": {
+        "rating": 11.541506281124601,
+        "rating_mu": 20.044914580287003,
+        "rating_sigma": 2.834469433054134,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "c3ad13cd-6916-44ea-b89a-c517ddb3f20c",
+        "name": "Up",
+        "rating": 25.29733187754039,
+        "trainer_id": "c38191e3-5f4d-4c5d-9c66-66436166b005",
+        "trainer_name": "qscxz512",
+        "result": "win"
       }
     }
   }

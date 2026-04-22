@@ -6,6 +6,12 @@
   "trainer_name": "chaosgrunt22",
   "matches": {
     "2020-11-24T23:50:23.530134+00:00": {
+      "this_amiibo": {
+        "rating": -0.0960281067289408,
+        "rating_mu": 18.976484238648514,
+        "rating_sigma": 6.357504115125819,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
         "id": "064bb495-f472-43de-ac01-b3a45af2c842",
@@ -14,15 +20,15 @@
         "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
         "trainer_name": "rurpking22",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.0960281067289408,
-        "rating_mu": 18.976484238648514,
-        "rating_sigma": 6.357504115125819,
-        "result": "loss"
       }
     },
     "2020-11-27T10:54:53.982977+00:00": {
+      "this_amiibo": {
+        "rating": 0.5439961962913173,
+        "rating_mu": 17.520304244507095,
+        "rating_sigma": 5.658769349405259,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "e26bfda0-fd80-4b77-8beb-c879d071fcb1",
@@ -31,12 +37,6 @@
         "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
         "trainer_name": "Sirffuzzylogik",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5439961962913173,
-        "rating_mu": 17.520304244507095,
-        "rating_sigma": 5.658769349405259,
-        "result": "loss"
       }
     },
     "2020-12-01T16:53:02.220452+00:00": {
@@ -88,6 +88,40 @@
         "trainer_id": "a35e4c31-9d53-4103-bc9e-5b57c0515236",
         "trainer_name": "sorpl3x",
         "result": "loss"
+      }
+    },
+    "2021-01-03T09:13:32.023929+00:00": {
+      "this_amiibo": {
+        "rating": 13.569616838165999,
+        "rating_mu": 23.087533125792532,
+        "rating_sigma": 3.172638762542178,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "5b24ae85-b542-4a06-b1c7-fe64ceb43426",
+        "name": "Pollux",
+        "rating": 15.601655292134874,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2021-01-06T20:41:19.227014+00:00": {
+      "this_amiibo": {
+        "rating": 13.358120708796744,
+        "rating_mu": 22.341042918132302,
+        "rating_sigma": 2.994307403111853,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "56a65386-927a-4d3a-8881-377d81985f95",
+        "name": "wall-e",
+        "rating": 22.30008662648551,
+        "trainer_id": "d998a152-21eb-47e3-a29b-000f0f784f40",
+        "trainer_name": "fxntasia__",
+        "result": "win"
       }
     }
   }

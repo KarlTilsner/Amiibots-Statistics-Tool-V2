@@ -6,6 +6,12 @@
   "trainer_name": "foamtray",
   "matches": {
     "2020-11-09T03:12:26.696720+00:00": {
+      "this_amiibo": {
+        "rating": 1.2391053816938111,
+        "rating_mu": 21.55512363349942,
+        "rating_sigma": 6.772006083935203,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "599edd14-687c-4264-812e-bc246f562f31",
         "id": "184c2c0e-aa49-4473-bf46-4f58598681bd",
@@ -14,15 +20,15 @@
         "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
         "trainer_name": "nozzly",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2391053816938111,
-        "rating_mu": 21.55512363349942,
-        "rating_sigma": 6.772006083935203,
-        "result": "loss"
       }
     },
     "2020-11-09T11:14:27.276252+00:00": {
+      "this_amiibo": {
+        "rating": 1.8554839591739132,
+        "rating_mu": 19.794967749944334,
+        "rating_sigma": 5.979827930256807,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
         "id": "8039a8d4-fa11-4d0f-bdf8-ae09b11349bb",
@@ -31,12 +37,6 @@
         "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
         "trainer_name": "BCRiparo",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.8554839591739132,
-        "rating_mu": 19.794967749944334,
-        "rating_sigma": 5.979827930256807,
-        "result": "loss"
       }
     },
     "2020-11-10T11:34:54.331829+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2020-11-10T10:36:29.726259+00:00": {
+      "this_amiibo": {
+        "rating": 2.365594578833065,
+        "rating_mu": 18.362963589031704,
+        "rating_sigma": 5.332456336732879,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
         "id": "e1d6f88a-5694-4c90-bab4-8b718d4dd8a5",
@@ -65,12 +71,6 @@
         "trainer_id": "d330fd84-86e6-4816-aa55-f8c21af74561",
         "trainer_name": "schmlif324",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 2.365594578833065,
-        "rating_mu": 18.362963589031704,
-        "rating_sigma": 5.332456336732879,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "Competitively2",
   "matches": {
     "2024-05-22T06:50:51.377068+00:00": {
+      "this_amiibo": {
+        "rating": 1.0634613904376842,
+        "rating_mu": 20.863178925370576,
+        "rating_sigma": 6.599905844977631,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
         "id": "df3499e3-fd7e-40d7-ab6c-57cfa1f2236d",
@@ -14,12 +20,6 @@
         "trainer_id": "2ed90aa2-1e49-4ba2-b3e3-195f6a93fb7f",
         "trainer_name": "ivysaurboi",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0634613904376842,
-        "rating_mu": 20.863178925370576,
-        "rating_sigma": 6.599905844977631,
-        "result": "loss"
       }
     },
     "2024-06-18T16:41:11.234204+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2024-07-21T11:19:47.043001+00:00": {
+      "this_amiibo": {
+        "rating": 7.861515963417384,
+        "rating_mu": 21.2660286107818,
+        "rating_sigma": 4.468170882454805,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
         "id": "e0162249-90d4-44ce-b10c-d86a41022a08",
@@ -48,12 +54,6 @@
         "trainer_id": "9b8eab16-ffba-4996-9bdd-bc4f962142be",
         "trainer_name": "TwinBoy614",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 7.861515963417384,
-        "rating_mu": 21.2660286107818,
-        "rating_sigma": 4.468170882454805,
-        "result": "loss"
       }
     }
   }

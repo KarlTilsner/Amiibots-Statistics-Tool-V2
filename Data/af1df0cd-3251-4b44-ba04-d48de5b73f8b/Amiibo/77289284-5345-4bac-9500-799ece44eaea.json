@@ -6,6 +6,12 @@
   "trainer_name": "khriz_lozano",
   "matches": {
     "2024-04-16T21:33:00.734904+00:00": {
+      "this_amiibo": {
+        "rating": 0.9501644588219591,
+        "rating_mu": 20.51956824341836,
+        "rating_sigma": 6.523134594865467,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
         "id": "df3499e3-fd7e-40d7-ab6c-57cfa1f2236d",
@@ -14,12 +20,6 @@
         "trainer_id": "2ed90aa2-1e49-4ba2-b3e3-195f6a93fb7f",
         "trainer_name": "ivysaurboi",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9501644588219591,
-        "rating_mu": 20.51956824341836,
-        "rating_sigma": 6.523134594865467,
-        "result": "loss"
       }
     },
     "2024-04-19T22:27:20.470515+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2024-05-03T13:01:06.457887+00:00": {
+      "this_amiibo": {
+        "rating": 15.364542702827677,
+        "rating_mu": 26.461699375575623,
+        "rating_sigma": 3.699052224249315,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "627d6049-96ec-47e4-a7b8-8a056629da82",
@@ -82,12 +88,6 @@
         "trainer_id": "130d14e0-8ba1-407c-8c69-6c2544843b8f",
         "trainer_name": "bertolupin",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 15.364542702827677,
-        "rating_mu": 26.461699375575623,
-        "rating_sigma": 3.699052224249315,
-        "result": "loss"
       }
     }
   }

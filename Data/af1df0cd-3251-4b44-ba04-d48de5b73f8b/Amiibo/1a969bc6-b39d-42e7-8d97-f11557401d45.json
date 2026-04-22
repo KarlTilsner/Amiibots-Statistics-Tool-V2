@@ -6,6 +6,12 @@
   "trainer_name": "bertolupin",
   "matches": {
     "2023-10-08T00:17:25.178029+00:00": {
+      "this_amiibo": {
+        "rating": 0.6569109695626203,
+        "rating_mu": 19.790315389217074,
+        "rating_sigma": 6.377801473218151,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "8aade37c-e627-4ed5-9aba-5e7425c7c234",
@@ -14,12 +20,6 @@
         "trainer_id": "cca93997-5e36-4595-9cab-393f81248e9d",
         "trainer_name": "fafep2",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6569109695626203,
-        "rating_mu": 19.790315389217074,
-        "rating_sigma": 6.377801473218151,
-        "result": "loss"
       }
     }
   }

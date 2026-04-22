@@ -23,6 +23,12 @@
       }
     },
     "2020-05-19T14:24:18.524694+00:00": {
+      "this_amiibo": {
+        "rating": 9.148687231347216,
+        "rating_mu": 24.722205015280686,
+        "rating_sigma": 5.19117259464449,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
         "id": "f6a4b618-6227-4311-84a4-2a860171a71e",
@@ -31,15 +37,15 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.148687231347216,
-        "rating_mu": 24.722205015280686,
-        "rating_sigma": 5.19117259464449,
-        "result": "loss"
       }
     },
     "2020-09-01T06:51:49.449887+00:00": {
+      "this_amiibo": {
+        "rating": 9.392270372282168,
+        "rating_mu": 23.405183973260836,
+        "rating_sigma": 4.670971200326223,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
         "id": "a89261f9-a712-4ebb-87b0-2c56413a65f4",
@@ -48,12 +54,6 @@
         "trainer_id": "e31250ea-6e7a-4948-b23c-af990e8632f0",
         "trainer_name": "Nickural",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.392270372282168,
-        "rating_mu": 23.405183973260836,
-        "rating_sigma": 4.670971200326223,
-        "result": "loss"
       }
     }
   }

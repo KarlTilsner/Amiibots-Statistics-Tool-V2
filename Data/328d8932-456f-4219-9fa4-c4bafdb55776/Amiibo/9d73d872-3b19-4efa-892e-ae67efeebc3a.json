@@ -57,6 +57,12 @@
       }
     },
     "2022-01-24T16:25:47.304221+00:00": {
+      "this_amiibo": {
+        "rating": 19.988583342615833,
+        "rating_mu": 31.74092366146899,
+        "rating_sigma": 3.917446772951052,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
         "id": "72baf0a3-1f9f-4816-98b7-3408d4976bb1",
@@ -65,12 +71,6 @@
         "trainer_id": "a9ec9d87-61e1-4c87-be6d-3442cf3a59d4",
         "trainer_name": "bluerunner0",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 19.988583342615833,
-        "rating_mu": 31.74092366146899,
-        "rating_sigma": 3.917446772951052,
-        "result": "loss"
       }
     }
   }

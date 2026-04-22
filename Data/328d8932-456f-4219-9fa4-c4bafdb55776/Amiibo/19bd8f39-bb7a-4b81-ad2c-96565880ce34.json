@@ -6,6 +6,12 @@
   "trainer_name": "pinheadpatrick017",
   "matches": {
     "2021-12-25T18:36:05.793106+00:00": {
+      "this_amiibo": {
+        "rating": 0.7154906139344561,
+        "rating_mu": 19.927252622169235,
+        "rating_sigma": 6.403920669411592,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
         "id": "ecb56e1d-74e6-4b9e-b5ca-e3e0ad06e60e",
@@ -14,12 +20,6 @@
         "trainer_id": "95236275-7bae-4eec-b93f-fd9e31dc1d27",
         "trainer_name": "gavgameplay9078",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7154906139344561,
-        "rating_mu": 19.927252622169235,
-        "rating_sigma": 6.403920669411592,
-        "result": "loss"
       }
     }
   }

@@ -23,6 +23,12 @@
       }
     },
     "2020-08-18T01:18:08.110030+00:00": {
+      "this_amiibo": {
+        "rating": 12.14111622961699,
+        "rating_mu": 26.134223514250408,
+        "rating_sigma": 4.664369094877806,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "fd15f07e-748d-4d60-bbbe-5a8c0e679c2c",
@@ -31,15 +37,15 @@
         "trainer_id": "00a4d7aa-0087-4215-bc92-d621375c8a95",
         "trainer_name": "pikaphones",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.14111622961699,
-        "rating_mu": 26.134223514250408,
-        "rating_sigma": 4.664369094877806,
-        "result": "loss"
       }
     },
     "2020-08-25T23:51:59.998737+00:00": {
+      "this_amiibo": {
+        "rating": 11.793417359270865,
+        "rating_mu": 24.921942342074225,
+        "rating_sigma": 4.376174994267786,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
         "id": "a85a261b-2c12-4816-9fcb-34726e53c0a1",
@@ -48,12 +54,6 @@
         "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
         "trainer_name": "Murbert_AM",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.793417359270865,
-        "rating_mu": 24.921942342074225,
-        "rating_sigma": 4.376174994267786,
-        "result": "loss"
       }
     }
   }

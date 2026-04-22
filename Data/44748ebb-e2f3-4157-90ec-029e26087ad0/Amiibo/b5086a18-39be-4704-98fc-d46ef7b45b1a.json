@@ -6,6 +6,12 @@
   "trainer_name": "truetitan14",
   "matches": {
     "2020-11-28T22:48:30.257175+00:00": {
+      "this_amiibo": {
+        "rating": 0.7697735970892587,
+        "rating_mu": 20.2539826978127,
+        "rating_sigma": 6.494736366907813,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
         "id": "e928c185-5f6c-4676-b5ab-3652bccff643",
@@ -14,15 +20,15 @@
         "trainer_id": "235dee49-eb91-4054-8db0-e86902569dec",
         "trainer_name": "robinhohoho",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7697735970892587,
-        "rating_mu": 20.2539826978127,
-        "rating_sigma": 6.494736366907813,
-        "result": "loss"
       }
     },
     "2020-11-29T00:34:12.899948+00:00": {
+      "this_amiibo": {
+        "rating": 10.123887213148379,
+        "rating_mu": 22.941353666851818,
+        "rating_sigma": 4.272488817901146,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
         "id": "4bd50a10-7535-41ee-a86d-94107647725d",
@@ -31,12 +37,6 @@
         "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
         "trainer_name": "jozz024",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.123887213148379,
-        "rating_mu": 22.941353666851818,
-        "rating_sigma": 4.272488817901146,
-        "result": "loss"
       }
     },
     "2020-11-28T23:58:31.446272+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2020-11-28T23:50:09.131690+00:00": {
+      "this_amiibo": {
+        "rating": 1.4194727451751348,
+        "rating_mu": 19.016142974645614,
+        "rating_sigma": 5.8655567431568265,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
         "id": "e477e2c0-b292-4ca4-af6a-99ae9d47c2ba",
@@ -65,12 +71,6 @@
         "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
         "trainer_name": "foamtray",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.4194727451751348,
-        "rating_mu": 19.016142974645614,
-        "rating_sigma": 5.8655567431568265,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "nozsmash",
   "matches": {
     "2020-06-15T06:42:46.175235+00:00": {
+      "this_amiibo": {
+        "rating": 0.8400188854259802,
+        "rating_mu": 20.22592904115245,
+        "rating_sigma": 6.461970051908824,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
         "id": "8bdb32e6-c011-47e5-ad27-ecefb4e0fc6e",
@@ -14,12 +20,6 @@
         "trainer_id": "6df82914-e152-4ab4-ad4c-1b166b05da31",
         "trainer_name": "Supernova384",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8400188854259802,
-        "rating_mu": 20.22592904115245,
-        "rating_sigma": 6.461970051908824,
-        "result": "loss"
       }
     }
   }

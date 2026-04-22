@@ -6,6 +6,12 @@
   "trainer_name": "sunnyfunnytrueform",
   "matches": {
     "2022-05-24T16:51:45.839102+00:00": {
+      "this_amiibo": {
+        "rating": 0.46000272378423546,
+        "rating_mu": 19.665402061735236,
+        "rating_sigma": 6.401799779317,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
         "id": "00c61aa0-c7c8-423d-b120-2de8b73c5f98",
@@ -14,15 +20,15 @@
         "trainer_id": "405e4707-8f38-4324-8416-3d636552e1ff",
         "trainer_name": "NoAmiibo",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.46000272378423546,
-        "rating_mu": 19.665402061735236,
-        "rating_sigma": 6.401799779317,
-        "result": "loss"
       }
     },
     "2022-05-25T01:32:39.812640+00:00": {
+      "this_amiibo": {
+        "rating": -0.8511987066576854,
+        "rating_mu": 15.652428986669053,
+        "rating_sigma": 5.501209231108913,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
         "id": "4d086b18-13d4-446e-94f2-07aa1d067361",
@@ -31,15 +37,15 @@
         "trainer_id": "6a92a875-ad10-4927-9ac9-43f4cea3e878",
         "trainer_name": "ArkansasAFC",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.8511987066576854,
-        "rating_mu": 15.652428986669053,
-        "rating_sigma": 5.501209231108913,
-        "result": "loss"
       }
     },
     "2022-05-26T10:25:53.168171+00:00": {
+      "this_amiibo": {
+        "rating": -1.1745973827056737,
+        "rating_mu": 12.724278140459528,
+        "rating_sigma": 4.632958507721734,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
         "id": "f6ba6f19-7890-4d3b-a4e4-3588408603a0",
@@ -48,12 +54,6 @@
         "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
         "trainer_name": "WynnThornton",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.1745973827056737,
-        "rating_mu": 12.724278140459528,
-        "rating_sigma": 4.632958507721734,
-        "result": "loss"
       }
     },
     "2022-07-07T23:47:30.695176+00:00": {
@@ -142,6 +142,12 @@
       }
     },
     "2022-07-16T00:40:48.157563+00:00": {
+      "this_amiibo": {
+        "rating": 10.862101101345392,
+        "rating_mu": 19.119822791332464,
+        "rating_sigma": 2.752573896662357,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "4b305893-40f3-40dd-9253-6f16645922b7",
@@ -150,15 +156,15 @@
         "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
         "trainer_name": "WynnThornton",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.862101101345392,
-        "rating_mu": 19.119822791332464,
-        "rating_sigma": 2.752573896662357,
-        "result": "loss"
       }
     },
     "2022-07-17T11:55:33.648985+00:00": {
+      "this_amiibo": {
+        "rating": 10.146363928671983,
+        "rating_mu": 17.867698146490053,
+        "rating_sigma": 2.5737780726060233,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
         "id": "f6ba6f19-7890-4d3b-a4e4-3588408603a0",
@@ -167,15 +173,15 @@
         "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
         "trainer_name": "WynnThornton",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.146363928671983,
-        "rating_mu": 17.867698146490053,
-        "rating_sigma": 2.5737780726060233,
-        "result": "loss"
       }
     },
     "2022-07-17T19:23:17.560671+00:00": {
+      "this_amiibo": {
+        "rating": 9.886481652367591,
+        "rating_mu": 17.32160134070793,
+        "rating_sigma": 2.4783732294467793,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
         "id": "7175cd8c-da1b-4cba-9446-08ca5f49b796",
@@ -184,12 +190,6 @@
         "trainer_id": "478fe709-29fa-4d5e-8fc3-282b80765517",
         "trainer_name": "AstrobeatSaturn",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.886481652367591,
-        "rating_mu": 17.32160134070793,
-        "rating_sigma": 2.4783732294467793,
-        "result": "loss"
       }
     }
   }

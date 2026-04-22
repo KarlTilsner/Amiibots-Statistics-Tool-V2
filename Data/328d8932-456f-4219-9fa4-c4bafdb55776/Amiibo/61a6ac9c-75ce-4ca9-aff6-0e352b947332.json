@@ -6,6 +6,12 @@
   "trainer_name": "Zoom__",
   "matches": {
     "2021-07-28T01:01:04.604782+00:00": {
+      "this_amiibo": {
+        "rating": 16.433709531115365,
+        "rating_mu": 29.484847408336794,
+        "rating_sigma": 4.350379292407143,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
         "id": "dc1420f0-fe44-457c-aa3a-53a1f000ed87",
@@ -14,15 +20,15 @@
         "trainer_id": "8e990ded-6021-4773-ade4-b148b78dba55",
         "trainer_name": "heartache1470",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 16.433709531115365,
-        "rating_mu": 29.484847408336794,
-        "rating_sigma": 4.350379292407143,
-        "result": "loss"
       }
     },
     "2021-07-28T00:35:43.544650+00:00": {
+      "this_amiibo": {
+        "rating": 17.879626057242557,
+        "rating_mu": 31.865768435136477,
+        "rating_sigma": 4.662047459297973,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
         "id": "264f573b-8708-463a-b9a5-3fa824c1155a",
@@ -31,12 +37,6 @@
         "trainer_id": "5d3b8188-c17a-4198-acb8-a011895c7c7e",
         "trainer_name": "MonoMalard",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 17.879626057242557,
-        "rating_mu": 31.865768435136477,
-        "rating_sigma": 4.662047459297973,
-        "result": "loss"
       }
     },
     "2021-07-27T23:27:38.755742+00:00": {
@@ -91,6 +91,12 @@
       }
     },
     "2021-07-28T03:25:16.099204+00:00": {
+      "this_amiibo": {
+        "rating": 16.329351490461175,
+        "rating_mu": 28.62000445053348,
+        "rating_sigma": 4.096884320024102,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "b6288dee-c08b-42c0-88c1-cdbbedebe62e",
@@ -99,12 +105,6 @@
         "trainer_id": "3b8edbe3-e8c2-401d-a151-0e152c4a7123",
         "trainer_name": "Destruktow",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 16.329351490461175,
-        "rating_mu": 28.62000445053348,
-        "rating_sigma": 4.096884320024102,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "viodavencrow",
   "matches": {
     "2024-06-25T04:19:45.935471+00:00": {
+      "this_amiibo": {
+        "rating": -0.7899217551096172,
+        "rating_mu": 20.79452709502615,
+        "rating_sigma": 7.194816283378589,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
         "id": "3890f591-c4a7-44db-9728-2a522ffd523f",
@@ -14,15 +20,15 @@
         "trainer_id": "82c564ef-54b3-4285-b4f2-1bbbf30d4098",
         "trainer_name": "verydoggish",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.7899217551096172,
-        "rating_mu": 20.79452709502615,
-        "rating_sigma": 7.194816283378589,
-        "result": "loss"
       }
     },
     "2024-07-02T04:47:26.318919+00:00": {
+      "this_amiibo": {
+        "rating": -0.6240528611919096,
+        "rating_mu": 16.439655004798436,
+        "rating_sigma": 5.687902621996782,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
         "id": "a122156a-538a-4067-a5ce-a4711ce05908",
@@ -31,12 +37,6 @@
         "trainer_id": "8e290d89-5484-46ab-b222-914c45b7b11c",
         "trainer_name": "pixel_gunners",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.6240528611919096,
-        "rating_mu": 16.439655004798436,
-        "rating_sigma": 5.687902621996782,
-        "result": "loss"
       }
     }
   }

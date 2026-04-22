@@ -23,6 +23,12 @@
       }
     },
     "2022-04-03T19:43:15.568969+00:00": {
+      "this_amiibo": {
+        "rating": 28.265368426297012,
+        "rating_mu": 31.687742323210355,
+        "rating_sigma": 1.1407912989711144,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "c13757f5-8a41-48e3-ac86-328b962de263",
@@ -31,12 +37,6 @@
         "trainer_id": "0a934d92-e487-4f3d-aa09-0dc402188994",
         "trainer_name": "JoKe07_pose",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 28.265368426297012,
-        "rating_mu": 31.687742323210355,
-        "rating_sigma": 1.1407912989711144,
-        "result": "loss"
       }
     }
   }

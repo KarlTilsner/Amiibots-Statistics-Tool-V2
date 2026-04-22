@@ -6,6 +6,12 @@
   "trainer_name": "fafep2",
   "matches": {
     "2023-02-25T02:40:49.453850+00:00": {
+      "this_amiibo": {
+        "rating": -1.103414065526227,
+        "rating_mu": 18.17655697745122,
+        "rating_sigma": 6.426657014325816,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "e8f84954-35a4-4225-bd96-007b9602545c",
@@ -14,12 +20,6 @@
         "trainer_id": "9829dfa3-05a1-4936-8d5d-320c204abb1e",
         "trainer_name": "white_pikminyt",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.103414065526227,
-        "rating_mu": 18.17655697745122,
-        "rating_sigma": 6.426657014325816,
-        "result": "loss"
       }
     },
     "2023-03-15T14:57:14.818940+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2023-06-05T12:45:40.688625+00:00": {
+      "this_amiibo": {
+        "rating": 2.789020120278188,
+        "rating_mu": 17.232841920729154,
+        "rating_sigma": 4.814607266816989,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
         "id": "532c0b0b-5d0b-43ec-9f71-0cd7071a98da",
@@ -48,12 +54,6 @@
         "trainer_id": "ad86d7ea-cf56-4e74-86e3-8cc283a4312b",
         "trainer_name": "Fanxtasic",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 2.789020120278188,
-        "rating_mu": 17.232841920729154,
-        "rating_sigma": 4.814607266816989,
-        "result": "loss"
       }
     },
     "2023-06-06T16:52:44.000089+00:00": {
@@ -91,6 +91,12 @@
       }
     },
     "2023-10-29T05:41:40.993740+00:00": {
+      "this_amiibo": {
+        "rating": 11.21429950861964,
+        "rating_mu": 21.16288631666594,
+        "rating_sigma": 3.3161956026821002,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
         "id": "77b4d129-a2f3-4e37-8f50-9847b98cc826",
@@ -99,12 +105,6 @@
         "trainer_id": "a5eb3823-a703-4a48-9039-c1142b46ebde",
         "trainer_name": "False_Justice",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.21429950861964,
-        "rating_mu": 21.16288631666594,
-        "rating_sigma": 3.3161956026821002,
-        "result": "loss"
       }
     }
   }

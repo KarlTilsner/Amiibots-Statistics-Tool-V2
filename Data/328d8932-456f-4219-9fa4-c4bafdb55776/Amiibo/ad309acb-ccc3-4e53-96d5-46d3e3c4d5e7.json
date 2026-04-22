@@ -6,6 +6,12 @@
   "trainer_name": "AceTempest172",
   "matches": {
     "2021-04-02T02:40:30.096609+00:00": {
+      "this_amiibo": {
+        "rating": -1.3799514405974058,
+        "rating_mu": 16.24035314991023,
+        "rating_sigma": 5.8734348635025455,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
         "id": "5fb6f234-1306-4f1f-82fd-da7bc692409d",
@@ -14,12 +20,6 @@
         "trainer_id": "51f33a61-00bc-4d8c-87a5-6493d7dbc50e",
         "trainer_name": "Catzy123",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.3799514405974058,
-        "rating_mu": 16.24035314991023,
-        "rating_sigma": 5.8734348635025455,
-        "result": "loss"
       }
     }
   }

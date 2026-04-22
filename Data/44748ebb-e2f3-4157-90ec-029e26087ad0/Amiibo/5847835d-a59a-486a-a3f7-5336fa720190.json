@@ -6,6 +6,12 @@
   "trainer_name": "luckman21",
   "matches": {
     "2020-08-26T18:20:12.975135+00:00": {
+      "this_amiibo": {
+        "rating": 1.1076709742328426,
+        "rating_mu": 21.030077077320186,
+        "rating_sigma": 6.640802034362448,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "0b756102-16f5-47ba-9214-2732923bdc0e",
@@ -14,12 +20,6 @@
         "trainer_id": "a6686cbf-503b-4a02-94b1-a5147b9d08ed",
         "trainer_name": "Armored_Sage",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1076709742328426,
-        "rating_mu": 21.030077077320186,
-        "rating_sigma": 6.640802034362448,
-        "result": "loss"
       }
     }
   }

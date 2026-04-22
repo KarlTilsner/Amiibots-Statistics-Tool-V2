@@ -6,6 +6,12 @@
   "trainer_name": "smallchildlord",
   "matches": {
     "2020-11-22T08:09:25.731423+00:00": {
+      "this_amiibo": {
+        "rating": 0.8916841771087043,
+        "rating_mu": 20.53608910931413,
+        "rating_sigma": 6.5481349774018085,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
         "id": "c9673177-a64a-43cd-b0ef-eaab0ee5caf8",
@@ -14,15 +20,15 @@
         "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
         "trainer_name": "apple_beebs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8916841771087043,
-        "rating_mu": 20.53608910931413,
-        "rating_sigma": 6.5481349774018085,
-        "result": "loss"
       }
     },
     "2020-11-22T15:07:16.638007+00:00": {
+      "this_amiibo": {
+        "rating": 1.5388201963410992,
+        "rating_mu": 18.64874082148215,
+        "rating_sigma": 5.7033068750470175,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
         "id": "f366875a-18c7-4e66-b273-df81ed48afd3",
@@ -31,12 +37,6 @@
         "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
         "trainer_name": "spike2the9th",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.5388201963410992,
-        "rating_mu": 18.64874082148215,
-        "rating_sigma": 5.7033068750470175,
-        "result": "loss"
       }
     }
   }

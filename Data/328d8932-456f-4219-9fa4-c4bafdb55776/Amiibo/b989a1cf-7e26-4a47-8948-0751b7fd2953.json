@@ -6,6 +6,12 @@
   "trainer_name": "fammydamammy",
   "matches": {
     "2021-10-07T00:47:02.724202+00:00": {
+      "this_amiibo": {
+        "rating": 1.5838860405508868,
+        "rating_mu": 19.52044870693145,
+        "rating_sigma": 5.978854222126855,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "3282f252-6372-48a7-b736-1db0419fe940",
@@ -14,15 +20,15 @@
         "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
         "trainer_name": "rapjm14",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.5838860405508868,
-        "rating_mu": 19.52044870693145,
-        "rating_sigma": 5.978854222126855,
-        "result": "loss"
       }
     },
     "2021-10-06T23:37:39.621332+00:00": {
+      "this_amiibo": {
+        "rating": 0.8977502479353099,
+        "rating_mu": 20.648994481858796,
+        "rating_sigma": 6.583748077974496,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "329cdaab-cefb-4cb0-b6d2-09857928e7a3",
@@ -31,12 +37,6 @@
         "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
         "trainer_name": "MiDe1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8977502479353099,
-        "rating_mu": 20.648994481858796,
-        "rating_sigma": 6.583748077974496,
-        "result": "loss"
       }
     }
   }

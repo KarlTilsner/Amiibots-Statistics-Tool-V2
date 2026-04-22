@@ -6,6 +6,12 @@
   "trainer_name": "apple_beebs",
   "matches": {
     "2020-07-31T06:22:18.234681+00:00": {
+      "this_amiibo": {
+        "rating": 0.7981476958017701,
+        "rating_mu": 20.1199180105668,
+        "rating_sigma": 6.440590104921676,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
         "id": "13ec62f0-75b2-4bbf-b51e-a6ebb614b767",
@@ -14,15 +20,15 @@
         "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
         "trainer_name": "River_Tethys",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7981476958017701,
-        "rating_mu": 20.1199180105668,
-        "rating_sigma": 6.440590104921676,
-        "result": "loss"
       }
     },
     "2020-08-01T02:03:06.266953+00:00": {
+      "this_amiibo": {
+        "rating": 1.157529917627425,
+        "rating_mu": 18.69733922140879,
+        "rating_sigma": 5.846603101260455,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3a80cdac-93bb-4a75-8e38-f69f37d10ec6",
         "id": "d9abb0a5-d01d-4d8d-8d52-2fa48cce6b83",
@@ -31,15 +37,15 @@
         "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
         "trainer_name": "foamtray",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.157529917627425,
-        "rating_mu": 18.69733922140879,
-        "rating_sigma": 5.846603101260455,
-        "result": "loss"
       }
     },
     "2020-08-01T05:38:53.026358+00:00": {
+      "this_amiibo": {
+        "rating": 0.9972834480508244,
+        "rating_mu": 15.704429134241307,
+        "rating_sigma": 4.902381895396828,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
         "id": "318fffe3-4c90-40ac-a7b2-c30f8f105073",
@@ -48,12 +54,6 @@
         "trainer_id": "e315cc8f-425d-4686-a648-103739846f36",
         "trainer_name": "darkmega5",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9972834480508244,
-        "rating_mu": 15.704429134241307,
-        "rating_sigma": 4.902381895396828,
-        "result": "loss"
       }
     }
   }

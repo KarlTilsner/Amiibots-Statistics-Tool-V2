@@ -6,6 +6,12 @@
   "trainer_name": "Sirffuzzylogik",
   "matches": {
     "2020-06-04T03:14:15.378600+00:00": {
+      "this_amiibo": {
+        "rating": 0.5248079595535877,
+        "rating_mu": 16.3166598631335,
+        "rating_sigma": 5.263950634526637,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
         "id": "ff62da0e-13a2-4938-94e0-511ced4748df",
@@ -14,15 +20,15 @@
         "trainer_id": "46a95889-6568-4424-886f-86a60b829425",
         "trainer_name": "thatMAGICstore",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5248079595535877,
-        "rating_mu": 16.3166598631335,
-        "rating_sigma": 5.263950634526637,
-        "result": "loss"
       }
     },
     "2020-06-03T23:50:27.394040+00:00": {
+      "this_amiibo": {
+        "rating": 0.6657238079617436,
+        "rating_mu": 19.864388463474494,
+        "rating_sigma": 6.399554885170916,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
         "id": "d7033231-e45b-4be0-b6cb-981e7eba64ac",
@@ -31,15 +37,15 @@
         "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
         "trainer_name": "BCRiparo",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6657238079617436,
-        "rating_mu": 19.864388463474494,
-        "rating_sigma": 6.399554885170916,
-        "result": "loss"
       }
     },
     "2020-06-05T00:53:13.132592+00:00": {
+      "this_amiibo": {
+        "rating": 0.5693031332283507,
+        "rating_mu": 15.463193193657185,
+        "rating_sigma": 4.964630020142945,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
         "id": "28f5d26c-bd2f-4bb5-bd3a-fc89c552241a",
@@ -48,12 +54,6 @@
         "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
         "trainer_name": "flareofstars",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5693031332283507,
-        "rating_mu": 15.463193193657185,
-        "rating_sigma": 4.964630020142945,
-        "result": "loss"
       }
     },
     "2020-06-05T20:55:56.749255+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2020-06-05T18:56:31.019800+00:00": {
+      "this_amiibo": {
+        "rating": 0.615210526534808,
+        "rating_mu": 14.463559443570652,
+        "rating_sigma": 4.616116305678615,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "543af5cd-b36b-420b-b8e4-e4145d0685d5",
@@ -82,12 +88,6 @@
         "trainer_id": "8571679b-96bf-498c-b883-26a2104f93de",
         "trainer_name": "stupidringworm",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.615210526534808,
-        "rating_mu": 14.463559443570652,
-        "rating_sigma": 4.616116305678615,
-        "result": "loss"
       }
     },
     "2020-06-06T12:13:33.613504+00:00": {
@@ -125,6 +125,12 @@
       }
     },
     "2020-06-07T22:51:12.256710+00:00": {
+      "this_amiibo": {
+        "rating": 13.38503008561618,
+        "rating_mu": 22.4967966288356,
+        "rating_sigma": 3.0372555144064735,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
         "id": "d6d862b8-1397-4d7e-96d6-48e73194dc69",
@@ -133,12 +139,6 @@
         "trainer_id": "e107d104-7f29-4a8c-973c-d767b9d963e2",
         "trainer_name": "cryotheist",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.38503008561618,
-        "rating_mu": 22.4967966288356,
-        "rating_sigma": 3.0372555144064735,
-        "result": "loss"
       }
     }
   }

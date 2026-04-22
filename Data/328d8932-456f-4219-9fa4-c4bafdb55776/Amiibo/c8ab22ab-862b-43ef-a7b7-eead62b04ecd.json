@@ -6,6 +6,12 @@
   "trainer_name": "ThouDetect1ve",
   "matches": {
     "2022-07-24T11:42:17.985427+00:00": {
+      "this_amiibo": {
+        "rating": 0.9027041983539803,
+        "rating_mu": 20.78763203387944,
+        "rating_sigma": 6.628309278508487,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "23b5dd4e-774a-41f0-87fd-ad0576648c31",
@@ -14,12 +20,6 @@
         "trainer_id": "ee1d9a05-9070-4b4f-ad6c-768064c23993",
         "trainer_name": "psythe_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9027041983539803,
-        "rating_mu": 20.78763203387944,
-        "rating_sigma": 6.628309278508487,
-        "result": "loss"
       }
     }
   }

@@ -40,6 +40,12 @@
       }
     },
     "2024-07-09T12:24:19.661934+00:00": {
+      "this_amiibo": {
+        "rating": 16.401533377790827,
+        "rating_mu": 29.802612085986745,
+        "rating_sigma": 4.467026236065307,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "20d4119c-6a79-4ef3-80af-84379b09bc12",
@@ -48,15 +54,15 @@
         "trainer_id": "05eacb7f-fff7-4c14-ab1d-129195051d66",
         "trainer_name": "NinObsessed",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 16.401533377790827,
-        "rating_mu": 29.802612085986745,
-        "rating_sigma": 4.467026236065307,
-        "result": "loss"
       }
     },
     "2024-08-10T09:49:55.073995+00:00": {
+      "this_amiibo": {
+        "rating": 16.313707477980667,
+        "rating_mu": 28.542021383667134,
+        "rating_sigma": 4.076104635228822,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "7eaa1385-84a6-4631-9c47-d5f7a02bf596",
@@ -65,12 +71,6 @@
         "trainer_id": "ac002f12-12e1-467b-9ddf-d926b367fe2a",
         "trainer_name": "ignacious1526383",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 16.313707477980667,
-        "rating_mu": 28.542021383667134,
-        "rating_sigma": 4.076104635228822,
-        "result": "loss"
       }
     },
     "2024-08-19T14:16:38.271757+00:00": {
@@ -90,7 +90,30 @@
         "result": "loss"
       }
     },
+    "2024-10-07T15:59:52.679214+00:00": {
+      "this_amiibo": {
+        "rating": 24.287832529487957,
+        "rating_mu": 32.32515673179525,
+        "rating_sigma": 2.6791080674357652,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "5a60de40-1033-46d5-ad85-2915276da777",
+        "name": "kazooyea",
+        "rating": 23.82310703120197,
+        "trainer_id": "64acd7f3-4e04-47ff-9205-3462b48f8e72",
+        "trainer_name": "jessee1209",
+        "result": "loss"
+      }
+    },
     "2024-08-26T00:09:27.408916+00:00": {
+      "this_amiibo": {
+        "rating": 18.906892581543012,
+        "rating_mu": 28.8389642465634,
+        "rating_sigma": 3.310690555006796,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
         "id": "debe9e04-204d-41f4-a814-ad18a59e5a40",
@@ -99,12 +122,6 @@
         "trainer_id": "130d14e0-8ba1-407c-8c69-6c2544843b8f",
         "trainer_name": "bertolupin",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 18.906892581543012,
-        "rating_mu": 28.8389642465634,
-        "rating_sigma": 3.310690555006796,
-        "result": "loss"
       }
     },
     "2024-09-06T22:53:30.140545+00:00": {
@@ -138,23 +155,6 @@
         "rating": 28.661030005534336,
         "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
         "trainer_name": "halfmario456_",
-        "result": "loss"
-      }
-    },
-    "2024-10-07T15:59:52.679214+00:00": {
-      "this_amiibo": {
-        "rating": 24.287832529487957,
-        "rating_mu": 32.32515673179525,
-        "rating_sigma": 2.6791080674357652,
-        "result": "win"
-      },
-      "opponent": {
-        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
-        "id": "5a60de40-1033-46d5-ad85-2915276da777",
-        "name": "kazooyea",
-        "rating": 23.82310703120197,
-        "trainer_id": "64acd7f3-4e04-47ff-9205-3462b48f8e72",
-        "trainer_name": "jessee1209",
         "result": "loss"
       }
     }

@@ -23,6 +23,12 @@
       }
     },
     "2022-09-22T18:07:46.381322+00:00": {
+      "this_amiibo": {
+        "rating": 14.501147523613968,
+        "rating_mu": 29.969721733624997,
+        "rating_sigma": 5.15619140333701,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "fa730e6a-e102-4c03-89fa-0552d4304bc1",
@@ -31,12 +37,40 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
+      }
+    },
+    "2022-10-05T22:01:40.409600+00:00": {
       "this_amiibo": {
-        "rating": 14.501147523613968,
-        "rating_mu": 29.969721733624997,
-        "rating_sigma": 5.15619140333701,
+        "rating": 14.388229152486325,
+        "rating_mu": 27.919236776954868,
+        "rating_sigma": 4.5103358748228475,
         "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "ca69b5b5-e168-434f-ab06-204b7d83d37c",
+        "name": "Sweaterman",
+        "rating": 27.682320711705003,
+        "trainer_id": "3e1642f4-3a61-4225-bd2d-d551616be0fa",
+        "trainer_name": "doopfizzle",
+        "result": "win"
+      }
+    },
+    "2022-12-11T02:56:25.309806+00:00": {
+      "this_amiibo": {
+        "rating": 14.259538155898614,
+        "rating_mu": 26.443552293954248,
+        "rating_sigma": 4.061338046018545,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "fa154cc2-653d-45ce-bfb0-093f375169d0",
+        "name": "PrinceZote",
+        "rating": 26.77400329956442,
+        "trainer_id": "f346091f-8917-49bc-b479-b0c568026dbf",
+        "trainer_name": "RazorForce21",
+        "result": "win"
       }
     }
   }

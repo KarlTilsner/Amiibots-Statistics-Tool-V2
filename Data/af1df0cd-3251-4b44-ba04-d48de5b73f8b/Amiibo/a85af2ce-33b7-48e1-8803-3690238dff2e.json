@@ -6,6 +6,12 @@
   "trainer_name": "MMMMMMMMTTYYY_",
   "matches": {
     "2023-04-29T19:02:17.800610+00:00": {
+      "this_amiibo": {
+        "rating": 0.6163424353416325,
+        "rating_mu": 19.937128537778584,
+        "rating_sigma": 6.4402620341456505,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
         "id": "8e099bd4-1016-4f89-b817-5c5d34757ed4",
@@ -14,15 +20,15 @@
         "trainer_id": "ae366d8f-bbaa-4dc9-9533-45a8dce887a1",
         "trainer_name": "cybertsarbomba",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6163424353416325,
-        "rating_mu": 19.937128537778584,
-        "rating_sigma": 6.4402620341456505,
-        "result": "loss"
       }
     },
     "2023-04-29T23:35:28.967255+00:00": {
+      "this_amiibo": {
+        "rating": 0.6432255684219754,
+        "rating_mu": 17.539136444719464,
+        "rating_sigma": 5.631970292099163,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
         "id": "038c5dcb-fcec-4efe-8405-6f009881c77b",
@@ -31,12 +37,6 @@
         "trainer_id": "8bf7ec9c-d660-47f4-a540-cf0bc9858b10",
         "trainer_name": "IamKiDSiD",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6432255684219754,
-        "rating_mu": 17.539136444719464,
-        "rating_sigma": 5.631970292099163,
-        "result": "loss"
       }
     }
   }

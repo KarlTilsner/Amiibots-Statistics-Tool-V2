@@ -6,6 +6,12 @@
   "trainer_name": "Competitively2",
   "matches": {
     "2024-05-19T10:17:08.259300+00:00": {
+      "this_amiibo": {
+        "rating": 0.5923495608440739,
+        "rating_mu": 19.70613166286493,
+        "rating_sigma": 6.371260700673618,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "f3d4ba21-23ef-4f9f-b6ff-c1d4a77886dd",
@@ -14,12 +20,6 @@
         "trainer_id": "e1230ca5-8141-40aa-9bc9-b9db827ee644",
         "trainer_name": "Brawl_Sonic",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5923495608440739,
-        "rating_mu": 19.70613166286493,
-        "rating_sigma": 6.371260700673618,
-        "result": "loss"
       }
     },
     "2024-06-09T00:41:37.248497+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2024-06-23T20:57:58.359412+00:00": {
+      "this_amiibo": {
+        "rating": 12.5424484857937,
+        "rating_mu": 24.31837626431773,
+        "rating_sigma": 3.92530925950801,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "96c5ba03-c07b-47da-a69b-f24d9891a1fa",
@@ -65,15 +71,15 @@
         "trainer_id": "340b16cc-6edc-4f6f-9d5b-cb3004218d3f",
         "trainer_name": "neowulfz",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.5424484857937,
-        "rating_mu": 24.31837626431773,
-        "rating_sigma": 3.92530925950801,
-        "result": "loss"
       }
     },
     "2024-08-10T10:30:32.619003+00:00": {
+      "this_amiibo": {
+        "rating": 12.442394181110098,
+        "rating_mu": 23.31121968697894,
+        "rating_sigma": 3.6229418352896143,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
         "id": "79ef7e56-a356-4220-8237-6de58c92e0ac",
@@ -82,15 +88,15 @@
         "trainer_id": "be70cc79-9ffd-48a9-8fb9-298a2124f477",
         "trainer_name": "bfan90133",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.442394181110098,
-        "rating_mu": 23.31121968697894,
-        "rating_sigma": 3.6229418352896143,
-        "result": "loss"
       }
     },
     "2024-08-13T13:31:09.999075+00:00": {
+      "this_amiibo": {
+        "rating": 11.88497545303048,
+        "rating_mu": 21.888868563982015,
+        "rating_sigma": 3.334631036983845,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
         "id": "3beec846-f74d-4596-993f-1226b61e555b",
@@ -99,12 +105,6 @@
         "trainer_id": "e38b33eb-2e79-4a11-a97a-be95482f8233",
         "trainer_name": "dinoshark25",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.88497545303048,
-        "rating_mu": 21.888868563982015,
-        "rating_sigma": 3.334631036983845,
-        "result": "loss"
       }
     }
   }

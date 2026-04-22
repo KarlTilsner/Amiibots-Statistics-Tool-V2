@@ -6,6 +6,12 @@
   "trainer_name": "Mrjuiq",
   "matches": {
     "2023-12-08T00:26:36.540041+00:00": {
+      "this_amiibo": {
+        "rating": 0.7736733597475087,
+        "rating_mu": 20.07758230121941,
+        "rating_sigma": 6.434636313823967,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
         "id": "df3499e3-fd7e-40d7-ab6c-57cfa1f2236d",
@@ -14,12 +20,6 @@
         "trainer_id": "2ed90aa2-1e49-4ba2-b3e3-195f6a93fb7f",
         "trainer_name": "ivysaurboi",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7736733597475087,
-        "rating_mu": 20.07758230121941,
-        "rating_sigma": 6.434636313823967,
-        "result": "loss"
       }
     },
     "2023-12-13T08:56:02.185885+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2024-01-05T03:40:48.191979+00:00": {
+      "this_amiibo": {
+        "rating": 17.283706697356166,
+        "rating_mu": 28.189659376271084,
+        "rating_sigma": 3.6353175596383065,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "e6d53127-9245-4d3b-9c0d-454a960ce642",
@@ -82,12 +88,6 @@
         "trainer_id": "7f5aabf8-00db-49a7-abc4-99523c45bb4a",
         "trainer_name": "DaPurpleDuck",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 17.283706697356166,
-        "rating_mu": 28.189659376271084,
-        "rating_sigma": 3.6353175596383065,
-        "result": "loss"
       }
     }
   }

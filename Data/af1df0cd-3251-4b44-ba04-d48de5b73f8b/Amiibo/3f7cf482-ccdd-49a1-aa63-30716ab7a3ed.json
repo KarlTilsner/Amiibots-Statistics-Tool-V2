@@ -6,6 +6,12 @@
   "trainer_name": "gotelin_",
   "matches": {
     "2022-08-04T10:04:00.618845+00:00": {
+      "this_amiibo": {
+        "rating": 31.99218727932705,
+        "rating_mu": 36.21094794393418,
+        "rating_sigma": 1.4062535548690425,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "0030df54-fb0a-40f6-b526-e7324e79ba25",
@@ -14,12 +20,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 31.99218727932705,
-        "rating_mu": 36.21094794393418,
-        "rating_sigma": 1.4062535548690425,
-        "result": "loss"
       }
     }
   }

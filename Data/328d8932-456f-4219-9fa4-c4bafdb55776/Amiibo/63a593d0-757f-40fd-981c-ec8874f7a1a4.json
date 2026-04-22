@@ -6,6 +6,12 @@
   "trainer_name": "schmorchid",
   "matches": {
     "2021-12-26T21:29:51.709913+00:00": {
+      "this_amiibo": {
+        "rating": 1.2524047671177883,
+        "rating_mu": 21.662327757961855,
+        "rating_sigma": 6.803307663614689,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "fbe84954-e727-4e7a-8dbc-6e6128b7d373",
@@ -14,12 +20,6 @@
         "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
         "trainer_name": "MiDe1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2524047671177883,
-        "rating_mu": 21.662327757961855,
-        "rating_sigma": 6.803307663614689,
-        "result": "loss"
       }
     }
   }

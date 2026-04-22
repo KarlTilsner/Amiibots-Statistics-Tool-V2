@@ -6,6 +6,12 @@
   "trainer_name": "halfmario456_",
   "matches": {
     "2022-07-13T14:12:48.561196+00:00": {
+      "this_amiibo": {
+        "rating": 1.1462803341057253,
+        "rating_mu": 21.206352094669406,
+        "rating_sigma": 6.68669058685456,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
         "id": "3bf61dc1-c341-45da-b25e-8777737fb462",
@@ -14,12 +20,6 @@
         "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
         "trainer_name": "MiDe1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1462803341057253,
-        "rating_mu": 21.206352094669406,
-        "rating_sigma": 6.68669058685456,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "Scuttlerrr",
   "matches": {
     "2024-09-21T12:24:10.525940+00:00": {
+      "this_amiibo": {
+        "rating": 1.0959522256122476,
+        "rating_mu": 20.970277080623795,
+        "rating_sigma": 6.624774951670516,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
         "id": "79ef7e56-a356-4220-8237-6de58c92e0ac",
@@ -14,12 +20,6 @@
         "trainer_id": "be70cc79-9ffd-48a9-8fb9-298a2124f477",
         "trainer_name": "bfan90133",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0959522256122476,
-        "rating_mu": 20.970277080623795,
-        "rating_sigma": 6.624774951670516,
-        "result": "loss"
       }
     }
   }

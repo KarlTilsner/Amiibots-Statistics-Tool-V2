@@ -6,6 +6,12 @@
   "trainer_name": "Linkushi_mario",
   "matches": {
     "2020-08-23T16:18:17.619811+00:00": {
+      "this_amiibo": {
+        "rating": -0.30314775441207686,
+        "rating_mu": 17.909900986814986,
+        "rating_sigma": 6.071016247075687,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
         "id": "34ca5abc-f04c-4624-b402-c3dce52b4750",
@@ -14,15 +20,15 @@
         "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
         "trainer_name": "Lady_Cucco",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.30314775441207686,
-        "rating_mu": 17.909900986814986,
-        "rating_sigma": 6.071016247075687,
-        "result": "loss"
       }
     },
     "2020-08-26T19:02:02.436407+00:00": {
+      "this_amiibo": {
+        "rating": 0.25880703015455353,
+        "rating_mu": 16.674016888192398,
+        "rating_sigma": 5.471736619345948,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "e2b4f0c2-7984-4e81-acee-9126d269f95f",
@@ -31,15 +37,15 @@
         "trainer_id": "2b51db02-3ed4-4bab-880e-ce9433fd54ef",
         "trainer_name": "DONkL",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.25880703015455353,
-        "rating_mu": 16.674016888192398,
-        "rating_sigma": 5.471736619345948,
-        "result": "loss"
       }
     },
     "2020-09-06T10:30:31.076412+00:00": {
+      "this_amiibo": {
+        "rating": -0.18029254340346945,
+        "rating_mu": 14.074120961972168,
+        "rating_sigma": 4.751471168458546,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
         "id": "83b22973-64ee-482b-bfe9-2f933bee038e",
@@ -48,15 +54,15 @@
         "trainer_id": "e315cc8f-425d-4686-a648-103739846f36",
         "trainer_name": "darkmega5",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.18029254340346945,
-        "rating_mu": 14.074120961972168,
-        "rating_sigma": 4.751471168458546,
-        "result": "loss"
       }
     },
     "2020-10-09T00:06:14.357688+00:00": {
+      "this_amiibo": {
+        "rating": -0.052651196987367754,
+        "rating_mu": 13.950450961547938,
+        "rating_sigma": 4.667700719511768,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "7e55ab6b-d6c4-4898-8e86-9c01369f8adf",
@@ -65,12 +71,6 @@
         "trainer_id": "46a95889-6568-4424-886f-86a60b829425",
         "trainer_name": "thatMAGICstore",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.052651196987367754,
-        "rating_mu": 13.950450961547938,
-        "rating_sigma": 4.667700719511768,
-        "result": "loss"
       }
     }
   }

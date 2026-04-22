@@ -23,6 +23,12 @@
       }
     },
     "2024-09-12T07:07:19.882258+00:00": {
+      "this_amiibo": {
+        "rating": 0.8738469849450539,
+        "rating_mu": 20.36109277143615,
+        "rating_sigma": 6.495748595497033,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "c115528c-3ca3-412b-a335-dc486fb6d9de",
@@ -31,12 +37,6 @@
         "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
         "trainer_name": "leCharade",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8738469849450539,
-        "rating_mu": 20.36109277143615,
-        "rating_sigma": 6.495748595497033,
-        "result": "loss"
       }
     }
   }

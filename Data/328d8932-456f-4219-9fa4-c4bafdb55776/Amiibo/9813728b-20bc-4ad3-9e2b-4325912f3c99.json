@@ -40,6 +40,12 @@
       }
     },
     "2022-09-23T07:34:27.103232+00:00": {
+      "this_amiibo": {
+        "rating": 8.193141998730187,
+        "rating_mu": 24.443657886788962,
+        "rating_sigma": 5.416838629352925,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
         "id": "b77316a2-c0c6-4171-a6d4-871abde9e3d6",
@@ -48,15 +54,15 @@
         "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
         "trainer_name": "average_videogame_user",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 8.193141998730187,
-        "rating_mu": 24.443657886788962,
-        "rating_sigma": 5.416838629352925,
-        "result": "loss"
       }
     },
     "2022-09-25T00:10:30.847596+00:00": {
+      "this_amiibo": {
+        "rating": 15.85516828941812,
+        "rating_mu": 27.2229366915532,
+        "rating_sigma": 3.789256134045027,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
         "id": "dee46c5c-5372-46ad-b836-2e6784ecfe9a",
@@ -65,12 +71,6 @@
         "trainer_id": "4345ecdf-2886-46de-b0e4-755576321316",
         "trainer_name": "mariocraft6000",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 15.85516828941812,
-        "rating_mu": 27.2229366915532,
-        "rating_sigma": 3.789256134045027,
-        "result": "loss"
       }
     },
     "2022-09-24T22:20:54.990473+00:00": {
@@ -87,6 +87,23 @@
         "rating": 19.91663756634183,
         "trainer_id": "c698afb6-6645-4f81-b3b9-a71f4ebcd6a0",
         "trainer_name": "tegtegthe5",
+        "result": "loss"
+      }
+    },
+    "2022-12-19T18:01:42.346742+00:00": {
+      "this_amiibo": {
+        "rating": 17.63127124622099,
+        "rating_mu": 28.168257671767147,
+        "rating_sigma": 3.512328808515386,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "efa62791-57c3-46fd-bfd2-d11e87495abb",
+        "name": "Ivan Drago",
+        "rating": 20.578624016983202,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
         "result": "loss"
       }
     }

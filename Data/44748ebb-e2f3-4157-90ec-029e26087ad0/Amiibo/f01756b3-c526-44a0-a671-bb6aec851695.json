@@ -6,6 +6,12 @@
   "trainer_name": "ytygecho",
   "matches": {
     "2020-12-02T16:24:27.836803+00:00": {
+      "this_amiibo": {
+        "rating": 1.2372921323250274,
+        "rating_mu": 21.54763483572218,
+        "rating_sigma": 6.7701142344657175,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "1fe377a8-164d-424e-b846-8050cec5697d",
@@ -14,15 +20,15 @@
         "trainer_id": "800690a5-19de-4098-8fd4-33bcbadf4a18",
         "trainer_name": "TMSO_Aura",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2372921323250274,
-        "rating_mu": 21.54763483572218,
-        "rating_sigma": 6.7701142344657175,
-        "result": "loss"
       }
     },
     "2020-12-04T18:48:43.830881+00:00": {
+      "this_amiibo": {
+        "rating": 1.8387510232234234,
+        "rating_mu": 20.743908199996824,
+        "rating_sigma": 6.301719058924467,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
         "id": "25ac50a4-7484-46eb-83cf-ae07b32ecf0d",
@@ -31,12 +37,6 @@
         "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
         "trainer_name": "carbon_show",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.8387510232234234,
-        "rating_mu": 20.743908199996824,
-        "rating_sigma": 6.301719058924467,
-        "result": "loss"
       }
     },
     "2020-12-07T02:58:21.718278+00:00": {
@@ -71,6 +71,23 @@
         "trainer_id": "ee675c7c-7836-4aa2-8a36-fef64e67b80a",
         "trainer_name": "truetitan14",
         "result": "loss"
+      }
+    },
+    "2020-12-08T08:21:23.917251+00:00": {
+      "this_amiibo": {
+        "rating": 16.436870688591704,
+        "rating_mu": 27.84560574515557,
+        "rating_sigma": 3.8029116855212894,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "22254032-77f0-42e5-9439-c51ea888058e",
+        "name": "Blunt",
+        "rating": 26.90170416894104,
+        "trainer_id": "ab4f37d8-cc78-43da-97be-708516d98233",
+        "trainer_name": "tschmid22",
+        "result": "win"
       }
     }
   }

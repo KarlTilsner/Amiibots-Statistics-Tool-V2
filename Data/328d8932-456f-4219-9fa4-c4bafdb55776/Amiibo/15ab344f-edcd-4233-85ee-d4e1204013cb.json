@@ -6,6 +6,12 @@
   "trainer_name": "bunion_j",
   "matches": {
     "2021-08-10T08:09:30.089926+00:00": {
+      "this_amiibo": {
+        "rating": -1.0394471142627637,
+        "rating_mu": 19.806182200879515,
+        "rating_sigma": 6.948543105047427,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "f2491e78-4080-4ece-bb00-d4e4b72083a6",
@@ -14,12 +20,6 @@
         "trainer_id": "69ee0314-588f-44ab-946a-c1fd8f7fe67c",
         "trainer_name": "pac_z_man",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.0394471142627637,
-        "rating_mu": 19.806182200879515,
-        "rating_sigma": 6.948543105047427,
-        "result": "loss"
       }
     }
   }

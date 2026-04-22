@@ -6,6 +6,12 @@
   "trainer_name": "Kangoni",
   "matches": {
     "2020-11-01T12:41:01.997567+00:00": {
+      "this_amiibo": {
+        "rating": 0.8057621403650259,
+        "rating_mu": 20.132368164309955,
+        "rating_sigma": 6.442202007981643,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
         "id": "dce95cbf-e431-4560-a43b-124e76fa154f",
@@ -14,15 +20,15 @@
         "trainer_id": "83ad055f-644c-4c4f-8a57-7f9180b0d326",
         "trainer_name": "ZanyMarshalo",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8057621403650259,
-        "rating_mu": 20.132368164309955,
-        "rating_sigma": 6.442202007981643,
-        "result": "loss"
       }
     },
     "2020-11-04T10:15:07.859413+00:00": {
+      "this_amiibo": {
+        "rating": 1.3344897702988838,
+        "rating_mu": 19.38787149837002,
+        "rating_sigma": 6.017793909357046,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
         "id": "4fb67304-7f93-4bdf-b6b7-17f91d2f7b01",
@@ -31,15 +37,15 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.3344897702988838,
-        "rating_mu": 19.38787149837002,
-        "rating_sigma": 6.017793909357046,
-        "result": "loss"
       }
     },
     "2020-11-14T05:51:38.544373+00:00": {
+      "this_amiibo": {
+        "rating": 1.7233110731516135,
+        "rating_mu": 17.592230891208747,
+        "rating_sigma": 5.289639939352377,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
         "id": "5606f10f-cd9f-4afa-b9c0-97c30eb547b4",
@@ -48,12 +54,6 @@
         "trainer_id": "26942317-1919-4c5c-8072-7bc3e0bc2838",
         "trainer_name": "NurfboyU",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.7233110731516135,
-        "rating_mu": 17.592230891208747,
-        "rating_sigma": 5.289639939352377,
-        "result": "loss"
       }
     },
     "2020-11-16T08:17:10.179575+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2020-11-17T00:34:25.372687+00:00": {
+      "this_amiibo": {
+        "rating": 10.759255793808906,
+        "rating_mu": 22.539225346456988,
+        "rating_sigma": 3.9266565175493606,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
         "id": "4c7d14cc-c770-45f5-9d03-957577cbda3e",
@@ -82,12 +88,6 @@
         "trainer_id": "e53a023e-9ca9-4a47-98dd-0b0e28130b56",
         "trainer_name": "dk71896",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.759255793808906,
-        "rating_mu": 22.539225346456988,
-        "rating_sigma": 3.9266565175493606,
-        "result": "loss"
       }
     }
   }

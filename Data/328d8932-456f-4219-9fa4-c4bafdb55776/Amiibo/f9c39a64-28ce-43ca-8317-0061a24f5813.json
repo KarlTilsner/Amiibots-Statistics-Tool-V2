@@ -6,6 +6,12 @@
   "trainer_name": "smashssf2_ita",
   "matches": {
     "2021-10-28T16:16:12.471248+00:00": {
+      "this_amiibo": {
+        "rating": 1.1510800698205905,
+        "rating_mu": 21.54989285549348,
+        "rating_sigma": 6.799604261890963,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "829a9b9a-7161-422b-aa91-a8c11cdf84f8",
@@ -14,15 +20,15 @@
         "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
         "trainer_name": "StaplesTV_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1510800698205905,
-        "rating_mu": 21.54989285549348,
-        "rating_sigma": 6.799604261890963,
-        "result": "loss"
       }
     },
     "2021-10-29T20:50:51.048729+00:00": {
+      "this_amiibo": {
+        "rating": 1.539304660601669,
+        "rating_mu": 20.401629733328488,
+        "rating_sigma": 6.28744169090894,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
         "id": "4f8bb6af-5037-4abf-968d-da20267a27ff",
@@ -31,12 +37,6 @@
         "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
         "trainer_name": "StaplesTV_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.539304660601669,
-        "rating_mu": 20.401629733328488,
-        "rating_sigma": 6.28744169090894,
-        "result": "loss"
       }
     }
   }

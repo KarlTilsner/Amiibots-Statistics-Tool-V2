@@ -6,6 +6,12 @@
   "trainer_name": "AlexanderAgne",
   "matches": {
     "2022-05-23T18:01:35.657392+00:00": {
+      "this_amiibo": {
+        "rating": 1.193572046573646,
+        "rating_mu": 21.384851941702216,
+        "rating_sigma": 6.730426631709523,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
         "id": "40857bb3-7da4-4e39-a9f6-40f260b86b49",
@@ -14,12 +20,6 @@
         "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
         "trainer_name": "forenmagra",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.193572046573646,
-        "rating_mu": 21.384851941702216,
-        "rating_sigma": 6.730426631709523,
-        "result": "loss"
       }
     }
   }

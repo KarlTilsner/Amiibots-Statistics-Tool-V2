@@ -6,6 +6,12 @@
   "trainer_name": "hbh111502",
   "matches": {
     "2021-11-11T02:04:38.364467+00:00": {
+      "this_amiibo": {
+        "rating": -1.0927879746001246,
+        "rating_mu": 15.459787396703828,
+        "rating_sigma": 5.517525123767983,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "4e2d2c63-73d9-4e46-a66c-500fdd51e8f9",
@@ -14,15 +20,15 @@
         "trainer_id": "de8bfcb6-60de-48e2-8a23-31517707e203",
         "trainer_name": "rekcuf_nmad",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.0927879746001246,
-        "rating_mu": 15.459787396703828,
-        "rating_sigma": 5.517525123767983,
-        "result": "loss"
       }
     },
     "2021-11-11T00:08:09.740900+00:00": {
+      "this_amiibo": {
+        "rating": -1.2104498095258514,
+        "rating_mu": 19.374518132455627,
+        "rating_sigma": 6.861655980660493,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "d90d4113-e998-4a2a-ae3b-d180ad6e5683",
@@ -31,12 +37,6 @@
         "trainer_id": "6fcd9113-8cc8-48cd-b29b-46b2ccb55f27",
         "trainer_name": "sunnyfunnytrueform",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.2104498095258514,
-        "rating_mu": 19.374518132455627,
-        "rating_sigma": 6.861655980660493,
-        "result": "loss"
       }
     }
   }

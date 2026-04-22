@@ -6,6 +6,12 @@
   "trainer_name": "BebronSpeedruns",
   "matches": {
     "2024-02-07T12:28:06.656465+00:00": {
+      "this_amiibo": {
+        "rating": 0.8695268939880805,
+        "rating_mu": 20.304786292404238,
+        "rating_sigma": 6.478419799472053,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
         "id": "df3499e3-fd7e-40d7-ab6c-57cfa1f2236d",
@@ -14,12 +20,6 @@
         "trainer_id": "2ed90aa2-1e49-4ba2-b3e3-195f6a93fb7f",
         "trainer_name": "ivysaurboi",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8695268939880805,
-        "rating_mu": 20.304786292404238,
-        "rating_sigma": 6.478419799472053,
-        "result": "loss"
       }
     }
   }

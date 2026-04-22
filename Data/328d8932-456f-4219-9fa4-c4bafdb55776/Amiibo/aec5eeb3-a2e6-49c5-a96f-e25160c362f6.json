@@ -6,6 +6,12 @@
   "trainer_name": "rapjm14",
   "matches": {
     "2021-03-23T18:49:36.308131+00:00": {
+      "this_amiibo": {
+        "rating": 0.34956151965361215,
+        "rating_mu": 19.257092632175574,
+        "rating_sigma": 6.302510370840654,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
         "id": "0664c29d-7e73-4517-9250-1ed55941e883",
@@ -14,12 +20,6 @@
         "trainer_id": "6df82914-e152-4ab4-ad4c-1b166b05da31",
         "trainer_name": "Supernova384",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.34956151965361215,
-        "rating_mu": 19.257092632175574,
-        "rating_sigma": 6.302510370840654,
-        "result": "loss"
       }
     }
   }

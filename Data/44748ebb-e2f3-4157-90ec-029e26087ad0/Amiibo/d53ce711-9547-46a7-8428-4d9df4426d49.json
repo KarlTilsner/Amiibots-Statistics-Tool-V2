@@ -6,6 +6,12 @@
   "trainer_name": "TheoreticalMyth",
   "matches": {
     "2020-06-29T18:24:55.289486+00:00": {
+      "this_amiibo": {
+        "rating": 0.306280165772538,
+        "rating_mu": 16.95263280720919,
+        "rating_sigma": 5.548784213812218,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "cade20ac-a86e-4759-9116-0bfcd343677d",
@@ -14,15 +20,15 @@
         "trainer_id": "559b97d3-faa3-4aa1-9697-8e87271c7b16",
         "trainer_name": "ammoknight208",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.306280165772538,
-        "rating_mu": 16.95263280720919,
-        "rating_sigma": 5.548784213812218,
-        "result": "loss"
       }
     },
     "2020-06-29T14:17:06.843749+00:00": {
+      "this_amiibo": {
+        "rating": 1.0514763230651738,
+        "rating_mu": 22.26952627296813,
+        "rating_sigma": 7.072683316634318,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
         "id": "8ed44bb0-c9c9-480b-b218-668b32c10bdc",
@@ -31,12 +37,6 @@
         "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
         "trainer_name": "Murbert_AM",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0514763230651738,
-        "rating_mu": 22.26952627296813,
-        "rating_sigma": 7.072683316634318,
-        "result": "loss"
       }
     }
   }

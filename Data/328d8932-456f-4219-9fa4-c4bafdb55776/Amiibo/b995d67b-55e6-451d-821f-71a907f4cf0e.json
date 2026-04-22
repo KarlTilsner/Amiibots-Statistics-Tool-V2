@@ -6,6 +6,12 @@
   "trainer_name": "pinheadpatrick017",
   "matches": {
     "2022-02-01T06:25:43.043431+00:00": {
+      "this_amiibo": {
+        "rating": 24.29499759896879,
+        "rating_mu": 34.96607271138176,
+        "rating_sigma": 3.5570250374709897,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
@@ -14,12 +20,6 @@
         "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
         "trainer_name": "nozzly",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 24.29499759896879,
-        "rating_mu": 34.96607271138176,
-        "rating_sigma": 3.5570250374709897,
-        "result": "loss"
       }
     },
     "2022-02-01T06:17:55.257169+00:00": {
@@ -142,6 +142,12 @@
       }
     },
     "2022-02-01T08:36:33.438172+00:00": {
+      "this_amiibo": {
+        "rating": 23.040659387919355,
+        "rating_mu": 32.578930598938804,
+        "rating_sigma": 3.1794237370064824,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "24abca9e-ba91-4c4b-84fc-81a9015cdb12",
@@ -150,12 +156,6 @@
         "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
         "trainer_name": "YM44",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 23.040659387919355,
-        "rating_mu": 32.578930598938804,
-        "rating_sigma": 3.1794237370064824,
-        "result": "loss"
       }
     }
   }

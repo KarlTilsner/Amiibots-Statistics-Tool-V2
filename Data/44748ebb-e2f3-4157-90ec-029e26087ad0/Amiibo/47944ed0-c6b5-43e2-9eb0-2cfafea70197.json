@@ -40,6 +40,12 @@
       }
     },
     "2020-11-21T18:41:59.375897+00:00": {
+      "this_amiibo": {
+        "rating": 11.432750647709296,
+        "rating_mu": 23.715634232500165,
+        "rating_sigma": 4.094294528263623,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "ba94257a-9223-4210-a542-ffd8a798d74c",
         "id": "736bf4ba-6b08-4fa4-9102-ea7ef05eff09",
@@ -48,15 +54,15 @@
         "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
         "trainer_name": "foamtray",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.432750647709296,
-        "rating_mu": 23.715634232500165,
-        "rating_sigma": 4.094294528263623,
-        "result": "loss"
       }
     },
     "2020-11-21T17:21:37.638178+00:00": {
+      "this_amiibo": {
+        "rating": 12.569964331252066,
+        "rating_mu": 26.78518193306256,
+        "rating_sigma": 4.738405867270164,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "da9e6a05-840d-489a-9417-9756c53e3d1c",
@@ -65,12 +71,6 @@
         "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
         "trainer_name": "jozz024",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.569964331252066,
-        "rating_mu": 26.78518193306256,
-        "rating_sigma": 4.738405867270164,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "amiiboaction",
   "matches": {
     "2020-04-23T23:43:46.009442+00:00": {
+      "this_amiibo": {
+        "rating": 0.6286606791873055,
+        "rating_mu": 19.95676311276405,
+        "rating_sigma": 6.442700811192248,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "aa25863f-bd41-4947-8e09-bfdb727082ce",
@@ -14,12 +20,6 @@
         "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
         "trainer_name": "Competitively2",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6286606791873055,
-        "rating_mu": 19.95676311276405,
-        "rating_sigma": 6.442700811192248,
-        "result": "loss"
       }
     },
     "2020-04-24T01:52:19.709458+00:00": {

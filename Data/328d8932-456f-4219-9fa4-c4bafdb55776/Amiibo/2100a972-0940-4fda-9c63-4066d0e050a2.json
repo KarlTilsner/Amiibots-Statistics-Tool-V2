@@ -6,6 +6,12 @@
   "trainer_name": "t_newcomer",
   "matches": {
     "2021-09-23T19:56:15.710136+00:00": {
+      "this_amiibo": {
+        "rating": 1.212760183050758,
+        "rating_mu": 23.153902932085177,
+        "rating_sigma": 7.31371424967814,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "a7c002de-894c-443e-bbae-37c7507b942e",
@@ -14,12 +20,6 @@
         "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
         "trainer_name": "jozz024",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.212760183050758,
-        "rating_mu": 23.153902932085177,
-        "rating_sigma": 7.31371424967814,
-        "result": "loss"
       }
     }
   }

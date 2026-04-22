@@ -23,6 +23,12 @@
       }
     },
     "2020-12-05T15:49:19.385325+00:00": {
+      "this_amiibo": {
+        "rating": 13.856971523464171,
+        "rating_mu": 28.427636999225882,
+        "rating_sigma": 4.856888491920571,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
         "id": "5b779846-0437-44ae-b60e-ce4044f8ec65",
@@ -31,12 +37,57 @@
         "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
         "trainer_name": "flareofstars",
         "result": "win"
-      },
+      }
+    },
+    "2020-12-10T00:54:46.998506+00:00": {
       "this_amiibo": {
-        "rating": 13.856971523464171,
-        "rating_mu": 28.427636999225882,
-        "rating_sigma": 4.856888491920571,
+        "rating": 13.466784776387854,
+        "rating_mu": 26.260564207848272,
+        "rating_sigma": 4.264593143820139,
         "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "3c584804-ed0d-4402-b3fc-7d5085c80323",
+        "name": "Mr. Krabs",
+        "rating": 23.485531806090844,
+        "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+        "trainer_name": "Kangoni",
+        "result": "win"
+      }
+    },
+    "2020-12-10T15:28:03.712133+00:00": {
+      "this_amiibo": {
+        "rating": 12.993373738705316,
+        "rating_mu": 24.35673590102903,
+        "rating_sigma": 3.787787387441238,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "93613d00-f5ef-4c12-bb0b-98839b753bd2",
+        "name": "Punishment",
+        "rating": 23.832752189433165,
+        "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+        "trainer_name": "Competitively2",
+        "result": "win"
+      }
+    },
+    "2020-12-21T20:50:49.063736+00:00": {
+      "this_amiibo": {
+        "rating": 12.847595670083557,
+        "rating_mu": 23.387607836613142,
+        "rating_sigma": 3.513337388843195,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "3181376f-a547-4690-a630-441ca4c09e62",
+        "name": "spin",
+        "rating": 24.176316063895076,
+        "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+        "trainer_name": "Kangoni",
+        "result": "win"
       }
     }
   }

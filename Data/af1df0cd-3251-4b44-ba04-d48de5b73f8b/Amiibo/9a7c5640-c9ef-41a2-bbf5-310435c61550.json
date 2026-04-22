@@ -6,6 +6,12 @@
   "trainer_name": "Unkinker3",
   "matches": {
     "2023-06-02T09:09:55.837607+00:00": {
+      "this_amiibo": {
+        "rating": 0.8532256303013881,
+        "rating_mu": 20.259598316612646,
+        "rating_sigma": 6.468790895437086,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
         "id": "1dae4af9-d33f-4f0c-8f20-bb99fb9d9de5",
@@ -14,12 +20,6 @@
         "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
         "trainer_name": "Zoom__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8532256303013881,
-        "rating_mu": 20.259598316612646,
-        "rating_sigma": 6.468790895437086,
-        "result": "loss"
       }
     },
     "2023-09-09T21:35:30.480894+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2024-03-11T09:27:34.260038+00:00": {
+      "this_amiibo": {
+        "rating": 7.859986649833303,
+        "rating_mu": 21.389595843089683,
+        "rating_sigma": 4.50986973108546,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
         "id": "887d3cc2-b951-48d7-aa82-332f4a3f37c5",
@@ -48,12 +54,6 @@
         "trainer_id": "5ecc9f0c-afdd-455b-8077-db8be3c428b8",
         "trainer_name": "mrgoddamskittles",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 7.859986649833303,
-        "rating_mu": 21.389595843089683,
-        "rating_sigma": 4.50986973108546,
-        "result": "loss"
       }
     }
   }

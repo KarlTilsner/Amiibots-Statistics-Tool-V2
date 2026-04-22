@@ -6,6 +6,12 @@
   "trainer_name": "misatoaddict",
   "matches": {
     "2022-03-23T23:01:35.117391+00:00": {
+      "this_amiibo": {
+        "rating": 0.898243832744658,
+        "rating_mu": 21.47902464595415,
+        "rating_sigma": 6.860260271069832,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "ce3f6269-c496-40fe-b779-bf0207f1e57e",
@@ -14,12 +20,6 @@
         "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
         "trainer_name": "HD_ssbu",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.898243832744658,
-        "rating_mu": 21.47902464595415,
-        "rating_sigma": 6.860260271069832,
-        "result": "loss"
       }
     }
   }

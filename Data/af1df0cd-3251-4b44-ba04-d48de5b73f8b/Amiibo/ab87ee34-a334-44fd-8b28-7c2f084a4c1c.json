@@ -5,6 +5,40 @@
   "trainer_id": "c5656c48-9de7-4566-91a6-45c834e63cf9",
   "trainer_name": "netsyyy",
   "matches": {
+    "2024-10-07T15:42:56.034695+00:00": {
+      "this_amiibo": {
+        "rating": 37.457628840540636,
+        "rating_mu": 44.87542352271256,
+        "rating_sigma": 2.4725982273906406,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "4b95631f-75cf-4de6-a8ea-f104af27e650",
+        "name": "Big Timmy",
+        "rating": 42.9134494214162,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "loss"
+      }
+    },
+    "2024-10-07T13:43:25.417339+00:00": {
+      "this_amiibo": {
+        "rating": 36.00252645933908,
+        "rating_mu": 43.86790562168178,
+        "rating_sigma": 2.6217930541142316,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
+        "id": "7e3cb96c-ef72-4113-9741-504f79aebaf5",
+        "name": "MingMong",
+        "rating": 41.02946997508264,
+        "trainer_id": "4912f925-622e-46a3-88cf-5de49dbb407e",
+        "trainer_name": "colfon_",
+        "result": "loss"
+      }
+    },
     "2024-09-30T19:41:04.107299+00:00": {
       "this_amiibo": {
         "rating": 13.544014858764662,
@@ -91,6 +125,12 @@
       }
     },
     "2024-10-07T08:12:21.863308+00:00": {
+      "this_amiibo": {
+        "rating": 34.41800015968479,
+        "rating_mu": 42.80164953097256,
+        "rating_sigma": 2.7945497904292576,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
         "id": "93ae2e23-49db-43a9-871f-6d6809c6ea33",
@@ -99,12 +139,6 @@
         "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
         "trainer_name": "raid_boss_09",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 34.41800015968479,
-        "rating_mu": 42.80164953097256,
-        "rating_sigma": 2.7945497904292576,
-        "result": "loss"
       }
     },
     "2024-10-07T07:04:28.937214+00:00": {
@@ -138,40 +172,6 @@
         "rating": 33.24572223483416,
         "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
         "trainer_name": "jozz024",
-        "result": "loss"
-      }
-    },
-    "2024-10-07T15:42:56.034695+00:00": {
-      "this_amiibo": {
-        "rating": 37.457628840540636,
-        "rating_mu": 44.87542352271256,
-        "rating_sigma": 2.4725982273906406,
-        "result": "win"
-      },
-      "opponent": {
-        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
-        "id": "4b95631f-75cf-4de6-a8ea-f104af27e650",
-        "name": "Big Timmy",
-        "rating": 42.9134494214162,
-        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
-        "trainer_name": "Azend_1",
-        "result": "loss"
-      }
-    },
-    "2024-10-07T13:43:25.417339+00:00": {
-      "this_amiibo": {
-        "rating": 36.00252645933908,
-        "rating_mu": 43.86790562168178,
-        "rating_sigma": 2.6217930541142316,
-        "result": "win"
-      },
-      "opponent": {
-        "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
-        "id": "7e3cb96c-ef72-4113-9741-504f79aebaf5",
-        "name": "MingMong",
-        "rating": 41.02946997508264,
-        "trainer_id": "4912f925-622e-46a3-88cf-5de49dbb407e",
-        "trainer_name": "colfon_",
         "result": "loss"
       }
     }

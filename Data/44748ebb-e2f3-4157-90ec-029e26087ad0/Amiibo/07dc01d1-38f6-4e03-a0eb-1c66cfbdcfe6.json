@@ -6,6 +6,12 @@
   "trainer_name": "the_scuttler",
   "matches": {
     "2020-08-24T16:22:49.179848+00:00": {
+      "this_amiibo": {
+        "rating": 0.6501856765649769,
+        "rating_mu": 19.816646061594263,
+        "rating_sigma": 6.388820128343095,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
         "id": "2fc16f0a-d506-4835-b9b9-972b57aa259e",
@@ -14,12 +20,6 @@
         "trainer_id": "67752445-1c0b-45ff-872a-f478a3c95ecf",
         "trainer_name": "dreadfather_666",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6501856765649769,
-        "rating_mu": 19.816646061594263,
-        "rating_sigma": 6.388820128343095,
-        "result": "loss"
       }
     }
   }

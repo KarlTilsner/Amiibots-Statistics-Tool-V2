@@ -6,6 +6,12 @@
   "trainer_name": "Sirffuzzylogik",
   "matches": {
     "2020-04-21T16:30:57.980407+00:00": {
+      "this_amiibo": {
+        "rating": -1.033946446465066,
+        "rating_mu": 16.845475425168207,
+        "rating_sigma": 5.959807290544425,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
         "id": "be2a9cbd-864b-4b53-96a7-aef7b84635cd",
@@ -14,15 +20,15 @@
         "trainer_id": "31ac0377-29d9-4a82-afea-5fe20989ce28",
         "trainer_name": "magimiku",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.033946446465066,
-        "rating_mu": 16.845475425168207,
-        "rating_sigma": 5.959807290544425,
-        "result": "loss"
       }
     },
     "2020-04-23T23:30:06.995175+00:00": {
+      "this_amiibo": {
+        "rating": -0.5103449608666271,
+        "rating_mu": 15.566709691389951,
+        "rating_sigma": 5.359018217418859,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
         "id": "cc3566f3-b987-4457-b70d-b4282c43711f",
@@ -31,12 +37,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "migbui",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.5103449608666271,
-        "rating_mu": 15.566709691389951,
-        "rating_sigma": 5.359018217418859,
-        "result": "loss"
       }
     }
   }

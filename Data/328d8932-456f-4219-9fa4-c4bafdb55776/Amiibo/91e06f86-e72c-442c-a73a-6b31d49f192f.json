@@ -6,6 +6,12 @@
   "trainer_name": "halfmario456_",
   "matches": {
     "2022-07-16T11:15:52.966985+00:00": {
+      "this_amiibo": {
+        "rating": 0.6208227239071178,
+        "rating_mu": 19.697788440659597,
+        "rating_sigma": 6.358988572250826,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
         "id": "984591a5-8a98-4e33-98be-eb6c016272bd",
@@ -14,12 +20,6 @@
         "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
         "trainer_name": "forenmagra",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6208227239071178,
-        "rating_mu": 19.697788440659597,
-        "rating_sigma": 6.358988572250826,
-        "result": "loss"
       }
     },
     "2022-07-16T23:17:29.378911+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2022-07-17T17:59:20.200427+00:00": {
+      "this_amiibo": {
+        "rating": 9.398443984048793,
+        "rating_mu": 21.963875866701017,
+        "rating_sigma": 4.1884772942174076,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
         "id": "58d9158b-1281-405b-8e54-7607f331da08",
@@ -65,12 +71,6 @@
         "trainer_id": "7c0ee4ae-5d77-4016-a663-0d9eaaa09c49",
         "trainer_name": "Stolridur",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.398443984048793,
-        "rating_mu": 21.963875866701017,
-        "rating_sigma": 4.1884772942174076,
-        "result": "loss"
       }
     }
   }

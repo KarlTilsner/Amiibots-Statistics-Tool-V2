@@ -6,6 +6,12 @@
   "trainer_name": "staples___",
   "matches": {
     "2020-06-30T00:46:15.112816+00:00": {
+      "this_amiibo": {
+        "rating": 1.1306946384089152,
+        "rating_mu": 21.538260951559266,
+        "rating_sigma": 6.80252210438345,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "31da059a-5e6e-4882-ad2b-87988e3e2367",
@@ -14,12 +20,6 @@
         "trainer_id": "e8e5ceb3-094e-4dd0-821a-1be83af3c473",
         "trainer_name": "moxievegas",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1306946384089152,
-        "rating_mu": 21.538260951559266,
-        "rating_sigma": 6.80252210438345,
-        "result": "loss"
       }
     }
   }

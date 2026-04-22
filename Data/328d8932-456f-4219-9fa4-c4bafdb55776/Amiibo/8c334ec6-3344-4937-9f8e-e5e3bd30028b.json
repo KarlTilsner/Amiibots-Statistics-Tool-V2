@@ -74,6 +74,12 @@
       }
     },
     "2021-11-28T12:46:27.484400+00:00": {
+      "this_amiibo": {
+        "rating": 19.937001978068547,
+        "rating_mu": 32.99680820007295,
+        "rating_sigma": 4.353268740668134,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
         "id": "b639f129-5c03-4768-ae14-43103c65ef84",
@@ -82,15 +88,15 @@
         "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
         "trainer_name": "Murbert_AM",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 19.937001978068547,
-        "rating_mu": 32.99680820007295,
-        "rating_sigma": 4.353268740668134,
-        "result": "loss"
       }
     },
     "2021-11-29T09:41:28.869263+00:00": {
+      "this_amiibo": {
+        "rating": 18.49783535290062,
+        "rating_mu": 29.79153326373229,
+        "rating_sigma": 3.7645659702772236,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
         "id": "afca16f5-3741-4de0-a614-5c2e6c71bae9",
@@ -99,12 +105,6 @@
         "trainer_id": "80f98683-a318-47dd-bcf2-93f67d0878d4",
         "trainer_name": "Sir_Dragonite",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 18.49783535290062,
-        "rating_mu": 29.79153326373229,
-        "rating_sigma": 3.7645659702772236,
-        "result": "loss"
       }
     }
   }

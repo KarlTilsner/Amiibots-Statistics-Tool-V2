@@ -23,6 +23,12 @@
       }
     },
     "2022-09-19T16:58:54.564049+00:00": {
+      "this_amiibo": {
+        "rating": 10.239738874483091,
+        "rating_mu": 26.127673961898513,
+        "rating_sigma": 5.295978362471807,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
         "id": "0921a5f8-81ee-4c60-a657-8a25e0513b79",
@@ -31,15 +37,15 @@
         "trainer_id": "26cad4d1-9d7d-457c-b6e3-6a285e74f071",
         "trainer_name": "toonlinktroll",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.239738874483091,
-        "rating_mu": 26.127673961898513,
-        "rating_sigma": 5.295978362471807,
-        "result": "loss"
       }
     },
     "2022-09-20T00:19:19.274354+00:00": {
+      "this_amiibo": {
+        "rating": 9.551351953699552,
+        "rating_mu": 23.78081705172074,
+        "rating_sigma": 4.743155032673729,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
         "id": "1d134e59-6f4d-42ce-bd07-5ea81bd22168",
@@ -48,12 +54,6 @@
         "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
         "trainer_name": "AlexanderAgne",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.551351953699552,
-        "rating_mu": 23.78081705172074,
-        "rating_sigma": 4.743155032673729,
-        "result": "loss"
       }
     },
     "2022-10-03T19:55:09.054194+00:00": {
@@ -70,6 +70,23 @@
         "rating": 18.244833190129768,
         "trainer_id": "faf132fe-f69f-4bbc-b0d9-6d9808d36439",
         "trainer_name": "AnimeGamer77318",
+        "result": "loss"
+      }
+    },
+    "2022-10-07T01:37:54.270081+00:00": {
+      "this_amiibo": {
+        "rating": 16.93041735654883,
+        "rating_mu": 28.005576441124994,
+        "rating_sigma": 3.691719694858722,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
+        "id": "e78602f6-5e0d-43df-a30e-5c855aab53a3",
+        "name": "Apollo",
+        "rating": 22.216181494964896,
+        "trainer_id": "70927a90-4d05-418b-814b-9d309dc23ec9",
+        "trainer_name": "wyrmtheblack",
         "result": "loss"
       }
     }

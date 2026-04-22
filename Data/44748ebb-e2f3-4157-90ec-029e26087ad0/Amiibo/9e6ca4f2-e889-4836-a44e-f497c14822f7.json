@@ -6,6 +6,12 @@
   "trainer_name": "rustydustyj",
   "matches": {
     "2020-12-05T10:19:23.908075+00:00": {
+      "this_amiibo": {
+        "rating": 0.9871240152903127,
+        "rating_mu": 20.632450086166273,
+        "rating_sigma": 6.54844202362532,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
         "id": "becfd4ab-2080-4137-9439-1c1411485bfe",
@@ -14,15 +20,15 @@
         "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
         "trainer_name": "nozzly",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9871240152903127,
-        "rating_mu": 20.632450086166273,
-        "rating_sigma": 6.54844202362532,
-        "result": "loss"
       }
     },
     "2020-12-06T02:03:25.214032+00:00": {
+      "this_amiibo": {
+        "rating": 1.6535781867345953,
+        "rating_mu": 18.764924193604642,
+        "rating_sigma": 5.703782002290016,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
         "id": "470d8a00-f900-42c2-9b2f-f72989e774b0",
@@ -31,12 +37,6 @@
         "trainer_id": "b079e5eb-cecb-48d2-a350-091fc4698bd3",
         "trainer_name": "kangasmom",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.6535781867345953,
-        "rating_mu": 18.764924193604642,
-        "rating_sigma": 5.703782002290016,
-        "result": "loss"
       }
     }
   }

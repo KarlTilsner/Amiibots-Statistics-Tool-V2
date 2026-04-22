@@ -6,6 +6,12 @@
   "trainer_name": "ThouDetect1ve",
   "matches": {
     "2022-07-19T14:02:48.695477+00:00": {
+      "this_amiibo": {
+        "rating": 0.08681515777227844,
+        "rating_mu": 18.802797423747176,
+        "rating_sigma": 6.238660755324966,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
         "id": "acd480bd-3d56-4dbd-a974-07a8f8340d68",
@@ -14,15 +20,15 @@
         "trainer_id": "6e7c5192-3b94-41ee-a44c-1476c68bdade",
         "trainer_name": "frosteefromyt",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.08681515777227844,
-        "rating_mu": 18.802797423747176,
-        "rating_sigma": 6.238660755324966,
-        "result": "loss"
       }
     },
     "2022-08-14T00:47:34.696349+00:00": {
+      "this_amiibo": {
+        "rating": 0.21932636098602032,
+        "rating_mu": 16.692561438010305,
+        "rating_sigma": 5.491078359008095,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "5b9b5e63-9c33-4bd3-8240-926973e84cc3",
@@ -31,12 +37,23 @@
         "trainer_id": "5698fb14-f308-4a11-aed3-54172bed5dac",
         "trainer_name": "ivythesnivy",
         "result": "win"
-      },
+      }
+    },
+    "2022-11-03T05:23:37.418609+00:00": {
       "this_amiibo": {
-        "rating": 0.21932636098602032,
-        "rating_mu": 16.692561438010305,
-        "rating_sigma": 5.491078359008095,
+        "rating": 0.2588492105265079,
+        "rating_mu": 14.491827534346077,
+        "rating_sigma": 4.744326107939856,
         "result": "loss"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "8ecc3506-07c0-475b-9d7a-b915478ca61f",
+        "name": "Faren",
+        "rating": 16.41492989806479,
+        "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
+        "trainer_name": "SG_Bubs",
+        "result": "win"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "UltraDPG",
   "matches": {
     "2020-09-14T10:52:36.581650+00:00": {
+      "this_amiibo": {
+        "rating": 1.2393627265529616,
+        "rating_mu": 21.966395941759323,
+        "rating_sigma": 6.909011071735454,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
         "id": "7ce86ab4-5073-42e4-beb0-baa0d2422108",
@@ -14,15 +20,15 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2393627265529616,
-        "rating_mu": 21.966395941759323,
-        "rating_sigma": 6.909011071735454,
-        "result": "loss"
       }
     },
     "2020-09-16T20:48:09.134081+00:00": {
+      "this_amiibo": {
+        "rating": 1.7720851606244068,
+        "rating_mu": 18.917977884496747,
+        "rating_sigma": 5.715297574624113,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
         "id": "f961b451-81b3-459c-a0c3-c8662daccb4c",
@@ -31,15 +37,15 @@
         "trainer_id": "230f182d-da7d-4674-a361-4ac214df6610",
         "trainer_name": "Zenabievg",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.7720851606244068,
-        "rating_mu": 18.917977884496747,
-        "rating_sigma": 5.715297574624113,
-        "result": "loss"
       }
     },
     "2020-09-19T20:50:43.457800+00:00": {
+      "this_amiibo": {
+        "rating": 1.8824198088290878,
+        "rating_mu": 16.783635083849465,
+        "rating_sigma": 4.967071758340126,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "ba94257a-9223-4210-a542-ffd8a798d74c",
         "id": "9d3d6c93-f0b9-4bf1-a85c-cab408ea7803",
@@ -48,15 +54,15 @@
         "trainer_id": "842fd55b-5c9f-4914-820e-99639a5ccf96",
         "trainer_name": "littlefang__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.8824198088290878,
-        "rating_mu": 16.783635083849465,
-        "rating_sigma": 4.967071758340126,
-        "result": "loss"
       }
     },
     "2020-09-20T04:25:49.755217+00:00": {
+      "this_amiibo": {
+        "rating": 1.793694542516974,
+        "rating_mu": 14.925140094412473,
+        "rating_sigma": 4.3771485172985,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
         "id": "982eb42c-a941-4a80-a410-524329daf871",
@@ -65,12 +71,6 @@
         "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
         "trainer_name": "AceTempest172",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.793694542516974,
-        "rating_mu": 14.925140094412473,
-        "rating_sigma": 4.3771485172985,
-        "result": "loss"
       }
     }
   }

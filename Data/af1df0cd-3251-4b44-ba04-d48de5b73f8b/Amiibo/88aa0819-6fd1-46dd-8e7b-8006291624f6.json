@@ -6,6 +6,12 @@
   "trainer_name": "rapjm14",
   "matches": {
     "2022-04-03T12:18:01.958890+00:00": {
+      "this_amiibo": {
+        "rating": 31.223568877356065,
+        "rating_mu": 36.36741807728421,
+        "rating_sigma": 1.7146163999760493,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "cc6897f7-b9f9-434a-9867-82159cc48a9c",
@@ -14,12 +20,6 @@
         "trainer_id": "26cad4d1-9d7d-457c-b6e3-6a285e74f071",
         "trainer_name": "toonlinktroll",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 31.223568877356065,
-        "rating_mu": 36.36741807728421,
-        "rating_sigma": 1.7146163999760493,
-        "result": "loss"
       }
     }
   }

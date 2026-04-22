@@ -6,6 +6,12 @@
   "trainer_name": "nozsmash",
   "matches": {
     "2020-06-01T19:51:20.796527+00:00": {
+      "this_amiibo": {
+        "rating": 1.0079876948469746,
+        "rating_mu": 20.78067028548212,
+        "rating_sigma": 6.590894196878382,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
         "id": "2ff9ac37-1a9d-4142-a459-a181ec3d25aa",
@@ -14,12 +20,6 @@
         "trainer_id": "7dc8c69a-90af-475f-89c5-1b7ce12dc42b",
         "trainer_name": "SinSei__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0079876948469746,
-        "rating_mu": 20.78067028548212,
-        "rating_sigma": 6.590894196878382,
-        "result": "loss"
       }
     }
   }

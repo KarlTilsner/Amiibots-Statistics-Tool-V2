@@ -6,6 +6,12 @@
   "trainer_name": "staples___",
   "matches": {
     "2020-07-09T11:49:35.135395+00:00": {
+      "this_amiibo": {
+        "rating": -0.9475563180682549,
+        "rating_mu": 18.182050057696973,
+        "rating_sigma": 6.3765354585884095,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
         "id": "85c9c7fe-126e-43da-9a09-88b71858f135",
@@ -14,12 +20,6 @@
         "trainer_id": "842fd55b-5c9f-4914-820e-99639a5ccf96",
         "trainer_name": "LittleFang1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.9475563180682549,
-        "rating_mu": 18.182050057696973,
-        "rating_sigma": 6.3765354585884095,
-        "result": "loss"
       }
     }
   }

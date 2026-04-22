@@ -6,6 +6,12 @@
   "trainer_name": "enauru_",
   "matches": {
     "2023-08-31T10:06:42.889091+00:00": {
+      "this_amiibo": {
+        "rating": -0.45212034683047264,
+        "rating_mu": 17.932622340371818,
+        "rating_sigma": 6.128247562400763,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
         "id": "3fcf1b6e-7a5a-4da4-8976-22a363e0b6a1",
@@ -14,15 +20,15 @@
         "trainer_id": "88408ce6-196d-484d-b948-e69849949af5",
         "trainer_name": "johnpotato2",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.45212034683047264,
-        "rating_mu": 17.932622340371818,
-        "rating_sigma": 6.128247562400763,
-        "result": "loss"
       }
     },
     "2023-09-12T02:02:20.348817+00:00": {
+      "this_amiibo": {
+        "rating": -0.15639922368709946,
+        "rating_mu": 15.48731204514352,
+        "rating_sigma": 5.21457042294354,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
         "id": "592f1bbd-95d3-40fb-bb3e-7311c5f6e86c",
@@ -31,12 +37,6 @@
         "trainer_id": "16d95116-717b-4033-929d-85d20482f869",
         "trainer_name": "aarsters",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.15639922368709946,
-        "rating_mu": 15.48731204514352,
-        "rating_sigma": 5.21457042294354,
-        "result": "loss"
       }
     },
     "2023-09-15T11:59:10.589349+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2023-09-27T00:25:08.463742+00:00": {
+      "this_amiibo": {
+        "rating": 5.5899511247603755,
+        "rating_mu": 17.401338049043765,
+        "rating_sigma": 3.93712897476113,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
         "id": "caa0c069-9d9e-44eb-9397-770b6925f2aa",
@@ -65,12 +71,6 @@
         "trainer_id": "89946893-b4ec-41d4-a71b-b925e22b4225",
         "trainer_name": "marioandfriends1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 5.5899511247603755,
-        "rating_mu": 17.401338049043765,
-        "rating_sigma": 3.93712897476113,
-        "result": "loss"
       }
     }
   }

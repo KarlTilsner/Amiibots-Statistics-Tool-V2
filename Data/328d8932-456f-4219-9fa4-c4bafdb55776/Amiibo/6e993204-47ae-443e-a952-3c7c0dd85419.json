@@ -6,6 +6,12 @@
   "trainer_name": "subtleestone",
   "matches": {
     "2022-08-10T07:16:08.661739+00:00": {
+      "this_amiibo": {
+        "rating": 1.0946472340357474,
+        "rating_mu": 20.98509478961599,
+        "rating_sigma": 6.630149185193414,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
         "id": "7611ad8e-640b-41a3-9782-44be188c249a",
@@ -14,15 +20,15 @@
         "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
         "trainer_name": "MiDe1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0946472340357474,
-        "rating_mu": 20.98509478961599,
-        "rating_sigma": 6.630149185193414,
-        "result": "loss"
       }
     },
     "2022-09-13T02:03:31.495561+00:00": {
+      "this_amiibo": {
+        "rating": 0.05652089067602972,
+        "rating_mu": 15.724827587143166,
+        "rating_sigma": 5.222768898822379,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
         "id": "c171998d-069f-4412-9bd1-1f5f33aa6d40",
@@ -31,12 +37,6 @@
         "trainer_id": "3722dd46-feff-410d-8be3-13799df1807e",
         "trainer_name": "AccumuIa",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.05652089067602972,
-        "rating_mu": 15.724827587143166,
-        "rating_sigma": 5.222768898822379,
-        "result": "loss"
       }
     },
     "2022-09-20T04:29:12.363132+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2022-09-20T10:40:31.021828+00:00": {
+      "this_amiibo": {
+        "rating": 3.674905044576013,
+        "rating_mu": 16.67509130115892,
+        "rating_sigma": 4.3333954188609685,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
         "id": "1f9d59b9-ea7d-4543-9e99-a3130159a351",
@@ -65,12 +71,6 @@
         "trainer_id": "e1230ca5-8141-40aa-9bc9-b9db827ee644",
         "trainer_name": "Mail6yt",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 3.674905044576013,
-        "rating_mu": 16.67509130115892,
-        "rating_sigma": 4.3333954188609685,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "flaminjolt",
   "matches": {
     "2023-03-13T10:07:53.223351+00:00": {
+      "this_amiibo": {
+        "rating": 0.836068151756205,
+        "rating_mu": 20.22903291077771,
+        "rating_sigma": 6.464321586340502,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
         "id": "f29c9231-ae91-4170-ac90-e5c9e0324595",
@@ -14,12 +20,6 @@
         "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
         "trainer_name": "halfmario456_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.836068151756205,
-        "rating_mu": 20.22903291077771,
-        "rating_sigma": 6.464321586340502,
-        "result": "loss"
       }
     }
   }

@@ -1,0 +1,43 @@
+{
+  "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+  "id": "cfe62f70-7f36-4158-9009-1bf173771d3f",
+  "name": "KSI",
+  "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+  "trainer_name": "average_videogame_user",
+  "matches": {
+    "2022-12-15T09:09:10.206989+00:00": {
+      "this_amiibo": {
+        "rating": 0.3504585975333576,
+        "rating_mu": 19.217550004447023,
+        "rating_sigma": 6.289030468971221,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "4f27344b-66a0-48fd-8ddb-5e71a3e49c4d",
+        "name": "PhanStrike",
+        "rating": 20.383526833065787,
+        "trainer_id": "130d14e0-8ba1-407c-8c69-6c2544843b8f",
+        "trainer_name": "bertolupin",
+        "result": "win"
+      }
+    },
+    "2022-12-15T16:29:48.761260+00:00": {
+      "this_amiibo": {
+        "rating": 7.828142306631301,
+        "rating_mu": 23.15696065902478,
+        "rating_sigma": 5.109606117464493,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "c003691d-5113-42a7-af16-f4e0ccef19d6",
+        "name": "Dair devil",
+        "rating": 15.14974217128952,
+        "trainer_id": "08391206-9665-4d1a-80ca-633bf46c7587",
+        "trainer_name": "itzblue22",
+        "result": "loss"
+      }
+    }
+  }
+}

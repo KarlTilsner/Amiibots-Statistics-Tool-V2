@@ -6,6 +6,12 @@
   "trainer_name": "gotelin_",
   "matches": {
     "2022-03-16T07:14:24.436391+00:00": {
+      "this_amiibo": {
+        "rating": -0.8016797229894159,
+        "rating_mu": 20.775701662576704,
+        "rating_sigma": 7.192460461855374,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "a69896cc-1a38-4360-834f-8e7f3e3e3bf7",
@@ -14,12 +20,6 @@
         "trainer_id": "f3fd9308-4a4f-4ce8-bfa5-8f1059a23718",
         "trainer_name": "asukaaddict",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.8016797229894159,
-        "rating_mu": 20.775701662576704,
-        "rating_sigma": 7.192460461855374,
-        "result": "loss"
       }
     }
   }

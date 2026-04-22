@@ -6,6 +6,12 @@
   "trainer_name": "toonlinktroll",
   "matches": {
     "2022-08-28T18:35:04.250765+00:00": {
+      "this_amiibo": {
+        "rating": 0.8537523600004562,
+        "rating_mu": 20.88157856214491,
+        "rating_sigma": 6.675942067381484,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
         "id": "1d197f24-6f0c-40f7-bd12-35f6f89d7381",
@@ -14,12 +20,6 @@
         "trainer_id": "345febd3-6433-4ed8-addb-b0ead57bf565",
         "trainer_name": "cloudnine987",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8537523600004562,
-        "rating_mu": 20.88157856214491,
-        "rating_sigma": 6.675942067381484,
-        "result": "loss"
       }
     },
     "2022-08-29T01:53:37.605250+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2022-09-11T03:00:41.815640+00:00": {
+      "this_amiibo": {
+        "rating": 10.057824891038933,
+        "rating_mu": 23.517969996737182,
+        "rating_sigma": 4.486715035232749,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "c5153867-c797-4d31-8133-12d09b4fc7cf",
@@ -65,12 +71,6 @@
         "trainer_id": "c77a47ee-60f9-487e-abed-a8514fdaeeac",
         "trainer_name": "trueschavi",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.057824891038933,
-        "rating_mu": 23.517969996737182,
-        "rating_sigma": 4.486715035232749,
-        "result": "loss"
       }
     }
   }

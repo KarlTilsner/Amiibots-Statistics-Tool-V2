@@ -6,6 +6,12 @@
   "trainer_name": "LunagradeTV",
   "matches": {
     "2022-04-12T09:52:24.577798+00:00": {
+      "this_amiibo": {
+        "rating": 1.1885742587149153,
+        "rating_mu": 21.409148936024895,
+        "rating_sigma": 6.740191559103327,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
         "id": "c0f9d434-d460-49a4-a7eb-b607d8f03dd5",
@@ -14,15 +20,15 @@
         "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
         "trainer_name": "Zoom__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1885742587149153,
-        "rating_mu": 21.409148936024895,
-        "rating_sigma": 6.740191559103327,
-        "result": "loss"
       }
     },
     "2022-04-13T00:00:23.218091+00:00": {
+      "this_amiibo": {
+        "rating": 0.7832069839791238,
+        "rating_mu": 17.138585730059436,
+        "rating_sigma": 5.4517929153601035,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
         "id": "8e83977d-e1d7-4aab-9a48-614427ea904f",
@@ -31,12 +37,6 @@
         "trainer_id": "1b2f2208-154e-44fd-a520-f5a043b3e7ba",
         "trainer_name": "rufflestheinklingplayer",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7832069839791238,
-        "rating_mu": 17.138585730059436,
-        "rating_sigma": 5.4517929153601035,
-        "result": "loss"
       }
     }
   }

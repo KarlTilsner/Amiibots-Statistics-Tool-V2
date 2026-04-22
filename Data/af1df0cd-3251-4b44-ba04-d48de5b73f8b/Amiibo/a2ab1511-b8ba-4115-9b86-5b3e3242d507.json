@@ -6,6 +6,12 @@
   "trainer_name": "NoAmiibo",
   "matches": {
     "2022-05-18T11:54:03.484992+00:00": {
+      "this_amiibo": {
+        "rating": 1.8359750779804997,
+        "rating_mu": 17.925636801080856,
+        "rating_sigma": 5.363220574366785,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "f26cedee-528f-49d1-b20c-246e9a1cb117",
@@ -14,12 +20,6 @@
         "trainer_id": "16484274-0bf1-42ca-8003-5797b387bdc5",
         "trainer_name": "Denneylaw83",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.8359750779804997,
-        "rating_mu": 17.925636801080856,
-        "rating_sigma": 5.363220574366785,
-        "result": "loss"
       }
     }
   }

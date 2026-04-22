@@ -6,6 +6,12 @@
   "trainer_name": "StaplesTV_",
   "matches": {
     "2024-03-15T20:07:34.723980+00:00": {
+      "this_amiibo": {
+        "rating": 0.25761754273423776,
+        "rating_mu": 19.027525841183962,
+        "rating_sigma": 6.2566360994832415,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
         "id": "ca5b1979-4063-4805-a808-85a314c00d82",
@@ -14,12 +20,6 @@
         "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
         "trainer_name": "phantomvoltia",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.25761754273423776,
-        "rating_mu": 19.027525841183962,
-        "rating_sigma": 6.2566360994832415,
-        "result": "loss"
       }
     }
   }

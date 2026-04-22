@@ -6,6 +6,12 @@
   "trainer_name": "hbh111502",
   "matches": {
     "2021-11-09T00:03:02.900782+00:00": {
+      "this_amiibo": {
+        "rating": -1.608320679936181,
+        "rating_mu": 18.62674397457038,
+        "rating_sigma": 6.745021551502187,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
         "id": "0abc89cd-2bec-4ed8-83e4-d2fd59de3a5a",
@@ -14,12 +20,6 @@
         "trainer_id": "9452335d-2039-4ace-ae32-09d27b45d862",
         "trainer_name": "eddyboomtron",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.608320679936181,
-        "rating_mu": 18.62674397457038,
-        "rating_sigma": 6.745021551502187,
-        "result": "loss"
       }
     }
   }

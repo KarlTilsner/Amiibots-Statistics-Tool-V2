@@ -6,6 +6,12 @@
   "trainer_name": "combine788",
   "matches": {
     "2022-03-19T01:03:07.800024+00:00": {
+      "this_amiibo": {
+        "rating": 1.1874914070853357,
+        "rating_mu": 21.78627279814834,
+        "rating_sigma": 6.866260463687667,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
         "id": "a28ee86f-cab9-4e39-9fda-2827cc04770f",
@@ -14,12 +20,6 @@
         "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
         "trainer_name": "Zoom__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1874914070853357,
-        "rating_mu": 21.78627279814834,
-        "rating_sigma": 6.866260463687667,
-        "result": "loss"
       }
     }
   }

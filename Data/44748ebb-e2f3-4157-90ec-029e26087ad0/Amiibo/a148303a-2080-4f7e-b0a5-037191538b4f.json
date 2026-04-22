@@ -6,6 +6,12 @@
   "trainer_name": "Kangoni",
   "matches": {
     "2020-07-25T08:58:41.253550+00:00": {
+      "this_amiibo": {
+        "rating": 1.1747215518854865,
+        "rating_mu": 21.268335504570697,
+        "rating_sigma": 6.697871317561736,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
         "id": "4240cb54-a421-4ac9-b483-41c33092f548",
@@ -14,12 +20,6 @@
         "trainer_id": "1285932e-d5a9-44b2-a0af-582aa5a06b3a",
         "trainer_name": "Frogcake",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1747215518854865,
-        "rating_mu": 21.268335504570697,
-        "rating_sigma": 6.697871317561736,
-        "result": "loss"
       }
     }
   }

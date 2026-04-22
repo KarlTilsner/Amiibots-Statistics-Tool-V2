@@ -6,6 +6,12 @@
   "trainer_name": "Competitively2",
   "matches": {
     "2024-06-19T11:36:35.442562+00:00": {
+      "this_amiibo": {
+        "rating": 0.7128664576513195,
+        "rating_mu": 19.964768463914563,
+        "rating_sigma": 6.4173006687544145,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "183118de-00f2-4572-9e14-c35d37b6ac56",
@@ -14,12 +20,6 @@
         "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
         "trainer_name": "Murbert_AM",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7128664576513195,
-        "rating_mu": 19.964768463914563,
-        "rating_sigma": 6.4173006687544145,
-        "result": "loss"
       }
     }
   }

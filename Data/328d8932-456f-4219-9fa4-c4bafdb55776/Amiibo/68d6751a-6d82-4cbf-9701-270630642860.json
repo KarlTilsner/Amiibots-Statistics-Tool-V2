@@ -40,6 +40,12 @@
       }
     },
     "2022-03-25T15:20:09.366360+00:00": {
+      "this_amiibo": {
+        "rating": 1.3256793880629267,
+        "rating_mu": 23.00524001080866,
+        "rating_sigma": 7.226520207581911,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
         "id": "8bf648e6-bf79-4380-9be0-bcd961ec0886",
@@ -48,12 +54,6 @@
         "trainer_id": "8da52313-7867-4448-992b-710b18dc4742",
         "trainer_name": "Vapor73",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.3256793880629267,
-        "rating_mu": 23.00524001080866,
-        "rating_sigma": 7.226520207581911,
-        "result": "loss"
       }
     }
   }

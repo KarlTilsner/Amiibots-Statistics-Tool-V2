@@ -159,6 +159,12 @@
       }
     },
     "2020-10-16T16:56:01.466489+00:00": {
+      "this_amiibo": {
+        "rating": 24.576572772898313,
+        "rating_mu": 34.34167924480948,
+        "rating_sigma": 3.255035490637055,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
         "id": "93febc41-30f5-4403-a6b2-2863c3462de2",
@@ -167,12 +173,6 @@
         "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
         "trainer_name": "flareofstars",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 24.576572772898313,
-        "rating_mu": 34.34167924480948,
-        "rating_sigma": 3.255035490637055,
-        "result": "loss"
       }
     },
     "2020-10-17T00:44:55.054703+00:00": {
@@ -275,6 +275,74 @@
         "trainer_id": "c38191e3-5f4d-4c5d-9c66-66436166b005",
         "trainer_name": "qscxz512",
         "result": "loss"
+      }
+    },
+    "2020-12-20T10:43:41.331417+00:00": {
+      "this_amiibo": {
+        "rating": 28.316935332384908,
+        "rating_mu": 36.40404570244124,
+        "rating_sigma": 2.695703456685443,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "52cb47ef-4f25-4db1-ab07-f07521fe896a",
+        "name": "Beer Belly",
+        "rating": 19.987356176031376,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "loss"
+      }
+    },
+    "2020-12-21T00:02:07.573306+00:00": {
+      "this_amiibo": {
+        "rating": 28.476870334769373,
+        "rating_mu": 36.477580712219144,
+        "rating_sigma": 2.6669034591499234,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "a629152b-c2cc-4bf9-858b-fbf1f5a5c356",
+        "name": "Adrian T.",
+        "rating": 20.954984810409478,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "loss"
+      }
+    },
+    "2020-12-23T17:16:27.607452+00:00": {
+      "this_amiibo": {
+        "rating": 27.304886080073825,
+        "rating_mu": 34.751214492710375,
+        "rating_sigma": 2.48210947087885,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "3181376f-a547-4690-a630-441ca4c09e62",
+        "name": "spin",
+        "rating": 26.813427090120673,
+        "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+        "trainer_name": "Kangoni",
+        "result": "win"
+      }
+    },
+    "2021-01-06T15:54:41.536602+00:00": {
+      "this_amiibo": {
+        "rating": 26.47198334789607,
+        "rating_mu": 33.48933827130359,
+        "rating_sigma": 2.3391183078025053,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "b7712723-fadc-4126-9813-f6567fd3c85d",
+        "name": "Eir",
+        "rating": 27.108776340577094,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "flareofstars",
+        "result": "win"
       }
     }
   }

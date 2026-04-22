@@ -40,6 +40,12 @@
       }
     },
     "2022-05-16T02:58:08.532596+00:00": {
+      "this_amiibo": {
+        "rating": 0.8613566357102087,
+        "rating_mu": 21.13512222456472,
+        "rating_sigma": 6.7579218629515045,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "7428b628-e2a1-4519-8f8c-b95ad76d599f",
@@ -48,12 +54,6 @@
         "trainer_id": "345febd3-6433-4ed8-addb-b0ead57bf565",
         "trainer_name": "cloudnine987",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8613566357102087,
-        "rating_mu": 21.13512222456472,
-        "rating_sigma": 6.7579218629515045,
-        "result": "loss"
       }
     }
   }

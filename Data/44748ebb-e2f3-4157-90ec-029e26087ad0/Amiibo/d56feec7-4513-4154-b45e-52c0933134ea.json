@@ -40,6 +40,12 @@
       }
     },
     "2020-10-22T02:21:54.339887+00:00": {
+      "this_amiibo": {
+        "rating": 1.1160703583324718,
+        "rating_mu": 21.253261649624946,
+        "rating_sigma": 6.712397097097491,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
         "id": "ef96769c-dbd2-4c88-80b9-1761f6f751b4",
@@ -48,15 +54,15 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1160703583324718,
-        "rating_mu": 21.253261649624946,
-        "rating_sigma": 6.712397097097491,
-        "result": "loss"
       }
     },
     "2020-10-22T10:49:33.900567+00:00": {
+      "this_amiibo": {
+        "rating": 13.016652833498243,
+        "rating_mu": 25.188990464458566,
+        "rating_sigma": 4.057445876986774,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "e26bfda0-fd80-4b77-8beb-c879d071fcb1",
@@ -65,15 +71,15 @@
         "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
         "trainer_name": "Sirffuzzylogik",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.016652833498243,
-        "rating_mu": 25.188990464458566,
-        "rating_sigma": 4.057445876986774,
-        "result": "loss"
       }
     },
     "2020-10-22T21:09:12.736951+00:00": {
+      "this_amiibo": {
+        "rating": 13.104336350399674,
+        "rating_mu": 25.062948289408425,
+        "rating_sigma": 3.986203979669584,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "bc1c0131-926d-435f-a30a-b153dd352c56",
@@ -82,12 +88,6 @@
         "trainer_id": "ee675c7c-7836-4aa2-8a36-fef64e67b80a",
         "trainer_name": "truetitan14",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.104336350399674,
-        "rating_mu": 25.062948289408425,
-        "rating_sigma": 3.986203979669584,
-        "result": "loss"
       }
     }
   }

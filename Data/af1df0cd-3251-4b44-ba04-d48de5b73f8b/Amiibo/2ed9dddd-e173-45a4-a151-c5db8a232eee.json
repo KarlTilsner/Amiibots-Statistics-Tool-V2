@@ -6,6 +6,12 @@
   "trainer_name": "capnhicks",
   "matches": {
     "2023-06-15T15:05:01.893001+00:00": {
+      "this_amiibo": {
+        "rating": 0.7161556391177548,
+        "rating_mu": 20.06474365445771,
+        "rating_sigma": 6.449529338446652,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
         "id": "0289cc89-6e4e-408c-a21d-2f36f406aa22",
@@ -14,12 +20,6 @@
         "trainer_id": "622b29a2-a265-4e53-8ab8-b676022c38a9",
         "trainer_name": "MistyPeaksMizutsune",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7161556391177548,
-        "rating_mu": 20.06474365445771,
-        "rating_sigma": 6.449529338446652,
-        "result": "loss"
       }
     }
   }

@@ -23,6 +23,12 @@
       }
     },
     "2020-10-09T15:22:38.223109+00:00": {
+      "this_amiibo": {
+        "rating": 13.035557082431437,
+        "rating_mu": 28.5757512083634,
+        "rating_sigma": 5.180064708643988,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "4f099cae-c445-454b-a51b-81362b8355a2",
@@ -31,12 +37,6 @@
         "trainer_id": "66a3caea-31ed-4ab3-840b-3a826ac3e6fc",
         "trainer_name": "wikano3",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.035557082431437,
-        "rating_mu": 28.5757512083634,
-        "rating_sigma": 5.180064708643988,
-        "result": "loss"
       }
     }
   }

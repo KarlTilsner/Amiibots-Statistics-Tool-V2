@@ -6,6 +6,12 @@
   "trainer_name": "ricola7ttv",
   "matches": {
     "2024-04-02T07:16:11.549756+00:00": {
+      "this_amiibo": {
+        "rating": 0.7218131863531703,
+        "rating_mu": 19.934909290400395,
+        "rating_sigma": 6.404365368015742,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "1fd6ca76-b8b7-4547-8db9-060e785066d2",
@@ -14,12 +20,6 @@
         "trainer_id": "8a5d445a-c5ef-48a8-9428-41276f678e9d",
         "trainer_name": "soin1324",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7218131863531703,
-        "rating_mu": 19.934909290400395,
-        "rating_sigma": 6.404365368015742,
-        "result": "loss"
       }
     },
     "2024-04-07T14:15:26.059145+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2024-05-30T02:48:38.730072+00:00": {
+      "this_amiibo": {
+        "rating": 17.986993759697548,
+        "rating_mu": 28.275845326709764,
+        "rating_sigma": 3.429617189004072,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
         "id": "90f02876-803a-4e2b-b57b-4697c3f291bf",
@@ -82,12 +88,6 @@
         "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
         "trainer_name": "AceTempest172",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 17.986993759697548,
-        "rating_mu": 28.275845326709764,
-        "rating_sigma": 3.429617189004072,
-        "result": "loss"
       }
     },
     "2024-05-30T19:21:59.944934+00:00": {
@@ -108,6 +108,12 @@
       }
     },
     "2024-06-05T08:38:12.998578+00:00": {
+      "this_amiibo": {
+        "rating": 19.76799054741652,
+        "rating_mu": 28.499034209241156,
+        "rating_sigma": 2.9103478872748783,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "19d40bda-e810-409b-97fd-c438bdfee5cf",
@@ -116,15 +122,15 @@
         "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
         "trainer_name": "bubs_yt",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 19.76799054741652,
-        "rating_mu": 28.499034209241156,
-        "rating_sigma": 2.9103478872748783,
-        "result": "loss"
       }
     },
     "2024-06-07T11:39:28.268939+00:00": {
+      "this_amiibo": {
+        "rating": 19.419579135408867,
+        "rating_mu": 27.64253710338741,
+        "rating_sigma": 2.7409859893261808,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
         "id": "90f02876-803a-4e2b-b57b-4697c3f291bf",
@@ -133,12 +139,6 @@
         "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
         "trainer_name": "AceTempest172",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 19.419579135408867,
-        "rating_mu": 27.64253710338741,
-        "rating_sigma": 2.7409859893261808,
-        "result": "loss"
       }
     }
   }

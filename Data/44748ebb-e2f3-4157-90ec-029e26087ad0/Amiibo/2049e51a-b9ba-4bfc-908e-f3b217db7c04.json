@@ -6,6 +6,12 @@
   "trainer_name": "leeya310",
   "matches": {
     "2020-10-11T07:44:32.964074+00:00": {
+      "this_amiibo": {
+        "rating": 0.34232629861029906,
+        "rating_mu": 19.627804480749678,
+        "rating_sigma": 6.428492727379793,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "1bfa7551-1806-4a8b-ae6c-4b62fcf4e1e1",
@@ -14,12 +20,6 @@
         "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
         "trainer_name": "RockMyRole",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.34232629861029906,
-        "rating_mu": 19.627804480749678,
-        "rating_sigma": 6.428492727379793,
-        "result": "loss"
       }
     }
   }

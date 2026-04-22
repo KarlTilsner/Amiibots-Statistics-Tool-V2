@@ -6,6 +6,12 @@
   "trainer_name": "BorisTheDemonTamer",
   "matches": {
     "2021-03-13T18:11:15.057175+00:00": {
+      "this_amiibo": {
+        "rating": -1.274530195956622,
+        "rating_mu": 19.307281139526104,
+        "rating_sigma": 6.860603778494242,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "0e147dc5-a0a8-4691-a57f-1058b788bcfb",
@@ -14,12 +20,6 @@
         "trainer_id": "ba826141-f875-43ac-a3d0-6ced01c05f0f",
         "trainer_name": "LilyLambda",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.274530195956622,
-        "rating_mu": 19.307281139526104,
-        "rating_sigma": 6.860603778494242,
-        "result": "loss"
       }
     },
     "2021-03-13T21:10:48.013807+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2021-03-13T20:32:23.403191+00:00": {
+      "this_amiibo": {
+        "rating": -0.972510429242007,
+        "rating_mu": 16.13080219876338,
+        "rating_sigma": 5.701104209335129,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "f830bef4-5426-41ea-84e6-ca4783e63641",
@@ -48,12 +54,6 @@
         "trainer_id": "0dac8a24-5ed7-4fc9-9c00-5674617b4fab",
         "trainer_name": "JohnLML123",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.972510429242007,
-        "rating_mu": 16.13080219876338,
-        "rating_sigma": 5.701104209335129,
-        "result": "loss"
       }
     }
   }

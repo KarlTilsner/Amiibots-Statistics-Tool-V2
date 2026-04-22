@@ -23,6 +23,12 @@
       }
     },
     "2022-07-30T19:40:33.292258+00:00": {
+      "this_amiibo": {
+        "rating": 8.993758009278235,
+        "rating_mu": 25.531209719474024,
+        "rating_sigma": 5.512483903398596,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
         "id": "a6b8d320-e1aa-4b36-b208-0711f523b1e5",
@@ -31,12 +37,6 @@
         "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
         "trainer_name": "spike2the9th",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 8.993758009278235,
-        "rating_mu": 25.531209719474024,
-        "rating_sigma": 5.512483903398596,
-        "result": "loss"
       }
     },
     "2022-09-20T15:51:56.818644+00:00": {
@@ -70,6 +70,23 @@
         "rating": 24.719427459724216,
         "trainer_id": "790bfdd9-7935-4d8a-a2ef-e98e39633f80",
         "trainer_name": "wizard_real",
+        "result": "loss"
+      }
+    },
+    "2022-10-09T07:59:20.790325+00:00": {
+      "this_amiibo": {
+        "rating": 20.842674673379136,
+        "rating_mu": 32.08307802152732,
+        "rating_sigma": 3.7468011160493955,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "b4290fe3-cb0c-40e6-a23e-c5c2539430e0",
+        "name": "Rng",
+        "rating": 17.556268400843038,
+        "trainer_id": "be212866-ad85-4168-8fa5-a520d39174b1",
+        "trainer_name": "ThouDetect1ve",
         "result": "loss"
       }
     }

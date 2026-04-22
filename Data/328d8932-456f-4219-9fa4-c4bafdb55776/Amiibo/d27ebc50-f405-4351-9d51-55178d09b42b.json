@@ -6,6 +6,12 @@
   "trainer_name": "rapjm14",
   "matches": {
     "2021-03-13T19:44:10.204862+00:00": {
+      "this_amiibo": {
+        "rating": 1.1688298864822144,
+        "rating_mu": 23.0102387678202,
+        "rating_sigma": 7.280469627112662,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
         "id": "3fdf781b-1da2-4645-be50-b4c64be96889",
@@ -14,12 +20,6 @@
         "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
         "trainer_name": "Murbert_AM",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1688298864822144,
-        "rating_mu": 23.0102387678202,
-        "rating_sigma": 7.280469627112662,
-        "result": "loss"
       }
     }
   }

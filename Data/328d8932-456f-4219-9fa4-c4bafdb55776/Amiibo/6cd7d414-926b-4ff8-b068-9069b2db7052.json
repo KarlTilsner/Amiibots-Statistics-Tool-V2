@@ -6,6 +6,12 @@
   "trainer_name": "CraigUK37",
   "matches": {
     "2021-03-07T11:18:10.699618+00:00": {
+      "this_amiibo": {
+        "rating": 0.09413237891596182,
+        "rating_mu": 19.927227766956413,
+        "rating_sigma": 6.611031796013484,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "79fe5d3e-b1b5-4664-b381-79ba26ee5766",
@@ -14,12 +20,6 @@
         "trainer_id": "e09adf1e-56b7-4943-891c-141f18d440fc",
         "trainer_name": "gold_dxj",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.09413237891596182,
-        "rating_mu": 19.927227766956413,
-        "rating_sigma": 6.611031796013484,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "toxicmantis259",
   "matches": {
     "2022-07-26T13:31:07.186430+00:00": {
+      "this_amiibo": {
+        "rating": 1.1101594822639846,
+        "rating_mu": 21.06140304270413,
+        "rating_sigma": 6.650414520146715,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
         "id": "bc2583b2-b93a-49f6-b484-e962994b9597",
@@ -14,12 +20,6 @@
         "trainer_id": "db478eb2-7e39-43c5-9dca-2fe9358ad69a",
         "trainer_name": "thatbupguy",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1101594822639846,
-        "rating_mu": 21.06140304270413,
-        "rating_sigma": 6.650414520146715,
-        "result": "loss"
       }
     }
   }

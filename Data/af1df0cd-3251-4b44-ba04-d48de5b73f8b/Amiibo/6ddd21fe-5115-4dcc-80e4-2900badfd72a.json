@@ -6,6 +6,12 @@
   "trainer_name": "RailCanyonn",
   "matches": {
     "2024-01-04T19:09:22.744978+00:00": {
+      "this_amiibo": {
+        "rating": 0.41388419750683525,
+        "rating_mu": 19.899971782966368,
+        "rating_sigma": 6.495362528486511,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
         "id": "cc1e3bb8-f8e0-451e-a47d-dc9cf5d4a989",
@@ -14,12 +20,6 @@
         "trainer_id": "829abfdd-a372-4835-b8d2-8bd05b7dbfd8",
         "trainer_name": "chillindude300",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.41388419750683525,
-        "rating_mu": 19.899971782966368,
-        "rating_sigma": 6.495362528486511,
-        "result": "loss"
       }
     },
     "2024-01-14T09:02:07.627541+00:00": {
@@ -91,6 +91,12 @@
       }
     },
     "2024-03-16T10:18:54.227064+00:00": {
+      "this_amiibo": {
+        "rating": 17.71723165818096,
+        "rating_mu": 27.74828672576616,
+        "rating_sigma": 3.3436850225284003,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "2d417fc5-dad9-46d9-8e19-8eda35622ea6",
@@ -99,12 +105,6 @@
         "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
         "trainer_name": "amiibofight",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 17.71723165818096,
-        "rating_mu": 27.74828672576616,
-        "rating_sigma": 3.3436850225284003,
-        "result": "loss"
       }
     }
   }

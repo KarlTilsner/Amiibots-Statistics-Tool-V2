@@ -6,6 +6,12 @@
   "trainer_name": "StaplesTV_",
   "matches": {
     "2022-10-03T04:57:54.410334+00:00": {
+      "this_amiibo": {
+        "rating": 0.7960058124289837,
+        "rating_mu": 20.396653056024192,
+        "rating_sigma": 6.5335490811984025,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
         "id": "c4f425ff-b917-4311-a1ae-1cf9e67e0c50",
@@ -14,12 +20,6 @@
         "trainer_id": "b341d599-da55-4bdf-be0d-cd5c49049f0c",
         "trainer_name": "promadebison",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7960058124289837,
-        "rating_mu": 20.396653056024192,
-        "rating_sigma": 6.5335490811984025,
-        "result": "loss"
       }
     }
   }

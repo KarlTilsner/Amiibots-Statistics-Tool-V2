@@ -6,6 +6,12 @@
   "trainer_name": "pixel_gunners",
   "matches": {
     "2024-02-22T14:12:09.761166+00:00": {
+      "this_amiibo": {
+        "rating": 1.0537029539169431,
+        "rating_mu": 20.87368161872982,
+        "rating_sigma": 6.606659554937625,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "9004611d-8e3b-452d-a937-c7f5b0ae8994",
@@ -14,12 +20,6 @@
         "trainer_id": "e4931ae7-1311-40d6-811c-354742e96bc0",
         "trainer_name": "atomic_salvy",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0537029539169431,
-        "rating_mu": 20.87368161872982,
-        "rating_sigma": 6.606659554937625,
-        "result": "loss"
       }
     }
   }

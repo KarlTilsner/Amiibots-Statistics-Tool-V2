@@ -6,6 +6,12 @@
   "trainer_name": "bubsthechamp",
   "matches": {
     "2021-03-20T05:31:22.782082+00:00": {
+      "this_amiibo": {
+        "rating": 1.1075751839652348,
+        "rating_mu": 21.057550538805522,
+        "rating_sigma": 6.649991784946763,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
         "id": "05ce40c5-3151-445f-b8cb-38ec4c49b10c",
@@ -14,12 +20,6 @@
         "trainer_id": "180df160-b67f-470f-8ddb-1cfba1202adb",
         "trainer_name": "frosd19",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1075751839652348,
-        "rating_mu": 21.057550538805522,
-        "rating_sigma": 6.649991784946763,
-        "result": "loss"
       }
     },
     "2021-03-22T17:05:09.402534+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2021-03-25T02:51:29.712833+00:00": {
+      "this_amiibo": {
+        "rating": 15.821005733552363,
+        "rating_mu": 27.712685471782276,
+        "rating_sigma": 3.9638932460766374,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "ef994606-d3ef-45d5-b8a0-79d19982621d",
@@ -65,12 +71,6 @@
         "trainer_id": "ee1d9a05-9070-4b4f-ad6c-768064c23993",
         "trainer_name": "mythricity",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 15.821005733552363,
-        "rating_mu": 27.712685471782276,
-        "rating_sigma": 3.9638932460766374,
-        "result": "loss"
       }
     }
   }

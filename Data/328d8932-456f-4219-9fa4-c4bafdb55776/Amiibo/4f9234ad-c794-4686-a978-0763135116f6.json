@@ -6,6 +6,12 @@
   "trainer_name": "smashssf2_ita",
   "matches": {
     "2022-02-04T01:42:37.107106+00:00": {
+      "this_amiibo": {
+        "rating": 1.2960239209069186,
+        "rating_mu": 22.876872795887582,
+        "rating_sigma": 7.193616291660221,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
         "id": "21f0ea32-7393-48d1-b49a-01fe936a9442",
@@ -14,15 +20,15 @@
         "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
         "trainer_name": "rapjm14",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2960239209069186,
-        "rating_mu": 22.876872795887582,
-        "rating_sigma": 7.193616291660221,
-        "result": "loss"
       }
     },
     "2022-02-14T04:53:24.247314+00:00": {
+      "this_amiibo": {
+        "rating": 1.2124810216850825,
+        "rating_mu": 18.842295341916323,
+        "rating_sigma": 5.876604773410413,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "285a617f-9b77-4b37-ba1b-0f42a7a9ba27",
@@ -31,12 +37,6 @@
         "trainer_id": "d10a1a53-4977-4227-a545-40d116f5b796",
         "trainer_name": "combine788",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2124810216850825,
-        "rating_mu": 18.842295341916323,
-        "rating_sigma": 5.876604773410413,
-        "result": "loss"
       }
     }
   }

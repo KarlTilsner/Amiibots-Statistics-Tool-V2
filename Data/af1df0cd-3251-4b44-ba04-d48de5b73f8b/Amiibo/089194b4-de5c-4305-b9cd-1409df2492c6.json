@@ -6,6 +6,12 @@
   "trainer_name": "ricola7ttv",
   "matches": {
     "2024-05-27T17:23:57.855473+00:00": {
+      "this_amiibo": {
+        "rating": 1.1410929328272559,
+        "rating_mu": 21.140493718403125,
+        "rating_sigma": 6.666466928525289,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "4c77091a-c248-40a1-90cf-c9f374769e19",
@@ -14,12 +20,6 @@
         "trainer_id": "a4b5daaf-1b9b-4c53-b14d-e9aa2e6ce145",
         "trainer_name": "0100000100110001",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1410929328272559,
-        "rating_mu": 21.140493718403125,
-        "rating_sigma": 6.666466928525289,
-        "result": "loss"
       }
     }
   }

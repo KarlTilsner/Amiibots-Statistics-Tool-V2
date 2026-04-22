@@ -6,6 +6,12 @@
   "trainer_name": "colfon_",
   "matches": {
     "2024-02-20T19:24:28.844391+00:00": {
+      "this_amiibo": {
+        "rating": 0.7476475105844997,
+        "rating_mu": 21.491087592991406,
+        "rating_sigma": 6.914480027468969,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
         "id": "9f3097d0-1879-4e81-954f-eb8dc14719c7",
@@ -14,12 +20,6 @@
         "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
         "trainer_name": "Azend_1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7476475105844997,
-        "rating_mu": 21.491087592991406,
-        "rating_sigma": 6.914480027468969,
-        "result": "loss"
       }
     }
   }

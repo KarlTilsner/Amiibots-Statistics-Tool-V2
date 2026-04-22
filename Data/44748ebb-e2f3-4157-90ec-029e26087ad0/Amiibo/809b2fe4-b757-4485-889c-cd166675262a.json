@@ -23,6 +23,12 @@
       }
     },
     "2020-08-18T18:12:33.242670+00:00": {
+      "this_amiibo": {
+        "rating": 11.153523745384561,
+        "rating_mu": 26.324690497684276,
+        "rating_sigma": 5.057055584099905,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
         "id": "cd5505a8-bd10-43e4-85b4-fdf8c698a434",
@@ -31,12 +37,6 @@
         "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
         "trainer_name": "River_Tethys",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.153523745384561,
-        "rating_mu": 26.324690497684276,
-        "rating_sigma": 5.057055584099905,
-        "result": "loss"
       }
     }
   }

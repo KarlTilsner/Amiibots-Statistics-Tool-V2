@@ -6,6 +6,12 @@
   "trainer_name": "mariodude6700",
   "matches": {
     "2022-02-19T09:41:16.365229+00:00": {
+      "this_amiibo": {
+        "rating": 0.5991838246806331,
+        "rating_mu": 19.64925383020584,
+        "rating_sigma": 6.350023335175069,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
         "id": "3a974c3e-4353-43c2-acea-660c42531ed9",
@@ -14,12 +20,6 @@
         "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
         "trainer_name": "WynnThornton",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5991838246806331,
-        "rating_mu": 19.64925383020584,
-        "rating_sigma": 6.350023335175069,
-        "result": "loss"
       }
     }
   }

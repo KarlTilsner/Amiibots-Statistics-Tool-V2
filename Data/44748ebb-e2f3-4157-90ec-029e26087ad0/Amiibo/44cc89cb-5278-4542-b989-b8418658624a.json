@@ -6,6 +6,12 @@
   "trainer_name": "staples___",
   "matches": {
     "2020-07-09T15:10:09.705949+00:00": {
+      "this_amiibo": {
+        "rating": 0.236889146931464,
+        "rating_mu": 19.00365376291502,
+        "rating_sigma": 6.255588205327853,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
         "id": "9ec75c88-c16f-4eed-bb65-2413ec0c9eb3",
@@ -14,12 +20,6 @@
         "trainer_id": "b079e5eb-cecb-48d2-a350-091fc4698bd3",
         "trainer_name": "kangasmom",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.236889146931464,
-        "rating_mu": 19.00365376291502,
-        "rating_sigma": 6.255588205327853,
-        "result": "loss"
       }
     },
     "2020-07-12T09:47:45.614578+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2020-07-16T06:18:34.178788+00:00": {
+      "this_amiibo": {
+        "rating": 14.159725647200712,
+        "rating_mu": 26.325844608352647,
+        "rating_sigma": 4.055372987050645,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
         "id": "9be6e7bc-f96c-4951-893b-5a7b74c122de",
@@ -48,12 +54,6 @@
         "trainer_id": "a6686cbf-503b-4a02-94b1-a5147b9d08ed",
         "trainer_name": "Armored_Sage",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.159725647200712,
-        "rating_mu": 26.325844608352647,
-        "rating_sigma": 4.055372987050645,
-        "result": "loss"
       }
     }
   }

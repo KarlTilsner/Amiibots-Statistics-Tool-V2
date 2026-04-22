@@ -6,6 +6,12 @@
   "trainer_name": "bertolupin",
   "matches": {
     "2022-01-17T15:26:26.152811+00:00": {
+      "this_amiibo": {
+        "rating": 0.09674285705093766,
+        "rating_mu": 18.633425153682378,
+        "rating_sigma": 6.178894098877146,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "b9e961c4-5e25-4c81-bd2b-f2615044683b",
@@ -14,15 +20,15 @@
         "trainer_id": "1c4294fb-b0ae-40ac-8797-79913cd40162",
         "trainer_name": "superlamp64",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.09674285705093766,
-        "rating_mu": 18.633425153682378,
-        "rating_sigma": 6.178894098877146,
-        "result": "loss"
       }
     },
     "2022-01-17T21:56:26.437487+00:00": {
+      "this_amiibo": {
+        "rating": 0.4785050879512447,
+        "rating_mu": 18.28184949034209,
+        "rating_sigma": 5.934448134130282,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
         "id": "7367a48d-cab3-435b-a932-34c216ca08a4",
@@ -31,12 +37,6 @@
         "trainer_id": "a492c8da-e8ac-4a2b-a5d0-e9d14c2b1642",
         "trainer_name": "DragonFroot_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.4785050879512447,
-        "rating_mu": 18.28184949034209,
-        "rating_sigma": 5.934448134130282,
-        "result": "loss"
       }
     }
   }

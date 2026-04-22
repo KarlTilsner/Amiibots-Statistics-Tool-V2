@@ -6,6 +6,12 @@
   "trainer_name": "glitched_artist",
   "matches": {
     "2020-11-08T23:23:57.642874+00:00": {
+      "this_amiibo": {
+        "rating": 1.2416315127941076,
+        "rating_mu": 21.596736569377047,
+        "rating_sigma": 6.78503501886098,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
         "id": "b735c7ef-4545-4fd1-a1aa-abf3e9fb5cf1",
@@ -14,12 +20,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2416315127941076,
-        "rating_mu": 21.596736569377047,
-        "rating_sigma": 6.78503501886098,
-        "result": "loss"
       }
     }
   }

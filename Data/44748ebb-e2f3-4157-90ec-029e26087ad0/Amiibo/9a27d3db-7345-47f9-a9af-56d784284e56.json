@@ -6,6 +6,12 @@
   "trainer_name": "UltraDPG",
   "matches": {
     "2020-09-16T02:16:09.169947+00:00": {
+      "this_amiibo": {
+        "rating": 0.776915147903189,
+        "rating_mu": 20.115966708976273,
+        "rating_sigma": 6.446350520357695,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
         "id": "47c940d2-5f79-40a1-920c-b63da7a02fd0",
@@ -14,15 +20,15 @@
         "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
         "trainer_name": "flareofstars",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.776915147903189,
-        "rating_mu": 20.115966708976273,
-        "rating_sigma": 6.446350520357695,
-        "result": "loss"
       }
     },
     "2020-10-03T02:18:56.783215+00:00": {
+      "this_amiibo": {
+        "rating": -0.30093504663526005,
+        "rating_mu": 16.621392154957988,
+        "rating_sigma": 5.640775733864416,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "599edd14-687c-4264-812e-bc246f562f31",
         "id": "46531daa-1ff6-4f25-aac6-96ae05c60ea3",
@@ -31,15 +37,15 @@
         "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
         "trainer_name": "apple_beebs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.30093504663526005,
-        "rating_mu": 16.621392154957988,
-        "rating_sigma": 5.640775733864416,
-        "result": "loss"
       }
     },
     "2020-10-03T05:57:36.447215+00:00": {
+      "this_amiibo": {
+        "rating": 0.10325166958834053,
+        "rating_mu": 15.292710262880759,
+        "rating_sigma": 5.063152864430806,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
         "id": "084a4210-0ab0-4543-9ce5-8943a9bd863b",
@@ -48,12 +54,6 @@
         "trainer_id": "338ed646-0399-4418-a7f4-c0e7452af833",
         "trainer_name": "AcePikapea",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.10325166958834053,
-        "rating_mu": 15.292710262880759,
-        "rating_sigma": 5.063152864430806,
-        "result": "loss"
       }
     }
   }

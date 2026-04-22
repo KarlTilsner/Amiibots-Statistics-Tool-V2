@@ -6,6 +6,12 @@
   "trainer_name": "BCRiparo",
   "matches": {
     "2020-06-21T17:48:55.744748+00:00": {
+      "this_amiibo": {
+        "rating": 0.9919211665296608,
+        "rating_mu": 20.685431606735083,
+        "rating_sigma": 6.564503480068474,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "4f028836-400f-47e6-ae48-6b90b57cdbfc",
@@ -14,15 +20,15 @@
         "trainer_id": "0636d0e3-7111-4073-a31d-f07fb7d61394",
         "trainer_name": "ScroogeMcDuk",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9919211665296608,
-        "rating_mu": 20.685431606735083,
-        "rating_sigma": 6.564503480068474,
-        "result": "loss"
       }
     },
     "2020-06-22T02:57:59.164920+00:00": {
+      "this_amiibo": {
+        "rating": 1.1266251246322234,
+        "rating_mu": 17.22054708550441,
+        "rating_sigma": 5.364640653624062,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
         "id": "2e86a7d7-4aca-472e-bbde-e7681cc1849a",
@@ -31,12 +37,6 @@
         "trainer_id": "7c20e90f-67fe-43c5-a623-83c60ef05858",
         "trainer_name": "Zizogod",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1266251246322234,
-        "rating_mu": 17.22054708550441,
-        "rating_sigma": 5.364640653624062,
-        "result": "loss"
       }
     },
     "2020-06-23T13:55:14.333617+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2020-06-26T07:10:25.494653+00:00": {
+      "this_amiibo": {
+        "rating": 12.611270633917163,
+        "rating_mu": 23.144103093414977,
+        "rating_sigma": 3.5109441531659376,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
         "id": "9ba0f33b-7ce9-4b8a-ad1b-bad0fd5f3c28",
@@ -82,15 +88,15 @@
         "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
         "trainer_name": "spike2the9th",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.611270633917163,
-        "rating_mu": 23.144103093414977,
-        "rating_sigma": 3.5109441531659376,
-        "result": "loss"
       }
     },
     "2020-06-26T17:46:47.229875+00:00": {
+      "this_amiibo": {
+        "rating": 12.625496212265137,
+        "rating_mu": 22.67706949910121,
+        "rating_sigma": 3.350524428945358,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "599edd14-687c-4264-812e-bc246f562f31",
         "id": "184c2c0e-aa49-4473-bf46-4f58598681bd",
@@ -99,12 +105,6 @@
         "trainer_id": "f0ff13ad-2d79-43ed-9754-edd686d76dfe",
         "trainer_name": "nozsmash",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.625496212265137,
-        "rating_mu": 22.67706949910121,
-        "rating_sigma": 3.350524428945358,
-        "result": "loss"
       }
     }
   }

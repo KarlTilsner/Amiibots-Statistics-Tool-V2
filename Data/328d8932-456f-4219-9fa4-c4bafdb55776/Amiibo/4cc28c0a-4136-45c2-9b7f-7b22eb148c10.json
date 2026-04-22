@@ -6,6 +6,12 @@
   "trainer_name": "ThouDetect1ve",
   "matches": {
     "2022-07-27T01:41:17.964694+00:00": {
+      "this_amiibo": {
+        "rating": 0.31845196179785873,
+        "rating_mu": 19.171186537427563,
+        "rating_sigma": 6.284244858543235,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
         "id": "acd480bd-3d56-4dbd-a974-07a8f8340d68",
@@ -14,15 +20,15 @@
         "trainer_id": "6e7c5192-3b94-41ee-a44c-1476c68bdade",
         "trainer_name": "frosteefromyt",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.31845196179785873,
-        "rating_mu": 19.171186537427563,
-        "rating_sigma": 6.284244858543235,
-        "result": "loss"
       }
     },
     "2022-08-12T13:42:27.154271+00:00": {
+      "this_amiibo": {
+        "rating": -0.6407103130634422,
+        "rating_mu": 15.277953633383602,
+        "rating_sigma": 5.306221315482348,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
         "id": "e88ce1de-1e52-40f1-9f9b-9f2504b41530",
@@ -31,15 +37,15 @@
         "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
         "trainer_name": "TheConceptionist",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.6407103130634422,
-        "rating_mu": 15.277953633383602,
-        "rating_sigma": 5.306221315482348,
-        "result": "loss"
       }
     },
     "2022-08-25T23:49:40.778545+00:00": {
+      "this_amiibo": {
+        "rating": -0.606519536280512,
+        "rating_mu": 13.33734048665641,
+        "rating_sigma": 4.647953340978974,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "5e7d1e6c-b732-4d61-87c9-7bd3b9be2635",
@@ -48,12 +54,40 @@
         "trainer_id": "e315cc8f-425d-4686-a648-103739846f36",
         "trainer_name": "Darkmega5",
         "result": "win"
-      },
+      }
+    },
+    "2022-10-09T13:29:57.263438+00:00": {
       "this_amiibo": {
-        "rating": -0.606519536280512,
-        "rating_mu": 13.33734048665641,
-        "rating_sigma": 4.647953340978974,
+        "rating": 2.4384738149520544,
+        "rating_mu": 14.91989265755555,
+        "rating_sigma": 4.160472947534498,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "215955db-cd67-4a1b-8c66-5dea3655f77f",
+        "name": "T-6000",
+        "rating": 5.596896472761718,
+        "trainer_id": "c5c68b28-da12-40b9-bcf1-fc55062d7e61",
+        "trainer_name": "highphin",
         "result": "loss"
+      }
+    },
+    "2022-10-19T01:45:36.547137+00:00": {
+      "this_amiibo": {
+        "rating": 1.502843205480401,
+        "rating_mu": 12.689886035052831,
+        "rating_sigma": 3.7290142765241434,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "31869ed7-3406-4511-b4de-d0db9ee466fe",
+        "name": "FEELING IT",
+        "rating": 4.919977461184317,
+        "trainer_id": "9891eba0-a578-4f25-97ce-338fb6d4890b",
+        "trainer_name": "STRYDER_49",
+        "result": "win"
       }
     }
   }

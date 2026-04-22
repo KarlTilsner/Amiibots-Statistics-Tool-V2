@@ -6,6 +6,12 @@
   "trainer_name": "RazorForce21",
   "matches": {
     "2023-03-30T22:09:15.870803+00:00": {
+      "this_amiibo": {
+        "rating": 25.277193078761524,
+        "rating_mu": 36.52641417179314,
+        "rating_sigma": 3.7497403643438725,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
         "id": "b97fdf4a-c5e0-4bb7-a78c-c9b2ebba3fbd",
@@ -14,12 +20,6 @@
         "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
         "trainer_name": "gotelin_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 25.277193078761524,
-        "rating_mu": 36.52641417179314,
-        "rating_sigma": 3.7497403643438725,
-        "result": "loss"
       }
     },
     "2023-03-30T19:09:26.693552+00:00": {
@@ -159,6 +159,12 @@
       }
     },
     "2023-04-02T11:41:59.821073+00:00": {
+      "this_amiibo": {
+        "rating": 32.46155591592089,
+        "rating_mu": 39.66841607592571,
+        "rating_sigma": 2.4022867200016074,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "384991ee-2c99-499c-97b0-1efdd9862a64",
@@ -167,15 +173,15 @@
         "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
         "trainer_name": "fammydamammy",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 32.46155591592089,
-        "rating_mu": 39.66841607592571,
-        "rating_sigma": 2.4022867200016074,
-        "result": "loss"
       }
     },
     "2023-04-02T10:13:46.915945+00:00": {
+      "this_amiibo": {
+        "rating": 33.11676997693302,
+        "rating_mu": 40.74689986674565,
+        "rating_sigma": 2.5433766299375433,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "dfea4866-b27f-438f-babf-b7beb28394b4",
@@ -184,12 +190,6 @@
         "trainer_id": "0fb55565-9a16-4eaf-9ae8-e089b432d6f0",
         "trainer_name": "sdm_ranch",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 33.11676997693302,
-        "rating_mu": 40.74689986674565,
-        "rating_sigma": 2.5433766299375433,
-        "result": "loss"
       }
     }
   }

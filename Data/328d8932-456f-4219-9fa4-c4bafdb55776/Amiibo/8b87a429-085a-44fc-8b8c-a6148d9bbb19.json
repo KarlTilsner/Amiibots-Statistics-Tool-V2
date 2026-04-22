@@ -6,6 +6,12 @@
   "trainer_name": "mariodude6700",
   "matches": {
     "2022-02-03T03:36:50.149695+00:00": {
+      "this_amiibo": {
+        "rating": 0.4238198889633189,
+        "rating_mu": 20.433578847676475,
+        "rating_sigma": 6.669919652904386,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "95a02602-a00f-45f1-9757-cba83a5f4033",
@@ -14,12 +20,6 @@
         "trainer_id": "8611b3c4-4441-4e46-a466-fa1d8dc052e6",
         "trainer_name": "josephTPG",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.4238198889633189,
-        "rating_mu": 20.433578847676475,
-        "rating_sigma": 6.669919652904386,
-        "result": "loss"
       }
     }
   }

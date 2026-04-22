@@ -6,6 +6,12 @@
   "trainer_name": "AnimeGamer77318",
   "matches": {
     "2022-07-26T09:31:12.736939+00:00": {
+      "this_amiibo": {
+        "rating": 0.24542850337746458,
+        "rating_mu": 19.096626124512806,
+        "rating_sigma": 6.2837325403784465,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
         "id": "be4b364c-6515-4b16-9204-a0b29ed2a380",
@@ -14,12 +20,6 @@
         "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
         "trainer_name": "StaplesTV_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.24542850337746458,
-        "rating_mu": 19.096626124512806,
-        "rating_sigma": 6.2837325403784465,
-        "result": "loss"
       }
     }
   }

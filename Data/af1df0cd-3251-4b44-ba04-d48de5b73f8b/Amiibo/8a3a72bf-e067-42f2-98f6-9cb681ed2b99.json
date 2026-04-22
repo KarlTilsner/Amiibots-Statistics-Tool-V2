@@ -6,6 +6,12 @@
   "trainer_name": "NoAmiibo",
   "matches": {
     "2022-05-04T06:33:37.882779+00:00": {
+      "this_amiibo": {
+        "rating": 1.4303971378335554,
+        "rating_mu": 18.521802723318185,
+        "rating_sigma": 5.697135195161543,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
         "id": "63974f33-e42f-4ad9-9ee5-bb52f0b6ffa8",
@@ -14,12 +20,6 @@
         "trainer_id": "7b6bdc24-a8e4-4d5c-a3f0-407613a5dc8f",
         "trainer_name": "MentL_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.4303971378335554,
-        "rating_mu": 18.521802723318185,
-        "rating_sigma": 5.697135195161543,
-        "result": "loss"
       }
     }
   }

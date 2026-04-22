@@ -6,6 +6,12 @@
   "trainer_name": "dotcomplus",
   "matches": {
     "2020-10-10T20:16:59.046192+00:00": {
+      "this_amiibo": {
+        "rating": 0.17443231146402027,
+        "rating_mu": 19.551533342208376,
+        "rating_sigma": 6.459033676914785,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
         "id": "7478b9da-1117-4010-a9b9-50fd64300bcf",
@@ -14,15 +20,15 @@
         "trainer_id": "94403b6f-17a3-4d6a-be29-de66b221db6d",
         "trainer_name": "penguhhhh",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.17443231146402027,
-        "rating_mu": 19.551533342208376,
-        "rating_sigma": 6.459033676914785,
-        "result": "loss"
       }
     },
     "2020-10-11T01:57:43.987807+00:00": {
+      "this_amiibo": {
+        "rating": 0.46065789488163844,
+        "rating_mu": 19.32620320357813,
+        "rating_sigma": 6.288515102898831,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "22167950-8372-4b1c-8ed4-ab08d7e93d48",
@@ -31,15 +37,15 @@
         "trainer_id": "1a40b865-6138-4324-b2d6-f23b1fb07270",
         "trainer_name": "Linkushi_mario",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.46065789488163844,
-        "rating_mu": 19.32620320357813,
-        "rating_sigma": 6.288515102898831,
-        "result": "loss"
       }
     },
     "2020-10-11T12:24:08.469438+00:00": {
+      "this_amiibo": {
+        "rating": 0.9331883641727003,
+        "rating_mu": 17.31465091908884,
+        "rating_sigma": 5.4604875183053805,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
         "id": "3a090996-de03-447d-9c7a-888f16f6f1f3",
@@ -48,12 +54,6 @@
         "trainer_id": "842fd55b-5c9f-4914-820e-99639a5ccf96",
         "trainer_name": "littlefang__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9331883641727003,
-        "rating_mu": 17.31465091908884,
-        "rating_sigma": 5.4604875183053805,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "AmiiboDoctor",
   "matches": {
     "2020-07-30T00:33:13.743477+00:00": {
+      "this_amiibo": {
+        "rating": 0.6997104332954471,
+        "rating_mu": 20.21991186712836,
+        "rating_sigma": 6.506733811277638,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "0f3fb20c-ed38-42fd-bc42-3af95539bbd6",
@@ -14,12 +20,6 @@
         "trainer_id": "d62b13fa-8416-42a7-9420-dcbfc41a54cf",
         "trainer_name": "iminneedofalife",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6997104332954471,
-        "rating_mu": 20.21991186712836,
-        "rating_sigma": 6.506733811277638,
-        "result": "loss"
       }
     },
     "2020-08-14T12:44:09.083208+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2020-08-27T13:23:14.558039+00:00": {
+      "this_amiibo": {
+        "rating": 9.987473176047532,
+        "rating_mu": 23.203711095194837,
+        "rating_sigma": 4.4054126397157685,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
         "id": "1d2de98f-2412-4862-94b4-6c3b69004e4d",
@@ -48,15 +54,15 @@
         "trainer_id": "1f8d330f-5a0a-4b06-891b-8956d6cde643",
         "trainer_name": "celiah07",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.987473176047532,
-        "rating_mu": 23.203711095194837,
-        "rating_sigma": 4.4054126397157685,
-        "result": "loss"
       }
     },
     "2020-09-19T09:23:51.154991+00:00": {
+      "this_amiibo": {
+        "rating": 9.999617689622912,
+        "rating_mu": 22.21683071294805,
+        "rating_sigma": 4.072404341108379,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
         "id": "c4b56a2b-2d19-4dfc-bb7c-42f787dbc676",
@@ -65,12 +71,6 @@
         "trainer_id": "75cc72db-3f1a-4ecb-a476-a681603d9d4e",
         "trainer_name": "boristhekoopa",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.999617689622912,
-        "rating_mu": 22.21683071294805,
-        "rating_sigma": 4.072404341108379,
-        "result": "loss"
       }
     }
   }

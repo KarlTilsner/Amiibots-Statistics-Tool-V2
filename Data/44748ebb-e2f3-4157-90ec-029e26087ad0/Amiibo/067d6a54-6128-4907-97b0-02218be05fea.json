@@ -1,0 +1,43 @@
+{
+  "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+  "id": "067d6a54-6128-4907-97b0-02218be05fea",
+  "name": "Snowball",
+  "trainer_id": "95c09948-6452-4ce4-b27f-6c73c294c610",
+  "trainer_name": "2Snowblind",
+  "matches": {
+    "2021-01-01T13:29:34.055101+00:00": {
+      "this_amiibo": {
+        "rating": 1.1542759971117746,
+        "rating_mu": 21.74339795715606,
+        "rating_sigma": 6.8630406533480945,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "d14cbd6e-23bf-440e-9dff-3876cc9f9a45",
+        "name": "Fenrir",
+        "rating": 24.741786829077157,
+        "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
+        "trainer_name": "LovingStew",
+        "result": "win"
+      }
+    },
+    "2021-01-01T16:19:35.761923+00:00": {
+      "this_amiibo": {
+        "rating": 7.249049113756776,
+        "rating_mu": 25.48871846281543,
+        "rating_sigma": 6.079889783019552,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "837e7ca0-7d45-47b1-a24d-5baf76f74e69",
+        "name": "Metak",
+        "rating": -1.1770243816645518,
+        "trainer_id": "dd6555fd-a19c-44f9-8e49-d533db72a667",
+        "trainer_name": "jholdc3",
+        "result": "loss"
+      }
+    }
+  }
+}

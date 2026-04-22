@@ -6,6 +6,12 @@
   "trainer_name": "Sirffuzzylogik",
   "matches": {
     "2020-10-14T04:35:03.606215+00:00": {
+      "this_amiibo": {
+        "rating": -0.5535147728958698,
+        "rating_mu": 16.36092248727152,
+        "rating_sigma": 5.63814575338913,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
         "id": "27aa8b00-5fd4-4185-8017-b5b2571e61b6",
@@ -14,15 +20,15 @@
         "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
         "trainer_name": "apple_beebs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.5535147728958698,
-        "rating_mu": 16.36092248727152,
-        "rating_sigma": 5.63814575338913,
-        "result": "loss"
       }
     },
     "2020-10-14T04:23:54.903423+00:00": {
+      "this_amiibo": {
+        "rating": -1.174871635673579,
+        "rating_mu": 18.109300238957577,
+        "rating_sigma": 6.428057291543719,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
         "id": "ec12852c-f422-4f9f-a4a9-9210f53364d4",
@@ -31,15 +37,15 @@
         "trainer_id": "05eacb7f-fff7-4c14-ab1d-129195051d66",
         "trainer_name": "Nintendo_Obsessed",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.174871635673579,
-        "rating_mu": 18.109300238957577,
-        "rating_sigma": 6.428057291543719,
-        "result": "loss"
       }
     },
     "2020-10-14T15:09:16.364388+00:00": {
+      "this_amiibo": {
+        "rating": -0.21767811387559277,
+        "rating_mu": 15.980830450677097,
+        "rating_sigma": 5.399502854850896,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
         "id": "eddae328-4249-4dce-879c-9ff04b70a49e",
@@ -48,15 +54,15 @@
         "trainer_id": "8fb22cec-7176-4c66-8a37-0a38a179cd24",
         "trainer_name": "kingozebras",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.21767811387559277,
-        "rating_mu": 15.980830450677097,
-        "rating_sigma": 5.399502854850896,
-        "result": "loss"
       }
     },
     "2020-10-14T22:00:12.361198+00:00": {
+      "this_amiibo": {
+        "rating": 0.14926738101663695,
+        "rating_mu": 15.383478870051041,
+        "rating_sigma": 5.078070496344801,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "7e3f2d7d-fe70-4221-86bd-e935fab39984",
@@ -65,15 +71,15 @@
         "trainer_id": "6fcd9113-8cc8-48cd-b29b-46b2ccb55f27",
         "trainer_name": "sunnyfunnytrueform",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.14926738101663695,
-        "rating_mu": 15.383478870051041,
-        "rating_sigma": 5.078070496344801,
-        "result": "loss"
       }
     },
     "2020-10-15T02:34:09.617356+00:00": {
+      "this_amiibo": {
+        "rating": 0.4543988712942877,
+        "rating_mu": 14.652222572258509,
+        "rating_sigma": 4.732607900321407,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "f69e537e-fbab-41d0-8ef6-d1d4e714eb2c",
@@ -82,15 +88,15 @@
         "trainer_id": "1a40b865-6138-4324-b2d6-f23b1fb07270",
         "trainer_name": "Linkushi_mario",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.4543988712942877,
-        "rating_mu": 14.652222572258509,
-        "rating_sigma": 4.732607900321407,
-        "result": "loss"
       }
     },
     "2020-10-14T23:27:01.066008+00:00": {
+      "this_amiibo": {
+        "rating": 0.3965148728647119,
+        "rating_mu": 14.697257202423879,
+        "rating_sigma": 4.766914109853055,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "41baec3c-630c-4c11-9277-fa1e4aabac3f",
@@ -99,12 +105,6 @@
         "trainer_id": "800690a5-19de-4098-8fd4-33bcbadf4a18",
         "trainer_name": "tmso_aura",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.3965148728647119,
-        "rating_mu": 14.697257202423879,
-        "rating_sigma": 4.766914109853055,
-        "result": "loss"
       }
     }
   }

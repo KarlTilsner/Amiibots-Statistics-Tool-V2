@@ -6,6 +6,12 @@
   "trainer_name": "UltraDPG",
   "matches": {
     "2020-08-28T11:50:16.587851+00:00": {
+      "this_amiibo": {
+        "rating": 0.2460535575618472,
+        "rating_mu": 19.717095237009882,
+        "rating_sigma": 6.490347226482679,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "6e1d668d-998f-4b74-aacc-ac40d47875a8",
@@ -14,15 +20,15 @@
         "trainer_id": "c3c0efd1-4c9c-43b2-a01b-b0964832e7f3",
         "trainer_name": "Aleust_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.2460535575618472,
-        "rating_mu": 19.717095237009882,
-        "rating_sigma": 6.490347226482679,
-        "result": "loss"
       }
     },
     "2020-09-25T16:22:50.342454+00:00": {
+      "this_amiibo": {
+        "rating": 0.9275656702053077,
+        "rating_mu": 18.279020194725845,
+        "rating_sigma": 5.783818174840179,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
         "id": "8401341f-b5a5-4b68-9ece-6fa8f9b58a9f",
@@ -31,12 +37,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9275656702053077,
-        "rating_mu": 18.279020194725845,
-        "rating_sigma": 5.783818174840179,
-        "result": "loss"
       }
     }
   }

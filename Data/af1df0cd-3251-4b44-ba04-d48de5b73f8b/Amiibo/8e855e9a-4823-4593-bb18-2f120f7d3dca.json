@@ -6,6 +6,12 @@
   "trainer_name": "ricola7ttv",
   "matches": {
     "2024-05-14T14:06:37.042306+00:00": {
+      "this_amiibo": {
+        "rating": 1.051021307542797,
+        "rating_mu": 20.833962492421147,
+        "rating_sigma": 6.594313728292783,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
         "id": "f8925352-9dfb-4b48-8c8a-95ec43887baa",
@@ -14,12 +20,6 @@
         "trainer_id": "b2d4f8ba-040d-4121-af64-e1b950939672",
         "trainer_name": "KeepThatCoin",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.051021307542797,
-        "rating_mu": 20.833962492421147,
-        "rating_sigma": 6.594313728292783,
-        "result": "loss"
       }
     }
   }

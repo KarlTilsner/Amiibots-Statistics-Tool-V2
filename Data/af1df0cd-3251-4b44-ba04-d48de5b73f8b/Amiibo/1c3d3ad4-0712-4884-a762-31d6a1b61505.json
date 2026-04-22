@@ -6,6 +6,12 @@
   "trainer_name": "PhantomD_SSB",
   "matches": {
     "2023-07-13T23:21:01.209127+00:00": {
+      "this_amiibo": {
+        "rating": 13.30860217805639,
+        "rating_mu": 18.342747976093797,
+        "rating_sigma": 1.678048599345802,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
         "id": "6a549e49-d8f7-4297-88a3-57ba244880dc",
@@ -14,15 +20,15 @@
         "trainer_id": "edf7be9f-7863-4d1b-b2f7-6690340c727e",
         "trainer_name": "DedederpPotato",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.30860217805639,
-        "rating_mu": 18.342747976093797,
-        "rating_sigma": 1.678048599345802,
-        "result": "loss"
       }
     },
     "2023-07-24T09:30:11.120052+00:00": {
+      "this_amiibo": {
+        "rating": 13.082569098344555,
+        "rating_mu": 18.040955114783426,
+        "rating_sigma": 1.6527953388129568,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
         "id": "0576acc4-b179-48a4-a2d5-37b55519161c",
@@ -31,15 +37,15 @@
         "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
         "trainer_name": "StaplesTV_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.082569098344555,
-        "rating_mu": 18.040955114783426,
-        "rating_sigma": 1.6527953388129568,
-        "result": "loss"
       }
     },
     "2023-07-31T13:55:56.012544+00:00": {
+      "this_amiibo": {
+        "rating": 12.982236706977263,
+        "rating_mu": 17.868051143449723,
+        "rating_sigma": 1.6286048121574865,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
         "id": "5558de4e-3f4a-42b1-a252-cc32917bf3b9",
@@ -48,12 +54,6 @@
         "trainer_id": "65606c83-1f85-48b4-bf6a-dfa9510cb7ab",
         "trainer_name": "mariolover123456678",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.982236706977263,
-        "rating_mu": 17.868051143449723,
-        "rating_sigma": 1.6286048121574865,
-        "result": "loss"
       }
     }
   }

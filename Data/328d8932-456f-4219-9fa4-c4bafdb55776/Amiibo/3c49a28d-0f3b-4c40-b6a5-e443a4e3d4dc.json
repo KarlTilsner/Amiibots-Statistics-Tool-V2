@@ -6,6 +6,12 @@
   "trainer_name": "staples___",
   "matches": {
     "2021-03-19T12:46:46.198661+00:00": {
+      "this_amiibo": {
+        "rating": 1.037045725540306,
+        "rating_mu": 21.420226511486838,
+        "rating_sigma": 6.794393595315511,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
         "id": "062bb236-14c4-42b3-9863-02f83fdddde7",
@@ -14,15 +20,15 @@
         "trainer_id": "71a13158-2491-4805-ab71-01094a714e46",
         "trainer_name": "DansOtherClone",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.037045725540306,
-        "rating_mu": 21.420226511486838,
-        "rating_sigma": 6.794393595315511,
-        "result": "loss"
       }
     },
     "2021-03-20T11:47:53.715907+00:00": {
+      "this_amiibo": {
+        "rating": 0.5499945819683347,
+        "rating_mu": 19.06598968202895,
+        "rating_sigma": 6.171998366686871,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
         "id": "b93aa7da-f7e2-47f5-8500-486905dbf37c",
@@ -31,12 +37,6 @@
         "trainer_id": "d23c127d-b419-42fc-94da-1ca9ee90a8fc",
         "trainer_name": "BottoTheBulliedPirate",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5499945819683347,
-        "rating_mu": 19.06598968202895,
-        "rating_sigma": 6.171998366686871,
-        "result": "loss"
       }
     }
   }

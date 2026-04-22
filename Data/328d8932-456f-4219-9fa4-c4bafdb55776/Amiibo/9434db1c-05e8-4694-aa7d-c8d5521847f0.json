@@ -6,6 +6,12 @@
   "trainer_name": "Gamer_gaben1",
   "matches": {
     "2022-04-16T01:59:48.096986+00:00": {
+      "this_amiibo": {
+        "rating": 0.4883727507714042,
+        "rating_mu": 19.426897236316606,
+        "rating_sigma": 6.3128414951817335,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
         "id": "e367eb17-512b-46e4-b1d3-a92a3ed801f9",
@@ -14,15 +20,15 @@
         "trainer_id": "e8c228c8-a377-4a5c-91ba-4ab8238a4023",
         "trainer_name": "MrSmart13579",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.4883727507714042,
-        "rating_mu": 19.426897236316606,
-        "rating_sigma": 6.3128414951817335,
-        "result": "loss"
       }
     },
     "2022-04-16T18:21:11.638335+00:00": {
+      "this_amiibo": {
+        "rating": -0.1867750734691711,
+        "rating_mu": 15.527724817073295,
+        "rating_sigma": 5.238166630180822,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
         "id": "16d16d3e-8d6b-4af8-b04b-cc02abd4d312",
@@ -31,12 +37,6 @@
         "trainer_id": "5f193754-19cc-4e88-a09f-cd36122614ca",
         "trainer_name": "twrecks64",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.1867750734691711,
-        "rating_mu": 15.527724817073295,
-        "rating_sigma": 5.238166630180822,
-        "result": "loss"
       }
     }
   }

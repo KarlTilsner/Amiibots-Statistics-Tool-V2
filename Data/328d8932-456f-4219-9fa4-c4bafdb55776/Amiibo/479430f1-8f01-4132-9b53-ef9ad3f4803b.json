@@ -6,6 +6,12 @@
   "trainer_name": "AnimeGamer77318",
   "matches": {
     "2022-08-16T01:33:13.082474+00:00": {
+      "this_amiibo": {
+        "rating": 1.0720956172918967,
+        "rating_mu": 21.200239448850137,
+        "rating_sigma": 6.709381277186081,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
         "id": "d6515f16-b9e5-49bd-a7ce-51e2b12c9708",
@@ -14,15 +20,15 @@
         "trainer_id": "faf132fe-f69f-4bbc-b0d9-6d9808d36439",
         "trainer_name": "AnimeGamer77318",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0720956172918967,
-        "rating_mu": 21.200239448850137,
-        "rating_sigma": 6.709381277186081,
-        "result": "loss"
       }
     },
     "2022-09-10T11:20:20.744219+00:00": {
+      "this_amiibo": {
+        "rating": 0.6438685765303838,
+        "rating_mu": 17.811347643239355,
+        "rating_sigma": 5.722493022236324,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "599edd14-687c-4264-812e-bc246f562f31",
         "id": "8ccde8cd-cd3a-4682-946b-06a8d433a025",
@@ -31,11 +37,56 @@
         "trainer_id": "ec78dc00-97ce-48d8-bee8-f43401bf1191",
         "trainer_name": "lugibalugi",
         "result": "win"
-      },
+      }
+    },
+    "2022-10-23T17:12:05.388889+00:00": {
       "this_amiibo": {
-        "rating": 0.6438685765303838,
-        "rating_mu": 17.811347643239355,
-        "rating_sigma": 5.722493022236324,
+        "rating": 0.6216003880099255,
+        "rating_mu": 15.660358045476173,
+        "rating_sigma": 5.012919219155416,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "4b6c5649-7dc6-429f-9147-8c5d43b4aec0",
+        "name": "Mr. Wahoo",
+        "rating": 12.766987370650746,
+        "trainer_id": "130d14e0-8ba1-407c-8c69-6c2544843b8f",
+        "trainer_name": "bertolupin",
+        "result": "win"
+      }
+    },
+    "2022-11-05T04:00:07.146910+00:00": {
+      "this_amiibo": {
+        "rating": -0.7927484190867702,
+        "rating_mu": 12.018669748845575,
+        "rating_sigma": 4.270472722644115,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "87e242b6-8a8f-448e-a410-dbdcbc76ac63",
+        "name": "The Mayor",
+        "rating": 3.9203886110183337,
+        "trainer_id": "5bbdd0ed-bab2-465a-97ab-46b2192286d6",
+        "trainer_name": "nothingxl",
+        "result": "win"
+      }
+    },
+    "2022-12-18T15:47:42.970595+00:00": {
+      "this_amiibo": {
+        "rating": 1.843336931756097,
+        "rating_mu": 13.514505653223646,
+        "rating_sigma": 3.890389573822516,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "95f59c6a-9147-44a1-9c68-9d1f117fe422",
+        "name": "Kirito ",
+        "rating": 0.7182568645659266,
+        "trainer_id": "1b9237f2-d76d-4746-bde5-f5b316d502a6",
+        "trainer_name": "killer_icarus67z",
         "result": "loss"
       }
     }

@@ -40,6 +40,12 @@
       }
     },
     "2022-09-17T04:10:36.921432+00:00": {
+      "this_amiibo": {
+        "rating": 18.156499125747942,
+        "rating_mu": 31.894529198489217,
+        "rating_sigma": 4.5793433575804245,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "b0589734-8268-47c3-86ee-4b0709ccbb1f",
@@ -48,12 +54,6 @@
         "trainer_id": "06f417e6-7ed4-4ca4-9721-521a9eb782c2",
         "trainer_name": "hypercodec",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 18.156499125747942,
-        "rating_mu": 31.894529198489217,
-        "rating_sigma": 4.5793433575804245,
-        "result": "loss"
       }
     }
   }

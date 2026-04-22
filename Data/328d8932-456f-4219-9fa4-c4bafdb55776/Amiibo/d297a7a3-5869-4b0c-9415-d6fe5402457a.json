@@ -6,6 +6,12 @@
   "trainer_name": "pinheadpatrick017",
   "matches": {
     "2022-01-06T00:37:41.633610+00:00": {
+      "this_amiibo": {
+        "rating": -1.1155423948908307,
+        "rating_mu": 17.447885616110234,
+        "rating_sigma": 6.187809337000354,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "d6430bc1-95a2-46e7-bf83-951643d852a8",
@@ -14,15 +20,15 @@
         "trainer_id": "86912f99-fb6b-4c7d-af81-8700867a6f46",
         "trainer_name": "viktex",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.1155423948908307,
-        "rating_mu": 17.447885616110234,
-        "rating_sigma": 6.187809337000354,
-        "result": "loss"
       }
     },
     "2022-01-06T00:20:07.748338+00:00": {
+      "this_amiibo": {
+        "rating": -1.6399385930888677,
+        "rating_mu": 18.005769775718996,
+        "rating_sigma": 6.548569456269288,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
         "id": "31b048b8-3a36-4e69-8581-a1e56e4ec86d",
@@ -31,12 +37,6 @@
         "trainer_id": "9452335d-2039-4ace-ae32-09d27b45d862",
         "trainer_name": "eddyboomtron",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.6399385930888677,
-        "rating_mu": 18.005769775718996,
-        "rating_sigma": 6.548569456269288,
-        "result": "loss"
       }
     }
   }

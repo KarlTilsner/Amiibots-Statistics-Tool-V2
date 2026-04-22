@@ -6,6 +6,12 @@
   "trainer_name": "fafep2",
   "matches": {
     "2023-09-18T02:53:48.441957+00:00": {
+      "this_amiibo": {
+        "rating": 0.01072040374731742,
+        "rating_mu": 18.959776576709153,
+        "rating_sigma": 6.316352057653945,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "6b61e5d7-1777-42d9-8fe1-90a0dfdf4f7d",
@@ -14,12 +20,6 @@
         "trainer_id": "4109b186-2c35-4e06-9fb2-0814df014469",
         "trainer_name": "vasanthias",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.01072040374731742,
-        "rating_mu": 18.959776576709153,
-        "rating_sigma": 6.316352057653945,
-        "result": "loss"
       }
     },
     "2023-10-02T21:51:04.505069+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2023-10-14T23:44:50.141065+00:00": {
+      "this_amiibo": {
+        "rating": 7.085048247701627,
+        "rating_mu": 20.90531406695968,
+        "rating_sigma": 4.6067552730860175,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "9004611d-8e3b-452d-a937-c7f5b0ae8994",
@@ -48,12 +54,6 @@
         "trainer_id": "e4931ae7-1311-40d6-811c-354742e96bc0",
         "trainer_name": "atomic_salvy",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 7.085048247701627,
-        "rating_mu": 20.90531406695968,
-        "rating_sigma": 4.6067552730860175,
-        "result": "loss"
       }
     }
   }

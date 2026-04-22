@@ -6,6 +6,12 @@
   "trainer_name": "gotelin_",
   "matches": {
     "2021-11-10T16:48:28.541224+00:00": {
+      "this_amiibo": {
+        "rating": -0.040269707818236355,
+        "rating_mu": 19.787496768892115,
+        "rating_sigma": 6.609255492236784,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "ceb9110d-bf45-4810-b4a9-8755824ec630",
@@ -14,12 +20,6 @@
         "trainer_id": "8611b3c4-4441-4e46-a466-fa1d8dc052e6",
         "trainer_name": "josephTPG",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.040269707818236355,
-        "rating_mu": 19.787496768892115,
-        "rating_sigma": 6.609255492236784,
-        "result": "loss"
       }
     }
   }

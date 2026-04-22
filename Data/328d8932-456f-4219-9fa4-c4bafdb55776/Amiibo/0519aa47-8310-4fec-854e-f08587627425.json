@@ -6,6 +6,12 @@
   "trainer_name": "bosn23",
   "matches": {
     "2021-03-26T17:57:02.494471+00:00": {
+      "this_amiibo": {
+        "rating": 12.489030044627736,
+        "rating_mu": 27.381520324036394,
+        "rating_sigma": 4.964163426469553,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
         "id": "05ce40c5-3151-445f-b8cb-38ec4c49b10c",
@@ -14,12 +20,6 @@
         "trainer_id": "180df160-b67f-470f-8ddb-1cfba1202adb",
         "trainer_name": "frosd19",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.489030044627736,
-        "rating_mu": 27.381520324036394,
-        "rating_sigma": 4.964163426469553,
-        "result": "loss"
       }
     },
     "2021-03-26T14:20:31.890727+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2021-03-26T20:37:00.111508+00:00": {
+      "this_amiibo": {
+        "rating": 12.292503393451872,
+        "rating_mu": 25.35252293780489,
+        "rating_sigma": 4.353339848117672,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "e02a3a2d-41e1-47e5-bcad-c3e118c568b0",
@@ -48,12 +54,6 @@
         "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
         "trainer_name": "rurpking22",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.292503393451872,
-        "rating_mu": 25.35252293780489,
-        "rating_sigma": 4.353339848117672,
-        "result": "loss"
       }
     }
   }

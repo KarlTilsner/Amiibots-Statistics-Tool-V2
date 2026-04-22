@@ -6,6 +6,12 @@
   "trainer_name": "Stolridur",
   "matches": {
     "2022-04-29T20:54:58.896527+00:00": {
+      "this_amiibo": {
+        "rating": 0.5138701318387469,
+        "rating_mu": 19.47781814119701,
+        "rating_sigma": 6.321316003119421,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
         "id": "e367eb17-512b-46e4-b1d3-a92a3ed801f9",
@@ -14,12 +20,6 @@
         "trainer_id": "e8c228c8-a377-4a5c-91ba-4ab8238a4023",
         "trainer_name": "MrSmart13579",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5138701318387469,
-        "rating_mu": 19.47781814119701,
-        "rating_sigma": 6.321316003119421,
-        "result": "loss"
       }
     },
     "2022-04-30T03:22:19.409076+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2022-04-30T10:32:28.690904+00:00": {
+      "this_amiibo": {
+        "rating": 5.686635080226255,
+        "rating_mu": 20.90549048001401,
+        "rating_sigma": 5.0729517999292515,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
         "id": "0a3408bd-e94c-4b6a-ba78-8cc796d79911",
@@ -48,15 +54,15 @@
         "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
         "trainer_name": "schmorchid",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 5.686635080226255,
-        "rating_mu": 20.90549048001401,
-        "rating_sigma": 5.0729517999292515,
-        "result": "loss"
       }
     },
     "2022-05-01T00:36:15.554946+00:00": {
+      "this_amiibo": {
+        "rating": 5.140647559224291,
+        "rating_mu": 18.110052629035856,
+        "rating_sigma": 4.323135023270521,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
         "id": "fd6ab147-fce7-4f3c-a7be-1a0ce0668da4",
@@ -65,12 +71,6 @@
         "trainer_id": "2bcb87ea-4200-4b24-99e6-b8ffcf5cc901",
         "trainer_name": "julianesco14",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 5.140647559224291,
-        "rating_mu": 18.110052629035856,
-        "rating_sigma": 4.323135023270521,
-        "result": "loss"
       }
     }
   }

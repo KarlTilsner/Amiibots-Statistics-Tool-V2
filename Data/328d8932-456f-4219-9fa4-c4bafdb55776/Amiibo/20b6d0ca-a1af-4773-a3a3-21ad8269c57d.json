@@ -6,6 +6,12 @@
   "trainer_name": "MoonBeanBie",
   "matches": {
     "2022-08-24T07:15:28.682857+00:00": {
+      "this_amiibo": {
+        "rating": 1.229501930477543,
+        "rating_mu": 21.497717417818635,
+        "rating_sigma": 6.756071829113697,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
         "id": "7e78ecef-69ab-4aff-85d7-ac7cdf6fdf56",
@@ -14,12 +20,6 @@
         "trainer_id": "c0af153f-91c1-41cb-8490-d84651b6b210",
         "trainer_name": "CertifiedAssDestroyer",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.229501930477543,
-        "rating_mu": 21.497717417818635,
-        "rating_sigma": 6.756071829113697,
-        "result": "loss"
       }
     },
     "2022-08-24T13:18:01.681097+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2022-10-05T13:33:40.875348+00:00": {
+      "this_amiibo": {
+        "rating": 12.962002167809327,
+        "rating_mu": 25.093385492172164,
+        "rating_sigma": 4.043794441454279,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
         "id": "e78602f6-5e0d-43df-a30e-5c855aab53a3",
@@ -65,12 +71,6 @@
         "trainer_id": "70927a90-4d05-418b-814b-9d309dc23ec9",
         "trainer_name": "wyrmtheblack",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.962002167809327,
-        "rating_mu": 25.093385492172164,
-        "rating_sigma": 4.043794441454279,
-        "result": "loss"
       }
     }
   }

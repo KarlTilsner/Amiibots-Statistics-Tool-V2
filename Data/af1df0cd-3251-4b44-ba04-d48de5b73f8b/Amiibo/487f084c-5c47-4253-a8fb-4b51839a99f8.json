@@ -6,6 +6,12 @@
   "trainer_name": "Competitively2",
   "matches": {
     "2024-05-23T23:40:11.387082+00:00": {
+      "this_amiibo": {
+        "rating": 0.71204332509814,
+        "rating_mu": 19.908236097037207,
+        "rating_sigma": 6.398730923979689,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "1fd6ca76-b8b7-4547-8db9-060e785066d2",
@@ -14,15 +20,15 @@
         "trainer_id": "8a5d445a-c5ef-48a8-9428-41276f678e9d",
         "trainer_name": "soin1324",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.71204332509814,
-        "rating_mu": 19.908236097037207,
-        "rating_sigma": 6.398730923979689,
-        "result": "loss"
       }
     },
     "2024-08-08T22:12:17.161143+00:00": {
+      "this_amiibo": {
+        "rating": 1.1405293522855011,
+        "rating_mu": 17.63392082103967,
+        "rating_sigma": 5.497797156251389,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "d5ca22fc-d660-4787-803d-0ce7a66636c9",
@@ -31,12 +37,6 @@
         "trainer_id": "8c7a065c-0fef-4dce-a121-800ba482932c",
         "trainer_name": "glowkirb",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1405293522855011,
-        "rating_mu": 17.63392082103967,
-        "rating_sigma": 5.497797156251389,
-        "result": "loss"
       }
     }
   }

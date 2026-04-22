@@ -6,6 +6,12 @@
   "trainer_name": "Crotek_",
   "matches": {
     "2021-09-22T00:18:06.441042+00:00": {
+      "this_amiibo": {
+        "rating": -0.8016797229894159,
+        "rating_mu": 20.775701662576704,
+        "rating_sigma": 7.192460461855374,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "66066523-979a-418f-b898-716a1e99c880",
@@ -14,12 +20,6 @@
         "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
         "trainer_name": "HD_ssbu",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.8016797229894159,
-        "rating_mu": 20.775701662576704,
-        "rating_sigma": 7.192460461855374,
-        "result": "loss"
       }
     }
   }

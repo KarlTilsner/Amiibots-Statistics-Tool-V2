@@ -6,6 +6,12 @@
   "trainer_name": "StaplesTV_",
   "matches": {
     "2022-01-31T06:59:43.696471+00:00": {
+      "this_amiibo": {
+        "rating": 0.17667300942943953,
+        "rating_mu": 19.334594959310383,
+        "rating_sigma": 6.385973983293648,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "c1817c64-c7b3-42c7-ab30-8cb9c89c03f7",
@@ -14,12 +20,6 @@
         "trainer_id": "8b58def7-f142-4a59-b1d1-322b89f76a74",
         "trainer_name": "t_newcomer",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.17667300942943953,
-        "rating_mu": 19.334594959310383,
-        "rating_sigma": 6.385973983293648,
-        "result": "loss"
       }
     }
   }

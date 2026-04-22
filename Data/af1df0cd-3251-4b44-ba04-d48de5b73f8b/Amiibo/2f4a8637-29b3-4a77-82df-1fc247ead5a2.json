@@ -6,6 +6,12 @@
   "trainer_name": "HD_ssbu",
   "matches": {
     "2022-04-01T10:50:37.845331+00:00": {
+      "this_amiibo": {
+        "rating": 23.102210456528066,
+        "rating_mu": 28.956537858509687,
+        "rating_sigma": 1.9514424673272066,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "86d68c69-7200-48a9-a2a7-a890e5caa153",
@@ -14,12 +20,6 @@
         "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
         "trainer_name": "Azend__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 23.102210456528066,
-        "rating_mu": 28.956537858509687,
-        "rating_sigma": 1.9514424673272066,
-        "result": "loss"
       }
     }
   }

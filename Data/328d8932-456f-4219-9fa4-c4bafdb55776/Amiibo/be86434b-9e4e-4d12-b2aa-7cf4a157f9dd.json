@@ -6,6 +6,12 @@
   "trainer_name": "idontcare13897",
   "matches": {
     "2022-01-03T18:27:19.435636+00:00": {
+      "this_amiibo": {
+        "rating": 0.6573137730592862,
+        "rating_mu": 19.880388678777216,
+        "rating_sigma": 6.40769163523931,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
         "id": "773606dd-b5b7-46ff-b769-5d83daa7acb9",
@@ -14,12 +20,6 @@
         "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
         "trainer_name": "WynnThornton",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6573137730592862,
-        "rating_mu": 19.880388678777216,
-        "rating_sigma": 6.40769163523931,
-        "result": "loss"
       }
     }
   }

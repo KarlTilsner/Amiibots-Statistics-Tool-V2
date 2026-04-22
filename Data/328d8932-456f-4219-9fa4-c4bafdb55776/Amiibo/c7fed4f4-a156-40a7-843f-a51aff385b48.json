@@ -57,6 +57,12 @@
       }
     },
     "2021-03-08T05:36:57.603327+00:00": {
+      "this_amiibo": {
+        "rating": 11.224849846183549,
+        "rating_mu": 24.114408103827877,
+        "rating_sigma": 4.296519419214776,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
         "id": "a2fb69da-514c-4890-a4f0-2b53a585049c",
@@ -65,15 +71,15 @@
         "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
         "trainer_name": "jozz024",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.224849846183549,
-        "rating_mu": 24.114408103827877,
-        "rating_sigma": 4.296519419214776,
-        "result": "loss"
       }
     },
     "2021-03-08T04:38:11.280181+00:00": {
+      "this_amiibo": {
+        "rating": 13.747005717214499,
+        "rating_mu": 29.682174005698602,
+        "rating_sigma": 5.311722762828034,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "69d075a8-98ea-4b9d-9944-7417c837dba7",
@@ -82,12 +88,6 @@
         "trainer_id": "b025bb11-e2fb-42b2-baf1-2d5f8a6227e6",
         "trainer_name": "crimson_flare_buds",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.747005717214499,
-        "rating_mu": 29.682174005698602,
-        "rating_sigma": 5.311722762828034,
-        "result": "loss"
       }
     }
   }

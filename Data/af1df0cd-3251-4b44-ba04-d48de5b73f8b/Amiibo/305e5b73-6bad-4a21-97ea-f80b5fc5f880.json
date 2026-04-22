@@ -6,6 +6,12 @@
   "trainer_name": "ethanzombiek",
   "matches": {
     "2024-03-09T16:16:17.456324+00:00": {
+      "this_amiibo": {
+        "rating": 0.5345247028323179,
+        "rating_mu": 19.495818917082218,
+        "rating_sigma": 6.320431404749967,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "c2586051-0402-496d-a882-82b803a765cd",
@@ -14,12 +20,6 @@
         "trainer_id": "b9f75440-e3f7-4c8e-8a3f-8dc09b8327ae",
         "trainer_name": "blackstargem11",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5345247028323179,
-        "rating_mu": 19.495818917082218,
-        "rating_sigma": 6.320431404749967,
-        "result": "loss"
       }
     }
   }

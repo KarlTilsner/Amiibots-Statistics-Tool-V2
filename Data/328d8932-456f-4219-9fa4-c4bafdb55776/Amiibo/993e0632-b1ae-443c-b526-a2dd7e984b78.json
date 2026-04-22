@@ -6,6 +6,12 @@
   "trainer_name": "smashssf2_ita",
   "matches": {
     "2021-08-01T03:51:50.376922+00:00": {
+      "this_amiibo": {
+        "rating": 1.139769786978686,
+        "rating_mu": 21.18968083905167,
+        "rating_sigma": 6.683303684024328,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
         "id": "663f0567-338c-4699-994c-e12ff8eb707e",
@@ -14,15 +20,15 @@
         "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
         "trainer_name": "Murbert_AM",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.139769786978686,
-        "rating_mu": 21.18968083905167,
-        "rating_sigma": 6.683303684024328,
-        "result": "loss"
       }
     },
     "2021-08-02T00:17:06.904328+00:00": {
+      "this_amiibo": {
+        "rating": 1.6773849001538146,
+        "rating_mu": 20.65549466005178,
+        "rating_sigma": 6.326036586632655,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "4d00d868-7c64-463f-861f-4080c59ea7eb",
@@ -31,12 +37,6 @@
         "trainer_id": "3c6a2558-822c-45dc-9c83-95b524978633",
         "trainer_name": "0ccactuss0",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.6773849001538146,
-        "rating_mu": 20.65549466005178,
-        "rating_sigma": 6.326036586632655,
-        "result": "loss"
       }
     },
     "2021-08-03T23:51:39.317606+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2021-08-10T17:10:18.133114+00:00": {
+      "this_amiibo": {
+        "rating": 6.790614289067101,
+        "rating_mu": 21.34941452962389,
+        "rating_sigma": 4.8529334135189295,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
         "id": "3d81688a-cd7b-4f0c-b5b4-3df1463c5012",
@@ -65,12 +71,6 @@
         "trainer_id": "b2d4f8ba-040d-4121-af64-e1b950939672",
         "trainer_name": "KeepThatCoin",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 6.790614289067101,
-        "rating_mu": 21.34941452962389,
-        "rating_sigma": 4.8529334135189295,
-        "result": "loss"
       }
     }
   }

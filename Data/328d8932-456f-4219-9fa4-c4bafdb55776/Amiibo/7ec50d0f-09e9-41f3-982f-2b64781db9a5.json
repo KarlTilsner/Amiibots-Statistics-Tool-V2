@@ -6,6 +6,12 @@
   "trainer_name": "pinheadpatrick017",
   "matches": {
     "2022-03-07T04:08:56.798495+00:00": {
+      "this_amiibo": {
+        "rating": 6.080145088337808,
+        "rating_mu": 20.861642070813637,
+        "rating_sigma": 4.927165660825277,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
         "id": "b1622d54-c050-4b16-a157-09e417e02e0f",
@@ -14,12 +20,6 @@
         "trainer_id": "dc1275c1-7af0-4fd0-82ab-9e36b562c48c",
         "trainer_name": "Jakeob_1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 6.080145088337808,
-        "rating_mu": 20.861642070813637,
-        "rating_sigma": 4.927165660825277,
-        "result": "loss"
       }
     },
     "2022-03-07T03:38:12.210779+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2022-03-07T03:24:46.039749+00:00": {
+      "this_amiibo": {
+        "rating": 1.3222919292083795,
+        "rating_mu": 23.026501825396277,
+        "rating_sigma": 7.234736632062632,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
         "id": "2a023997-0caa-4ed4-98e9-983643fef723",
@@ -48,12 +54,6 @@
         "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
         "trainer_name": "gotelin_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.3222919292083795,
-        "rating_mu": 23.026501825396277,
-        "rating_sigma": 7.234736632062632,
-        "result": "loss"
       }
     }
   }

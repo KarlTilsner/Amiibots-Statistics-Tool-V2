@@ -6,6 +6,12 @@
   "trainer_name": "AmiiboDoctor",
   "matches": {
     "2020-08-06T11:45:48.180505+00:00": {
+      "this_amiibo": {
+        "rating": -0.8016797229894159,
+        "rating_mu": 20.775701662576704,
+        "rating_sigma": 7.192460461855374,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "1a2a3c45-b502-4d4a-b186-91776f37f490",
@@ -14,15 +20,15 @@
         "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
         "trainer_name": "AmiiboDoctor",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.8016797229894159,
-        "rating_mu": 20.775701662576704,
-        "rating_sigma": 7.192460461855374,
-        "result": "loss"
       }
     },
     "2020-08-16T07:53:31.917098+00:00": {
+      "this_amiibo": {
+        "rating": 0.06021864433329327,
+        "rating_mu": 19.20206151878021,
+        "rating_sigma": 6.3806142914823045,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "93469887-bbd8-4cc9-8e43-fd984efb022d",
@@ -31,15 +37,15 @@
         "trainer_id": "842fd55b-5c9f-4914-820e-99639a5ccf96",
         "trainer_name": "littlefang__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.06021864433329327,
-        "rating_mu": 19.20206151878021,
-        "rating_sigma": 6.3806142914823045,
-        "result": "loss"
       }
     },
     "2020-09-02T19:53:05.597167+00:00": {
+      "this_amiibo": {
+        "rating": 0.5789421815085483,
+        "rating_mu": 18.246966084808736,
+        "rating_sigma": 5.889341301100063,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "b889dfb1-c2ca-46e6-95c2-87aef8f993d9",
@@ -48,12 +54,6 @@
         "trainer_id": "046b6cbc-d2e8-4317-a680-a2e5b4b18bb0",
         "trainer_name": "prinzess16",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5789421815085483,
-        "rating_mu": 18.246966084808736,
-        "rating_sigma": 5.889341301100063,
-        "result": "loss"
       }
     },
     "2020-09-14T09:10:22.798016+00:00": {
@@ -91,6 +91,12 @@
       }
     },
     "2020-09-21T01:30:45.429234+00:00": {
+      "this_amiibo": {
+        "rating": 15.720924810463359,
+        "rating_mu": 26.85176557152516,
+        "rating_sigma": 3.710280253687267,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
         "id": "1077e491-ffe1-4d97-9eb4-8b502b10175e",
@@ -99,12 +105,6 @@
         "trainer_id": "046b6cbc-d2e8-4317-a680-a2e5b4b18bb0",
         "trainer_name": "prinzess16",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 15.720924810463359,
-        "rating_mu": 26.85176557152516,
-        "rating_sigma": 3.710280253687267,
-        "result": "loss"
       }
     }
   }

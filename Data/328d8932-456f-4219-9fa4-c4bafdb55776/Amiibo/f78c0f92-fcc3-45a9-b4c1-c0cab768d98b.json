@@ -6,6 +6,12 @@
   "trainer_name": "mezodae1",
   "matches": {
     "2021-03-26T22:49:14.215731+00:00": {
+      "this_amiibo": {
+        "rating": -0.8016797229894159,
+        "rating_mu": 20.775701662576704,
+        "rating_sigma": 7.192460461855374,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "cb26252f-8652-41ea-bed0-5e682e8487dd",
@@ -14,12 +20,6 @@
         "trainer_id": "4ce1d581-b3f0-4a12-b7d4-60e25e615bc9",
         "trainer_name": "mezodae1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.8016797229894159,
-        "rating_mu": 20.775701662576704,
-        "rating_sigma": 7.192460461855374,
-        "result": "loss"
       }
     }
   }

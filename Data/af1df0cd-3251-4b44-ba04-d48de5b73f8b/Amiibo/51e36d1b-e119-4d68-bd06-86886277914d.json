@@ -23,6 +23,12 @@
       }
     },
     "2024-08-17T12:47:37.458904+00:00": {
+      "this_amiibo": {
+        "rating": 12.600563671060488,
+        "rating_mu": 28.730622163183632,
+        "rating_sigma": 5.376686164041048,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "8c638794-bc2a-421e-b105-10707cca3559",
@@ -31,12 +37,6 @@
         "trainer_id": "8c7a065c-0fef-4dce-a121-800ba482932c",
         "trainer_name": "glowkirb",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.600563671060488,
-        "rating_mu": 28.730622163183632,
-        "rating_sigma": 5.376686164041048,
-        "result": "loss"
       }
     }
   }

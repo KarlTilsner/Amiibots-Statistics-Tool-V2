@@ -6,6 +6,12 @@
   "trainer_name": "Sirffuzzylogik",
   "matches": {
     "2020-04-21T08:07:01.460380+00:00": {
+      "this_amiibo": {
+        "rating": 0.4978609084933474,
+        "rating_mu": 19.422889194136012,
+        "rating_sigma": 6.308342761880888,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "5979724f-0355-460b-b531-de4d82671099",
@@ -14,12 +20,6 @@
         "trainer_id": "2665ff31-eaf5-4240-8546-8171a21f16af",
         "trainer_name": "Borntobedragon",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.4978609084933474,
-        "rating_mu": 19.422889194136012,
-        "rating_sigma": 6.308342761880888,
-        "result": "loss"
       }
     }
   }

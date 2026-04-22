@@ -57,6 +57,12 @@
       }
     },
     "2023-11-12T09:57:01.538049+00:00": {
+      "this_amiibo": {
+        "rating": 20.47359158142571,
+        "rating_mu": 33.60076093030138,
+        "rating_sigma": 4.375723116291889,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
         "id": "03e32988-e27e-4a8a-8114-87755e4ec0a9",
@@ -65,15 +71,15 @@
         "trainer_id": "4912f925-622e-46a3-88cf-5de49dbb407e",
         "trainer_name": "colfon_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 20.47359158142571,
-        "rating_mu": 33.60076093030138,
-        "rating_sigma": 4.375723116291889,
-        "result": "loss"
       }
     },
     "2023-11-12T16:46:17.321893+00:00": {
+      "this_amiibo": {
+        "rating": 19.856597135089885,
+        "rating_mu": 31.376887307889206,
+        "rating_sigma": 3.8400967242664406,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "b2e206d8-4b60-4a77-8d79-3a2328a659e5",
@@ -82,12 +88,6 @@
         "trainer_id": "8a479357-a5de-4f56-8700-0d1a85c3d46b",
         "trainer_name": "OmenApproaching",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 19.856597135089885,
-        "rating_mu": 31.376887307889206,
-        "rating_sigma": 3.8400967242664406,
-        "result": "loss"
       }
     }
   }

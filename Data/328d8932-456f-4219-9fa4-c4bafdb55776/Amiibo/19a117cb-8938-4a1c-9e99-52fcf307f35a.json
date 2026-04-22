@@ -6,6 +6,12 @@
   "trainer_name": "NoAmiibo",
   "matches": {
     "2021-12-07T19:24:35.039534+00:00": {
+      "this_amiibo": {
+        "rating": 1.309457936805618,
+        "rating_mu": 21.951631750331288,
+        "rating_sigma": 6.880724604508557,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "96451026-8fd9-4b3b-bd73-ab707a0d848b",
@@ -14,15 +20,15 @@
         "trainer_id": "ca8971e6-56ce-4f29-b03e-129f95a6abf0",
         "trainer_name": "silverturtle75",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.309457936805618,
-        "rating_mu": 21.951631750331288,
-        "rating_sigma": 6.880724604508557,
-        "result": "loss"
       }
     },
     "2021-12-11T11:29:12.077445+00:00": {
+      "this_amiibo": {
+        "rating": 1.7511714112702315,
+        "rating_mu": 18.90586698260628,
+        "rating_sigma": 5.718231857112016,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
         "id": "9ff6fa55-e2e5-4ccc-8a1c-c833f6309de9",
@@ -31,15 +37,15 @@
         "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
         "trainer_name": "Oliirik",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.7511714112702315,
-        "rating_mu": 18.90586698260628,
-        "rating_sigma": 5.718231857112016,
-        "result": "loss"
       }
     },
     "2021-12-22T22:12:07.767056+00:00": {
+      "this_amiibo": {
+        "rating": 2.212336048131405,
+        "rating_mu": 17.805913331819436,
+        "rating_sigma": 5.197859094562677,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "2746b79f-6dab-4864-a641-d30e7aae414f",
@@ -48,15 +54,15 @@
         "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
         "trainer_name": "AceTempest172",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 2.212336048131405,
-        "rating_mu": 17.805913331819436,
-        "rating_sigma": 5.197859094562677,
-        "result": "loss"
       }
     },
     "2022-05-24T05:39:39.997603+00:00": {
+      "this_amiibo": {
+        "rating": 1.8999860234015138,
+        "rating_mu": 15.292197850583934,
+        "rating_sigma": 4.464070609060807,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
         "id": "7bc7ee08-a5fc-4884-8ab1-4fb5680d79fb",
@@ -65,12 +71,6 @@
         "trainer_id": "31ac0377-29d9-4a82-afea-5fe20989ce28",
         "trainer_name": "magimiku",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.8999860234015138,
-        "rating_mu": 15.292197850583934,
-        "rating_sigma": 4.464070609060807,
-        "result": "loss"
       }
     }
   }

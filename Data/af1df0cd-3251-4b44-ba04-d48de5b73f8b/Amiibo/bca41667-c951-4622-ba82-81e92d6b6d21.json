@@ -6,6 +6,12 @@
   "trainer_name": "Competitively2",
   "matches": {
     "2024-05-26T06:54:59.292444+00:00": {
+      "this_amiibo": {
+        "rating": 1.124783694942412,
+        "rating_mu": 21.070224908017273,
+        "rating_sigma": 6.6484804043582875,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "1ee3e669-ee7e-4297-ba45-bb3c08f23856",
@@ -14,15 +20,15 @@
         "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
         "trainer_name": "YM44",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.124783694942412,
-        "rating_mu": 21.070224908017273,
-        "rating_sigma": 6.6484804043582875,
-        "result": "loss"
       }
     },
     "2024-06-06T18:55:10.009159+00:00": {
+      "this_amiibo": {
+        "rating": 1.5804555360878112,
+        "rating_mu": 18.245251318145854,
+        "rating_sigma": 5.554931927352681,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
         "id": "e17af5f6-908d-4acf-97bf-f9e2d6fd4b41",
@@ -31,12 +37,6 @@
         "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
         "trainer_name": "MiDe1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.5804555360878112,
-        "rating_mu": 18.245251318145854,
-        "rating_sigma": 5.554931927352681,
-        "result": "loss"
       }
     }
   }

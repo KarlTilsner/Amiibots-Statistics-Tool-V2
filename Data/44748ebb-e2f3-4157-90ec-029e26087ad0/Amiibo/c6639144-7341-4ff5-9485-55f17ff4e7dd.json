@@ -74,6 +74,12 @@
       }
     },
     "2020-11-06T11:59:21.286847+00:00": {
+      "this_amiibo": {
+        "rating": 23.415628510373555,
+        "rating_mu": 34.31352224694899,
+        "rating_sigma": 3.6326312455251455,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "c07a8a4e-98da-48da-975e-0024809b4466",
@@ -82,12 +88,6 @@
         "trainer_id": "60cc23aa-c39d-49e0-b13d-13e205d499bd",
         "trainer_name": "youaregoknba",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 23.415628510373555,
-        "rating_mu": 34.31352224694899,
-        "rating_sigma": 3.6326312455251455,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "forenmagra",
   "matches": {
     "2020-11-25T05:07:22.123426+00:00": {
+      "this_amiibo": {
+        "rating": 0.25020609204687005,
+        "rating_mu": 17.19154610514407,
+        "rating_sigma": 5.647113337699067,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
         "id": "83b22973-64ee-482b-bfe9-2f933bee038e",
@@ -14,15 +20,15 @@
         "trainer_id": "e315cc8f-425d-4686-a648-103739846f36",
         "trainer_name": "darkmega5",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.25020609204687005,
-        "rating_mu": 17.19154610514407,
-        "rating_sigma": 5.647113337699067,
-        "result": "loss"
       }
     },
     "2020-11-25T04:02:22.093645+00:00": {
+      "this_amiibo": {
+        "rating": 0.29382388315038455,
+        "rating_mu": 21.8787200094724,
+        "rating_sigma": 7.194965375440672,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "2033dbc1-03b0-4f6e-94c2-d10fde2adfb2",
@@ -31,12 +37,6 @@
         "trainer_id": "d7f44591-9713-4c95-b840-3607f6a73d24",
         "trainer_name": "luckman21",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.29382388315038455,
-        "rating_mu": 21.8787200094724,
-        "rating_sigma": 7.194965375440672,
-        "result": "loss"
       }
     },
     "2020-11-25T12:58:17.610756+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2020-11-25T10:29:21.888245+00:00": {
+      "this_amiibo": {
+        "rating": 0.38445132192282827,
+        "rating_mu": 15.676373293376846,
+        "rating_sigma": 5.097307323818006,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
         "id": "bdb97e15-087a-4638-a2a5-79c8bacd97c5",
@@ -82,15 +88,15 @@
         "trainer_id": "26942317-1919-4c5c-8072-7bc3e0bc2838",
         "trainer_name": "NurfboyU",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.38445132192282827,
-        "rating_mu": 15.676373293376846,
-        "rating_sigma": 5.097307323818006,
-        "result": "loss"
       }
     },
     "2020-11-25T13:49:02.676815+00:00": {
+      "this_amiibo": {
+        "rating": 11.142654264291185,
+        "rating_mu": 21.22428466031683,
+        "rating_sigma": 3.3605434653418813,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
         "id": "2e86a7d7-4aca-472e-bbde-e7681cc1849a",
@@ -99,12 +105,6 @@
         "trainer_id": "7c20e90f-67fe-43c5-a623-83c60ef05858",
         "trainer_name": "Zizogod",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.142654264291185,
-        "rating_mu": 21.22428466031683,
-        "rating_sigma": 3.3605434653418813,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "MMMMMMMMTTYYY_",
   "matches": {
     "2023-05-31T01:17:59.968595+00:00": {
+      "this_amiibo": {
+        "rating": 0.5597988979112394,
+        "rating_mu": 19.87404724622133,
+        "rating_sigma": 6.438082782770031,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
         "id": "26a54a1c-b5f5-47d6-939e-ab4e0fe69f20",
@@ -14,15 +20,15 @@
         "trainer_id": "b13c42a0-c638-4703-87c4-875e5ec0bf94",
         "trainer_name": "MMMMMMMMTTYYY_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5597988979112394,
-        "rating_mu": 19.87404724622133,
-        "rating_sigma": 6.438082782770031,
-        "result": "loss"
       }
     },
     "2023-05-31T05:59:21.574409+00:00": {
+      "this_amiibo": {
+        "rating": 0.8609197911691062,
+        "rating_mu": 17.0525585478829,
+        "rating_sigma": 5.397212918904598,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
         "id": "dbd27138-e1e4-4460-93ea-ce3eb1ed385d",
@@ -31,12 +37,6 @@
         "trainer_id": "6abb9d24-9b61-488f-b016-549fae8e79e4",
         "trainer_name": "hueshraga",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8609197911691062,
-        "rating_mu": 17.0525585478829,
-        "rating_sigma": 5.397212918904598,
-        "result": "loss"
       }
     },
     "2023-06-06T12:54:42.011230+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2023-06-18T00:07:37.687957+00:00": {
+      "this_amiibo": {
+        "rating": 8.231536653260088,
+        "rating_mu": 19.096863743441624,
+        "rating_sigma": 3.6217756967271786,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
         "id": "a471b40a-3b68-4f6a-81d5-bffdca306086",
@@ -82,12 +88,6 @@
         "trainer_id": "790bfdd9-7935-4d8a-a2ef-e98e39633f80",
         "trainer_name": "wizard_real",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 8.231536653260088,
-        "rating_mu": 19.096863743441624,
-        "rating_sigma": 3.6217756967271786,
-        "result": "loss"
       }
     }
   }

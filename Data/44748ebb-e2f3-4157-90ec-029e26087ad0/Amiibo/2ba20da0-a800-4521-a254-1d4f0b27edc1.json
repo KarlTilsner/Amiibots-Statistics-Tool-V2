@@ -6,6 +6,12 @@
   "trainer_name": "staples___",
   "matches": {
     "2020-07-01T18:44:29.596726+00:00": {
+      "this_amiibo": {
+        "rating": 0.29109404504049863,
+        "rating_mu": 19.046017269051166,
+        "rating_sigma": 6.251641074670223,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
         "id": "eb9b061c-a449-429e-ba09-0b2f4b5b93e5",
@@ -14,12 +20,6 @@
         "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
         "trainer_name": "Sirffuzzylogik",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.29109404504049863,
-        "rating_mu": 19.046017269051166,
-        "rating_sigma": 6.251641074670223,
-        "result": "loss"
       }
     }
   }

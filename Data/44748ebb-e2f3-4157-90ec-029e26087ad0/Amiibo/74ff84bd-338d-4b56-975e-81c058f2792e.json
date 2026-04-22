@@ -6,6 +6,12 @@
   "trainer_name": "dreamy_b_jay",
   "matches": {
     "2020-10-19T04:58:50.792841+00:00": {
+      "this_amiibo": {
+        "rating": 0.6234488213706264,
+        "rating_mu": 19.846372944231224,
+        "rating_sigma": 6.407641374286865,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
         "id": "fdc8a22b-21e2-4c6f-aa9f-2a75fce3c794",
@@ -14,12 +20,6 @@
         "trainer_id": "559b97d3-faa3-4aa1-9697-8e87271c7b16",
         "trainer_name": "ammoknight208",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6234488213706264,
-        "rating_mu": 19.846372944231224,
-        "rating_sigma": 6.407641374286865,
-        "result": "loss"
       }
     }
   }

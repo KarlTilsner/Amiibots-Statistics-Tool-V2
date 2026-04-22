@@ -6,6 +6,12 @@
   "trainer_name": "StaplesTV_",
   "matches": {
     "2024-04-15T12:29:03.240835+00:00": {
+      "this_amiibo": {
+        "rating": 1.1937559924695265,
+        "rating_mu": 21.3352329829827,
+        "rating_sigma": 6.713825663504391,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "1ee3e669-ee7e-4297-ba45-bb3c08f23856",
@@ -14,12 +20,6 @@
         "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
         "trainer_name": "YM44",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1937559924695265,
-        "rating_mu": 21.3352329829827,
-        "rating_sigma": 6.713825663504391,
-        "result": "loss"
       }
     }
   }

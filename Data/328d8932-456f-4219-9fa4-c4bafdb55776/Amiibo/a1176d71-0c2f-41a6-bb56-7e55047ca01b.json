@@ -6,6 +6,12 @@
   "trainer_name": "schmorchid",
   "matches": {
     "2022-07-26T10:00:19.184960+00:00": {
+      "this_amiibo": {
+        "rating": 0.692312781077554,
+        "rating_mu": 19.88153050394117,
+        "rating_sigma": 6.396405907621206,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96e48494-946f-4280-a419-488d644135e0",
         "id": "c52740fe-8da5-4558-8fd8-4e37e2ada172",
@@ -14,12 +20,6 @@
         "trainer_id": "fff1df31-fc68-4fba-8d11-7e4016df1268",
         "trainer_name": "halfluigi",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.692312781077554,
-        "rating_mu": 19.88153050394117,
-        "rating_sigma": 6.396405907621206,
-        "result": "loss"
       }
     }
   }

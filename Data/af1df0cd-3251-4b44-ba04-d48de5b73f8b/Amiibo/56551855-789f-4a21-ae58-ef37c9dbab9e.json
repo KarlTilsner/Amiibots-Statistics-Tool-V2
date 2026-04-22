@@ -23,6 +23,12 @@
       }
     },
     "2022-05-08T13:46:05.383602+00:00": {
+      "this_amiibo": {
+        "rating": 12.483903805863463,
+        "rating_mu": 27.83309143725792,
+        "rating_sigma": 5.1163958771314855,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "58ea1386-1474-4476-be6c-6a9afdac8e15",
@@ -31,12 +37,6 @@
         "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
         "trainer_name": "WynnThornton",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.483903805863463,
-        "rating_mu": 27.83309143725792,
-        "rating_sigma": 5.1163958771314855,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "RailCanyonn",
   "matches": {
     "2023-10-20T06:38:36.424483+00:00": {
+      "this_amiibo": {
+        "rating": -0.10881275744397811,
+        "rating_mu": 19.51969995688467,
+        "rating_sigma": 6.542837571442882,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
         "id": "6c77945f-bd04-466e-8ec7-6e2cc07d7413",
@@ -14,12 +20,6 @@
         "trainer_id": "29bd67bb-cbb9-454f-8183-4c526115419b",
         "trainer_name": "FireFang6",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.10881275744397811,
-        "rating_mu": 19.51969995688467,
-        "rating_sigma": 6.542837571442882,
-        "result": "loss"
       }
     },
     "2023-11-05T04:37:58.742055+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2024-02-17T14:50:45.505797+00:00": {
+      "this_amiibo": {
+        "rating": 17.41697529817985,
+        "rating_mu": 27.876281468178842,
+        "rating_sigma": 3.4864353899996647,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "4871e1a2-08cd-4130-8301-7d07c57cc2bd",
@@ -82,12 +88,6 @@
         "trainer_id": "b3c93a1e-0aee-4a76-a0ed-36bc7258e629",
         "trainer_name": "Bananika7",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 17.41697529817985,
-        "rating_mu": 27.876281468178842,
-        "rating_sigma": 3.4864353899996647,
-        "result": "loss"
       }
     }
   }

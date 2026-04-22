@@ -23,6 +23,12 @@
       }
     },
     "2020-05-04T03:36:30.314645+00:00": {
+      "this_amiibo": {
+        "rating": 10.752767716615573,
+        "rating_mu": 25.87465897875731,
+        "rating_sigma": 5.040630420713913,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
         "id": "9d8102d0-3e8f-4238-848a-0f261ba69f39",
@@ -31,12 +37,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "migbui",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.752767716615573,
-        "rating_mu": 25.87465897875731,
-        "rating_sigma": 5.040630420713913,
-        "result": "loss"
       }
     }
   }

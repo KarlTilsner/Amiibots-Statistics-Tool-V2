@@ -6,6 +6,12 @@
   "trainer_name": "JohnLML123",
   "matches": {
     "2022-07-26T11:31:49.459458+00:00": {
+      "this_amiibo": {
+        "rating": 0.6076952822250128,
+        "rating_mu": 19.913638080652866,
+        "rating_sigma": 6.435314266142618,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
         "id": "3ce419cd-9e6a-4bb9-97eb-772eb71da527",
@@ -14,12 +20,6 @@
         "trainer_id": "8e290d89-5484-46ab-b222-914c45b7b11c",
         "trainer_name": "pixel_gunners",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6076952822250128,
-        "rating_mu": 19.913638080652866,
-        "rating_sigma": 6.435314266142618,
-        "result": "loss"
       }
     },
     "2022-08-13T13:40:56.964553+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2022-09-11T01:29:24.539088+00:00": {
+      "this_amiibo": {
+        "rating": 10.965952607923459,
+        "rating_mu": 23.65487594140562,
+        "rating_sigma": 4.229641111160721,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
         "id": "9f7e4fee-a966-498c-afb5-1a9266adc298",
@@ -65,12 +71,6 @@
         "trainer_id": "26cad4d1-9d7d-457c-b6e3-6a285e74f071",
         "trainer_name": "toonlinktroll",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.965952607923459,
-        "rating_mu": 23.65487594140562,
-        "rating_sigma": 4.229641111160721,
-        "result": "loss"
       }
     },
     "2022-09-12T13:57:19.319024+00:00": {
@@ -105,6 +105,74 @@
         "trainer_id": "1efe7dca-5100-46c9-85c4-7925b5186062",
         "trainer_name": "theasianshovel",
         "result": "loss"
+      }
+    },
+    "2022-10-31T11:35:19.706548+00:00": {
+      "this_amiibo": {
+        "rating": 16.932939916035913,
+        "rating_mu": 26.43376599443577,
+        "rating_sigma": 3.166942026133286,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "11d6c0d3-d297-4b52-8cac-bd854c28b1d4",
+        "name": "You Ken't",
+        "rating": 26.112480689708217,
+        "trainer_id": "6769a5da-b1bb-4563-af5a-4439304198aa",
+        "trainer_name": "Truth_Villager",
+        "result": "win"
+      }
+    },
+    "2022-11-21T09:36:31.270350+00:00": {
+      "this_amiibo": {
+        "rating": 17.579102611784307,
+        "rating_mu": 25.979034592745208,
+        "rating_sigma": 2.7999773269869674,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "a20bbc2f-4541-4c81-be10-962cee114810",
+        "name": "JUMP!",
+        "rating": 22.63907649396624,
+        "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
+        "trainer_name": "schmorchid",
+        "result": "win"
+      }
+    },
+    "2022-11-21T06:21:23.004290+00:00": {
+      "this_amiibo": {
+        "rating": 18.108880395456318,
+        "rating_mu": 27.101373721064952,
+        "rating_sigma": 2.997497775202878,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "133a3510-952a-45bf-a236-f8c9981c7d57",
+        "name": "Doodle",
+        "rating": 18.587890654679494,
+        "trainer_id": "7fbfc865-b4e0-4c64-a130-49134186b7cf",
+        "trainer_name": "crazychase10",
+        "result": "loss"
+      }
+    },
+    "2023-01-04T10:23:23.203089+00:00": {
+      "this_amiibo": {
+        "rating": 17.058606627791328,
+        "rating_mu": 24.9553893186048,
+        "rating_sigma": 2.6322608969378254,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "bdadc395-00de-4c74-9fd6-485eeb8de96d",
+        "name": "Alexa",
+        "rating": 21.666637415876565,
+        "trainer_id": "56626cd0-adf6-401a-ab14-ebb04a627419",
+        "trainer_name": "slippyfishy3",
+        "result": "win"
       }
     }
   }

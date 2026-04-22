@@ -74,6 +74,12 @@
       }
     },
     "2020-05-16T18:58:56.068388+00:00": {
+      "this_amiibo": {
+        "rating": 16.92706439515613,
+        "rating_mu": 28.699588900825066,
+        "rating_sigma": 3.924174835222978,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "3bf327f1-1fdc-4b24-b915-84ec485a6621",
@@ -82,12 +88,6 @@
         "trainer_id": "0636d0e3-7111-4073-a31d-f07fb7d61394",
         "trainer_name": "ScroogeMcDuk",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 16.92706439515613,
-        "rating_mu": 28.699588900825066,
-        "rating_sigma": 3.924174835222978,
-        "result": "loss"
       }
     }
   }

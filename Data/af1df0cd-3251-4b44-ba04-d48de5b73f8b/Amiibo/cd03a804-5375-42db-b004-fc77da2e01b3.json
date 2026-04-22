@@ -6,6 +6,12 @@
   "trainer_name": "aggron_ghost",
   "matches": {
     "2022-12-25T04:48:03.033873+00:00": {
+      "this_amiibo": {
+        "rating": 0.2781509525015444,
+        "rating_mu": 19.371844627982416,
+        "rating_sigma": 6.3645645584936235,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "25d94b34-856e-4d88-8dd4-c4f58f38a73e",
@@ -14,12 +20,6 @@
         "trainer_id": "62b3b451-2ded-4a7e-bcac-ab768ccfbe26",
         "trainer_name": "capt_cacdi",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.2781509525015444,
-        "rating_mu": 19.371844627982416,
-        "rating_sigma": 6.3645645584936235,
-        "result": "loss"
       }
     },
     "2023-07-04T19:35:22.371001+00:00": {

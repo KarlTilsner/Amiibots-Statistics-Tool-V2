@@ -6,6 +6,12 @@
   "trainer_name": "penguhhhh",
   "matches": {
     "2020-10-28T08:01:54.788422+00:00": {
+      "this_amiibo": {
+        "rating": 1.1198851362226847,
+        "rating_mu": 21.37005669409402,
+        "rating_sigma": 6.750057185957112,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "242d1f19-e6b3-4be8-9d8c-a4b28d6e614e",
@@ -14,15 +20,15 @@
         "trainer_id": "001c3b1a-bb0b-4c08-b8a9-5abd62c7cef7",
         "trainer_name": "joeyfaphone",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1198851362226847,
-        "rating_mu": 21.37005669409402,
-        "rating_sigma": 6.750057185957112,
-        "result": "loss"
       }
     },
     "2020-11-08T00:54:34.767002+00:00": {
+      "this_amiibo": {
+        "rating": 1.8702957064924135,
+        "rating_mu": 20.034596472594334,
+        "rating_sigma": 6.0547669220339735,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
         "id": "bacc1da5-8e4c-44ab-867e-18c4c23421b0",
@@ -31,12 +37,6 @@
         "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
         "trainer_name": "carbon_show",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.8702957064924135,
-        "rating_mu": 20.034596472594334,
-        "rating_sigma": 6.0547669220339735,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "AlexanderAgne",
   "matches": {
     "2024-04-29T23:03:56.211239+00:00": {
+      "this_amiibo": {
+        "rating": 0.843549527948003,
+        "rating_mu": 20.231137085534968,
+        "rating_sigma": 6.462529185862322,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
         "id": "c64b4101-6411-4626-ac7b-01886c210bed",
@@ -14,12 +20,6 @@
         "trainer_id": "80f98683-a318-47dd-bcf2-93f67d0878d4",
         "trainer_name": "Sir_Dragonite",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.843549527948003,
-        "rating_mu": 20.231137085534968,
-        "rating_sigma": 6.462529185862322,
-        "result": "loss"
       }
     }
   }

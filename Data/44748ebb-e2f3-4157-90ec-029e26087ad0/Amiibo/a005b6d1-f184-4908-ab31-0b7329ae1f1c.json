@@ -6,6 +6,12 @@
   "trainer_name": "2Snowblind",
   "matches": {
     "2020-12-05T23:16:51.147784+00:00": {
+      "this_amiibo": {
+        "rating": 0.6657819254907693,
+        "rating_mu": 20.362579018589315,
+        "rating_sigma": 6.565599031032849,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
         "id": "b926439a-d417-47fd-8264-7ddecb28ec16",
@@ -14,12 +20,6 @@
         "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
         "trainer_name": "LovingStew",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6657819254907693,
-        "rating_mu": 20.362579018589315,
-        "rating_sigma": 6.565599031032849,
-        "result": "loss"
       }
     }
   }

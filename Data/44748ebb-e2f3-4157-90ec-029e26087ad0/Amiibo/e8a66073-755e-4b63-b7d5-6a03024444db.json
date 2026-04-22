@@ -6,6 +6,12 @@
   "trainer_name": "prinzess16",
   "matches": {
     "2020-05-27T02:29:56.647906+00:00": {
+      "this_amiibo": {
+        "rating": -0.4970986734386287,
+        "rating_mu": 19.228498641088386,
+        "rating_sigma": 6.575199104842339,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
         "id": "eb9b061c-a449-429e-ba09-0b2f4b5b93e5",
@@ -14,15 +20,15 @@
         "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
         "trainer_name": "Sirffuzzylogik",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.4970986734386287,
-        "rating_mu": 19.228498641088386,
-        "rating_sigma": 6.575199104842339,
-        "result": "loss"
       }
     },
     "2020-05-27T08:19:48.462709+00:00": {
+      "this_amiibo": {
+        "rating": 0.16896573698363326,
+        "rating_mu": 17.964021096727098,
+        "rating_sigma": 5.931685119914488,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "ffa6cad5-bbea-4400-a7df-42f59b8701e8",
@@ -31,12 +37,6 @@
         "trainer_id": "f0ff13ad-2d79-43ed-9754-edd686d76dfe",
         "trainer_name": "nozsmash",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.16896573698363326,
-        "rating_mu": 17.964021096727098,
-        "rating_sigma": 5.931685119914488,
-        "result": "loss"
       }
     }
   }

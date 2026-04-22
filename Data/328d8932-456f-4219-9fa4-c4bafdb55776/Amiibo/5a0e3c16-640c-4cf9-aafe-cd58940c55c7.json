@@ -23,6 +23,12 @@
       }
     },
     "2022-03-01T08:13:13.836874+00:00": {
+      "this_amiibo": {
+        "rating": 11.232067639012783,
+        "rating_mu": 25.640023139618663,
+        "rating_sigma": 4.802651833535293,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
         "id": "8713e429-088e-472b-897b-3d68f9878458",
@@ -31,15 +37,15 @@
         "trainer_id": "fd88f995-3090-47f4-bb1f-61a9aa4a1863",
         "trainer_name": "DazzleMeTaric",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.232067639012783,
-        "rating_mu": 25.640023139618663,
-        "rating_sigma": 4.802651833535293,
-        "result": "loss"
       }
     },
     "2022-03-01T03:03:31.334903+00:00": {
+      "this_amiibo": {
+        "rating": 11.026410608652238,
+        "rating_mu": 27.437186269587105,
+        "rating_sigma": 5.470258553644956,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "fa730e6a-e102-4c03-89fa-0552d4304bc1",
@@ -48,12 +54,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.026410608652238,
-        "rating_mu": 27.437186269587105,
-        "rating_sigma": 5.470258553644956,
-        "result": "loss"
       }
     }
   }

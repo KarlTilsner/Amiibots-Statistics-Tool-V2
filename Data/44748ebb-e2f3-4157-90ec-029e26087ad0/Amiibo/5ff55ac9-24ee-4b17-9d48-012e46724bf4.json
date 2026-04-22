@@ -40,6 +40,12 @@
       }
     },
     "2020-07-17T03:35:23.009851+00:00": {
+      "this_amiibo": {
+        "rating": 14.024995748286397,
+        "rating_mu": 27.943093091567867,
+        "rating_sigma": 4.639365781093823,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "db44a604-b49f-4aab-9e3a-41a1cdfd2300",
@@ -48,12 +54,6 @@
         "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
         "trainer_name": "forenmagra",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.024995748286397,
-        "rating_mu": 27.943093091567867,
-        "rating_sigma": 4.639365781093823,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "aggron_ghost",
   "matches": {
     "2022-08-28T04:07:51.192889+00:00": {
+      "this_amiibo": {
+        "rating": 0.9153764731674237,
+        "rating_mu": 20.965235461221692,
+        "rating_sigma": 6.683286329351423,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
         "id": "74190127-8526-4c1b-9846-631d5ca423b4",
@@ -14,12 +20,6 @@
         "trainer_id": "989b85c3-4ffc-41c0-8596-2d2c67fd7158",
         "trainer_name": "leevunzo",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9153764731674237,
-        "rating_mu": 20.965235461221692,
-        "rating_sigma": 6.683286329351423,
-        "result": "loss"
       }
     }
   }

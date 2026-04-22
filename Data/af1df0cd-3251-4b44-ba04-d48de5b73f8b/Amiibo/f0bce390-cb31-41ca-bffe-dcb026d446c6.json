@@ -6,6 +6,12 @@
   "trainer_name": "capt_cacdi",
   "matches": {
     "2024-01-11T08:50:37.789271+00:00": {
+      "this_amiibo": {
+        "rating": -0.10610120987603011,
+        "rating_mu": 18.247792251633765,
+        "rating_sigma": 6.117964487169932,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
         "id": "592f1bbd-95d3-40fb-bb3e-7311c5f6e86c",
@@ -14,12 +20,6 @@
         "trainer_id": "16d95116-717b-4033-929d-85d20482f869",
         "trainer_name": "aarsters",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.10610120987603011,
-        "rating_mu": 18.247792251633765,
-        "rating_sigma": 6.117964487169932,
-        "result": "loss"
       }
     },
     "2024-01-30T13:16:08.881108+00:00": {

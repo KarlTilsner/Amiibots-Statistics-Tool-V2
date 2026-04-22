@@ -6,6 +6,12 @@
   "trainer_name": "toonlinktroll",
   "matches": {
     "2022-03-01T14:17:10.219048+00:00": {
+      "this_amiibo": {
+        "rating": -0.7385432345485832,
+        "rating_mu": 17.95153579953642,
+        "rating_sigma": 6.230026344695001,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
         "id": "04444296-ef61-4276-ad87-bde0f7af15f0",
@@ -14,12 +20,6 @@
         "trainer_id": "9452335d-2039-4ace-ae32-09d27b45d862",
         "trainer_name": "eddyboomtron",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.7385432345485832,
-        "rating_mu": 17.95153579953642,
-        "rating_sigma": 6.230026344695001,
-        "result": "loss"
       }
     }
   }

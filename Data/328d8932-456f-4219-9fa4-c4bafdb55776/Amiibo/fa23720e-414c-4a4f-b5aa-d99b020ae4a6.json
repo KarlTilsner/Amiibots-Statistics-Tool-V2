@@ -6,6 +6,12 @@
   "trainer_name": "bunion_j",
   "matches": {
     "2021-03-17T20:16:06.471883+00:00": {
+      "this_amiibo": {
+        "rating": 0.6781415304241918,
+        "rating_mu": 19.849784105423403,
+        "rating_sigma": 6.390547524999737,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
         "id": "4ff8ec58-d09d-48ff-9458-712bc6205a14",
@@ -14,12 +20,6 @@
         "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
         "trainer_name": "spike2the9th",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6781415304241918,
-        "rating_mu": 19.849784105423403,
-        "rating_sigma": 6.390547524999737,
-        "result": "loss"
       }
     },
     "2021-03-18T01:51:20.844350+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2021-03-18T08:02:34.096830+00:00": {
+      "this_amiibo": {
+        "rating": 12.042225764656614,
+        "rating_mu": 25.92307111507999,
+        "rating_sigma": 4.626948450141125,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
         "id": "7977c839-d5d8-4a62-a005-e3a1fbf31125",
@@ -48,12 +54,6 @@
         "trainer_id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
         "trainer_name": "pinheadpatrick017",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.042225764656614,
-        "rating_mu": 25.92307111507999,
-        "rating_sigma": 4.626948450141125,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "DeAnte_ssbu",
   "matches": {
     "2022-09-18T20:05:54.588648+00:00": {
+      "this_amiibo": {
+        "rating": 0.04861750095761863,
+        "rating_mu": 18.813277604063366,
+        "rating_sigma": 6.254886701035249,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "8aade37c-e627-4ed5-9aba-5e7425c7c234",
@@ -14,12 +20,6 @@
         "trainer_id": "cca93997-5e36-4595-9cab-393f81248e9d",
         "trainer_name": "fafep2",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.04861750095761863,
-        "rating_mu": 18.813277604063366,
-        "rating_sigma": 6.254886701035249,
-        "result": "loss"
       }
     },
     "2022-09-27T00:48:38.790163+00:00": {

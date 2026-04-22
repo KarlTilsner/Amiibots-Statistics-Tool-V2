@@ -6,6 +6,12 @@
   "trainer_name": "SuperAlanDSi",
   "matches": {
     "2022-07-31T06:21:51.298699+00:00": {
+      "this_amiibo": {
+        "rating": 0.957392770778462,
+        "rating_mu": 21.532563991258105,
+        "rating_sigma": 6.8583904068265475,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
         "id": "62a03a04-fa72-4346-b5a4-68566eb5ad3c",
@@ -14,15 +20,15 @@
         "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
         "trainer_name": "Zoom__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.957392770778462,
-        "rating_mu": 21.532563991258105,
-        "rating_sigma": 6.8583904068265475,
-        "result": "loss"
       }
     },
     "2022-08-14T10:21:33.650991+00:00": {
+      "this_amiibo": {
+        "rating": 1.0455505495474213,
+        "rating_mu": 18.1729424065326,
+        "rating_sigma": 5.709130618995059,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
         "id": "e6efdac0-a5fc-4f0d-b298-dbfdcbba5720",
@@ -31,11 +37,22 @@
         "trainer_id": "c1461260-903f-4aae-ad42-af21e07e1e98",
         "trainer_name": "MoonBeanBie",
         "result": "win"
-      },
+      }
+    },
+    "2022-10-24T06:19:03.665350+00:00": {
       "this_amiibo": {
-        "rating": 1.0455505495474213,
-        "rating_mu": 18.1729424065326,
-        "rating_sigma": 5.709130618995059,
+        "rating": 7.197967231908475,
+        "rating_mu": 21.482035235618252,
+        "rating_sigma": 4.761356001236592,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "ea8d6fa6-5504-49e1-81d6-e41107424e85",
+        "name": "Frumple",
+        "rating": 13.774621433812744,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
         "result": "loss"
       }
     }

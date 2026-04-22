@@ -6,6 +6,12 @@
   "trainer_name": "Competitively2",
   "matches": {
     "2024-08-29T16:16:52.012239+00:00": {
+      "this_amiibo": {
+        "rating": -0.030361635757682137,
+        "rating_mu": 18.386998210537318,
+        "rating_sigma": 6.139119948765,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
         "id": "7bb58845-b15b-4868-a4ca-d291e3c5ec84",
@@ -14,12 +20,6 @@
         "trainer_id": "d7f44591-9713-4c95-b840-3607f6a73d24",
         "trainer_name": "luckman21",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.030361635757682137,
-        "rating_mu": 18.386998210537318,
-        "rating_sigma": 6.139119948765,
-        "result": "loss"
       }
     }
   }

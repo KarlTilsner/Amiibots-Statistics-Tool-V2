@@ -40,6 +40,12 @@
       }
     },
     "2020-05-01T14:16:11.338547+00:00": {
+      "this_amiibo": {
+        "rating": 18.967734309482896,
+        "rating_mu": 32.37012147658579,
+        "rating_sigma": 4.467462389034297,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "9eb4d206-c1b6-4937-ae0d-e60fbdf72ab3",
@@ -48,12 +54,6 @@
         "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
         "trainer_name": "MaskXP",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 18.967734309482896,
-        "rating_mu": 32.37012147658579,
-        "rating_sigma": 4.467462389034297,
-        "result": "loss"
       }
     }
   }

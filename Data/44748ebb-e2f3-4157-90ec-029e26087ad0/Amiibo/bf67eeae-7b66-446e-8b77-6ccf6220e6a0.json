@@ -6,6 +6,12 @@
   "trainer_name": "Murbert_AM",
   "matches": {
     "2020-08-20T22:54:33.126290+00:00": {
+      "this_amiibo": {
+        "rating": 1.0137283812804583,
+        "rating_mu": 20.735638803159603,
+        "rating_sigma": 6.573970140626381,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "2160327c-c602-4d1a-bf18-8acfefdb9d7b",
@@ -14,15 +20,15 @@
         "trainer_id": "c199091c-22dd-4931-9368-9aaf514d2ee0",
         "trainer_name": "EyeofEnderG38",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0137283812804583,
-        "rating_mu": 20.735638803159603,
-        "rating_sigma": 6.573970140626381,
-        "result": "loss"
       }
     },
     "2020-08-21T18:34:20.803242+00:00": {
+      "this_amiibo": {
+        "rating": 1.7025301352896633,
+        "rating_mu": 19.663446106295233,
+        "rating_sigma": 5.98697199033519,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "046a8da2-7a10-4a91-b183-b18f26271337",
@@ -31,12 +37,6 @@
         "trainer_id": "75cc72db-3f1a-4ecb-a476-a681603d9d4e",
         "trainer_name": "boristhekoopa",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.7025301352896633,
-        "rating_mu": 19.663446106295233,
-        "rating_sigma": 5.98697199033519,
-        "result": "loss"
       }
     },
     "2020-08-22T01:43:09.020362+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2020-08-22T03:10:34.949443+00:00": {
+      "this_amiibo": {
+        "rating": 10.74448637803815,
+        "rating_mu": 23.53725415297863,
+        "rating_sigma": 4.2642559249801595,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
         "id": "dc65db79-dd91-41a6-87d3-89acbddcc4b7",
@@ -82,12 +88,6 @@
         "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
         "trainer_name": "River_Tethys",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.74448637803815,
-        "rating_mu": 23.53725415297863,
-        "rating_sigma": 4.2642559249801595,
-        "result": "loss"
       }
     },
     "2020-08-23T20:07:21.559584+00:00": {
@@ -159,6 +159,12 @@
       }
     },
     "2020-08-25T10:10:32.250043+00:00": {
+      "this_amiibo": {
+        "rating": 20.573861925364326,
+        "rating_mu": 29.068067957987868,
+        "rating_sigma": 2.8314020108745135,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "d686a3d9-28e0-45d8-8b16-fef82457172c",
@@ -167,12 +173,6 @@
         "trainer_id": "87ca3f86-0b03-4cd3-b8ff-317fe5caf47d",
         "trainer_name": "green_magician",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 20.573861925364326,
-        "rating_mu": 29.068067957987868,
-        "rating_sigma": 2.8314020108745135,
-        "result": "loss"
       }
     }
   }

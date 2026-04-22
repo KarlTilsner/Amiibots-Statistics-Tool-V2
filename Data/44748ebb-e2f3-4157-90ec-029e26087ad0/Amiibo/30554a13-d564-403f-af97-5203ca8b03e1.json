@@ -6,6 +6,12 @@
   "trainer_name": "foamtray",
   "matches": {
     "2020-06-01T16:24:30.088291+00:00": {
+      "this_amiibo": {
+        "rating": 1.2328088071017973,
+        "rating_mu": 21.591318563036616,
+        "rating_sigma": 6.78616991864494,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "23d3777f-2ad2-4c8d-a011-3f2ea88574dd",
@@ -14,12 +20,6 @@
         "trainer_id": "e8e5ceb3-094e-4dd0-821a-1be83af3c473",
         "trainer_name": "Moxievegas",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2328088071017973,
-        "rating_mu": 21.591318563036616,
-        "rating_sigma": 6.78616991864494,
-        "result": "loss"
       }
     },
     "2020-06-01T23:10:17.311282+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2020-06-12T07:44:22.538199+00:00": {
+      "this_amiibo": {
+        "rating": 17.115020021893464,
+        "rating_mu": 28.127390747552226,
+        "rating_sigma": 3.6707902418862544,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
         "id": "349277d8-7c33-44c8-8a0f-1f08c9dbf072",
@@ -82,12 +88,6 @@
         "trainer_id": "e8e5ceb3-094e-4dd0-821a-1be83af3c473",
         "trainer_name": "Moxievegas",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 17.115020021893464,
-        "rating_mu": 28.127390747552226,
-        "rating_sigma": 3.6707902418862544,
-        "result": "loss"
       }
     }
   }

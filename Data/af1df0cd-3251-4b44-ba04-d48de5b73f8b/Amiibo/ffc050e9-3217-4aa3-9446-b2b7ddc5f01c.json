@@ -6,6 +6,12 @@
   "trainer_name": "Competitively2",
   "matches": {
     "2024-05-20T08:19:48.745625+00:00": {
+      "this_amiibo": {
+        "rating": 0.9047787215692296,
+        "rating_mu": 20.40160728945614,
+        "rating_sigma": 6.498942855962304,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
         "id": "bef3c012-f082-4acf-bcbf-204be6d0e38d",
@@ -14,12 +20,6 @@
         "trainer_id": "690ab18e-fdac-4267-84c7-b624388b4692",
         "trainer_name": "yoyoshi22",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9047787215692296,
-        "rating_mu": 20.40160728945614,
-        "rating_sigma": 6.498942855962304,
-        "result": "loss"
       }
     },
     "2024-06-24T04:33:34.986459+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2024-08-06T11:08:08.121972+00:00": {
+      "this_amiibo": {
+        "rating": 13.76136695992513,
+        "rating_mu": 25.44671211495506,
+        "rating_sigma": 3.895115051676643,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
         "id": "28bfd322-a2b8-496d-8a0d-a38946611216",
@@ -65,12 +71,6 @@
         "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
         "trainer_name": "Pi_Boy_314",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.76136695992513,
-        "rating_mu": 25.44671211495506,
-        "rating_sigma": 3.895115051676643,
-        "result": "loss"
       }
     }
   }

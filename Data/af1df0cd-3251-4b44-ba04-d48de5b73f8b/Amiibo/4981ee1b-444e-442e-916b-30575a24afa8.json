@@ -6,6 +6,12 @@
   "trainer_name": "average_videogame_user",
   "matches": {
     "2022-11-11T23:36:47.226807+00:00": {
+      "this_amiibo": {
+        "rating": 1.093574049054581,
+        "rating_mu": 21.40345126541118,
+        "rating_sigma": 6.7699590721188665,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
         "id": "a284b2b9-9cb0-4672-ade9-45251fcf55f1",
@@ -14,12 +20,6 @@
         "trainer_id": "7f7024c7-e916-4d9e-a5a6-90569aca262a",
         "trainer_name": "iammartyb",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.093574049054581,
-        "rating_mu": 21.40345126541118,
-        "rating_sigma": 6.7699590721188665,
-        "result": "loss"
       }
     },
     "2022-11-13T09:33:23.437449+00:00": {

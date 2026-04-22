@@ -6,6 +6,12 @@
   "trainer_name": "ricola7ttv",
   "matches": {
     "2024-05-28T23:22:59.226867+00:00": {
+      "this_amiibo": {
+        "rating": -0.18213546346277099,
+        "rating_mu": 18.112306612144142,
+        "rating_sigma": 6.098147358535638,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
         "id": "09411614-8982-4961-9974-ab064491f171",
@@ -14,15 +20,15 @@
         "trainer_id": "fdef585b-96e2-4ebe-93c3-82641f2cefd3",
         "trainer_name": "yendekai",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.18213546346277099,
-        "rating_mu": 18.112306612144142,
-        "rating_sigma": 6.098147358535638,
-        "result": "loss"
       }
     },
     "2024-05-30T20:59:30.779132+00:00": {
+      "this_amiibo": {
+        "rating": -0.7258883866252948,
+        "rating_mu": 14.086738660153452,
+        "rating_sigma": 4.937542348926249,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "599edd14-687c-4264-812e-bc246f562f31",
         "id": "589c9969-0871-4dd1-8d2e-e2ce96a37268",
@@ -31,12 +37,6 @@
         "trainer_id": "e1230ca5-8141-40aa-9bc9-b9db827ee644",
         "trainer_name": "Brawl_Sonic",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.7258883866252948,
-        "rating_mu": 14.086738660153452,
-        "rating_sigma": 4.937542348926249,
-        "result": "loss"
       }
     }
   }

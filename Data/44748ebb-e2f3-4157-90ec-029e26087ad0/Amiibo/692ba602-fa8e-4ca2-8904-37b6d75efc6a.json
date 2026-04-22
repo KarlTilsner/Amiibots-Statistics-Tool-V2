@@ -6,6 +6,12 @@
   "trainer_name": "Roflcopter6k",
   "matches": {
     "2020-09-20T07:15:52.069080+00:00": {
+      "this_amiibo": {
+        "rating": 0.2436008300139143,
+        "rating_mu": 18.968956682983002,
+        "rating_sigma": 6.241785284323029,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
         "id": "97fadc51-eeb6-4fbd-8742-67f81e7cc398",
@@ -14,12 +20,6 @@
         "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
         "trainer_name": "Sirffuzzylogik",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.2436008300139143,
-        "rating_mu": 18.968956682983002,
-        "rating_sigma": 6.241785284323029,
-        "result": "loss"
       }
     }
   }

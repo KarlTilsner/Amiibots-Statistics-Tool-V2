@@ -57,6 +57,12 @@
       }
     },
     "2020-09-13T00:24:24.713656+00:00": {
+      "this_amiibo": {
+        "rating": 16.259493001365932,
+        "rating_mu": 28.485010174632492,
+        "rating_sigma": 4.075172391088853,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
         "id": "e2fecb20-cd0c-4647-8829-24ae349f4a26",
@@ -65,12 +71,6 @@
         "trainer_id": "3388d666-674d-404e-b6ea-96a6f0e4f893",
         "trainer_name": "Bodhiston",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 16.259493001365932,
-        "rating_mu": 28.485010174632492,
-        "rating_sigma": 4.075172391088853,
-        "result": "loss"
       }
     }
   }

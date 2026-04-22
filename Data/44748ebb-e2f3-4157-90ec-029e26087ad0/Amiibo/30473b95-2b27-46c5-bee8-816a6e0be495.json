@@ -6,6 +6,12 @@
   "trainer_name": "Aziifel",
   "matches": {
     "2020-10-01T08:14:47.107508+00:00": {
+      "this_amiibo": {
+        "rating": 0.6669297984646114,
+        "rating_mu": 20.079988741698603,
+        "rating_sigma": 6.471019647744664,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "08ca9ee2-adb3-4abd-ba70-3a1de92ad0ca",
@@ -14,12 +20,6 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6669297984646114,
-        "rating_mu": 20.079988741698603,
-        "rating_sigma": 6.471019647744664,
-        "result": "loss"
       }
     }
   }

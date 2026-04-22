@@ -6,6 +6,12 @@
   "trainer_name": "tylertfisher",
   "matches": {
     "2022-03-28T07:09:26.618996+00:00": {
+      "this_amiibo": {
+        "rating": 0.5843418693597329,
+        "rating_mu": 19.665300036220614,
+        "rating_sigma": 6.360319388953627,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "3ea605e0-c098-4605-891c-94504798745d",
@@ -14,12 +20,6 @@
         "trainer_id": "ebb73d31-5aa5-4477-aae7-d63c636114e5",
         "trainer_name": "nooder_nadders",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5843418693597329,
-        "rating_mu": 19.665300036220614,
-        "rating_sigma": 6.360319388953627,
-        "result": "loss"
       }
     }
   }

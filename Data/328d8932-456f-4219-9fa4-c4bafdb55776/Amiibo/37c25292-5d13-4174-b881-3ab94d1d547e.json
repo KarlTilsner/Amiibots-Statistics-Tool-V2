@@ -40,6 +40,12 @@
       }
     },
     "2022-09-06T04:53:52.552021+00:00": {
+      "this_amiibo": {
+        "rating": 15.91017513986087,
+        "rating_mu": 30.511599944551598,
+        "rating_sigma": 4.867141601563576,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "ed2d5f37-53f4-4fd0-bc4b-8ad04bbbca6b",
@@ -48,12 +54,6 @@
         "trainer_id": "13e66721-7404-4524-9af9-9d2767916a8d",
         "trainer_name": "HamburgerTime_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 15.91017513986087,
-        "rating_mu": 30.511599944551598,
-        "rating_sigma": 4.867141601563576,
-        "result": "loss"
       }
     }
   }

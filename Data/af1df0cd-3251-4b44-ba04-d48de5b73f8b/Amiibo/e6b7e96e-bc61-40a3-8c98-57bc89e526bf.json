@@ -23,6 +23,12 @@
       }
     },
     "2022-04-03T03:27:04.355784+00:00": {
+      "this_amiibo": {
+        "rating": 11.760717638136349,
+        "rating_mu": 16.709129593813373,
+        "rating_sigma": 1.6494706518923414,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
         "id": "96bce5a2-3278-4923-be33-1308f639c10e",
@@ -31,15 +37,15 @@
         "trainer_id": "622b29a2-a265-4e53-8ab8-b676022c38a9",
         "trainer_name": "MistyPeaksMizutsune",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.760717638136349,
-        "rating_mu": 16.709129593813373,
-        "rating_sigma": 1.6494706518923414,
-        "result": "loss"
       }
     },
     "2023-06-15T10:13:07.166755+00:00": {
+      "this_amiibo": {
+        "rating": 11.590040641572093,
+        "rating_mu": 16.44503885942642,
+        "rating_sigma": 1.618332739284775,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
         "id": "a471b40a-3b68-4f6a-81d5-bffdca306086",
@@ -48,12 +54,6 @@
         "trainer_id": "790bfdd9-7935-4d8a-a2ef-e98e39633f80",
         "trainer_name": "wizard_real",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.590040641572093,
-        "rating_mu": 16.44503885942642,
-        "rating_sigma": 1.618332739284775,
-        "result": "loss"
       }
     }
   }

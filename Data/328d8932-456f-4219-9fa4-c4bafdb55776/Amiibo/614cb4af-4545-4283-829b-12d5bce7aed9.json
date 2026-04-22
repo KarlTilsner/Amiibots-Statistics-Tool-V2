@@ -6,6 +6,12 @@
   "trainer_name": "SPEAKERBOX2008",
   "matches": {
     "2022-08-12T03:07:55.637411+00:00": {
+      "this_amiibo": {
+        "rating": 0.4337880740404785,
+        "rating_mu": 19.330474074136177,
+        "rating_sigma": 6.298895333365232,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "f7b25b62-d47a-4d75-aa8a-24660b2be703",
@@ -14,15 +20,15 @@
         "trainer_id": "ae0ceeda-bf3e-4c45-825e-ccb95984d736",
         "trainer_name": "shark_dude111",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.4337880740404785,
-        "rating_mu": 19.330474074136177,
-        "rating_sigma": 6.298895333365232,
-        "result": "loss"
       }
     },
     "2022-08-13T15:31:28.587973+00:00": {
+      "this_amiibo": {
+        "rating": 0.49583035065037606,
+        "rating_mu": 16.312291185652384,
+        "rating_sigma": 5.272153611667336,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96e48494-946f-4280-a419-488d644135e0",
         "id": "60adbd99-310a-46d2-beca-20b9c4e9efc0",
@@ -31,15 +37,15 @@
         "trainer_id": "581bcc3e-7190-42bb-a667-bc2c7c5b9a8d",
         "trainer_name": "duccoboi22_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.49583035065037606,
-        "rating_mu": 16.312291185652384,
-        "rating_sigma": 5.272153611667336,
-        "result": "loss"
       }
     },
     "2022-08-24T02:19:54.408300+00:00": {
+      "this_amiibo": {
+        "rating": 0.14583590362720322,
+        "rating_mu": 14.004333599386406,
+        "rating_sigma": 4.619499231919734,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
         "id": "873346b6-4f5f-45c2-88b2-03bebc66978a",
@@ -48,12 +54,6 @@
         "trainer_id": "c913da46-cb98-40fa-af51-59f57044bd69",
         "trainer_name": "thewhiteocelot",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.14583590362720322,
-        "rating_mu": 14.004333599386406,
-        "rating_sigma": 4.619499231919734,
-        "result": "loss"
       }
     },
     "2022-09-07T06:19:23.532401+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2022-09-09T01:37:32.927630+00:00": {
+      "this_amiibo": {
+        "rating": 3.3056990435225693,
+        "rating_mu": 14.42621095634471,
+        "rating_sigma": 3.7068373042740466,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
         "id": "f33ff6ac-becb-4489-90bc-9aee2c1a41be",
@@ -82,12 +88,6 @@
         "trainer_id": "0f879b78-b0b0-4069-8e70-164832ef3737",
         "trainer_name": "speakerbox08",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 3.3056990435225693,
-        "rating_mu": 14.42621095634471,
-        "rating_sigma": 3.7068373042740466,
-        "result": "loss"
       }
     }
   }

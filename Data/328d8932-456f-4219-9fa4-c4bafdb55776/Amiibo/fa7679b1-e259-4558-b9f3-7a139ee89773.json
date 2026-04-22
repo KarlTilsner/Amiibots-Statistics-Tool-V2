@@ -57,6 +57,12 @@
       }
     },
     "2022-01-09T04:38:17.465558+00:00": {
+      "this_amiibo": {
+        "rating": 21.983040786364707,
+        "rating_mu": 33.81567799560865,
+        "rating_sigma": 3.9442124030813153,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
         "id": "7367a48d-cab3-435b-a932-34c216ca08a4",
@@ -65,15 +71,15 @@
         "trainer_id": "a492c8da-e8ac-4a2b-a5d0-e9d14c2b1642",
         "trainer_name": "DragonFroot_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 21.983040786364707,
-        "rating_mu": 33.81567799560865,
-        "rating_sigma": 3.9442124030813153,
-        "result": "loss"
       }
     },
     "2022-01-11T00:22:21.957768+00:00": {
+      "this_amiibo": {
+        "rating": 20.210773017642772,
+        "rating_mu": 30.499911246746088,
+        "rating_sigma": 3.429712743034438,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "78d22a18-3748-4997-8d60-e0dc6524cd39",
@@ -82,12 +88,6 @@
         "trainer_id": "42b5ba6a-accd-4a43-8caf-4e6732e41542",
         "trainer_name": "KallMeKoto",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 20.210773017642772,
-        "rating_mu": 30.499911246746088,
-        "rating_sigma": 3.429712743034438,
-        "result": "loss"
       }
     }
   }

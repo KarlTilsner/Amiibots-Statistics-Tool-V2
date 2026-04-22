@@ -6,6 +6,12 @@
   "trainer_name": "pinheadpatrick017",
   "matches": {
     "2022-01-05T07:43:03.052233+00:00": {
+      "this_amiibo": {
+        "rating": 1.282894409984543,
+        "rating_mu": 22.626092112105354,
+        "rating_sigma": 7.11439923404027,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
         "id": "a9cadd5d-37f1-4b94-bf73-8aa784836c52",
@@ -14,12 +20,6 @@
         "trainer_id": "80f98683-a318-47dd-bcf2-93f67d0878d4",
         "trainer_name": "Sir_Dragonite",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.282894409984543,
-        "rating_mu": 22.626092112105354,
-        "rating_sigma": 7.11439923404027,
-        "result": "loss"
       }
     }
   }

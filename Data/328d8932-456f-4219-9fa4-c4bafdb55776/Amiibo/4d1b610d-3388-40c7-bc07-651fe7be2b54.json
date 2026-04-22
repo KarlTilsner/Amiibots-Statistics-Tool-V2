@@ -6,6 +6,12 @@
   "trainer_name": "sheepplant",
   "matches": {
     "2022-01-18T21:29:09.515835+00:00": {
+      "this_amiibo": {
+        "rating": 0.9442526626653809,
+        "rating_mu": 20.540923226816137,
+        "rating_sigma": 6.532223521383585,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
         "id": "6ca5ddcd-e154-40ca-b340-8a7693f2edc1",
@@ -14,12 +20,6 @@
         "trainer_id": "80f98683-a318-47dd-bcf2-93f67d0878d4",
         "trainer_name": "Sir_Dragonite",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9442526626653809,
-        "rating_mu": 20.540923226816137,
-        "rating_sigma": 6.532223521383585,
-        "result": "loss"
       }
     }
   }

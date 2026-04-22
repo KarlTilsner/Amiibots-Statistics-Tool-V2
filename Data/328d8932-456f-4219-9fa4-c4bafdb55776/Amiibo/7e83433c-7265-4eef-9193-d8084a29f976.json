@@ -6,6 +6,12 @@
   "trainer_name": "Dempsey342",
   "matches": {
     "2021-11-05T23:11:49.399238+00:00": {
+      "this_amiibo": {
+        "rating": 1.3238256871245468,
+        "rating_mu": 22.07893012507962,
+        "rating_sigma": 6.918368145985024,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "329cdaab-cefb-4cb0-b6d2-09857928e7a3",
@@ -14,12 +20,6 @@
         "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
         "trainer_name": "MiDe1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.3238256871245468,
-        "rating_mu": 22.07893012507962,
-        "rating_sigma": 6.918368145985024,
-        "result": "loss"
       }
     }
   }

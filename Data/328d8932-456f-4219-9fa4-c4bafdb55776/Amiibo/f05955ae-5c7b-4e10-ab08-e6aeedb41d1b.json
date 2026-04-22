@@ -74,6 +74,12 @@
       }
     },
     "2022-02-07T21:40:20.228564+00:00": {
+      "this_amiibo": {
+        "rating": 15.01371980758178,
+        "rating_mu": 30.14167666691528,
+        "rating_sigma": 5.0426522864445005,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
         "id": "18b76f87-d893-41ee-ba81-66238bf44554",
@@ -82,12 +88,6 @@
         "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
         "trainer_name": "rapjm14",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 15.01371980758178,
-        "rating_mu": 30.14167666691528,
-        "rating_sigma": 5.0426522864445005,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "schmorca",
   "matches": {
     "2021-07-27T11:10:19.801188+00:00": {
+      "this_amiibo": {
+        "rating": 1.9606563570959388,
+        "rating_mu": 21.47083263934932,
+        "rating_sigma": 6.503392094084461,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "ef994606-d3ef-45d5-b8a0-79d19982621d",
@@ -14,15 +20,15 @@
         "trainer_id": "ee1d9a05-9070-4b4f-ad6c-768064c23993",
         "trainer_name": "mythricity",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.9606563570959388,
-        "rating_mu": 21.47083263934932,
-        "rating_sigma": 6.503392094084461,
-        "result": "loss"
       }
     },
     "2021-07-27T10:48:06.210055+00:00": {
+      "this_amiibo": {
+        "rating": 0.8921022734325561,
+        "rating_mu": 24.10957138617213,
+        "rating_sigma": 7.739156370913192,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "4d00d868-7c64-463f-861f-4080c59ea7eb",
@@ -31,12 +37,6 @@
         "trainer_id": "3c6a2558-822c-45dc-9c83-95b524978633",
         "trainer_name": "0ccactuss0",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8921022734325561,
-        "rating_mu": 24.10957138617213,
-        "rating_sigma": 7.739156370913192,
-        "result": "loss"
       }
     }
   }

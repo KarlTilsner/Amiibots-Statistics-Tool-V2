@@ -6,6 +6,12 @@
   "trainer_name": "t_newcomer",
   "matches": {
     "2022-04-01T12:08:29.291025+00:00": {
+      "this_amiibo": {
+        "rating": 14.756811177697578,
+        "rating_mu": 22.42041941744096,
+        "rating_sigma": 2.5545360799144605,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3a80cdac-93bb-4a75-8e38-f69f37d10ec6",
         "id": "b4dc53f0-137b-4031-8e3e-814e4e1e001a",
@@ -14,12 +20,6 @@
         "trainer_id": "622b29a2-a265-4e53-8ab8-b676022c38a9",
         "trainer_name": "MistyPeaksMizutsune",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.756811177697578,
-        "rating_mu": 22.42041941744096,
-        "rating_sigma": 2.5545360799144605,
-        "result": "loss"
       }
     }
   }

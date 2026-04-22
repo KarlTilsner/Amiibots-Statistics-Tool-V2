@@ -40,6 +40,12 @@
       }
     },
     "2021-11-08T22:36:20.740422+00:00": {
+      "this_amiibo": {
+        "rating": 13.414302967509464,
+        "rating_mu": 28.231479704548203,
+        "rating_sigma": 4.939058912346247,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
         "id": "b76c0aa0-d9ef-4668-b88b-cd3f75b32841",
@@ -48,15 +54,15 @@
         "trainer_id": "c19b6888-ed95-45db-9980-5ecbf0506cf5",
         "trainer_name": "tylertfisher",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.414302967509464,
-        "rating_mu": 28.231479704548203,
-        "rating_sigma": 4.939058912346247,
-        "result": "loss"
       }
     },
     "2021-11-10T01:44:15.274705+00:00": {
+      "this_amiibo": {
+        "rating": 12.289263399755587,
+        "rating_mu": 26.09620183009502,
+        "rating_sigma": 4.602312810113144,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
         "id": "87d405d5-6283-4d32-927e-cc2cf90ccbed",
@@ -65,12 +71,6 @@
         "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
         "trainer_name": "marble_787",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.289263399755587,
-        "rating_mu": 26.09620183009502,
-        "rating_sigma": 4.602312810113144,
-        "result": "loss"
       }
     }
   }

@@ -23,6 +23,12 @@
       }
     },
     "2022-08-12T19:37:06.877421+00:00": {
+      "this_amiibo": {
+        "rating": 7.803375923673602,
+        "rating_mu": 24.990585619842175,
+        "rating_sigma": 5.729069898722858,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
         "id": "e6590dd5-5174-4048-88ce-f7507716aa37",
@@ -31,12 +37,6 @@
         "trainer_id": "075301b3-c7b8-4abb-beac-80210bf8c7b4",
         "trainer_name": "subtleestone",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 7.803375923673602,
-        "rating_mu": 24.990585619842175,
-        "rating_sigma": 5.729069898722858,
-        "result": "loss"
       }
     }
   }

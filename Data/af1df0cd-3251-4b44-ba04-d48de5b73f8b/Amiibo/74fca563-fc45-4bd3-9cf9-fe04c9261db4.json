@@ -74,6 +74,12 @@
       }
     },
     "2023-06-17T08:54:56.298891+00:00": {
+      "this_amiibo": {
+        "rating": 0.49439644003542327,
+        "rating_mu": 19.501331737026277,
+        "rating_sigma": 6.335645098996951,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
         "id": "dc51e087-f9d0-43d0-b353-1ea8816ad4ac",
@@ -82,12 +88,6 @@
         "trainer_id": "4ffc34ac-0660-4dde-84e6-99aa6d84cfd9",
         "trainer_name": "TheRealShadowPerson",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.49439644003542327,
-        "rating_mu": 19.501331737026277,
-        "rating_sigma": 6.335645098996951,
-        "result": "loss"
       }
     }
   }

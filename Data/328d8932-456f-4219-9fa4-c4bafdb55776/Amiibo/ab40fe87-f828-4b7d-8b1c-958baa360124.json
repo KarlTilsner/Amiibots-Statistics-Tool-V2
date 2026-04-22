@@ -23,6 +23,12 @@
       }
     },
     "2021-11-17T03:20:41.562590+00:00": {
+      "this_amiibo": {
+        "rating": 8.157312763752028,
+        "rating_mu": 25.652672314575373,
+        "rating_sigma": 5.831786516941115,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "22df6f77-ab65-4161-8efc-79613481ffe3",
@@ -31,15 +37,15 @@
         "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
         "trainer_name": "improv_195",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 8.157312763752028,
-        "rating_mu": 25.652672314575373,
-        "rating_sigma": 5.831786516941115,
-        "result": "loss"
       }
     },
     "2021-11-21T16:40:29.369279+00:00": {
+      "this_amiibo": {
+        "rating": 8.00753863155425,
+        "rating_mu": 23.934196517979668,
+        "rating_sigma": 5.308885962141806,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "12fb57f9-39fe-4223-8d77-78a975212eac",
@@ -48,12 +54,6 @@
         "trainer_id": "b82c6d43-d80c-4195-99a0-67355d12115d",
         "trainer_name": "the_real_rukasu",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 8.00753863155425,
-        "rating_mu": 23.934196517979668,
-        "rating_sigma": 5.308885962141806,
-        "result": "loss"
       }
     }
   }

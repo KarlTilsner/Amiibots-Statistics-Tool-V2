@@ -6,6 +6,12 @@
   "trainer_name": "Competitively2",
   "matches": {
     "2020-04-24T10:57:14.963250+00:00": {
+      "this_amiibo": {
+        "rating": -2.2801031220834247,
+        "rating_mu": 17.017101097567217,
+        "rating_sigma": 6.4324014065502135,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "0baa6a6f-2df5-4777-bdbe-7732930c8713",
@@ -14,12 +20,6 @@
         "trainer_id": "8576530a-2f15-4cd6-bcb5-d9bf076ea24c",
         "trainer_name": "bladethecheetah",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -2.2801031220834247,
-        "rating_mu": 17.017101097567217,
-        "rating_sigma": 6.4324014065502135,
-        "result": "loss"
       }
     }
   }

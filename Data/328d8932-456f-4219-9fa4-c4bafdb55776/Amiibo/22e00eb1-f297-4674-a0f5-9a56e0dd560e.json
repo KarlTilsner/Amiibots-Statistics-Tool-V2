@@ -6,6 +6,12 @@
   "trainer_name": "gsus22",
   "matches": {
     "2022-01-17T16:49:56.999768+00:00": {
+      "this_amiibo": {
+        "rating": 1.1417759557905853,
+        "rating_mu": 21.791541132294533,
+        "rating_sigma": 6.883255058834649,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
         "id": "1a8ce4b6-b15d-4c95-9da8-f1982558dcab",
@@ -14,12 +20,6 @@
         "trainer_id": "3c6a2558-822c-45dc-9c83-95b524978633",
         "trainer_name": "0ccactuss0",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1417759557905853,
-        "rating_mu": 21.791541132294533,
-        "rating_sigma": 6.883255058834649,
-        "result": "loss"
       }
     }
   }

@@ -23,6 +23,12 @@
       }
     },
     "2023-07-22T08:16:47.279596+00:00": {
+      "this_amiibo": {
+        "rating": 1.187555835306977,
+        "rating_mu": 21.314233271468282,
+        "rating_sigma": 6.708892478720435,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "2d417fc5-dad9-46d9-8e19-8eda35622ea6",
@@ -31,12 +37,6 @@
         "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
         "trainer_name": "amiibofight",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.187555835306977,
-        "rating_mu": 21.314233271468282,
-        "rating_sigma": 6.708892478720435,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "Sirffuzzylogik",
   "matches": {
     "2020-04-19T13:17:01.095977+00:00": {
+      "this_amiibo": {
+        "rating": 0.42946869145494304,
+        "rating_mu": 20.990541256892506,
+        "rating_sigma": 6.853690855145854,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
         "id": "be222191-4377-4aef-8ef7-c4e515e76cb7",
@@ -14,12 +20,6 @@
         "trainer_id": "6fcd9113-8cc8-48cd-b29b-46b2ccb55f27",
         "trainer_name": "TrademarksNonsense",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.42946869145494304,
-        "rating_mu": 20.990541256892506,
-        "rating_sigma": 6.853690855145854,
-        "result": "loss"
       }
     }
   }

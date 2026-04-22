@@ -6,6 +6,12 @@
   "trainer_name": "smashssf2_ita",
   "matches": {
     "2022-04-30T10:06:21.151552+00:00": {
+      "this_amiibo": {
+        "rating": 0.522454424444458,
+        "rating_mu": 20.16179271411835,
+        "rating_sigma": 6.546446096557964,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
         "id": "93d0b283-91d6-481d-8fd4-18a7b35c5b13",
@@ -14,12 +20,6 @@
         "trainer_id": "74b11748-df73-4895-a914-7f048a54ecc8",
         "trainer_name": "Dempsey342",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.522454424444458,
-        "rating_mu": 20.16179271411835,
-        "rating_sigma": 6.546446096557964,
-        "result": "loss"
       }
     },
     "2022-04-30T23:50:32.090722+00:00": {

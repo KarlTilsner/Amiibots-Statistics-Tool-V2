@@ -6,6 +6,12 @@
   "trainer_name": "staples___",
   "matches": {
     "2020-07-29T09:16:07.790130+00:00": {
+      "this_amiibo": {
+        "rating": 1.2444854021241554,
+        "rating_mu": 21.92737027681776,
+        "rating_sigma": 6.894294958231202,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "cb8028a1-7d25-4bbd-a082-fa9c39a84631",
@@ -14,12 +20,6 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2444854021241554,
-        "rating_mu": 21.92737027681776,
-        "rating_sigma": 6.894294958231202,
-        "result": "loss"
       }
     },
     "2020-07-29T13:05:23.831175+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2020-07-30T00:23:23.723419+00:00": {
+      "this_amiibo": {
+        "rating": 11.741768702183727,
+        "rating_mu": 25.49591257030406,
+        "rating_sigma": 4.584714622706778,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "a546d64f-4100-4eac-bc9b-16eadefefe24",
@@ -48,15 +54,15 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.741768702183727,
-        "rating_mu": 25.49591257030406,
-        "rating_sigma": 4.584714622706778,
-        "result": "loss"
       }
     },
     "2020-07-30T14:57:20.096342+00:00": {
+      "this_amiibo": {
+        "rating": 11.637788683336973,
+        "rating_mu": 23.950172419980237,
+        "rating_sigma": 4.104127912214421,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "db44a604-b49f-4aab-9e3a-41a1cdfd2300",
@@ -65,12 +71,6 @@
         "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
         "trainer_name": "forenmagra",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.637788683336973,
-        "rating_mu": 23.950172419980237,
-        "rating_sigma": 4.104127912214421,
-        "result": "loss"
       }
     },
     "2020-08-01T14:23:32.255033+00:00": {
@@ -121,6 +121,57 @@
         "rating": 21.378198644319642,
         "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
         "trainer_name": "apple_beebs",
+        "result": "loss"
+      }
+    },
+    "2021-01-01T00:09:50.655995+00:00": {
+      "this_amiibo": {
+        "rating": 20.135906065098858,
+        "rating_mu": 29.08869978195696,
+        "rating_sigma": 2.984264572286035,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "c830bdb0-a9f4-4e3a-821e-f656287e9cd7",
+        "name": "Ngyes",
+        "rating": 18.9781693772087,
+        "trainer_id": "4c89a31f-96ec-45d3-a1eb-dfc6af88f83c",
+        "trainer_name": "392108",
+        "result": "loss"
+      }
+    },
+    "2021-01-01T07:26:39.955299+00:00": {
+      "this_amiibo": {
+        "rating": 19.78749613764934,
+        "rating_mu": 28.233894713452717,
+        "rating_sigma": 2.815466191934459,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "ba67caed-b7f8-4c31-96d9-4363a9e46186",
+        "name": "Kurisu",
+        "rating": 25.662358357630087,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "win"
+      }
+    },
+    "2021-01-01T15:19:35.530298+00:00": {
+      "this_amiibo": {
+        "rating": 20.382009794900874,
+        "rating_mu": 28.560802766750758,
+        "rating_sigma": 2.7262643239499607,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "8f20d773-3150-4db4-bc57-f9f774e76d48",
+        "name": "F A X",
+        "rating": 16.089751181169227,
+        "trainer_id": "1dbad9b6-c3fe-42c6-958e-e4bf6e70f9f0",
+        "trainer_name": "KingPingu435",
         "result": "loss"
       }
     }

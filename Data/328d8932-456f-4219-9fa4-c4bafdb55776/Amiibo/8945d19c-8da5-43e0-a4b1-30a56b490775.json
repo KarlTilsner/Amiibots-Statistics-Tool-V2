@@ -40,6 +40,12 @@
       }
     },
     "2022-07-25T01:39:25.309722+00:00": {
+      "this_amiibo": {
+        "rating": 17.08218191279758,
+        "rating_mu": 30.881980579443404,
+        "rating_sigma": 4.599932888881941,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
         "id": "99594140-cc12-4a99-9e48-42e3a8610bde",
@@ -48,12 +54,40 @@
         "trainer_id": "8d6a769d-19d4-4644-b439-6e87cd8a8b20",
         "trainer_name": "someguy_456",
         "result": "win"
-      },
+      }
+    },
+    "2022-10-05T22:42:38.282073+00:00": {
       "this_amiibo": {
-        "rating": 17.08218191279758,
-        "rating_mu": 30.881980579443404,
-        "rating_sigma": 4.599932888881941,
+        "rating": 16.5942799331648,
+        "rating_mu": 28.65596158039331,
+        "rating_sigma": 4.020560549076171,
         "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "124382c3-e905-4b77-bd0d-6b9b29ddf79d",
+        "name": "Hiyoko",
+        "rating": 28.06910100328396,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "win"
+      }
+    },
+    "2022-11-02T04:29:34.172203+00:00": {
+      "this_amiibo": {
+        "rating": 16.067015469792057,
+        "rating_mu": 26.868189372471125,
+        "rating_sigma": 3.6003913008930226,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "e65be622-eef8-4446-9fe1-4043eefd1d98",
+        "name": "Carrin",
+        "rating": 25.90281065515445,
+        "trainer_id": "0e36fcd2-b145-41ab-8b59-5eb5015fbc62",
+        "trainer_name": "agamer995",
+        "result": "win"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "AlexanderAgne",
   "matches": {
     "2024-09-20T14:16:52.240533+00:00": {
+      "this_amiibo": {
+        "rating": 0.04814003974495762,
+        "rating_mu": 18.691660633356776,
+        "rating_sigma": 6.214506864537273,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "a2eaa479-f28c-4b01-bce9-a6052004e793",
@@ -14,12 +20,6 @@
         "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
         "trainer_name": "leCharade",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.04814003974495762,
-        "rating_mu": 18.691660633356776,
-        "rating_sigma": 6.214506864537273,
-        "result": "loss"
       }
     }
   }

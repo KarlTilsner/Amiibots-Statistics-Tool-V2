@@ -6,6 +6,12 @@
   "trainer_name": "qscxz512",
   "matches": {
     "2020-10-20T13:43:25.969003+00:00": {
+      "this_amiibo": {
+        "rating": 0.5097130269208634,
+        "rating_mu": 20.014206889362832,
+        "rating_sigma": 6.5014979541473235,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
         "id": "f992844d-78ac-44e7-b20c-14c61a475660",
@@ -14,12 +20,6 @@
         "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
         "trainer_name": "apple_beebs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5097130269208634,
-        "rating_mu": 20.014206889362832,
-        "rating_sigma": 6.5014979541473235,
-        "result": "loss"
       }
     }
   }

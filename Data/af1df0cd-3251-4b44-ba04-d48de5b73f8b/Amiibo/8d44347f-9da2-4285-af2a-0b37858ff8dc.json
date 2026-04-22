@@ -6,6 +6,12 @@
   "trainer_name": "Competitively2",
   "matches": {
     "2024-08-25T14:39:57.738190+00:00": {
+      "this_amiibo": {
+        "rating": 0.6290308778625686,
+        "rating_mu": 19.80491309426292,
+        "rating_sigma": 6.391960738800116,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
         "id": "ad3155e4-e697-4b48-94d2-f6a3129be47d",
@@ -14,12 +20,6 @@
         "trainer_id": "64acd7f3-4e04-47ff-9205-3462b48f8e72",
         "trainer_name": "jessee1209",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6290308778625686,
-        "rating_mu": 19.80491309426292,
-        "rating_sigma": 6.391960738800116,
-        "result": "loss"
       }
     }
   }

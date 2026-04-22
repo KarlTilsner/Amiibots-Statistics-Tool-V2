@@ -6,6 +6,12 @@
   "trainer_name": "StaplesTV_",
   "matches": {
     "2021-12-20T00:29:18.311405+00:00": {
+      "this_amiibo": {
+        "rating": 1.1888138234694559,
+        "rating_mu": 21.322431810619168,
+        "rating_sigma": 6.711205995716571,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
         "id": "d6b141b5-7f9b-43ef-8cfb-9d79bfb00863",
@@ -14,12 +20,6 @@
         "trainer_id": "af5dd649-83cf-4846-b48f-168de5f05963",
         "trainer_name": "FinancedLoki",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1888138234694559,
-        "rating_mu": 21.322431810619168,
-        "rating_sigma": 6.711205995716571,
-        "result": "loss"
       }
     }
   }

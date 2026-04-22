@@ -6,6 +6,12 @@
   "trainer_name": "Oliirik",
   "matches": {
     "2022-02-10T15:34:20.690208+00:00": {
+      "this_amiibo": {
+        "rating": 1.1087719775875122,
+        "rating_mu": 21.08598433352055,
+        "rating_sigma": 6.6590707853110125,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "5bc543cd-117a-4bef-b7ca-60d04e8cae06",
@@ -14,15 +20,15 @@
         "trainer_id": "45ebea1d-3449-40f8-b447-ed2e9a172238",
         "trainer_name": "Pheonix039",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1087719775875122,
-        "rating_mu": 21.08598433352055,
-        "rating_sigma": 6.6590707853110125,
-        "result": "loss"
       }
     },
     "2022-02-10T18:52:29.302071+00:00": {
+      "this_amiibo": {
+        "rating": 1.283585428439011,
+        "rating_mu": 17.634472201354026,
+        "rating_sigma": 5.450295590971671,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "a11997d3-eb83-459c-a562-be68b2d63a43",
@@ -31,12 +37,6 @@
         "trainer_id": "d696c9c4-34e6-4bf8-bedf-7285d22d8d04",
         "trainer_name": "PhantomD_SSB",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.283585428439011,
-        "rating_mu": 17.634472201354026,
-        "rating_sigma": 5.450295590971671,
-        "result": "loss"
       }
     }
   }

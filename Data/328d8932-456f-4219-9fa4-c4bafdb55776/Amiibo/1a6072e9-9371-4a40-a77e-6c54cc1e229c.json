@@ -6,6 +6,12 @@
   "trainer_name": "StaplesTV_",
   "matches": {
     "2022-01-09T16:30:04.771651+00:00": {
+      "this_amiibo": {
+        "rating": 1.3533649049896148,
+        "rating_mu": 18.558789789178878,
+        "rating_sigma": 5.735141628063088,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "3da5e760-cbaa-4c79-96d1-f7820619164c",
@@ -14,15 +20,15 @@
         "trainer_id": "a20909c7-9e51-492a-9e78-1472022a1d7a",
         "trainer_name": "GreeFoss",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.3533649049896148,
-        "rating_mu": 18.558789789178878,
-        "rating_sigma": 5.735141628063088,
-        "result": "loss"
       }
     },
     "2022-01-09T16:12:14.939485+00:00": {
+      "this_amiibo": {
+        "rating": 0.6971665971621661,
+        "rating_mu": 20.06932240101974,
+        "rating_sigma": 6.4573852679525245,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
         "id": "1bcf3be7-fb46-4796-8333-1cd64a911a26",
@@ -31,12 +37,6 @@
         "trainer_id": "8b58def7-f142-4a59-b1d1-322b89f76a74",
         "trainer_name": "t_newcomer",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6971665971621661,
-        "rating_mu": 20.06932240101974,
-        "rating_sigma": 6.4573852679525245,
-        "result": "loss"
       }
     }
   }

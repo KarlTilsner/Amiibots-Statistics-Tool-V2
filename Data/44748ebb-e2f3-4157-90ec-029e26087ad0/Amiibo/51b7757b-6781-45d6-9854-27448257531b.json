@@ -6,6 +6,12 @@
   "trainer_name": "Kangoni",
   "matches": {
     "2020-08-28T02:42:42.902837+00:00": {
+      "this_amiibo": {
+        "rating": 1.2268629985471655,
+        "rating_mu": 21.495461588700458,
+        "rating_sigma": 6.756199530051098,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
         "id": "a89261f9-a712-4ebb-87b0-2c56413a65f4",
@@ -14,15 +20,15 @@
         "trainer_id": "e31250ea-6e7a-4948-b23c-af990e8632f0",
         "trainer_name": "Nickural",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2268629985471655,
-        "rating_mu": 21.495461588700458,
-        "rating_sigma": 6.756199530051098,
-        "result": "loss"
       }
     },
     "2020-08-28T13:11:55.115934+00:00": {
+      "this_amiibo": {
+        "rating": 1.8890291121790774,
+        "rating_mu": 19.165518249438332,
+        "rating_sigma": 5.758829712419752,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "19c17d97-8245-4eb4-bca1-b43516e70cca",
@@ -31,12 +37,6 @@
         "trainer_id": "e107d104-7f29-4a8c-973c-d767b9d963e2",
         "trainer_name": "cryotheist",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.8890291121790774,
-        "rating_mu": 19.165518249438332,
-        "rating_sigma": 5.758829712419752,
-        "result": "loss"
       }
     },
     "2020-08-28T20:03:39.336251+00:00": {
@@ -125,6 +125,12 @@
       }
     },
     "2020-08-31T22:20:58.265206+00:00": {
+      "this_amiibo": {
+        "rating": 20.761888939051456,
+        "rating_mu": 29.580352536414786,
+        "rating_sigma": 2.9394878657877768,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
         "id": "41a2d78e-1aab-4128-a5d6-3487035a0f5e",
@@ -133,15 +139,15 @@
         "trainer_id": "d0e3f535-e180-4251-94b6-6c528f278d1e",
         "trainer_name": "cadenlisa",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 20.761888939051456,
-        "rating_mu": 29.580352536414786,
-        "rating_sigma": 2.9394878657877768,
-        "result": "loss"
       }
     },
     "2020-09-02T03:21:08.141649+00:00": {
+      "this_amiibo": {
+        "rating": 19.487913874318483,
+        "rating_mu": 27.673461884795653,
+        "rating_sigma": 2.72851600349239,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
         "id": "330cb0fb-bcbd-4690-b945-2801a8febd45",
@@ -150,12 +156,6 @@
         "trainer_id": "94403b6f-17a3-4d6a-be29-de66b221db6d",
         "trainer_name": "penguhhhh",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 19.487913874318483,
-        "rating_mu": 27.673461884795653,
-        "rating_sigma": 2.72851600349239,
-        "result": "loss"
       }
     }
   }

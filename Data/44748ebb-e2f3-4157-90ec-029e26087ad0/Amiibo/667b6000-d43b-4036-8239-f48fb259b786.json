@@ -23,6 +23,12 @@
       }
     },
     "2020-09-07T04:10:13.692223+00:00": {
+      "this_amiibo": {
+        "rating": 10.003198430975415,
+        "rating_mu": 25.532251471920162,
+        "rating_sigma": 5.176351013648249,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
         "id": "1cac52d7-f308-4a33-9d74-fb686f505f63",
@@ -31,12 +37,6 @@
         "trainer_id": "e53a023e-9ca9-4a47-98dd-0b0e28130b56",
         "trainer_name": "dk71896",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.003198430975415,
-        "rating_mu": 25.532251471920162,
-        "rating_sigma": 5.176351013648249,
-        "result": "loss"
       }
     }
   }

@@ -40,6 +40,12 @@
       }
     },
     "2024-01-29T22:15:03.962083+00:00": {
+      "this_amiibo": {
+        "rating": 11.944146639600682,
+        "rating_mu": 23.437540921848306,
+        "rating_sigma": 3.8311314274158748,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "fa1ac3ba-0880-483b-b94e-9b4952e3f999",
         "id": "dbade7a5-9633-4253-8c85-58bce16ecb28",
@@ -48,12 +54,6 @@
         "trainer_id": "a783d150-bd51-4b0c-9379-b32e55643dac",
         "trainer_name": "iguyw",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.944146639600682,
-        "rating_mu": 23.437540921848306,
-        "rating_sigma": 3.8311314274158748,
-        "result": "loss"
       }
     }
   }

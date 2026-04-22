@@ -57,6 +57,12 @@
       }
     },
     "2023-03-29T16:22:09.773943+00:00": {
+      "this_amiibo": {
+        "rating": 22.07292732531924,
+        "rating_mu": 34.74890508044441,
+        "rating_sigma": 4.225325918375056,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "372f01ee-f2ce-4640-9cf1-cf6da45adb18",
@@ -65,15 +71,15 @@
         "trainer_id": "0fb55565-9a16-4eaf-9ae8-e089b432d6f0",
         "trainer_name": "sdm_ranch",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 22.07292732531924,
-        "rating_mu": 34.74890508044441,
-        "rating_sigma": 4.225325918375056,
-        "result": "loss"
       }
     },
     "2023-03-30T00:27:37.093531+00:00": {
+      "this_amiibo": {
+        "rating": 21.42472948053505,
+        "rating_mu": 32.62319231270308,
+        "rating_sigma": 3.732820944056011,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
         "id": "bde81d77-1e6d-48ad-9984-20cb96a0ff07",
@@ -82,12 +88,6 @@
         "trainer_id": "b13c42a0-c638-4703-87c4-875e5ec0bf94",
         "trainer_name": "MMMMMMMMTTYYY_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 21.42472948053505,
-        "rating_mu": 32.62319231270308,
-        "rating_sigma": 3.732820944056011,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "staples___",
   "matches": {
     "2020-06-29T00:48:53.425235+00:00": {
+      "this_amiibo": {
+        "rating": 0.9390708507111185,
+        "rating_mu": 20.576868080729636,
+        "rating_sigma": 6.545932410006173,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
         "id": "4c8fff3a-cff5-4805-8c24-69d53ba7d097",
@@ -14,15 +20,15 @@
         "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
         "trainer_name": "apple_beebs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9390708507111185,
-        "rating_mu": 20.576868080729636,
-        "rating_sigma": 6.545932410006173,
-        "result": "loss"
       }
     },
     "2020-06-29T18:55:19.522602+00:00": {
+      "this_amiibo": {
+        "rating": 1.517987101183632,
+        "rating_mu": 18.361821702707722,
+        "rating_sigma": 5.614611533841363,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
         "id": "c69c51a9-254b-4264-9a43-90aa28f7dc51",
@@ -31,12 +37,6 @@
         "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
         "trainer_name": "Sirffuzzylogik",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.517987101183632,
-        "rating_mu": 18.361821702707722,
-        "rating_sigma": 5.614611533841363,
-        "result": "loss"
       }
     }
   }

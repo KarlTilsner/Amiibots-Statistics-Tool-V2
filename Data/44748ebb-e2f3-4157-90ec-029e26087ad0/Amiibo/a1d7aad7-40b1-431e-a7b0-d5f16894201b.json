@@ -6,6 +6,12 @@
   "trainer_name": "foamtray",
   "matches": {
     "2020-07-09T06:07:54.187844+00:00": {
+      "this_amiibo": {
+        "rating": 1.2003641226844408,
+        "rating_mu": 21.416771649997003,
+        "rating_sigma": 6.738802509104187,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "31da059a-5e6e-4882-ad2b-87988e3e2367",
@@ -14,12 +20,6 @@
         "trainer_id": "e8e5ceb3-094e-4dd0-821a-1be83af3c473",
         "trainer_name": "moxievegas",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2003641226844408,
-        "rating_mu": 21.416771649997003,
-        "rating_sigma": 6.738802509104187,
-        "result": "loss"
       }
     },
     "2020-07-09T11:37:01.335773+00:00": {
@@ -91,6 +91,12 @@
       }
     },
     "2020-07-20T10:37:14.890248+00:00": {
+      "this_amiibo": {
+        "rating": 14.703627650326204,
+        "rating_mu": 26.12485039054569,
+        "rating_sigma": 3.807074246739828,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
         "id": "3f3d9499-1658-474f-95d1-b222a2f59a2d",
@@ -99,12 +105,6 @@
         "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
         "trainer_name": "River_Tethys",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.703627650326204,
-        "rating_mu": 26.12485039054569,
-        "rating_sigma": 3.807074246739828,
-        "result": "loss"
       }
     },
     "2020-07-22T11:22:49.535089+00:00": {
@@ -125,6 +125,12 @@
       }
     },
     "2020-09-30T01:41:14.344297+00:00": {
+      "this_amiibo": {
+        "rating": 18.448247468297343,
+        "rating_mu": 27.32872350055745,
+        "rating_sigma": 2.9601586774200364,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "9a01f218-ab10-4d66-aec7-effe67c26891",
@@ -133,12 +139,6 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 18.448247468297343,
-        "rating_mu": 27.32872350055745,
-        "rating_sigma": 2.9601586774200364,
-        "result": "loss"
       }
     }
   }

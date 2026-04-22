@@ -6,6 +6,12 @@
   "trainer_name": "Oliirik",
   "matches": {
     "2021-09-21T19:08:12.417900+00:00": {
+      "this_amiibo": {
+        "rating": -0.419705499410874,
+        "rating_mu": 18.932567652193075,
+        "rating_sigma": 6.450757717201316,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
         "id": "fcc401eb-37a1-4295-ae91-b1e27c1a7922",
@@ -14,12 +20,6 @@
         "trainer_id": "8b58def7-f142-4a59-b1d1-322b89f76a74",
         "trainer_name": "t_newcomer",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.419705499410874,
-        "rating_mu": 18.932567652193075,
-        "rating_sigma": 6.450757717201316,
-        "result": "loss"
       }
     }
   }

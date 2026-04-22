@@ -40,6 +40,12 @@
       }
     },
     "2022-08-23T16:07:23.661379+00:00": {
+      "this_amiibo": {
+        "rating": 17.23985774286064,
+        "rating_mu": 29.491850158286905,
+        "rating_sigma": 4.083997471808755,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
         "id": "7e2b8bdc-a7af-4aaa-9567-d6e0d5199344",
@@ -48,15 +54,15 @@
         "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
         "trainer_name": "StaplesTV_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 17.23985774286064,
-        "rating_mu": 29.491850158286905,
-        "rating_sigma": 4.083997471808755,
-        "result": "loss"
       }
     },
     "2022-08-23T12:41:03.909914+00:00": {
+      "this_amiibo": {
+        "rating": 17.593741378846715,
+        "rating_mu": 31.384850969684475,
+        "rating_sigma": 4.597036530279253,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
         "id": "c4c5c164-41a0-4061-bab4-c653c650c54d",
@@ -65,15 +71,15 @@
         "trainer_id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
         "trainer_name": "pinheadpatrick017",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 17.593741378846715,
-        "rating_mu": 31.384850969684475,
-        "rating_sigma": 4.597036530279253,
-        "result": "loss"
       }
     },
     "2022-08-28T04:02:54.935034+00:00": {
+      "this_amiibo": {
+        "rating": 16.90805577498365,
+        "rating_mu": 28.00162777320083,
+        "rating_sigma": 3.6978573327390594,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
         "id": "76251345-c615-4b8b-91dd-003919681fb8",
@@ -82,12 +88,23 @@
         "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
         "trainer_name": "LovingStew",
         "result": "win"
-      },
+      }
+    },
+    "2022-10-07T00:55:34.898614+00:00": {
       "this_amiibo": {
-        "rating": 16.90805577498365,
-        "rating_mu": 28.00162777320083,
-        "rating_sigma": 3.6978573327390594,
+        "rating": 16.30313381941228,
+        "rating_mu": 26.60029753362958,
+        "rating_sigma": 3.4323879047390986,
         "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "a1114eec-f3bb-4eec-b357-b676b2300145",
+        "name": "Galacta",
+        "rating": 18.651408418665188,
+        "trainer_id": "e6d5b0bb-df7f-4eb4-a716-bb8f7b66858e",
+        "trainer_name": "zmantheoverpowered",
+        "result": "win"
       }
     }
   }

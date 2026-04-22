@@ -6,6 +6,12 @@
   "trainer_name": "sh42ow",
   "matches": {
     "2022-03-10T20:26:10.792476+00:00": {
+      "this_amiibo": {
+        "rating": 0.9902089640952525,
+        "rating_mu": 20.733484120674486,
+        "rating_sigma": 6.581091718859745,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "3e2c42e2-2379-4663-9ce5-1976365de5df",
@@ -14,12 +20,6 @@
         "trainer_id": "61314a03-5052-497e-a2bf-ebeabc47be55",
         "trainer_name": "amatsoup",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9902089640952525,
-        "rating_mu": 20.733484120674486,
-        "rating_sigma": 6.581091718859745,
-        "result": "loss"
       }
     },
     "2022-03-17T16:40:12.422541+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2022-03-18T10:43:16.096983+00:00": {
+      "this_amiibo": {
+        "rating": 12.256663726911562,
+        "rating_mu": 25.652065037337355,
+        "rating_sigma": 4.465133770141931,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
         "id": "9f4495f4-c7b1-4601-9be1-27175c5c0344",
@@ -48,12 +54,6 @@
         "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
         "trainer_name": "CikadaKing",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.256663726911562,
-        "rating_mu": 25.652065037337355,
-        "rating_sigma": 4.465133770141931,
-        "result": "loss"
       }
     }
   }

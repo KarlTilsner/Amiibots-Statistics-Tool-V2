@@ -23,6 +23,12 @@
       }
     },
     "2023-09-02T03:16:50.929014+00:00": {
+      "this_amiibo": {
+        "rating": 10.559583944982382,
+        "rating_mu": 26.05156118340349,
+        "rating_sigma": 5.163992412807036,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "f1378476-876d-4f46-b13f-fc98eb58e0c1",
@@ -31,12 +37,6 @@
         "trainer_id": "777d12f5-fc42-4921-adbb-e0038cb093e2",
         "trainer_name": "Halyaran",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.559583944982382,
-        "rating_mu": 26.05156118340349,
-        "rating_sigma": 5.163992412807036,
-        "result": "loss"
       }
     }
   }

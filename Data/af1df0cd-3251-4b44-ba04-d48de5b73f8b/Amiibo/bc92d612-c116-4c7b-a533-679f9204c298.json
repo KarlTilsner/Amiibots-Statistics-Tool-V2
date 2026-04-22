@@ -6,6 +6,12 @@
   "trainer_name": "leCharade",
   "matches": {
     "2024-03-04T13:42:26.468748+00:00": {
+      "this_amiibo": {
+        "rating": 0.3010507456980349,
+        "rating_mu": 19.136513758678138,
+        "rating_sigma": 6.278487670993368,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
         "id": "ca5b1979-4063-4805-a808-85a314c00d82",
@@ -14,12 +20,6 @@
         "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
         "trainer_name": "phantomvoltia",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.3010507456980349,
-        "rating_mu": 19.136513758678138,
-        "rating_sigma": 6.278487670993368,
-        "result": "loss"
       }
     },
     "2024-08-11T21:07:53.464906+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2024-08-27T05:26:59.292262+00:00": {
+      "this_amiibo": {
+        "rating": 8.061051570036,
+        "rating_mu": 20.929402182196206,
+        "rating_sigma": 4.289450204053402,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "eb14f75f-7538-4adb-9d38-401cc4c57e37",
@@ -48,12 +54,6 @@
         "trainer_id": "0a04604c-bea5-449d-a960-dd4b2c97b98b",
         "trainer_name": "YumYumCactus_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 8.061051570036,
-        "rating_mu": 20.929402182196206,
-        "rating_sigma": 4.289450204053402,
-        "result": "loss"
       }
     }
   }

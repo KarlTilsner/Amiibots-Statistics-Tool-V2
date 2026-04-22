@@ -6,6 +6,12 @@
   "trainer_name": "funni_roka_real",
   "matches": {
     "2023-01-23T02:30:20.259144+00:00": {
+      "this_amiibo": {
+        "rating": 0.9555772202722252,
+        "rating_mu": 20.9759681464699,
+        "rating_sigma": 6.673463642065891,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
         "id": "588c6464-20bc-4ae1-abdc-eef51348b6a5",
@@ -14,15 +20,15 @@
         "trainer_id": "43e9b485-c8e8-4d9a-bf5f-4f51c5cae826",
         "trainer_name": "tapumasu",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9555772202722252,
-        "rating_mu": 20.9759681464699,
-        "rating_sigma": 6.673463642065891,
-        "result": "loss"
       }
     },
     "2023-03-15T07:08:10.842362+00:00": {
+      "this_amiibo": {
+        "rating": 1.1501328038904397,
+        "rating_mu": 17.4954150349124,
+        "rating_sigma": 5.4484274103406545,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
         "id": "bdeca62d-a9b0-4264-aac4-0bbe00b80fdd",
@@ -31,12 +37,6 @@
         "trainer_id": "64acd7f3-4e04-47ff-9205-3462b48f8e72",
         "trainer_name": "jessee1209",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1501328038904397,
-        "rating_mu": 17.4954150349124,
-        "rating_sigma": 5.4484274103406545,
-        "result": "loss"
       }
     },
     "2023-04-05T13:08:29.623710+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2023-06-15T22:26:19.328188+00:00": {
+      "this_amiibo": {
+        "rating": 9.594091556733616,
+        "rating_mu": 21.05354112134441,
+        "rating_sigma": 3.819816521536931,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
         "id": "c516b885-bc2a-4505-ad11-c625fd37d488",
@@ -82,12 +88,6 @@
         "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
         "trainer_name": "forenmagra",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.594091556733616,
-        "rating_mu": 21.05354112134441,
-        "rating_sigma": 3.819816521536931,
-        "result": "loss"
       }
     }
   }

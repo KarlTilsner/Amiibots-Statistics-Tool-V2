@@ -6,6 +6,12 @@
   "trainer_name": "picvity",
   "matches": {
     "2023-06-04T23:53:20.894914+00:00": {
+      "this_amiibo": {
+        "rating": 1.2110205389067197,
+        "rating_mu": 21.494143562554267,
+        "rating_sigma": 6.7610410078825165,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
         "id": "e8adb151-9dbe-465e-a1f0-e2ecae4ede4a",
@@ -14,12 +20,6 @@
         "trainer_id": "89946893-b4ec-41d4-a71b-b925e22b4225",
         "trainer_name": "marioandfriends1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2110205389067197,
-        "rating_mu": 21.494143562554267,
-        "rating_sigma": 6.7610410078825165,
-        "result": "loss"
       }
     }
   }

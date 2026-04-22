@@ -6,6 +6,12 @@
   "trainer_name": "slippyfishy3",
   "matches": {
     "2022-08-10T14:19:04.949122+00:00": {
+      "this_amiibo": {
+        "rating": 0.7149511805634994,
+        "rating_mu": 19.909851662906394,
+        "rating_sigma": 6.398300160780964,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
         "id": "4ff8ec58-d09d-48ff-9458-712bc6205a14",
@@ -14,12 +20,6 @@
         "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
         "trainer_name": "spike2the9th",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7149511805634994,
-        "rating_mu": 19.909851662906394,
-        "rating_sigma": 6.398300160780964,
-        "result": "loss"
       }
     }
   }

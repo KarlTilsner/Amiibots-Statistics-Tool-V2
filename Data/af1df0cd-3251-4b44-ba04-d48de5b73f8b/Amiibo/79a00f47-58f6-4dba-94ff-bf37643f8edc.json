@@ -6,6 +6,12 @@
   "trainer_name": "wyrmtheblack",
   "matches": {
     "2023-04-03T13:21:17.941753+00:00": {
+      "this_amiibo": {
+        "rating": 1.0699439201316459,
+        "rating_mu": 21.505914812484836,
+        "rating_sigma": 6.811990297451063,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "581c3ac9-8e2e-4ec1-9c6b-a29d72c6be31",
@@ -14,15 +20,15 @@
         "trainer_id": "4109b186-2c35-4e06-9fb2-0814df014469",
         "trainer_name": "melted256",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0699439201316459,
-        "rating_mu": 21.505914812484836,
-        "rating_sigma": 6.811990297451063,
-        "result": "loss"
       }
     },
     "2023-04-04T19:23:14.981759+00:00": {
+      "this_amiibo": {
+        "rating": 0.9388017586053472,
+        "rating_mu": 17.48422495964827,
+        "rating_sigma": 5.515141067014307,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "7336e0d5-a33e-42f2-853b-5460945848ef",
@@ -31,12 +37,6 @@
         "trainer_id": "777d12f5-fc42-4921-adbb-e0038cb093e2",
         "trainer_name": "Halyaran",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9388017586053472,
-        "rating_mu": 17.48422495964827,
-        "rating_sigma": 5.515141067014307,
-        "result": "loss"
       }
     }
   }

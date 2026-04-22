@@ -6,6 +6,12 @@
   "trainer_name": "Oliirik",
   "matches": {
     "2021-03-07T19:23:15.118940+00:00": {
+      "this_amiibo": {
+        "rating": -1.6339301889557838,
+        "rating_mu": 16.70330723110262,
+        "rating_sigma": 6.112412473352801,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
         "id": "c9a069f2-dfcb-472f-bba1-9fb4be81878b",
@@ -14,15 +20,15 @@
         "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
         "trainer_name": "fammydamammy",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.6339301889557838,
-        "rating_mu": 16.70330723110262,
-        "rating_sigma": 6.112412473352801,
-        "result": "loss"
       }
     },
     "2021-03-07T19:19:14.072203+00:00": {
+      "this_amiibo": {
+        "rating": -2.314689884589349,
+        "rating_mu": 17.631405800908283,
+        "rating_sigma": 6.648698561832544,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "bfe81280-b317-4ef7-a957-61d4243ce869",
@@ -31,12 +37,6 @@
         "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
         "trainer_name": "Zoom__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -2.314689884589349,
-        "rating_mu": 17.631405800908283,
-        "rating_sigma": 6.648698561832544,
-        "result": "loss"
       }
     }
   }

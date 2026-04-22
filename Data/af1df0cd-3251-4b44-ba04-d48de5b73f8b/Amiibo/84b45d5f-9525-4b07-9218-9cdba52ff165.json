@@ -23,6 +23,12 @@
       }
     },
     "2023-11-09T12:40:56.299699+00:00": {
+      "this_amiibo": {
+        "rating": 10.529594872252702,
+        "rating_mu": 26.064258226472678,
+        "rating_sigma": 5.178221118073325,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
         "id": "45cf74e2-21e5-468d-b842-1fed9f08e124",
@@ -31,12 +37,6 @@
         "trainer_id": "558d6371-ada9-4c14-b300-5eecf975ef68",
         "trainer_name": "deante_ssb",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.529594872252702,
-        "rating_mu": 26.064258226472678,
-        "rating_sigma": 5.178221118073325,
-        "result": "loss"
       }
     }
   }

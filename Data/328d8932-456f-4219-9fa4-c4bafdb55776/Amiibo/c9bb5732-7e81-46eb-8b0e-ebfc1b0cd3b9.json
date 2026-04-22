@@ -6,6 +6,12 @@
   "trainer_name": "rapjm14",
   "matches": {
     "2021-03-09T04:54:51.630131+00:00": {
+      "this_amiibo": {
+        "rating": -1.6911441428800096,
+        "rating_mu": 17.20262756857078,
+        "rating_sigma": 6.29792390381693,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
         "id": "c08f9cd7-c06a-4b87-9dd2-43e136a66b27",
@@ -14,12 +20,6 @@
         "trainer_id": "4c37b285-332a-40b0-a22b-b3679effbaf2",
         "trainer_name": "sentientsax",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.6911441428800096,
-        "rating_mu": 17.20262756857078,
-        "rating_sigma": 6.29792390381693,
-        "result": "loss"
       }
     },
     "2021-03-09T09:23:10.056050+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2021-03-09T13:56:25.096774+00:00": {
+      "this_amiibo": {
+        "rating": 3.609544074672428,
+        "rating_mu": 19.380621052712744,
+        "rating_sigma": 5.257025659346772,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "56a5c63e-f912-40c5-848d-0a6a07f64f23",
@@ -48,12 +54,6 @@
         "trainer_id": "777d12f5-fc42-4921-adbb-e0038cb093e2",
         "trainer_name": "Halyaran",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 3.609544074672428,
-        "rating_mu": 19.380621052712744,
-        "rating_sigma": 5.257025659346772,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "tenchaos",
   "matches": {
     "2020-05-12T21:22:05.784559+00:00": {
+      "this_amiibo": {
+        "rating": 1.0487548298468425,
+        "rating_mu": 21.67933170089288,
+        "rating_sigma": 6.8768589570153456,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
         "id": "164887a1-f1e9-44af-8fac-e7946fdde7ff",
@@ -14,12 +20,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "migbui",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0487548298468425,
-        "rating_mu": 21.67933170089288,
-        "rating_sigma": 6.8768589570153456,
-        "result": "loss"
       }
     }
   }

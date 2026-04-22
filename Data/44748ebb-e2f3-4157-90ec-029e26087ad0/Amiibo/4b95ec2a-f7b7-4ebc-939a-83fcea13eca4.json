@@ -6,6 +6,12 @@
   "trainer_name": "foamtray",
   "matches": {
     "2020-10-09T00:01:45.088946+00:00": {
+      "this_amiibo": {
+        "rating": 0.761532380382878,
+        "rating_mu": 20.112438957207775,
+        "rating_sigma": 6.450302192274966,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
         "id": "47a31e59-10f2-49f4-a791-8d02c60865f4",
@@ -14,12 +20,6 @@
         "trainer_id": "87ca3f86-0b03-4cd3-b8ff-317fe5caf47d",
         "trainer_name": "green_magician",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.761532380382878,
-        "rating_mu": 20.112438957207775,
-        "rating_sigma": 6.450302192274966,
-        "result": "loss"
       }
     }
   }

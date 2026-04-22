@@ -6,6 +6,12 @@
   "trainer_name": "foamtray",
   "matches": {
     "2020-09-14T09:25:31.388971+00:00": {
+      "this_amiibo": {
+        "rating": -0.5732258689447356,
+        "rating_mu": 18.383660103555897,
+        "rating_sigma": 6.318961990833544,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
         "id": "9f6ca90d-c5b5-4f5d-9512-f102024f00e9",
@@ -14,12 +20,6 @@
         "trainer_id": "147dbdd6-0e08-4d4a-b7eb-0146fb5735f6",
         "trainer_name": "Adam2qaz",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.5732258689447356,
-        "rating_mu": 18.383660103555897,
-        "rating_sigma": 6.318961990833544,
-        "result": "loss"
       }
     }
   }

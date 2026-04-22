@@ -6,6 +6,12 @@
   "trainer_name": "wyvernfalcon",
   "matches": {
     "2022-01-21T07:27:11.904427+00:00": {
+      "this_amiibo": {
+        "rating": 0.9349790109592462,
+        "rating_mu": 20.83464130000892,
+        "rating_sigma": 6.633220763016558,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
         "id": "3add6a1d-6514-481f-8f71-211da73b2258",
@@ -14,15 +20,15 @@
         "trainer_id": "4e051fe0-b800-4921-8917-2cc80a47b468",
         "trainer_name": "Pluchsia",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9349790109592462,
-        "rating_mu": 20.83464130000892,
-        "rating_sigma": 6.633220763016558,
-        "result": "loss"
       }
     },
     "2022-01-22T02:53:29.739271+00:00": {
+      "this_amiibo": {
+        "rating": 1.6040327176437081,
+        "rating_mu": 19.964587628387836,
+        "rating_sigma": 6.120184970248042,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "c3905c26-578e-461f-a762-af559b0185fe",
@@ -31,12 +37,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.6040327176437081,
-        "rating_mu": 19.964587628387836,
-        "rating_sigma": 6.120184970248042,
-        "result": "loss"
       }
     }
   }

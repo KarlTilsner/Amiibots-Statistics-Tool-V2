@@ -6,6 +6,12 @@
   "trainer_name": "schmorchid",
   "matches": {
     "2022-02-28T15:55:43.930292+00:00": {
+      "this_amiibo": {
+        "rating": 0.9602081451576261,
+        "rating_mu": 23.401117594761192,
+        "rating_sigma": 7.480303149867856,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
         "id": "6e4e5346-503a-4c33-bd64-c048548dab09",
@@ -14,12 +20,6 @@
         "trainer_id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
         "trainer_name": "pinheadpatrick017",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9602081451576261,
-        "rating_mu": 23.401117594761192,
-        "rating_sigma": 7.480303149867856,
-        "result": "loss"
       }
     }
   }

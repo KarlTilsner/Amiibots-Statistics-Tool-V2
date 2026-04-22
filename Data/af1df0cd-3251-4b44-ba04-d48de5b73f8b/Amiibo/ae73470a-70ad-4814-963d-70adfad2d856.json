@@ -6,6 +6,12 @@
   "trainer_name": "FireFang6",
   "matches": {
     "2023-10-14T12:02:07.136261+00:00": {
+      "this_amiibo": {
+        "rating": 0.19793001022276968,
+        "rating_mu": 19.00187618208876,
+        "rating_sigma": 6.2679820572886635,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
         "id": "99248bb0-5705-45dc-b06b-da971e9033ab",
@@ -14,15 +20,15 @@
         "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
         "trainer_name": "RailCanyonn",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.19793001022276968,
-        "rating_mu": 19.00187618208876,
-        "rating_sigma": 6.2679820572886635,
-        "result": "loss"
       }
     },
     "2024-09-07T22:55:02.743267+00:00": {
+      "this_amiibo": {
+        "rating": 0.35338065269649555,
+        "rating_mu": 16.01821697225186,
+        "rating_sigma": 5.221612106518455,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
         "id": "b41c2243-492a-4074-bb61-c1c840365262",
@@ -31,15 +37,15 @@
         "trainer_id": "acf5ba5f-23f9-471b-a1c7-ba5119b73cdc",
         "trainer_name": "SirXyonder",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.35338065269649555,
-        "rating_mu": 16.01821697225186,
-        "rating_sigma": 5.221612106518455,
-        "result": "loss"
       }
     },
     "2024-09-15T07:16:42.931560+00:00": {
+      "this_amiibo": {
+        "rating": 0.46878851297989144,
+        "rating_mu": 14.29643510218837,
+        "rating_sigma": 4.60921552973616,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
         "id": "7ed58d08-e337-4dcb-aece-9c80eca569af",
@@ -48,15 +54,15 @@
         "trainer_id": "a9ec9d87-61e1-4c87-be6d-3442cf3a59d4",
         "trainer_name": "bluerunner0",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.46878851297989144,
-        "rating_mu": 14.29643510218837,
-        "rating_sigma": 4.60921552973616,
-        "result": "loss"
       }
     },
     "2024-09-25T06:33:59.075077+00:00": {
+      "this_amiibo": {
+        "rating": 0.007764488848341244,
+        "rating_mu": 12.220866346596923,
+        "rating_sigma": 4.0710339525828605,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
         "id": "ee926a3c-90f5-4989-8d85-bf17b726c526",
@@ -65,15 +71,15 @@
         "trainer_id": "62b3b451-2ded-4a7e-bcac-ab768ccfbe26",
         "trainer_name": "capt_cacdi",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.007764488848341244,
-        "rating_mu": 12.220866346596923,
-        "rating_sigma": 4.0710339525828605,
-        "result": "loss"
       }
     },
     "2024-09-30T06:36:01.110576+00:00": {
+      "this_amiibo": {
+        "rating": -0.02987369672226059,
+        "rating_mu": 11.248743397988784,
+        "rating_sigma": 3.7595390315703483,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
         "id": "a7c6e40c-7dee-40a8-a24b-fdb7ddc8f6e6",
@@ -82,12 +88,6 @@
         "trainer_id": "acf5ba5f-23f9-471b-a1c7-ba5119b73cdc",
         "trainer_name": "SirXyonder",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.02987369672226059,
-        "rating_mu": 11.248743397988784,
-        "rating_sigma": 3.7595390315703483,
-        "result": "loss"
       }
     }
   }

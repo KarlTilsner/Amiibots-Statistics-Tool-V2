@@ -6,6 +6,12 @@
   "trainer_name": "dotcomplus",
   "matches": {
     "2020-10-10T04:40:52.820037+00:00": {
+      "this_amiibo": {
+        "rating": 1.077676456702907,
+        "rating_mu": 21.05990370033884,
+        "rating_sigma": 6.660742414545311,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
         "id": "5b0dbba7-8a59-4e99-a0ff-c54446d6c933",
@@ -14,12 +20,6 @@
         "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
         "trainer_name": "apple_beebs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.077676456702907,
-        "rating_mu": 21.05990370033884,
-        "rating_sigma": 6.660742414545311,
-        "result": "loss"
       }
     }
   }

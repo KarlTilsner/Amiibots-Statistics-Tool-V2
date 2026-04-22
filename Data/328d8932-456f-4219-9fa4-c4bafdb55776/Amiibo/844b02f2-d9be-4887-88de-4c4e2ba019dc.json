@@ -6,6 +6,12 @@
   "trainer_name": "superalan64yt",
   "matches": {
     "2022-07-24T02:15:03.727064+00:00": {
+      "this_amiibo": {
+        "rating": 0.9021391054118375,
+        "rating_mu": 20.44100284633586,
+        "rating_sigma": 6.512954580308008,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
         "id": "19f4cb0d-07e4-42a6-89f3-0bfb724e18c7",
@@ -14,15 +20,15 @@
         "trainer_id": "dceebd05-b83b-44e7-a3eb-375e6a706602",
         "trainer_name": "ssbu_phantom",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9021391054118375,
-        "rating_mu": 20.44100284633586,
-        "rating_sigma": 6.512954580308008,
-        "result": "loss"
       }
     },
     "2022-08-24T23:35:17.138738+00:00": {
+      "this_amiibo": {
+        "rating": -0.16925907304354126,
+        "rating_mu": 15.139637218469572,
+        "rating_sigma": 5.102965430504371,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "69133a4f-c976-4c0b-8109-179240f3f884",
@@ -31,12 +37,6 @@
         "trainer_id": "860520ba-0394-4d67-86e7-9269f8c25b20",
         "trainer_name": "마스터_커비",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.16925907304354126,
-        "rating_mu": 15.139637218469572,
-        "rating_sigma": 5.102965430504371,
-        "result": "loss"
       }
     }
   }

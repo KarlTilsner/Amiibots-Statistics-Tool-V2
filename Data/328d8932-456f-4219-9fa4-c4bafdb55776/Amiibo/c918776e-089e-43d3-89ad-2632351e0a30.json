@@ -6,6 +6,12 @@
   "trainer_name": "ScuttIer",
   "matches": {
     "2021-04-02T02:59:57.830260+00:00": {
+      "this_amiibo": {
+        "rating": -0.3057861013911385,
+        "rating_mu": 16.2638573201969,
+        "rating_sigma": 5.52321447386268,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
         "id": "6465c172-cab9-4d2b-b959-0d2b70392406",
@@ -14,15 +20,15 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.3057861013911385,
-        "rating_mu": 16.2638573201969,
-        "rating_sigma": 5.52321447386268,
-        "result": "loss"
       }
     },
     "2021-04-01T21:13:54.726425+00:00": {
+      "this_amiibo": {
+        "rating": 1.0965734930342386,
+        "rating_mu": 21.05736632572006,
+        "rating_sigma": 6.653597610895274,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "2b32dcf6-cb44-4088-9e54-fd482ce2e80b",
@@ -31,12 +37,6 @@
         "trainer_id": "800690a5-19de-4098-8fd4-33bcbadf4a18",
         "trainer_name": "TheAuraKing6",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0965734930342386,
-        "rating_mu": 21.05736632572006,
-        "rating_sigma": 6.653597610895274,
-        "result": "loss"
       }
     }
   }

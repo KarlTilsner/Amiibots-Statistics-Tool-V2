@@ -6,6 +6,12 @@
   "trainer_name": "misatoaddict",
   "matches": {
     "2022-03-19T23:58:16.313788+00:00": {
+      "this_amiibo": {
+        "rating": 1.0098163055196032,
+        "rating_mu": 20.70162797820874,
+        "rating_sigma": 6.563937224229712,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "3da5e760-cbaa-4c79-96d1-f7820619164c",
@@ -14,12 +20,6 @@
         "trainer_id": "a20909c7-9e51-492a-9e78-1472022a1d7a",
         "trainer_name": "GreeFoss",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0098163055196032,
-        "rating_mu": 20.70162797820874,
-        "rating_sigma": 6.563937224229712,
-        "result": "loss"
       }
     }
   }

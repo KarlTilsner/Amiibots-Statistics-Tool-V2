@@ -6,6 +6,12 @@
   "trainer_name": "its_alexis_16",
   "matches": {
     "2022-07-17T04:42:55.274652+00:00": {
+      "this_amiibo": {
+        "rating": 0.9146211140597593,
+        "rating_mu": 21.08791303320559,
+        "rating_sigma": 6.724430639715277,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
         "id": "842a2d18-5463-49a7-9b8b-64884676c9b8",
@@ -14,12 +20,6 @@
         "trainer_id": "6fcd9113-8cc8-48cd-b29b-46b2ccb55f27",
         "trainer_name": "antisopropalope",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9146211140597593,
-        "rating_mu": 21.08791303320559,
-        "rating_sigma": 6.724430639715277,
-        "result": "loss"
       }
     }
   }

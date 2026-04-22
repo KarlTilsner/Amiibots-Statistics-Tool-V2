@@ -23,6 +23,12 @@
       }
     },
     "2020-12-06T17:25:51.791391+00:00": {
+      "this_amiibo": {
+        "rating": 10.69904021580573,
+        "rating_mu": 25.710863639735916,
+        "rating_sigma": 5.003941141310062,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
         "id": "8a97b589-7653-44ee-9bc7-2bee9619a5b8",
@@ -31,15 +37,15 @@
         "trainer_id": "0636d0e3-7111-4073-a31d-f07fb7d61394",
         "trainer_name": "ScroogeMcDuk",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.69904021580573,
-        "rating_mu": 25.710863639735916,
-        "rating_sigma": 5.003941141310062,
-        "result": "loss"
       }
     },
     "2020-12-07T09:14:48.705363+00:00": {
+      "this_amiibo": {
+        "rating": 10.3674045655841,
+        "rating_mu": 23.399458533532933,
+        "rating_sigma": 4.344017989316278,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "77650b52-6a32-470b-8283-1b1c4e4f4b87",
@@ -48,12 +54,91 @@
         "trainer_id": "147dbdd6-0e08-4d4a-b7eb-0146fb5735f6",
         "trainer_name": "Adam2qaz",
         "result": "win"
-      },
+      }
+    },
+    "2020-12-08T16:20:45.318574+00:00": {
       "this_amiibo": {
-        "rating": 10.3674045655841,
-        "rating_mu": 23.399458533532933,
-        "rating_sigma": 4.344017989316278,
+        "rating": 9.528871765652696,
+        "rating_mu": 21.728954281608882,
+        "rating_sigma": 4.066694171985396,
         "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "325ac591-6937-4b66-adde-96a8c946e1a6",
+        "name": "Sanada",
+        "rating": 9.06693147394396,
+        "trainer_id": "57b78886-3962-42ea-9e7d-7091b402d1e6",
+        "trainer_name": "HexLunare",
+        "result": "win"
+      }
+    },
+    "2020-12-08T21:09:29.404161+00:00": {
+      "this_amiibo": {
+        "rating": 9.444384292993647,
+        "rating_mu": 20.648903598792096,
+        "rating_sigma": 3.7348397685994827,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "61fc8551-365c-4733-b9b6-d7bd4d457537",
+        "name": "SilverFang",
+        "rating": 23.506472295960005,
+        "trainer_id": "d54d14d0-85bb-4485-9f85-957892e8334d",
+        "trainer_name": "NinHartless",
+        "result": "win"
+      }
+    },
+    "2020-12-09T08:26:54.733406+00:00": {
+      "this_amiibo": {
+        "rating": 9.080476697223336,
+        "rating_mu": 19.922927176623848,
+        "rating_sigma": 3.614150159800171,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "de0739e9-f2ae-4e73-a91b-1e74e39348fd",
+        "name": "Lou E.G.",
+        "rating": 7.977242342767806,
+        "trainer_id": "e53a023e-9ca9-4a47-98dd-0b0e28130b56",
+        "trainer_name": "dk71896",
+        "result": "win"
+      }
+    },
+    "2020-12-09T11:18:40.255062+00:00": {
+      "this_amiibo": {
+        "rating": 9.154552959940034,
+        "rating_mu": 19.736997367227524,
+        "rating_sigma": 3.52748146909583,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "95a30981-e63b-4572-abaf-484d77bb2113",
+        "name": "Wosber",
+        "rating": 29.18418306738937,
+        "trainer_id": "83ad055f-644c-4c4f-8a57-7f9180b0d326",
+        "trainer_name": "ZanyMarshalo",
+        "result": "win"
+      }
+    },
+    "2020-12-09T18:38:04.897204+00:00": {
+      "this_amiibo": {
+        "rating": 9.219576939847896,
+        "rating_mu": 19.57756423002746,
+        "rating_sigma": 3.4526624300598545,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "4f099cae-c445-454b-a51b-81362b8355a2",
+        "name": "DarkCoffee",
+        "rating": 29.355566656449724,
+        "trainer_id": "66a3caea-31ed-4ab3-840b-3a826ac3e6fc",
+        "trainer_name": "wikano3",
+        "result": "win"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "sp_staples",
   "matches": {
     "2021-09-24T06:56:50.901170+00:00": {
+      "this_amiibo": {
+        "rating": 0.011887848265722312,
+        "rating_mu": 20.880138048497898,
+        "rating_sigma": 6.956083400077391,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "76601ba9-5337-4838-a99c-340008bff49e",
@@ -14,15 +20,15 @@
         "trainer_id": "333ada9d-112d-469a-8a26-320358969432",
         "trainer_name": "smashssf2_ita",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.011887848265722312,
-        "rating_mu": 20.880138048497898,
-        "rating_sigma": 6.956083400077391,
-        "result": "loss"
       }
     },
     "2021-09-25T01:49:27.011970+00:00": {
+      "this_amiibo": {
+        "rating": 0.69959089550823,
+        "rating_mu": 19.786083162559436,
+        "rating_sigma": 6.362164089017068,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
         "id": "a348aa1c-b117-4049-af44-808871c8426b",
@@ -31,12 +37,6 @@
         "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
         "trainer_name": "LovingStew",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.69959089550823,
-        "rating_mu": 19.786083162559436,
-        "rating_sigma": 6.362164089017068,
-        "result": "loss"
       }
     }
   }

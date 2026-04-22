@@ -23,6 +23,12 @@
       }
     },
     "2022-09-12T19:53:02.506220+00:00": {
+      "this_amiibo": {
+        "rating": 1.0127938937762053,
+        "rating_mu": 20.9301607556151,
+        "rating_sigma": 6.639122287279631,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "485f0887-32fa-4879-bf17-32efa31b72cc",
@@ -31,12 +37,6 @@
         "trainer_id": "d7f44591-9713-4c95-b840-3607f6a73d24",
         "trainer_name": "luckman21",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0127938937762053,
-        "rating_mu": 20.9301607556151,
-        "rating_sigma": 6.639122287279631,
-        "result": "loss"
       }
     },
     "2022-10-03T03:01:57.007926+00:00": {
@@ -53,6 +53,23 @@
         "rating": 20.23594563990705,
         "trainer_id": "075301b3-c7b8-4abb-beac-80210bf8c7b4",
         "trainer_name": "subtleestone",
+        "result": "loss"
+      }
+    },
+    "2022-10-09T02:51:45.389640+00:00": {
+      "this_amiibo": {
+        "rating": 16.567387414085843,
+        "rating_mu": 29.22071240978386,
+        "rating_sigma": 4.217774998566006,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "800c5fa9-207e-4bc7-b594-98664228616f",
+        "name": "Cheeto",
+        "rating": 21.27578314052419,
+        "trainer_id": "a3b72cea-5dac-4ea2-ba28-afde3dcd38d6",
+        "trainer_name": "emboooooooo",
         "result": "loss"
       }
     }

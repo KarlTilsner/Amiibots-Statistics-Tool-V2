@@ -6,6 +6,12 @@
   "trainer_name": "TheoreticalMyth",
   "matches": {
     "2020-06-27T11:20:52.555208+00:00": {
+      "this_amiibo": {
+        "rating": -0.07820118274110044,
+        "rating_mu": 19.135238162873133,
+        "rating_sigma": 6.4044797818714105,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
         "id": "1a7fc8eb-dea5-4da7-a6eb-850a2622f3f0",
@@ -14,12 +20,6 @@
         "trainer_id": "75cc72db-3f1a-4ecb-a476-a681603d9d4e",
         "trainer_name": "boristhekoopa",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.07820118274110044,
-        "rating_mu": 19.135238162873133,
-        "rating_sigma": 6.4044797818714105,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "ytygecho",
   "matches": {
     "2020-11-21T16:10:05.471869+00:00": {
+      "this_amiibo": {
+        "rating": 0.8928802093998769,
+        "rating_mu": 20.41979311910438,
+        "rating_sigma": 6.508970969901501,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
         "id": "470d8a00-f900-42c2-9b2f-f72989e774b0",
@@ -14,12 +20,6 @@
         "trainer_id": "b079e5eb-cecb-48d2-a350-091fc4698bd3",
         "trainer_name": "kangasmom",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8928802093998769,
-        "rating_mu": 20.41979311910438,
-        "rating_sigma": 6.508970969901501,
-        "result": "loss"
       }
     },
     "2020-11-22T12:31:08.877981+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2020-11-22T21:43:14.988288+00:00": {
+      "this_amiibo": {
+        "rating": 10.02769814362384,
+        "rating_mu": 23.874945519691675,
+        "rating_sigma": 4.615749125355944,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "45e0b8f2-1359-4de4-9cce-dd9e6eb0c419",
@@ -48,12 +54,6 @@
         "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
         "trainer_name": "flareofstars",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.02769814362384,
-        "rating_mu": 23.874945519691675,
-        "rating_sigma": 4.615749125355944,
-        "result": "loss"
       }
     }
   }

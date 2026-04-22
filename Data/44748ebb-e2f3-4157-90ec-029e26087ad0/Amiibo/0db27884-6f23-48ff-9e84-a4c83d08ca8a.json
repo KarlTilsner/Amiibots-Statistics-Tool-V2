@@ -6,6 +6,12 @@
   "trainer_name": "SteelswarmCycada",
   "matches": {
     "2020-10-02T10:36:29.484818+00:00": {
+      "this_amiibo": {
+        "rating": 0.908943447656835,
+        "rating_mu": 20.406524152402167,
+        "rating_sigma": 6.499193568248444,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "f435741c-b516-4b1c-a642-0adf2b2434de",
@@ -14,15 +20,15 @@
         "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
         "trainer_name": "Lady_Cucco",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.908943447656835,
-        "rating_mu": 20.406524152402167,
-        "rating_sigma": 6.499193568248444,
-        "result": "loss"
       }
     },
     "2020-10-04T20:48:47.304210+00:00": {
+      "this_amiibo": {
+        "rating": 0.5012008667850409,
+        "rating_mu": 18.394504954528365,
+        "rating_sigma": 5.964434695914441,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
         "id": "19b69445-d806-4b49-91b0-505397b3bb7d",
@@ -31,12 +37,6 @@
         "trainer_id": "ab1f76a6-17bb-4125-aafe-261bbce07ff1",
         "trainer_name": "the_scuttler",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5012008667850409,
-        "rating_mu": 18.394504954528365,
-        "rating_sigma": 5.964434695914441,
-        "result": "loss"
       }
     }
   }

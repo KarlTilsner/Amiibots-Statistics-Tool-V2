@@ -40,6 +40,12 @@
       }
     },
     "2022-09-21T18:33:57.869789+00:00": {
+      "this_amiibo": {
+        "rating": 17.20420656910901,
+        "rating_mu": 30.68804552806263,
+        "rating_sigma": 4.494612986317874,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
         "id": "c684e718-8000-47cb-8e93-445cb19f81e3",
@@ -48,12 +54,6 @@
         "trainer_id": "c1461260-903f-4aae-ad42-af21e07e1e98",
         "trainer_name": "MoonBeanBie",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 17.20420656910901,
-        "rating_mu": 30.68804552806263,
-        "rating_sigma": 4.494612986317874,
-        "result": "loss"
       }
     },
     "2022-09-22T21:48:46.447624+00:00": {
@@ -122,6 +122,40 @@
         "trainer_id": "4109b186-2c35-4e06-9fb2-0814df014469",
         "trainer_name": "melted256",
         "result": "loss"
+      }
+    },
+    "2022-10-10T04:17:18.346303+00:00": {
+      "this_amiibo": {
+        "rating": 25.987750025943022,
+        "rating_mu": 34.69852511103841,
+        "rating_sigma": 2.9035916950317944,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "039a9359-5a21-4eba-b319-4be871e1afcc",
+        "name": "Trunks ",
+        "rating": 28.19131316695744,
+        "trainer_id": "57b7c7ba-025a-4f68-a714-8df0b8eba37d",
+        "trainer_name": "Reddragun08",
+        "result": "win"
+      }
+    },
+    "2022-10-22T03:58:30.691629+00:00": {
+      "this_amiibo": {
+        "rating": 25.3304621875059,
+        "rating_mu": 33.45632276706104,
+        "rating_sigma": 2.708620193185045,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "6b99f801-c3e4-4f44-b442-3bf7b73b3cea",
+        "name": "You Can't",
+        "rating": 29.2116193970566,
+        "trainer_id": "6769a5da-b1bb-4563-af5a-4439304198aa",
+        "trainer_name": "Truth_Villager",
+        "result": "win"
       }
     }
   }

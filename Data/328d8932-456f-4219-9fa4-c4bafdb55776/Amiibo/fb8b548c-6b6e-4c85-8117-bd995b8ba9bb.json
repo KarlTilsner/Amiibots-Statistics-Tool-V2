@@ -6,6 +6,12 @@
   "trainer_name": "pinheadpatrick017",
   "matches": {
     "2021-10-04T13:39:33.544284+00:00": {
+      "this_amiibo": {
+        "rating": 7.037900745835342,
+        "rating_mu": 20.435476672853245,
+        "rating_sigma": 4.465858642339301,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
         "id": "31d3326e-bb1d-409f-9b4a-b56fdc3d268f",
@@ -14,12 +20,6 @@
         "trainer_id": "c19b6888-ed95-45db-9980-5ecbf0506cf5",
         "trainer_name": "tylertfisher",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 7.037900745835342,
-        "rating_mu": 20.435476672853245,
-        "rating_sigma": 4.465858642339301,
-        "result": "loss"
       }
     },
     "2021-10-04T12:44:57.381141+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2021-10-04T12:04:48.725589+00:00": {
+      "this_amiibo": {
+        "rating": -0.8326246745821635,
+        "rating_mu": 18.27601214228495,
+        "rating_sigma": 6.369545605622371,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
         "id": "a7064a2b-f6e0-4a70-b4f0-7861fe448c74",
@@ -48,12 +54,6 @@
         "trainer_id": "5d49133f-f2e3-449b-b297-19d899fdf013",
         "trainer_name": "thedailydude",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.8326246745821635,
-        "rating_mu": 18.27601214228495,
-        "rating_sigma": 6.369545605622371,
-        "result": "loss"
       }
     }
   }

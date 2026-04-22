@@ -40,6 +40,12 @@
       }
     },
     "2021-08-15T05:05:16.676744+00:00": {
+      "this_amiibo": {
+        "rating": 14.32915585218418,
+        "rating_mu": 26.8346112767379,
+        "rating_sigma": 4.168485141517906,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "994758ca-cef6-41d3-8263-4c32734b0d6c",
@@ -48,15 +54,15 @@
         "trainer_id": "1b2f2208-154e-44fd-a520-f5a043b3e7ba",
         "trainer_name": "RufflestheKirbyplayer",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.32915585218418,
-        "rating_mu": 26.8346112767379,
-        "rating_sigma": 4.168485141517906,
-        "result": "loss"
       }
     },
     "2021-08-15T03:31:48.441245+00:00": {
+      "this_amiibo": {
+        "rating": 15.368002647577521,
+        "rating_mu": 28.629232948605807,
+        "rating_sigma": 4.420410100342762,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "e2e0344e-890a-442b-9fb3-061897c198bc",
@@ -65,12 +71,6 @@
         "trainer_id": "fdc1350c-e911-4557-88ae-b29111abb0e9",
         "trainer_name": "Angel3lego",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 15.368002647577521,
-        "rating_mu": 28.629232948605807,
-        "rating_sigma": 4.420410100342762,
-        "result": "loss"
       }
     }
   }

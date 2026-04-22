@@ -6,6 +6,12 @@
   "trainer_name": "chillindude300",
   "matches": {
     "2023-12-16T12:25:07.713040+00:00": {
+      "this_amiibo": {
+        "rating": 0.5006601925540686,
+        "rating_mu": 20.134250251914793,
+        "rating_sigma": 6.544530019786908,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
         "id": "627d00aa-14f0-412a-8662-d153bceb1959",
@@ -14,12 +20,6 @@
         "trainer_id": "340b16cc-6edc-4f6f-9d5b-cb3004218d3f",
         "trainer_name": "neontide438",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5006601925540686,
-        "rating_mu": 20.134250251914793,
-        "rating_sigma": 6.544530019786908,
-        "result": "loss"
       }
     },
     "2024-01-12T02:35:34.617239+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2024-02-21T23:54:40.246850+00:00": {
+      "this_amiibo": {
+        "rating": 13.249154448070732,
+        "rating_mu": 24.88892025221628,
+        "rating_sigma": 3.879921934715183,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "6b9a57c6-4b04-4574-b858-b51d9056f31b",
@@ -65,12 +71,6 @@
         "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
         "trainer_name": "soysauce881",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.249154448070732,
-        "rating_mu": 24.88892025221628,
-        "rating_sigma": 3.879921934715183,
-        "result": "loss"
       }
     }
   }

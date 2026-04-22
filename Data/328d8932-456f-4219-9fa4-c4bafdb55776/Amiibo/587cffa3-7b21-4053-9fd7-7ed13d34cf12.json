@@ -23,6 +23,12 @@
       }
     },
     "2022-08-28T20:15:00.705302+00:00": {
+      "this_amiibo": {
+        "rating": 12.40638672309882,
+        "rating_mu": 27.930777605578232,
+        "rating_sigma": 5.174796960826471,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
         "id": "a53558c7-f915-4bbe-9f2d-5d71eac2eace",
@@ -31,12 +37,6 @@
         "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
         "trainer_name": "random_fire",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.40638672309882,
-        "rating_mu": 27.930777605578232,
-        "rating_sigma": 5.174796960826471,
-        "result": "loss"
       }
     },
     "2022-09-07T01:26:56.100498+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2022-09-21T03:07:50.768812+00:00": {
+      "this_amiibo": {
+        "rating": 18.984372472988827,
+        "rating_mu": 30.03834828859224,
+        "rating_sigma": 3.684658605201137,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "99cbe6a9-a9cc-4406-a09e-09f6a940cb8f",
@@ -82,15 +88,15 @@
         "trainer_id": "5dabe73b-a5b8-4de1-a221-70f871aa60d8",
         "trainer_name": "mf_dimi",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 18.984372472988827,
-        "rating_mu": 30.03834828859224,
-        "rating_sigma": 3.684658605201137,
-        "result": "loss"
       }
     },
     "2022-09-22T16:57:43.966225+00:00": {
+      "this_amiibo": {
+        "rating": 18.642236644278317,
+        "rating_mu": 29.014926684978445,
+        "rating_sigma": 3.4575633469000424,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
         "id": "b170de91-df11-4cbc-931f-87f6bfb0875a",
@@ -99,12 +105,23 @@
         "trainer_id": "333ada9d-112d-469a-8a26-320358969432",
         "trainer_name": "smashssf2_ita",
         "result": "win"
-      },
+      }
+    },
+    "2022-12-12T01:52:15.840351+00:00": {
       "this_amiibo": {
-        "rating": 18.642236644278317,
-        "rating_mu": 29.014926684978445,
-        "rating_sigma": 3.4575633469000424,
+        "rating": 17.9113406875497,
+        "rating_mu": 27.358326810386693,
+        "rating_sigma": 3.148995374278998,
         "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+        "id": "6bb7cde0-84eb-42f2-b6f1-c2ead5704d66",
+        "name": "Jolyne",
+        "rating": 24.073773430328817,
+        "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
+        "trainer_name": "soysauce881",
+        "result": "win"
       }
     }
   }

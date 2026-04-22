@@ -6,6 +6,12 @@
   "trainer_name": "Murbert_AM",
   "matches": {
     "2020-08-04T05:39:46.225874+00:00": {
+      "this_amiibo": {
+        "rating": -0.005549744566202719,
+        "rating_mu": 18.43521799406808,
+        "rating_sigma": 6.146922579544761,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
         "id": "fca3626c-7f30-4c34-9c7d-203390f669b8",
@@ -14,12 +20,6 @@
         "trainer_id": "147dbdd6-0e08-4d4a-b7eb-0146fb5735f6",
         "trainer_name": "Adam2qaz",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.005549744566202719,
-        "rating_mu": 18.43521799406808,
-        "rating_sigma": 6.146922579544761,
-        "result": "loss"
       }
     },
     "2020-08-04T11:56:46.274714+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2020-08-04T23:48:59.435094+00:00": {
+      "this_amiibo": {
+        "rating": 10.37469404478385,
+        "rating_mu": 24.41025273252538,
+        "rating_sigma": 4.67851956258051,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
         "id": "83ee15ea-4333-4c55-98ac-862d8963db25",
@@ -48,15 +54,15 @@
         "trainer_id": "046b6cbc-d2e8-4317-a680-a2e5b4b18bb0",
         "trainer_name": "prinzess16",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.37469404478385,
-        "rating_mu": 24.41025273252538,
-        "rating_sigma": 4.67851956258051,
-        "result": "loss"
       }
     },
     "2020-08-06T04:10:45.726681+00:00": {
+      "this_amiibo": {
+        "rating": 9.658812575695267,
+        "rating_mu": 22.9109100926979,
+        "rating_sigma": 4.417365839000878,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "d9b2204f-e56e-4c13-aaf1-d67b8c223973",
@@ -65,15 +71,15 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.658812575695267,
-        "rating_mu": 22.9109100926979,
-        "rating_sigma": 4.417365839000878,
-        "result": "loss"
       }
     },
     "2020-08-06T07:04:07.973094+00:00": {
+      "this_amiibo": {
+        "rating": 9.290902053680224,
+        "rating_mu": 21.071607096422834,
+        "rating_sigma": 3.926901680914203,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
         "id": "87a4b945-8a3c-4abd-be07-46a954b18b3e",
@@ -82,12 +88,6 @@
         "trainer_id": "3388d666-674d-404e-b6ea-96a6f0e4f893",
         "trainer_name": "Bodhiston",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.290902053680224,
-        "rating_mu": 21.071607096422834,
-        "rating_sigma": 3.926901680914203,
-        "result": "loss"
       }
     }
   }

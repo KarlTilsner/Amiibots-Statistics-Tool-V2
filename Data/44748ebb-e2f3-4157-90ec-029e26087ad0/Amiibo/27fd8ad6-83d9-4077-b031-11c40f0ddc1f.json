@@ -6,6 +6,12 @@
   "trainer_name": "ytygecho",
   "matches": {
     "2020-12-02T15:40:38.157839+00:00": {
+      "this_amiibo": {
+        "rating": 1.1274370546868973,
+        "rating_mu": 21.464208743795982,
+        "rating_sigma": 6.778923896369696,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
         "id": "69e54aab-9adb-4e04-bf6b-2182bb42bb26",
@@ -14,12 +20,6 @@
         "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
         "trainer_name": "BCRiparo",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1274370546868973,
-        "rating_mu": 21.464208743795982,
-        "rating_sigma": 6.778923896369696,
-        "result": "loss"
       }
     },
     "2020-12-03T00:15:32.954827+00:00": {
@@ -88,6 +88,74 @@
         "trainer_id": "d54d14d0-85bb-4485-9f85-957892e8334d",
         "trainer_name": "NinHartless",
         "result": "loss"
+      }
+    },
+    "2020-12-08T07:37:25.753084+00:00": {
+      "this_amiibo": {
+        "rating": 20.008082615430773,
+        "rating_mu": 30.413583724590925,
+        "rating_sigma": 3.4685003697200507,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "d5fa11d4-812d-41c6-bf1e-82664a2d76de",
+        "name": "Silver",
+        "rating": 26.15737624755039,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      }
+    },
+    "2020-12-09T19:02:51.092593+00:00": {
+      "this_amiibo": {
+        "rating": 20.64860447303995,
+        "rating_mu": 29.03427741598794,
+        "rating_sigma": 2.7952243143159974,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "6e3518d5-a87d-4a47-af75-3c549831d744",
+        "name": "Jibral",
+        "rating": 25.79926868303413,
+        "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
+        "trainer_name": "SteelswarmCycada",
+        "result": "win"
+      }
+    },
+    "2020-12-09T16:49:46.326425+00:00": {
+      "this_amiibo": {
+        "rating": 21.116510125327956,
+        "rating_mu": 30.059793424145525,
+        "rating_sigma": 2.98109443293919,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "93613d00-f5ef-4c12-bb0b-98839b753bd2",
+        "name": "Punishment",
+        "rating": 23.98528463050099,
+        "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+        "trainer_name": "Competitively2",
+        "result": "loss"
+      }
+    },
+    "2020-12-09T16:46:33.630238+00:00": {
+      "this_amiibo": {
+        "rating": 19.510360181391377,
+        "rating_mu": 29.085455084505924,
+        "rating_sigma": 3.1916983010381825,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "bacbe110-feb2-4c9f-9149-a33600e0524a",
+        "name": "Sun Wukong",
+        "rating": 26.41472314251421,
+        "trainer_id": "060e12dd-a8a9-4e3d-a6e1-bd34c23446db",
+        "trainer_name": "the_shade1972",
+        "result": "win"
       }
     }
   }

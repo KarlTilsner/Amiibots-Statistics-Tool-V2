@@ -6,6 +6,12 @@
   "trainer_name": "rapjm14",
   "matches": {
     "2022-03-15T05:43:58.629909+00:00": {
+      "this_amiibo": {
+        "rating": 1.2784043794626463,
+        "rating_mu": 21.859134143510737,
+        "rating_sigma": 6.860243254682697,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
         "id": "1e9365cb-b703-4fdf-b45c-a484f155f65c",
@@ -14,12 +20,6 @@
         "trainer_id": "61314a03-5052-497e-a2bf-ebeabc47be55",
         "trainer_name": "amatsoup",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2784043794626463,
-        "rating_mu": 21.859134143510737,
-        "rating_sigma": 6.860243254682697,
-        "result": "loss"
       }
     }
   }

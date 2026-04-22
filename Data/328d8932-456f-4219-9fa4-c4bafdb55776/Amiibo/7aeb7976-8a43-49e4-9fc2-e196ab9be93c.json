@@ -6,6 +6,12 @@
   "trainer_name": "raid_boss_09",
   "matches": {
     "2022-05-23T20:54:57.556542+00:00": {
+      "this_amiibo": {
+        "rating": 0.23271605439448706,
+        "rating_mu": 21.785929958651337,
+        "rating_sigma": 7.184404634752283,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "55462172-8c1d-4125-a379-4ca1dec95afc",
@@ -14,12 +20,6 @@
         "trainer_id": "29fc3e9c-b568-4dcb-b821-9f4c12354a8c",
         "trainer_name": "reiaddict",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.23271605439448706,
-        "rating_mu": 21.785929958651337,
-        "rating_sigma": 7.184404634752283,
-        "result": "loss"
       }
     }
   }

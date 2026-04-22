@@ -6,6 +6,12 @@
   "trainer_name": "EthanZombieK",
   "matches": {
     "2024-07-19T10:20:28.324741+00:00": {
+      "this_amiibo": {
+        "rating": -0.3068133529558281,
+        "rating_mu": 18.83823228387511,
+        "rating_sigma": 6.381681878943646,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "2a884a94-b7e2-4f5c-8384-6d4ff003f4cb",
@@ -14,12 +20,6 @@
         "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
         "trainer_name": "leCharade",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.3068133529558281,
-        "rating_mu": 18.83823228387511,
-        "rating_sigma": 6.381681878943646,
-        "result": "loss"
       }
     },
     "2024-07-19T20:08:46.724186+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2024-08-04T13:36:06.747655+00:00": {
+      "this_amiibo": {
+        "rating": 15.3194375896262,
+        "rating_mu": 25.838936868877745,
+        "rating_sigma": 3.506499759750515,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
         "id": "5f47afd5-568d-4fd4-9d27-82a97ffcac94",
@@ -82,12 +88,6 @@
         "trainer_id": "38b55a02-39cc-49bc-acd4-e2e001b82226",
         "trainer_name": "ghost__682",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 15.3194375896262,
-        "rating_mu": 25.838936868877745,
-        "rating_sigma": 3.506499759750515,
-        "result": "loss"
       }
     }
   }

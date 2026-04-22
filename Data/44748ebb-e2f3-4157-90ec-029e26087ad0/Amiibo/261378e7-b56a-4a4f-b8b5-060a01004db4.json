@@ -6,6 +6,12 @@
   "trainer_name": "staples___",
   "matches": {
     "2020-07-09T04:12:56.417450+00:00": {
+      "this_amiibo": {
+        "rating": 1.231188498076495,
+        "rating_mu": 21.736695734278232,
+        "rating_sigma": 6.835169078733912,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
         "id": "fecbd8f9-f9a8-47e0-9f18-a4b15d0691e4",
@@ -14,12 +20,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.231188498076495,
-        "rating_mu": 21.736695734278232,
-        "rating_sigma": 6.835169078733912,
-        "result": "loss"
       }
     }
   }

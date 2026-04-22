@@ -6,6 +6,12 @@
   "trainer_name": "AlexanderAgne",
   "matches": {
     "2022-11-08T03:29:46.366452+00:00": {
+      "this_amiibo": {
+        "rating": 0.8462966720476359,
+        "rating_mu": 20.241091220898507,
+        "rating_sigma": 6.464931516283624,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
         "id": "295176ed-4a1e-4607-8737-66921fe66627",
@@ -14,12 +20,6 @@
         "trainer_id": "b2a798a6-4874-49ce-8055-7c420c6eca5a",
         "trainer_name": "Arspamon",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8462966720476359,
-        "rating_mu": 20.241091220898507,
-        "rating_sigma": 6.464931516283624,
-        "result": "loss"
       }
     },
     "2022-11-09T02:47:56.179155+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2022-11-11T20:00:59.396186+00:00": {
+      "this_amiibo": {
+        "rating": 6.048361239196947,
+        "rating_mu": 20.530535414069668,
+        "rating_sigma": 4.82739139162424,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
         "id": "180486ff-98b6-4343-b8d8-5d4bdcce01cc",
@@ -48,15 +54,15 @@
         "trainer_id": "5f193754-19cc-4e88-a09f-cd36122614ca",
         "trainer_name": "twrecks64",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 6.048361239196947,
-        "rating_mu": 20.530535414069668,
-        "rating_sigma": 4.82739139162424,
-        "result": "loss"
       }
     },
     "2022-11-12T22:41:14.193962+00:00": {
+      "this_amiibo": {
+        "rating": 5.916489847484801,
+        "rating_mu": 18.683906432157112,
+        "rating_sigma": 4.255805528224104,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "06348bc1-8d61-4dbd-8ae3-6a4c1658a28d",
@@ -65,12 +71,6 @@
         "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
         "trainer_name": "Eliot_The_Great",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 5.916489847484801,
-        "rating_mu": 18.683906432157112,
-        "rating_sigma": 4.255805528224104,
-        "result": "loss"
       }
     }
   }

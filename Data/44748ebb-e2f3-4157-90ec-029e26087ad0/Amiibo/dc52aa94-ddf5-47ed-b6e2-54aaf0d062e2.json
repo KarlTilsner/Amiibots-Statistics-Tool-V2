@@ -6,6 +6,12 @@
   "trainer_name": "UltraDPG",
   "matches": {
     "2020-08-26T03:15:24.933712+00:00": {
+      "this_amiibo": {
+        "rating": 0.35319520451793096,
+        "rating_mu": 19.120961850147808,
+        "rating_sigma": 6.255922215209958,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
         "id": "2b8864a4-5876-4531-8758-0c36da9c51b6",
@@ -14,15 +20,15 @@
         "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
         "trainer_name": "River_Tethys",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.35319520451793096,
-        "rating_mu": 19.120961850147808,
-        "rating_sigma": 6.255922215209958,
-        "result": "loss"
       }
     },
     "2020-09-05T02:36:16.086307+00:00": {
+      "this_amiibo": {
+        "rating": 0.03935310018829341,
+        "rating_mu": 17.43070746725045,
+        "rating_sigma": 5.797118122354052,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "51b661df-4e07-47d4-ae6f-7e024cee0656",
@@ -31,15 +37,15 @@
         "trainer_id": "ab5d6369-3b31-4ef9-be85-20559f2e7264",
         "trainer_name": "pepsi_man_13",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.03935310018829341,
-        "rating_mu": 17.43070746725045,
-        "rating_sigma": 5.797118122354052,
-        "result": "loss"
       }
     },
     "2020-09-19T17:24:31.062823+00:00": {
+      "this_amiibo": {
+        "rating": 0.45390235322326866,
+        "rating_mu": 16.166356076075125,
+        "rating_sigma": 5.237484574283952,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
         "id": "f1e19e98-9429-4dab-baca-53e003efbb05",
@@ -48,15 +54,15 @@
         "trainer_id": "e8e5ceb3-094e-4dd0-821a-1be83af3c473",
         "trainer_name": "moxievegas",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.45390235322326866,
-        "rating_mu": 16.166356076075125,
-        "rating_sigma": 5.237484574283952,
-        "result": "loss"
       }
     },
     "2020-09-21T19:13:16.742206+00:00": {
+      "this_amiibo": {
+        "rating": 0.7624135248333648,
+        "rating_mu": 15.641644755299387,
+        "rating_sigma": 4.959743743488674,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "c610b97e-74b6-4a66-ae1a-8cc95ba68ad3",
@@ -65,15 +71,15 @@
         "trainer_id": "c34bcb26-07bb-4bba-98e7-b81c71cec6be",
         "trainer_name": "bluebot206",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7624135248333648,
-        "rating_mu": 15.641644755299387,
-        "rating_sigma": 4.959743743488674,
-        "result": "loss"
       }
     },
     "2020-09-23T21:05:17.913818+00:00": {
+      "this_amiibo": {
+        "rating": 1.0341239423762598,
+        "rating_mu": 15.177802011073219,
+        "rating_sigma": 4.71455935623232,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
         "id": "dce95cbf-e431-4560-a43b-124e76fa154f",
@@ -82,12 +88,6 @@
         "trainer_id": "83ad055f-644c-4c4f-8a57-7f9180b0d326",
         "trainer_name": "ZanyMarshalo",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0341239423762598,
-        "rating_mu": 15.177802011073219,
-        "rating_sigma": 4.71455935623232,
-        "result": "loss"
       }
     }
   }

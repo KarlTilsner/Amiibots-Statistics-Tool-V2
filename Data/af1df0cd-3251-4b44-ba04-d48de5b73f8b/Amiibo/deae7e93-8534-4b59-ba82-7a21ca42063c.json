@@ -23,6 +23,12 @@
       }
     },
     "2024-07-03T15:30:27.980271+00:00": {
+      "this_amiibo": {
+        "rating": 7.374578289825063,
+        "rating_mu": 24.630544936461146,
+        "rating_sigma": 5.751988882212027,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "e0d89380-d48d-4ab1-80d5-61a56bbd7aff",
@@ -31,12 +37,6 @@
         "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
         "trainer_name": "raid_boss_09",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 7.374578289825063,
-        "rating_mu": 24.630544936461146,
-        "rating_sigma": 5.751988882212027,
-        "result": "loss"
       }
     }
   }

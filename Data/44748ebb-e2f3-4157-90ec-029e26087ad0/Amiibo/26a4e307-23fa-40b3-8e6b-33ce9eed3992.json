@@ -6,6 +6,12 @@
   "trainer_name": "Sirffuzzylogik",
   "matches": {
     "2020-05-06T17:37:29.123804+00:00": {
+      "this_amiibo": {
+        "rating": 0.26052655571472627,
+        "rating_mu": 18.936834580235896,
+        "rating_sigma": 6.225436008173723,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
         "id": "d65d3570-9db2-405a-bc20-cc7fcf0410ba",
@@ -14,12 +20,6 @@
         "trainer_id": "a6686cbf-503b-4a02-94b1-a5147b9d08ed",
         "trainer_name": "Armored_Sage",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.26052655571472627,
-        "rating_mu": 18.936834580235896,
-        "rating_sigma": 6.225436008173723,
-        "result": "loss"
       }
     }
   }

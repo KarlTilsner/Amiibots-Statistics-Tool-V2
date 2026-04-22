@@ -6,6 +6,12 @@
   "trainer_name": "raid_boss_09",
   "matches": {
     "2022-07-13T09:22:18.336107+00:00": {
+      "this_amiibo": {
+        "rating": 0.1959706669184591,
+        "rating_mu": 18.939696202117062,
+        "rating_sigma": 6.247908511732867,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "53df838a-ee8e-4417-a58e-46beb6870f9c",
@@ -14,15 +20,15 @@
         "trainer_id": "b03ddf3c-0e54-4b9c-bf81-3373bed76b0a",
         "trainer_name": "neoboy239",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.1959706669184591,
-        "rating_mu": 18.939696202117062,
-        "rating_sigma": 6.247908511732867,
-        "result": "loss"
       }
     },
     "2022-09-21T01:42:59.990726+00:00": {
+      "this_amiibo": {
+        "rating": -0.045722985151325446,
+        "rating_mu": 15.359140336742849,
+        "rating_sigma": 5.134954440631391,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
         "id": "ea8d6fa6-5504-49e1-81d6-e41107424e85",
@@ -31,11 +37,22 @@
         "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
         "trainer_name": "StaplesTV_",
         "result": "win"
-      },
+      }
+    },
+    "2022-11-06T07:05:12.475115+00:00": {
       "this_amiibo": {
-        "rating": -0.045722985151325446,
-        "rating_mu": 15.359140336742849,
-        "rating_sigma": 5.134954440631391,
+        "rating": 3.8197028352534836,
+        "rating_mu": 17.33395929169463,
+        "rating_sigma": 4.504752152147049,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "00d2f6fc-3a6a-4bdf-8be1-600f744eccb7",
+        "name": "wall-e",
+        "rating": 7.658084462837747,
+        "trainer_id": "47201802-b670-487a-b2c7-1aece6bbe76c",
+        "trainer_name": "cosmoooooo",
         "result": "loss"
       }
     }

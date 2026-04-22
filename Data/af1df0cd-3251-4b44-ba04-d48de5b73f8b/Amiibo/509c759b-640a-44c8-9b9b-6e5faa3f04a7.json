@@ -6,6 +6,12 @@
   "trainer_name": "JumboSizedRichard",
   "matches": {
     "2022-08-03T14:48:43.367421+00:00": {
+      "this_amiibo": {
+        "rating": 0.7049822789269875,
+        "rating_mu": 19.884701697241677,
+        "rating_sigma": 6.393239806104897,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
         "id": "bb682742-1401-48ad-8c45-c7d0e1a81c56",
@@ -14,12 +20,6 @@
         "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
         "trainer_name": "spike2the9th",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7049822789269875,
-        "rating_mu": 19.884701697241677,
-        "rating_sigma": 6.393239806104897,
-        "result": "loss"
       }
     }
   }

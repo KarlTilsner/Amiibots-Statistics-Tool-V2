@@ -6,6 +6,12 @@
   "trainer_name": "cars__2_on_dvd",
   "matches": {
     "2022-05-16T21:31:28.101566+00:00": {
+      "this_amiibo": {
+        "rating": 16.127555463041375,
+        "rating_mu": 25.897286452321595,
+        "rating_sigma": 3.25657699642674,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
         "id": "b1ad811d-da7a-49c6-b7a5-9753ed5e2dc2",
@@ -14,12 +20,6 @@
         "trainer_id": "4345ecdf-2886-46de-b0e4-755576321316",
         "trainer_name": "mariocraft6000",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 16.127555463041375,
-        "rating_mu": 25.897286452321595,
-        "rating_sigma": 3.25657699642674,
-        "result": "loss"
       }
     },
     "2022-05-22T07:04:24.402847+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2024-06-15T17:37:26.606286+00:00": {
+      "this_amiibo": {
+        "rating": 19.33370149931769,
+        "rating_mu": 27.523369964630028,
+        "rating_sigma": 2.7298894884374456,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
         "id": "576041ee-3bf4-4aa8-a100-76416e7b42ca",
@@ -65,12 +71,6 @@
         "trainer_id": "4912f925-622e-46a3-88cf-5de49dbb407e",
         "trainer_name": "colfon_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 19.33370149931769,
-        "rating_mu": 27.523369964630028,
-        "rating_sigma": 2.7298894884374456,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "HD_ssbu",
   "matches": {
     "2022-04-25T08:31:50.495994+00:00": {
+      "this_amiibo": {
+        "rating": 0.9930160105186694,
+        "rating_mu": 20.660626925034776,
+        "rating_sigma": 6.555870304838702,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
         "id": "ac584176-c6df-464b-903a-0c9c2b4e2b96",
@@ -14,15 +20,15 @@
         "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
         "trainer_name": "forenmagra",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9930160105186694,
-        "rating_mu": 20.660626925034776,
-        "rating_sigma": 6.555870304838702,
-        "result": "loss"
       }
     },
     "2022-04-26T00:09:48.211482+00:00": {
+      "this_amiibo": {
+        "rating": 1.1611210605491529,
+        "rating_mu": 17.45790521390368,
+        "rating_sigma": 5.432261384451508,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
         "id": "e41f0e4b-a408-4cec-bb76-227d71071ee5",
@@ -31,12 +37,6 @@
         "trainer_id": "8b58def7-f142-4a59-b1d1-322b89f76a74",
         "trainer_name": "t_newcomer",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1611210605491529,
-        "rating_mu": 17.45790521390368,
-        "rating_sigma": 5.432261384451508,
-        "result": "loss"
       }
     },
     "2022-04-26T20:45:16.598348+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2022-04-27T12:22:42.232286+00:00": {
+      "this_amiibo": {
+        "rating": 8.023040684468713,
+        "rating_mu": 20.151160534763715,
+        "rating_sigma": 4.042706616765001,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
         "id": "4ff8ec58-d09d-48ff-9458-712bc6205a14",
@@ -65,12 +71,6 @@
         "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
         "trainer_name": "spike2the9th",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 8.023040684468713,
-        "rating_mu": 20.151160534763715,
-        "rating_sigma": 4.042706616765001,
-        "result": "loss"
       }
     }
   }

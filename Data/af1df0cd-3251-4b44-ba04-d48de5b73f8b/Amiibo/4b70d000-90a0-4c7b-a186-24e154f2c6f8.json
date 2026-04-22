@@ -6,6 +6,12 @@
   "trainer_name": "deante_ssbu",
   "matches": {
     "2022-10-25T07:45:37.520916+00:00": {
+      "this_amiibo": {
+        "rating": 0.3041158159387649,
+        "rating_mu": 19.442400673687953,
+        "rating_sigma": 6.379428285916396,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
         "id": "469763c6-d15a-4895-8402-87c17f81b853",
@@ -14,12 +20,6 @@
         "trainer_id": "16758325-89ed-4978-8cc3-f2615f304f84",
         "trainer_name": "tiefighter450",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.3041158159387649,
-        "rating_mu": 19.442400673687953,
-        "rating_sigma": 6.379428285916396,
-        "result": "loss"
       }
     },
     "2022-10-25T14:04:13.991366+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2022-10-29T10:48:26.443907+00:00": {
+      "this_amiibo": {
+        "rating": 13.979464530441964,
+        "rating_mu": 25.784110767014564,
+        "rating_sigma": 3.9348820788575334,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
         "id": "d624c223-a878-4990-a98f-161c5a8fb13f",
@@ -82,12 +88,6 @@
         "trainer_id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
         "trainer_name": "pinheadpatrick017",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.979464530441964,
-        "rating_mu": 25.784110767014564,
-        "rating_sigma": 3.9348820788575334,
-        "result": "loss"
       }
     }
   }

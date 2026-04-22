@@ -23,6 +23,12 @@
       }
     },
     "2020-08-01T17:30:42.916673+00:00": {
+      "this_amiibo": {
+        "rating": 10.530543922620843,
+        "rating_mu": 25.152651246206826,
+        "rating_sigma": 4.874035774528661,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
         "id": "437bad37-2fd9-4c9e-a299-5629d20af6bd",
@@ -31,15 +37,15 @@
         "trainer_id": "f0ff13ad-2d79-43ed-9754-edd686d76dfe",
         "trainer_name": "nozsmash",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.530543922620843,
-        "rating_mu": 25.152651246206826,
-        "rating_sigma": 4.874035774528661,
-        "result": "loss"
       }
     },
     "2020-08-02T12:13:36.315699+00:00": {
+      "this_amiibo": {
+        "rating": 9.916245314772278,
+        "rating_mu": 22.6201309876974,
+        "rating_sigma": 4.234628557641708,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "ac412c58-b24b-4541-89a5-c5eeaf30b477",
@@ -48,15 +54,15 @@
         "trainer_id": "00c4b536-3cdd-4252-b27e-138717ddf6d6",
         "trainer_name": "TheAgentOfChaos",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.916245314772278,
-        "rating_mu": 22.6201309876974,
-        "rating_sigma": 4.234628557641708,
-        "result": "loss"
       }
     },
     "2020-08-02T19:48:27.326101+00:00": {
+      "this_amiibo": {
+        "rating": 10.02301340311514,
+        "rating_mu": 22.14470870384044,
+        "rating_sigma": 4.040565100241767,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
         "id": "30198f3a-0220-4d9e-94b6-f10c06ac5603",
@@ -65,12 +71,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.02301340311514,
-        "rating_mu": 22.14470870384044,
-        "rating_sigma": 4.040565100241767,
-        "result": "loss"
       }
     }
   }

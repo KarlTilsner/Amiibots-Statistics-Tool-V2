@@ -6,6 +6,12 @@
   "trainer_name": "mythricity",
   "matches": {
     "2021-03-09T14:38:06.305936+00:00": {
+      "this_amiibo": {
+        "rating": 1.067632925950928,
+        "rating_mu": 21.021591936051834,
+        "rating_sigma": 6.651319670033636,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
         "id": "f6cda834-73d9-4119-b30a-2da67d6e2e57",
@@ -14,12 +20,6 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.067632925950928,
-        "rating_mu": 21.021591936051834,
-        "rating_sigma": 6.651319670033636,
-        "result": "loss"
       }
     }
   }

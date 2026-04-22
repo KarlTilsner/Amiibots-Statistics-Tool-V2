@@ -6,6 +6,12 @@
   "trainer_name": "random_fire",
   "matches": {
     "2020-12-03T03:55:59.546373+00:00": {
+      "this_amiibo": {
+        "rating": 1.0776304415245832,
+        "rating_mu": 20.992802424671538,
+        "rating_sigma": 6.638390661048986,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "edc32089-c51f-4524-ad98-d481f90798de",
@@ -14,12 +20,6 @@
         "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
         "trainer_name": "apple_beebs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0776304415245832,
-        "rating_mu": 20.992802424671538,
-        "rating_sigma": 6.638390661048986,
-        "result": "loss"
       }
     }
   }

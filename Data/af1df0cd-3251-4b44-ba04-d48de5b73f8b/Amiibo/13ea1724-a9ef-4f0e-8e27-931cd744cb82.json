@@ -6,6 +6,12 @@
   "trainer_name": "LunagradeTV",
   "matches": {
     "2022-05-03T08:23:13.094782+00:00": {
+      "this_amiibo": {
+        "rating": 0.8370194287576957,
+        "rating_mu": 21.022213851786802,
+        "rating_sigma": 6.728398141009702,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
         "id": "f9c7824c-3b53-4bfe-9611-6d509cf4b97d",
@@ -14,12 +20,6 @@
         "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
         "trainer_name": "AlexanderAgne",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8370194287576957,
-        "rating_mu": 21.022213851786802,
-        "rating_sigma": 6.728398141009702,
-        "result": "loss"
       }
     }
   }

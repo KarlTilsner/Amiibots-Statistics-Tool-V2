@@ -6,6 +6,12 @@
   "trainer_name": "Nintendo_Obsessed",
   "matches": {
     "2020-07-07T12:03:26.828063+00:00": {
+      "this_amiibo": {
+        "rating": -0.29217162592695445,
+        "rating_mu": 17.932479768910138,
+        "rating_sigma": 6.074883798279031,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
         "id": "0ee49b45-955f-4890-a93f-461a8fc942ba",
@@ -14,15 +20,15 @@
         "trainer_id": "73ed9260-7617-4ae1-a395-7e0ddb479057",
         "trainer_name": "CupNoodle",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.29217162592695445,
-        "rating_mu": 17.932479768910138,
-        "rating_sigma": 6.074883798279031,
-        "result": "loss"
       }
     },
     "2020-07-08T09:41:36.502547+00:00": {
+      "this_amiibo": {
+        "rating": -0.16520204539339822,
+        "rating_mu": 15.371241192844677,
+        "rating_sigma": 5.178814412746025,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "759031d4-4974-428a-a400-5615a80c3786",
@@ -31,12 +37,6 @@
         "trainer_id": "e107d104-7f29-4a8c-973c-d767b9d963e2",
         "trainer_name": "cryotheist",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.16520204539339822,
-        "rating_mu": 15.371241192844677,
-        "rating_sigma": 5.178814412746025,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "HD_ssbu",
   "matches": {
     "2022-02-05T17:52:59.822742+00:00": {
+      "this_amiibo": {
+        "rating": 1.3409459482864428,
+        "rating_mu": 22.33563915760634,
+        "rating_sigma": 6.998231069773299,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
         "id": "fb37a9b2-a544-4c75-9c82-3ae268222265",
@@ -14,12 +20,6 @@
         "trainer_id": "86912f99-fb6b-4c7d-af81-8700867a6f46",
         "trainer_name": "viktex",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.3409459482864428,
-        "rating_mu": 22.33563915760634,
-        "rating_sigma": 6.998231069773299,
-        "result": "loss"
       }
     },
     "2022-02-08T19:40:31.728102+00:00": {

@@ -6,6 +6,12 @@
   "trainer_name": "AlexanderAgne",
   "matches": {
     "2022-04-01T23:00:18.522291+00:00": {
+      "this_amiibo": {
+        "rating": 1.8392167264388917,
+        "rating_mu": 18.993524453892807,
+        "rating_sigma": 5.718102575817972,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
         "id": "bb682742-1401-48ad-8c45-c7d0e1a81c56",
@@ -14,15 +20,15 @@
         "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
         "trainer_name": "spike2the9th",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.8392167264388917,
-        "rating_mu": 18.993524453892807,
-        "rating_sigma": 5.718102575817972,
-        "result": "loss"
       }
     },
     "2022-04-01T17:27:09.273439+00:00": {
+      "this_amiibo": {
+        "rating": 1.2125505713521925,
+        "rating_mu": 21.464850578200203,
+        "rating_sigma": 6.750766668949337,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "c39c4e50-2f5d-4f49-b54d-abc798c5c415",
@@ -31,12 +37,6 @@
         "trainer_id": "d0bc8625-0a18-43fb-ba87-3e0d8c768b11",
         "trainer_name": "Plantasia124",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2125505713521925,
-        "rating_mu": 21.464850578200203,
-        "rating_sigma": 6.750766668949337,
-        "result": "loss"
       }
     }
   }

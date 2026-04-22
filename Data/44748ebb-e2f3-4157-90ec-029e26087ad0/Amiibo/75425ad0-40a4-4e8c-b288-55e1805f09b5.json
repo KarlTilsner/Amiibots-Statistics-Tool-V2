@@ -6,6 +6,12 @@
   "trainer_name": "the_scuttler",
   "matches": {
     "2020-08-24T19:04:02.801018+00:00": {
+      "this_amiibo": {
+        "rating": 0.4869697151168282,
+        "rating_mu": 19.4312253880586,
+        "rating_sigma": 6.31475189098059,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
         "id": "beb4e4e2-48c5-4bfb-8128-2116b449c41f",
@@ -14,15 +20,15 @@
         "trainer_id": "be65027b-c131-4159-a1d5-d7f2c0db1030",
         "trainer_name": "mattlock13",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.4869697151168282,
-        "rating_mu": 19.4312253880586,
-        "rating_sigma": 6.31475189098059,
-        "result": "loss"
       }
     },
     "2020-08-26T04:30:16.546134+00:00": {
+      "this_amiibo": {
+        "rating": 1.093302140708559,
+        "rating_mu": 18.239603139113804,
+        "rating_sigma": 5.715433666135082,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
         "id": "baf3b8fb-d06e-41f0-a375-33cb72617829",
@@ -31,12 +37,6 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.093302140708559,
-        "rating_mu": 18.239603139113804,
-        "rating_sigma": 5.715433666135082,
-        "result": "loss"
       }
     }
   }

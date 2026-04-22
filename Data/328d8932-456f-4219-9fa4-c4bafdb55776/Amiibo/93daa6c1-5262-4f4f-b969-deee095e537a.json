@@ -6,6 +6,12 @@
   "trainer_name": "raid_boss_09",
   "matches": {
     "2022-09-23T01:22:50.542102+00:00": {
+      "this_amiibo": {
+        "rating": -0.4928324344261128,
+        "rating_mu": 18.53485671930464,
+        "rating_sigma": 6.342563051243584,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
         "id": "bdadc395-00de-4c74-9fd6-485eeb8de96d",
@@ -14,11 +20,22 @@
         "trainer_id": "56626cd0-adf6-401a-ab14-ebb04a627419",
         "trainer_name": "slippyfishy3",
         "result": "win"
-      },
+      }
+    },
+    "2022-10-18T09:49:00.282047+00:00": {
       "this_amiibo": {
-        "rating": -0.4928324344261128,
-        "rating_mu": 18.53485671930464,
-        "rating_sigma": 6.342563051243584,
+        "rating": 8.606966418309803,
+        "rating_mu": 23.644874071608445,
+        "rating_sigma": 5.012635884432881,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "2c2abe4c-2988-461b-9ade-304ba9e3ac9a",
+        "name": "PokéRapper",
+        "rating": 17.259241371821076,
+        "trainer_id": "8b58def7-f142-4a59-b1d1-322b89f76a74",
+        "trainer_name": "t_newcomer",
         "result": "loss"
       }
     }

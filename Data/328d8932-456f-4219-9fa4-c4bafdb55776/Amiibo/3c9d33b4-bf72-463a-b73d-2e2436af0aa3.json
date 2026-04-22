@@ -6,6 +6,12 @@
   "trainer_name": "ironicname",
   "matches": {
     "2021-11-09T16:19:31.125599+00:00": {
+      "this_amiibo": {
+        "rating": 1.6657590462797458,
+        "rating_mu": 20.020812358220258,
+        "rating_sigma": 6.118351103980171,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "13a78973-d784-4eed-ba9b-6492bb8bfa6a",
@@ -14,15 +20,15 @@
         "trainer_id": "345febd3-6433-4ed8-addb-b0ead57bf565",
         "trainer_name": "cloudnine987",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.6657590462797458,
-        "rating_mu": 20.020812358220258,
-        "rating_sigma": 6.118351103980171,
-        "result": "loss"
       }
     },
     "2021-11-09T12:02:53.356536+00:00": {
+      "this_amiibo": {
+        "rating": 0.9920840630000605,
+        "rating_mu": 20.91054170314708,
+        "rating_sigma": 6.639485880049007,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "4f06fa27-119e-4078-9c9a-09d1a0f92afc",
@@ -31,12 +37,6 @@
         "trainer_id": "74b11748-df73-4895-a914-7f048a54ecc8",
         "trainer_name": "Dempsey342",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9920840630000605,
-        "rating_mu": 20.91054170314708,
-        "rating_sigma": 6.639485880049007,
-        "result": "loss"
       }
     }
   }

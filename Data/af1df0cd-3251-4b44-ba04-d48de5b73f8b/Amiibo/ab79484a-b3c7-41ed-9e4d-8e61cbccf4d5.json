@@ -6,6 +6,12 @@
   "trainer_name": "antisopropalope",
   "matches": {
     "2023-03-13T21:29:09.359794+00:00": {
+      "this_amiibo": {
+        "rating": -0.7899217551096172,
+        "rating_mu": 20.79452709502615,
+        "rating_sigma": 7.194816283378589,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "14258ac1-8825-4288-a45e-acb7b3fa5ced",
@@ -14,12 +20,6 @@
         "trainer_id": "714644dd-f017-4e27-ba29-bcd0c56229af",
         "trainer_name": "pikavolt_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.7899217551096172,
-        "rating_mu": 20.79452709502615,
-        "rating_sigma": 7.194816283378589,
-        "result": "loss"
       }
     }
   }

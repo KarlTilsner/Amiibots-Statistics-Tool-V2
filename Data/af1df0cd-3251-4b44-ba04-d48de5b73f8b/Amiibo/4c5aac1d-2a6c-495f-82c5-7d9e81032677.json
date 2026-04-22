@@ -57,6 +57,12 @@
       }
     },
     "2023-12-12T13:40:53.294733+00:00": {
+      "this_amiibo": {
+        "rating": 17.463314787120478,
+        "rating_mu": 30.610957179055255,
+        "rating_sigma": 4.382547463978259,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
         "id": "a2d1f845-008a-4706-b211-6447490c2403",
@@ -65,15 +71,15 @@
         "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
         "trainer_name": "joah_22",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 17.463314787120478,
-        "rating_mu": 30.610957179055255,
-        "rating_sigma": 4.382547463978259,
-        "result": "loss"
       }
     },
     "2023-12-13T00:32:32.173276+00:00": {
+      "this_amiibo": {
+        "rating": 16.049687428014185,
+        "rating_mu": 26.617656455144772,
+        "rating_sigma": 3.5226563423768624,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
         "id": "bf27881b-fe15-48c2-a95c-e80c17044939",
@@ -82,15 +88,15 @@
         "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
         "trainer_name": "joah_22",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 16.049687428014185,
-        "rating_mu": 26.617656455144772,
-        "rating_sigma": 3.5226563423768624,
-        "result": "loss"
       }
     },
     "2023-12-12T23:14:53.234010+00:00": {
+      "this_amiibo": {
+        "rating": 16.29408080774014,
+        "rating_mu": 27.65384269048582,
+        "rating_sigma": 3.7865872942485597,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "0c9d79a2-e8e6-4fce-9f9a-05674b54e0dc",
@@ -99,15 +105,15 @@
         "trainer_id": "5f193754-19cc-4e88-a09f-cd36122614ca",
         "trainer_name": "unoptimalprime",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 16.29408080774014,
-        "rating_mu": 27.65384269048582,
-        "rating_sigma": 3.7865872942485597,
-        "result": "loss"
       }
     },
     "2023-12-14T09:31:47.933877+00:00": {
+      "this_amiibo": {
+        "rating": 15.922033504866945,
+        "rating_mu": 25.901574735206275,
+        "rating_sigma": 3.3265137434464433,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
         "id": "bf27881b-fe15-48c2-a95c-e80c17044939",
@@ -116,12 +122,6 @@
         "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
         "trainer_name": "joah_22",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 15.922033504866945,
-        "rating_mu": 25.901574735206275,
-        "rating_sigma": 3.3265137434464433,
-        "result": "loss"
       }
     }
   }

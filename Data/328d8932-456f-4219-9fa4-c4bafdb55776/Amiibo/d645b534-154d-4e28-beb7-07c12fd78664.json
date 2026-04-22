@@ -6,6 +6,12 @@
   "trainer_name": "lugibalugi",
   "matches": {
     "2022-09-09T18:54:53.704470+00:00": {
+      "this_amiibo": {
+        "rating": 0.8588210816529092,
+        "rating_mu": 20.375697901818615,
+        "rating_sigma": 6.505625606721902,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
         "id": "f678fd1e-2919-476f-a7f5-966b1fcd9e0e",
@@ -14,12 +20,6 @@
         "trainer_id": "0e36fcd2-b145-41ab-8b59-5eb5015fbc62",
         "trainer_name": "agamer995",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8588210816529092,
-        "rating_mu": 20.375697901818615,
-        "rating_sigma": 6.505625606721902,
-        "result": "loss"
       }
     }
   }

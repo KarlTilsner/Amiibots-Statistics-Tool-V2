@@ -6,6 +6,12 @@
   "trainer_name": "Murbert_AM",
   "matches": {
     "2020-12-03T16:31:35.135754+00:00": {
+      "this_amiibo": {
+        "rating": 0.7906366468047317,
+        "rating_mu": 20.105106610866333,
+        "rating_sigma": 6.4381566546872,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "c5baeeb5-e024-4abf-8073-cf57e1705558",
@@ -14,12 +20,6 @@
         "trainer_id": "debadc20-b04a-4773-8928-76d35fbb4726",
         "trainer_name": "Eliwood_of_Pherae",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7906366468047317,
-        "rating_mu": 20.105106610866333,
-        "rating_sigma": 6.4381566546872,
-        "result": "loss"
       }
     }
   }

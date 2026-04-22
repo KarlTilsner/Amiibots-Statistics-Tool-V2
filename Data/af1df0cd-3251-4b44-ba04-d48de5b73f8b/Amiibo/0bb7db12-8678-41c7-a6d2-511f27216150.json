@@ -6,6 +6,12 @@
   "trainer_name": "beta_dude",
   "matches": {
     "2024-09-17T11:24:54.388697+00:00": {
+      "this_amiibo": {
+        "rating": 1.796608947237953,
+        "rating_mu": 18.91065827759644,
+        "rating_sigma": 5.704683110119496,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "1fd6ca76-b8b7-4547-8db9-060e785066d2",
@@ -14,15 +20,15 @@
         "trainer_id": "8a5d445a-c5ef-48a8-9428-41276f678e9d",
         "trainer_name": "soin1324",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.796608947237953,
-        "rating_mu": 18.91065827759644,
-        "rating_sigma": 5.704683110119496,
-        "result": "loss"
       }
     },
     "2024-09-17T03:21:26.283684+00:00": {
+      "this_amiibo": {
+        "rating": 1.172433703360472,
+        "rating_mu": 21.34493664348789,
+        "rating_sigma": 6.72416764670914,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "0e62ef05-fbcd-4d90-9dd6-49554cd1f47d",
@@ -31,12 +37,6 @@
         "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
         "trainer_name": "beta_dude",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.172433703360472,
-        "rating_mu": 21.34493664348789,
-        "rating_sigma": 6.72416764670914,
-        "result": "loss"
       }
     }
   }

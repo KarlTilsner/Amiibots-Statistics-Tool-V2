@@ -57,6 +57,12 @@
       }
     },
     "2022-09-19T10:26:58.968916+00:00": {
+      "this_amiibo": {
+        "rating": 18.89484550316286,
+        "rating_mu": 31.672705043410783,
+        "rating_sigma": 4.259286513415975,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "4d91c55c-ef83-438f-946f-a280259908f8",
@@ -65,15 +71,15 @@
         "trainer_id": "6a92a875-ad10-4927-9ac9-43f4cea3e878",
         "trainer_name": "ArkansasAFC",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 18.89484550316286,
-        "rating_mu": 31.672705043410783,
-        "rating_sigma": 4.259286513415975,
-        "result": "loss"
       }
     },
     "2022-09-20T00:59:12.228418+00:00": {
+      "this_amiibo": {
+        "rating": 20.588646590947484,
+        "rating_mu": 31.209247527521693,
+        "rating_sigma": 3.5402003121914025,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
         "id": "a244d7d2-8bdc-4099-b925-c054357528fc",
@@ -82,12 +88,6 @@
         "trainer_id": "b3c93a1e-0aee-4a76-a0ed-36bc7258e629",
         "trainer_name": "Bananika7",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 20.588646590947484,
-        "rating_mu": 31.209247527521693,
-        "rating_sigma": 3.5402003121914025,
-        "result": "loss"
       }
     }
   }

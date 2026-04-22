@@ -6,6 +6,12 @@
   "trainer_name": "staples___",
   "matches": {
     "2020-06-29T15:35:22.981972+00:00": {
+      "this_amiibo": {
+        "rating": 0.04758103078501463,
+        "rating_mu": 18.680772364420978,
+        "rating_sigma": 6.211063777878654,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
         "id": "8f62c30c-df03-404e-937f-cd639b7d37a6",
@@ -14,12 +20,6 @@
         "trainer_id": "8576530a-2f15-4cd6-bcb5-d9bf076ea24c",
         "trainer_name": "bladethecheetah",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.04758103078501463,
-        "rating_mu": 18.680772364420978,
-        "rating_sigma": 6.211063777878654,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "marioandfriends1",
   "matches": {
     "2022-11-13T17:38:25.392887+00:00": {
+      "this_amiibo": {
+        "rating": 0.15721577712096746,
+        "rating_mu": 19.558422658346768,
+        "rating_sigma": 6.4670689604086,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "7fd7d477-0fa6-403b-b44b-fe3d350bbc6a",
@@ -14,12 +20,6 @@
         "trainer_id": "eb736d83-f795-4696-9376-a951bf71ebb0",
         "trainer_name": "asapboss47517",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.15721577712096746,
-        "rating_mu": 19.558422658346768,
-        "rating_sigma": 6.4670689604086,
-        "result": "loss"
       }
     }
   }

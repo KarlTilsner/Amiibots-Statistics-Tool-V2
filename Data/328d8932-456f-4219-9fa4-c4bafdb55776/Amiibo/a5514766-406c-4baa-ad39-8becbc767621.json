@@ -23,6 +23,12 @@
       }
     },
     "2022-04-27T15:29:47.494280+00:00": {
+      "this_amiibo": {
+        "rating": 12.217184696415668,
+        "rating_mu": 27.40225920843757,
+        "rating_sigma": 5.0616915040073005,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "c5b64070-f8c0-4803-bd6c-c7f75b054cb0",
@@ -31,12 +37,74 @@
         "trainer_id": "d0bc8625-0a18-43fb-ba87-3e0d8c768b11",
         "trainer_name": "Plantasia124",
         "result": "win"
-      },
+      }
+    },
+    "2022-12-27T17:17:36.943205+00:00": {
       "this_amiibo": {
-        "rating": 12.217184696415668,
-        "rating_mu": 27.40225920843757,
-        "rating_sigma": 5.0616915040073005,
+        "rating": 15.810459344319579,
+        "rating_mu": 29.292752104990637,
+        "rating_sigma": 4.494097586890352,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "c0979ae7-7a15-4cb5-b0ac-21665d827e9c",
+        "name": "ground mac",
+        "rating": 16.2141888699851,
+        "trainer_id": "714644dd-f017-4e27-ba29-bcd0c56229af",
+        "trainer_name": "pikavolt_",
         "result": "loss"
+      }
+    },
+    "2022-12-29T11:10:11.228157+00:00": {
+      "this_amiibo": {
+        "rating": 19.38218755968618,
+        "rating_mu": 31.284109738968763,
+        "rating_sigma": 3.967307393094194,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "b6ff8aca-4fdb-4470-b333-74dffc68a28b",
+        "name": "Prospit",
+        "rating": 24.956630226767064,
+        "trainer_id": "95c09948-6452-4ce4-b27f-6c73c294c610",
+        "trainer_name": "2Snowblind",
+        "result": "loss"
+      }
+    },
+    "2022-12-30T08:32:43.639348+00:00": {
+      "this_amiibo": {
+        "rating": 18.79302071502231,
+        "rating_mu": 29.440459304900806,
+        "rating_sigma": 3.5491461966261664,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "b5b7bbf0-c9ee-49c6-b775-1c704af903d1",
+        "name": "Red Mage",
+        "rating": 28.46548941835259,
+        "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
+        "trainer_name": "Murbert_AM",
+        "result": "win"
+      }
+    },
+    "2023-01-03T13:46:39.085279+00:00": {
+      "this_amiibo": {
+        "rating": 18.317802768313307,
+        "rating_mu": 28.0617495116262,
+        "rating_sigma": 3.2479822477709637,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "0a56bc20-d69a-4456-b080-c841ff85ccee",
+        "name": "Red",
+        "rating": 27.193916709172704,
+        "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
+        "trainer_name": "Pi_Boy_314",
+        "result": "win"
       }
     }
   }

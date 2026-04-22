@@ -6,6 +6,12 @@
   "trainer_name": "esteban0362",
   "matches": {
     "2020-10-25T22:26:40.964556+00:00": {
+      "this_amiibo": {
+        "rating": -0.19797404064685153,
+        "rating_mu": 18.177172409193787,
+        "rating_sigma": 6.125048816613546,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
         "id": "1c0e54c7-8858-4aca-bab3-ac2a948b4f98",
@@ -14,15 +20,15 @@
         "trainer_id": "e09adf1e-56b7-4943-891c-141f18d440fc",
         "trainer_name": "gold_dxj",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.19797404064685153,
-        "rating_mu": 18.177172409193787,
-        "rating_sigma": 6.125048816613546,
-        "result": "loss"
       }
     },
     "2020-10-26T12:30:39.391299+00:00": {
+      "this_amiibo": {
+        "rating": 0.21822660769523594,
+        "rating_mu": 16.128903948564016,
+        "rating_sigma": 5.303559113622927,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
         "id": "7cd279f2-2e4e-40f7-a5c3-4f5c28848d5f",
@@ -31,15 +37,15 @@
         "trainer_id": "ab5d6369-3b31-4ef9-be85-20559f2e7264",
         "trainer_name": "pepsi_man_13",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.21822660769523594,
-        "rating_mu": 16.128903948564016,
-        "rating_sigma": 5.303559113622927,
-        "result": "loss"
       }
     },
     "2020-10-26T18:22:56.462471+00:00": {
+      "this_amiibo": {
+        "rating": 0.5044204251604452,
+        "rating_mu": 15.719136295641588,
+        "rating_sigma": 5.071571956827047,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
         "id": "1a76fa5e-e35f-4db1-bc52-babfb6c5e1ee",
@@ -48,12 +54,6 @@
         "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
         "trainer_name": "Murbert_AM",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5044204251604452,
-        "rating_mu": 15.719136295641588,
-        "rating_sigma": 5.071571956827047,
-        "result": "loss"
       }
     },
     "2020-10-27T01:33:42.792838+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2020-10-27T14:14:52.456832+00:00": {
+      "this_amiibo": {
+        "rating": 10.411116044223645,
+        "rating_mu": 21.920553523495553,
+        "rating_sigma": 3.8364791597573027,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "51b661df-4e07-47d4-ae6f-7e024cee0656",
@@ -82,12 +88,6 @@
         "trainer_id": "ab5d6369-3b31-4ef9-be85-20559f2e7264",
         "trainer_name": "pepsi_man_13",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.411116044223645,
-        "rating_mu": 21.920553523495553,
-        "rating_sigma": 3.8364791597573027,
-        "result": "loss"
       }
     }
   }

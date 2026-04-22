@@ -40,6 +40,12 @@
       }
     },
     "2020-10-30T10:02:44.993660+00:00": {
+      "this_amiibo": {
+        "rating": 15.552857382343035,
+        "rating_mu": 28.408596219071352,
+        "rating_sigma": 4.285246278909439,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
         "id": "dce95cbf-e431-4560-a43b-124e76fa154f",
@@ -48,12 +54,6 @@
         "trainer_id": "83ad055f-644c-4c4f-8a57-7f9180b0d326",
         "trainer_name": "ZanyMarshalo",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 15.552857382343035,
-        "rating_mu": 28.408596219071352,
-        "rating_sigma": 4.285246278909439,
-        "result": "loss"
       }
     }
   }

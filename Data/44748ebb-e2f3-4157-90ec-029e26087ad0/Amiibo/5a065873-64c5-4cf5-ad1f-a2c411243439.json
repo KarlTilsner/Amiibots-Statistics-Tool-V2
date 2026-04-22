@@ -6,6 +6,12 @@
   "trainer_name": "qscxz512",
   "matches": {
     "2020-11-02T14:58:16.772368+00:00": {
+      "this_amiibo": {
+        "rating": 1.1473307007340914,
+        "rating_mu": 23.45820639253691,
+        "rating_sigma": 7.436958563934272,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
         "id": "7dbe9f61-6c42-4014-8385-47b95e14d396",
@@ -14,12 +20,6 @@
         "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
         "trainer_name": "nozzly",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1473307007340914,
-        "rating_mu": 23.45820639253691,
-        "rating_sigma": 7.436958563934272,
-        "result": "loss"
       }
     }
   }

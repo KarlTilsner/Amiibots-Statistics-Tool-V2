@@ -6,6 +6,12 @@
   "trainer_name": "ShiiroNekowo",
   "matches": {
     "2023-01-12T01:58:31.772906+00:00": {
+      "this_amiibo": {
+        "rating": 0.8519155163000711,
+        "rating_mu": 20.328354407184097,
+        "rating_sigma": 6.492146296961343,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "5196dc78-7cbc-44dc-81b9-6d193942d295",
@@ -14,12 +20,6 @@
         "trainer_id": "dd0f3778-cdcb-4c39-9401-8c35d4116745",
         "trainer_name": "ZEgg87",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8519155163000711,
-        "rating_mu": 20.328354407184097,
-        "rating_sigma": 6.492146296961343,
-        "result": "loss"
       }
     }
   }

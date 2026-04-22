@@ -6,6 +6,12 @@
   "trainer_name": "schmorchid",
   "matches": {
     "2021-11-17T16:19:47.656633+00:00": {
+      "this_amiibo": {
+        "rating": 0.7725675600256352,
+        "rating_mu": 21.5417731706766,
+        "rating_sigma": 6.923068536883655,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "7b5f8527-3cb2-4a57-bc1a-f610d047abbd",
@@ -14,15 +20,15 @@
         "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
         "trainer_name": "Zoom__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7725675600256352,
-        "rating_mu": 21.5417731706766,
-        "rating_sigma": 6.923068536883655,
-        "result": "loss"
       }
     },
     "2021-11-18T01:38:15.069134+00:00": {
+      "this_amiibo": {
+        "rating": 1.5102341224331894,
+        "rating_mu": 20.36444603290405,
+        "rating_sigma": 6.284737303490286,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
         "id": "a1714ebd-dd78-4bb5-b875-67343c932431",
@@ -31,15 +37,15 @@
         "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
         "trainer_name": "fammydamammy",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.5102341224331894,
-        "rating_mu": 20.36444603290405,
-        "rating_sigma": 6.284737303490286,
-        "result": "loss"
       }
     },
     "2021-11-18T15:05:09.278568+00:00": {
+      "this_amiibo": {
+        "rating": 2.1157948862239166,
+        "rating_mu": 19.27061800098805,
+        "rating_sigma": 5.718274371588045,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
         "id": "95427e02-4250-49ad-a16b-d0fbff5cd8ad",
@@ -48,15 +54,15 @@
         "trainer_id": "ab1f76a6-17bb-4125-aafe-261bbce07ff1",
         "trainer_name": "ScuttIer",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 2.1157948862239166,
-        "rating_mu": 19.27061800098805,
-        "rating_sigma": 5.718274371588045,
-        "result": "loss"
       }
     },
     "2021-11-18T18:33:14.165441+00:00": {
+      "this_amiibo": {
+        "rating": 2.483523038393958,
+        "rating_mu": 18.846134529329955,
+        "rating_sigma": 5.454203830311999,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "13a78973-d784-4eed-ba9b-6492bb8bfa6a",
@@ -65,12 +71,6 @@
         "trainer_id": "345febd3-6433-4ed8-addb-b0ead57bf565",
         "trainer_name": "cloudnine987",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 2.483523038393958,
-        "rating_mu": 18.846134529329955,
-        "rating_sigma": 5.454203830311999,
-        "result": "loss"
       }
     }
   }

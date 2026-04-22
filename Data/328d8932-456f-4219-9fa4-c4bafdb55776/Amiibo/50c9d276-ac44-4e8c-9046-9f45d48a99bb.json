@@ -23,6 +23,12 @@
       }
     },
     "2022-09-12T23:03:03.795268+00:00": {
+      "this_amiibo": {
+        "rating": 12.622392953307862,
+        "rating_mu": 27.674438495331575,
+        "rating_sigma": 5.017348514007904,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
         "id": "a6b8d320-e1aa-4b36-b208-0711f523b1e5",
@@ -31,15 +37,15 @@
         "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
         "trainer_name": "spike2the9th",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.622392953307862,
-        "rating_mu": 27.674438495331575,
-        "rating_sigma": 5.017348514007904,
-        "result": "loss"
       }
     },
     "2022-09-20T19:27:13.504372+00:00": {
+      "this_amiibo": {
+        "rating": 12.235355447905803,
+        "rating_mu": 25.238607506235702,
+        "rating_sigma": 4.334417352776633,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
         "id": "7aa6b520-f4e7-417d-9fb9-798da9544a4a",
@@ -48,12 +54,6 @@
         "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
         "trainer_name": "SG_Bubs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.235355447905803,
-        "rating_mu": 25.238607506235702,
-        "rating_sigma": 4.334417352776633,
-        "result": "loss"
       }
     },
     "2022-09-21T02:44:40.761732+00:00": {
@@ -91,6 +91,12 @@
       }
     },
     "2022-10-03T07:52:24.351127+00:00": {
+      "this_amiibo": {
+        "rating": 16.477910943394484,
+        "rating_mu": 26.54991740892055,
+        "rating_sigma": 3.357335488508689,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "31e4055e-3f48-45f4-8e9e-7a6f4cbacc96",
@@ -99,12 +105,6 @@
         "trainer_id": "76092551-3aba-4182-923a-848b2d279e4c",
         "trainer_name": "bleachyboi_426",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 16.477910943394484,
-        "rating_mu": 26.54991740892055,
-        "rating_sigma": 3.357335488508689,
-        "result": "loss"
       }
     },
     "2022-10-04T11:50:22.316693+00:00": {
@@ -125,6 +125,12 @@
       }
     },
     "2022-10-04T18:45:36.337135+00:00": {
+      "this_amiibo": {
+        "rating": 18.165425816069934,
+        "rating_mu": 27.042284930077493,
+        "rating_sigma": 2.9589530380025195,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
         "id": "ecf5b2f3-a8cc-41e4-90e7-7d87c1fbe821",
@@ -133,12 +139,57 @@
         "trainer_id": "a783d150-bd51-4b0c-9379-b32e55643dac",
         "trainer_name": "iguyw",
         "result": "win"
-      },
+      }
+    },
+    "2022-10-07T02:49:59.202885+00:00": {
       "this_amiibo": {
-        "rating": 18.165425816069934,
-        "rating_mu": 27.042284930077493,
-        "rating_sigma": 2.9589530380025195,
+        "rating": 17.434858039752164,
+        "rating_mu": 25.679752004764374,
+        "rating_sigma": 2.7482979883374026,
         "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "4d086b18-13d4-446e-94f2-07aa1d067361",
+        "name": "EnemySquid",
+        "rating": 21.213378610210373,
+        "trainer_id": "6a92a875-ad10-4927-9ac9-43f4cea3e878",
+        "trainer_name": "ArkansasAFC",
+        "result": "win"
+      }
+    },
+    "2022-10-08T13:19:04.413094+00:00": {
+      "this_amiibo": {
+        "rating": 17.008859051062352,
+        "rating_mu": 24.966934249318733,
+        "rating_sigma": 2.6526917327521264,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "98c0feab-f4d9-42ab-869c-7689194e5ac0",
+        "name": "Doomgal",
+        "rating": 14.918613822986693,
+        "trainer_id": "e6d5b0bb-df7f-4eb4-a716-bb8f7b66858e",
+        "trainer_name": "zmantheoverpowered",
+        "result": "win"
+      }
+    },
+    "2022-10-09T10:35:51.743075+00:00": {
+      "this_amiibo": {
+        "rating": 16.779718659404526,
+        "rating_mu": 24.389797954286603,
+        "rating_sigma": 2.5366930982940255,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "23b5dd4e-774a-41f0-87fd-ad0576648c31",
+        "name": "b",
+        "rating": 24.603944803169398,
+        "trainer_id": "ee1d9a05-9070-4b4f-ad6c-768064c23993",
+        "trainer_name": "psythe_",
+        "result": "win"
       }
     }
   }

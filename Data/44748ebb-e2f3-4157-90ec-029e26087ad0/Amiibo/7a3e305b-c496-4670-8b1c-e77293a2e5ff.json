@@ -6,6 +6,12 @@
   "trainer_name": "redshinypanda",
   "matches": {
     "2020-10-12T06:36:27.684642+00:00": {
+      "this_amiibo": {
+        "rating": 0.8588130024630978,
+        "rating_mu": 21.51399141682716,
+        "rating_sigma": 6.885059471454688,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
         "id": "0a8185a0-1406-471a-967c-2f2af0aa00d5",
@@ -14,15 +20,15 @@
         "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
         "trainer_name": "forenmagra",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8588130024630978,
-        "rating_mu": 21.51399141682716,
-        "rating_sigma": 6.885059471454688,
-        "result": "loss"
       }
     },
     "2020-10-12T17:04:51.579675+00:00": {
+      "this_amiibo": {
+        "rating": 1.5391440663366573,
+        "rating_mu": 20.249698215798272,
+        "rating_sigma": 6.236851383153872,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
         "id": "6215c8ee-feef-4a20-b671-134ea3c6b2ee",
@@ -31,12 +37,6 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.5391440663366573,
-        "rating_mu": 20.249698215798272,
-        "rating_sigma": 6.236851383153872,
-        "result": "loss"
       }
     }
   }

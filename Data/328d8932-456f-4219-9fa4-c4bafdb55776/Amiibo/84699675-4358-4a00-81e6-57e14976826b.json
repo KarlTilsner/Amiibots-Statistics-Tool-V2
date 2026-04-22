@@ -6,6 +6,12 @@
   "trainer_name": "Pixeluchiha",
   "matches": {
     "2022-04-12T06:38:30.053417+00:00": {
+      "this_amiibo": {
+        "rating": 1.1914244102896845,
+        "rating_mu": 21.342774919551086,
+        "rating_sigma": 6.717116836420467,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "7c958e60-ac80-42cb-ad64-2aa87db0f514",
@@ -14,12 +20,6 @@
         "trainer_id": "71eb3456-8f8a-4723-879b-57439190b086",
         "trainer_name": "snevy_ssb",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1914244102896845,
-        "rating_mu": 21.342774919551086,
-        "rating_sigma": 6.717116836420467,
-        "result": "loss"
       }
     },
     "2022-04-17T05:26:24.968441+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2022-04-25T12:38:41.451903+00:00": {
+      "this_amiibo": {
+        "rating": 7.376814456877533,
+        "rating_mu": 21.952033456323225,
+        "rating_sigma": 4.858406333148564,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "6486cc6c-7698-4a46-bc62-c7f9932e90d7",
@@ -48,15 +54,15 @@
         "trainer_id": "599b16e4-90a5-41b2-ad41-917b1e5b5548",
         "trainer_name": "Pixeluchiha",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 7.376814456877533,
-        "rating_mu": 21.952033456323225,
-        "rating_sigma": 4.858406333148564,
-        "result": "loss"
       }
     },
     "2022-04-26T21:43:53.304104+00:00": {
+      "this_amiibo": {
+        "rating": 6.951767558231472,
+        "rating_mu": 19.79707772490458,
+        "rating_sigma": 4.281770055557702,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
         "id": "df8acea9-e546-4c02-8fd8-cada7cddc5f8",
@@ -65,15 +71,15 @@
         "trainer_id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
         "trainer_name": "pinheadpatrick017",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 6.951767558231472,
-        "rating_mu": 19.79707772490458,
-        "rating_sigma": 4.281770055557702,
-        "result": "loss"
       }
     },
     "2022-04-30T01:39:39.049817+00:00": {
+      "this_amiibo": {
+        "rating": 6.769766186577911,
+        "rating_mu": 18.462075650829927,
+        "rating_sigma": 3.897436488084005,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
         "id": "8e83977d-e1d7-4aab-9a48-614427ea904f",
@@ -82,12 +88,6 @@
         "trainer_id": "1b2f2208-154e-44fd-a520-f5a043b3e7ba",
         "trainer_name": "rufflestheinklingplayer",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 6.769766186577911,
-        "rating_mu": 18.462075650829927,
-        "rating_sigma": 3.897436488084005,
-        "result": "loss"
       }
     },
     "2022-07-16T13:56:02.693367+00:00": {
@@ -159,6 +159,12 @@
       }
     },
     "2022-10-03T17:35:00.250178+00:00": {
+      "this_amiibo": {
+        "rating": 13.978065078659313,
+        "rating_mu": 22.726783205232802,
+        "rating_sigma": 2.9162393755244964,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "bd95513d-e326-4c2f-b797-374a60573c35",
@@ -167,11 +173,22 @@
         "trainer_id": "00f2b5fe-c43c-45ec-a979-430486c2ee21",
         "trainer_name": "sheepguy1234",
         "result": "win"
-      },
+      }
+    },
+    "2022-12-28T07:11:26.944483+00:00": {
       "this_amiibo": {
-        "rating": 13.978065078659313,
-        "rating_mu": 22.726783205232802,
-        "rating_sigma": 2.9162393755244964,
+        "rating": 15.262161965362958,
+        "rating_mu": 23.522723096211326,
+        "rating_sigma": 2.753520376949456,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "fb560975-d5ca-4353-82d8-e84efc791693",
+        "name": "GoneFishin",
+        "rating": 17.612084673862523,
+        "trainer_id": "29bd67bb-cbb9-454f-8183-4c526115419b",
+        "trainer_name": "firefang5",
         "result": "loss"
       }
     }

@@ -6,6 +6,12 @@
   "trainer_name": "ThouDetect1ve",
   "matches": {
     "2022-08-15T14:46:49.284585+00:00": {
+      "this_amiibo": {
+        "rating": 0.41102101338115204,
+        "rating_mu": 19.238662434308655,
+        "rating_sigma": 6.275880473642501,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
         "id": "ecb56e1d-74e6-4b9e-b5ca-e3e0ad06e60e",
@@ -14,11 +20,22 @@
         "trainer_id": "95236275-7bae-4eec-b93f-fd9e31dc1d27",
         "trainer_name": "gavgameplay9078",
         "result": "win"
-      },
+      }
+    },
+    "2022-11-04T00:28:22.670423+00:00": {
       "this_amiibo": {
-        "rating": 0.41102101338115204,
-        "rating_mu": 19.238662434308655,
-        "rating_sigma": 6.275880473642501,
+        "rating": 9.035199497527392,
+        "rating_mu": 24.250311334851798,
+        "rating_sigma": 5.071703945774802,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "c003691d-5113-42a7-af16-f4e0ccef19d6",
+        "name": "Dair devil",
+        "rating": 14.041901307729049,
+        "trainer_id": "08391206-9665-4d1a-80ca-633bf46c7587",
+        "trainer_name": "itzblue22",
         "result": "loss"
       }
     }

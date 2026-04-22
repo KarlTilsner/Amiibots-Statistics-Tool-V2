@@ -6,6 +6,12 @@
   "trainer_name": "wyvernfalcon",
   "matches": {
     "2022-09-20T17:28:07.974824+00:00": {
+      "this_amiibo": {
+        "rating": 1.1170719178645037,
+        "rating_mu": 21.521799757012342,
+        "rating_sigma": 6.801575946382613,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "5e874127-dd29-4f34-a7a2-6b88ac95cce5",
@@ -14,12 +20,6 @@
         "trainer_id": "ae0ceeda-bf3e-4c45-825e-ccb95984d736",
         "trainer_name": "shark_dude111",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1170719178645037,
-        "rating_mu": 21.521799757012342,
-        "rating_sigma": 6.801575946382613,
-        "result": "loss"
       }
     }
   }

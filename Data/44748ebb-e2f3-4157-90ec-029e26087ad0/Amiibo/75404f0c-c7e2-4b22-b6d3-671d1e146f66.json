@@ -6,6 +6,12 @@
   "trainer_name": "random_fire",
   "matches": {
     "2020-12-02T20:30:41.295696+00:00": {
+      "this_amiibo": {
+        "rating": 0.3284377772647069,
+        "rating_mu": 19.074413226467634,
+        "rating_sigma": 6.248658483067643,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
         "id": "9ec75c88-c16f-4eed-bb65-2413ec0c9eb3",
@@ -14,12 +20,6 @@
         "trainer_id": "b079e5eb-cecb-48d2-a350-091fc4698bd3",
         "trainer_name": "kangasmom",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.3284377772647069,
-        "rating_mu": 19.074413226467634,
-        "rating_sigma": 6.248658483067643,
-        "result": "loss"
       }
     }
   }

@@ -23,6 +23,12 @@
       }
     },
     "2022-12-20T12:14:35.296350+00:00": {
+      "this_amiibo": {
+        "rating": 11.45712950264584,
+        "rating_mu": 27.367545245460924,
+        "rating_sigma": 5.303471914271695,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "9a2a2661-9290-4cdc-836c-3acd11b2e05c",
@@ -31,12 +37,6 @@
         "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
         "trainer_name": "HD_ssbu",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.45712950264584,
-        "rating_mu": 27.367545245460924,
-        "rating_sigma": 5.303471914271695,
-        "result": "loss"
       }
     }
   }

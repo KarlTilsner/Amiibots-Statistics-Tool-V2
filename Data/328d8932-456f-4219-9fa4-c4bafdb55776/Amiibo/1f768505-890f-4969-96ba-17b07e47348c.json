@@ -57,6 +57,12 @@
       }
     },
     "2022-04-29T03:51:57.337619+00:00": {
+      "this_amiibo": {
+        "rating": 19.62207913675597,
+        "rating_mu": 33.204043151941065,
+        "rating_sigma": 4.527321338395031,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "e7eea797-0cb5-417e-b225-d8cb4a70a3cd",
@@ -65,15 +71,15 @@
         "trainer_id": "5cd62b17-2e34-4b07-b0f8-8b7c2278fedb",
         "trainer_name": "shfsh19",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 19.62207913675597,
-        "rating_mu": 33.204043151941065,
-        "rating_sigma": 4.527321338395031,
-        "result": "loss"
       }
     },
     "2022-04-29T10:54:18.363064+00:00": {
+      "this_amiibo": {
+        "rating": 18.81436360070146,
+        "rating_mu": 30.595012457737464,
+        "rating_sigma": 3.926882952345335,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
         "id": "9684afc5-b191-48ce-b5c5-6226a5f57be8",
@@ -82,12 +88,6 @@
         "trainer_id": "c39619d0-5e06-4b23-954d-935174750a59",
         "trainer_name": "tapig6002",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 18.81436360070146,
-        "rating_mu": 30.595012457737464,
-        "rating_sigma": 3.926882952345335,
-        "result": "loss"
       }
     }
   }

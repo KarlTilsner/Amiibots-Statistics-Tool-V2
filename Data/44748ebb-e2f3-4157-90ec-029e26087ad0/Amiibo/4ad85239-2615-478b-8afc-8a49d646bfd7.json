@@ -6,6 +6,12 @@
   "trainer_name": "leeya310",
   "matches": {
     "2020-11-09T14:57:01.655462+00:00": {
+      "this_amiibo": {
+        "rating": 1.234840709853291,
+        "rating_mu": 22.575445824224456,
+        "rating_sigma": 7.113535038123722,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
         "id": "769b45ee-3fa3-4b52-8a46-f3509cab4b6b",
@@ -14,12 +20,6 @@
         "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
         "trainer_name": "BCRiparo",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.234840709853291,
-        "rating_mu": 22.575445824224456,
-        "rating_sigma": 7.113535038123722,
-        "result": "loss"
       }
     }
   }

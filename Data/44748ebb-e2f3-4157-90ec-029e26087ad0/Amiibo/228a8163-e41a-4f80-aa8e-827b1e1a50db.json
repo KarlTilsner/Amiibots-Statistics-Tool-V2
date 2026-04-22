@@ -6,6 +6,12 @@
   "trainer_name": "moxievegas",
   "matches": {
     "2020-10-19T03:58:32.367691+00:00": {
+      "this_amiibo": {
+        "rating": -0.8016797229894159,
+        "rating_mu": 20.775701662576704,
+        "rating_sigma": 7.192460461855374,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
         "id": "d18577c8-2b4f-4f61-a560-da361a8a78d8",
@@ -14,12 +20,6 @@
         "trainer_id": "05eacb7f-fff7-4c14-ab1d-129195051d66",
         "trainer_name": "Nintendo_Obsessed",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.8016797229894159,
-        "rating_mu": 20.775701662576704,
-        "rating_sigma": 7.192460461855374,
-        "result": "loss"
       }
     }
   }

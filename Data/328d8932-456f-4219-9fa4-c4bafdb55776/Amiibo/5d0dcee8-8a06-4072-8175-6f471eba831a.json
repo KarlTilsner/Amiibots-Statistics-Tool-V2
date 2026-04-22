@@ -6,6 +6,12 @@
   "trainer_name": "sp_staples",
   "matches": {
     "2021-08-23T13:02:32.695777+00:00": {
+      "this_amiibo": {
+        "rating": 0.90363862458425,
+        "rating_mu": 20.44284039450967,
+        "rating_sigma": 6.513067256641807,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "58aa353f-b211-484a-afa1-deb9c9823dc0",
@@ -14,12 +20,6 @@
         "trainer_id": "de8bfcb6-60de-48e2-8a23-31517707e203",
         "trainer_name": "rekcuf_nmad",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.90363862458425,
-        "rating_mu": 20.44284039450967,
-        "rating_sigma": 6.513067256641807,
-        "result": "loss"
       }
     }
   }

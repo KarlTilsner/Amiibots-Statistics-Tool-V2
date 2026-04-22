@@ -6,6 +6,12 @@
   "trainer_name": "misatoaddict",
   "matches": {
     "2022-03-24T09:07:38.530385+00:00": {
+      "this_amiibo": {
+        "rating": 1.2852918252523082,
+        "rating_mu": 21.79153480670459,
+        "rating_sigma": 6.83541432715076,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "98843f24-8e1b-4ade-b0bf-0e2c3ec4e0b9",
@@ -14,12 +20,6 @@
         "trainer_id": "73ed9260-7617-4ae1-a395-7e0ddb479057",
         "trainer_name": "CupNoodle",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2852918252523082,
-        "rating_mu": 21.79153480670459,
-        "rating_sigma": 6.83541432715076,
-        "result": "loss"
       }
     }
   }

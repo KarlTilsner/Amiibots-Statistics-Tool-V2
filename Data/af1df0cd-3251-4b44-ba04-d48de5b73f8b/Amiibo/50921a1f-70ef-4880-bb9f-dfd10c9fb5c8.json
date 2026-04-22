@@ -6,6 +6,12 @@
   "trainer_name": "Unkinker3",
   "matches": {
     "2023-06-20T10:09:01.453892+00:00": {
+      "this_amiibo": {
+        "rating": 1.1587648069993044,
+        "rating_mu": 21.21730218027513,
+        "rating_sigma": 6.6861791244252755,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
         "id": "eee258cd-07e3-4974-bd72-67738720ac40",
@@ -14,12 +20,6 @@
         "trainer_id": "26cad4d1-9d7d-457c-b6e3-6a285e74f071",
         "trainer_name": "toonlinktroll",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1587648069993044,
-        "rating_mu": 21.21730218027513,
-        "rating_sigma": 6.6861791244252755,
-        "result": "loss"
       }
     }
   }

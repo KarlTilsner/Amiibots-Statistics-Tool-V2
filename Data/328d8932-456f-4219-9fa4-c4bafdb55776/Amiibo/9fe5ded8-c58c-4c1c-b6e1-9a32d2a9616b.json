@@ -6,6 +6,12 @@
   "trainer_name": "undeniablebeast",
   "matches": {
     "2021-10-26T04:26:50.309432+00:00": {
+      "this_amiibo": {
+        "rating": 0.9985027952752539,
+        "rating_mu": 21.088363051706732,
+        "rating_sigma": 6.696620085477159,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "0e7595ac-3fdd-40f7-8de4-5abb22902775",
@@ -14,12 +20,6 @@
         "trainer_id": "02cbf368-3e54-4c21-9840-cc6ec0a9aad3",
         "trainer_name": "shadowdrives",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9985027952752539,
-        "rating_mu": 21.088363051706732,
-        "rating_sigma": 6.696620085477159,
-        "result": "loss"
       }
     }
   }

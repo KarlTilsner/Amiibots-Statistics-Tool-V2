@@ -23,6 +23,12 @@
       }
     },
     "2022-04-23T13:15:18.729882+00:00": {
+      "this_amiibo": {
+        "rating": 11.348451995119312,
+        "rating_mu": 25.133060393381598,
+        "rating_sigma": 4.594869466087428,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "1ee3e669-ee7e-4297-ba45-bb3c08f23856",
@@ -31,15 +37,15 @@
         "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
         "trainer_name": "YM44",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.348451995119312,
-        "rating_mu": 25.133060393381598,
-        "rating_sigma": 4.594869466087428,
-        "result": "loss"
       }
     },
     "2022-04-23T12:02:40.011652+00:00": {
+      "this_amiibo": {
+        "rating": 11.217579186437437,
+        "rating_mu": 26.790346656550685,
+        "rating_sigma": 5.1909224900377495,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "34e0a979-bdf2-45ca-a2e7-4123664cfd15",
@@ -48,12 +54,6 @@
         "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
         "trainer_name": "Murbert_AM",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.217579186437437,
-        "rating_mu": 26.790346656550685,
-        "rating_sigma": 5.1909224900377495,
-        "result": "loss"
       }
     }
   }

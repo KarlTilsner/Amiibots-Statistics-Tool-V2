@@ -6,6 +6,12 @@
   "trainer_name": "sp_staples",
   "matches": {
     "2021-09-13T12:09:47.317100+00:00": {
+      "this_amiibo": {
+        "rating": 0.8046180877903559,
+        "rating_mu": 20.284752860018774,
+        "rating_sigma": 6.493378257409472,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
         "id": "edea6a9c-3412-4b68-a81f-b6c2ea282408",
@@ -14,15 +20,15 @@
         "trainer_id": "6a92a875-ad10-4927-9ac9-43f4cea3e878",
         "trainer_name": "trandomp",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8046180877903559,
-        "rating_mu": 20.284752860018774,
-        "rating_sigma": 6.493378257409472,
-        "result": "loss"
       }
     },
     "2021-09-14T03:47:54.538341+00:00": {
+      "this_amiibo": {
+        "rating": 1.4906837663298944,
+        "rating_mu": 19.009082205196897,
+        "rating_sigma": 5.839466146289001,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "5c7a84a1-80e8-407d-a929-9359be3ec488",
@@ -31,12 +37,6 @@
         "trainer_id": "05eacb7f-fff7-4c14-ab1d-129195051d66",
         "trainer_name": "Nintendo_Obsessed",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.4906837663298944,
-        "rating_mu": 19.009082205196897,
-        "rating_sigma": 5.839466146289001,
-        "result": "loss"
       }
     }
   }

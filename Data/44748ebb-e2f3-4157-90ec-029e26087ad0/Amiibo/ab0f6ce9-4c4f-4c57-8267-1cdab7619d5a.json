@@ -6,6 +6,12 @@
   "trainer_name": "Bodhiston",
   "matches": {
     "2020-05-30T03:43:15.215007+00:00": {
+      "this_amiibo": {
+        "rating": 0.8325124519265152,
+        "rating_mu": 21.80095494327296,
+        "rating_sigma": 6.989480830448815,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
         "id": "6a2c1df2-0889-4aef-87d6-1e6515693443",
@@ -14,15 +20,15 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8325124519265152,
-        "rating_mu": 21.80095494327296,
-        "rating_sigma": 6.989480830448815,
-        "result": "loss"
       }
     },
     "2020-06-01T06:26:08.342453+00:00": {
+      "this_amiibo": {
+        "rating": 1.6360688480594554,
+        "rating_mu": 19.611311390136766,
+        "rating_sigma": 5.9917475140257705,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "76589203-09f0-41c9-934b-246a53cfb2b0",
@@ -31,15 +37,15 @@
         "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
         "trainer_name": "River_Tethys",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.6360688480594554,
-        "rating_mu": 19.611311390136766,
-        "rating_sigma": 5.9917475140257705,
-        "result": "loss"
       }
     },
     "2020-06-03T00:02:04.409954+00:00": {
+      "this_amiibo": {
+        "rating": 0.99228257938071,
+        "rating_mu": 15.850473160469548,
+        "rating_sigma": 4.952730193696279,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
         "id": "493028b8-4f0f-48f8-92f2-755072458cb2",
@@ -48,15 +54,15 @@
         "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
         "trainer_name": "FulminixGaming",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.99228257938071,
-        "rating_mu": 15.850473160469548,
-        "rating_sigma": 4.952730193696279,
-        "result": "loss"
       }
     },
     "2020-06-03T07:58:16.514711+00:00": {
+      "this_amiibo": {
+        "rating": 1.2211458014831464,
+        "rating_mu": 15.553835065149475,
+        "rating_sigma": 4.777563087888776,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
         "id": "66ecd522-b9ca-481c-ae13-128d168a28d7",
@@ -65,12 +71,6 @@
         "trainer_id": "1285932e-d5a9-44b2-a0af-582aa5a06b3a",
         "trainer_name": "Frogcake",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2211458014831464,
-        "rating_mu": 15.553835065149475,
-        "rating_sigma": 4.777563087888776,
-        "result": "loss"
       }
     }
   }

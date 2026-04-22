@@ -6,6 +6,12 @@
   "trainer_name": "Rooster_Bud",
   "matches": {
     "2022-08-13T18:12:20.797326+00:00": {
+      "this_amiibo": {
+        "rating": 0.847963288284646,
+        "rating_mu": 20.28997018961472,
+        "rating_sigma": 6.4806689671100255,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "f4292ac1-7e69-44af-adb6-08fd01f787c0",
@@ -14,15 +20,15 @@
         "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
         "trainer_name": "Eliot_The_Great",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.847963288284646,
-        "rating_mu": 20.28997018961472,
-        "rating_sigma": 6.4806689671100255,
-        "result": "loss"
       }
     },
     "2022-08-14T03:38:03.510729+00:00": {
+      "this_amiibo": {
+        "rating": 0.18727943462616636,
+        "rating_mu": 16.178943688008808,
+        "rating_sigma": 5.330554751127547,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
         "id": "e88ce1de-1e52-40f1-9f9b-9f2504b41530",
@@ -31,12 +37,6 @@
         "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
         "trainer_name": "TheConceptionist",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.18727943462616636,
-        "rating_mu": 16.178943688008808,
-        "rating_sigma": 5.330554751127547,
-        "result": "loss"
       }
     },
     "2022-08-15T05:39:02.005895+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2022-08-22T08:27:27.211029+00:00": {
+      "this_amiibo": {
+        "rating": 6.218590418129985,
+        "rating_mu": 18.31562063478542,
+        "rating_sigma": 4.032343405551813,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "70a53ded-566f-4b24-8f8a-f3ef7d94bd18",
@@ -65,12 +71,6 @@
         "trainer_id": "ec91db0b-baee-4719-bbb3-56b99120fd6f",
         "trainer_name": "awesomeavo64",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 6.218590418129985,
-        "rating_mu": 18.31562063478542,
-        "rating_sigma": 4.032343405551813,
-        "result": "loss"
       }
     }
   }

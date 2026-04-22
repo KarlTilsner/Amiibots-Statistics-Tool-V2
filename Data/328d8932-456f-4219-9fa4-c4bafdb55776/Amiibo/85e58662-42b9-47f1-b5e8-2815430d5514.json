@@ -6,6 +6,12 @@
   "trainer_name": "MistyPeaksMizutsune",
   "matches": {
     "2022-01-19T22:30:26.308720+00:00": {
+      "this_amiibo": {
+        "rating": 0.7947364769712948,
+        "rating_mu": 24.307823197379577,
+        "rating_sigma": 7.837695573469427,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "eb101f55-4f90-481e-a135-7850825eac4e",
@@ -14,15 +20,15 @@
         "trainer_id": "c1a8adfd-561e-4b61-9870-5e000224d33f",
         "trainer_name": "mariodude6700",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7947364769712948,
-        "rating_mu": 24.307823197379577,
-        "rating_sigma": 7.837695573469427,
-        "result": "loss"
       }
     },
     "2022-01-21T13:35:53.495057+00:00": {
+      "this_amiibo": {
+        "rating": 0.03964858300404117,
+        "rating_mu": 20.643537131204692,
+        "rating_sigma": 6.867962849400217,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
         "id": "721455f7-f997-4204-b7cc-1951f7929056",
@@ -31,12 +37,6 @@
         "trainer_id": "c4b64610-bef3-429c-a9db-6e6e4bc17e05",
         "trainer_name": "sheepplant",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.03964858300404117,
-        "rating_mu": 20.643537131204692,
-        "rating_sigma": 6.867962849400217,
-        "result": "loss"
       }
     },
     "2022-01-22T01:46:25.559306+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2022-01-22T07:31:03.091043+00:00": {
+      "this_amiibo": {
+        "rating": 6.229448645465716,
+        "rating_mu": 21.483014244970406,
+        "rating_sigma": 5.0845218665015635,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "6486cc6c-7698-4a46-bc62-c7f9932e90d7",
@@ -65,12 +71,6 @@
         "trainer_id": "599b16e4-90a5-41b2-ad41-917b1e5b5548",
         "trainer_name": "Pixeluchiha",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 6.229448645465716,
-        "rating_mu": 21.483014244970406,
-        "rating_sigma": 5.0845218665015635,
-        "result": "loss"
       }
     }
   }

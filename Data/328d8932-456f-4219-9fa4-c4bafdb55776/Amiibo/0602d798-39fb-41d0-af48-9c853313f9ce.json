@@ -23,6 +23,12 @@
       }
     },
     "2021-03-16T00:44:23.905740+00:00": {
+      "this_amiibo": {
+        "rating": 12.050089822996462,
+        "rating_mu": 28.341043752533622,
+        "rating_sigma": 5.430317976512386,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
         "id": "3fdf781b-1da2-4645-be50-b4c64be96889",
@@ -31,12 +37,6 @@
         "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
         "trainer_name": "Murbert_AM",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.050089822996462,
-        "rating_mu": 28.341043752533622,
-        "rating_sigma": 5.430317976512386,
-        "result": "loss"
       }
     },
     "2021-03-19T11:36:03.272172+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2021-03-25T21:53:36.383531+00:00": {
+      "this_amiibo": {
+        "rating": 20.73908947193477,
+        "rating_mu": 31.26141453038257,
+        "rating_sigma": 3.5074416861492668,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96e48494-946f-4280-a419-488d644135e0",
         "id": "25cb4298-ea83-40f1-beb4-73baccec63e7",
@@ -82,12 +88,6 @@
         "trainer_id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
         "trainer_name": "pinheadpatrick017",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 20.73908947193477,
-        "rating_mu": 31.26141453038257,
-        "rating_sigma": 3.5074416861492668,
-        "result": "loss"
       }
     },
     "2021-03-29T20:33:52.596867+00:00": {
@@ -139,6 +139,23 @@
         "trainer_id": "c19db4ca-2480-4290-800c-156da376873b",
         "trainer_name": "lazy_dolphin21",
         "result": "loss"
+      }
+    },
+    "2022-12-27T02:16:19.775463+00:00": {
+      "this_amiibo": {
+        "rating": 21.96679901070662,
+        "rating_mu": 30.96959533668496,
+        "rating_sigma": 3.0009321086594474,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "8adde2d5-0868-4c85-a62d-24ea2cce6c15",
+        "name": "Stocking",
+        "rating": 29.566904535985397,
+        "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
+        "trainer_name": "soysauce881",
+        "result": "win"
       }
     }
   }

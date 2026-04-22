@@ -40,6 +40,12 @@
       }
     },
     "2020-05-26T21:00:30.651160+00:00": {
+      "this_amiibo": {
+        "rating": 19.416281199205056,
+        "rating_mu": 31.84097626644745,
+        "rating_sigma": 4.141565022414131,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "ffa6cad5-bbea-4400-a7df-42f59b8701e8",
@@ -48,12 +54,6 @@
         "trainer_id": "f0ff13ad-2d79-43ed-9754-edd686d76dfe",
         "trainer_name": "nozsmash",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 19.416281199205056,
-        "rating_mu": 31.84097626644745,
-        "rating_sigma": 4.141565022414131,
-        "result": "loss"
       }
     }
   }

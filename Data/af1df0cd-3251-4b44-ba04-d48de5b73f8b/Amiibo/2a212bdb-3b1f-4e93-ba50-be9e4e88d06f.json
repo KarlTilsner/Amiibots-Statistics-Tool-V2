@@ -6,6 +6,12 @@
   "trainer_name": "Unkinker3",
   "matches": {
     "2023-05-07T08:30:38.719540+00:00": {
+      "this_amiibo": {
+        "rating": 0.9602010139751869,
+        "rating_mu": 20.54987985905762,
+        "rating_sigma": 6.529892948360811,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
         "id": "f29c9231-ae91-4170-ac90-e5c9e0324595",
@@ -14,15 +20,15 @@
         "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
         "trainer_name": "halfmario456_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9602010139751869,
-        "rating_mu": 20.54987985905762,
-        "rating_sigma": 6.529892948360811,
-        "result": "loss"
       }
     },
     "2023-06-17T09:06:34.420604+00:00": {
+      "this_amiibo": {
+        "rating": 0.7226721632886459,
+        "rating_mu": 16.609631670401907,
+        "rating_sigma": 5.295653169037753,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
         "id": "b0afdc95-707f-411e-80fa-6d4663d24b40",
@@ -31,12 +37,6 @@
         "trainer_id": "0d50b45b-65ac-488b-b2b4-60456cf8764a",
         "trainer_name": "nabbitplushgang",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7226721632886459,
-        "rating_mu": 16.609631670401907,
-        "rating_sigma": 5.295653169037753,
-        "result": "loss"
       }
     },
     "2023-07-20T06:29:52.114813+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2024-03-18T06:42:22.329620+00:00": {
+      "this_amiibo": {
+        "rating": 3.76669856836655,
+        "rating_mu": 15.998536632556785,
+        "rating_sigma": 4.077279354730078,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
         "id": "a98a94c4-65e0-4644-9e8b-066f95a27016",
@@ -65,12 +71,6 @@
         "trainer_id": "bc1694aa-a544-452f-ab20-f308c36ae0c9",
         "trainer_name": "blueflares1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 3.76669856836655,
-        "rating_mu": 15.998536632556785,
-        "rating_sigma": 4.077279354730078,
-        "result": "loss"
       }
     }
   }

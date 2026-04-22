@@ -6,6 +6,12 @@
   "trainer_name": "emboooooooo",
   "matches": {
     "2022-08-16T00:31:30.851509+00:00": {
+      "this_amiibo": {
+        "rating": 1.0771085014496187,
+        "rating_mu": 20.914564956620293,
+        "rating_sigma": 6.612485485056892,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "12fb57f9-39fe-4223-8d77-78a975212eac",
@@ -14,12 +20,6 @@
         "trainer_id": "b82c6d43-d80c-4195-99a0-67355d12115d",
         "trainer_name": "the_real_rukasu",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0771085014496187,
-        "rating_mu": 20.914564956620293,
-        "rating_sigma": 6.612485485056892,
-        "result": "loss"
       }
     },
     "2022-09-23T09:38:51.912451+00:00": {
@@ -36,6 +36,57 @@
         "rating": 13.630990075042742,
         "trainer_id": "989b85c3-4ffc-41c0-8596-2d2c67fd7158",
         "trainer_name": "Leevunzo",
+        "result": "loss"
+      }
+    },
+    "2022-10-17T02:45:57.230339+00:00": {
+      "this_amiibo": {
+        "rating": 15.22307908932541,
+        "rating_mu": 28.611670625221777,
+        "rating_sigma": 4.462863845298789,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "375165e6-0208-41a6-8c29-92670a8580bc",
+        "name": "BRAWL Σ",
+        "rating": 24.58003688072359,
+        "trainer_id": "790bfdd9-7935-4d8a-a2ef-e98e39633f80",
+        "trainer_name": "wizard_real",
+        "result": "loss"
+      }
+    },
+    "2022-10-18T18:10:50.241644+00:00": {
+      "this_amiibo": {
+        "rating": 14.643852149145856,
+        "rating_mu": 27.174248281796253,
+        "rating_sigma": 4.176798710883466,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "06c8508f-7607-4254-9ac1-1bd414c14df6",
+        "name": "Leng Shong",
+        "rating": 16.325493454850644,
+        "trainer_id": "c1461260-903f-4aae-ad42-af21e07e1e98",
+        "trainer_name": "MoonBeanBie",
+        "result": "win"
+      }
+    },
+    "2023-01-03T05:06:27.610047+00:00": {
+      "this_amiibo": {
+        "rating": 17.34056206073339,
+        "rating_mu": 28.64613368532299,
+        "rating_sigma": 3.7685238748632,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "3a6a0f98-9d5c-4159-a4a9-1af5c60c4442",
+        "name": "Pac-luster",
+        "rating": 22.372389619655628,
+        "trainer_id": "d92b7874-c5d1-4579-8e92-86d56c5e594f",
+        "trainer_name": "sumrando123",
         "result": "loss"
       }
     }

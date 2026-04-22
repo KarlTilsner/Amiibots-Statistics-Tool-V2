@@ -6,6 +6,12 @@
   "trainer_name": "mariocraft6000",
   "matches": {
     "2022-08-01T07:00:01.738930+00:00": {
+      "this_amiibo": {
+        "rating": 1.0898548058027373,
+        "rating_mu": 20.96880472646146,
+        "rating_sigma": 6.626316640219574,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
         "id": "ca0a3968-8544-415b-90b3-11d8cfd143a5",
@@ -14,12 +20,6 @@
         "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
         "trainer_name": "MiDe1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0898548058027373,
-        "rating_mu": 20.96880472646146,
-        "rating_sigma": 6.626316640219574,
-        "result": "loss"
       }
     },
     "2022-09-03T23:31:44.984444+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2023-02-26T18:23:02.286258+00:00": {
+      "this_amiibo": {
+        "rating": 13.36734193620511,
+        "rating_mu": 25.437697497535275,
+        "rating_sigma": 4.023451853776722,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
         "id": "ca862471-82c0-4547-bca9-16cc5d6d38d7",
@@ -65,12 +71,6 @@
         "trainer_id": "1e7c04e0-77b8-4e5b-a5b5-5783edc0c3c5",
         "trainer_name": "Benutrece",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.36734193620511,
-        "rating_mu": 25.437697497535275,
-        "rating_sigma": 4.023451853776722,
-        "result": "loss"
       }
     }
   }

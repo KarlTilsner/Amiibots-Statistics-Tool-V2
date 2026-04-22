@@ -6,6 +6,12 @@
   "trainer_name": "Bananika7",
   "matches": {
     "2023-11-23T20:56:34.667003+00:00": {
+      "this_amiibo": {
+        "rating": 1.010993958217675,
+        "rating_mu": 20.75301556097245,
+        "rating_sigma": 6.580673867584926,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "1fd6ca76-b8b7-4547-8db9-060e785066d2",
@@ -14,12 +20,6 @@
         "trainer_id": "8a5d445a-c5ef-48a8-9428-41276f678e9d",
         "trainer_name": "soin1324",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.010993958217675,
-        "rating_mu": 20.75301556097245,
-        "rating_sigma": 6.580673867584926,
-        "result": "loss"
       }
     },
     "2023-11-27T23:52:50.876778+00:00": {
@@ -91,6 +91,12 @@
       }
     },
     "2023-12-20T11:30:29.950816+00:00": {
+      "this_amiibo": {
+        "rating": 19.37217232053463,
+        "rating_mu": 29.4837325137137,
+        "rating_sigma": 3.3705200643930233,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "e69cbfe8-f7e7-4625-a0d9-b61718453340",
@@ -99,12 +105,6 @@
         "trainer_id": "8e290d89-5484-46ab-b222-914c45b7b11c",
         "trainer_name": "pixel_gunners",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 19.37217232053463,
-        "rating_mu": 29.4837325137137,
-        "rating_sigma": 3.3705200643930233,
-        "result": "loss"
       }
     }
   }

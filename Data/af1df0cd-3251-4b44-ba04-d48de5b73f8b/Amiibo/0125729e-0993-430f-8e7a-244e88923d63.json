@@ -6,6 +6,12 @@
   "trainer_name": "NoAmiibo",
   "matches": {
     "2022-05-17T11:53:17.580949+00:00": {
+      "this_amiibo": {
+        "rating": 14.077387896455917,
+        "rating_mu": 30.15996267904774,
+        "rating_sigma": 5.3608582608639415,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "65b7458b-e63c-4fae-839e-b62bde8de548",
@@ -14,12 +20,6 @@
         "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
         "trainer_name": "Oliirik",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.077387896455917,
-        "rating_mu": 30.15996267904774,
-        "rating_sigma": 5.3608582608639415,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "qscxz512",
   "matches": {
     "2020-10-19T23:54:26.262140+00:00": {
+      "this_amiibo": {
+        "rating": -1.1241801692549132,
+        "rating_mu": 19.5834163303476,
+        "rating_sigma": 6.902532166534171,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
         "id": "ddd08f9f-189c-4400-bd12-08c262906ad3",
@@ -14,15 +20,15 @@
         "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
         "trainer_name": "rurpking22",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.1241801692549132,
-        "rating_mu": 19.5834163303476,
-        "rating_sigma": 6.902532166534171,
-        "result": "loss"
       }
     },
     "2020-10-20T11:52:44.195589+00:00": {
+      "this_amiibo": {
+        "rating": -0.36817056357829614,
+        "rating_mu": 18.20006524133568,
+        "rating_sigma": 6.189411934971325,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
         "id": "31f37121-5c5d-4367-8f9d-8d302b5beb38",
@@ -31,12 +37,6 @@
         "trainer_id": "842fd55b-5c9f-4914-820e-99639a5ccf96",
         "trainer_name": "littlefang__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.36817056357829614,
-        "rating_mu": 18.20006524133568,
-        "rating_sigma": 6.189411934971325,
-        "result": "loss"
       }
     }
   }

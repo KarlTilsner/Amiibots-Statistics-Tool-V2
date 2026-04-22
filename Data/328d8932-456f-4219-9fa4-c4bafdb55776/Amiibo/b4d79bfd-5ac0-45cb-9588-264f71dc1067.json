@@ -6,6 +6,12 @@
   "trainer_name": "bestboy248",
   "matches": {
     "2021-07-24T23:30:18.112916+00:00": {
+      "this_amiibo": {
+        "rating": -0.8016797229894159,
+        "rating_mu": 20.775701662576704,
+        "rating_sigma": 7.192460461855374,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
         "id": "219fa82c-60a1-4624-96f1-761d743d99c2",
@@ -14,12 +20,6 @@
         "trainer_id": "7c677a01-57df-4329-925e-fd444f7db5d9",
         "trainer_name": "DarkDakurai",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.8016797229894159,
-        "rating_mu": 20.775701662576704,
-        "rating_sigma": 7.192460461855374,
-        "result": "loss"
       }
     }
   }

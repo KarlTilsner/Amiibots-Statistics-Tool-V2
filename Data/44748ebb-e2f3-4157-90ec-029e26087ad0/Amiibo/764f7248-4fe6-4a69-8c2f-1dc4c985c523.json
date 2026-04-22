@@ -6,6 +6,12 @@
   "trainer_name": "thescuttler62",
   "matches": {
     "2020-08-01T16:03:04.375173+00:00": {
+      "this_amiibo": {
+        "rating": 0.7557057304694901,
+        "rating_mu": 20.28436516655683,
+        "rating_sigma": 6.509553145362447,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
         "id": "65859306-76ed-4850-bf47-71da9322f8d4",
@@ -14,12 +20,6 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7557057304694901,
-        "rating_mu": 20.28436516655683,
-        "rating_sigma": 6.509553145362447,
-        "result": "loss"
       }
     },
     "2020-08-02T13:16:14.650933+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2020-08-03T21:39:37.196909+00:00": {
+      "this_amiibo": {
+        "rating": 8.816518132359885,
+        "rating_mu": 22.11227647904684,
+        "rating_sigma": 4.431919448895652,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "dffd6916-fc74-400f-8316-cd7c6e641fe0",
@@ -48,15 +54,15 @@
         "trainer_id": "83ad055f-644c-4c4f-8a57-7f9180b0d326",
         "trainer_name": "ZanyMarshalo",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 8.816518132359885,
-        "rating_mu": 22.11227647904684,
-        "rating_sigma": 4.431919448895652,
-        "result": "loss"
       }
     },
     "2020-08-05T15:05:12.833776+00:00": {
+      "this_amiibo": {
+        "rating": 7.955428772315313,
+        "rating_mu": 19.8767537600676,
+        "rating_sigma": 3.973774995917429,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
         "id": "6f4d0837-a1c4-4407-94bb-1ca69e6aa02a",
@@ -65,12 +71,6 @@
         "trainer_id": "f0ff13ad-2d79-43ed-9754-edd686d76dfe",
         "trainer_name": "nozsmash",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 7.955428772315313,
-        "rating_mu": 19.8767537600676,
-        "rating_sigma": 3.973774995917429,
-        "result": "loss"
       }
     }
   }

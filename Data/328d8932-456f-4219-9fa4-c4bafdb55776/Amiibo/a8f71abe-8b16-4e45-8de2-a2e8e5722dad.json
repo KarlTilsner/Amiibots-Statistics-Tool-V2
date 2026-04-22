@@ -6,6 +6,12 @@
   "trainer_name": "sheepplant",
   "matches": {
     "2022-01-17T06:02:04.202570+00:00": {
+      "this_amiibo": {
+        "rating": 1.2816241125290269,
+        "rating_mu": 22.1543148362017,
+        "rating_sigma": 6.9575635745575575,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
         "id": "ba100903-876b-49f2-9f35-d0a22e248187",
@@ -14,15 +20,15 @@
         "trainer_id": "74b11748-df73-4895-a914-7f048a54ecc8",
         "trainer_name": "Dempsey342",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2816241125290269,
-        "rating_mu": 22.1543148362017,
-        "rating_sigma": 6.9575635745575575,
-        "result": "loss"
       }
     },
     "2022-01-18T10:04:14.701208+00:00": {
+      "this_amiibo": {
+        "rating": 1.8036501590092051,
+        "rating_mu": 21.608888463096264,
+        "rating_sigma": 6.601746101362353,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "b88de47f-7094-4b2e-a9fc-afa3caec3cef",
@@ -31,12 +37,6 @@
         "trainer_id": "8b58def7-f142-4a59-b1d1-322b89f76a74",
         "trainer_name": "t_newcomer",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.8036501590092051,
-        "rating_mu": 21.608888463096264,
-        "rating_sigma": 6.601746101362353,
-        "result": "loss"
       }
     }
   }

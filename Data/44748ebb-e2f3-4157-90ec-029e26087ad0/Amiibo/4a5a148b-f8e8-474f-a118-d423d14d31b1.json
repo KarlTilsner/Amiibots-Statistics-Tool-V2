@@ -6,6 +6,12 @@
   "trainer_name": "rustydustyj",
   "matches": {
     "2020-11-26T09:41:40.181489+00:00": {
+      "this_amiibo": {
+        "rating": 0.7448081717548867,
+        "rating_mu": 20.204860169582904,
+        "rating_sigma": 6.486683999276005,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
         "id": "c8fb0a50-5a84-4498-b8bd-cff02efa1f00",
@@ -14,15 +20,15 @@
         "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
         "trainer_name": "rurpking22",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7448081717548867,
-        "rating_mu": 20.204860169582904,
-        "rating_sigma": 6.486683999276005,
-        "result": "loss"
       }
     },
     "2020-11-27T10:38:13.708787+00:00": {
+      "this_amiibo": {
+        "rating": 1.3080596836376088,
+        "rating_mu": 19.547899327298268,
+        "rating_sigma": 6.079946547886886,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
         "id": "5b6620c9-d6cf-4c2a-99b3-78a4dd87e992",
@@ -31,12 +37,6 @@
         "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
         "trainer_name": "carbon_show",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.3080596836376088,
-        "rating_mu": 19.547899327298268,
-        "rating_sigma": 6.079946547886886,
-        "result": "loss"
       }
     }
   }

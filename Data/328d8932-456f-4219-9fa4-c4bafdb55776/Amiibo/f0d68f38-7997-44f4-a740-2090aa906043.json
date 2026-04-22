@@ -6,6 +6,12 @@
   "trainer_name": "HD_ssbu",
   "matches": {
     "2022-02-21T07:38:44.647724+00:00": {
+      "this_amiibo": {
+        "rating": 7.928233198302376,
+        "rating_mu": 24.233635604845965,
+        "rating_sigma": 5.43513413551453,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
         "id": "edcb6773-8862-4051-988a-1f68b6d614be",
@@ -14,12 +20,6 @@
         "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
         "trainer_name": "gotelin_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 7.928233198302376,
-        "rating_mu": 24.233635604845965,
-        "rating_sigma": 5.43513413551453,
-        "result": "loss"
       }
     },
     "2022-02-21T06:34:14.834781+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2022-02-21T06:03:43.760835+00:00": {
+      "this_amiibo": {
+        "rating": 1.3529477254234692,
+        "rating_mu": 22.633643713815808,
+        "rating_sigma": 7.093565329464113,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
         "id": "95d6b194-8f41-4e5c-9464-25239ae6a4cb",
@@ -48,12 +54,6 @@
         "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
         "trainer_name": "MiDe1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.3529477254234692,
-        "rating_mu": 22.633643713815808,
-        "rating_sigma": 7.093565329464113,
-        "result": "loss"
       }
     },
     "2022-02-21T11:48:09.237949+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2022-05-09T22:04:45.083143+00:00": {
+      "this_amiibo": {
+        "rating": 13.769537010011106,
+        "rating_mu": 25.607119646657395,
+        "rating_sigma": 3.9458608788820966,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "aa00fee8-6399-4381-8ccc-4af867808a2e",
@@ -82,12 +88,6 @@
         "trainer_id": "c19b6888-ed95-45db-9980-5ecbf0506cf5",
         "trainer_name": "tylertfisher",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.769537010011106,
-        "rating_mu": 25.607119646657395,
-        "rating_sigma": 3.9458608788820966,
-        "result": "loss"
       }
     }
   }

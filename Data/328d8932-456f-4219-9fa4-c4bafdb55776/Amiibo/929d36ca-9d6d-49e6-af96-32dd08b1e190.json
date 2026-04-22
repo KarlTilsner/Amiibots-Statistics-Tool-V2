@@ -6,6 +6,12 @@
   "trainer_name": "AstrobeatSaturn",
   "matches": {
     "2022-07-10T22:38:06.353883+00:00": {
+      "this_amiibo": {
+        "rating": 0.0012522094929110494,
+        "rating_mu": 21.68211875862688,
+        "rating_sigma": 7.22695551637799,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "073efb49-c800-4abf-a806-58792cb11066",
@@ -14,15 +20,15 @@
         "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
         "trainer_name": "amiibofight",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.0012522094929110494,
-        "rating_mu": 21.68211875862688,
-        "rating_sigma": 7.22695551637799,
-        "result": "loss"
       }
     },
     "2022-07-11T03:34:32.205970+00:00": {
+      "this_amiibo": {
+        "rating": -0.46896676566892737,
+        "rating_mu": 19.021459854913207,
+        "rating_sigma": 6.496808873527378,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
         "id": "6a06428c-7ae8-4913-8005-894ce76e0601",
@@ -31,12 +37,6 @@
         "trainer_id": "c1a8adfd-561e-4b61-9870-5e000224d33f",
         "trainer_name": "mariodude6700",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.46896676566892737,
-        "rating_mu": 19.021459854913207,
-        "rating_sigma": 6.496808873527378,
-        "result": "loss"
       }
     },
     "2022-07-11T20:32:40.129573+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2022-07-14T08:11:19.152751+00:00": {
+      "this_amiibo": {
+        "rating": 7.6265362293652785,
+        "rating_mu": 21.730490180356718,
+        "rating_sigma": 4.701317983663813,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
         "id": "ee86b7e9-cc3d-4b19-92ca-5f6b8167c2dd",
@@ -65,12 +71,6 @@
         "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
         "trainer_name": "amiibofight",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 7.6265362293652785,
-        "rating_mu": 21.730490180356718,
-        "rating_sigma": 4.701317983663813,
-        "result": "loss"
       }
     },
     "2022-07-21T20:41:29.732699+00:00": {
@@ -91,6 +91,12 @@
       }
     },
     "2022-07-23T03:08:17.681230+00:00": {
+      "this_amiibo": {
+        "rating": 11.460629344584845,
+        "rating_mu": 22.672784030483616,
+        "rating_sigma": 3.7373848952995905,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "23b5dd4e-774a-41f0-87fd-ad0576648c31",
@@ -99,12 +105,6 @@
         "trainer_id": "ee1d9a05-9070-4b4f-ad6c-768064c23993",
         "trainer_name": "psythe_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.460629344584845,
-        "rating_mu": 22.672784030483616,
-        "rating_sigma": 3.7373848952995905,
-        "result": "loss"
       }
     },
     "2022-07-30T12:16:23.389010+00:00": {
@@ -125,6 +125,12 @@
       }
     },
     "2022-09-22T08:10:03.976660+00:00": {
+      "this_amiibo": {
+        "rating": 13.911400694277257,
+        "rating_mu": 23.508858524371284,
+        "rating_sigma": 3.1991526100313425,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "2b297078-5574-4348-aa80-99b836074357",
@@ -133,12 +139,74 @@
         "trainer_id": "fd88f995-3090-47f4-bb1f-61a9aa4a1863",
         "trainer_name": "DazzleMeTaric",
         "result": "win"
-      },
+      }
+    },
+    "2022-10-18T23:33:51.972564+00:00": {
       "this_amiibo": {
-        "rating": 13.911400694277257,
-        "rating_mu": 23.508858524371284,
-        "rating_sigma": 3.1991526100313425,
+        "rating": 15.204640303561845,
+        "rating_mu": 24.253586450314373,
+        "rating_sigma": 3.0163153822508426,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "7ee85b25-9ea7-42ef-95fe-f657f4ee7401",
+        "name": "Red",
+        "rating": 16.145881522472052,
+        "trainer_id": "c046dec0-e18b-41ec-ac90-cb24ada26082",
+        "trainer_name": "xander560560",
         "result": "loss"
+      }
+    },
+    "2022-11-01T15:22:50.284638+00:00": {
+      "this_amiibo": {
+        "rating": 16.269037109704183,
+        "rating_mu": 24.883848194120336,
+        "rating_sigma": 2.8716036948053847,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "21bcda51-78b0-4d17-bf30-3a1777896f58",
+        "name": "Zuko",
+        "rating": 14.05573760222245,
+        "trainer_id": "2e52684c-b62c-49ac-9880-59ada37bfd16",
+        "trainer_name": "booomeeth",
+        "result": "loss"
+      }
+    },
+    "2022-11-02T05:58:36.021699+00:00": {
+      "this_amiibo": {
+        "rating": 17.937305074922982,
+        "rating_mu": 26.00380964426057,
+        "rating_sigma": 2.6888348564458635,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
+        "id": "74190127-8526-4c1b-9846-631d5ca423b4",
+        "name": "XtraSweaty",
+        "rating": 21.882313577872175,
+        "trainer_id": "989b85c3-4ffc-41c0-8596-2d2c67fd7158",
+        "trainer_name": "tealeevz",
+        "result": "loss"
+      }
+    },
+    "2022-11-18T21:49:12.813670+00:00": {
+      "this_amiibo": {
+        "rating": 17.60506906695055,
+        "rating_mu": 25.267031399884953,
+        "rating_sigma": 2.5539874443114674,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "ac592fc3-94cd-4ba9-98a4-a47b2e16cac8",
+        "name": "Nemesis",
+        "rating": 24.26966581340064,
+        "trainer_id": "c39619d0-5e06-4b23-954d-935174750a59",
+        "trainer_name": "tapig6002",
+        "result": "win"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "sh42ow710",
   "matches": {
     "2022-03-31T14:51:24.750073+00:00": {
+      "this_amiibo": {
+        "rating": -1.468254267381706,
+        "rating_mu": 18.831574808058942,
+        "rating_sigma": 6.766609691813549,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
         "id": "706466ac-be87-4503-b9c7-7cdac39e9d3e",
@@ -14,15 +20,15 @@
         "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
         "trainer_name": "rapjm14",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.468254267381706,
-        "rating_mu": 18.831574808058942,
-        "rating_sigma": 6.766609691813549,
-        "result": "loss"
       }
     },
     "2022-04-15T16:03:25.048007+00:00": {
+      "this_amiibo": {
+        "rating": -1.4941636155022664,
+        "rating_mu": 15.096488883357665,
+        "rating_sigma": 5.530217499619977,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
         "id": "ecd3d866-d6db-447c-b7f7-8d0a745d8a86",
@@ -31,15 +37,15 @@
         "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
         "trainer_name": "raid_boss_09",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.4941636155022664,
-        "rating_mu": 15.096488883357665,
-        "rating_sigma": 5.530217499619977,
-        "result": "loss"
       }
     },
     "2022-04-26T14:05:11.424152+00:00": {
+      "this_amiibo": {
+        "rating": -2.010547995306686,
+        "rating_mu": 12.823888806798218,
+        "rating_sigma": 4.9448122673683015,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
         "id": "bda927c0-7680-466b-bbeb-eec889d6fc4d",
@@ -48,12 +54,6 @@
         "trainer_id": "b3c93a1e-0aee-4a76-a0ed-36bc7258e629",
         "trainer_name": "Bananika7",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -2.010547995306686,
-        "rating_mu": 12.823888806798218,
-        "rating_sigma": 4.9448122673683015,
-        "result": "loss"
       }
     },
     "2022-05-13T02:10:18.690926+00:00": {
@@ -142,6 +142,12 @@
       }
     },
     "2022-07-11T20:32:40.129573+00:00": {
+      "this_amiibo": {
+        "rating": 11.530427616003639,
+        "rating_mu": 20.302651108168387,
+        "rating_sigma": 2.9240744973882493,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "599edd14-687c-4264-812e-bc246f562f31",
         "id": "929d36ca-9d6d-49e6-af96-32dd08b1e190",
@@ -150,12 +156,6 @@
         "trainer_id": "478fe709-29fa-4d5e-8fc3-282b80765517",
         "trainer_name": "AstrobeatSaturn",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.530427616003639,
-        "rating_mu": 20.302651108168387,
-        "rating_sigma": 2.9240744973882493,
-        "result": "loss"
       }
     }
   }

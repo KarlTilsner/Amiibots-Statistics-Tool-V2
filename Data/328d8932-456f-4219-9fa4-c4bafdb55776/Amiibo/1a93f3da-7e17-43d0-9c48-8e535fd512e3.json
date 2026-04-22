@@ -6,6 +6,12 @@
   "trainer_name": "Gamer_gaben1",
   "matches": {
     "2022-05-01T13:35:53.381802+00:00": {
+      "this_amiibo": {
+        "rating": -0.7899217551096172,
+        "rating_mu": 20.79452709502615,
+        "rating_sigma": 7.194816283378589,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
         "id": "8ceb49b3-8e5d-41bb-a97c-8816074ffd22",
@@ -14,12 +20,6 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "LunagradeTV",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.7899217551096172,
-        "rating_mu": 20.79452709502615,
-        "rating_sigma": 7.194816283378589,
-        "result": "loss"
       }
     }
   }

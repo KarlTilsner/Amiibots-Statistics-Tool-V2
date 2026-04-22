@@ -6,6 +6,12 @@
   "trainer_name": "Kangoni",
   "matches": {
     "2020-04-18T06:39:43.387348+00:00": {
+      "this_amiibo": {
+        "rating": 1.1518064988912329,
+        "rating_mu": 21.183662633671545,
+        "rating_sigma": 6.6772853782601045,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "10691bbc-89aa-4d30-b389-3b024b1b09bc",
@@ -14,12 +20,6 @@
         "trainer_id": "b73cffef-c9fc-4a4d-9c1e-2ba84a63d775",
         "trainer_name": "Precision_Rhythm",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1518064988912329,
-        "rating_mu": 21.183662633671545,
-        "rating_sigma": 6.6772853782601045,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "Bananika7",
   "matches": {
     "2023-02-26T15:36:39.990573+00:00": {
+      "this_amiibo": {
+        "rating": 0.8156443382130689,
+        "rating_mu": 20.178608095208332,
+        "rating_sigma": 6.454321252331755,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
         "id": "f29c9231-ae91-4170-ac90-e5c9e0324595",
@@ -14,12 +20,6 @@
         "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
         "trainer_name": "halfmario456_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8156443382130689,
-        "rating_mu": 20.178608095208332,
-        "rating_sigma": 6.454321252331755,
-        "result": "loss"
       }
     }
   }

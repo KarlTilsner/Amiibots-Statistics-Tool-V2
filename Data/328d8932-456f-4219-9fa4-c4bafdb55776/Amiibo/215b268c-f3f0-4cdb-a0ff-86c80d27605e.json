@@ -6,6 +6,12 @@
   "trainer_name": "smashssf2_ita",
   "matches": {
     "2021-07-26T02:50:14.549161+00:00": {
+      "this_amiibo": {
+        "rating": 1.1926250424886398,
+        "rating_mu": 21.4029637698243,
+        "rating_sigma": 6.736779575778554,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
         "id": "272b252a-2fba-448c-9543-1795d3dceb22",
@@ -14,12 +20,6 @@
         "trainer_id": "3b819f99-6a2e-4556-9558-d584e448422f",
         "trainer_name": "The_Xman08",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1926250424886398,
-        "rating_mu": 21.4029637698243,
-        "rating_sigma": 6.736779575778554,
-        "result": "loss"
       }
     },
     "2021-07-26T15:03:11.482710+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2021-08-05T02:18:46.040749+00:00": {
+      "this_amiibo": {
+        "rating": 14.51430000710874,
+        "rating_mu": 27.687585451840043,
+        "rating_sigma": 4.3910951482437675,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "322142d0-eb8d-454b-bc4e-d165a4a310dd",
@@ -65,12 +71,6 @@
         "trainer_id": "083d6234-b29b-45ba-a968-e87ab3d6b443",
         "trainer_name": "SwiftSG_YT",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.51430000710874,
-        "rating_mu": 27.687585451840043,
-        "rating_sigma": 4.3910951482437675,
-        "result": "loss"
       }
     },
     "2021-08-07T01:56:12.534046+00:00": {
@@ -108,6 +108,12 @@
       }
     },
     "2021-08-17T06:26:02.963209+00:00": {
+      "this_amiibo": {
+        "rating": 20.499955751943688,
+        "rating_mu": 30.05672073454156,
+        "rating_sigma": 3.1855883275326247,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
         "id": "272b252a-2fba-448c-9543-1795d3dceb22",
@@ -116,15 +122,15 @@
         "trainer_id": "3b819f99-6a2e-4556-9558-d584e448422f",
         "trainer_name": "The_Xman08",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 20.499955751943688,
-        "rating_mu": 30.05672073454156,
-        "rating_sigma": 3.1855883275326247,
-        "result": "loss"
       }
     },
     "2021-08-24T07:47:41.592599+00:00": {
+      "this_amiibo": {
+        "rating": 19.770980962362298,
+        "rating_mu": 28.5609848877717,
+        "rating_sigma": 2.9300013084698007,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "2746b79f-6dab-4864-a641-d30e7aae414f",
@@ -133,12 +139,6 @@
         "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
         "trainer_name": "AceTempest172",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 19.770980962362298,
-        "rating_mu": 28.5609848877717,
-        "rating_sigma": 2.9300013084698007,
-        "result": "loss"
       }
     }
   }

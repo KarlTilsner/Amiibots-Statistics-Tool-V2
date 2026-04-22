@@ -6,6 +6,12 @@
   "trainer_name": "LunagradeTV",
   "matches": {
     "2021-12-17T19:12:36.302725+00:00": {
+      "this_amiibo": {
+        "rating": 1.2800518944160935,
+        "rating_mu": 21.7646638415555,
+        "rating_sigma": 6.828203982379802,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
         "id": "dc1420f0-fe44-457c-aa3a-53a1f000ed87",
@@ -14,12 +20,6 @@
         "trainer_id": "8e990ded-6021-4773-ade4-b148b78dba55",
         "trainer_name": "heartache1470",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2800518944160935,
-        "rating_mu": 21.7646638415555,
-        "rating_sigma": 6.828203982379802,
-        "result": "loss"
       }
     }
   }

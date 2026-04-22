@@ -6,6 +6,12 @@
   "trainer_name": "leeya310",
   "matches": {
     "2020-08-17T16:01:20.194729+00:00": {
+      "this_amiibo": {
+        "rating": 0.27444591943043406,
+        "rating_mu": 19.09778376385704,
+        "rating_sigma": 6.274445948142202,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
         "id": "52cb47ef-4f25-4db1-ab07-f07521fe896a",
@@ -14,12 +20,6 @@
         "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
         "trainer_name": "Eliot_The_Great",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.27444591943043406,
-        "rating_mu": 19.09778376385704,
-        "rating_sigma": 6.274445948142202,
-        "result": "loss"
       }
     }
   }

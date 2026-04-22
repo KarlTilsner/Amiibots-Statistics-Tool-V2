@@ -6,6 +6,12 @@
   "trainer_name": "amiiboaction",
   "matches": {
     "2020-11-12T01:06:13.943263+00:00": {
+      "this_amiibo": {
+        "rating": -0.07810483338196406,
+        "rating_mu": 18.647291540810098,
+        "rating_sigma": 6.241798791397354,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
         "id": "ae302795-4312-4062-a311-dae90c43ba0c",
@@ -14,15 +20,15 @@
         "trainer_id": "94403b6f-17a3-4d6a-be29-de66b221db6d",
         "trainer_name": "penguhhhh",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.07810483338196406,
-        "rating_mu": 18.647291540810098,
-        "rating_sigma": 6.241798791397354,
-        "result": "loss"
       }
     },
     "2020-11-15T09:20:28.625641+00:00": {
+      "this_amiibo": {
+        "rating": 0.49675288079678737,
+        "rating_mu": 17.57810196790599,
+        "rating_sigma": 5.6937830290364015,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
         "id": "ca81e362-f82d-4c63-96d0-c790991407be",
@@ -31,15 +37,15 @@
         "trainer_id": "93f967b4-5933-4e9b-9f67-3d16fd17437f",
         "trainer_name": "glitched_artist",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.49675288079678737,
-        "rating_mu": 17.57810196790599,
-        "rating_sigma": 5.6937830290364015,
-        "result": "loss"
       }
     },
     "2020-11-16T05:19:39.812129+00:00": {
+      "this_amiibo": {
+        "rating": 0.9405696924965667,
+        "rating_mu": 16.830368958175157,
+        "rating_sigma": 5.296599755226197,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "72a40de1-5774-4a46-b64d-a30898b5e62a",
@@ -48,15 +54,15 @@
         "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
         "trainer_name": "Lady_Cucco",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9405696924965667,
-        "rating_mu": 16.830368958175157,
-        "rating_sigma": 5.296599755226197,
-        "result": "loss"
       }
     },
     "2020-11-16T10:31:59.263791+00:00": {
+      "this_amiibo": {
+        "rating": 1.2415043071155214,
+        "rating_mu": 16.406300868716226,
+        "rating_sigma": 5.054932187200235,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
         "id": "2f896f61-6e24-4add-a398-9d754bddc634",
@@ -65,15 +71,15 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2415043071155214,
-        "rating_mu": 16.406300868716226,
-        "rating_sigma": 5.054932187200235,
-        "result": "loss"
       }
     },
     "2020-11-20T18:43:07.316915+00:00": {
+      "this_amiibo": {
+        "rating": 1.5110760664829073,
+        "rating_mu": 16.01779219338703,
+        "rating_sigma": 4.835572042301375,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "ffa6cad5-bbea-4400-a7df-42f59b8701e8",
@@ -82,15 +88,15 @@
         "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
         "trainer_name": "nozzly",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.5110760664829073,
-        "rating_mu": 16.01779219338703,
-        "rating_sigma": 4.835572042301375,
-        "result": "loss"
       }
     },
     "2020-11-21T13:41:09.986515+00:00": {
+      "this_amiibo": {
+        "rating": 1.5861066271440265,
+        "rating_mu": 15.70876432103346,
+        "rating_sigma": 4.707552564629811,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "47944ed0-c6b5-43e2-9eb0-2cfafea70197",
@@ -99,12 +105,6 @@
         "trainer_id": "d7f44591-9713-4c95-b840-3607f6a73d24",
         "trainer_name": "luckman21",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.5861066271440265,
-        "rating_mu": 15.70876432103346,
-        "rating_sigma": 4.707552564629811,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "penguhhhh",
   "matches": {
     "2020-05-24T23:45:27.229766+00:00": {
+      "this_amiibo": {
+        "rating": -0.1246313917173083,
+        "rating_mu": 18.395015302747385,
+        "rating_sigma": 6.1732155648215645,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "46df44aa-89d0-4252-b3ed-a2e8d8c18735",
@@ -14,15 +20,15 @@
         "trainer_id": "2449752e-dba5-4319-82a0-3463ed6750fd",
         "trainer_name": "bluecanarie",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.1246313917173083,
-        "rating_mu": 18.395015302747385,
-        "rating_sigma": 6.1732155648215645,
-        "result": "loss"
       }
     },
     "2020-05-30T18:02:30.498286+00:00": {
+      "this_amiibo": {
+        "rating": 9.155363017650084,
+        "rating_mu": 21.212375937335374,
+        "rating_sigma": 4.019004306561763,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
         "id": "2ff9ac37-1a9d-4142-a459-a181ec3d25aa",
@@ -31,12 +37,6 @@
         "trainer_id": "7dc8c69a-90af-475f-89c5-1b7ce12dc42b",
         "trainer_name": "SinSei__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.155363017650084,
-        "rating_mu": 21.212375937335374,
-        "rating_sigma": 4.019004306561763,
-        "result": "loss"
       }
     },
     "2020-05-30T17:43:26.390775+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2020-05-30T17:28:53.326944+00:00": {
+      "this_amiibo": {
+        "rating": 0.4472235888226166,
+        "rating_mu": 16.881159062393706,
+        "rating_sigma": 5.477978491190363,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
         "id": "319aa20c-016f-4f1f-83b0-a560ed339f10",
@@ -65,12 +71,6 @@
         "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
         "trainer_name": "Lady_Cucco",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.4472235888226166,
-        "rating_mu": 16.881159062393706,
-        "rating_sigma": 5.477978491190363,
-        "result": "loss"
       }
     }
   }

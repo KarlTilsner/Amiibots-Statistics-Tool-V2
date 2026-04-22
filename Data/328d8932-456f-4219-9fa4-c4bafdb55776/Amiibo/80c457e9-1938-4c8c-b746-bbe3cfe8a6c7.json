@@ -108,6 +108,12 @@
       }
     },
     "2021-10-28T17:03:59.834260+00:00": {
+      "this_amiibo": {
+        "rating": 22.751762327847544,
+        "rating_mu": 33.12981609683195,
+        "rating_sigma": 3.459351256328136,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
         "id": "a7064a2b-f6e0-4a70-b4f0-7861fe448c74",
@@ -116,12 +122,6 @@
         "trainer_id": "5d49133f-f2e3-449b-b297-19d899fdf013",
         "trainer_name": "thedailydude",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 22.751762327847544,
-        "rating_mu": 33.12981609683195,
-        "rating_sigma": 3.459351256328136,
-        "result": "loss"
       }
     }
   }

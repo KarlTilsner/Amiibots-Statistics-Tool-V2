@@ -23,6 +23,12 @@
       }
     },
     "2020-04-24T14:00:22.590867+00:00": {
+      "this_amiibo": {
+        "rating": 6.161934406786905,
+        "rating_mu": 23.236821160600698,
+        "rating_sigma": 5.691628917937931,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
         "id": "2c30d047-aa1d-4fc2-a28e-ba8cbddf081e",
@@ -31,12 +37,6 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 6.161934406786905,
-        "rating_mu": 23.236821160600698,
-        "rating_sigma": 5.691628917937931,
-        "result": "loss"
       }
     }
   }

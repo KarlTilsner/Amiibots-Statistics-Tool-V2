@@ -6,6 +6,12 @@
   "trainer_name": "qscxz512",
   "matches": {
     "2020-10-19T09:20:17.117764+00:00": {
+      "this_amiibo": {
+        "rating": 0.572685513912166,
+        "rating_mu": 19.692270842743042,
+        "rating_sigma": 6.373195109610292,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "912875ac-a08f-4339-9593-cd7fd60c2628",
@@ -14,12 +20,6 @@
         "trainer_id": "63d96ad5-9a54-49ce-a032-7a1ad979965a",
         "trainer_name": "cookiezac24",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.572685513912166,
-        "rating_mu": 19.692270842743042,
-        "rating_sigma": 6.373195109610292,
-        "result": "loss"
       }
     }
   }

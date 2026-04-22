@@ -6,6 +6,12 @@
   "trainer_name": "AmiiboDoctor",
   "matches": {
     "2020-07-31T06:26:58.568091+00:00": {
+      "this_amiibo": {
+        "rating": 0.39485740286064086,
+        "rating_mu": 20.02959176685332,
+        "rating_sigma": 6.544911454664225,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
         "id": "39f2d57c-28f2-4524-ad80-d519b906860f",
@@ -14,15 +20,15 @@
         "trainer_id": "e8e5ceb3-094e-4dd0-821a-1be83af3c473",
         "trainer_name": "moxievegas",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.39485740286064086,
-        "rating_mu": 20.02959176685332,
-        "rating_sigma": 6.544911454664225,
-        "result": "loss"
       }
     },
     "2020-08-05T15:44:31.009660+00:00": {
+      "this_amiibo": {
+        "rating": 0.850235128858607,
+        "rating_mu": 17.46574311275463,
+        "rating_sigma": 5.538502661298675,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
         "id": "fcc0a9b0-73d8-4777-820c-3d70dcd68b7c",
@@ -31,12 +37,6 @@
         "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
         "trainer_name": "apple_beebs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.850235128858607,
-        "rating_mu": 17.46574311275463,
-        "rating_sigma": 5.538502661298675,
-        "result": "loss"
       }
     },
     "2020-08-13T02:10:59.132272+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2020-09-25T13:11:52.947328+00:00": {
+      "this_amiibo": {
+        "rating": 11.663919636257198,
+        "rating_mu": 22.454902517799887,
+        "rating_sigma": 3.596994293847563,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "0073fe0a-6c51-4280-8c74-ef5f29cbbefb",
@@ -82,12 +88,6 @@
         "trainer_id": "a10c714c-abce-49d5-89ad-62210c8bafd3",
         "trainer_name": "karatat2",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.663919636257198,
-        "rating_mu": 22.454902517799887,
-        "rating_sigma": 3.596994293847563,
-        "result": "loss"
       }
     }
   }

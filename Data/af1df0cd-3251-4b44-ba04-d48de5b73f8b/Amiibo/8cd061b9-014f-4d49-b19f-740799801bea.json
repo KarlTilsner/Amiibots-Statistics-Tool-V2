@@ -6,6 +6,12 @@
   "trainer_name": "StaplesTV_",
   "matches": {
     "2022-04-01T12:42:39.288350+00:00": {
+      "this_amiibo": {
+        "rating": 26.237530815935077,
+        "rating_mu": 29.364124789280915,
+        "rating_sigma": 1.0421979911152788,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
         "id": "cf861e01-b636-453d-8abe-34e230bffd55",
@@ -14,12 +20,6 @@
         "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
         "trainer_name": "HalfMario45678",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 26.237530815935077,
-        "rating_mu": 29.364124789280915,
-        "rating_sigma": 1.0421979911152788,
-        "result": "loss"
       }
     }
   }

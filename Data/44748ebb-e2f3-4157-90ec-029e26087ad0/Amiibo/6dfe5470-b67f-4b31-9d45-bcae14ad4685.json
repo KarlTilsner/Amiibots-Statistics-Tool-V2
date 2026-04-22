@@ -6,6 +6,12 @@
   "trainer_name": "leeya310",
   "matches": {
     "2020-08-16T12:29:11.381038+00:00": {
+      "this_amiibo": {
+        "rating": 1.2026362656630774,
+        "rating_mu": 21.767115419363126,
+        "rating_sigma": 6.8548263845666835,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
         "id": "ec4a2573-8b03-45fc-a17a-e44c628d90c5",
@@ -14,15 +20,15 @@
         "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
         "trainer_name": "Murbert_AM",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2026362656630774,
-        "rating_mu": 21.767115419363126,
-        "rating_sigma": 6.8548263845666835,
-        "result": "loss"
       }
     },
     "2020-08-16T16:15:07.345276+00:00": {
+      "this_amiibo": {
+        "rating": 1.7069556488783633,
+        "rating_mu": 19.75497150173529,
+        "rating_sigma": 6.016005284285642,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "25e205c7-335f-44c5-a83b-f3a24225cc03",
@@ -31,12 +37,6 @@
         "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
         "trainer_name": "AmiiboDoctor",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.7069556488783633,
-        "rating_mu": 19.75497150173529,
-        "rating_sigma": 6.016005284285642,
-        "result": "loss"
       }
     }
   }

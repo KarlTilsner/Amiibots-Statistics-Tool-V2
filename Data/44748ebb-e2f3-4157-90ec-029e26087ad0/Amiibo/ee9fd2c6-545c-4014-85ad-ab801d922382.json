@@ -6,6 +6,12 @@
   "trainer_name": "toxicfur36",
   "matches": {
     "2020-08-24T08:38:53.870537+00:00": {
+      "this_amiibo": {
+        "rating": 0.9062579873697594,
+        "rating_mu": 20.495593836684357,
+        "rating_sigma": 6.5297786164381995,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "94e52399-bef1-486f-88cb-6aba07b53e61",
@@ -14,12 +20,6 @@
         "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
         "trainer_name": "rurpking22",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9062579873697594,
-        "rating_mu": 20.495593836684357,
-        "rating_sigma": 6.5297786164381995,
-        "result": "loss"
       }
     }
   }

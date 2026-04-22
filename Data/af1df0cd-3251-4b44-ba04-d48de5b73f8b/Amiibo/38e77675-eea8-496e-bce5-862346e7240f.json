@@ -6,6 +6,12 @@
   "trainer_name": "AlexanderAgne",
   "matches": {
     "2023-05-05T19:36:02.073491+00:00": {
+      "this_amiibo": {
+        "rating": 0.9325951866886584,
+        "rating_mu": 20.642775375142293,
+        "rating_sigma": 6.570060062817879,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
         "id": "4e66509e-b3a1-435b-b64a-74a37ae34639",
@@ -14,12 +20,6 @@
         "trainer_id": "feb19c54-81c7-4737-ac40-2de3aa32099e",
         "trainer_name": "Slickbanana890",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9325951866886584,
-        "rating_mu": 20.642775375142293,
-        "rating_sigma": 6.570060062817879,
-        "result": "loss"
       }
     }
   }

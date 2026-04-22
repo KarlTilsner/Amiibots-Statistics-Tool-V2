@@ -6,6 +6,12 @@
   "trainer_name": "LunagradeTV",
   "matches": {
     "2021-09-23T11:03:55.467795+00:00": {
+      "this_amiibo": {
+        "rating": -0.19085159182402833,
+        "rating_mu": 18.11487020432397,
+        "rating_sigma": 6.101907265382667,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "d332ef86-d063-42f6-b95d-06097bc7382f",
@@ -14,15 +20,15 @@
         "trainer_id": "d5628078-d53c-4145-acf4-d06955996b80",
         "trainer_name": "3FinalLives",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.19085159182402833,
-        "rating_mu": 18.11487020432397,
-        "rating_sigma": 6.101907265382667,
-        "result": "loss"
       }
     },
     "2021-09-23T16:57:04.411582+00:00": {
+      "this_amiibo": {
+        "rating": 11.23643954987773,
+        "rating_mu": 22.889730917884112,
+        "rating_sigma": 3.884430456002127,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96e48494-946f-4280-a419-488d644135e0",
         "id": "bc8f05fa-6eab-42df-86f2-687e103bb4fc",
@@ -31,15 +37,15 @@
         "trainer_id": "fdc1350c-e911-4557-88ae-b29111abb0e9",
         "trainer_name": "Angel3lego",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.23643954987773,
-        "rating_mu": 22.889730917884112,
-        "rating_sigma": 3.884430456002127,
-        "result": "loss"
       }
     },
     "2021-09-23T14:57:34.640540+00:00": {
+      "this_amiibo": {
+        "rating": 11.132277336157031,
+        "rating_mu": 23.47821979868382,
+        "rating_sigma": 4.115314154175596,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
         "id": "4a78a3a7-4a9c-4798-88ff-fc95075ae02c",
@@ -48,12 +54,6 @@
         "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
         "trainer_name": "Azend__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.132277336157031,
-        "rating_mu": 23.47821979868382,
-        "rating_sigma": 4.115314154175596,
-        "result": "loss"
       }
     },
     "2021-09-23T14:12:00.273937+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2021-09-23T13:32:49.594520+00:00": {
+      "this_amiibo": {
+        "rating": 0.21027316025372755,
+        "rating_mu": 17.33819440715307,
+        "rating_sigma": 5.70930708229978,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
         "id": "690252b0-e495-482a-97ee-a474272af50a",
@@ -82,12 +88,6 @@
         "trainer_id": "c19b6888-ed95-45db-9980-5ecbf0506cf5",
         "trainer_name": "tylertfisher",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.21027316025372755,
-        "rating_mu": 17.33819440715307,
-        "rating_sigma": 5.70930708229978,
-        "result": "loss"
       }
     }
   }

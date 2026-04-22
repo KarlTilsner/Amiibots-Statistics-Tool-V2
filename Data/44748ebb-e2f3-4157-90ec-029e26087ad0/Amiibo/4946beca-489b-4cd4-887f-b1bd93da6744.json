@@ -6,6 +6,12 @@
   "trainer_name": "leeya310",
   "matches": {
     "2020-11-20T05:16:59.111265+00:00": {
+      "this_amiibo": {
+        "rating": -0.23703538777129296,
+        "rating_mu": 18.490467417931843,
+        "rating_sigma": 6.2425009352343785,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
         "id": "a2d7e6eb-344e-40dc-b78b-81afeaf415a4",
@@ -14,15 +20,15 @@
         "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
         "trainer_name": "foamtray",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.23703538777129296,
-        "rating_mu": 18.490467417931843,
-        "rating_sigma": 6.2425009352343785,
-        "result": "loss"
       }
     },
     "2020-11-20T04:00:20.959880+00:00": {
+      "this_amiibo": {
+        "rating": 0.1783171078023713,
+        "rating_mu": 20.77550402997434,
+        "rating_sigma": 6.865728974057323,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
         "id": "5610fd0f-49a4-47f8-9ce4-90938c36d8c4",
@@ -31,12 +37,6 @@
         "trainer_id": "93f967b4-5933-4e9b-9f67-3d16fd17437f",
         "trainer_name": "glitched_artist",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.1783171078023713,
-        "rating_mu": 20.77550402997434,
-        "rating_sigma": 6.865728974057323,
-        "result": "loss"
       }
     }
   }

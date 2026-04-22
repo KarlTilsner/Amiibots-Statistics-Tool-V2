@@ -40,6 +40,12 @@
       }
     },
     "2021-08-01T17:32:26.745325+00:00": {
+      "this_amiibo": {
+        "rating": 18.963478924184425,
+        "rating_mu": 32.917763948946984,
+        "rating_sigma": 4.651428341587519,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "a6e23850-e942-4899-bf24-cc524f4b2afe",
@@ -48,15 +54,15 @@
         "trainer_id": "0a934d92-e487-4f3d-aa09-0dc402188994",
         "trainer_name": "JoKe07_pose",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 18.963478924184425,
-        "rating_mu": 32.917763948946984,
-        "rating_sigma": 4.651428341587519,
-        "result": "loss"
       }
     },
     "2021-08-01T23:17:46.196874+00:00": {
+      "this_amiibo": {
+        "rating": 18.843851166625285,
+        "rating_mu": 31.312351439753396,
+        "rating_sigma": 4.156166757709371,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "4d00d868-7c64-463f-861f-4080c59ea7eb",
@@ -65,12 +71,6 @@
         "trainer_id": "3c6a2558-822c-45dc-9c83-95b524978633",
         "trainer_name": "0ccactuss0",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 18.843851166625285,
-        "rating_mu": 31.312351439753396,
-        "rating_sigma": 4.156166757709371,
-        "result": "loss"
       }
     }
   }

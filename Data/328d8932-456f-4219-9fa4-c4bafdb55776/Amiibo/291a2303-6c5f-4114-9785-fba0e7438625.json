@@ -57,6 +57,12 @@
       }
     },
     "2021-03-26T18:19:08.574316+00:00": {
+      "this_amiibo": {
+        "rating": 15.371765683737385,
+        "rating_mu": 29.298242628614016,
+        "rating_sigma": 4.642158981625544,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "37eca49b-937d-4720-8e8f-7ca8f769d7b2",
@@ -65,12 +71,6 @@
         "trainer_id": "05eacb7f-fff7-4c14-ab1d-129195051d66",
         "trainer_name": "Nintendo_Obsessed",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 15.371765683737385,
-        "rating_mu": 29.298242628614016,
-        "rating_sigma": 4.642158981625544,
-        "result": "loss"
       }
     }
   }

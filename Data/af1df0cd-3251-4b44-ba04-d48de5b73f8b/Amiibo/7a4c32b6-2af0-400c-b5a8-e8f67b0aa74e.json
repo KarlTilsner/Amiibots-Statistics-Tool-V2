@@ -6,6 +6,12 @@
   "trainer_name": "fake_l3af",
   "matches": {
     "2023-04-27T16:37:51.455679+00:00": {
+      "this_amiibo": {
+        "rating": 0.10930411253146133,
+        "rating_mu": 21.73782577464627,
+        "rating_sigma": 7.209507220704936,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
         "id": "646779cb-d36b-407b-998b-dc8a94c64162",
@@ -14,12 +20,6 @@
         "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
         "trainer_name": "Zoom__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.10930411253146133,
-        "rating_mu": 21.73782577464627,
-        "rating_sigma": 7.209507220704936,
-        "result": "loss"
       }
     },
     "2023-04-30T09:09:49.371806+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2023-04-30T06:15:54.578387+00:00": {
+      "this_amiibo": {
+        "rating": 0.8382737289364819,
+        "rating_mu": 18.786288359124857,
+        "rating_sigma": 5.982671543396125,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "5196dc78-7cbc-44dc-81b9-6d193942d295",
@@ -48,12 +54,6 @@
         "trainer_id": "dd0f3778-cdcb-4c39-9401-8c35d4116745",
         "trainer_name": "ZEgg87",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8382737289364819,
-        "rating_mu": 18.786288359124857,
-        "rating_sigma": 5.982671543396125,
-        "result": "loss"
       }
     }
   }

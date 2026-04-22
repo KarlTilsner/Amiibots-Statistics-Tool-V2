@@ -6,6 +6,12 @@
   "trainer_name": "rapjm14",
   "matches": {
     "2021-03-12T17:47:58.779399+00:00": {
+      "this_amiibo": {
+        "rating": 10.36957837030128,
+        "rating_mu": 23.626868964682373,
+        "rating_sigma": 4.419096864793698,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
         "id": "5525268d-9db3-4c6d-b2f7-9ca9567d4dc0",
@@ -14,12 +20,6 @@
         "trainer_id": "9d2e0e79-39fd-4936-8270-f43cb65749cb",
         "trainer_name": "SpliceStream",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.36957837030128,
-        "rating_mu": 23.626868964682373,
-        "rating_sigma": 4.419096864793698,
-        "result": "loss"
       }
     },
     "2021-03-12T17:13:51.270382+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2021-03-12T13:38:56.942749+00:00": {
+      "this_amiibo": {
+        "rating": -1.8065188390599936,
+        "rating_mu": 18.37205743440823,
+        "rating_sigma": 6.726192091156074,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
         "id": "8b8fe896-5d8b-4cb9-9e2a-56ebf0f89e70",
@@ -48,12 +54,6 @@
         "trainer_id": "b025bb11-e2fb-42b2-baf1-2d5f8a6227e6",
         "trainer_name": "crimson_flare_buds",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.8065188390599936,
-        "rating_mu": 18.37205743440823,
-        "rating_sigma": 6.726192091156074,
-        "result": "loss"
       }
     }
   }

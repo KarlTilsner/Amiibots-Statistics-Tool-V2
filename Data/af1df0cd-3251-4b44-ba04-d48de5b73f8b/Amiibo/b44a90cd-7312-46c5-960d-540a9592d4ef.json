@@ -6,6 +6,12 @@
   "trainer_name": "iammartyb",
   "matches": {
     "2023-07-05T02:11:50.806230+00:00": {
+      "this_amiibo": {
+        "rating": -1.2508887519108995,
+        "rating_mu": 19.270265056693233,
+        "rating_sigma": 6.840384602868045,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
         "id": "7736df0a-21c9-4bee-836c-90c0d6615b8a",
@@ -14,12 +20,6 @@
         "trainer_id": "6ff63cfa-9570-48d2-9bed-1808b4b29d12",
         "trainer_name": "Zuperdawg1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.2508887519108995,
-        "rating_mu": 19.270265056693233,
-        "rating_sigma": 6.840384602868045,
-        "result": "loss"
       }
     }
   }

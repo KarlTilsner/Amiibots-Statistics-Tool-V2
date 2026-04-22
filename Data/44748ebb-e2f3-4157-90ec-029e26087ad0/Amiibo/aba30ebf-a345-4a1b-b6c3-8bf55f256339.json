@@ -6,6 +6,12 @@
   "trainer_name": "Linkushi_mario",
   "matches": {
     "2020-08-25T15:32:56.943439+00:00": {
+      "this_amiibo": {
+        "rating": 0.8507108418462259,
+        "rating_mu": 20.64336626411946,
+        "rating_sigma": 6.597551807424412,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
         "id": "61ae7d9f-b9a6-472e-8199-4236d03ce16c",
@@ -14,12 +20,6 @@
         "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
         "trainer_name": "staples___",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8507108418462259,
-        "rating_mu": 20.64336626411946,
-        "rating_sigma": 6.597551807424412,
-        "result": "loss"
       }
     }
   }

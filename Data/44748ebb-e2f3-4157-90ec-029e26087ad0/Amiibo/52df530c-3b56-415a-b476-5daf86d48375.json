@@ -6,6 +6,12 @@
   "trainer_name": "foamtray",
   "matches": {
     "2020-06-08T21:06:01.909821+00:00": {
+      "this_amiibo": {
+        "rating": -0.784801211294976,
+        "rating_mu": 17.44582299484396,
+        "rating_sigma": 6.076874735379646,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
         "id": "55cfcf21-a57b-4df3-839e-d17423173f31",
@@ -14,15 +20,15 @@
         "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
         "trainer_name": "FulminixGaming",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.784801211294976,
-        "rating_mu": 17.44582299484396,
-        "rating_sigma": 6.076874735379646,
-        "result": "loss"
       }
     },
     "2020-06-09T05:58:38.334960+00:00": {
+      "this_amiibo": {
+        "rating": -0.23139629127297567,
+        "rating_mu": 16.4993531858106,
+        "rating_sigma": 5.5769164923611925,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "fc333421-2090-40fe-84f9-aa8656cb9860",
@@ -31,12 +37,6 @@
         "trainer_id": "ee675c7c-7836-4aa2-8a36-fef64e67b80a",
         "trainer_name": "truetitan14",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.23139629127297567,
-        "rating_mu": 16.4993531858106,
-        "rating_sigma": 5.5769164923611925,
-        "result": "loss"
       }
     }
   }

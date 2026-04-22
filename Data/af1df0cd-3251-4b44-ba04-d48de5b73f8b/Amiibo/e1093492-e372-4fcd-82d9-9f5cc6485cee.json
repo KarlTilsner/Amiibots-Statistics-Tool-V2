@@ -6,6 +6,12 @@
   "trainer_name": "TheBow_Wow",
   "matches": {
     "2024-09-28T11:26:39.575701+00:00": {
+      "this_amiibo": {
+        "rating": 1.1892081500018072,
+        "rating_mu": 21.314570083882817,
+        "rating_sigma": 6.708453977960337,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "197d9cee-efa8-42dc-b412-1ee53aef4d41",
@@ -14,15 +20,15 @@
         "trainer_id": "be70cc79-9ffd-48a9-8fb9-298a2124f477",
         "trainer_name": "bfan90133",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1892081500018072,
-        "rating_mu": 21.314570083882817,
-        "rating_sigma": 6.708453977960337,
-        "result": "loss"
       }
     },
     "2024-09-29T11:30:29.995730+00:00": {
+      "this_amiibo": {
+        "rating": 1.2870969883027108,
+        "rating_mu": 17.58896175873104,
+        "rating_sigma": 5.433954923476109,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
         "id": "b8882dd2-1d41-4bb2-89e9-7dff2ebe5ab5",
@@ -31,12 +37,6 @@
         "trainer_id": "2449752e-dba5-4319-82a0-3463ed6750fd",
         "trainer_name": "burgerkingmasterchief9",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2870969883027108,
-        "rating_mu": 17.58896175873104,
-        "rating_sigma": 5.433954923476109,
-        "result": "loss"
       }
     }
   }

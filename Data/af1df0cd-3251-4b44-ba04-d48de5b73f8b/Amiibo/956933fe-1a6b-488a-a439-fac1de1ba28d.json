@@ -6,6 +6,12 @@
   "trainer_name": "Competitively2",
   "matches": {
     "2024-06-03T00:09:21.230988+00:00": {
+      "this_amiibo": {
+        "rating": 0.45184211302706956,
+        "rating_mu": 19.401318307915798,
+        "rating_sigma": 6.316492064962909,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "671e81cc-4b35-4882-847b-0af741c48b57",
@@ -14,12 +20,6 @@
         "trainer_id": "4ef50fd5-b406-48f9-bc3d-95922e8d1456",
         "trainer_name": "Ashidlun",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.45184211302706956,
-        "rating_mu": 19.401318307915798,
-        "rating_sigma": 6.316492064962909,
-        "result": "loss"
       }
     }
   }

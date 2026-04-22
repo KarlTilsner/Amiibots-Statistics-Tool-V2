@@ -6,6 +6,12 @@
   "trainer_name": "penguhhhh",
   "matches": {
     "2020-10-30T17:19:57.213398+00:00": {
+      "this_amiibo": {
+        "rating": 1.3080519618780784,
+        "rating_mu": 22.0384099887921,
+        "rating_sigma": 6.910119342304674,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
         "id": "768481d6-feb7-4504-b68d-3bb9c440fc3d",
@@ -14,12 +20,6 @@
         "trainer_id": "79127d18-8a5d-4b78-b8e9-ad09b1d225c2",
         "trainer_name": "Veemo_Goomba",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.3080519618780784,
-        "rating_mu": 22.0384099887921,
-        "rating_sigma": 6.910119342304674,
-        "result": "loss"
       }
     },
     "2020-10-31T12:59:22.202253+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2020-11-10T08:16:23.882123+00:00": {
+      "this_amiibo": {
+        "rating": 12.4230390030988,
+        "rating_mu": 26.20599689666959,
+        "rating_sigma": 4.59431929785693,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "2bb0746c-f2bb-48c7-9eb4-35c0826186e6",
@@ -65,12 +71,6 @@
         "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
         "trainer_name": "Murbert_AM",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.4230390030988,
-        "rating_mu": 26.20599689666959,
-        "rating_sigma": 4.59431929785693,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "massivmann",
   "matches": {
     "2022-09-05T20:00:37.984116+00:00": {
+      "this_amiibo": {
+        "rating": 0.5929974838949619,
+        "rating_mu": 20.190680815200025,
+        "rating_sigma": 6.532561110435021,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "485f0887-32fa-4879-bf17-32efa31b72cc",
@@ -14,15 +20,15 @@
         "trainer_id": "d7f44591-9713-4c95-b840-3607f6a73d24",
         "trainer_name": "luckman21",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5929974838949619,
-        "rating_mu": 20.190680815200025,
-        "rating_sigma": 6.532561110435021,
-        "result": "loss"
       }
     },
     "2022-09-06T19:06:34.434814+00:00": {
+      "this_amiibo": {
+        "rating": 0.2140344776377674,
+        "rating_mu": 18.205733432126117,
+        "rating_sigma": 5.99723298482945,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "5ac65786-a227-45a3-b1a8-8d71d4ae3788",
@@ -31,12 +37,6 @@
         "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
         "trainer_name": "River_Tethys",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.2140344776377674,
-        "rating_mu": 18.205733432126117,
-        "rating_sigma": 5.99723298482945,
-        "result": "loss"
       }
     },
     "2022-09-09T00:14:16.472504+00:00": {
@@ -138,6 +138,23 @@
         "rating": 26.745184696924674,
         "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
         "trainer_name": "SG_Bubs",
+        "result": "loss"
+      }
+    },
+    "2022-12-09T14:50:34.864740+00:00": {
+      "this_amiibo": {
+        "rating": 22.82863009764798,
+        "rating_mu": 31.53200166452255,
+        "rating_sigma": 2.9011238556248564,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "80e67bcd-1996-44f9-95db-950e42ac2c3a",
+        "name": "Planty Boi",
+        "rating": 9.964999974370286,
+        "trainer_id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
+        "trainer_name": "pinheadpatrick017",
         "result": "loss"
       }
     }

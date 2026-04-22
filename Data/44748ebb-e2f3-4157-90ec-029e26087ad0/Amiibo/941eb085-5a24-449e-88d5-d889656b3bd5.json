@@ -6,6 +6,12 @@
   "trainer_name": "boristhekoopa",
   "matches": {
     "2020-06-19T09:41:03.612127+00:00": {
+      "this_amiibo": {
+        "rating": -0.9868584313099014,
+        "rating_mu": 17.34121167113434,
+        "rating_sigma": 6.109356700814747,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
         "id": "4c2fcfa5-6669-4043-b0f3-8ddb20331a61",
@@ -14,12 +20,6 @@
         "trainer_id": "3388d666-674d-404e-b6ea-96a6f0e4f893",
         "trainer_name": "Bodhiston",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.9868584313099014,
-        "rating_mu": 17.34121167113434,
-        "rating_sigma": 6.109356700814747,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "lairaye",
   "matches": {
     "2022-10-11T05:35:48.225995+00:00": {
+      "this_amiibo": {
+        "rating": -0.15584370183179885,
+        "rating_mu": 18.52971919822031,
+        "rating_sigma": 6.228520966684036,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "73b1d592-dbbc-4127-9785-3f8d51ba1cba",
@@ -14,12 +20,6 @@
         "trainer_id": "860520ba-0394-4d67-86e7-9269f8c25b20",
         "trainer_name": "마스터_커비",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.15584370183179885,
-        "rating_mu": 18.52971919822031,
-        "rating_sigma": 6.228520966684036,
-        "result": "loss"
       }
     }
   }

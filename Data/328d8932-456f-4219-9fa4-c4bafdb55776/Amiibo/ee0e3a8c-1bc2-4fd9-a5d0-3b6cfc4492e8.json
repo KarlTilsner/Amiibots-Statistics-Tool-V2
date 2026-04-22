@@ -6,6 +6,12 @@
   "trainer_name": "StaplesTV_",
   "matches": {
     "2022-08-13T20:13:46.881648+00:00": {
+      "this_amiibo": {
+        "rating": 0.6869036374962469,
+        "rating_mu": 20.351907994356925,
+        "rating_sigma": 6.555001452286893,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
         "id": "8bc7cb9f-18c1-4e1b-95e7-fdcac3363148",
@@ -14,12 +20,6 @@
         "trainer_id": "75cc3f13-4e2c-4d71-8a80-80a1ba3a705a",
         "trainer_name": "Duncle_Iroh_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6869036374962469,
-        "rating_mu": 20.351907994356925,
-        "rating_sigma": 6.555001452286893,
-        "result": "loss"
       }
     }
   }

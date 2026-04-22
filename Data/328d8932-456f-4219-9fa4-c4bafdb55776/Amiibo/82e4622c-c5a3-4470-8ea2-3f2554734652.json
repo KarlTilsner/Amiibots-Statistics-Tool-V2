@@ -40,6 +40,12 @@
       }
     },
     "2021-04-03T20:21:01.675497+00:00": {
+      "this_amiibo": {
+        "rating": 13.586495948545654,
+        "rating_mu": 30.128568714065914,
+        "rating_sigma": 5.51402425517342,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "54568809-2856-475f-8b1d-32feccc29f2b",
@@ -48,12 +54,6 @@
         "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
         "trainer_name": "staples___",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.586495948545654,
-        "rating_mu": 30.128568714065914,
-        "rating_sigma": 5.51402425517342,
-        "result": "loss"
       }
     }
   }

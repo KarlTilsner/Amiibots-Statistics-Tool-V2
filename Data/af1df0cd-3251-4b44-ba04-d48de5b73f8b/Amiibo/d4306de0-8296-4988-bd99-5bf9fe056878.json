@@ -6,6 +6,12 @@
   "trainer_name": "enauru_",
   "matches": {
     "2023-08-24T03:56:18.091843+00:00": {
+      "this_amiibo": {
+        "rating": 1.1081243610549834,
+        "rating_mu": 21.489164547589617,
+        "rating_sigma": 6.793680062178211,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "106c777b-4f4e-4c54-be62-d0ad1fd1dda2",
@@ -14,15 +20,15 @@
         "trainer_id": "333ada9d-112d-469a-8a26-320358969432",
         "trainer_name": "smashssf2_ita",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1081243610549834,
-        "rating_mu": 21.489164547589617,
-        "rating_sigma": 6.793680062178211,
-        "result": "loss"
       }
     },
     "2023-08-27T04:32:45.775008+00:00": {
+      "this_amiibo": {
+        "rating": 0.3480472418076985,
+        "rating_mu": 18.348940908844984,
+        "rating_sigma": 6.000297889012429,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
         "id": "5bddfd22-a277-4610-94e0-bcce06fb517d",
@@ -31,15 +37,15 @@
         "trainer_id": "8b643d15-0fd9-4c00-9b31-887650f9ba3b",
         "trainer_name": "enauru_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.3480472418076985,
-        "rating_mu": 18.348940908844984,
-        "rating_sigma": 6.000297889012429,
-        "result": "loss"
       }
     },
     "2023-09-05T08:49:18.614375+00:00": {
+      "this_amiibo": {
+        "rating": -0.1596022044509553,
+        "rating_mu": 15.150815853164975,
+        "rating_sigma": 5.103472685871977,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "b9d99815-1d71-4695-8e8b-3c2745c78868",
@@ -48,12 +54,6 @@
         "trainer_id": "8b643d15-0fd9-4c00-9b31-887650f9ba3b",
         "trainer_name": "enauru_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.1596022044509553,
-        "rating_mu": 15.150815853164975,
-        "rating_sigma": 5.103472685871977,
-        "result": "loss"
       }
     },
     "2023-09-05T21:20:52.737792+00:00": {
@@ -91,6 +91,12 @@
       }
     },
     "2023-09-19T22:40:55.861446+00:00": {
+      "this_amiibo": {
+        "rating": 8.960756778144438,
+        "rating_mu": 19.489300054269393,
+        "rating_sigma": 3.509514425374985,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
         "id": "b2c6d764-ca2e-41bb-92bc-daab842243f0",
@@ -99,12 +105,6 @@
         "trainer_id": "8b22431e-8223-4c0c-8dd7-f16d277d336b",
         "trainer_name": "mcchicken425",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 8.960756778144438,
-        "rating_mu": 19.489300054269393,
-        "rating_sigma": 3.509514425374985,
-        "result": "loss"
       }
     }
   }

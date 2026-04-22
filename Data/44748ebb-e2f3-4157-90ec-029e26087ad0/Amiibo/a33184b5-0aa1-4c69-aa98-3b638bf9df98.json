@@ -6,6 +6,12 @@
   "trainer_name": "bandanadeefan1001",
   "matches": {
     "2020-10-10T20:41:55.003721+00:00": {
+      "this_amiibo": {
+        "rating": 1.2106451255623973,
+        "rating_mu": 21.41632110628466,
+        "rating_sigma": 6.735225326907421,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
         "id": "4240cb54-a421-4ac9-b483-41c33092f548",
@@ -14,12 +20,6 @@
         "trainer_id": "1285932e-d5a9-44b2-a0af-582aa5a06b3a",
         "trainer_name": "Frogcake",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2106451255623973,
-        "rating_mu": 21.41632110628466,
-        "rating_sigma": 6.735225326907421,
-        "result": "loss"
       }
     }
   }

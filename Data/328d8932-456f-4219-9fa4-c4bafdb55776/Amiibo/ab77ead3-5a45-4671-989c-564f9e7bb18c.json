@@ -6,6 +6,12 @@
   "trainer_name": "rapjm14",
   "matches": {
     "2021-10-19T11:46:56.122437+00:00": {
+      "this_amiibo": {
+        "rating": 1.1726588211856566,
+        "rating_mu": 21.254351142738305,
+        "rating_sigma": 6.693897440517549,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "2b32dcf6-cb44-4088-9e54-fd482ce2e80b",
@@ -14,12 +20,6 @@
         "trainer_id": "800690a5-19de-4098-8fd4-33bcbadf4a18",
         "trainer_name": "TheAuraKing6",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1726588211856566,
-        "rating_mu": 21.254351142738305,
-        "rating_sigma": 6.693897440517549,
-        "result": "loss"
       }
     }
   }

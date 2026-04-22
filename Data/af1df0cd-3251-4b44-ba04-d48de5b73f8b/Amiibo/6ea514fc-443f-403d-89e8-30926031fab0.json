@@ -6,6 +6,12 @@
   "trainer_name": "Halyaran",
   "matches": {
     "2023-04-02T23:20:03.572197+00:00": {
+      "this_amiibo": {
+        "rating": 0.6430294021130294,
+        "rating_mu": 19.755911965193395,
+        "rating_sigma": 6.3709608543601215,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
         "id": "0b3033c0-832c-4cad-b3dc-27f1911a9ca5",
@@ -14,12 +20,6 @@
         "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
         "trainer_name": "bubs_yt",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6430294021130294,
-        "rating_mu": 19.755911965193395,
-        "rating_sigma": 6.3709608543601215,
-        "result": "loss"
       }
     },
     "2023-05-28T11:16:39.614739+00:00": {
@@ -91,6 +91,12 @@
       }
     },
     "2023-08-17T18:43:24.994768+00:00": {
+      "this_amiibo": {
+        "rating": 19.96789110238435,
+        "rating_mu": 29.485177040644924,
+        "rating_sigma": 3.172428646086858,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
         "id": "d2c67bca-9e5f-4d72-a467-66eb40c7d032",
@@ -99,15 +105,15 @@
         "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
         "trainer_name": "raid_boss_09",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 19.96789110238435,
-        "rating_mu": 29.485177040644924,
-        "rating_sigma": 3.172428646086858,
-        "result": "loss"
       }
     },
     "2023-08-22T02:23:15.433919+00:00": {
+      "this_amiibo": {
+        "rating": 19.483633343273304,
+        "rating_mu": 28.323792837276645,
+        "rating_sigma": 2.9467198313344474,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "2ca76a0b-5bec-423d-b90d-e2420a3b37b1",
@@ -116,12 +122,6 @@
         "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
         "trainer_name": "Murbert_AM",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 19.483633343273304,
-        "rating_mu": 28.323792837276645,
-        "rating_sigma": 2.9467198313344474,
-        "result": "loss"
       }
     }
   }

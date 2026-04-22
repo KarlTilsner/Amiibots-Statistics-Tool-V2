@@ -6,6 +6,12 @@
   "trainer_name": "smashssbu",
   "matches": {
     "2022-08-27T17:29:33.151510+00:00": {
+      "this_amiibo": {
+        "rating": 0.6683397725785838,
+        "rating_mu": 19.812393081425867,
+        "rating_sigma": 6.381351102949095,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
         "id": "e367eb17-512b-46e4-b1d3-a92a3ed801f9",
@@ -14,12 +20,6 @@
         "trainer_id": "e8c228c8-a377-4a5c-91ba-4ab8238a4023",
         "trainer_name": "MrSmart13579",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6683397725785838,
-        "rating_mu": 19.812393081425867,
-        "rating_sigma": 6.381351102949095,
-        "result": "loss"
       }
     },
     "2022-09-10T19:14:14.744773+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2022-09-22T21:44:36.633043+00:00": {
+      "this_amiibo": {
+        "rating": 5.870633425161751,
+        "rating_mu": 19.70188953898316,
+        "rating_sigma": 4.610418704607136,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
         "id": "548b3edd-980e-4b21-b7ad-c509cec44c2d",
@@ -48,15 +54,15 @@
         "trainer_id": "74b11748-df73-4895-a914-7f048a54ecc8",
         "trainer_name": "Dempsey342",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 5.870633425161751,
-        "rating_mu": 19.70188953898316,
-        "rating_sigma": 4.610418704607136,
-        "result": "loss"
       }
     },
     "2022-09-23T02:14:59.106160+00:00": {
+      "this_amiibo": {
+        "rating": 5.334946149142553,
+        "rating_mu": 17.436992371789568,
+        "rating_sigma": 4.034015407549005,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
         "id": "e88ce1de-1e52-40f1-9f9b-9f2504b41530",
@@ -65,15 +71,15 @@
         "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
         "trainer_name": "TheConceptionist",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 5.334946149142553,
-        "rating_mu": 17.436992371789568,
-        "rating_sigma": 4.034015407549005,
-        "result": "loss"
       }
     },
     "2022-09-24T08:01:25.971426+00:00": {
+      "this_amiibo": {
+        "rating": 4.964099006047691,
+        "rating_mu": 16.176110817225165,
+        "rating_sigma": 3.737337270392491,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
         "id": "bd669a91-08f3-4331-b285-91894a83070d",
@@ -82,12 +88,6 @@
         "trainer_id": "d3b9e42a-530d-4db7-95cf-c71ee2dc1602",
         "trainer_name": "CoolerGlassBerriez",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 4.964099006047691,
-        "rating_mu": 16.176110817225165,
-        "rating_sigma": 3.737337270392491,
-        "result": "loss"
       }
     }
   }

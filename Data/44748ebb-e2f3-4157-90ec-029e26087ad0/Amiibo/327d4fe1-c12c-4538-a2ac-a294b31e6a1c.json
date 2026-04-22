@@ -40,6 +40,12 @@
       }
     },
     "2020-12-06T04:41:43.309698+00:00": {
+      "this_amiibo": {
+        "rating": 12.870741755861662,
+        "rating_mu": 27.365848652731195,
+        "rating_sigma": 4.831702298956511,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
         "id": "c2207921-9d76-4e69-a386-d1363cf52b90",
@@ -48,12 +54,23 @@
         "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
         "trainer_name": "foamtray",
         "result": "win"
-      },
+      }
+    },
+    "2020-12-16T16:58:56.824947+00:00": {
       "this_amiibo": {
-        "rating": 12.870741755861662,
-        "rating_mu": 27.365848652731195,
-        "rating_sigma": 4.831702298956511,
+        "rating": 12.371462953968528,
+        "rating_mu": 25.84670817451001,
+        "rating_sigma": 4.491748406847161,
         "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "0b2cdcb0-e0b6-4f1d-893e-cc5361f8009d",
+        "name": "Luna",
+        "rating": 15.749237641417807,
+        "trainer_id": "68d166a5-c256-4482-b7ba-fce46a9b9a24",
+        "trainer_name": "ytygecho",
+        "result": "win"
       }
     }
   }

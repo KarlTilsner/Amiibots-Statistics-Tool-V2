@@ -6,6 +6,12 @@
   "trainer_name": "MoonBeanBie",
   "matches": {
     "2022-05-24T01:25:08.923194+00:00": {
+      "this_amiibo": {
+        "rating": 0.3350908682340439,
+        "rating_mu": 19.267119708761303,
+        "rating_sigma": 6.310676280175753,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
         "id": "90cbf23d-5a4a-44a2-b8ee-215c9b2ae128",
@@ -14,12 +20,6 @@
         "trainer_id": "b3c93a1e-0aee-4a76-a0ed-36bc7258e629",
         "trainer_name": "Bananika7",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.3350908682340439,
-        "rating_mu": 19.267119708761303,
-        "rating_sigma": 6.310676280175753,
-        "result": "loss"
       }
     }
   }

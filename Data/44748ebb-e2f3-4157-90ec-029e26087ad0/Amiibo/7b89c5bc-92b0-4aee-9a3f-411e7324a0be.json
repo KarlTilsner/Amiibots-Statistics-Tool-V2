@@ -6,6 +6,12 @@
   "trainer_name": "moxievegas",
   "matches": {
     "2020-07-19T21:33:27.332208+00:00": {
+      "this_amiibo": {
+        "rating": -0.46793484860102197,
+        "rating_mu": 18.592192130180035,
+        "rating_sigma": 6.353375659593686,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "686d9419-c451-458c-bca0-285080778ca5",
@@ -14,12 +20,6 @@
         "trainer_id": "00c4b536-3cdd-4252-b27e-138717ddf6d6",
         "trainer_name": "TheAgentOfChaos",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.46793484860102197,
-        "rating_mu": 18.592192130180035,
-        "rating_sigma": 6.353375659593686,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "schmorchid",
   "matches": {
     "2022-03-14T14:04:06.288415+00:00": {
+      "this_amiibo": {
+        "rating": 0.8737798922695568,
+        "rating_mu": 20.486272836677283,
+        "rating_sigma": 6.5374976481359095,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
         "id": "d45fb5ba-7b97-404e-8933-22194243ddb4",
@@ -14,12 +20,6 @@
         "trainer_id": "800690a5-19de-4098-8fd4-33bcbadf4a18",
         "trainer_name": "TheAuraKing6",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8737798922695568,
-        "rating_mu": 20.486272836677283,
-        "rating_sigma": 6.5374976481359095,
-        "result": "loss"
       }
     }
   }

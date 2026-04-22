@@ -6,6 +6,12 @@
   "trainer_name": "Zuperdawg1",
   "matches": {
     "2023-06-20T12:48:39.678212+00:00": {
+      "this_amiibo": {
+        "rating": 0.66050508468064,
+        "rating_mu": 19.79937810499548,
+        "rating_sigma": 6.379624340104947,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
         "id": "8ce48a97-151a-4e6d-bace-4c1f49a96ba6",
@@ -14,12 +20,6 @@
         "trainer_id": "16484274-0bf1-42ca-8003-5797b387bdc5",
         "trainer_name": "Denneylaw83",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.66050508468064,
-        "rating_mu": 19.79937810499548,
-        "rating_sigma": 6.379624340104947,
-        "result": "loss"
       }
     }
   }

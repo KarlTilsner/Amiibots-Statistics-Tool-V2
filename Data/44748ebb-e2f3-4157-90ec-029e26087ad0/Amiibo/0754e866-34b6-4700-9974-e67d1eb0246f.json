@@ -193,6 +193,12 @@
       }
     },
     "2020-05-28T14:16:51.414397+00:00": {
+      "this_amiibo": {
+        "rating": 23.754139927618304,
+        "rating_mu": 33.812086601085525,
+        "rating_sigma": 3.35264889115574,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
         "id": "c69c51a9-254b-4264-9a43-90aa28f7dc51",
@@ -201,12 +207,6 @@
         "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
         "trainer_name": "Sirffuzzylogik",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 23.754139927618304,
-        "rating_mu": 33.812086601085525,
-        "rating_sigma": 3.35264889115574,
-        "result": "loss"
       }
     }
   }

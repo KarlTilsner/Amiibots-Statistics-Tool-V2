@@ -6,6 +6,12 @@
   "trainer_name": "bluerunner0",
   "matches": {
     "2021-10-15T12:59:37.840631+00:00": {
+      "this_amiibo": {
+        "rating": -1.3479560023824035,
+        "rating_mu": 16.28403116587993,
+        "rating_sigma": 5.8773290560874445,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
         "id": "f6ba6f19-7890-4d3b-a4e4-3588408603a0",
@@ -14,12 +20,6 @@
         "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
         "trainer_name": "WynnThornton",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.3479560023824035,
-        "rating_mu": 16.28403116587993,
-        "rating_sigma": 5.8773290560874445,
-        "result": "loss"
       }
     }
   }

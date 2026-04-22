@@ -6,6 +6,12 @@
   "trainer_name": "doopfizzle",
   "matches": {
     "2020-10-15T00:18:48.682405+00:00": {
+      "this_amiibo": {
+        "rating": 0.6654592924954272,
+        "rating_mu": 20.450827329717537,
+        "rating_sigma": 6.595122679074037,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "0b5cf722-89fe-460c-bbc4-d7c7ee224f74",
@@ -14,12 +20,6 @@
         "trainer_id": "ee675c7c-7836-4aa2-8a36-fef64e67b80a",
         "trainer_name": "truetitan14",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6654592924954272,
-        "rating_mu": 20.450827329717537,
-        "rating_sigma": 6.595122679074037,
-        "result": "loss"
       }
     }
   }

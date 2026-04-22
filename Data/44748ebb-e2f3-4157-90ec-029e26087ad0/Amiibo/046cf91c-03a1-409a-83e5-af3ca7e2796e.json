@@ -6,6 +6,12 @@
   "trainer_name": "luckman21",
   "matches": {
     "2020-08-28T08:07:48.464973+00:00": {
+      "this_amiibo": {
+        "rating": -0.8016797229894159,
+        "rating_mu": 20.775701662576704,
+        "rating_sigma": 7.192460461855374,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
         "id": "6bb156af-a0de-4c3e-baf1-917dce0b086e",
@@ -14,12 +20,6 @@
         "trainer_id": "43cffe5f-d305-452b-a9de-fdff2396f7c3",
         "trainer_name": "UltraDPG",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.8016797229894159,
-        "rating_mu": 20.775701662576704,
-        "rating_sigma": 7.192460461855374,
-        "result": "loss"
       }
     }
   }

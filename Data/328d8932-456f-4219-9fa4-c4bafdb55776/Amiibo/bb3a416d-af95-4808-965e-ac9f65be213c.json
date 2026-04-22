@@ -6,6 +6,12 @@
   "trainer_name": "Pluchsia",
   "matches": {
     "2021-08-10T18:27:18.541829+00:00": {
+      "this_amiibo": {
+        "rating": 1.9126577341374116,
+        "rating_mu": 20.139928062514848,
+        "rating_sigma": 6.075756776125813,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
         "id": "f05f591b-e482-4cf7-8b3a-f000b8e617f1",
@@ -14,15 +20,15 @@
         "trainer_id": "4cbd80f8-53d4-4ecb-9e72-0d14f18b4354",
         "trainer_name": "GroovyPhroggu",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.9126577341374116,
-        "rating_mu": 20.139928062514848,
-        "rating_sigma": 6.075756776125813,
-        "result": "loss"
       }
     },
     "2021-08-10T17:14:48.336777+00:00": {
+      "this_amiibo": {
+        "rating": 1.1445869804818294,
+        "rating_mu": 21.50780549251525,
+        "rating_sigma": 6.78773950401114,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
         "id": "0f45d89a-96da-44c8-9ae3-4cfb17886b7b",
@@ -31,12 +37,6 @@
         "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
         "trainer_name": "Murbert_AM",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1445869804818294,
-        "rating_mu": 21.50780549251525,
-        "rating_sigma": 6.78773950401114,
-        "result": "loss"
       }
     },
     "2021-08-10T23:59:17.472952+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2021-08-11T08:10:27.017842+00:00": {
+      "this_amiibo": {
+        "rating": 8.540002649395191,
+        "rating_mu": 22.301309289141305,
+        "rating_sigma": 4.587102213248705,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
         "id": "580db502-d0c1-444e-96f2-9780c852abd4",
@@ -65,12 +71,6 @@
         "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
         "trainer_name": "MiDe1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 8.540002649395191,
-        "rating_mu": 22.301309289141305,
-        "rating_sigma": 4.587102213248705,
-        "result": "loss"
       }
     }
   }

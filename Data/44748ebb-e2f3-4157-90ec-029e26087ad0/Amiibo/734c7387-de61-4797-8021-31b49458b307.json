@@ -193,6 +193,12 @@
       }
     },
     "2020-10-20T17:41:58.379995+00:00": {
+      "this_amiibo": {
+        "rating": 26.29586329548392,
+        "rating_mu": 36.3465583452122,
+        "rating_sigma": 3.350231683242761,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
         "id": "eacc5b0c-9e33-4c7e-b096-c0a56b210337",
@@ -201,12 +207,6 @@
         "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
         "trainer_name": "foamtray",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 26.29586329548392,
-        "rating_mu": 36.3465583452122,
-        "rating_sigma": 3.350231683242761,
-        "result": "loss"
       }
     },
     "2020-10-21T01:22:13.983976+00:00": {
@@ -376,6 +376,23 @@
         "rating": 19.846097678815035,
         "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
         "trainer_name": "Lady_Cucco",
+        "result": "loss"
+      }
+    },
+    "2021-01-09T17:24:06.114267+00:00": {
+      "this_amiibo": {
+        "rating": 31.52732468240616,
+        "rating_mu": 39.24539885820953,
+        "rating_sigma": 2.572691391934458,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "f69e537e-fbab-41d0-8ef6-d1d4e714eb2c",
+        "name": "McLovin",
+        "rating": 29.98345633304324,
+        "trainer_id": "1a40b865-6138-4324-b2d6-f23b1fb07270",
+        "trainer_name": "Linkushi_mario",
         "result": "loss"
       }
     }

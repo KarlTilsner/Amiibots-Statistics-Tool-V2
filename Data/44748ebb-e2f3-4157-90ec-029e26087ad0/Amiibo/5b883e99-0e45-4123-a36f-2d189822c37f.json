@@ -6,6 +6,12 @@
   "trainer_name": "staples___",
   "matches": {
     "2020-07-14T16:33:35.356592+00:00": {
+      "this_amiibo": {
+        "rating": 0.9702773872834172,
+        "rating_mu": 23.137234885750452,
+        "rating_sigma": 7.388985832822344,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
         "id": "4b47126c-0a95-4364-8bef-f5101e374329",
@@ -14,12 +20,6 @@
         "trainer_id": "ee675c7c-7836-4aa2-8a36-fef64e67b80a",
         "trainer_name": "truetitan14",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9702773872834172,
-        "rating_mu": 23.137234885750452,
-        "rating_sigma": 7.388985832822344,
-        "result": "loss"
       }
     }
   }

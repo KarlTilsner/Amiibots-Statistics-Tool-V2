@@ -6,6 +6,12 @@
   "trainer_name": "leevunzo",
   "matches": {
     "2022-08-14T19:22:40.638601+00:00": {
+      "this_amiibo": {
+        "rating": 0.6145143268809434,
+        "rating_mu": 19.78637842995175,
+        "rating_sigma": 6.390621367690269,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
         "id": "c4aa8771-6647-46a0-b7a3-3e4832e38c50",
@@ -14,12 +20,6 @@
         "trainer_id": "d8574cbf-2422-4b8f-b20c-8c8395a63fb3",
         "trainer_name": "dat1woomy",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6145143268809434,
-        "rating_mu": 19.78637842995175,
-        "rating_sigma": 6.390621367690269,
-        "result": "loss"
       }
     }
   }

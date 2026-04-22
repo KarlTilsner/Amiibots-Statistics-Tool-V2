@@ -6,6 +6,12 @@
   "trainer_name": "cluelesscr",
   "matches": {
     "2022-07-20T04:41:28.668794+00:00": {
+      "this_amiibo": {
+        "rating": 0.790640037869494,
+        "rating_mu": 20.325218726778285,
+        "rating_sigma": 6.511526229636264,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "34a802d6-bab1-4feb-8565-87a6b63a9af9",
@@ -14,12 +20,6 @@
         "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
         "trainer_name": "raid_boss_09",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.790640037869494,
-        "rating_mu": 20.325218726778285,
-        "rating_sigma": 6.511526229636264,
-        "result": "loss"
       }
     }
   }

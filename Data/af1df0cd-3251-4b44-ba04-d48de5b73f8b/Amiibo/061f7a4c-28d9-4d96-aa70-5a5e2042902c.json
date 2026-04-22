@@ -6,6 +6,12 @@
   "trainer_name": "raid_boss_09",
   "matches": {
     "2022-04-08T21:47:08.879335+00:00": {
+      "this_amiibo": {
+        "rating": -0.679411972267598,
+        "rating_mu": 18.886016185251655,
+        "rating_sigma": 6.5218093858397514,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
         "id": "1395391b-14ae-4156-b03d-428d95cd42ef",
@@ -14,12 +20,6 @@
         "trainer_id": "5f193754-19cc-4e88-a09f-cd36122614ca",
         "trainer_name": "twrecks64",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.679411972267598,
-        "rating_mu": 18.886016185251655,
-        "rating_sigma": 6.5218093858397514,
-        "result": "loss"
       }
     }
   }

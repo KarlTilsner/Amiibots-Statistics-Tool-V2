@@ -6,6 +6,12 @@
   "trainer_name": "BCRiparo",
   "matches": {
     "2020-10-17T09:33:45.428252+00:00": {
+      "this_amiibo": {
+        "rating": 0.3022629328575661,
+        "rating_mu": 20.979121206588122,
+        "rating_sigma": 6.892286091243519,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
         "id": "3dc553b8-37c2-438e-9cee-304571de76b9",
@@ -14,15 +20,15 @@
         "trainer_id": "ab1f76a6-17bb-4125-aafe-261bbce07ff1",
         "trainer_name": "the_scuttler",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.3022629328575661,
-        "rating_mu": 20.979121206588122,
-        "rating_sigma": 6.892286091243519,
-        "result": "loss"
       }
     },
     "2020-10-17T18:30:16.606246+00:00": {
+      "this_amiibo": {
+        "rating": 0.9878091122478097,
+        "rating_mu": 18.82399169588608,
+        "rating_sigma": 5.94539419454609,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
         "id": "9a092eff-fc0e-4469-9cac-09390471f356",
@@ -31,12 +37,6 @@
         "trainer_id": "26942317-1919-4c5c-8072-7bc3e0bc2838",
         "trainer_name": "NurfboyU",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9878091122478097,
-        "rating_mu": 18.82399169588608,
-        "rating_sigma": 5.94539419454609,
-        "result": "loss"
       }
     }
   }

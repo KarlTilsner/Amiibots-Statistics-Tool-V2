@@ -6,6 +6,12 @@
   "trainer_name": "foamtray",
   "matches": {
     "2020-09-02T18:08:40.779025+00:00": {
+      "this_amiibo": {
+        "rating": 0.7254967785920741,
+        "rating_mu": 22.601487000428612,
+        "rating_sigma": 7.291996740612179,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "f49cd4d8-a72e-4ff9-9984-cdf59ad80aab",
@@ -14,12 +20,6 @@
         "trainer_id": "bb38f34d-4024-4bac-8796-b84083162851",
         "trainer_name": "TechnoPuff",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7254967785920741,
-        "rating_mu": 22.601487000428612,
-        "rating_sigma": 7.291996740612179,
-        "result": "loss"
       }
     }
   }

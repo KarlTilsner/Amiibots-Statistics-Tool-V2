@@ -6,6 +6,12 @@
   "trainer_name": "pinheadpatrick017",
   "matches": {
     "2022-01-02T07:08:22.919607+00:00": {
+      "this_amiibo": {
+        "rating": 0.05458977732733672,
+        "rating_mu": 20.258448537931663,
+        "rating_sigma": 6.734619586868109,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96e48494-946f-4280-a419-488d644135e0",
         "id": "2dfcd8a8-d509-421a-b08d-4d54f4707299",
@@ -14,12 +20,6 @@
         "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
         "trainer_name": "i_guano",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.05458977732733672,
-        "rating_mu": 20.258448537931663,
-        "rating_sigma": 6.734619586868109,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "OmenApproaching",
   "matches": {
     "2021-09-16T00:00:51.112606+00:00": {
+      "this_amiibo": {
+        "rating": 1.102450701771378,
+        "rating_mu": 23.55470497011807,
+        "rating_sigma": 7.484084756115564,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "cff06c1d-80dd-4cf5-9ad4-f840326f4058",
@@ -14,12 +20,6 @@
         "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
         "trainer_name": "Azend__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.102450701771378,
-        "rating_mu": 23.55470497011807,
-        "rating_sigma": 7.484084756115564,
-        "result": "loss"
       }
     }
   }

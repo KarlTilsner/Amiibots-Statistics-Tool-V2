@@ -40,6 +40,12 @@
       }
     },
     "2022-09-23T07:30:19.941387+00:00": {
+      "this_amiibo": {
+        "rating": 16.381753581718147,
+        "rating_mu": 30.922621570858894,
+        "rating_sigma": 4.846955996380249,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
         "id": "82ea3740-d14e-499c-adca-6e2ac63a99b7",
@@ -48,11 +54,22 @@
         "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
         "trainer_name": "soysauce881",
         "result": "win"
-      },
+      }
+    },
+    "2022-11-02T07:21:45.508464+00:00": {
       "this_amiibo": {
-        "rating": 16.381753581718147,
-        "rating_mu": 30.922621570858894,
-        "rating_sigma": 4.846955996380249,
+        "rating": 19.830705142698974,
+        "rating_mu": 32.6886341205485,
+        "rating_sigma": 4.285976325949841,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "667a971b-be82-45c5-a151-f4e807d63d74",
+        "name": "Dr.Zomboss",
+        "rating": 25.446117952111937,
+        "trainer_id": "e315cc8f-425d-4686-a648-103739846f36",
+        "trainer_name": "Darkmega5",
         "result": "loss"
       }
     }

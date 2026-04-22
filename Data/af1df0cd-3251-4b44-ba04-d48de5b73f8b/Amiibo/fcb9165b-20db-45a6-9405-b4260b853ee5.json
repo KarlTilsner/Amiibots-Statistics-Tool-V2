@@ -6,6 +6,12 @@
   "trainer_name": "ethanzombiek",
   "matches": {
     "2023-06-04T13:11:05.854173+00:00": {
+      "this_amiibo": {
+        "rating": 0.22418103065245987,
+        "rating_mu": 21.772111872301064,
+        "rating_sigma": 7.182643613882868,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "e32749bf-dd73-4ff2-ac92-f3196f4d60b2",
@@ -14,12 +20,6 @@
         "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
         "trainer_name": "wyvernfalcon",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.22418103065245987,
-        "rating_mu": 21.772111872301064,
-        "rating_sigma": 7.182643613882868,
-        "result": "loss"
       }
     }
   }

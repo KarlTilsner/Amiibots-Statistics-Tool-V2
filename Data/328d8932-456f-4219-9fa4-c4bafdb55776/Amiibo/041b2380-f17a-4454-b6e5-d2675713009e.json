@@ -6,6 +6,12 @@
   "trainer_name": "tegtegthe5",
   "matches": {
     "2022-05-26T12:56:48.419651+00:00": {
+      "this_amiibo": {
+        "rating": 0.5555562670402736,
+        "rating_mu": 19.547138642561073,
+        "rating_sigma": 6.330527458506933,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
         "id": "a2fb69da-514c-4890-a4f0-2b53a585049c",
@@ -14,12 +20,6 @@
         "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
         "trainer_name": "jozz024",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5555562670402736,
-        "rating_mu": 19.547138642561073,
-        "rating_sigma": 6.330527458506933,
-        "result": "loss"
       }
     }
   }

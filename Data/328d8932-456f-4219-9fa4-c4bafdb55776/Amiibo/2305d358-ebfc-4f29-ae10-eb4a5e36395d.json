@@ -6,6 +6,12 @@
   "trainer_name": "combine788",
   "matches": {
     "2022-03-18T05:54:02.749821+00:00": {
+      "this_amiibo": {
+        "rating": 1.3500591574935115,
+        "rating_mu": 22.506332674118767,
+        "rating_sigma": 7.052091172208419,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "6a7ea9f4-83a9-4086-ac8c-ee72bb19a3a8",
@@ -14,12 +20,6 @@
         "trainer_id": "2e3e5637-f310-40bd-8e17-48dde9fc2031",
         "trainer_name": "shemky_da_best",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.3500591574935115,
-        "rating_mu": 22.506332674118767,
-        "rating_sigma": 7.052091172208419,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "tinygreennerd",
   "matches": {
     "2020-11-22T10:03:09.468175+00:00": {
+      "this_amiibo": {
+        "rating": 1.060991053146143,
+        "rating_mu": 21.068343958093525,
+        "rating_sigma": 6.66911763498246,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "428ce2b9-42a7-4562-b577-5c928350c3b1",
@@ -14,12 +20,6 @@
         "trainer_id": "1a40b865-6138-4324-b2d6-f23b1fb07270",
         "trainer_name": "Linkushi_mario",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.060991053146143,
-        "rating_mu": 21.068343958093525,
-        "rating_sigma": 6.66911763498246,
-        "result": "loss"
       }
     },
     "2020-11-23T10:44:29.585866+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2020-11-25T05:42:52.023825+00:00": {
+      "this_amiibo": {
+        "rating": 11.359478234752075,
+        "rating_mu": 24.950607655136203,
+        "rating_sigma": 4.530376473461376,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
         "id": "2abedf2c-094a-41a0-a210-b089d149b16a",
@@ -48,12 +54,6 @@
         "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
         "trainer_name": "carbon_show",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.359478234752075,
-        "rating_mu": 24.950607655136203,
-        "rating_sigma": 4.530376473461376,
-        "result": "loss"
       }
     },
     "2020-12-02T09:27:59.815012+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2020-12-02T18:04:58.751082+00:00": {
+      "this_amiibo": {
+        "rating": 15.326054524450717,
+        "rating_mu": 25.929959282507973,
+        "rating_sigma": 3.5346349193524187,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "428ce2b9-42a7-4562-b577-5c928350c3b1",
@@ -82,12 +88,193 @@
         "trainer_id": "1a40b865-6138-4324-b2d6-f23b1fb07270",
         "trainer_name": "Linkushi_mario",
         "result": "win"
-      },
+      }
+    },
+    "2020-12-12T22:19:06.126844+00:00": {
       "this_amiibo": {
-        "rating": 15.326054524450717,
-        "rating_mu": 25.929959282507973,
-        "rating_sigma": 3.5346349193524187,
+        "rating": 18.45259954880732,
+        "rating_mu": 27.998482577965106,
+        "rating_sigma": 3.181961009719261,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "e7d22cfe-bb69-4a5a-89f8-a03d0256bbb4",
+        "name": "Silvio",
+        "rating": 26.243359628254126,
+        "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
+        "trainer_name": "apple_beebs",
         "result": "loss"
+      }
+    },
+    "2020-12-16T14:12:16.720335+00:00": {
+      "this_amiibo": {
+        "rating": 20.586487913531236,
+        "rating_mu": 29.410221943448885,
+        "rating_sigma": 2.9412446766392164,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "e419be38-ce7e-44ec-b951-cecfdc3d6ad7",
+        "name": "Squithy",
+        "rating": 24.354183543132976,
+        "trainer_id": "ee675c7c-7836-4aa2-8a36-fef64e67b80a",
+        "trainer_name": "truetitan14",
+        "result": "loss"
+      }
+    },
+    "2020-12-22T06:21:52.533566+00:00": {
+      "this_amiibo": {
+        "rating": 19.593003620041834,
+        "rating_mu": 27.765993504553425,
+        "rating_sigma": 2.7243299615038636,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "97533583-851b-478f-bbf5-7a6f13b31053",
+        "name": "John",
+        "rating": 20.317427367090893,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "win"
+      }
+    },
+    "2020-12-24T08:48:54.580340+00:00": {
+      "this_amiibo": {
+        "rating": 21.436753510352126,
+        "rating_mu": 29.092756854033652,
+        "rating_sigma": 2.5520011145605093,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "6155d723-5d1e-4570-8630-31776588393b",
+        "name": "Ban Icies.",
+        "rating": 26.31780537586915,
+        "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+        "trainer_name": "Kangoni",
+        "result": "loss"
+      }
+    },
+    "2020-12-26T07:14:28.285443+00:00": {
+      "this_amiibo": {
+        "rating": 20.741882246475853,
+        "rating_mu": 27.960159613250113,
+        "rating_sigma": 2.40609245559142,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "a3d39d27-a25b-44ce-927c-a9e43dba0211",
+        "name": "BruceWayne",
+        "rating": 22.933910320098786,
+        "trainer_id": "a741e042-203e-4ab9-a042-fe55868ee59d",
+        "trainer_name": "nickclark",
+        "result": "win"
+      }
+    },
+    "2020-12-27T03:54:23.528341+00:00": {
+      "this_amiibo": {
+        "rating": 20.252405429887105,
+        "rating_mu": 27.14487389532373,
+        "rating_sigma": 2.297489488478875,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "7d8a3e21-1e14-4912-be02-08136ab1c628",
+        "name": "Mr. Mario",
+        "rating": 21.666890842257782,
+        "trainer_id": "1a40b865-6138-4324-b2d6-f23b1fb07270",
+        "trainer_name": "Linkushi_mario",
+        "result": "win"
+      }
+    },
+    "2020-12-27T11:33:16.547606+00:00": {
+      "this_amiibo": {
+        "rating": 21.05281968825463,
+        "rating_mu": 27.783617250231735,
+        "rating_sigma": 2.2435991873257017,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+        "id": "3d411d30-586a-4e9d-92e1-1f916146d8d7",
+        "name": "WitchWaifu",
+        "rating": 10.833508516143958,
+        "trainer_id": "01df4710-a9ed-40e8-bbe5-853594fb3ae1",
+        "trainer_name": "sloth1990",
+        "result": "loss"
+      }
+    },
+    "2020-12-29T21:17:49.388968+00:00": {
+      "this_amiibo": {
+        "rating": 20.586887773403852,
+        "rating_mu": 27.030416286759795,
+        "rating_sigma": 2.147842837785314,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "9efd7190-bcc0-4cf5-a88c-1df6d886ca15",
+        "name": "Jak",
+        "rating": 23.618112850864247,
+        "trainer_id": "842fd55b-5c9f-4914-820e-99639a5ccf96",
+        "trainer_name": "littlefang__",
+        "result": "win"
+      }
+    },
+    "2020-12-31T11:58:56.681459+00:00": {
+      "this_amiibo": {
+        "rating": 20.284756135700697,
+        "rating_mu": 26.504841074592502,
+        "rating_sigma": 2.073361646297269,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "c604d381-2c60-45c5-a49d-a18dcd2d5d3f",
+        "name": "Not Mario",
+        "rating": 24.761258106259618,
+        "trainer_id": "1a40b865-6138-4324-b2d6-f23b1fb07270",
+        "trainer_name": "Linkushi_mario",
+        "result": "win"
+      }
+    },
+    "2021-01-02T03:32:14.033648+00:00": {
+      "this_amiibo": {
+        "rating": 19.583546364444246,
+        "rating_mu": 25.645570375507138,
+        "rating_sigma": 2.0206746703542975,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "36ab46e7-6ee7-422c-b25b-7182d6b55065",
+        "name": "HiDiddlyHo",
+        "rating": 9.83931593711436,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "staples___",
+        "result": "win"
+      }
+    },
+    "2021-01-04T02:08:06.496448+00:00": {
+      "this_amiibo": {
+        "rating": 19.553667094741943,
+        "rating_mu": 25.54744900359203,
+        "rating_sigma": 1.9979273029500286,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
+        "id": "7deb1cb1-79cb-4069-af35-fb0fb17fa190",
+        "name": "Emiya",
+        "rating": 29.853242542409227,
+        "trainer_id": "842fd55b-5c9f-4914-820e-99639a5ccf96",
+        "trainer_name": "littlefang__",
+        "result": "win"
       }
     }
   }

@@ -23,6 +23,12 @@
       }
     },
     "2022-03-14T10:00:08.447843+00:00": {
+      "this_amiibo": {
+        "rating": 12.717009586605077,
+        "rating_mu": 27.04253235735039,
+        "rating_sigma": 4.775174256915104,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
         "id": "e59f06b7-ad59-420f-aeae-5dc8b436116c",
@@ -31,15 +37,15 @@
         "trainer_id": "80f98683-a318-47dd-bcf2-93f67d0878d4",
         "trainer_name": "Sir_Dragonite",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.717009586605077,
-        "rating_mu": 27.04253235735039,
-        "rating_sigma": 4.775174256915104,
-        "result": "loss"
       }
     },
     "2022-03-14T15:15:43.380233+00:00": {
+      "this_amiibo": {
+        "rating": 12.421537681341807,
+        "rating_mu": 25.095243516086867,
+        "rating_sigma": 4.224568611581687,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "b7d24e29-c613-441f-9dc1-3c92f41ab560",
@@ -48,12 +54,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.421537681341807,
-        "rating_mu": 25.095243516086867,
-        "rating_sigma": 4.224568611581687,
-        "result": "loss"
       }
     }
   }

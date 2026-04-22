@@ -6,6 +6,12 @@
   "trainer_name": "Kangoni",
   "matches": {
     "2020-07-11T04:52:38.883323+00:00": {
+      "this_amiibo": {
+        "rating": 0.7811169538091427,
+        "rating_mu": 20.077732785476105,
+        "rating_sigma": 6.432205277222321,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
         "id": "6841123d-b6c7-45c1-8c16-426a91c66401",
@@ -14,12 +20,6 @@
         "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
         "trainer_name": "River_Tethys",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7811169538091427,
-        "rating_mu": 20.077732785476105,
-        "rating_sigma": 6.432205277222321,
-        "result": "loss"
       }
     },
     "2020-07-11T12:44:53.480030+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2020-07-11T08:19:04.296626+00:00": {
+      "this_amiibo": {
+        "rating": 1.8188539624983857,
+        "rating_mu": 17.026822080241587,
+        "rating_sigma": 5.0693227059144,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
         "id": "9cd7720b-2443-45a9-858c-ee2b9d3a8fb0",
@@ -48,15 +54,15 @@
         "trainer_id": "67752445-1c0b-45ff-872a-f478a3c95ecf",
         "trainer_name": "dreadfather_666",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.8188539624983857,
-        "rating_mu": 17.026822080241587,
-        "rating_sigma": 5.0693227059144,
-        "result": "loss"
       }
     },
     "2020-07-11T08:11:23.187640+00:00": {
+      "this_amiibo": {
+        "rating": 1.4505384187518437,
+        "rating_mu": 18.67429880869382,
+        "rating_sigma": 5.741253463313992,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "31da059a-5e6e-4882-ad2b-87988e3e2367",
@@ -65,12 +71,6 @@
         "trainer_id": "e8e5ceb3-094e-4dd0-821a-1be83af3c473",
         "trainer_name": "moxievegas",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.4505384187518437,
-        "rating_mu": 18.67429880869382,
-        "rating_sigma": 5.741253463313992,
-        "result": "loss"
       }
     }
   }

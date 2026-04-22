@@ -6,6 +6,12 @@
   "trainer_name": "AlexanderAgne",
   "matches": {
     "2024-02-12T17:47:35.007036+00:00": {
+      "this_amiibo": {
+        "rating": 0.8378163496213809,
+        "rating_mu": 20.21705242258767,
+        "rating_sigma": 6.45974535765543,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
         "id": "c64b4101-6411-4626-ac7b-01886c210bed",
@@ -14,15 +20,15 @@
         "trainer_id": "80f98683-a318-47dd-bcf2-93f67d0878d4",
         "trainer_name": "Sir_Dragonite",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8378163496213809,
-        "rating_mu": 20.21705242258767,
-        "rating_sigma": 6.45974535765543,
-        "result": "loss"
       }
     },
     "2024-02-13T14:56:18.056455+00:00": {
+      "this_amiibo": {
+        "rating": 0.6879089333178836,
+        "rating_mu": 16.445361744124924,
+        "rating_sigma": 5.252484270269013,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "1e0fb7c4-e7bf-4ec2-8494-651d831cf767",
@@ -31,12 +37,6 @@
         "trainer_id": "d10a1a53-4977-4227-a545-40d116f5b796",
         "trainer_name": "combine788",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6879089333178836,
-        "rating_mu": 16.445361744124924,
-        "rating_sigma": 5.252484270269013,
-        "result": "loss"
       }
     }
   }

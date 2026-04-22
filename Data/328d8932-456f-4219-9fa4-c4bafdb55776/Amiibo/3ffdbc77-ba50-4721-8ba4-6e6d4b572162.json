@@ -6,6 +6,12 @@
   "trainer_name": "raid_boss_09",
   "matches": {
     "2022-07-15T10:05:06.614180+00:00": {
+      "this_amiibo": {
+        "rating": -0.004655070137335571,
+        "rating_mu": 18.721562988217027,
+        "rating_sigma": 6.242072686118121,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
         "id": "acd480bd-3d56-4dbd-a974-07a8f8340d68",
@@ -14,12 +20,6 @@
         "trainer_id": "6e7c5192-3b94-41ee-a44c-1476c68bdade",
         "trainer_name": "frosteefromyt",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.004655070137335571,
-        "rating_mu": 18.721562988217027,
-        "rating_sigma": 6.242072686118121,
-        "result": "loss"
       }
     },
     "2022-07-24T03:18:05.434855+00:00": {
@@ -37,6 +37,23 @@
         "trainer_id": "0dac8a24-5ed7-4fc9-9c00-5674617b4fab",
         "trainer_name": "JohnLML123",
         "result": "loss"
+      }
+    },
+    "2022-12-27T14:18:22.568039+00:00": {
+      "this_amiibo": {
+        "rating": 6.774463300534844,
+        "rating_mu": 20.28292076345888,
+        "rating_sigma": 4.502819154308011,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "f21764a6-540c-4ad5-91f9-b5c0da95ee17",
+        "name": "Nyx",
+        "rating": 19.74663511916303,
+        "trainer_id": "c1461260-903f-4aae-ad42-af21e07e1e98",
+        "trainer_name": "MoonBeanBie",
+        "result": "win"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "youaregoknba",
   "matches": {
     "2020-10-15T18:37:26.617124+00:00": {
+      "this_amiibo": {
+        "rating": 0.18515917393207815,
+        "rating_mu": 20.149366881973354,
+        "rating_sigma": 6.654735902680425,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "c90e4c28-31fe-47e0-88c1-8a39f75a7328",
@@ -14,12 +20,6 @@
         "trainer_id": "3e1642f4-3a61-4225-bd2d-d551616be0fa",
         "trainer_name": "doopfizzle",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.18515917393207815,
-        "rating_mu": 20.149366881973354,
-        "rating_sigma": 6.654735902680425,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "soysauce881",
   "matches": {
     "2022-07-15T09:30:52.090985+00:00": {
+      "this_amiibo": {
+        "rating": 0.7199046822106681,
+        "rating_mu": 20.3153080028355,
+        "rating_sigma": 6.531801106874944,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "a7415042-02a9-4c45-a8a0-75b4538c90dc",
@@ -14,12 +20,6 @@
         "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
         "trainer_name": "Pi_Boy_314",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7199046822106681,
-        "rating_mu": 20.3153080028355,
-        "rating_sigma": 6.531801106874944,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "foamtray",
   "matches": {
     "2020-02-27T21:41:33.605546+00:00": {
+      "this_amiibo": {
+        "rating": 0.8116436032587302,
+        "rating_mu": 20.17460723301837,
+        "rating_sigma": 6.454321209919881,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
         "id": "ae2d3684-1417-4fc1-9d2a-1bb930efc98b",
@@ -14,12 +20,6 @@
         "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
         "trainer_name": "lady_cucco",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8116436032587302,
-        "rating_mu": 20.17460723301837,
-        "rating_sigma": 6.454321209919881,
-        "result": "loss"
       }
     },
     "2020-02-28T12:40:38.529551+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2020-02-29T14:38:10.699856+00:00": {
+      "this_amiibo": {
+        "rating": 15.680968622967018,
+        "rating_mu": 26.01440498757209,
+        "rating_sigma": 3.44447878820169,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
         "id": "c351d9b3-caf2-4531-a5df-9761a455acdd",
@@ -82,15 +88,15 @@
         "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
         "trainer_name": "river_tethys",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 15.680968622967018,
-        "rating_mu": 26.01440498757209,
-        "rating_sigma": 3.44447878820169,
-        "result": "loss"
       }
     },
     "2020-03-01T05:26:03.028449+00:00": {
+      "this_amiibo": {
+        "rating": 14.882096999687633,
+        "rating_mu": 24.26878057906532,
+        "rating_sigma": 3.12889452645923,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
         "id": "40a3f482-9bd6-4313-b441-14e8844a81e4",
@@ -99,15 +105,15 @@
         "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
         "trainer_name": "lady_cucco",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.882096999687633,
-        "rating_mu": 24.26878057906532,
-        "rating_sigma": 3.12889452645923,
-        "result": "loss"
       }
     },
     "2020-03-01T12:33:59.172121+00:00": {
+      "this_amiibo": {
+        "rating": 14.828765857990355,
+        "rating_mu": 23.820154616651067,
+        "rating_sigma": 2.9971295862202374,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
         "id": "d53c9469-8a85-4145-9b9b-395c9f7dacb8",
@@ -116,12 +122,6 @@
         "trainer_id": "092a3c0a-22f1-450b-a131-6991ec853589",
         "trainer_name": "leaf_1337",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.828765857990355,
-        "rating_mu": 23.820154616651067,
-        "rating_sigma": 2.9971295862202374,
-        "result": "loss"
       }
     }
   }

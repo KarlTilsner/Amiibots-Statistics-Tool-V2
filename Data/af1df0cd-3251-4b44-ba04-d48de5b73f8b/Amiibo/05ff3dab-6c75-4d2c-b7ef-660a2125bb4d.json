@@ -6,6 +6,12 @@
   "trainer_name": "AlexanderAgne",
   "matches": {
     "2022-08-05T06:57:13.265063+00:00": {
+      "this_amiibo": {
+        "rating": 1.0701372231789463,
+        "rating_mu": 20.90301176145597,
+        "rating_sigma": 6.610958179425674,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "d82e2f01-7b15-42e5-b6a4-97f869fea0b9",
@@ -14,12 +20,6 @@
         "trainer_id": "fdc1350c-e911-4557-88ae-b29111abb0e9",
         "trainer_name": "Angel3lego",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0701372231789463,
-        "rating_mu": 20.90301176145597,
-        "rating_sigma": 6.610958179425674,
-        "result": "loss"
       }
     }
   }

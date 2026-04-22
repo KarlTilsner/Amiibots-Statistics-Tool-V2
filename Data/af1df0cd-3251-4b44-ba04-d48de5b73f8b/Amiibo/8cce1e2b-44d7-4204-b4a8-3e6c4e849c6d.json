@@ -40,6 +40,12 @@
       }
     },
     "2024-03-13T09:03:11.394614+00:00": {
+      "this_amiibo": {
+        "rating": 19.6328870781902,
+        "rating_mu": 32.50412004782152,
+        "rating_sigma": 4.290410989877107,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "36b228bf-16be-4885-8b2e-9fc13dc648aa",
@@ -48,12 +54,6 @@
         "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
         "trainer_name": "Pi_Boy_314",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 19.6328870781902,
-        "rating_mu": 32.50412004782152,
-        "rating_sigma": 4.290410989877107,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "mythricity",
   "matches": {
     "2021-03-08T00:56:36.828698+00:00": {
+      "this_amiibo": {
+        "rating": 1.2214718982366115,
+        "rating_mu": 21.53383554829306,
+        "rating_sigma": 6.770787883352149,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "ab5289d1-bd81-4600-a5c3-cfc49f7ccf95",
@@ -14,12 +20,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2214718982366115,
-        "rating_mu": 21.53383554829306,
-        "rating_sigma": 6.770787883352149,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "LunagradeTV",
   "matches": {
     "2021-09-23T08:14:19.053161+00:00": {
+      "this_amiibo": {
+        "rating": -1.1097725325623067,
+        "rating_mu": 19.6338778946395,
+        "rating_sigma": 6.914550142400603,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
         "id": "ec965453-defd-43b3-8949-84ffff4742fc",
@@ -14,12 +20,6 @@
         "trainer_id": "61314a03-5052-497e-a2bf-ebeabc47be55",
         "trainer_name": "amatsoup",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.1097725325623067,
-        "rating_mu": 19.6338778946395,
-        "rating_sigma": 6.914550142400603,
-        "result": "loss"
       }
     }
   }

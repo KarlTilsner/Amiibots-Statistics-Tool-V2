@@ -57,6 +57,12 @@
       }
     },
     "2021-09-29T19:34:57.901986+00:00": {
+      "this_amiibo": {
+        "rating": 18.827770374183558,
+        "rating_mu": 31.318227819375217,
+        "rating_sigma": 4.163485815063886,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "ab5289d1-bd81-4600-a5c3-cfc49f7ccf95",
@@ -65,15 +71,15 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 18.827770374183558,
-        "rating_mu": 31.318227819375217,
-        "rating_sigma": 4.163485815063886,
-        "result": "loss"
       }
     },
     "2021-10-11T05:42:55.025029+00:00": {
+      "this_amiibo": {
+        "rating": 17.213254357061757,
+        "rating_mu": 28.053511356453864,
+        "rating_sigma": 3.613418999797369,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
         "id": "103c344d-5360-47bb-bd0a-c874d842216b",
@@ -82,12 +88,6 @@
         "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
         "trainer_name": "SG_Bubs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 17.213254357061757,
-        "rating_mu": 28.053511356453864,
-        "rating_sigma": 3.613418999797369,
-        "result": "loss"
       }
     }
   }

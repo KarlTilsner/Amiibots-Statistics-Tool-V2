@@ -91,6 +91,12 @@
       }
     },
     "2020-09-29T00:32:49.369677+00:00": {
+      "this_amiibo": {
+        "rating": 20.93653342630894,
+        "rating_mu": 31.850233472711487,
+        "rating_sigma": 3.637900015467516,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "19c17d97-8245-4eb4-bca1-b43516e70cca",
@@ -99,12 +105,6 @@
         "trainer_id": "e107d104-7f29-4a8c-973c-d767b9d963e2",
         "trainer_name": "cryotheist",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 20.93653342630894,
-        "rating_mu": 31.850233472711487,
-        "rating_sigma": 3.637900015467516,
-        "result": "loss"
       }
     },
     "2020-09-29T09:11:15.197042+00:00": {
@@ -125,6 +125,12 @@
       }
     },
     "2020-09-29T12:35:30.726393+00:00": {
+      "this_amiibo": {
+        "rating": 21.290849904107954,
+        "rating_mu": 30.528431624669143,
+        "rating_sigma": 3.079193906853729,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
         "id": "857a0741-109c-4ebe-acb1-999e03b52081",
@@ -133,15 +139,15 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 21.290849904107954,
-        "rating_mu": 30.528431624669143,
-        "rating_sigma": 3.079193906853729,
-        "result": "loss"
       }
     },
     "2020-09-30T05:12:02.122878+00:00": {
+      "this_amiibo": {
+        "rating": 20.371332875997503,
+        "rating_mu": 28.877978589080453,
+        "rating_sigma": 2.8355485710276502,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "c610b97e-74b6-4a66-ae1a-8cc95ba68ad3",
@@ -150,12 +156,6 @@
         "trainer_id": "c34bcb26-07bb-4bba-98e7-b81c71cec6be",
         "trainer_name": "bluebot206",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 20.371332875997503,
-        "rating_mu": 28.877978589080453,
-        "rating_sigma": 2.8355485710276502,
-        "result": "loss"
       }
     }
   }

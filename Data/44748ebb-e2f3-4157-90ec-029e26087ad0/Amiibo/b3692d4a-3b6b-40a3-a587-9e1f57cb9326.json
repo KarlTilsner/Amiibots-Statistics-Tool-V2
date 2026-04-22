@@ -6,6 +6,12 @@
   "trainer_name": "Zenabievg",
   "matches": {
     "2020-06-16T09:59:22.727257+00:00": {
+      "this_amiibo": {
+        "rating": 0.6233318816293654,
+        "rating_mu": 19.80331807970497,
+        "rating_sigma": 6.3933287326918675,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
         "id": "dbdac670-4400-4cb0-95b1-eaf8c6bec01d",
@@ -14,15 +20,15 @@
         "trainer_id": "8576530a-2f15-4cd6-bcb5-d9bf076ea24c",
         "trainer_name": "bladethecheetah",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6233318816293654,
-        "rating_mu": 19.80331807970497,
-        "rating_sigma": 6.3933287326918675,
-        "result": "loss"
       }
     },
     "2020-06-17T04:54:37.562940+00:00": {
+      "this_amiibo": {
+        "rating": 1.1696990570455164,
+        "rating_mu": 18.633073493606492,
+        "rating_sigma": 5.821124812186992,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "e1c14c7f-798e-4872-ac1b-9e2bf2f9e2e1",
@@ -31,12 +37,6 @@
         "trainer_id": "75cc72db-3f1a-4ecb-a476-a681603d9d4e",
         "trainer_name": "boristhekoopa",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1696990570455164,
-        "rating_mu": 18.633073493606492,
-        "rating_sigma": 5.821124812186992,
-        "result": "loss"
       }
     },
     "2020-06-17T10:30:20.068274+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2020-06-17T15:27:51.979900+00:00": {
+      "this_amiibo": {
+        "rating": 9.068007635765511,
+        "rating_mu": 21.40187571031,
+        "rating_sigma": 4.111289358181497,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
         "id": "481cb99b-90c9-44ff-81f2-36b937133f82",
@@ -65,12 +71,6 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.068007635765511,
-        "rating_mu": 21.40187571031,
-        "rating_sigma": 4.111289358181497,
-        "result": "loss"
       }
     }
   }

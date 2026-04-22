@@ -6,6 +6,12 @@
   "trainer_name": "NoAmiibo",
   "matches": {
     "2021-12-04T03:51:02.244576+00:00": {
+      "this_amiibo": {
+        "rating": -0.25354146087350315,
+        "rating_mu": 18.712008210991026,
+        "rating_sigma": 6.32184989062151,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "770ac747-b805-42ee-9335-bd06e72c03c7",
@@ -14,15 +20,15 @@
         "trainer_id": "b4339f6b-f00c-423d-8cc3-e71767923629",
         "trainer_name": "dr_d0om_777",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.25354146087350315,
-        "rating_mu": 18.712008210991026,
-        "rating_sigma": 6.32184989062151,
-        "result": "loss"
       }
     },
     "2021-12-09T04:00:59.043835+00:00": {
+      "this_amiibo": {
+        "rating": 0.30536936993641106,
+        "rating_mu": 17.72526146307313,
+        "rating_sigma": 5.80663069771224,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
         "id": "1cb0d3a0-0348-4fa7-abf9-c05b991f2502",
@@ -31,15 +37,15 @@
         "trainer_id": "d3b9e42a-530d-4db7-95cf-c71ee2dc1602",
         "trainer_name": "CoolerGlassBerriez",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.30536936993641106,
-        "rating_mu": 17.72526146307313,
-        "rating_sigma": 5.80663069771224,
-        "result": "loss"
       }
     },
     "2021-12-12T04:46:54.552877+00:00": {
+      "this_amiibo": {
+        "rating": 0.6843167630438174,
+        "rating_mu": 15.997486023851668,
+        "rating_sigma": 5.104389753602617,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "da3145f0-5750-45a8-a3a5-48b59f62894c",
@@ -48,12 +54,6 @@
         "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
         "trainer_name": "WynnThornton",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6843167630438174,
-        "rating_mu": 15.997486023851668,
-        "rating_sigma": 5.104389753602617,
-        "result": "loss"
       }
     },
     "2021-12-12T21:31:53.124342+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2022-04-30T03:22:19.409076+00:00": {
+      "this_amiibo": {
+        "rating": 4.344633635114816,
+        "rating_mu": 17.37766195480513,
+        "rating_sigma": 4.344342773230105,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
         "id": "7bdd9098-0ad3-480c-b6d1-3f94b82aa788",
@@ -82,15 +88,15 @@
         "trainer_id": "7c0ee4ae-5d77-4016-a663-0d9eaaa09c49",
         "trainer_name": "Stolridur",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 4.344633635114816,
-        "rating_mu": 17.37766195480513,
-        "rating_sigma": 4.344342773230105,
-        "result": "loss"
       }
     },
     "2022-04-30T21:18:06.279673+00:00": {
+      "this_amiibo": {
+        "rating": 3.707826853408026,
+        "rating_mu": 15.153964690500855,
+        "rating_sigma": 3.815379279030943,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
         "id": "f6ba6f19-7890-4d3b-a4e4-3588408603a0",
@@ -99,15 +105,15 @@
         "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
         "trainer_name": "WynnThornton",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 3.707826853408026,
-        "rating_mu": 15.153964690500855,
-        "rating_sigma": 3.815379279030943,
-        "result": "loss"
       }
     },
     "2022-05-10T02:10:40.540203+00:00": {
+      "this_amiibo": {
+        "rating": 3.4708237957734482,
+        "rating_mu": 13.974628174102914,
+        "rating_sigma": 3.501268126109822,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "ec660c1f-6ee0-487a-a707-95c72fc4db7a",
@@ -116,12 +122,6 @@
         "trainer_id": "2ec0adf7-0ef2-4a97-adae-e9197c66067f",
         "trainer_name": "SunBurntRed",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 3.4708237957734482,
-        "rating_mu": 13.974628174102914,
-        "rating_sigma": 3.501268126109822,
-        "result": "loss"
       }
     },
     "2022-05-14T21:18:48.513621+00:00": {

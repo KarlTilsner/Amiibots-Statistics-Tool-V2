@@ -6,6 +6,12 @@
   "trainer_name": "toonlinktroll",
   "matches": {
     "2022-09-08T01:26:35.580268+00:00": {
+      "this_amiibo": {
+        "rating": -0.531490232944364,
+        "rating_mu": 19.627492762272013,
+        "rating_sigma": 6.719660998405459,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
         "id": "bfe4f152-aa94-42be-b1a8-f1186141c4de",
@@ -14,12 +20,6 @@
         "trainer_id": "eb1a1462-8797-4683-9357-0c3ba91b599a",
         "trainer_name": "Gamer_gaben1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.531490232944364,
-        "rating_mu": 19.627492762272013,
-        "rating_sigma": 6.719660998405459,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "spc_ac",
   "matches": {
     "2023-06-16T02:51:58.669547+00:00": {
+      "this_amiibo": {
+        "rating": 10.925023539892422,
+        "rating_mu": 17.906298356434977,
+        "rating_sigma": 2.3270916055141853,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
         "id": "1265858c-38c8-4df0-af8b-d91d51eb0ee1",
@@ -14,12 +20,6 @@
         "trainer_id": "49557980-1a8a-4502-aa5a-b55312198d1c",
         "trainer_name": "reo92793",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.925023539892422,
-        "rating_mu": 17.906298356434977,
-        "rating_sigma": 2.3270916055141853,
-        "result": "loss"
       }
     }
   }

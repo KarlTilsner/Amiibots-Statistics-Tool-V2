@@ -6,6 +6,12 @@
   "trainer_name": "AlexanderAgne",
   "matches": {
     "2022-09-24T14:15:16.115002+00:00": {
+      "this_amiibo": {
+        "rating": 1.1576490290096402,
+        "rating_mu": 21.31466294250889,
+        "rating_sigma": 6.719004637833082,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "b09f30f6-a928-4ca7-8121-d834fcdc5aae",
@@ -14,15 +20,15 @@
         "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
         "trainer_name": "halfmario456_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1576490290096402,
-        "rating_mu": 21.31466294250889,
-        "rating_sigma": 6.719004637833082,
-        "result": "loss"
       }
     },
     "2022-09-24T23:56:38.102884+00:00": {
+      "this_amiibo": {
+        "rating": 1.571425023176591,
+        "rating_mu": 18.568225783213347,
+        "rating_sigma": 5.665600253345586,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
         "id": "78a3c3b0-e109-4786-918c-00cd55ada67c",
@@ -31,12 +37,6 @@
         "trainer_id": "130d14e0-8ba1-407c-8c69-6c2544843b8f",
         "trainer_name": "bertolupin",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.571425023176591,
-        "rating_mu": 18.568225783213347,
-        "rating_sigma": 5.665600253345586,
-        "result": "loss"
       }
     }
   }

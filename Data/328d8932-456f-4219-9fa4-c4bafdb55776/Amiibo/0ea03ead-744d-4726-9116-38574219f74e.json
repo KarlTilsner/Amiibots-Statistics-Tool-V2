@@ -6,6 +6,12 @@
   "trainer_name": "MoonBeanBie",
   "matches": {
     "2022-07-11T14:24:58.878446+00:00": {
+      "this_amiibo": {
+        "rating": 0.9855451170044169,
+        "rating_mu": 21.30574404902816,
+        "rating_sigma": 6.773399644007915,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
         "id": "2cfb5edb-7afb-4c03-ad6e-9446ef0dcaeb",
@@ -14,12 +20,6 @@
         "trainer_id": "57b7c7ba-025a-4f68-a714-8df0b8eba37d",
         "trainer_name": "Reddragun08",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9855451170044169,
-        "rating_mu": 21.30574404902816,
-        "rating_sigma": 6.773399644007915,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "schmorchid",
   "matches": {
     "2024-04-27T12:50:27.676284+00:00": {
+      "this_amiibo": {
+        "rating": 0.40569664444453224,
+        "rating_mu": 19.466054378964106,
+        "rating_sigma": 6.353452578173191,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
         "id": "99a44d17-3317-41df-815b-db2df848d9af",
@@ -14,15 +20,15 @@
         "trainer_id": "1c4294fb-b0ae-40ac-8797-79913cd40162",
         "trainer_name": "superlamp6",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.40569664444453224,
-        "rating_mu": 19.466054378964106,
-        "rating_sigma": 6.353452578173191,
-        "result": "loss"
       }
     },
     "2024-05-08T06:48:55.776583+00:00": {
+      "this_amiibo": {
+        "rating": 0.3968287357373441,
+        "rating_mu": 16.01975795165752,
+        "rating_sigma": 5.207643071973393,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "b901e144-9f24-439c-b6e1-210083171c28",
@@ -31,15 +37,15 @@
         "trainer_id": "16484274-0bf1-42ca-8003-5797b387bdc5",
         "trainer_name": "Denneylaw83",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.3968287357373441,
-        "rating_mu": 16.01975795165752,
-        "rating_sigma": 5.207643071973393,
-        "result": "loss"
       }
     },
     "2024-06-02T10:18:37.242597+00:00": {
+      "this_amiibo": {
+        "rating": -0.2725212881037056,
+        "rating_mu": 13.81676074514469,
+        "rating_sigma": 4.696427344416132,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
         "id": "437b0a4b-e720-43a1-8628-1d3896cb5cba",
@@ -48,12 +54,6 @@
         "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
         "trainer_name": "Competitively2",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.2725212881037056,
-        "rating_mu": 13.81676074514469,
-        "rating_sigma": 4.696427344416132,
-        "result": "loss"
       }
     },
     "2024-06-08T23:01:00.029934+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2024-06-17T02:11:23.426194+00:00": {
+      "this_amiibo": {
+        "rating": 4.09469761450428,
+        "rating_mu": 15.320705135231709,
+        "rating_sigma": 3.742002506909143,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
         "id": "7ed58d08-e337-4dcb-aece-9c80eca569af",
@@ -82,12 +88,6 @@
         "trainer_id": "a9ec9d87-61e1-4c87-be6d-3442cf3a59d4",
         "trainer_name": "bluerunner0",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 4.09469761450428,
-        "rating_mu": 15.320705135231709,
-        "rating_sigma": 3.742002506909143,
-        "result": "loss"
       }
     }
   }

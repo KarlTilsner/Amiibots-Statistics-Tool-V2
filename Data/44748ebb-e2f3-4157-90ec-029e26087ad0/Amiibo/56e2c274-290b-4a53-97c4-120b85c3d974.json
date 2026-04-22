@@ -6,6 +6,12 @@
   "trainer_name": "Linkushi_mario",
   "matches": {
     "2020-10-26T02:14:53.275691+00:00": {
+      "this_amiibo": {
+        "rating": 1.008184609513048,
+        "rating_mu": 20.692554574071846,
+        "rating_sigma": 6.5614566548529325,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "2160327c-c602-4d1a-bf18-8acfefdb9d7b",
@@ -14,12 +20,6 @@
         "trainer_id": "c199091c-22dd-4931-9368-9aaf514d2ee0",
         "trainer_name": "EyeofEnderG38",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.008184609513048,
-        "rating_mu": 20.692554574071846,
-        "rating_sigma": 6.5614566548529325,
-        "result": "loss"
       }
     },
     "2020-10-30T04:59:37.516291+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2020-11-10T04:09:46.592237+00:00": {
+      "this_amiibo": {
+        "rating": 14.703653337155828,
+        "rating_mu": 26.346794964085312,
+        "rating_sigma": 3.8810472089764945,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
         "id": "2795e18a-21f8-421b-a87d-f846032f7ee5",
@@ -65,12 +71,6 @@
         "trainer_id": "7dc8c69a-90af-475f-89c5-1b7ce12dc42b",
         "trainer_name": "SinSei__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.703653337155828,
-        "rating_mu": 26.346794964085312,
-        "rating_sigma": 3.8810472089764945,
-        "result": "loss"
       }
     }
   }

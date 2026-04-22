@@ -6,6 +6,12 @@
   "trainer_name": "rurpking22",
   "matches": {
     "2020-08-29T21:09:36.035337+00:00": {
+      "this_amiibo": {
+        "rating": -0.3125744734280218,
+        "rating_mu": 17.893773400964697,
+        "rating_sigma": 6.0687826247975725,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
         "id": "e07435be-01eb-477b-8fe4-ef4111a52c25",
@@ -14,12 +20,6 @@
         "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
         "trainer_name": "River_Tethys",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.3125744734280218,
-        "rating_mu": 17.893773400964697,
-        "rating_sigma": 6.0687826247975725,
-        "result": "loss"
       }
     },
     "2020-09-01T16:24:52.495237+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2020-09-18T21:09:10.123188+00:00": {
+      "this_amiibo": {
+        "rating": 12.123017954871996,
+        "rating_mu": 23.07271064505251,
+        "rating_sigma": 3.649897563393505,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
         "id": "d7aaa96d-dba5-4aa2-b121-9f1b8e3e57ed",
@@ -65,12 +71,6 @@
         "trainer_id": "3388d666-674d-404e-b6ea-96a6f0e4f893",
         "trainer_name": "Bodhiston",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.123017954871996,
-        "rating_mu": 23.07271064505251,
-        "rating_sigma": 3.649897563393505,
-        "result": "loss"
       }
     },
     "2020-12-01T04:22:54.052180+00:00": {
@@ -91,6 +91,12 @@
       }
     },
     "2020-12-01T03:36:26.273557+00:00": {
+      "this_amiibo": {
+        "rating": 11.982814379869867,
+        "rating_mu": 22.16748491395865,
+        "rating_sigma": 3.3948901780295944,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "cb2505c5-6c47-4883-ae8b-7eaf1e7dbb63",
@@ -99,12 +105,40 @@
         "trainer_id": "62b02980-cc2d-4396-a9fa-610aec10ec5e",
         "trainer_name": "lozlover",
         "result": "win"
-      },
+      }
+    },
+    "2020-12-18T22:04:21.793122+00:00": {
       "this_amiibo": {
-        "rating": 11.982814379869867,
-        "rating_mu": 22.16748491395865,
-        "rating_sigma": 3.3948901780295944,
+        "rating": 14.598306751062774,
+        "rating_mu": 23.195145821441518,
+        "rating_sigma": 2.865613023459581,
         "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "ebc2a198-a170-4c9a-955c-68a9250f66d1",
+        "name": "Agent Léa",
+        "rating": 19.792846386845483,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "win"
+      }
+    },
+    "2020-12-19T03:17:19.682855+00:00": {
+      "this_amiibo": {
+        "rating": 14.432397344941485,
+        "rating_mu": 22.633034365760523,
+        "rating_sigma": 2.7335456736063457,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "dce95cbf-e431-4560-a43b-124e76fa154f",
+        "name": "Kasen",
+        "rating": 24.91766010272989,
+        "trainer_id": "83ad055f-644c-4c4f-8a57-7f9180b0d326",
+        "trainer_name": "ZanyMarshalo",
+        "result": "win"
       }
     }
   }

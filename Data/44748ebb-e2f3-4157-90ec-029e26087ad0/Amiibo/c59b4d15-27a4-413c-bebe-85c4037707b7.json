@@ -6,6 +6,12 @@
   "trainer_name": "qscxz512",
   "matches": {
     "2020-10-18T06:34:00.094719+00:00": {
+      "this_amiibo": {
+        "rating": 0.9214913061413483,
+        "rating_mu": 20.78756926410221,
+        "rating_sigma": 6.622025985986954,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
         "id": "9a092eff-fc0e-4469-9cac-09390471f356",
@@ -14,12 +20,6 @@
         "trainer_id": "26942317-1919-4c5c-8072-7bc3e0bc2838",
         "trainer_name": "NurfboyU",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9214913061413483,
-        "rating_mu": 20.78756926410221,
-        "rating_sigma": 6.622025985986954,
-        "result": "loss"
       }
     }
   }

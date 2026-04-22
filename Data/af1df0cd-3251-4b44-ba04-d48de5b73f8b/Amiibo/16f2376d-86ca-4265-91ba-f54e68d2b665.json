@@ -6,6 +6,12 @@
   "trainer_name": "Competitively2",
   "matches": {
     "2024-05-18T18:26:27.737913+00:00": {
+      "this_amiibo": {
+        "rating": 0.6180614236668802,
+        "rating_mu": 16.909511904553945,
+        "rating_sigma": 5.430483493629022,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
         "id": "004bd0f4-fb4a-4c7a-ac8e-f735a2eb947c",
@@ -14,12 +20,6 @@
         "trainer_id": "8208f1d7-4cb2-4843-b9c3-b6a70b40d323",
         "trainer_name": "struhbruh_hyp3r",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6180614236668802,
-        "rating_mu": 16.909511904553945,
-        "rating_sigma": 5.430483493629022,
-        "result": "loss"
       }
     },
     "2024-06-03T22:50:12.413120+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2024-07-02T03:11:14.231073+00:00": {
+      "this_amiibo": {
+        "rating": 9.548620420569993,
+        "rating_mu": 20.474877535978013,
+        "rating_sigma": 3.6420857051360067,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
         "id": "204aa8d9-d961-404d-bc62-abb0a1ac21a1",
@@ -65,12 +71,6 @@
         "trainer_id": "932a9ec7-b463-41d8-bc40-59e2e396a8ed",
         "trainer_name": "ricola7ttv",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.548620420569993,
-        "rating_mu": 20.474877535978013,
-        "rating_sigma": 3.6420857051360067,
-        "result": "loss"
       }
     }
   }

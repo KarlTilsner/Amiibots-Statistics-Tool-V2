@@ -40,6 +40,12 @@
       }
     },
     "2023-04-06T12:04:03.651779+00:00": {
+      "this_amiibo": {
+        "rating": 12.062237909535675,
+        "rating_mu": 27.921481558842952,
+        "rating_sigma": 5.286414549769092,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
         "id": "45ba946a-6570-485a-ba52-b9983d866a56",
@@ -48,15 +54,15 @@
         "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
         "trainer_name": "Azend_1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.062237909535675,
-        "rating_mu": 27.921481558842952,
-        "rating_sigma": 5.286414549769092,
-        "result": "loss"
       }
     },
     "2023-04-07T01:27:52.710233+00:00": {
+      "this_amiibo": {
+        "rating": 18.32634356492538,
+        "rating_mu": 29.85704560282712,
+        "rating_sigma": 3.8435673459672475,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
         "id": "7d469cd5-3c5b-43c3-8fa4-21745adce012",
@@ -65,12 +71,6 @@
         "trainer_id": "8e290d89-5484-46ab-b222-914c45b7b11c",
         "trainer_name": "pixel_gunners",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 18.32634356492538,
-        "rating_mu": 29.85704560282712,
-        "rating_sigma": 3.8435673459672475,
-        "result": "loss"
       }
     }
   }

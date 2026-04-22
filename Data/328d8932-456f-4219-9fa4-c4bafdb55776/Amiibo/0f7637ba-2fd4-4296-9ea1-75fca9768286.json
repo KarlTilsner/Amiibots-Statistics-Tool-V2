@@ -40,6 +40,12 @@
       }
     },
     "2022-09-12T21:01:20.992493+00:00": {
+      "this_amiibo": {
+        "rating": 19.447171996072978,
+        "rating_mu": 32.8646088469921,
+        "rating_sigma": 4.472478950306374,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
@@ -48,12 +54,40 @@
         "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
         "trainer_name": "nozzly",
         "result": "win"
-      },
+      }
+    },
+    "2022-10-09T04:51:44.027351+00:00": {
       "this_amiibo": {
-        "rating": 19.447171996072978,
-        "rating_mu": 32.8646088469921,
-        "rating_sigma": 4.472478950306374,
+        "rating": 18.652326446241073,
+        "rating_mu": 30.33940413230421,
+        "rating_sigma": 3.8956925620210456,
         "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "754d86ff-4e3a-44fe-afe8-7d83194fd424",
+        "name": "TriWisdom",
+        "rating": 27.284119375666766,
+        "trainer_id": "1b2f2208-154e-44fd-a520-f5a043b3e7ba",
+        "trainer_name": "rufflestheinklingplayer",
+        "result": "win"
+      }
+    },
+    "2022-10-17T18:49:51.682762+00:00": {
+      "this_amiibo": {
+        "rating": 17.990546482690355,
+        "rating_mu": 28.571735683932303,
+        "rating_sigma": 3.52706306708065,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "ef234b04-48bc-4688-9c59-d8c9a6bd9715",
+        "name": "The Shrike",
+        "rating": 23.40060249656564,
+        "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
+        "trainer_name": "River_Tethys",
+        "result": "win"
       }
     }
   }

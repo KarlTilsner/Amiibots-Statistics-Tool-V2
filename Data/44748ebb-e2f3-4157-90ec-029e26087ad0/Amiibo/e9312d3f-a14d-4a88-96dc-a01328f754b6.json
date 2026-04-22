@@ -6,6 +6,12 @@
   "trainer_name": "bluerey6_lol",
   "matches": {
     "2020-10-23T01:05:05.994364+00:00": {
+      "this_amiibo": {
+        "rating": 0.5339615724930908,
+        "rating_mu": 19.504180972220475,
+        "rating_sigma": 6.323406466575795,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
         "id": "2869a26b-c6f4-4e4c-87a2-6ce050097f5d",
@@ -14,15 +20,15 @@
         "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
         "trainer_name": "nozzly",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5339615724930908,
-        "rating_mu": 19.504180972220475,
-        "rating_sigma": 6.323406466575795,
-        "result": "loss"
       }
     },
     "2020-10-23T11:56:25.214611+00:00": {
+      "this_amiibo": {
+        "rating": 1.0487658002738236,
+        "rating_mu": 18.08973552715034,
+        "rating_sigma": 5.680323242292172,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
         "id": "23a42685-20cf-4628-a8e0-801e9a68fd29",
@@ -31,12 +37,6 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0487658002738236,
-        "rating_mu": 18.08973552715034,
-        "rating_sigma": 5.680323242292172,
-        "result": "loss"
       }
     }
   }

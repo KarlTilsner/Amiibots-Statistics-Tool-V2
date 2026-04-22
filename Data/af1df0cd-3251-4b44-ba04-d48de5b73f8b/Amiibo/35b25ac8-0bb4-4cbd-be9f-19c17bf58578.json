@@ -6,6 +6,12 @@
   "trainer_name": "Rehshef",
   "matches": {
     "2022-11-13T07:48:07.783641+00:00": {
+      "this_amiibo": {
+        "rating": 22.17649758300222,
+        "rating_mu": 26.197148930247298,
+        "rating_sigma": 1.3402171157483596,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
         "id": "b92e9c92-a09d-46b4-b115-0f64fca6fe36",
@@ -14,15 +20,15 @@
         "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
         "trainer_name": "AlexanderAgne",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 22.17649758300222,
-        "rating_mu": 26.197148930247298,
-        "rating_sigma": 1.3402171157483596,
-        "result": "loss"
       }
     },
     "2022-11-13T07:43:25.867367+00:00": {
+      "this_amiibo": {
+        "rating": 22.322328720710868,
+        "rating_mu": 26.375024999614773,
+        "rating_sigma": 1.350898759634635,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "284fcc68-cfea-4a1a-b6eb-23c2f7b7b977",
@@ -31,12 +37,6 @@
         "trainer_id": "5f193754-19cc-4e88-a09f-cd36122614ca",
         "trainer_name": "twrecks64",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 22.322328720710868,
-        "rating_mu": 26.375024999614773,
-        "rating_sigma": 1.350898759634635,
-        "result": "loss"
       }
     }
   }

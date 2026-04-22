@@ -6,6 +6,12 @@
   "trainer_name": "UltraDPG",
   "matches": {
     "2020-09-07T00:32:23.437578+00:00": {
+      "this_amiibo": {
+        "rating": 1.025929224994492,
+        "rating_mu": 20.751209793239855,
+        "rating_sigma": 6.575093522748454,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "759031d4-4974-428a-a400-5615a80c3786",
@@ -14,12 +20,6 @@
         "trainer_id": "e107d104-7f29-4a8c-973c-d767b9d963e2",
         "trainer_name": "cryotheist",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.025929224994492,
-        "rating_mu": 20.751209793239855,
-        "rating_sigma": 6.575093522748454,
-        "result": "loss"
       }
     },
     "2020-10-04T04:33:58.904303+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2020-10-11T04:33:31.389179+00:00": {
+      "this_amiibo": {
+        "rating": 9.690667777970496,
+        "rating_mu": 22.498294007944008,
+        "rating_sigma": 4.269208743324504,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
         "id": "7cd279f2-2e4e-40f7-a5c3-4f5c28848d5f",
@@ -48,15 +54,15 @@
         "trainer_id": "ab5d6369-3b31-4ef9-be85-20559f2e7264",
         "trainer_name": "pepsi_man_13",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.690667777970496,
-        "rating_mu": 22.498294007944008,
-        "rating_sigma": 4.269208743324504,
-        "result": "loss"
       }
     },
     "2020-10-13T14:10:11.838255+00:00": {
+      "this_amiibo": {
+        "rating": 9.16805150975673,
+        "rating_mu": 20.827130682361826,
+        "rating_sigma": 3.8863597242016987,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
         "id": "9ea5b7b1-d70b-4b38-b103-723cf273f80e",
@@ -65,12 +71,6 @@
         "trainer_id": "345febd3-6433-4ed8-addb-b0ead57bf565",
         "trainer_name": "cloudnine987",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.16805150975673,
-        "rating_mu": 20.827130682361826,
-        "rating_sigma": 3.8863597242016987,
-        "result": "loss"
       }
     }
   }

@@ -40,6 +40,12 @@
       }
     },
     "2021-08-03T13:58:08.552598+00:00": {
+      "this_amiibo": {
+        "rating": 16.017924521389,
+        "rating_mu": 27.722167112471208,
+        "rating_sigma": 3.901414197027403,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "d4fd7c37-9c8b-4c4f-bec2-e78cf6be805c",
@@ -48,15 +54,15 @@
         "trainer_id": "9db830e1-33be-44b8-a5c4-0eccbdfb3e64",
         "trainer_name": "TheGoldMario",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 16.017924521389,
-        "rating_mu": 27.722167112471208,
-        "rating_sigma": 3.901414197027403,
-        "result": "loss"
       }
     },
     "2021-08-02T08:29:47.362133+00:00": {
+      "this_amiibo": {
+        "rating": 16.50928787137145,
+        "rating_mu": 29.571595516725413,
+        "rating_sigma": 4.354102548451321,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "2b32dcf6-cb44-4088-9e54-fd482ce2e80b",
@@ -65,12 +71,6 @@
         "trainer_id": "800690a5-19de-4098-8fd4-33bcbadf4a18",
         "trainer_name": "TheAuraKing6",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 16.50928787137145,
-        "rating_mu": 29.571595516725413,
-        "rating_sigma": 4.354102548451321,
-        "result": "loss"
       }
     }
   }

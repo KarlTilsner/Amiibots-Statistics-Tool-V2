@@ -6,6 +6,12 @@
   "trainer_name": "Vulkyz_",
   "matches": {
     "2023-07-24T04:09:47.303467+00:00": {
+      "this_amiibo": {
+        "rating": -0.36420123231778234,
+        "rating_mu": 18.291570730698027,
+        "rating_sigma": 6.218590654338603,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
         "id": "6a8de652-59f7-4b12-bd6f-3a1bfbb7b627",
@@ -14,12 +20,6 @@
         "trainer_id": "2c216645-aec1-4576-9aea-83dd75252eb9",
         "trainer_name": "smiggus",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.36420123231778234,
-        "rating_mu": 18.291570730698027,
-        "rating_sigma": 6.218590654338603,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "pinheadpatrick017",
   "matches": {
     "2022-01-01T18:31:22.162658+00:00": {
+      "this_amiibo": {
+        "rating": 0.8357710610419851,
+        "rating_mu": 20.215263296260208,
+        "rating_sigma": 6.459830745072741,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
         "id": "e67fcce2-3afc-400c-8dd8-4637fe4ef7cf",
@@ -14,12 +20,6 @@
         "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
         "trainer_name": "AceTempest172",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8357710610419851,
-        "rating_mu": 20.215263296260208,
-        "rating_sigma": 6.459830745072741,
-        "result": "loss"
       }
     }
   }

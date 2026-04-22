@@ -6,6 +6,12 @@
   "trainer_name": "misatoaddict",
   "matches": {
     "2022-03-20T19:36:52.745682+00:00": {
+      "this_amiibo": {
+        "rating": 1.1357103397019124,
+        "rating_mu": 23.39545114156803,
+        "rating_sigma": 7.419913600622039,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "1b2b9a5c-f415-4ee2-a058-32830f552176",
@@ -14,12 +20,6 @@
         "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
         "trainer_name": "gotelin_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1357103397019124,
-        "rating_mu": 23.39545114156803,
-        "rating_sigma": 7.419913600622039,
-        "result": "loss"
       }
     }
   }

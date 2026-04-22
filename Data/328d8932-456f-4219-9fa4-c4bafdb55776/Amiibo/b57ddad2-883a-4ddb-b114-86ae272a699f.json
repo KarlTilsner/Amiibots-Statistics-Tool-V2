@@ -6,6 +6,12 @@
   "trainer_name": "ThouDetect1ve",
   "matches": {
     "2022-07-26T18:12:06.920556+00:00": {
+      "this_amiibo": {
+        "rating": 0.6871977622413752,
+        "rating_mu": 19.87634535158209,
+        "rating_sigma": 6.396382529780238,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
         "id": "461b697b-bba4-4525-a8c0-d0075ee1e91d",
@@ -14,15 +20,15 @@
         "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
         "trainer_name": "SG_Bubs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6871977622413752,
-        "rating_mu": 19.87634535158209,
-        "rating_sigma": 6.396382529780238,
-        "result": "loss"
       }
     },
     "2022-10-03T01:15:54.034403+00:00": {
+      "this_amiibo": {
+        "rating": 0.537282348010347,
+        "rating_mu": 17.435877481982498,
+        "rating_sigma": 5.632865044657384,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "8713b86a-ec62-4204-8852-6fb54a3bbc8d",
@@ -31,12 +37,6 @@
         "trainer_id": "660bb2db-ac69-4ebd-92f0-78b54e774a71",
         "trainer_name": "swordsparring",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.537282348010347,
-        "rating_mu": 17.435877481982498,
-        "rating_sigma": 5.632865044657384,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "patspatchgaming",
   "matches": {
     "2022-04-20T03:03:49.326037+00:00": {
+      "this_amiibo": {
+        "rating": 0.9047660378692264,
+        "rating_mu": 20.409568902148052,
+        "rating_sigma": 6.501600954759609,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "1835518b-a95c-4f8b-aad0-e675d73f2ced",
@@ -14,12 +20,6 @@
         "trainer_id": "b4339f6b-f00c-423d-8cc3-e71767923629",
         "trainer_name": "dr_d0om_777",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9047660378692264,
-        "rating_mu": 20.409568902148052,
-        "rating_sigma": 6.501600954759609,
-        "result": "loss"
       }
     }
   }

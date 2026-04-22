@@ -6,6 +6,12 @@
   "trainer_name": "Murbert_AM",
   "matches": {
     "2020-08-23T00:09:12.513413+00:00": {
+      "this_amiibo": {
+        "rating": 1.04406508044028,
+        "rating_mu": 23.88207615441877,
+        "rating_sigma": 7.61267035799283,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "d9b2204f-e56e-4c13-aaf1-d67b8c223973",
@@ -14,12 +20,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.04406508044028,
-        "rating_mu": 23.88207615441877,
-        "rating_sigma": 7.61267035799283,
-        "result": "loss"
       }
     }
   }

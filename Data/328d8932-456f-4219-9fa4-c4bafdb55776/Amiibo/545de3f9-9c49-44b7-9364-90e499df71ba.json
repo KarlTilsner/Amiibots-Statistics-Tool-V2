@@ -6,6 +6,12 @@
   "trainer_name": "reiaddict",
   "matches": {
     "2022-03-30T11:29:16.408962+00:00": {
+      "this_amiibo": {
+        "rating": -0.8016797229894159,
+        "rating_mu": 20.775701662576704,
+        "rating_sigma": 7.192460461855374,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "37f68374-9bc5-459a-9b44-d6ffd7ac58cf",
@@ -14,12 +20,6 @@
         "trainer_id": "a7ad9e6c-092a-426e-9a02-c12d4ca27306",
         "trainer_name": "snopidgey",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.8016797229894159,
-        "rating_mu": 20.775701662576704,
-        "rating_sigma": 7.192460461855374,
-        "result": "loss"
       }
     }
   }

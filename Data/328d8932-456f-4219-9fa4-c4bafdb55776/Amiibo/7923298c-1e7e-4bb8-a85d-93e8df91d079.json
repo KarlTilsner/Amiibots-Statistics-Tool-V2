@@ -6,6 +6,12 @@
   "trainer_name": "wyrmtheblack",
   "matches": {
     "2022-07-13T20:42:12.269405+00:00": {
+      "this_amiibo": {
+        "rating": 0.6985147087323504,
+        "rating_mu": 20.1358281494217,
+        "rating_sigma": 6.479104480229784,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "30a6f182-fe56-446e-861a-6b21a94347d7",
@@ -14,12 +20,6 @@
         "trainer_id": "4345ecdf-2886-46de-b0e4-755576321316",
         "trainer_name": "mariocraft6000",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6985147087323504,
-        "rating_mu": 20.1358281494217,
-        "rating_sigma": 6.479104480229784,
-        "result": "loss"
       }
     },
     "2022-07-14T07:37:50.093939+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2022-07-22T10:08:07.280112+00:00": {
+      "this_amiibo": {
+        "rating": 15.915675127474527,
+        "rating_mu": 27.190495963842835,
+        "rating_sigma": 3.7582736121227693,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "cf17052e-3fd2-4d6c-aaf5-15630f5f1421",
@@ -82,15 +88,15 @@
         "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
         "trainer_name": "forenmagra",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 15.915675127474527,
-        "rating_mu": 27.190495963842835,
-        "rating_sigma": 3.7582736121227693,
-        "result": "loss"
       }
     },
     "2022-07-24T08:31:26.530358+00:00": {
+      "this_amiibo": {
+        "rating": 15.378489197425871,
+        "rating_mu": 25.610590526777695,
+        "rating_sigma": 3.4107004431172747,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
         "id": "4293e11e-1de7-4083-9c9f-28cdcf25c866",
@@ -99,15 +105,15 @@
         "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
         "trainer_name": "schmorchid",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 15.378489197425871,
-        "rating_mu": 25.610590526777695,
-        "rating_sigma": 3.4107004431172747,
-        "result": "loss"
       }
     },
     "2022-07-28T20:38:37.769414+00:00": {
+      "this_amiibo": {
+        "rating": 14.888027774190512,
+        "rating_mu": 24.29826494348636,
+        "rating_sigma": 3.136745723098616,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
         "id": "461b697b-bba4-4525-a8c0-d0075ee1e91d",
@@ -116,12 +122,6 @@
         "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
         "trainer_name": "SG_Bubs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.888027774190512,
-        "rating_mu": 24.29826494348636,
-        "rating_sigma": 3.136745723098616,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "HD_ssbu",
   "matches": {
     "2021-11-17T12:07:02.510749+00:00": {
+      "this_amiibo": {
+        "rating": 1.0927704708519919,
+        "rating_mu": 23.7626555705948,
+        "rating_sigma": 7.556628366580935,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
         "id": "6368648f-7bc3-4f85-8eee-79fe8870d276",
@@ -14,15 +20,15 @@
         "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
         "trainer_name": "Murbert_AM",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0927704708519919,
-        "rating_mu": 23.7626555705948,
-        "rating_sigma": 7.556628366580935,
-        "result": "loss"
       }
     },
     "2021-11-17T18:42:43.578604+00:00": {
+      "this_amiibo": {
+        "rating": 1.966160043548605,
+        "rating_mu": 20.613472902280385,
+        "rating_sigma": 6.215770952910594,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "58aa353f-b211-484a-afa1-deb9c9823dc0",
@@ -31,12 +37,6 @@
         "trainer_id": "de8bfcb6-60de-48e2-8a23-31517707e203",
         "trainer_name": "rekcuf_nmad",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.966160043548605,
-        "rating_mu": 20.613472902280385,
-        "rating_sigma": 6.215770952910594,
-        "result": "loss"
       }
     }
   }

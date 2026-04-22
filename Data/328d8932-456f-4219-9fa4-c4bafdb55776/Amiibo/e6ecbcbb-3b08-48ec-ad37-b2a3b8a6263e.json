@@ -6,6 +6,12 @@
   "trainer_name": "RufflestheKirbyplayer",
   "matches": {
     "2022-01-26T08:45:38.213604+00:00": {
+      "this_amiibo": {
+        "rating": 2.1838794585222523,
+        "rating_mu": 21.003387510566075,
+        "rating_sigma": 6.2731693506812745,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "c3905c26-578e-461f-a762-af559b0185fe",
@@ -14,15 +20,15 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 2.1838794585222523,
-        "rating_mu": 21.003387510566075,
-        "rating_sigma": 6.2731693506812745,
-        "result": "loss"
       }
     },
     "2022-01-26T03:22:22.839248+00:00": {
+      "this_amiibo": {
+        "rating": 1.345361905775583,
+        "rating_mu": 22.317437570073736,
+        "rating_sigma": 6.990691888099384,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
         "id": "8a210305-aa8e-40b4-a4a1-2b8a989c2e3f",
@@ -31,12 +37,6 @@
         "trainer_id": "5b811e0a-9d5b-497a-91c7-0868e4e49a95",
         "trainer_name": "early_mp",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.345361905775583,
-        "rating_mu": 22.317437570073736,
-        "rating_sigma": 6.990691888099384,
-        "result": "loss"
       }
     },
     "2022-01-29T13:56:30.226778+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2022-02-04T14:53:36.736502+00:00": {
+      "this_amiibo": {
+        "rating": 12.638019287197261,
+        "rating_mu": 25.92194774791392,
+        "rating_sigma": 4.427976153572219,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "b5b90fc1-473f-4c5a-b30d-58dfa3ccf4ad",
@@ -65,12 +71,6 @@
         "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
         "trainer_name": "StaplesTV_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.638019287197261,
-        "rating_mu": 25.92194774791392,
-        "rating_sigma": 4.427976153572219,
-        "result": "loss"
       }
     }
   }

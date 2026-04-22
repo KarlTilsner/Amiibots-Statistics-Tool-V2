@@ -6,6 +6,12 @@
   "trainer_name": "MonoMalard",
   "matches": {
     "2021-03-07T12:55:15.411975+00:00": {
+      "this_amiibo": {
+        "rating": 0.32708492727886807,
+        "rating_mu": 19.070357464755567,
+        "rating_sigma": 6.247757512492233,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
         "id": "0e9ab7e1-db2e-48c1-8a2f-328777ebd48e",
@@ -14,12 +20,6 @@
         "trainer_id": "0dac8a24-5ed7-4fc9-9c00-5674617b4fab",
         "trainer_name": "JohnLML123",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.32708492727886807,
-        "rating_mu": 19.070357464755567,
-        "rating_sigma": 6.247757512492233,
-        "result": "loss"
       }
     }
   }

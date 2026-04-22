@@ -6,6 +6,12 @@
   "trainer_name": "Bananika7",
   "matches": {
     "2022-04-03T08:46:43.003442+00:00": {
+      "this_amiibo": {
+        "rating": 14.225656043686381,
+        "rating_mu": 29.747584509053283,
+        "rating_sigma": 5.1739761551223005,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "fdcfb28f-d9f6-4ab3-85e0-28257dafe43d",
@@ -14,12 +20,6 @@
         "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
         "trainer_name": "nozzly",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.225656043686381,
-        "rating_mu": 29.747584509053283,
-        "rating_sigma": 5.1739761551223005,
-        "result": "loss"
       }
     },
     "2022-04-03T07:26:12.767462+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2022-04-03T19:04:47.962918+00:00": {
+      "this_amiibo": {
+        "rating": 13.544286307114803,
+        "rating_mu": 25.331279250276918,
+        "rating_sigma": 3.9289976477207054,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
         "id": "c2c2ad7e-c6b8-45d4-a126-c628d5bb6e0d",
@@ -48,15 +54,15 @@
         "trainer_id": "31ac0377-29d9-4a82-afea-5fe20989ce28",
         "trainer_name": "magimiku",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.544286307114803,
-        "rating_mu": 25.331279250276918,
-        "rating_sigma": 3.9289976477207054,
-        "result": "loss"
       }
     },
     "2022-04-03T14:22:31.423991+00:00": {
+      "this_amiibo": {
+        "rating": 13.947291873696543,
+        "rating_mu": 27.26994259707592,
+        "rating_sigma": 4.440883574459793,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "93ffe8dd-699e-42f3-8b37-4f844fbc8c3f",
@@ -65,12 +71,6 @@
         "trainer_id": "7ff68788-3366-489f-9efd-bb3c16421574",
         "trainer_name": "VocalFan",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.947291873696543,
-        "rating_mu": 27.26994259707592,
-        "rating_sigma": 4.440883574459793,
-        "result": "loss"
       }
     }
   }

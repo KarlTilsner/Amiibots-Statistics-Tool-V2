@@ -23,6 +23,12 @@
       }
     },
     "2022-09-18T20:24:53.543905+00:00": {
+      "this_amiibo": {
+        "rating": 8.783411530304004,
+        "rating_mu": 25.868053822532296,
+        "rating_sigma": 5.694880764076097,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "f304cd3d-f6d8-4446-9d0c-91639dc6342c",
@@ -31,15 +37,15 @@
         "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
         "trainer_name": "average_videogame_user",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 8.783411530304004,
-        "rating_mu": 25.868053822532296,
-        "rating_sigma": 5.694880764076097,
-        "result": "loss"
       }
     },
     "2022-10-30T08:45:06.803885+00:00": {
+      "this_amiibo": {
+        "rating": 8.516013925216704,
+        "rating_mu": 22.796898140354536,
+        "rating_sigma": 4.760294738379277,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
         "id": "638a6ed6-24c5-4561-815a-289ffd8106c3",
@@ -48,12 +54,6 @@
         "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
         "trainer_name": "WynnThornton",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 8.516013925216704,
-        "rating_mu": 22.796898140354536,
-        "rating_sigma": 4.760294738379277,
-        "result": "loss"
       }
     }
   }

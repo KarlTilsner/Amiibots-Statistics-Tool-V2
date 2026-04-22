@@ -6,6 +6,12 @@
   "trainer_name": "0ccactuss0",
   "matches": {
     "2022-01-07T18:00:00.493983+00:00": {
+      "this_amiibo": {
+        "rating": 1.0460019904045303,
+        "rating_mu": 21.038264794927944,
+        "rating_sigma": 6.664087601507804,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
         "id": "41fb5c00-a18e-48b2-96ac-8d8146c4e3d0",
@@ -14,12 +20,6 @@
         "trainer_id": "7b6bdc24-a8e4-4d5c-a3f0-407613a5dc8f",
         "trainer_name": "MentL_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0460019904045303,
-        "rating_mu": 21.038264794927944,
-        "rating_sigma": 6.664087601507804,
-        "result": "loss"
       }
     }
   }

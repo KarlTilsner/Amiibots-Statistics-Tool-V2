@@ -6,6 +6,12 @@
   "trainer_name": "bandanadeefan1001",
   "matches": {
     "2020-08-30T05:24:49.715149+00:00": {
+      "this_amiibo": {
+        "rating": 1.0781559494767698,
+        "rating_mu": 20.965482205154004,
+        "rating_sigma": 6.629108751892411,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
         "id": "8624ee92-d134-405b-9478-220e326dc88e",
@@ -14,15 +20,15 @@
         "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
         "trainer_name": "apple_beebs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0781559494767698,
-        "rating_mu": 20.965482205154004,
-        "rating_sigma": 6.629108751892411,
-        "result": "loss"
       }
     },
     "2020-08-30T23:44:54.356390+00:00": {
+      "this_amiibo": {
+        "rating": 1.4963290576440507,
+        "rating_mu": 19.48738847569245,
+        "rating_sigma": 5.997019806016133,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
         "id": "80885caa-0bb5-46c9-9c54-127dc33921c5",
@@ -31,12 +37,6 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.4963290576440507,
-        "rating_mu": 19.48738847569245,
-        "rating_sigma": 5.997019806016133,
-        "result": "loss"
       }
     }
   }

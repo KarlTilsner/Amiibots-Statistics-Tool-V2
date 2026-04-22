@@ -6,6 +6,12 @@
   "trainer_name": "AlexanderAgne",
   "matches": {
     "2024-04-11T11:53:21.952075+00:00": {
+      "this_amiibo": {
+        "rating": 0.4489101064092118,
+        "rating_mu": 19.319823180663033,
+        "rating_sigma": 6.290304358084606,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
         "id": "7f400550-9208-4962-83ec-6266af461b58",
@@ -14,12 +20,6 @@
         "trainer_id": "5dabe73b-a5b8-4de1-a221-70f871aa60d8",
         "trainer_name": "mf_dimi",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.4489101064092118,
-        "rating_mu": 19.319823180663033,
-        "rating_sigma": 6.290304358084606,
-        "result": "loss"
       }
     }
   }

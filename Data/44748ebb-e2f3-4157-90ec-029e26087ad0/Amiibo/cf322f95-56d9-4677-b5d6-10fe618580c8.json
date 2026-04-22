@@ -6,6 +6,12 @@
   "trainer_name": "Kangoni",
   "matches": {
     "2020-07-01T13:18:05.728866+00:00": {
+      "this_amiibo": {
+        "rating": -0.2983287950919511,
+        "rating_mu": 19.93973998366739,
+        "rating_sigma": 6.746022926253113,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
         "id": "31f37121-5c5d-4367-8f9d-8d302b5beb38",
@@ -14,12 +20,6 @@
         "trainer_id": "842fd55b-5c9f-4914-820e-99639a5ccf96",
         "trainer_name": "LittleFang1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.2983287950919511,
-        "rating_mu": 19.93973998366739,
-        "rating_sigma": 6.746022926253113,
-        "result": "loss"
       }
     },
     "2020-07-01T15:18:18.514526+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2020-07-03T05:31:19.837190+00:00": {
+      "this_amiibo": {
+        "rating": 10.44528200053063,
+        "rating_mu": 24.215685468960512,
+        "rating_sigma": 4.590134489476627,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
         "id": "b46ff921-8259-4cbd-818d-bfa28e5d48f4",
@@ -48,12 +54,6 @@
         "trainer_id": "e8e5ceb3-094e-4dd0-821a-1be83af3c473",
         "trainer_name": "moxievegas",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.44528200053063,
-        "rating_mu": 24.215685468960512,
-        "rating_sigma": 4.590134489476627,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "combine788",
   "matches": {
     "2022-03-18T03:35:50.220489+00:00": {
+      "this_amiibo": {
+        "rating": 1.8447133405631462,
+        "rating_mu": 20.631791717424242,
+        "rating_sigma": 6.262359458953698,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
         "id": "fa60590e-9421-4dbb-bd92-74dc441dff56",
@@ -14,15 +20,15 @@
         "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
         "trainer_name": "SG_Bubs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.8447133405631462,
-        "rating_mu": 20.631791717424242,
-        "rating_sigma": 6.262359458953698,
-        "result": "loss"
       }
     },
     "2022-03-18T03:32:29.725301+00:00": {
+      "this_amiibo": {
+        "rating": 0.9229098345166129,
+        "rating_mu": 22.642687247734166,
+        "rating_sigma": 7.239925804405851,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "56198ae8-b8e0-4b1c-8637-47abac7e3bd0",
@@ -31,15 +37,15 @@
         "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
         "trainer_name": "HalfMario45678",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9229098345166129,
-        "rating_mu": 22.642687247734166,
-        "rating_sigma": 7.239925804405851,
-        "result": "loss"
       }
     },
     "2022-09-11T05:58:54.913074+00:00": {
+      "this_amiibo": {
+        "rating": 1.4193582988436297,
+        "rating_mu": 16.586244484587365,
+        "rating_sigma": 5.055628728581245,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
         "id": "2adb4b36-b9ba-48b7-a263-4c44b22e2b78",
@@ -48,15 +54,15 @@
         "trainer_id": "d0bc8625-0a18-43fb-ba87-3e0d8c768b11",
         "trainer_name": "Plantasia124",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.4193582988436297,
-        "rating_mu": 16.586244484587365,
-        "rating_sigma": 5.055628728581245,
-        "result": "loss"
       }
     },
     "2022-09-12T02:38:04.519912+00:00": {
+      "this_amiibo": {
+        "rating": 0.7838263245806036,
+        "rating_mu": 13.685701143756477,
+        "rating_sigma": 4.300624939725291,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96e48494-946f-4280-a419-488d644135e0",
         "id": "d7a324d3-a2b1-4d7b-9884-50629bf7f855",
@@ -65,12 +71,6 @@
         "trainer_id": "8abc33ad-0aa0-4291-9b34-ebea97819c1e",
         "trainer_name": "blaz_69",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7838263245806036,
-        "rating_mu": 13.685701143756477,
-        "rating_sigma": 4.300624939725291,
-        "result": "loss"
       }
     },
     "2022-09-13T13:12:03.869697+00:00": {
@@ -87,6 +87,40 @@
         "rating": 14.145338811015824,
         "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
         "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    },
+    "2022-11-07T22:26:36.613852+00:00": {
+      "this_amiibo": {
+        "rating": 6.793521592881117,
+        "rating_mu": 17.28949351815519,
+        "rating_sigma": 3.4986573084246912,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "87e242b6-8a8f-448e-a410-dbdcbc76ac63",
+        "name": "The Mayor",
+        "rating": 3.719464556855675,
+        "trainer_id": "5bbdd0ed-bab2-465a-97ab-46b2192286d6",
+        "trainer_name": "nothingxl",
+        "result": "loss"
+      }
+    },
+    "2022-12-11T02:07:12.515102+00:00": {
+      "this_amiibo": {
+        "rating": 8.178804888826226,
+        "rating_mu": 18.145983870416313,
+        "rating_sigma": 3.322392993863362,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "a9c74d50-fab4-45eb-a063-61df82549ef6",
+        "name": "I AM SPEED",
+        "rating": 0.2355353088098351,
+        "trainer_id": "2f9c8c00-fa6a-404d-8718-68edf85cb21f",
+        "trainer_name": "irongelatin",
         "result": "loss"
       }
     }

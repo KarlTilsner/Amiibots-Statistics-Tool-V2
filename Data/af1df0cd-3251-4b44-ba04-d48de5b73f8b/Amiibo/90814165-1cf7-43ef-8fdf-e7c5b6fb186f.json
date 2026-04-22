@@ -23,6 +23,12 @@
       }
     },
     "2023-01-11T18:56:46.579515+00:00": {
+      "this_amiibo": {
+        "rating": 11.867720256923764,
+        "rating_mu": 27.05561350480613,
+        "rating_sigma": 5.062631082627455,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e2531ffe-e834-49ae-b233-56386472a6ed",
         "id": "2e01527c-3c94-446b-a351-1a647d4c3153",
@@ -31,12 +37,6 @@
         "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
         "trainer_name": "wyvernfalcon",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 11.867720256923764,
-        "rating_mu": 27.05561350480613,
-        "rating_sigma": 5.062631082627455,
-        "result": "loss"
       }
     }
   }

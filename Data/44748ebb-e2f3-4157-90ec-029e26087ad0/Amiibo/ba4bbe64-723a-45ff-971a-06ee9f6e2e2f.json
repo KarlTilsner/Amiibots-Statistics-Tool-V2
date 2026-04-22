@@ -6,6 +6,12 @@
   "trainer_name": "HexLunare",
   "matches": {
     "2020-12-02T17:01:08.998628+00:00": {
+      "this_amiibo": {
+        "rating": 1.2398747921318467,
+        "rating_mu": 21.5608240041325,
+        "rating_sigma": 6.7736497373335505,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "1fe377a8-164d-424e-b846-8050cec5697d",
@@ -14,15 +20,15 @@
         "trainer_id": "800690a5-19de-4098-8fd4-33bcbadf4a18",
         "trainer_name": "TMSO_Aura",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2398747921318467,
-        "rating_mu": 21.5608240041325,
-        "rating_sigma": 6.7736497373335505,
-        "result": "loss"
       }
     },
     "2020-12-04T07:27:13.194542+00:00": {
+      "this_amiibo": {
+        "rating": 1.8862792496431346,
+        "rating_mu": 19.142195220574653,
+        "rating_sigma": 5.751971990310506,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "e6c4e527-9cdb-441a-9995-343357921dc5",
@@ -31,12 +37,6 @@
         "trainer_id": "e315cc8f-425d-4686-a648-103739846f36",
         "trainer_name": "darkmega5",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.8862792496431346,
-        "rating_mu": 19.142195220574653,
-        "rating_sigma": 5.751971990310506,
-        "result": "loss"
       }
     }
   }

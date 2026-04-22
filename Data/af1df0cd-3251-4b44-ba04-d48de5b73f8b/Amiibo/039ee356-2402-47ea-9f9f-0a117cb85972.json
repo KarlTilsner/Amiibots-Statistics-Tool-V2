@@ -6,6 +6,12 @@
   "trainer_name": "theprojectneon",
   "matches": {
     "2024-06-03T10:19:29.683775+00:00": {
+      "this_amiibo": {
+        "rating": 0.33023094462453884,
+        "rating_mu": 19.20322948262659,
+        "rating_sigma": 6.290999512667351,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
         "id": "627d00aa-14f0-412a-8662-d153bceb1959",
@@ -14,12 +20,6 @@
         "trainer_id": "340b16cc-6edc-4f6f-9d5b-cb3004218d3f",
         "trainer_name": "neowulfz",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.33023094462453884,
-        "rating_mu": 19.20322948262659,
-        "rating_sigma": 6.290999512667351,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "NoAmiibo",
   "matches": {
     "2021-11-25T17:59:15.938906+00:00": {
+      "this_amiibo": {
+        "rating": 1.160583176069352,
+        "rating_mu": 21.570845030829346,
+        "rating_sigma": 6.803420618253332,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "24abca9e-ba91-4c4b-84fc-81a9015cdb12",
@@ -14,12 +20,6 @@
         "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
         "trainer_name": "YM44",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.160583176069352,
-        "rating_mu": 21.570845030829346,
-        "rating_sigma": 6.803420618253332,
-        "result": "loss"
       }
     },
     "2021-12-02T08:46:23.170876+00:00": {

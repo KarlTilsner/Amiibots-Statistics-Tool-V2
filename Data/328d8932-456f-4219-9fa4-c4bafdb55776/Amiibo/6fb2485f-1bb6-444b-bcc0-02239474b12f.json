@@ -6,6 +6,12 @@
   "trainer_name": "VocalFan",
   "matches": {
     "2021-10-27T13:40:20.322158+00:00": {
+      "this_amiibo": {
+        "rating": 1.75541025570379,
+        "rating_mu": 21.252648603755137,
+        "rating_sigma": 6.4990794493504485,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "f3ef189d-9c1d-461f-88ba-28807142c802",
@@ -14,15 +20,15 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.75541025570379,
-        "rating_mu": 21.252648603755137,
-        "rating_sigma": 6.4990794493504485,
-        "result": "loss"
       }
     },
     "2021-10-27T12:05:54.634337+00:00": {
+      "this_amiibo": {
+        "rating": 1.2643022875126881,
+        "rating_mu": 21.676422569571397,
+        "rating_sigma": 6.8040400940195696,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "96451026-8fd9-4b3b-bd73-ab707a0d848b",
@@ -31,12 +37,6 @@
         "trainer_id": "ca8971e6-56ce-4f29-b03e-129f95a6abf0",
         "trainer_name": "silverturtle75",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2643022875126881,
-        "rating_mu": 21.676422569571397,
-        "rating_sigma": 6.8040400940195696,
-        "result": "loss"
       }
     }
   }

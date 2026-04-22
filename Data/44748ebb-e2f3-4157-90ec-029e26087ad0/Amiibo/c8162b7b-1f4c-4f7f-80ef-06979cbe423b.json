@@ -1,0 +1,43 @@
+{
+  "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+  "id": "c8162b7b-1f4c-4f7f-80ef-06979cbe423b",
+  "name": "Fighter",
+  "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+  "trainer_name": "Renegade_Marbles",
+  "matches": {
+    "2021-01-10T02:26:42.249245+00:00": {
+      "this_amiibo": {
+        "rating": 1.013668384937752,
+        "rating_mu": 17.457910043569832,
+        "rating_sigma": 5.481413886210693,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "faa94f7f-26b0-4b02-8f78-54aa69af51f9",
+        "name": "Egg",
+        "rating": 19.18896944330305,
+        "trainer_id": "fd2be56f-b542-4651-9b7e-94a43c060a58",
+        "trainer_name": "TheoreticalMyth",
+        "result": "win"
+      }
+    },
+    "2021-01-10T01:58:16.110432+00:00": {
+      "this_amiibo": {
+        "rating": 0.5953099937907638,
+        "rating_mu": 19.729022485040755,
+        "rating_sigma": 6.377904163749997,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "cf6b46c4-513e-456d-96d1-84ad9c5e08d9",
+        "name": "Lou Albano",
+        "rating": 21.79077781037786,
+        "trainer_id": "6769a5da-b1bb-4563-af5a-4439304198aa",
+        "trainer_name": "truth_wario",
+        "result": "win"
+      }
+    }
+  }
+}

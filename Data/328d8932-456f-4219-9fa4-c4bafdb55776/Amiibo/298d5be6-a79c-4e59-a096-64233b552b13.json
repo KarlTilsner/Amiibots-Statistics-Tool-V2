@@ -57,6 +57,12 @@
       }
     },
     "2021-11-11T21:13:29.088315+00:00": {
+      "this_amiibo": {
+        "rating": 12.757301943100074,
+        "rating_mu": 26.557963418029473,
+        "rating_sigma": 4.600220491643133,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
         "id": "1b895869-11f7-4a1f-ace1-792ddb2a2d14",
@@ -65,12 +71,6 @@
         "trainer_id": "69ee0314-588f-44ab-946a-c1fd8f7fe67c",
         "trainer_name": "pac_z_man",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.757301943100074,
-        "rating_mu": 26.557963418029473,
-        "rating_sigma": 4.600220491643133,
-        "result": "loss"
       }
     }
   }

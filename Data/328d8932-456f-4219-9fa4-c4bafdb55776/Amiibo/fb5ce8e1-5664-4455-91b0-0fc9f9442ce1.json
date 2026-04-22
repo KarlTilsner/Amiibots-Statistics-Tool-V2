@@ -6,6 +6,12 @@
   "trainer_name": "Leevunzo",
   "matches": {
     "2022-09-24T18:45:29.982066+00:00": {
+      "this_amiibo": {
+        "rating": 0.6967284363498969,
+        "rating_mu": 19.985870985252326,
+        "rating_sigma": 6.429714182967476,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
         "id": "864944f3-3858-46a3-8a76-77ad1b8669ba",
@@ -14,12 +20,6 @@
         "trainer_id": "76092551-3aba-4182-923a-848b2d279e4c",
         "trainer_name": "bleachyboi_426",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6967284363498969,
-        "rating_mu": 19.985870985252326,
-        "rating_sigma": 6.429714182967476,
-        "result": "loss"
       }
     }
   }

@@ -57,6 +57,12 @@
       }
     },
     "2022-01-14T18:39:37.551293+00:00": {
+      "this_amiibo": {
+        "rating": 20.43017054792409,
+        "rating_mu": 32.703112932994024,
+        "rating_sigma": 4.090980795023312,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
         "id": "bbc5d556-9a75-435d-b28f-245157b24411",
@@ -65,12 +71,6 @@
         "trainer_id": "3c6a2558-822c-45dc-9c83-95b524978633",
         "trainer_name": "0ccactuss0",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 20.43017054792409,
-        "rating_mu": 32.703112932994024,
-        "rating_sigma": 4.090980795023312,
-        "result": "loss"
       }
     }
   }

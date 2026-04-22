@@ -23,6 +23,12 @@
       }
     },
     "2022-10-25T13:11:02.555600+00:00": {
+      "this_amiibo": {
+        "rating": 0.6648795302088182,
+        "rating_mu": 19.95119336345329,
+        "rating_sigma": 6.428771277748157,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "fa1ac3ba-0880-483b-b94e-9b4952e3f999",
         "id": "936dc6db-ad80-428a-b5b5-38eb8cb45c92",
@@ -31,15 +37,15 @@
         "trainer_id": "a783d150-bd51-4b0c-9379-b32e55643dac",
         "trainer_name": "iguyw",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6648795302088182,
-        "rating_mu": 19.95119336345329,
-        "rating_sigma": 6.428771277748157,
-        "result": "loss"
       }
     },
     "2022-10-25T21:03:01.253832+00:00": {
+      "this_amiibo": {
+        "rating": 6.868937818692945,
+        "rating_mu": 21.621975363037542,
+        "rating_sigma": 4.917679181448199,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
         "id": "8e44504a-9281-4491-b63c-d7f757fe98e3",
@@ -48,12 +54,6 @@
         "trainer_id": "4345ecdf-2886-46de-b0e4-755576321316",
         "trainer_name": "mariocraft6000",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 6.868937818692945,
-        "rating_mu": 21.621975363037542,
-        "rating_sigma": 4.917679181448199,
-        "result": "loss"
       }
     }
   }

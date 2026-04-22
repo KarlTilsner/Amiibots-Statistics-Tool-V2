@@ -6,6 +6,12 @@
   "trainer_name": "staples___",
   "matches": {
     "2020-07-04T11:09:58.034335+00:00": {
+      "this_amiibo": {
+        "rating": 0.7754930727233251,
+        "rating_mu": 20.151263440886765,
+        "rating_sigma": 6.458590122721147,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
         "id": "0a1b0826-3f8a-41ab-bd1d-deb9588afd6f",
@@ -14,12 +20,6 @@
         "trainer_id": "7dc8c69a-90af-475f-89c5-1b7ce12dc42b",
         "trainer_name": "SinSei__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7754930727233251,
-        "rating_mu": 20.151263440886765,
-        "rating_sigma": 6.458590122721147,
-        "result": "loss"
       }
     }
   }

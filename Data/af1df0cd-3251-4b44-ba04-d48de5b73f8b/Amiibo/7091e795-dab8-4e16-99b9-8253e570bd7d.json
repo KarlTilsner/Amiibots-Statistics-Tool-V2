@@ -57,6 +57,12 @@
       }
     },
     "2022-11-12T08:30:10.582183+00:00": {
+      "this_amiibo": {
+        "rating": 21.254000106851205,
+        "rating_mu": 33.06351045334317,
+        "rating_sigma": 3.936503448830655,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "a0e538b4-45d3-4c02-a8c1-e01101d43c32",
@@ -65,15 +71,15 @@
         "trainer_id": "d7f44591-9713-4c95-b840-3607f6a73d24",
         "trainer_name": "luckman21",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 21.254000106851205,
-        "rating_mu": 33.06351045334317,
-        "rating_sigma": 3.936503448830655,
-        "result": "loss"
       }
     },
     "2022-11-22T21:09:11.595006+00:00": {
+      "this_amiibo": {
+        "rating": 20.648855335642736,
+        "rating_mu": 31.221953253352634,
+        "rating_sigma": 3.5243659725699663,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "fd24f409-9aa2-4c3d-9a90-fcb1f90f4bc2",
@@ -82,12 +88,6 @@
         "trainer_id": "d7f44591-9713-4c95-b840-3607f6a73d24",
         "trainer_name": "luckman21",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 20.648855335642736,
-        "rating_mu": 31.221953253352634,
-        "rating_sigma": 3.5243659725699663,
-        "result": "loss"
       }
     }
   }

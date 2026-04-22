@@ -6,6 +6,12 @@
   "trainer_name": "NoAmiibo",
   "matches": {
     "2021-12-14T16:22:03.237663+00:00": {
+      "this_amiibo": {
+        "rating": 0.20487657065678633,
+        "rating_mu": 19.097961341727387,
+        "rating_sigma": 6.297694923690201,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
         "id": "537b32ab-52e9-44b9-9f24-85c2be50d69c",
@@ -14,12 +20,6 @@
         "trainer_id": "2999d0f5-b8db-41d6-8076-6548015a50f8",
         "trainer_name": "keane26092005",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.20487657065678633,
-        "rating_mu": 19.097961341727387,
-        "rating_sigma": 6.297694923690201,
-        "result": "loss"
       }
     },
     "2021-12-17T12:54:11.787549+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2021-12-20T02:50:02.631785+00:00": {
+      "this_amiibo": {
+        "rating": 14.289718122810182,
+        "rating_mu": 26.85915085990668,
+        "rating_sigma": 4.189810912365499,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "c3905c26-578e-461f-a762-af559b0185fe",
@@ -48,15 +54,15 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.289718122810182,
-        "rating_mu": 26.85915085990668,
-        "rating_sigma": 4.189810912365499,
-        "result": "loss"
       }
     },
     "2022-05-14T14:39:02.797377+00:00": {
+      "this_amiibo": {
+        "rating": 13.919035529474098,
+        "rating_mu": 25.437630737938143,
+        "rating_sigma": 3.8395317361546817,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
         "id": "9a299854-581e-4c09-a7c5-e493f25e3e6e",
@@ -65,12 +71,6 @@
         "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
         "trainer_name": "AlexanderAgne",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.919035529474098,
-        "rating_mu": 25.437630737938143,
-        "rating_sigma": 3.8395317361546817,
-        "result": "loss"
       }
     }
   }

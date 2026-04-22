@@ -23,6 +23,12 @@
       }
     },
     "2022-01-28T12:04:18.176424+00:00": {
+      "this_amiibo": {
+        "rating": 1.2907729201117775,
+        "rating_mu": 21.830920341637412,
+        "rating_sigma": 6.846715807175212,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "98843f24-8e1b-4ade-b0bf-0e2c3ec4e0b9",
@@ -31,12 +37,6 @@
         "trainer_id": "73ed9260-7617-4ae1-a395-7e0ddb479057",
         "trainer_name": "CupNoodle",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2907729201117775,
-        "rating_mu": 21.830920341637412,
-        "rating_sigma": 6.846715807175212,
-        "result": "loss"
       }
     }
   }

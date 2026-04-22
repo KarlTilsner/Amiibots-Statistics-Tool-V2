@@ -40,6 +40,12 @@
       }
     },
     "2022-11-23T10:55:07.760363+00:00": {
+      "this_amiibo": {
+        "rating": 17.811165536545033,
+        "rating_mu": 31.576619632758167,
+        "rating_sigma": 4.5884846987377115,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "3f5a0a06-e296-468d-b287-21a1e810660f",
@@ -48,12 +54,6 @@
         "trainer_id": "52395cd5-7302-493e-a7a9-c0cf640159cd",
         "trainer_name": "mafriel",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 17.811165536545033,
-        "rating_mu": 31.576619632758167,
-        "rating_sigma": 4.5884846987377115,
-        "result": "loss"
       }
     }
   }

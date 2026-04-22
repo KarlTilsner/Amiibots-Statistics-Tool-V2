@@ -40,6 +40,12 @@
       }
     },
     "2021-11-26T14:36:50.737303+00:00": {
+      "this_amiibo": {
+        "rating": 9.397370113876232,
+        "rating_mu": 24.053313339058516,
+        "rating_sigma": 4.885314408394095,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
         "id": "561cd54e-8d75-4a90-b0e3-60b027b5bd8c",
@@ -48,15 +54,15 @@
         "trainer_id": "7b6bdc24-a8e4-4d5c-a3f0-407613a5dc8f",
         "trainer_name": "MentL_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.397370113876232,
-        "rating_mu": 24.053313339058516,
-        "rating_sigma": 4.885314408394095,
-        "result": "loss"
       }
     },
     "2021-11-27T16:56:39.326857+00:00": {
+      "this_amiibo": {
+        "rating": 12.675027145975386,
+        "rating_mu": 24.136592359892724,
+        "rating_sigma": 3.8205217379724457,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
         "id": "f56b0407-0b6f-4a47-9e06-0872d59b634b",
@@ -65,12 +71,6 @@
         "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
         "trainer_name": "CikadaKing",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.675027145975386,
-        "rating_mu": 24.136592359892724,
-        "rating_sigma": 3.8205217379724457,
-        "result": "loss"
       }
     }
   }

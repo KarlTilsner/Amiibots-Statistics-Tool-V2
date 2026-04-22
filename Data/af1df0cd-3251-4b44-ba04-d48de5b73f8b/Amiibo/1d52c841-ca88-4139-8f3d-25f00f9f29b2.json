@@ -6,6 +6,12 @@
   "trainer_name": "HalfMario45678",
   "matches": {
     "2022-04-09T10:44:04.452073+00:00": {
+      "this_amiibo": {
+        "rating": 1.0403539549438428,
+        "rating_mu": 20.79317892960316,
+        "rating_sigma": 6.584274991553106,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "81baa1b1-0192-4ac6-8072-3481f1da23fe",
@@ -14,15 +20,15 @@
         "trainer_id": "fd88f995-3090-47f4-bb1f-61a9aa4a1863",
         "trainer_name": "DazzleMeTaric",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0403539549438428,
-        "rating_mu": 20.79317892960316,
-        "rating_sigma": 6.584274991553106,
-        "result": "loss"
       }
     },
     "2022-04-09T23:20:36.945008+00:00": {
+      "this_amiibo": {
+        "rating": 1.0647685952376165,
+        "rating_mu": 17.124570316550134,
+        "rating_sigma": 5.353267240437506,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "bab27306-684f-4429-ad6d-0ac005a77110",
@@ -31,12 +37,6 @@
         "trainer_id": "31444b60-81d2-41dc-82a9-25090a96f2c8",
         "trainer_name": "thatnerdwithavoice",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0647685952376165,
-        "rating_mu": 17.124570316550134,
-        "rating_sigma": 5.353267240437506,
-        "result": "loss"
       }
     }
   }

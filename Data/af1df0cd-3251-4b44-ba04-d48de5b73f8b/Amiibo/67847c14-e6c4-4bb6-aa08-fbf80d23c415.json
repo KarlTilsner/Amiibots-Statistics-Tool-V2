@@ -6,6 +6,12 @@
   "trainer_name": "schmorchid",
   "matches": {
     "2023-12-18T16:37:16.026242+00:00": {
+      "this_amiibo": {
+        "rating": 0.7476267496189664,
+        "rating_mu": 19.987044767464262,
+        "rating_sigma": 6.413139339281765,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
         "id": "1262ab88-e186-491d-96a7-17ebf6a730ee",
@@ -14,12 +20,6 @@
         "trainer_id": "790bfdd9-7935-4d8a-a2ef-e98e39633f80",
         "trainer_name": "wizard_real",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7476267496189664,
-        "rating_mu": 19.987044767464262,
-        "rating_sigma": 6.413139339281765,
-        "result": "loss"
       }
     },
     "2024-02-08T23:34:13.628470+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2024-02-20T00:37:05.191391+00:00": {
+      "this_amiibo": {
+        "rating": 14.780051291899511,
+        "rating_mu": 26.175442630454846,
+        "rating_sigma": 3.7984637795184453,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
         "id": "71efa853-1c04-4d40-84b3-fe87692fdf71",
@@ -65,15 +71,15 @@
         "trainer_id": "829abfdd-a372-4835-b8d2-8bd05b7dbfd8",
         "trainer_name": "chillindude300",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.780051291899511,
-        "rating_mu": 26.175442630454846,
-        "rating_sigma": 3.7984637795184453,
-        "result": "loss"
       }
     },
     "2024-02-23T09:31:53.169544+00:00": {
+      "this_amiibo": {
+        "rating": 14.198949743558106,
+        "rating_mu": 24.519169867822605,
+        "rating_sigma": 3.440073374754833,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
         "id": "0f6a53c2-6c21-42d4-bdba-3796f876d437",
@@ -82,12 +88,6 @@
         "trainer_id": "b13c42a0-c638-4703-87c4-875e5ec0bf94",
         "trainer_name": "MMMMMMMMTTYYY",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.198949743558106,
-        "rating_mu": 24.519169867822605,
-        "rating_sigma": 3.440073374754833,
-        "result": "loss"
       }
     },
     "2024-04-10T02:28:39.231356+00:00": {
@@ -159,6 +159,12 @@
       }
     },
     "2024-09-19T13:40:14.907103+00:00": {
+      "this_amiibo": {
+        "rating": 21.146220738159084,
+        "rating_mu": 28.574746833170742,
+        "rating_sigma": 2.4761753650038862,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "14a0e48a-cc43-4bc0-b3e0-48613309456e",
@@ -167,12 +173,6 @@
         "trainer_id": "29bd67bb-cbb9-454f-8183-4c526115419b",
         "trainer_name": "FireFang6",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 21.146220738159084,
-        "rating_mu": 28.574746833170742,
-        "rating_sigma": 2.4761753650038862,
-        "result": "loss"
       }
     }
   }

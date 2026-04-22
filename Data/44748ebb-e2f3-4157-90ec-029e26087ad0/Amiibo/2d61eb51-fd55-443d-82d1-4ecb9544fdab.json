@@ -6,6 +6,12 @@
   "trainer_name": "rurpking22",
   "matches": {
     "2020-08-30T04:52:33.659591+00:00": {
+      "this_amiibo": {
+        "rating": 0.9445270096124823,
+        "rating_mu": 24.00445689015417,
+        "rating_sigma": 7.686643293513896,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "2bce4d10-bdac-4d43-9105-51c6838d359c",
@@ -14,12 +20,6 @@
         "trainer_id": "62f1807a-ea39-4292-8f3e-331b7a0b9ae3",
         "trainer_name": "mittensamiibostinky",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9445270096124823,
-        "rating_mu": 24.00445689015417,
-        "rating_sigma": 7.686643293513896,
-        "result": "loss"
       }
     },
     "2020-08-30T23:08:03.621552+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2020-08-31T22:13:42.458622+00:00": {
+      "this_amiibo": {
+        "rating": 7.612606858017221,
+        "rating_mu": 21.8736985459188,
+        "rating_sigma": 4.753697229300526,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
         "id": "0c3754d8-4b06-43d0-b8c4-61d65c0c39fc",
@@ -48,15 +54,15 @@
         "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
         "trainer_name": "apple_beebs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 7.612606858017221,
-        "rating_mu": 21.8736985459188,
-        "rating_sigma": 4.753697229300526,
-        "result": "loss"
       }
     },
     "2020-08-31T18:50:01.452335+00:00": {
+      "this_amiibo": {
+        "rating": 7.743746914262378,
+        "rating_mu": 24.571726709224034,
+        "rating_sigma": 5.609326598320552,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "7cf929a2-0aa9-4233-ac9f-0b0317397153",
@@ -65,15 +71,15 @@
         "trainer_id": "05eacb7f-fff7-4c14-ab1d-129195051d66",
         "trainer_name": "Nintendo_Obsessed",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 7.743746914262378,
-        "rating_mu": 24.571726709224034,
-        "rating_sigma": 5.609326598320552,
-        "result": "loss"
       }
     },
     "2020-09-01T04:14:15.680276+00:00": {
+      "this_amiibo": {
+        "rating": 7.651371435108587,
+        "rating_mu": 20.527737590215924,
+        "rating_sigma": 4.292122051702446,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96e48494-946f-4280-a419-488d644135e0",
         "id": "26fdf79d-c638-4b0f-8d2e-5f18745efcf9",
@@ -82,12 +88,23 @@
         "trainer_id": "b32375d4-4f33-4d1c-9cfe-17efca4a7efd",
         "trainer_name": "megazilarra",
         "result": "win"
-      },
+      }
+    },
+    "2020-12-18T09:45:17.022995+00:00": {
       "this_amiibo": {
-        "rating": 7.651371435108587,
-        "rating_mu": 20.527737590215924,
-        "rating_sigma": 4.292122051702446,
+        "rating": 7.780603370032182,
+        "rating_mu": 20.33472769827296,
+        "rating_sigma": 4.1847081094135925,
         "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "cb790f73-5296-405c-8039-6c2f1baab8f6",
+        "name": "ELITESMASH",
+        "rating": 30.464076192151644,
+        "trainer_id": "82cc96d9-020f-4b3c-8060-12c31d207082",
+        "trainer_name": "Roflcopter6k",
+        "result": "win"
       }
     }
   }

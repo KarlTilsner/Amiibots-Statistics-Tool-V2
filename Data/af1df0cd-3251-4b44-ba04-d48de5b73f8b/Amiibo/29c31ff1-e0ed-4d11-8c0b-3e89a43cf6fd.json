@@ -6,6 +6,12 @@
   "trainer_name": "E1024WasTaken",
   "matches": {
     "2023-08-31T01:27:19.964042+00:00": {
+      "this_amiibo": {
+        "rating": 0.5891569946721944,
+        "rating_mu": 19.6335718796782,
+        "rating_sigma": 6.348138295002002,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
         "id": "195573cc-2038-4d27-92d6-bd978f6e5a1c",
@@ -14,12 +20,6 @@
         "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
         "trainer_name": "forenmagra",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5891569946721944,
-        "rating_mu": 19.6335718796782,
-        "rating_sigma": 6.348138295002002,
-        "result": "loss"
       }
     },
     "2023-09-24T14:32:04.735614+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2024-06-02T03:45:14.556336+00:00": {
+      "this_amiibo": {
+        "rating": 17.50993839274509,
+        "rating_mu": 27.683723712684323,
+        "rating_sigma": 3.391261773313077,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
         "id": "90c97ccb-4fdc-4c84-aa1a-4e91b8cd9b09",
@@ -82,12 +88,6 @@
         "trainer_id": "16484274-0bf1-42ca-8003-5797b387bdc5",
         "trainer_name": "Denneylaw83",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 17.50993839274509,
-        "rating_mu": 27.683723712684323,
-        "rating_sigma": 3.391261773313077,
-        "result": "loss"
       }
     }
   }

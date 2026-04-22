@@ -6,6 +6,12 @@
   "trainer_name": "its_alexis_16",
   "matches": {
     "2022-07-16T07:27:42.447453+00:00": {
+      "this_amiibo": {
+        "rating": 0.8438884648651026,
+        "rating_mu": 20.835385780452917,
+        "rating_sigma": 6.663832438529271,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
         "id": "96759ad3-a430-45d8-9f3b-6cb48708bae9",
@@ -14,12 +20,6 @@
         "trainer_id": "75cc3f13-4e2c-4d71-8a80-80a1ba3a705a",
         "trainer_name": "Duncle_Iroh_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8438884648651026,
-        "rating_mu": 20.835385780452917,
-        "rating_sigma": 6.663832438529271,
-        "result": "loss"
       }
     }
   }

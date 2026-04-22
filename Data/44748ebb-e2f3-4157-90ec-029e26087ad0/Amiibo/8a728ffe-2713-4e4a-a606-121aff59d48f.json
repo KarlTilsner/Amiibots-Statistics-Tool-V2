@@ -6,6 +6,12 @@
   "trainer_name": "Kangoni",
   "matches": {
     "2020-05-12T12:18:57.004766+00:00": {
+      "this_amiibo": {
+        "rating": 1.074613838090162,
+        "rating_mu": 20.956360321252575,
+        "rating_sigma": 6.627248827720805,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "1a97b05a-b2fe-4d42-941c-0ded920496e2",
@@ -14,12 +20,6 @@
         "trainer_id": "4f6f55b1-cf3e-4c7b-a378-2641d72fcf23",
         "trainer_name": "TheLimpWalrus",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.074613838090162,
-        "rating_mu": 20.956360321252575,
-        "rating_sigma": 6.627248827720805,
-        "result": "loss"
       }
     }
   }

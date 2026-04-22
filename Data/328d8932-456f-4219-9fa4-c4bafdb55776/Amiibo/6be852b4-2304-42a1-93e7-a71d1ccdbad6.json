@@ -6,6 +6,12 @@
   "trainer_name": "MoonBeanBie",
   "matches": {
     "2022-03-07T03:21:28.293784+00:00": {
+      "this_amiibo": {
+        "rating": 1.5951870197678701,
+        "rating_mu": 19.84632217289457,
+        "rating_sigma": 6.0837117177089,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "919bc2ef-6076-4659-bfe1-115fd065ac7b",
@@ -14,15 +20,15 @@
         "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
         "trainer_name": "raid_boss_09",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.5951870197678701,
-        "rating_mu": 19.84632217289457,
-        "rating_sigma": 6.0837117177089,
-        "result": "loss"
       }
     },
     "2022-03-06T23:33:52.124348+00:00": {
+      "this_amiibo": {
+        "rating": 0.9535616910167235,
+        "rating_mu": 20.819354601506657,
+        "rating_sigma": 6.621930970163311,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
         "id": "7bf5fc7d-c21d-40b4-84c1-3acc586cb351",
@@ -31,12 +37,6 @@
         "trainer_id": "0c1c5d80-12d9-44f9-8d6b-1235a993cf3f",
         "trainer_name": "bunion_j",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9535616910167235,
-        "rating_mu": 20.819354601506657,
-        "rating_sigma": 6.621930970163311,
-        "result": "loss"
       }
     }
   }

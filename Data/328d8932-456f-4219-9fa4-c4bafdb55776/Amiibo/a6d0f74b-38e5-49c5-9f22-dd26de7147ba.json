@@ -6,6 +6,12 @@
   "trainer_name": "rapjm14",
   "matches": {
     "2022-03-23T11:49:12.395161+00:00": {
+      "this_amiibo": {
+        "rating": 0.9780245993504373,
+        "rating_mu": 23.315105571739604,
+        "rating_sigma": 7.445693657463056,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96e48494-946f-4280-a419-488d644135e0",
         "id": "8f05c30a-9526-42f7-8da0-e31cbb48e218",
@@ -14,12 +20,6 @@
         "trainer_id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
         "trainer_name": "pinheadpatrick017",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9780245993504373,
-        "rating_mu": 23.315105571739604,
-        "rating_sigma": 7.445693657463056,
-        "result": "loss"
       }
     }
   }

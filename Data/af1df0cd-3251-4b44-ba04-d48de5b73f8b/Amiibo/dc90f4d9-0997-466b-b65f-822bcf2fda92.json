@@ -6,6 +6,12 @@
   "trainer_name": "iguyw",
   "matches": {
     "2023-11-19T03:14:49.296039+00:00": {
+      "this_amiibo": {
+        "rating": 0.5825416352005597,
+        "rating_mu": 19.605264288408552,
+        "rating_sigma": 6.340907551069331,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
         "id": "daa944b0-a8b4-4bad-b1e0-cfb89b01c9d1",
@@ -14,12 +20,6 @@
         "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
         "trainer_name": "WynnThornton",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5825416352005597,
-        "rating_mu": 19.605264288408552,
-        "rating_sigma": 6.340907551069331,
-        "result": "loss"
       }
     }
   }

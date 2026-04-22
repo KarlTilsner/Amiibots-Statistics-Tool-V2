@@ -6,6 +6,12 @@
   "trainer_name": "leCharade",
   "matches": {
     "2024-02-25T01:24:43.770398+00:00": {
+      "this_amiibo": {
+        "rating": 0.9646696899423262,
+        "rating_mu": 20.981920530791356,
+        "rating_sigma": 6.672416946949676,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "efc6bf2b-78d5-4f88-97e6-c0089348fb36",
@@ -14,12 +20,6 @@
         "trainer_id": "e4931ae7-1311-40d6-811c-354742e96bc0",
         "trainer_name": "atomic_salvy",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9646696899423262,
-        "rating_mu": 20.981920530791356,
-        "rating_sigma": 6.672416946949676,
-        "result": "loss"
       }
     },
     "2024-03-03T07:00:19.560707+00:00": {

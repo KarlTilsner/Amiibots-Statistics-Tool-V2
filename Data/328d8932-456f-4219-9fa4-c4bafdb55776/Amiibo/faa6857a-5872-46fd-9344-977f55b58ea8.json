@@ -6,6 +6,12 @@
   "trainer_name": "t_newcomer",
   "matches": {
     "2021-08-31T01:50:41.214236+00:00": {
+      "this_amiibo": {
+        "rating": 0.837608216839314,
+        "rating_mu": 20.55482007621273,
+        "rating_sigma": 6.572403953124472,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
         "id": "d30ce12e-0077-44fd-aa3b-e15a70b92681",
@@ -14,15 +20,15 @@
         "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
         "trainer_name": "sp_staples",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.837608216839314,
-        "rating_mu": 20.55482007621273,
-        "rating_sigma": 6.572403953124472,
-        "result": "loss"
       }
     },
     "2021-09-02T04:50:06.218493+00:00": {
+      "this_amiibo": {
+        "rating": 1.4638078954986717,
+        "rating_mu": 19.715007576290308,
+        "rating_sigma": 6.083733226930546,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
         "id": "534c2ddf-429f-462a-9e7f-4e3f7da4beb2",
@@ -31,12 +37,6 @@
         "trainer_id": "8a479357-a5de-4f56-8700-0d1a85c3d46b",
         "trainer_name": "OmenApproaching",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.4638078954986717,
-        "rating_mu": 19.715007576290308,
-        "rating_sigma": 6.083733226930546,
-        "result": "loss"
       }
     },
     "2021-09-07T10:28:20.055617+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2021-09-07T05:46:50.747438+00:00": {
+      "this_amiibo": {
+        "rating": 1.7413772710421576,
+        "rating_mu": 17.404022907707617,
+        "rating_sigma": 5.220881878888487,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
         "id": "6bf6598d-1a12-423b-849c-88501939afe8",
@@ -65,15 +71,15 @@
         "trainer_id": "be58a4cf-84b7-4a35-959b-721591e6dfcb",
         "trainer_name": "chillquillz",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.7413772710421576,
-        "rating_mu": 17.404022907707617,
-        "rating_sigma": 5.220881878888487,
-        "result": "loss"
       }
     },
     "2021-09-10T21:47:28.036380+00:00": {
+      "this_amiibo": {
+        "rating": 7.565847380076775,
+        "rating_mu": 19.72775048076813,
+        "rating_sigma": 4.0539677002304515,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
         "id": "49626ae5-a2cc-41a2-94f0-e29247e43d64",
@@ -82,12 +88,6 @@
         "trainer_id": "0dac8a24-5ed7-4fc9-9c00-5674617b4fab",
         "trainer_name": "JohnLML123",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 7.565847380076775,
-        "rating_mu": 19.72775048076813,
-        "rating_sigma": 4.0539677002304515,
-        "result": "loss"
       }
     }
   }

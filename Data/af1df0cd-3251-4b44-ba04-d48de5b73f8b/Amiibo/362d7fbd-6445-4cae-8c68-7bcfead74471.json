@@ -6,6 +6,12 @@
   "trainer_name": "Competitively2",
   "matches": {
     "2024-06-09T00:23:11.908166+00:00": {
+      "this_amiibo": {
+        "rating": 0.973020491557989,
+        "rating_mu": 20.591439954841363,
+        "rating_sigma": 6.5394731544277915,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
         "id": "76c21066-d7c7-4db6-b842-c0982f3ad412",
@@ -14,12 +20,6 @@
         "trainer_id": "e38c8bde-3fd5-4f26-aa98-691255967e55",
         "trainer_name": "Bewni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.973020491557989,
-        "rating_mu": 20.591439954841363,
-        "rating_sigma": 6.5394731544277915,
-        "result": "loss"
       }
     },
     "2024-07-15T02:41:03.881058+00:00": {

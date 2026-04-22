@@ -6,6 +6,12 @@
   "trainer_name": "thescuttler62",
   "matches": {
     "2020-07-30T06:24:42.443007+00:00": {
+      "this_amiibo": {
+        "rating": 0.39463490732056883,
+        "rating_mu": 19.21606154259531,
+        "rating_sigma": 6.273808878424913,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
         "id": "9ec75c88-c16f-4eed-bb65-2413ec0c9eb3",
@@ -14,15 +20,15 @@
         "trainer_id": "b079e5eb-cecb-48d2-a350-091fc4698bd3",
         "trainer_name": "kangasmom",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.39463490732056883,
-        "rating_mu": 19.21606154259531,
-        "rating_sigma": 6.273808878424913,
-        "result": "loss"
       }
     },
     "2020-07-30T09:55:22.941966+00:00": {
+      "this_amiibo": {
+        "rating": 0.9927720157824211,
+        "rating_mu": 18.28728183130154,
+        "rating_sigma": 5.7648366051730395,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "a546d64f-4100-4eac-bc9b-16eadefefe24",
@@ -31,12 +37,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9927720157824211,
-        "rating_mu": 18.28728183130154,
-        "rating_sigma": 5.7648366051730395,
-        "result": "loss"
       }
     }
   }

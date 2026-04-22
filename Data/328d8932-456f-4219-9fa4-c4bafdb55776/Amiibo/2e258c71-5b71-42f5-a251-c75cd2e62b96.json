@@ -6,6 +6,12 @@
   "trainer_name": "islabecausewhynot",
   "matches": {
     "2022-01-04T20:26:41.896867+00:00": {
+      "this_amiibo": {
+        "rating": -0.3132810304828233,
+        "rating_mu": 19.916865293760885,
+        "rating_sigma": 6.743382108081236,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
         "id": "ae5d2986-15c6-478b-99b7-661c5c8e449f",
@@ -14,15 +20,15 @@
         "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
         "trainer_name": "raid_boss_09",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.3132810304828233,
-        "rating_mu": 19.916865293760885,
-        "rating_sigma": 6.743382108081236,
-        "result": "loss"
       }
     },
     "2022-01-04T17:35:47.256601+00:00": {
+      "this_amiibo": {
+        "rating": -0.8016797229894159,
+        "rating_mu": 20.775701662576704,
+        "rating_sigma": 7.192460461855374,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
         "id": "0f3d040a-4c54-459a-b008-fed001840ced",
@@ -31,12 +37,6 @@
         "trainer_id": "74b11748-df73-4895-a914-7f048a54ecc8",
         "trainer_name": "Dempsey342",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.8016797229894159,
-        "rating_mu": 20.775701662576704,
-        "rating_sigma": 7.192460461855374,
-        "result": "loss"
       }
     }
   }

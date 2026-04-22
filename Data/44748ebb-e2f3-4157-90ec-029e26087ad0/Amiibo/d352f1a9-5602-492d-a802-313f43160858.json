@@ -6,6 +6,12 @@
   "trainer_name": "prinzess16",
   "matches": {
     "2020-08-08T00:03:19.328279+00:00": {
+      "this_amiibo": {
+        "rating": -0.6877363908032166,
+        "rating_mu": 17.48351754787698,
+        "rating_sigma": 6.057084646226731,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
         "id": "6b327cfe-d277-412d-a1bd-4adba0f3d575",
@@ -14,12 +20,6 @@
         "trainer_id": "07e2d0ae-7ddc-461c-886d-5e88205438df",
         "trainer_name": "OctoChris",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.6877363908032166,
-        "rating_mu": 17.48351754787698,
-        "rating_sigma": 6.057084646226731,
-        "result": "loss"
       }
     }
   }

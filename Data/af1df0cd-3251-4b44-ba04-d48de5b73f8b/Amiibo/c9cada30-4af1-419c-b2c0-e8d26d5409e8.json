@@ -6,6 +6,12 @@
   "trainer_name": "Azend_1",
   "matches": {
     "2023-12-16T06:14:20.181202+00:00": {
+      "this_amiibo": {
+        "rating": 0.32083337317039096,
+        "rating_mu": 19.077882940263702,
+        "rating_sigma": 6.252349855697771,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "8e90a02e-e37d-4a7d-8e82-5f4dee85085f",
@@ -14,12 +20,6 @@
         "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
         "trainer_name": "bubs_yt",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.32083337317039096,
-        "rating_mu": 19.077882940263702,
-        "rating_sigma": 6.252349855697771,
-        "result": "loss"
       }
     },
     "2023-12-21T11:36:44.210619+00:00": {

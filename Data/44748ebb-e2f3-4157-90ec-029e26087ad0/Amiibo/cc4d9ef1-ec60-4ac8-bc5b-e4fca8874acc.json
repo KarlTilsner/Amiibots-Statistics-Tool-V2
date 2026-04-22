@@ -6,6 +6,12 @@
   "trainer_name": "bandanadeefan1001",
   "matches": {
     "2020-10-02T18:48:47.557859+00:00": {
+      "this_amiibo": {
+        "rating": 1.2217930550233156,
+        "rating_mu": 21.522999009728917,
+        "rating_sigma": 6.767068651568534,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
         "id": "d87574aa-ec44-4444-971e-afb08be0f078",
@@ -14,12 +20,6 @@
         "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
         "trainer_name": "apple_beebs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2217930550233156,
-        "rating_mu": 21.522999009728917,
-        "rating_sigma": 6.767068651568534,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "ILuvBubbleBuddy",
   "matches": {
     "2021-03-08T05:15:55.668840+00:00": {
+      "this_amiibo": {
+        "rating": -0.6050656309294062,
+        "rating_mu": 20.049583493595005,
+        "rating_sigma": 6.884883041508137,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
         "id": "0275f489-fbda-4ce5-af52-486557ff9042",
@@ -14,12 +20,6 @@
         "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
         "trainer_name": "Renegade_Marbles",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.6050656309294062,
-        "rating_mu": 20.049583493595005,
-        "rating_sigma": 6.884883041508137,
-        "result": "loss"
       }
     }
   }

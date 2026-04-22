@@ -6,6 +6,12 @@
   "trainer_name": "smashssf2_ita",
   "matches": {
     "2021-12-08T10:52:20.801625+00:00": {
+      "this_amiibo": {
+        "rating": 1.143963455546853,
+        "rating_mu": 21.157984459765817,
+        "rating_sigma": 6.6713403347396545,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "0e3921c6-673d-46ae-9ff5-a17a46303e00",
@@ -14,12 +20,6 @@
         "trainer_id": "db478eb2-7e39-43c5-9dca-2fe9358ad69a",
         "trainer_name": "thatbupguy",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.143963455546853,
-        "rating_mu": 21.157984459765817,
-        "rating_sigma": 6.6713403347396545,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "Murbert_AM",
   "matches": {
     "2020-10-12T06:21:11.102702+00:00": {
+      "this_amiibo": {
+        "rating": 1.0879937754043958,
+        "rating_mu": 21.035686066919556,
+        "rating_sigma": 6.6492307638383865,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "129d7d00-128f-413c-a2be-b05438aba9c9",
@@ -14,12 +20,6 @@
         "trainer_id": "7525aba0-a06b-4d39-a732-117e049fe2f4",
         "trainer_name": "terrararara",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0879937754043958,
-        "rating_mu": 21.035686066919556,
-        "rating_sigma": 6.6492307638383865,
-        "result": "loss"
       }
     }
   }

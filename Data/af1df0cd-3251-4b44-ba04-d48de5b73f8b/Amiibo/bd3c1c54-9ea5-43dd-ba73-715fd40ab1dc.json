@@ -6,6 +6,12 @@
   "trainer_name": "AlexanderAgne",
   "matches": {
     "2023-07-24T13:03:42.033557+00:00": {
+      "this_amiibo": {
+        "rating": 0.44784632046552275,
+        "rating_mu": 20.24034120233027,
+        "rating_sigma": 6.597498293954916,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "a3887873-5dc6-4100-a687-0092faf682ab",
@@ -14,12 +20,6 @@
         "trainer_id": "1b846685-1731-4036-8b85-41fdd8e4f47e",
         "trainer_name": "unhappyice",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.44784632046552275,
-        "rating_mu": 20.24034120233027,
-        "rating_sigma": 6.597498293954916,
-        "result": "loss"
       }
     }
   }

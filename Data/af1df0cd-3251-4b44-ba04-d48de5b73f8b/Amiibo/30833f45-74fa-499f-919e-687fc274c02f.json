@@ -6,6 +6,12 @@
   "trainer_name": "Mrjuiq",
   "matches": {
     "2023-10-20T19:41:31.420308+00:00": {
+      "this_amiibo": {
+        "rating": 0.3538342091093938,
+        "rating_mu": 19.139869467989097,
+        "rating_sigma": 6.262011752959901,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
         "id": "836fb487-3cd5-438a-ab30-4f0e144c6686",
@@ -14,12 +20,6 @@
         "trainer_id": "1dbad9b6-c3fe-42c6-958e-e4bf6e70f9f0",
         "trainer_name": "bunswe55",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.3538342091093938,
-        "rating_mu": 19.139869467989097,
-        "rating_sigma": 6.262011752959901,
-        "result": "loss"
       }
     },
     "2023-10-22T05:37:50.661813+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2024-03-05T01:30:04.799485+00:00": {
+      "this_amiibo": {
+        "rating": 17.07664210149469,
+        "rating_mu": 27.26385211739595,
+        "rating_sigma": 3.395736671967086,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
         "id": "926b210f-f55d-4ecf-a5e6-5b67da43d28e",
@@ -82,12 +88,6 @@
         "trainer_id": "c1461260-903f-4aae-ad42-af21e07e1e98",
         "trainer_name": "MoonBeanBie",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 17.07664210149469,
-        "rating_mu": 27.26385211739595,
-        "rating_sigma": 3.395736671967086,
-        "result": "loss"
       }
     }
   }

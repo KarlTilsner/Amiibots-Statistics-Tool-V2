@@ -6,6 +6,12 @@
   "trainer_name": "UltraDPG",
   "matches": {
     "2020-09-06T16:58:52.091925+00:00": {
+      "this_amiibo": {
+        "rating": -0.49163487853069654,
+        "rating_mu": 18.536726506415192,
+        "rating_sigma": 6.342787128315296,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "ba94257a-9223-4210-a542-ffd8a798d74c",
         "id": "f50c0c3a-a3ea-4065-915a-36555f2102b8",
@@ -14,15 +20,15 @@
         "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
         "trainer_name": "nozzly",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.49163487853069654,
-        "rating_mu": 18.536726506415192,
-        "rating_sigma": 6.342787128315296,
-        "result": "loss"
       }
     },
     "2020-09-24T14:56:16.332715+00:00": {
+      "this_amiibo": {
+        "rating": -0.5830433842347666,
+        "rating_mu": 16.44172901125318,
+        "rating_sigma": 5.674924131829315,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
         "id": "eb73e0b2-c598-42f1-ac2c-835fdd5daa39",
@@ -31,15 +37,15 @@
         "trainer_id": "c8c8eaa1-6858-4005-84ce-0e99893d8074",
         "trainer_name": "husk_firewolf",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.5830433842347666,
-        "rating_mu": 16.44172901125318,
-        "rating_sigma": 5.674924131829315,
-        "result": "loss"
       }
     },
     "2020-10-01T05:19:45.497034+00:00": {
+      "this_amiibo": {
+        "rating": -0.15050002480659508,
+        "rating_mu": 15.765437579716638,
+        "rating_sigma": 5.305312534841078,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "ffd8282e-b990-413b-88a4-5e4b04dcbb39",
@@ -48,15 +54,15 @@
         "trainer_id": "230f182d-da7d-4674-a361-4ac214df6610",
         "trainer_name": "Zenabievg",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.15050002480659508,
-        "rating_mu": 15.765437579716638,
-        "rating_sigma": 5.305312534841078,
-        "result": "loss"
       }
     },
     "2020-10-01T14:31:21.208885+00:00": {
+      "this_amiibo": {
+        "rating": 0.04402229587642914,
+        "rating_mu": 14.624473384274742,
+        "rating_sigma": 4.860150362799438,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
         "id": "04038067-0e3d-4e6d-86f7-13736963870a",
@@ -65,12 +71,6 @@
         "trainer_id": "6ee0c731-9ca7-4ddf-af78-94905294d761",
         "trainer_name": "PKMN_Master99",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.04402229587642914,
-        "rating_mu": 14.624473384274742,
-        "rating_sigma": 4.860150362799438,
-        "result": "loss"
       }
     }
   }

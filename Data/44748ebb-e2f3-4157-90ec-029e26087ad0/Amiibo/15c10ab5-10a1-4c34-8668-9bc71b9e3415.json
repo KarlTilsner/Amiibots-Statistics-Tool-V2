@@ -6,6 +6,12 @@
   "trainer_name": "SteelswarmCycada",
   "matches": {
     "2020-10-06T03:18:16.073065+00:00": {
+      "this_amiibo": {
+        "rating": -0.1942214106009139,
+        "rating_mu": 19.343937561946497,
+        "rating_sigma": 6.512719657515803,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
         "id": "a8b5e54e-fa47-4dde-a4f4-c5329d6e083f",
@@ -14,12 +20,6 @@
         "trainer_id": "3e1642f4-3a61-4225-bd2d-d551616be0fa",
         "trainer_name": "doopfizzle",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.1942214106009139,
-        "rating_mu": 19.343937561946497,
-        "rating_sigma": 6.512719657515803,
-        "result": "loss"
       }
     }
   }

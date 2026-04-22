@@ -40,6 +40,12 @@
       }
     },
     "2023-06-16T19:52:01.364800+00:00": {
+      "this_amiibo": {
+        "rating": 26.572936718371636,
+        "rating_mu": 29.21123899726321,
+        "rating_sigma": 0.879434092963858,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "671e81cc-4b35-4882-847b-0af741c48b57",
@@ -48,12 +54,6 @@
         "trainer_id": "4ef50fd5-b406-48f9-bc3d-95922e8d1456",
         "trainer_name": "Ashidlun",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 26.572936718371636,
-        "rating_mu": 29.21123899726321,
-        "rating_sigma": 0.879434092963858,
-        "result": "loss"
       }
     }
   }

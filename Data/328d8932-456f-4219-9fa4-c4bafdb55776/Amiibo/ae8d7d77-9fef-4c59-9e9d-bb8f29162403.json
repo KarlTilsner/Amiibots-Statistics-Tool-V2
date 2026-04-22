@@ -6,6 +6,12 @@
   "trainer_name": "halfmario456_",
   "matches": {
     "2022-08-22T07:17:22.915225+00:00": {
+      "this_amiibo": {
+        "rating": -0.023555576909092935,
+        "rating_mu": 20.685673733542433,
+        "rating_sigma": 6.903076436817176,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
         "id": "31bfbb78-c000-4296-8005-980eef0ef562",
@@ -14,15 +20,15 @@
         "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
         "trainer_name": "wyvernfalcon",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.023555576909092935,
-        "rating_mu": 20.685673733542433,
-        "rating_sigma": 6.903076436817176,
-        "result": "loss"
       }
     },
     "2022-08-24T13:41:17.339690+00:00": {
+      "this_amiibo": {
+        "rating": 0.3994667314850737,
+        "rating_mu": 17.545038475292078,
+        "rating_sigma": 5.715190581269001,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
         "id": "960bc7ac-6510-46db-b161-f7ed4c848ed5",
@@ -31,12 +37,6 @@
         "trainer_id": "d8574cbf-2422-4b8f-b20c-8c8395a63fb3",
         "trainer_name": "dat1woomy",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.3994667314850737,
-        "rating_mu": 17.545038475292078,
-        "rating_sigma": 5.715190581269001,
-        "result": "loss"
       }
     },
     "2022-08-25T03:52:16.384615+00:00": {
@@ -91,6 +91,12 @@
       }
     },
     "2022-09-07T19:24:34.797878+00:00": {
+      "this_amiibo": {
+        "rating": 14.076223710296318,
+        "rating_mu": 24.14618515862968,
+        "rating_sigma": 3.356653816111121,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
         "id": "c5153867-c797-4d31-8133-12d09b4fc7cf",
@@ -99,12 +105,6 @@
         "trainer_id": "c77a47ee-60f9-487e-abed-a8514fdaeeac",
         "trainer_name": "trueschavi",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.076223710296318,
-        "rating_mu": 24.14618515862968,
-        "rating_sigma": 3.356653816111121,
-        "result": "loss"
       }
     }
   }

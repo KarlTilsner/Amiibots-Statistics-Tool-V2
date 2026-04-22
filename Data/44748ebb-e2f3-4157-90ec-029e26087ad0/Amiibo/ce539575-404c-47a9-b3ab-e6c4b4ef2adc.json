@@ -6,6 +6,12 @@
   "trainer_name": "staples___",
   "matches": {
     "2020-07-04T22:02:18.594827+00:00": {
+      "this_amiibo": {
+        "rating": -1.0930819227480342,
+        "rating_mu": 19.656517739313394,
+        "rating_sigma": 6.916533220687143,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "9dc693b4-64fa-4675-8574-026669358f50",
@@ -14,12 +20,6 @@
         "trainer_id": "c2fef7d0-92be-4111-8eff-4f229176422c",
         "trainer_name": "dreamy_b_jay",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.0930819227480342,
-        "rating_mu": 19.656517739313394,
-        "rating_sigma": 6.916533220687143,
-        "result": "loss"
       }
     }
   }

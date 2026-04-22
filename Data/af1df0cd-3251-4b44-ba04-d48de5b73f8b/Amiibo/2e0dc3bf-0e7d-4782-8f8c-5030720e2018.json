@@ -6,6 +6,12 @@
   "trainer_name": "mag0rx",
   "matches": {
     "2023-06-15T15:34:31.944773+00:00": {
+      "this_amiibo": {
+        "rating": 15.66710219498079,
+        "rating_mu": 19.685378825304998,
+        "rating_sigma": 1.3394255434414024,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "6e61ce9f-d271-444c-8900-a459a8d15081",
@@ -14,12 +20,6 @@
         "trainer_id": "884cb5c3-bfa9-465a-afc3-dadf89fe30b4",
         "trainer_name": "amiiboman16",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 15.66710219498079,
-        "rating_mu": 19.685378825304998,
-        "rating_sigma": 1.3394255434414024,
-        "result": "loss"
       }
     }
   }

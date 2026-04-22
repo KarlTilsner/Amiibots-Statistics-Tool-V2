@@ -6,6 +6,12 @@
   "trainer_name": "Bananika7",
   "matches": {
     "2022-09-05T07:12:21.156048+00:00": {
+      "this_amiibo": {
+        "rating": -0.7899217551096172,
+        "rating_mu": 20.79452709502615,
+        "rating_sigma": 7.194816283378589,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "77b20782-7a56-421b-9b86-81b61ae7f6d4",
@@ -14,15 +20,15 @@
         "trainer_id": "c2165b93-c300-4810-b347-c6809b346195",
         "trainer_name": "zerosuts",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.7899217551096172,
-        "rating_mu": 20.79452709502615,
-        "rating_sigma": 7.194816283378589,
-        "result": "loss"
       }
     },
     "2022-09-05T18:40:42.393124+00:00": {
+      "this_amiibo": {
+        "rating": -1.149864536212032,
+        "rating_mu": 15.820603174047179,
+        "rating_sigma": 5.656822570086404,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "6b8352fc-be2d-4c9a-8b85-ff0ccb420953",
@@ -31,12 +37,6 @@
         "trainer_id": "c698afb6-6645-4f81-b3b9-a71f4ebcd6a0",
         "trainer_name": "tegtegthe5",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.149864536212032,
-        "rating_mu": 15.820603174047179,
-        "rating_sigma": 5.656822570086404,
-        "result": "loss"
       }
     },
     "2022-09-05T23:48:04.229333+00:00": {
@@ -125,6 +125,12 @@
       }
     },
     "2022-09-10T04:34:44.157878+00:00": {
+      "this_amiibo": {
+        "rating": 14.898619687335977,
+        "rating_mu": 24.051939410600472,
+        "rating_sigma": 3.0511065744214987,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96e48494-946f-4280-a419-488d644135e0",
         "id": "c52740fe-8da5-4558-8fd8-4e37e2ada172",
@@ -133,12 +139,6 @@
         "trainer_id": "fff1df31-fc68-4fba-8d11-7e4016df1268",
         "trainer_name": "patspatchgaming_yt",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.898619687335977,
-        "rating_mu": 24.051939410600472,
-        "rating_sigma": 3.0511065744214987,
-        "result": "loss"
       }
     },
     "2022-09-10T16:26:44.622784+00:00": {
@@ -210,6 +210,12 @@
       }
     },
     "2022-09-19T04:34:09.935208+00:00": {
+      "this_amiibo": {
+        "rating": 20.65165159804276,
+        "rating_mu": 27.57456151924545,
+        "rating_sigma": 2.307636640400896,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "24abca9e-ba91-4c4b-84fc-81a9015cdb12",
@@ -218,15 +224,15 @@
         "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
         "trainer_name": "YM44",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 20.65165159804276,
-        "rating_mu": 27.57456151924545,
-        "rating_sigma": 2.307636640400896,
-        "result": "loss"
       }
     },
     "2022-09-20T18:01:48.426491+00:00": {
+      "this_amiibo": {
+        "rating": 20.289942646706116,
+        "rating_mu": 26.926499681781635,
+        "rating_sigma": 2.212185678358507,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
         "id": "667a971b-be82-45c5-a151-f4e807d63d74",
@@ -235,15 +241,15 @@
         "trainer_id": "e315cc8f-425d-4686-a648-103739846f36",
         "trainer_name": "Darkmega5",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 20.289942646706116,
-        "rating_mu": 26.926499681781635,
-        "rating_sigma": 2.212185678358507,
-        "result": "loss"
       }
     },
     "2022-09-25T08:47:36.122598+00:00": {
+      "this_amiibo": {
+        "rating": 19.960532008111077,
+        "rating_mu": 26.370321842503486,
+        "rating_sigma": 2.1365966114641366,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
         "id": "026a6795-725e-43f2-bf82-abbb0d19d768",
@@ -252,11 +258,73 @@
         "trainer_id": "b3c93a1e-0aee-4a76-a0ed-36bc7258e629",
         "trainer_name": "Bananika7",
         "result": "win"
-      },
+      }
+    },
+    "2022-10-06T01:26:35.748177+00:00": {
       "this_amiibo": {
-        "rating": 19.960532008111077,
-        "rating_mu": 26.370321842503486,
-        "rating_sigma": 2.1365966114641366,
+        "rating": 20.352018523610223,
+        "rating_mu": 26.684303897887588,
+        "rating_sigma": 2.110761791425788,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "c0ab8f4c-c491-42c4-bc92-78034f7e15c8",
+        "name": "Space Jam",
+        "rating": 0.6663238924040549,
+        "trainer_id": "01ca434c-a198-412c-b33c-18ffc8fd3c89",
+        "trainer_name": "E1024WasTaken",
+        "result": "loss"
+      }
+    },
+    "2022-10-07T05:08:41.778804+00:00": {
+      "this_amiibo": {
+        "rating": 20.91176573200524,
+        "rating_mu": 27.065894042070884,
+        "rating_sigma": 2.0513761033552145,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "5f1e74f6-3d25-42b3-9cd5-0964610c503e",
+        "name": "terrorism!",
+        "rating": 18.750562622180844,
+        "trainer_id": "7fbb5c35-7e30-4b20-be8b-18e6b172f2bc",
+        "trainer_name": "mulpisticlune",
+        "result": "loss"
+      }
+    },
+    "2022-10-08T10:59:37.786249+00:00": {
+      "this_amiibo": {
+        "rating": 20.40103484632891,
+        "rating_mu": 26.31879395470476,
+        "rating_sigma": 1.972586369458617,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "53df838a-ee8e-4417-a58e-46beb6870f9c",
+        "name": "El Gato ;(",
+        "rating": 21.43813603594187,
+        "trainer_id": "b03ddf3c-0e54-4b9c-bf81-3373bed76b0a",
+        "trainer_name": "neoboy239",
+        "result": "win"
+      }
+    },
+    "2022-10-09T19:08:06.529836+00:00": {
+      "this_amiibo": {
+        "rating": 20.92249484129694,
+        "rating_mu": 26.681491904019918,
+        "rating_sigma": 1.9196656875743259,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "4d4749e8-ceba-4f71-9d36-015884114533",
+        "name": "Fister",
+        "rating": 21.541611639630737,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
         "result": "loss"
       }
     }

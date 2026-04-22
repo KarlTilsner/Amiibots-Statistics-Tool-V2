@@ -23,6 +23,12 @@
       }
     },
     "2022-09-21T01:05:30.709706+00:00": {
+      "this_amiibo": {
+        "rating": 10.048722551585215,
+        "rating_mu": 26.071504680983672,
+        "rating_sigma": 5.340927376466153,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "b5b7bbf0-c9ee-49c6-b775-1c704af903d1",
@@ -31,12 +37,6 @@
         "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
         "trainer_name": "Murbert_AM",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.048722551585215,
-        "rating_mu": 26.071504680983672,
-        "rating_sigma": 5.340927376466153,
-        "result": "loss"
       }
     }
   }

@@ -74,6 +74,12 @@
       }
     },
     "2022-01-04T07:20:19.978179+00:00": {
+      "this_amiibo": {
+        "rating": 20.547305854521863,
+        "rating_mu": 32.18694716128696,
+        "rating_sigma": 3.8798804355883654,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "0e3921c6-673d-46ae-9ff5-a17a46303e00",
@@ -82,12 +88,6 @@
         "trainer_id": "db478eb2-7e39-43c5-9dca-2fe9358ad69a",
         "trainer_name": "thatbupguy",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 20.547305854521863,
-        "rating_mu": 32.18694716128696,
-        "rating_sigma": 3.8798804355883654,
-        "result": "loss"
       }
     }
   }

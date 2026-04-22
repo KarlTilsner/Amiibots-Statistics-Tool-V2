@@ -23,6 +23,12 @@
       }
     },
     "2022-05-23T05:06:32.003675+00:00": {
+      "this_amiibo": {
+        "rating": 12.526131776836904,
+        "rating_mu": 28.108375748749072,
+        "rating_sigma": 5.194081323970723,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "0030df54-fb0a-40f6-b526-e7324e79ba25",
@@ -31,12 +37,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.526131776836904,
-        "rating_mu": 28.108375748749072,
-        "rating_sigma": 5.194081323970723,
-        "result": "loss"
       }
     }
   }

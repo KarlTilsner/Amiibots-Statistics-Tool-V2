@@ -6,6 +6,12 @@
   "trainer_name": "fammydamammy",
   "matches": {
     "2021-10-06T13:02:18.154735+00:00": {
+      "this_amiibo": {
+        "rating": 1.1829803092864744,
+        "rating_mu": 23.19938908004539,
+        "rating_sigma": 7.3388029235863055,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
         "id": "f6af7457-81d7-4028-a528-afeb98d14017",
@@ -14,12 +20,6 @@
         "trainer_id": "c1461260-903f-4aae-ad42-af21e07e1e98",
         "trainer_name": "TheWohaPolice",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1829803092864744,
-        "rating_mu": 23.19938908004539,
-        "rating_sigma": 7.3388029235863055,
-        "result": "loss"
       }
     }
   }

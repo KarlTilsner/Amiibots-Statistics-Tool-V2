@@ -6,6 +6,12 @@
   "trainer_name": "luckman21",
   "matches": {
     "2020-08-14T20:05:41.391441+00:00": {
+      "this_amiibo": {
+        "rating": 0.9282793043439774,
+        "rating_mu": 20.46627705180037,
+        "rating_sigma": 6.512665915818797,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
         "id": "da2a9752-ece9-4929-9afc-40eee1034171",
@@ -14,12 +20,6 @@
         "trainer_id": "51f33a61-00bc-4d8c-87a5-6493d7dbc50e",
         "trainer_name": "Catzy123",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9282793043439774,
-        "rating_mu": 20.46627705180037,
-        "rating_sigma": 6.512665915818797,
-        "result": "loss"
       }
     }
   }

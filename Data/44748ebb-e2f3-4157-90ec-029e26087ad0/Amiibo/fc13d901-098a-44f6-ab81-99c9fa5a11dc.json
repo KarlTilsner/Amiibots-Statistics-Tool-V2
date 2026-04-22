@@ -6,6 +6,12 @@
   "trainer_name": "leeya310",
   "matches": {
     "2020-11-09T04:49:39.336028+00:00": {
+      "this_amiibo": {
+        "rating": 1.239433952312563,
+        "rating_mu": 21.556974304462802,
+        "rating_sigma": 6.772513450716746,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "599edd14-687c-4264-812e-bc246f562f31",
         "id": "184c2c0e-aa49-4473-bf46-4f58598681bd",
@@ -14,12 +20,6 @@
         "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
         "trainer_name": "nozzly",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.239433952312563,
-        "rating_mu": 21.556974304462802,
-        "rating_sigma": 6.772513450716746,
-        "result": "loss"
       }
     }
   }

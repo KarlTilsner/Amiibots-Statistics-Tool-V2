@@ -6,6 +6,12 @@
   "trainer_name": "beta_dude",
   "matches": {
     "2024-09-06T22:07:47.343247+00:00": {
+      "this_amiibo": {
+        "rating": 0.7224317970470544,
+        "rating_mu": 20.112740373741882,
+        "rating_sigma": 6.463436192231609,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
         "id": "25d4f8d7-5b59-4c60-b55a-934b8b79a323",
@@ -14,12 +20,6 @@
         "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
         "trainer_name": "raid_boss_09",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7224317970470544,
-        "rating_mu": 20.112740373741882,
-        "rating_sigma": 6.463436192231609,
-        "result": "loss"
       }
     }
   }

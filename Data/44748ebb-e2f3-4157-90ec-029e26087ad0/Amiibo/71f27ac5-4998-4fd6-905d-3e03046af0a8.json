@@ -6,6 +6,12 @@
   "trainer_name": "staples___",
   "matches": {
     "2020-07-10T07:22:29.402516+00:00": {
+      "this_amiibo": {
+        "rating": 0.28030745250342903,
+        "rating_mu": 18.973354672553306,
+        "rating_sigma": 6.231015740016625,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "f9215e0e-c0a6-42ce-a988-4b67f1d071b0",
@@ -14,12 +20,6 @@
         "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
         "trainer_name": "Eliot_The_Great",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.28030745250342903,
-        "rating_mu": 18.973354672553306,
-        "rating_sigma": 6.231015740016625,
-        "result": "loss"
       }
     }
   }

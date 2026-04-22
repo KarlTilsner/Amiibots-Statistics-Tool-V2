@@ -6,6 +6,12 @@
   "trainer_name": "sp_staples",
   "matches": {
     "2021-09-13T21:15:31.701836+00:00": {
+      "this_amiibo": {
+        "rating": 1.2227425161993928,
+        "rating_mu": 23.53928583157659,
+        "rating_sigma": 7.438847771792399,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "96bd9dfd-0569-4167-a4af-76fba1c63214",
@@ -14,12 +20,6 @@
         "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
         "trainer_name": "Azend__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2227425161993928,
-        "rating_mu": 23.53928583157659,
-        "rating_sigma": 7.438847771792399,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "snevy_ssb",
   "matches": {
     "2021-08-01T08:09:48.573198+00:00": {
+      "this_amiibo": {
+        "rating": -0.815264660805088,
+        "rating_mu": 17.31601565838685,
+        "rating_sigma": 6.043760106397312,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
         "id": "be31c2ff-6da8-4683-a80a-24358d253797",
@@ -14,12 +20,6 @@
         "trainer_id": "d8e7703b-1d55-42f3-82eb-e79a731427b6",
         "trainer_name": "esteban0362",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.815264660805088,
-        "rating_mu": 17.31601565838685,
-        "rating_sigma": 6.043760106397312,
-        "result": "loss"
       }
     }
   }

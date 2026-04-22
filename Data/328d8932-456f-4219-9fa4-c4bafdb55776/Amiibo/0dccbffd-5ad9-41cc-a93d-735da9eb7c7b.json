@@ -6,6 +6,12 @@
   "trainer_name": "Murbert_AM",
   "matches": {
     "2021-04-02T00:59:55.183949+00:00": {
+      "this_amiibo": {
+        "rating": -3.319328932126636,
+        "rating_mu": 13.778866169508406,
+        "rating_sigma": 5.699398367211681,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
         "id": "359e406c-ce69-4cb4-a0f5-24406b860138",
@@ -14,12 +20,6 @@
         "trainer_id": "07e2d0ae-7ddc-461c-886d-5e88205438df",
         "trainer_name": "OctoChris",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -3.319328932126636,
-        "rating_mu": 13.778866169508406,
-        "rating_sigma": 5.699398367211681,
-        "result": "loss"
       }
     }
   }

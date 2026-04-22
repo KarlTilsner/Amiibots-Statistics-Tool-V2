@@ -6,6 +6,12 @@
   "trainer_name": "Sirffuzzylogik",
   "matches": {
     "2020-04-18T11:42:20.419038+00:00": {
+      "this_amiibo": {
+        "rating": -0.4899583689754117,
+        "rating_mu": 17.599313376140085,
+        "rating_sigma": 6.029757248371832,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
         "id": "96a9a0c6-9821-4008-91f7-cb60ce1c557e",
@@ -14,15 +20,15 @@
         "trainer_id": "37de0a7e-f73b-4bd3-9746-ff49dae07902",
         "trainer_name": "Clockwerk20x0",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.4899583689754117,
-        "rating_mu": 17.599313376140085,
-        "rating_sigma": 6.029757248371832,
-        "result": "loss"
       }
     },
     "2020-04-21T05:12:45.816829+00:00": {
+      "this_amiibo": {
+        "rating": -0.7095036537294703,
+        "rating_mu": 16.21765407997724,
+        "rating_sigma": 5.6423859112355705,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
         "id": "ae8848dd-7605-4a10-b0ca-0da3ba6dbb78",
@@ -31,15 +37,15 @@
         "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
         "trainer_name": "Lady_Cucco",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.7095036537294703,
-        "rating_mu": 16.21765407997724,
-        "rating_sigma": 5.6423859112355705,
-        "result": "loss"
       }
     },
     "2020-05-01T21:48:53.195701+00:00": {
+      "this_amiibo": {
+        "rating": -0.26432048097937866,
+        "rating_mu": 15.329312694204642,
+        "rating_sigma": 5.19787772506134,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
         "id": "ae2d3684-1417-4fc1-9d2a-1bb930efc98b",
@@ -48,12 +54,6 @@
         "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
         "trainer_name": "Lady_Cucco",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.26432048097937866,
-        "rating_mu": 15.329312694204642,
-        "rating_sigma": 5.19787772506134,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "NurfboyU",
   "matches": {
     "2022-04-06T01:00:23.276516+00:00": {
+      "this_amiibo": {
+        "rating": -0.30255353321607714,
+        "rating_mu": 18.960083343263193,
+        "rating_sigma": 6.420878958826423,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
         "id": "1575cb1d-b802-4ea5-ae16-f3cf4e934225",
@@ -14,12 +20,6 @@
         "trainer_id": "d62b13fa-8416-42a7-9420-dcbfc41a54cf",
         "trainer_name": "iminneedofalife",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.30255353321607714,
-        "rating_mu": 18.960083343263193,
-        "rating_sigma": 6.420878958826423,
-        "result": "loss"
       }
     }
   }

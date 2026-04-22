@@ -6,6 +6,12 @@
   "trainer_name": "0ccactuss0",
   "matches": {
     "2021-10-24T18:29:51.353655+00:00": {
+      "this_amiibo": {
+        "rating": 0.51079838629148,
+        "rating_mu": 19.87797579115388,
+        "rating_sigma": 6.4557258016208,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
         "id": "5d398f95-4841-40fe-9c64-38db762547b6",
@@ -14,12 +20,6 @@
         "trainer_id": "6fcd9113-8cc8-48cd-b29b-46b2ccb55f27",
         "trainer_name": "sunnyfunnytrueform",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.51079838629148,
-        "rating_mu": 19.87797579115388,
-        "rating_sigma": 6.4557258016208,
-        "result": "loss"
       }
     }
   }

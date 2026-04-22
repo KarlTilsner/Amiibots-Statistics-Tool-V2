@@ -23,6 +23,12 @@
       }
     },
     "2024-08-20T14:26:02.514963+00:00": {
+      "this_amiibo": {
+        "rating": 10.424944481819626,
+        "rating_mu": 26.158642217816748,
+        "rating_sigma": 5.24456591199904,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
         "id": "de6b7c6d-4b61-4a41-96e3-c00784a8b617",
@@ -31,12 +37,6 @@
         "trainer_id": "a03324ae-7a0c-4a4a-a608-046e54c99664",
         "trainer_name": "picvity",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.424944481819626,
-        "rating_mu": 26.158642217816748,
-        "rating_sigma": 5.24456591199904,
-        "result": "loss"
       }
     }
   }

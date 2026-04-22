@@ -6,6 +6,12 @@
   "trainer_name": "River_Tethys",
   "matches": {
     "2022-08-27T22:27:43.092689+00:00": {
+      "this_amiibo": {
+        "rating": 0.6242918461963605,
+        "rating_mu": 19.78231063999453,
+        "rating_sigma": 6.3860062645993905,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
         "id": "e63410e9-c952-4d46-98a2-6671bc839adf",
@@ -14,12 +20,6 @@
         "trainer_id": "76092551-3aba-4182-923a-848b2d279e4c",
         "trainer_name": "bleachyboi_426",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6242918461963605,
-        "rating_mu": 19.78231063999453,
-        "rating_sigma": 6.3860062645993905,
-        "result": "loss"
       }
     },
     "2022-09-12T02:45:51.287863+00:00": {
@@ -91,6 +91,12 @@
       }
     },
     "2022-09-19T19:31:19.110486+00:00": {
+      "this_amiibo": {
+        "rating": 17.915435832887134,
+        "rating_mu": 28.121499642409766,
+        "rating_sigma": 3.402021269840877,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
         "id": "53d0829c-6b44-4e9b-9efc-7f0b73f328e9",
@@ -99,12 +105,6 @@
         "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
         "trainer_name": "fammydamammy",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 17.915435832887134,
-        "rating_mu": 28.121499642409766,
-        "rating_sigma": 3.402021269840877,
-        "result": "loss"
       }
     },
     "2022-09-20T17:53:57.719175+00:00": {
@@ -142,6 +142,12 @@
       }
     },
     "2022-09-24T05:26:45.195098+00:00": {
+      "this_amiibo": {
+        "rating": 20.43380356501848,
+        "rating_mu": 29.18069455412258,
+        "rating_sigma": 2.9156303297013677,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
         "id": "c0464703-2138-4e24-b8f5-75962ef87702",
@@ -150,12 +156,6 @@
         "trainer_id": "c1a8adfd-561e-4b61-9870-5e000224d33f",
         "trainer_name": "mariodude6700",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 20.43380356501848,
-        "rating_mu": 29.18069455412258,
-        "rating_sigma": 2.9156303297013677,
-        "result": "loss"
       }
     },
     "2022-10-05T08:44:20.180145+00:00": {
@@ -172,6 +172,23 @@
         "rating": 25.034455814091285,
         "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
         "trainer_name": "Lucina_Nadine",
+        "result": "loss"
+      }
+    },
+    "2022-10-09T05:42:29.768224+00:00": {
+      "this_amiibo": {
+        "rating": 22.779709462985913,
+        "rating_mu": 30.67977649436784,
+        "rating_sigma": 2.6333556771273092,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "a1114eec-f3bb-4eec-b357-b676b2300145",
+        "name": "Galacta",
+        "rating": 17.665234309314073,
+        "trainer_id": "e6d5b0bb-df7f-4eb4-a716-bb8f7b66858e",
+        "trainer_name": "zmantheoverpowered",
         "result": "loss"
       }
     }

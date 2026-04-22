@@ -6,6 +6,12 @@
   "trainer_name": "MMMMMMMMTTYYY_",
   "matches": {
     "2023-07-24T13:40:19.983663+00:00": {
+      "this_amiibo": {
+        "rating": 0.407503722499289,
+        "rating_mu": 19.268934426217765,
+        "rating_sigma": 6.287143567906158,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
         "id": "bf3a49a5-5c17-40dd-ace0-21f06c6d0323",
@@ -14,15 +20,15 @@
         "trainer_id": "c77a47ee-60f9-487e-abed-a8514fdaeeac",
         "trainer_name": "trueschavi",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.407503722499289,
-        "rating_mu": 19.268934426217765,
-        "rating_sigma": 6.287143567906158,
-        "result": "loss"
       }
     },
     "2023-07-28T17:57:32.061826+00:00": {
+      "this_amiibo": {
+        "rating": -0.21946139326744074,
+        "rating_mu": 16.7564723402614,
+        "rating_sigma": 5.6586445778429475,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
         "id": "2c8684ae-9e70-4684-a76a-ccf454c1f49f",
@@ -31,12 +37,6 @@
         "trainer_id": "b79f806f-2030-410d-85f6-d355c50c2a5f",
         "trainer_name": "cr3at1v123",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.21946139326744074,
-        "rating_mu": 16.7564723402614,
-        "rating_sigma": 5.6586445778429475,
-        "result": "loss"
       }
     }
   }

@@ -57,6 +57,12 @@
       }
     },
     "2020-04-30T13:33:22.888199+00:00": {
+      "this_amiibo": {
+        "rating": 17.22450719717336,
+        "rating_mu": 28.78401427102668,
+        "rating_sigma": 3.8531690246177734,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
         "id": "bd2fac6b-7d84-4d16-8257-fc47a5a788d0",
@@ -65,15 +71,15 @@
         "trainer_id": "4f6f55b1-cf3e-4c7b-a378-2641d72fcf23",
         "trainer_name": "TheLimpWalrus",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 17.22450719717336,
-        "rating_mu": 28.78401427102668,
-        "rating_sigma": 3.8531690246177734,
-        "result": "loss"
       }
     },
     "2020-04-30T10:28:44.685660+00:00": {
+      "this_amiibo": {
+        "rating": 19.52267143404216,
+        "rating_mu": 33.35508594838547,
+        "rating_sigma": 4.610804838114437,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "37178f24-5882-4255-88f7-ee3ba33f5618",
@@ -82,12 +88,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "migbui",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 19.52267143404216,
-        "rating_mu": 33.35508594838547,
-        "rating_sigma": 4.610804838114437,
-        "result": "loss"
       }
     }
   }

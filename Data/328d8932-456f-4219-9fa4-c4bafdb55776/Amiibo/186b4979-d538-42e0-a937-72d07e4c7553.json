@@ -6,6 +6,12 @@
   "trainer_name": "toon_osjan",
   "matches": {
     "2022-08-11T06:54:21.154929+00:00": {
+      "this_amiibo": {
+        "rating": -0.11621793051501328,
+        "rating_mu": 20.28298681224918,
+        "rating_sigma": 6.799734914254731,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "6cb5f44a-a1b4-4505-9bf1-9888f584b6f3",
@@ -14,15 +20,15 @@
         "trainer_id": "6fcd9113-8cc8-48cd-b29b-46b2ccb55f27",
         "trainer_name": "antisopropalope",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.11621793051501328,
-        "rating_mu": 20.28298681224918,
-        "rating_sigma": 6.799734914254731,
-        "result": "loss"
       }
     },
     "2022-08-12T03:59:46.486025+00:00": {
+      "this_amiibo": {
+        "rating": -0.4609680166645056,
+        "rating_mu": 15.701358469726213,
+        "rating_sigma": 5.38744216213024,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
         "id": "5e7d1e6c-b732-4d61-87c9-7bd3b9be2635",
@@ -31,12 +37,6 @@
         "trainer_id": "e315cc8f-425d-4686-a648-103739846f36",
         "trainer_name": "Darkmega5",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.4609680166645056,
-        "rating_mu": 15.701358469726213,
-        "rating_sigma": 5.38744216213024,
-        "result": "loss"
       }
     }
   }

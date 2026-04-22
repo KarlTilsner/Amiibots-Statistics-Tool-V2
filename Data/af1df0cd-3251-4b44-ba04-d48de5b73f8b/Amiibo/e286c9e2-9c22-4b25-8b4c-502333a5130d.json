@@ -6,6 +6,12 @@
   "trainer_name": "SatBowser",
   "matches": {
     "2023-12-04T16:57:32.459395+00:00": {
+      "this_amiibo": {
+        "rating": 13.364073031769525,
+        "rating_mu": 26.197349690143234,
+        "rating_sigma": 4.27775888612457,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
         "id": "8ae89348-5b4a-4a62-b075-3a9d58dc1293",
@@ -14,15 +20,15 @@
         "trainer_id": "94ac4f21-ca6a-4985-b7b0-b61f25adbea8",
         "trainer_name": "professorckk",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.364073031769525,
-        "rating_mu": 26.197349690143234,
-        "rating_sigma": 4.27775888612457,
-        "result": "loss"
       }
     },
     "2023-12-04T16:48:36.920673+00:00": {
+      "this_amiibo": {
+        "rating": 13.955674256965025,
+        "rating_mu": 29.021094333239983,
+        "rating_sigma": 5.021806692091652,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "b2e206d8-4b60-4a77-8d79-3a2328a659e5",
@@ -31,12 +37,6 @@
         "trainer_id": "8a479357-a5de-4f56-8700-0d1a85c3d46b",
         "trainer_name": "OmenApproaching",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.955674256965025,
-        "rating_mu": 29.021094333239983,
-        "rating_sigma": 5.021806692091652,
-        "result": "loss"
       }
     },
     "2023-12-04T15:58:18.448475+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2023-12-04T20:07:19.440331+00:00": {
+      "this_amiibo": {
+        "rating": 12.06270708816939,
+        "rating_mu": 23.22583869848079,
+        "rating_sigma": 3.7210438701038,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "8d5933bb-d851-484b-b17d-d3e4360b0dc2",
@@ -65,12 +71,6 @@
         "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
         "trainer_name": "StaplesTV_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 12.06270708816939,
-        "rating_mu": 23.22583869848079,
-        "rating_sigma": 3.7210438701038,
-        "result": "loss"
       }
     }
   }

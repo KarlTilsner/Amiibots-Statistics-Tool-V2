@@ -6,6 +6,12 @@
   "trainer_name": "Xenozolin",
   "matches": {
     "2022-09-12T17:47:17.283032+00:00": {
+      "this_amiibo": {
+        "rating": 0.6159181354870213,
+        "rating_mu": 19.690527302362813,
+        "rating_sigma": 6.358203055625264,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
         "id": "e367eb17-512b-46e4-b1d3-a92a3ed801f9",
@@ -14,12 +20,6 @@
         "trainer_id": "e8c228c8-a377-4a5c-91ba-4ab8238a4023",
         "trainer_name": "MrSmart13579",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6159181354870213,
-        "rating_mu": 19.690527302362813,
-        "rating_sigma": 6.358203055625264,
-        "result": "loss"
       }
     }
   }

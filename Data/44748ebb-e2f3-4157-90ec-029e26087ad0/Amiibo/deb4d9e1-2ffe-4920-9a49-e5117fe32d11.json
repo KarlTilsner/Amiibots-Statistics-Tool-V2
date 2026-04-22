@@ -6,6 +6,12 @@
   "trainer_name": "Kangoni",
   "matches": {
     "2020-06-10T08:06:20.661858+00:00": {
+      "this_amiibo": {
+        "rating": 1.2456043489859532,
+        "rating_mu": 21.59822799677132,
+        "rating_sigma": 6.784207882595123,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
         "id": "4bf41972-30c1-4807-afa1-5a1529622a8a",
@@ -14,12 +20,6 @@
         "trainer_id": "1285932e-d5a9-44b2-a0af-582aa5a06b3a",
         "trainer_name": "Frogcake",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.2456043489859532,
-        "rating_mu": 21.59822799677132,
-        "rating_sigma": 6.784207882595123,
-        "result": "loss"
       }
     },
     "2020-06-10T15:35:40.449673+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2020-06-13T22:16:34.268101+00:00": {
+      "this_amiibo": {
+        "rating": 10.785994956706805,
+        "rating_mu": 24.237896563004323,
+        "rating_sigma": 4.483967202099173,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e2531ffe-e834-49ae-b233-56386472a6ed",
         "id": "407a6ca3-3740-4306-b9a4-cf6854d798e6",
@@ -48,12 +54,6 @@
         "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
         "trainer_name": "AmiiboDoctor",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.785994956706805,
-        "rating_mu": 24.237896563004323,
-        "rating_sigma": 4.483967202099173,
-        "result": "loss"
       }
     },
     "2020-06-14T06:59:23.131537+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2020-06-16T19:01:57.601753+00:00": {
+      "this_amiibo": {
+        "rating": 13.425761640145149,
+        "rating_mu": 24.03845410246621,
+        "rating_sigma": 3.5375641541070206,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
         "id": "67f8d1d6-c605-4346-90e1-c5bfdf87ae50",
@@ -82,12 +88,6 @@
         "trainer_id": "51f33a61-00bc-4d8c-87a5-6493d7dbc50e",
         "trainer_name": "Catzy123",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.425761640145149,
-        "rating_mu": 24.03845410246621,
-        "rating_sigma": 3.5375641541070206,
-        "result": "loss"
       }
     }
   }

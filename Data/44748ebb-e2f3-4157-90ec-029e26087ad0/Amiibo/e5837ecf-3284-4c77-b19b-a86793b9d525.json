@@ -6,6 +6,12 @@
   "trainer_name": "foamtray",
   "matches": {
     "2020-04-18T08:44:19.909280+00:00": {
+      "this_amiibo": {
+        "rating": 0.7123669933205363,
+        "rating_mu": 19.905257404082107,
+        "rating_sigma": 6.397630136920523,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
         "id": "1d0b4433-0485-48b1-ab44-768ab2961f11",
@@ -14,12 +20,6 @@
         "trainer_id": "981c6af2-809d-4590-80a6-e051c0344f24",
         "trainer_name": "Cheimerman",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7123669933205363,
-        "rating_mu": 19.905257404082107,
-        "rating_sigma": 6.397630136920523,
-        "result": "loss"
       }
     }
   }

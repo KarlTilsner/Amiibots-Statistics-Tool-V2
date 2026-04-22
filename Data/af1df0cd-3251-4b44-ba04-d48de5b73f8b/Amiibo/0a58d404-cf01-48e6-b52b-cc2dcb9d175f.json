@@ -6,6 +6,12 @@
   "trainer_name": "sunnyfunnytrueform",
   "matches": {
     "2022-04-02T10:22:47.022031+00:00": {
+      "this_amiibo": {
+        "rating": 26.210457215429166,
+        "rating_mu": 30.26644816578146,
+        "rating_sigma": 1.3519969834507644,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "93ffe8dd-699e-42f3-8b37-4f844fbc8c3f",
@@ -14,15 +20,15 @@
         "trainer_id": "7ff68788-3366-489f-9efd-bb3c16421574",
         "trainer_name": "VocalFan",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 26.210457215429166,
-        "rating_mu": 30.26644816578146,
-        "rating_sigma": 1.3519969834507644,
-        "result": "loss"
       }
     },
     "2022-04-02T23:26:57.619598+00:00": {
+      "this_amiibo": {
+        "rating": 26.023009923049997,
+        "rating_mu": 30.02195185381336,
+        "rating_sigma": 1.3329806435877873,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
         "id": "e78d1cea-d526-4301-92b4-c8f939e29467",
@@ -31,12 +37,6 @@
         "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
         "trainer_name": "CikadaKing",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 26.023009923049997,
-        "rating_mu": 30.02195185381336,
-        "rating_sigma": 1.3329806435877873,
-        "result": "loss"
       }
     }
   }

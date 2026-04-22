@@ -6,6 +6,12 @@
   "trainer_name": "luckman21",
   "matches": {
     "2020-08-09T13:08:24.349534+00:00": {
+      "this_amiibo": {
+        "rating": 1.0528804971558863,
+        "rating_mu": 20.950845797690395,
+        "rating_sigma": 6.6326551001781695,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "59dc9fa2-7e3e-4353-a642-13ec0a4bd75a",
@@ -14,12 +20,6 @@
         "trainer_id": "75cc72db-3f1a-4ecb-a476-a681603d9d4e",
         "trainer_name": "boristhekoopa",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.0528804971558863,
-        "rating_mu": 20.950845797690395,
-        "rating_sigma": 6.6326551001781695,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "Zoom__",
   "matches": {
     "2021-11-04T02:50:23.867376+00:00": {
+      "this_amiibo": {
+        "rating": 0.7181536925671459,
+        "rating_mu": 19.92228698941076,
+        "rating_sigma": 6.401377765614539,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
         "id": "3a974c3e-4353-43c2-acea-660c42531ed9",
@@ -14,12 +20,6 @@
         "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
         "trainer_name": "WynnThornton",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7181536925671459,
-        "rating_mu": 19.92228698941076,
-        "rating_sigma": 6.401377765614539,
-        "result": "loss"
       }
     }
   }

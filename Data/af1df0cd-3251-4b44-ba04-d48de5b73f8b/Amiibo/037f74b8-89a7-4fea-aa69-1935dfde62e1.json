@@ -6,6 +6,12 @@
   "trainer_name": "Suster_Sir",
   "matches": {
     "2023-03-13T21:17:34.524596+00:00": {
+      "this_amiibo": {
+        "rating": 0.8530424492264252,
+        "rating_mu": 20.257829009604894,
+        "rating_sigma": 6.468262186792822,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
         "id": "1dae4af9-d33f-4f0c-8f20-bb99fb9d9de5",
@@ -14,12 +20,6 @@
         "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
         "trainer_name": "Zoom__",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8530424492264252,
-        "rating_mu": 20.257829009604894,
-        "rating_sigma": 6.468262186792822,
-        "result": "loss"
       }
     }
   }

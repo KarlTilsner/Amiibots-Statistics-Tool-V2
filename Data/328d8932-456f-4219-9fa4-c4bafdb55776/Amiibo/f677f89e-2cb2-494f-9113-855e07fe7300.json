@@ -6,6 +6,12 @@
   "trainer_name": "sh42ow710",
   "matches": {
     "2022-04-12T20:30:05.202628+00:00": {
+      "this_amiibo": {
+        "rating": 1.050382392005119,
+        "rating_mu": 20.835375950279357,
+        "rating_sigma": 6.594997852758079,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "3577bd11-9c0c-4f12-b8ac-145cf762cabf",
@@ -14,12 +20,6 @@
         "trainer_id": "87ca3f86-0b03-4cd3-b8ff-317fe5caf47d",
         "trainer_name": "AmiiboLucifer",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.050382392005119,
-        "rating_mu": 20.835375950279357,
-        "rating_sigma": 6.594997852758079,
-        "result": "loss"
       }
     },
     "2022-04-15T23:53:18.264833+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2022-05-26T06:55:47.497028+00:00": {
+      "this_amiibo": {
+        "rating": 14.084160860281983,
+        "rating_mu": 26.685894824893488,
+        "rating_sigma": 4.200577988203835,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
         "id": "a8a081d7-7f60-4a9b-a5a0-c0b80ceaef22",
@@ -65,12 +71,6 @@
         "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
         "trainer_name": "fammydamammy",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 14.084160860281983,
-        "rating_mu": 26.685894824893488,
-        "rating_sigma": 4.200577988203835,
-        "result": "loss"
       }
     }
   }

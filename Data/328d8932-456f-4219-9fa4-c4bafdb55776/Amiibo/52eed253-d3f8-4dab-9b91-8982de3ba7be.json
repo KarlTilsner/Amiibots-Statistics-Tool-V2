@@ -6,6 +6,12 @@
   "trainer_name": "BottoTheBulliedPirate",
   "matches": {
     "2021-03-27T04:16:23.596729+00:00": {
+      "this_amiibo": {
+        "rating": -1.8169074833400138,
+        "rating_mu": 16.7675461670436,
+        "rating_sigma": 6.194817883461205,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
         "id": "55d7aac9-122d-4aa0-b3f7-aff97ab8a0e9",
@@ -14,15 +20,15 @@
         "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
         "trainer_name": "Oliirik",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.8169074833400138,
-        "rating_mu": 16.7675461670436,
-        "rating_sigma": 6.194817883461205,
-        "result": "loss"
       }
     },
     "2021-03-30T09:35:27.033760+00:00": {
+      "this_amiibo": {
+        "rating": -1.296401443138759,
+        "rating_mu": 15.226151535794056,
+        "rating_sigma": 5.507517659644272,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "e9bd7f87-95c9-43ba-a711-e4a4c1ae7a63",
@@ -31,12 +37,6 @@
         "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
         "trainer_name": "rurpking22",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.296401443138759,
-        "rating_mu": 15.226151535794056,
-        "rating_sigma": 5.507517659644272,
-        "result": "loss"
       }
     }
   }

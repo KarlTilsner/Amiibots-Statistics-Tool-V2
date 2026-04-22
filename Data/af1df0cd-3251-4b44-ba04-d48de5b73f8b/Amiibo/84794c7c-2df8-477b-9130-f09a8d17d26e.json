@@ -6,6 +6,12 @@
   "trainer_name": "blueflares1",
   "matches": {
     "2023-04-09T00:25:48.566358+00:00": {
+      "this_amiibo": {
+        "rating": 0.33278479229779023,
+        "rating_mu": 19.29263048537003,
+        "rating_sigma": 6.3199485643574125,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
         "id": "5558de4e-3f4a-42b1-a252-cc32917bf3b9",
@@ -14,15 +20,15 @@
         "trainer_id": "65606c83-1f85-48b4-bf6a-dfa9510cb7ab",
         "trainer_name": "mariolover123456678",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.33278479229779023,
-        "rating_mu": 19.29263048537003,
-        "rating_sigma": 6.3199485643574125,
-        "result": "loss"
       }
     },
     "2023-04-09T09:13:48.298639+00:00": {
+      "this_amiibo": {
+        "rating": 0.5108772908513153,
+        "rating_mu": 16.39342150564761,
+        "rating_sigma": 5.294181404932098,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
         "id": "6c495a4b-aa6a-40b6-8ad6-729dc38fd8ad",
@@ -31,12 +37,6 @@
         "trainer_id": "805ee09b-1c40-434b-9e7c-b71c3fd1c42d",
         "trainer_name": "elisha_davisyt_new",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.5108772908513153,
-        "rating_mu": 16.39342150564761,
-        "rating_sigma": 5.294181404932098,
-        "result": "loss"
       }
     }
   }

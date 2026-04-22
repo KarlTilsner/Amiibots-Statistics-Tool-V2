@@ -6,6 +6,12 @@
   "trainer_name": "thescuttler62",
   "matches": {
     "2020-08-16T04:11:14.056516+00:00": {
+      "this_amiibo": {
+        "rating": 0.6667595996809297,
+        "rating_mu": 19.91572929414741,
+        "rating_sigma": 6.4163232314888266,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
         "id": "ca882a63-a796-4fb3-ba82-f35e576d08e0",
@@ -14,15 +20,15 @@
         "trainer_id": "dc88648d-4ff2-4b5e-b47d-0cf9ddc0f094",
         "trainer_name": "temp_anon",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6667595996809297,
-        "rating_mu": 19.91572929414741,
-        "rating_sigma": 6.4163232314888266,
-        "result": "loss"
       }
     },
     "2020-08-18T10:08:54.885304+00:00": {
+      "this_amiibo": {
+        "rating": 0.741224952718472,
+        "rating_mu": 17.63653999116403,
+        "rating_sigma": 5.631771679481853,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
         "id": "745655e0-b855-4230-80c6-29ccc4dd861f",
@@ -31,12 +37,6 @@
         "trainer_id": "37de0a7e-f73b-4bd3-9746-ff49dae07902",
         "trainer_name": "Clockwerk20x0",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.741224952718472,
-        "rating_mu": 17.63653999116403,
-        "rating_sigma": 5.631771679481853,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "yvvire",
   "matches": {
     "2024-07-16T19:25:14.660121+00:00": {
+      "this_amiibo": {
+        "rating": 0.29749837613572083,
+        "rating_mu": 19.34902110479979,
+        "rating_sigma": 6.350507576221356,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
         "id": "1637f396-3ca8-4cad-adf4-e8436e47e47e",
@@ -14,12 +20,6 @@
         "trainer_id": "4ef50fd5-b406-48f9-bc3d-95922e8d1456",
         "trainer_name": "Ashidlun",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.29749837613572083,
-        "rating_mu": 19.34902110479979,
-        "rating_sigma": 6.350507576221356,
-        "result": "loss"
       }
     }
   }

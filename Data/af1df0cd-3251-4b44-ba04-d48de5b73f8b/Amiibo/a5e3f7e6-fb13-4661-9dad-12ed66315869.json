@@ -6,6 +6,12 @@
   "trainer_name": "capt_cacdi",
   "matches": {
     "2024-09-17T03:47:26.838151+00:00": {
+      "this_amiibo": {
+        "rating": -0.2098123842669004,
+        "rating_mu": 18.064186000049077,
+        "rating_sigma": 6.091332794771993,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
         "id": "06eeb8b7-959f-4baf-9710-15659fb305ee",
@@ -14,12 +20,6 @@
         "trainer_id": "97dbd0ce-b9c2-4547-9e58-048231ec5d1c",
         "trainer_name": "spider_lungs",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.2098123842669004,
-        "rating_mu": 18.064186000049077,
-        "rating_sigma": 6.091332794771993,
-        "result": "loss"
       }
     }
   }

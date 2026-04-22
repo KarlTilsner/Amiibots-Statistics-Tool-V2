@@ -6,6 +6,12 @@
   "trainer_name": "LunagradeTV",
   "matches": {
     "2021-09-23T00:30:53.756297+00:00": {
+      "this_amiibo": {
+        "rating": -0.5191662915034314,
+        "rating_mu": 18.92055732768779,
+        "rating_sigma": 6.479907873063739,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
         "id": "3735c289-e6ff-460f-bc86-af5037fcf867",
@@ -14,12 +20,6 @@
         "trainer_id": "d3b9e42a-530d-4db7-95cf-c71ee2dc1602",
         "trainer_name": "CoolerGlassBerriez",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.5191662915034314,
-        "rating_mu": 18.92055732768779,
-        "rating_sigma": 6.479907873063739,
-        "result": "loss"
       }
     }
   }

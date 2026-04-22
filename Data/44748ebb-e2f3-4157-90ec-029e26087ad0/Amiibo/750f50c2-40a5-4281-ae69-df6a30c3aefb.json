@@ -6,6 +6,12 @@
   "trainer_name": "Kangoni",
   "matches": {
     "2020-05-24T01:54:39.416375+00:00": {
+      "this_amiibo": {
+        "rating": -0.020021810986580846,
+        "rating_mu": 16.158461645896434,
+        "rating_sigma": 5.392827818961005,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
         "id": "a0095230-eeca-4a89-b9ba-84e943ab5f28",
@@ -14,15 +20,15 @@
         "trainer_id": "ea3ef328-9dbb-495e-b94c-009462f39c59",
         "trainer_name": "LittleHelper",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.020021810986580846,
-        "rating_mu": 16.158461645896434,
-        "rating_sigma": 5.392827818961005,
-        "result": "loss"
       }
     },
     "2020-05-24T00:21:02.904240+00:00": {
+      "this_amiibo": {
+        "rating": -0.3502168200504343,
+        "rating_mu": 18.32652993316814,
+        "rating_sigma": 6.225582251072858,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "b1d7f58c-567a-482d-9f0f-8888e88cbfc4",
@@ -31,12 +37,6 @@
         "trainer_id": "32632314-fed4-49fe-9d11-4d88e7827af2",
         "trainer_name": "gforcepenne",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.3502168200504343,
-        "rating_mu": 18.32652993316814,
-        "rating_sigma": 6.225582251072858,
-        "result": "loss"
       }
     }
   }

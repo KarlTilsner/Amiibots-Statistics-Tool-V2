@@ -40,6 +40,12 @@
       }
     },
     "2022-05-20T11:59:00.002376+00:00": {
+      "this_amiibo": {
+        "rating": 16.815053163504423,
+        "rating_mu": 30.23872902852666,
+        "rating_sigma": 4.474558621674079,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
         "id": "67d26b3f-07bf-49a4-b697-a7a87422c595",
@@ -48,12 +54,6 @@
         "trainer_id": "d3b9e42a-530d-4db7-95cf-c71ee2dc1602",
         "trainer_name": "CoolerGlassBerriez",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 16.815053163504423,
-        "rating_mu": 30.23872902852666,
-        "rating_sigma": 4.474558621674079,
-        "result": "loss"
       }
     }
   }

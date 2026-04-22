@@ -6,6 +6,12 @@
   "trainer_name": "colfon_",
   "matches": {
     "2023-11-07T12:46:14.867040+00:00": {
+      "this_amiibo": {
+        "rating": -0.7899217551096172,
+        "rating_mu": 20.79452709502615,
+        "rating_sigma": 7.194816283378589,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
         "id": "51dd5ef7-fca3-4b07-a82d-65bbfc18feae",
@@ -14,12 +20,6 @@
         "trainer_id": "34e7aab2-5c47-4d61-afb3-441e7ea50e39",
         "trainer_name": "baritonev2",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.7899217551096172,
-        "rating_mu": 20.79452709502615,
-        "rating_sigma": 7.194816283378589,
-        "result": "loss"
       }
     }
   }

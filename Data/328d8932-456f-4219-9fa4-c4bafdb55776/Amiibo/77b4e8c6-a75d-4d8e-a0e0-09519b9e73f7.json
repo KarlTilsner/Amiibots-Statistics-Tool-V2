@@ -6,6 +6,12 @@
   "trainer_name": "pinheadpatrick017",
   "matches": {
     "2022-05-26T09:13:26.167594+00:00": {
+      "this_amiibo": {
+        "rating": 16.673813100678707,
+        "rating_mu": 28.02650814682094,
+        "rating_sigma": 3.784231682047411,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "4d91c55c-ef83-438f-946f-a280259908f8",
@@ -14,12 +20,6 @@
         "trainer_id": "6a92a875-ad10-4927-9ac9-43f4cea3e878",
         "trainer_name": "ArkansasAFC",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 16.673813100678707,
-        "rating_mu": 28.02650814682094,
-        "rating_sigma": 3.784231682047411,
-        "result": "loss"
       }
     },
     "2022-05-26T07:30:13.667725+00:00": {
@@ -74,6 +74,12 @@
       }
     },
     "2022-05-26T03:54:51.228621+00:00": {
+      "this_amiibo": {
+        "rating": 1.1402699068007394,
+        "rating_mu": 21.146132586011355,
+        "rating_sigma": 6.668620893070205,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
         "id": "663f0567-338c-4699-994c-e12ff8eb707e",
@@ -82,12 +88,6 @@
         "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
         "trainer_name": "Murbert_AM",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1402699068007394,
-        "rating_mu": 21.146132586011355,
-        "rating_sigma": 6.668620893070205,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "Competitively2",
   "matches": {
     "2024-08-11T02:00:12.956363+00:00": {
+      "this_amiibo": {
+        "rating": 0.23097699534615046,
+        "rating_mu": 19.744179727898487,
+        "rating_sigma": 6.504400910850779,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
         "id": "7834949e-1f43-41c6-bccd-2f97e7ec28ea",
@@ -14,15 +20,15 @@
         "trainer_id": "932a9ec7-b463-41d8-bc40-59e2e396a8ed",
         "trainer_name": "ricola7ttv",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.23097699534615046,
-        "rating_mu": 19.744179727898487,
-        "rating_sigma": 6.504400910850779,
-        "result": "loss"
       }
     },
     "2024-08-17T09:25:43.359073+00:00": {
+      "this_amiibo": {
+        "rating": 0.47666634385742057,
+        "rating_mu": 16.615505799574205,
+        "rating_sigma": 5.379613151905595,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "ba94257a-9223-4210-a542-ffd8a798d74c",
         "id": "135a57e8-7ebf-4e01-a0e5-e770dbbe5675",
@@ -31,12 +37,6 @@
         "trainer_id": "5fbf9fe2-9eb9-41b0-a5a4-5f33c7a11b19",
         "trainer_name": "lairaye",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.47666634385742057,
-        "rating_mu": 16.615505799574205,
-        "rating_sigma": 5.379613151905595,
-        "result": "loss"
       }
     }
   }

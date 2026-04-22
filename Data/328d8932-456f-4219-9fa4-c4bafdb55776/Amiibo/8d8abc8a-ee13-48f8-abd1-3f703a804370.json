@@ -6,6 +6,12 @@
   "trainer_name": "Murbert_AM",
   "matches": {
     "2021-11-22T00:19:39.040265+00:00": {
+      "this_amiibo": {
+        "rating": -1.431568284828593,
+        "rating_mu": 19.275657613209223,
+        "rating_sigma": 6.902408632679272,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
         "id": "c20632f2-ae98-4609-8fd6-9c34f3b38f7f",
@@ -14,12 +20,6 @@
         "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
         "trainer_name": "StaplesTV_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -1.431568284828593,
-        "rating_mu": 19.275657613209223,
-        "rating_sigma": 6.902408632679272,
-        "result": "loss"
       }
     }
   }

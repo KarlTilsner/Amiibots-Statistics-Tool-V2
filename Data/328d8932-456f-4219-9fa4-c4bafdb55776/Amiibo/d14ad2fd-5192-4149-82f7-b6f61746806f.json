@@ -40,6 +40,12 @@
       }
     },
     "2022-04-01T03:00:06.122667+00:00": {
+      "this_amiibo": {
+        "rating": 13.384828425563096,
+        "rating_mu": 25.13216429648574,
+        "rating_sigma": 3.9157786236408816,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
         "id": "a2935014-49f3-470f-9848-d19ac3088526",
@@ -48,15 +54,15 @@
         "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
         "trainer_name": "StaplesTV_",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.384828425563096,
-        "rating_mu": 25.13216429648574,
-        "rating_sigma": 3.9157786236408816,
-        "result": "loss"
       }
     },
     "2022-03-31T22:33:46.310391+00:00": {
+      "this_amiibo": {
+        "rating": 13.673900725682174,
+        "rating_mu": 26.836130342735018,
+        "rating_sigma": 4.387409872350948,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
         "id": "da3145f0-5750-45a8-a3a5-48b59f62894c",
@@ -65,12 +71,6 @@
         "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
         "trainer_name": "WynnThornton",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.673900725682174,
-        "rating_mu": 26.836130342735018,
-        "rating_sigma": 4.387409872350948,
-        "result": "loss"
       }
     }
   }

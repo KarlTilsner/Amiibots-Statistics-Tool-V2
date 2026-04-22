@@ -40,6 +40,12 @@
       }
     },
     "2022-02-13T23:05:13.311897+00:00": {
+      "this_amiibo": {
+        "rating": 18.70308067882314,
+        "rating_mu": 31.359032951689397,
+        "rating_sigma": 4.218650757622085,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "3da5e760-cbaa-4c79-96d1-f7820619164c",
@@ -48,12 +54,6 @@
         "trainer_id": "a20909c7-9e51-492a-9e78-1472022a1d7a",
         "trainer_name": "GreeFoss",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 18.70308067882314,
-        "rating_mu": 31.359032951689397,
-        "rating_sigma": 4.218650757622085,
-        "result": "loss"
       }
     }
   }

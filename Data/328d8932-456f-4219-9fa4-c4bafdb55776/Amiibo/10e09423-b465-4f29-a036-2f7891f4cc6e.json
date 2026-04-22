@@ -23,6 +23,12 @@
       }
     },
     "2022-07-31T00:20:08.401436+00:00": {
+      "this_amiibo": {
+        "rating": 9.169597645806476,
+        "rating_mu": 25.329108104885098,
+        "rating_sigma": 5.3865034863595405,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
         "id": "aa1d70bd-6b57-44d9-910a-fca4d817795a",
@@ -31,15 +37,15 @@
         "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
         "trainer_name": "forenmagra",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.169597645806476,
-        "rating_mu": 25.329108104885098,
-        "rating_sigma": 5.3865034863595405,
-        "result": "loss"
       }
     },
     "2022-08-13T22:59:37.211008+00:00": {
+      "this_amiibo": {
+        "rating": 8.795551409302718,
+        "rating_mu": 22.797801921920634,
+        "rating_sigma": 4.667416837539306,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
         "id": "3d0ca552-e03b-48fb-9320-561939985f1f",
@@ -48,15 +54,15 @@
         "trainer_id": "c1a8adfd-561e-4b61-9870-5e000224d33f",
         "trainer_name": "mariodude6700",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 8.795551409302718,
-        "rating_mu": 22.797801921920634,
-        "rating_sigma": 4.667416837539306,
-        "result": "loss"
       }
     },
     "2022-09-20T14:51:38.884643+00:00": {
+      "this_amiibo": {
+        "rating": 8.016823718247723,
+        "rating_mu": 20.07400962641266,
+        "rating_sigma": 4.0190619693883125,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
         "id": "f3a87287-e936-4965-8430-c631f1a84bd5",
@@ -65,12 +71,23 @@
         "trainer_id": "f7365f6a-424b-48bb-acd6-85795db13deb",
         "trainer_name": "TMSweaty",
         "result": "win"
-      },
+      }
+    },
+    "2022-10-19T08:11:12.200644+00:00": {
       "this_amiibo": {
-        "rating": 8.016823718247723,
-        "rating_mu": 20.07400962641266,
-        "rating_sigma": 4.0190619693883125,
+        "rating": 7.680269027691574,
+        "rating_mu": 18.95033879274384,
+        "rating_sigma": 3.7566899216840883,
         "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "81373c62-cc81-4970-9b2b-fd246b4b2d36",
+        "name": "Yamcha",
+        "rating": 12.302862907240664,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_link",
+        "result": "win"
       }
     }
   }

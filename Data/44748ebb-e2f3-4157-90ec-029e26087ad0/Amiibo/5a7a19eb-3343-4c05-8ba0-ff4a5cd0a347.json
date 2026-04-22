@@ -23,6 +23,12 @@
       }
     },
     "2020-10-13T16:47:53.844980+00:00": {
+      "this_amiibo": {
+        "rating": 10.203190271409625,
+        "rating_mu": 26.111991011982244,
+        "rating_sigma": 5.3029335801908735,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
         "id": "2d199736-1530-4a82-bf3a-80a10dd784df",
@@ -31,15 +37,15 @@
         "trainer_id": "70e98331-604c-4eb1-a32f-65e392d4fed0",
         "trainer_name": "123hyden",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.203190271409625,
-        "rating_mu": 26.111991011982244,
-        "rating_sigma": 5.3029335801908735,
-        "result": "loss"
       }
     },
     "2020-10-13T22:43:56.345303+00:00": {
+      "this_amiibo": {
+        "rating": 9.52384699943461,
+        "rating_mu": 23.010316048278337,
+        "rating_sigma": 4.495489682947909,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
         "id": "05c40dac-028a-4ec7-a77a-7a8dec467d0d",
@@ -48,12 +54,6 @@
         "trainer_id": "7b5c3a5f-658e-4a35-9c96-2bde3d01f1cd",
         "trainer_name": "red0eyed0angel",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 9.52384699943461,
-        "rating_mu": 23.010316048278337,
-        "rating_sigma": 4.495489682947909,
-        "result": "loss"
       }
     },
     "2020-10-14T05:38:32.342822+00:00": {
@@ -91,6 +91,12 @@
       }
     },
     "2020-10-14T21:55:09.365154+00:00": {
+      "this_amiibo": {
+        "rating": 15.099312237209038,
+        "rating_mu": 24.588790536027574,
+        "rating_sigma": 3.163159432939512,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
         "id": "f4c3fc14-c50d-4526-b186-3620d8f39c73",
@@ -99,12 +105,23 @@
         "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
         "trainer_name": "Eliot_The_Great",
         "result": "win"
-      },
+      }
+    },
+    "2020-12-14T02:47:23.700742+00:00": {
       "this_amiibo": {
-        "rating": 15.099312237209038,
-        "rating_mu": 24.588790536027574,
-        "rating_sigma": 3.163159432939512,
+        "rating": 14.776084986485262,
+        "rating_mu": 23.652695494498435,
+        "rating_sigma": 2.9588701693377244,
         "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "9daf65ad-13e2-44ca-80a7-e04cadb7069f",
+        "name": "Tester v3?",
+        "rating": 23.77917901063085,
+        "trainer_id": "fdc1350c-e911-4557-88ae-b29111abb0e9",
+        "trainer_name": "Angel3lego",
+        "result": "win"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "random_fire",
   "matches": {
     "2020-11-03T01:51:17.221809+00:00": {
+      "this_amiibo": {
+        "rating": 1.1148356444398182,
+        "rating_mu": 21.142857837082737,
+        "rating_sigma": 6.6760073975476395,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
         "id": "b2029f6f-70a9-46b3-b096-7df7ef89d4d1",
@@ -14,15 +20,15 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1148356444398182,
-        "rating_mu": 21.142857837082737,
-        "rating_sigma": 6.6760073975476395,
-        "result": "loss"
       }
     },
     "2020-11-12T01:33:43.839635+00:00": {
+      "this_amiibo": {
+        "rating": 1.7901883337879312,
+        "rating_mu": 19.48207162187911,
+        "rating_sigma": 5.897294429363726,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
         "id": "e67e9e9f-454d-4576-9e35-233396500e87",
@@ -31,12 +37,6 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.7901883337879312,
-        "rating_mu": 19.48207162187911,
-        "rating_sigma": 5.897294429363726,
-        "result": "loss"
       }
     }
   }

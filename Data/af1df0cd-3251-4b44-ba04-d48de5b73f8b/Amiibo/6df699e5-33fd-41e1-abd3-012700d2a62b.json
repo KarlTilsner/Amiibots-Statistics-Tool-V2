@@ -6,6 +6,12 @@
   "trainer_name": "StaplesTV_",
   "matches": {
     "2024-05-08T02:40:11.752896+00:00": {
+      "this_amiibo": {
+        "rating": 0.7604634220722595,
+        "rating_mu": 20.265089492758595,
+        "rating_sigma": 6.501542023562111,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
         "id": "f1124697-c608-4d17-82cb-7371c9a0b851",
@@ -14,12 +20,6 @@
         "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
         "trainer_name": "AlexanderAgne",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7604634220722595,
-        "rating_mu": 20.265089492758595,
-        "rating_sigma": 6.501542023562111,
-        "result": "loss"
       }
     }
   }

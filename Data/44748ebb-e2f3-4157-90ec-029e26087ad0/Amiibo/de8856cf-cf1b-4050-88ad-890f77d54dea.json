@@ -6,6 +6,12 @@
   "trainer_name": "random_fire",
   "matches": {
     "2020-10-30T00:35:42.375658+00:00": {
+      "this_amiibo": {
+        "rating": 1.1903946381216812,
+        "rating_mu": 21.36921468898697,
+        "rating_sigma": 6.726273350288429,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
         "id": "cac777a3-3ba9-4417-ab4d-074a5ffff57d",
@@ -14,12 +20,6 @@
         "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
         "trainer_name": "Lady_Cucco",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1903946381216812,
-        "rating_mu": 21.36921468898697,
-        "rating_sigma": 6.726273350288429,
-        "result": "loss"
       }
     },
     "2020-10-30T22:17:22.695786+00:00": {
@@ -57,6 +57,12 @@
       }
     },
     "2020-11-08T04:52:03.619307+00:00": {
+      "this_amiibo": {
+        "rating": 19.896255943980186,
+        "rating_mu": 31.717126699229556,
+        "rating_sigma": 3.9402902517497904,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
         "id": "1040a84a-e127-4e14-b42a-337b134a7514",
@@ -65,12 +71,6 @@
         "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
         "trainer_name": "Murbert_AM",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 19.896255943980186,
-        "rating_mu": 31.717126699229556,
-        "rating_sigma": 3.9402902517497904,
-        "result": "loss"
       }
     }
   }

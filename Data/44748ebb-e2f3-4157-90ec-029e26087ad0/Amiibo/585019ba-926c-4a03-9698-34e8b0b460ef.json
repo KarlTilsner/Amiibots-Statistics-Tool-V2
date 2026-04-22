@@ -6,6 +6,12 @@
   "trainer_name": "ytygecho",
   "matches": {
     "2020-11-22T17:31:10.355805+00:00": {
+      "this_amiibo": {
+        "rating": 0.8471073813168566,
+        "rating_mu": 20.663293946073676,
+        "rating_sigma": 6.605395521585606,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "7b395c6e-0002-4a83-9266-5d25b6da5ace",
@@ -14,15 +20,15 @@
         "trainer_id": "060e12dd-a8a9-4e3d-a6e1-bd34c23446db",
         "trainer_name": "the_shade1972",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.8471073813168566,
-        "rating_mu": 20.663293946073676,
-        "rating_sigma": 6.605395521585606,
-        "result": "loss"
       }
     },
     "2020-11-27T08:10:22.585221+00:00": {
+      "this_amiibo": {
+        "rating": 0.4224537151539387,
+        "rating_mu": 18.5496010953611,
+        "rating_sigma": 6.042382460069054,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
         "id": "dee2f264-4673-4416-85dc-b042f36f22a6",
@@ -31,12 +37,6 @@
         "trainer_id": "d7f44591-9713-4c95-b840-3607f6a73d24",
         "trainer_name": "luckman21",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.4224537151539387,
-        "rating_mu": 18.5496010953611,
-        "rating_sigma": 6.042382460069054,
-        "result": "loss"
       }
     }
   }

@@ -6,6 +6,12 @@
   "trainer_name": "pinheadpatrick017",
   "matches": {
     "2022-03-06T17:51:36.813568+00:00": {
+      "this_amiibo": {
+        "rating": 13.51008471505579,
+        "rating_mu": 26.588171131981653,
+        "rating_sigma": 4.359362138975288,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
         "id": "b273cb89-5537-4b40-86b0-9e9df078b374",
@@ -14,12 +20,6 @@
         "trainer_id": "b82c6d43-d80c-4195-99a0-67355d12115d",
         "trainer_name": "the_real_rukasu",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.51008471505579,
-        "rating_mu": 26.588171131981653,
-        "rating_sigma": 4.359362138975288,
-        "result": "loss"
       }
     },
     "2022-03-06T17:29:34.079463+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2022-03-06T16:39:49.128340+00:00": {
+      "this_amiibo": {
+        "rating": 0.768523283468479,
+        "rating_mu": 21.355979553443923,
+        "rating_sigma": 6.862485423325148,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
         "id": "f866d029-444b-447c-b165-998d748678c4",
@@ -48,12 +54,6 @@
         "trainer_id": "29fc3e9c-b568-4dcb-b821-9f4c12354a8c",
         "trainer_name": "reiaddict",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.768523283468479,
-        "rating_mu": 21.355979553443923,
-        "rating_sigma": 6.862485423325148,
-        "result": "loss"
       }
     }
   }

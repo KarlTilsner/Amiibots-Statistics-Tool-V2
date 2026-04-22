@@ -6,6 +6,12 @@
   "trainer_name": "GamerJohn_SSB",
   "matches": {
     "2021-09-21T09:42:04.565777+00:00": {
+      "this_amiibo": {
+        "rating": 1.317129126162925,
+        "rating_mu": 22.610954347444935,
+        "rating_sigma": 7.097941740427337,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
         "id": "892d51e9-79ca-4d99-8993-bdc0aa0c14e2",
@@ -14,15 +20,15 @@
         "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
         "trainer_name": "HD_ssbu",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.317129126162925,
-        "rating_mu": 22.610954347444935,
-        "rating_sigma": 7.097941740427337,
-        "result": "loss"
       }
     },
     "2021-11-25T15:52:56.305552+00:00": {
+      "this_amiibo": {
+        "rating": 1.9265881714737922,
+        "rating_mu": 19.461430785081458,
+        "rating_sigma": 5.8449475378692215,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
         "id": "3a974c3e-4353-43c2-acea-660c42531ed9",
@@ -31,12 +37,6 @@
         "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
         "trainer_name": "WynnThornton",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.9265881714737922,
-        "rating_mu": 19.461430785081458,
-        "rating_sigma": 5.8449475378692215,
-        "result": "loss"
       }
     }
   }

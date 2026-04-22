@@ -6,6 +6,12 @@
   "trainer_name": "staples___",
   "matches": {
     "2020-07-01T12:02:45.794688+00:00": {
+      "this_amiibo": {
+        "rating": 1.1072076698935938,
+        "rating_mu": 21.02441186910607,
+        "rating_sigma": 6.639068066404159,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
         "id": "2282e650-e1f2-4a37-9f03-09a2a236470d",
@@ -14,12 +20,6 @@
         "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
         "trainer_name": "River_Tethys",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1072076698935938,
-        "rating_mu": 21.02441186910607,
-        "rating_sigma": 6.639068066404159,
-        "result": "loss"
       }
     }
   }

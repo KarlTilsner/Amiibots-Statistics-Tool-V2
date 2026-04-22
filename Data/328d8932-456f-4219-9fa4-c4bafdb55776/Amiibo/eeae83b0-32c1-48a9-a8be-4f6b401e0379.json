@@ -6,6 +6,12 @@
   "trainer_name": "LouBerto_",
   "matches": {
     "2022-02-27T23:53:14.418828+00:00": {
+      "this_amiibo": {
+        "rating": 0.9731687086543985,
+        "rating_mu": 20.842379308243487,
+        "rating_sigma": 6.6230701998630295,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
         "id": "28c8bc32-f660-4dbd-b2f0-c04c500eee31",
@@ -14,12 +20,6 @@
         "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
         "trainer_name": "schmorchid",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.9731687086543985,
-        "rating_mu": 20.842379308243487,
-        "rating_sigma": 6.6230701998630295,
-        "result": "loss"
       }
     }
   }

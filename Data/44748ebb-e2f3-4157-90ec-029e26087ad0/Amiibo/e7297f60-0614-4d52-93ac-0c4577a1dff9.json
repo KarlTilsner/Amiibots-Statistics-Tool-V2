@@ -6,6 +6,12 @@
   "trainer_name": "traumatizedbaconbits",
   "matches": {
     "2020-09-25T21:54:13.953538+00:00": {
+      "this_amiibo": {
+        "rating": 0.41516023620030396,
+        "rating_mu": 19.410327173507707,
+        "rating_sigma": 6.331722312435801,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
         "id": "1cf5926a-fb71-43b1-9933-ae662229db75",
@@ -14,12 +20,6 @@
         "trainer_id": "31ac0377-29d9-4a82-afea-5fe20989ce28",
         "trainer_name": "magimiku",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.41516023620030396,
-        "rating_mu": 19.410327173507707,
-        "rating_sigma": 6.331722312435801,
-        "result": "loss"
       }
     }
   }

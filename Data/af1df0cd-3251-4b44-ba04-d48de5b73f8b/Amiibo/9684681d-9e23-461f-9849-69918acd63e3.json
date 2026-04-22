@@ -6,6 +6,12 @@
   "trainer_name": "kailyb_gaming",
   "matches": {
     "2023-04-09T01:26:10.306324+00:00": {
+      "this_amiibo": {
+        "rating": 1.1519571512110929,
+        "rating_mu": 21.36627915153325,
+        "rating_sigma": 6.738107333440719,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
         "id": "f95082ea-587c-4778-a239-75f1990bb99e",
@@ -14,15 +20,15 @@
         "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
         "trainer_name": "schmorchid",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 1.1519571512110929,
-        "rating_mu": 21.36627915153325,
-        "rating_sigma": 6.738107333440719,
-        "result": "loss"
       }
     },
     "2023-04-27T09:21:33.172082+00:00": {
+      "this_amiibo": {
+        "rating": 0.6741473426529154,
+        "rating_mu": 19.06857423322134,
+        "rating_sigma": 6.131475630189476,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
         "id": "4c512464-a967-4c2f-a2ea-ad0255c3e199",
@@ -31,15 +37,15 @@
         "trainer_id": "e5a5b15b-0230-444c-a8c9-7fd2076e7766",
         "trainer_name": "wonder24681",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.6741473426529154,
-        "rating_mu": 19.06857423322134,
-        "rating_sigma": 6.131475630189476,
-        "result": "loss"
       }
     },
     "2023-09-28T09:32:09.211127+00:00": {
+      "this_amiibo": {
+        "rating": 0.7639403772890461,
+        "rating_mu": 17.009948906702583,
+        "rating_sigma": 5.415336176471179,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
         "id": "0b83fe2b-3953-4189-9ae5-9d8bf95302b2",
@@ -48,15 +54,15 @@
         "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
         "trainer_name": "joah_22",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7639403772890461,
-        "rating_mu": 17.009948906702583,
-        "rating_sigma": 5.415336176471179,
-        "result": "loss"
       }
     },
     "2023-10-08T06:51:32.065298+00:00": {
+      "this_amiibo": {
+        "rating": 0.3100718606798125,
+        "rating_mu": 15.199197407593967,
+        "rating_sigma": 4.963041848971385,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
         "id": "780a0fa5-1029-42b2-8d59-b482721bd408",
@@ -65,15 +71,15 @@
         "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
         "trainer_name": "Azend_1",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.3100718606798125,
-        "rating_mu": 15.199197407593967,
-        "rating_sigma": 4.963041848971385,
-        "result": "loss"
       }
     },
     "2023-10-15T15:01:11.737171+00:00": {
+      "this_amiibo": {
+        "rating": -0.42060419892294654,
+        "rating_mu": 12.23567884592755,
+        "rating_sigma": 4.218761014950165,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
         "id": "de89a6af-f787-4aa8-8a43-747a767c84dc",
@@ -82,12 +88,6 @@
         "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
         "trainer_name": "schmorchid",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.42060419892294654,
-        "rating_mu": 12.23567884592755,
-        "rating_sigma": 4.218761014950165,
-        "result": "loss"
       }
     }
   }

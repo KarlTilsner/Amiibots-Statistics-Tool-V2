@@ -6,6 +6,12 @@
   "trainer_name": "flaminjolt",
   "matches": {
     "2023-02-15T16:51:07.092535+00:00": {
+      "this_amiibo": {
+        "rating": 0.20923842221727185,
+        "rating_mu": 21.747905412865595,
+        "rating_sigma": 7.179555663549441,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "68ed248f-e554-49de-8875-e8b74b802428",
@@ -14,12 +20,6 @@
         "trainer_id": "558d6371-ada9-4c14-b300-5eecf975ef68",
         "trainer_name": "deante_ssb",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.20923842221727185,
-        "rating_mu": 21.747905412865595,
-        "rating_sigma": 7.179555663549441,
-        "result": "loss"
       }
     }
   }

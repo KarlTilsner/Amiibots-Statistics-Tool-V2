@@ -6,6 +6,12 @@
   "trainer_name": "the_shade1972",
   "matches": {
     "2020-10-15T05:52:47.278327+00:00": {
+      "this_amiibo": {
+        "rating": -0.4961212831510018,
+        "rating_mu": 17.65355005486938,
+        "rating_sigma": 6.049890446006795,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "fb8af8b8-a397-49bd-b74d-a08732111df9",
@@ -14,12 +20,6 @@
         "trainer_id": "79127d18-8a5d-4b78-b8e9-ad09b1d225c2",
         "trainer_name": "Veemo_Goomba",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.4961212831510018,
-        "rating_mu": 17.65355005486938,
-        "rating_sigma": 6.049890446006795,
-        "result": "loss"
       }
     }
   }

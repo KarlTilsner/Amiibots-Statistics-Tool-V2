@@ -6,6 +6,12 @@
   "trainer_name": "MattTheBoxingChampFromWii",
   "matches": {
     "2022-04-22T04:30:11.318241+00:00": {
+      "this_amiibo": {
+        "rating": 0.4915507097525982,
+        "rating_mu": 21.32830808713208,
+        "rating_sigma": 6.945585792459827,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
         "id": "2c1d722a-0348-46b9-a509-b05ed6886e36",
@@ -14,12 +20,6 @@
         "trainer_id": "b3c93a1e-0aee-4a76-a0ed-36bc7258e629",
         "trainer_name": "Bananika7",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.4915507097525982,
-        "rating_mu": 21.32830808713208,
-        "rating_sigma": 6.945585792459827,
-        "result": "loss"
       }
     },
     "2022-04-23T05:00:48.941308+00:00": {
@@ -40,6 +40,12 @@
       }
     },
     "2022-04-24T15:38:36.333673+00:00": {
+      "this_amiibo": {
+        "rating": 10.296236546038417,
+        "rating_mu": 23.896711103466224,
+        "rating_sigma": 4.533491519142602,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
         "id": "cb0f9d98-fd38-436a-92c1-fcb3a56c7bad",
@@ -48,12 +54,6 @@
         "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
         "trainer_name": "forenmagra",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 10.296236546038417,
-        "rating_mu": 23.896711103466224,
-        "rating_sigma": 4.533491519142602,
-        "result": "loss"
       }
     }
   }

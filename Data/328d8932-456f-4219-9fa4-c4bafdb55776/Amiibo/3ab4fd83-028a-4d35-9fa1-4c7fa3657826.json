@@ -6,6 +6,12 @@
   "trainer_name": "eddyboomtron",
   "matches": {
     "2021-09-11T20:53:37.840122+00:00": {
+      "this_amiibo": {
+        "rating": -0.5902990623272046,
+        "rating_mu": 17.453388899999354,
+        "rating_sigma": 6.014562654108853,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
         "id": "a8456af0-ceff-45e2-8da7-63d69879671a",
@@ -14,12 +20,6 @@
         "trainer_id": "e315cc8f-425d-4686-a648-103739846f36",
         "trainer_name": "darkmega5",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": -0.5902990623272046,
-        "rating_mu": 17.453388899999354,
-        "rating_sigma": 6.014562654108853,
-        "result": "loss"
       }
     }
   }

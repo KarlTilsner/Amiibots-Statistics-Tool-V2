@@ -23,6 +23,12 @@
       }
     },
     "2022-09-21T20:56:41.461048+00:00": {
+      "this_amiibo": {
+        "rating": 13.802630957937913,
+        "rating_mu": 29.621619932567786,
+        "rating_sigma": 5.272996324876624,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
         "id": "b9eefd80-bd69-4a1c-9a70-3078b482aad5",
@@ -31,12 +37,6 @@
         "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
         "trainer_name": "schmorchid",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 13.802630957937913,
-        "rating_mu": 29.621619932567786,
-        "rating_sigma": 5.272996324876624,
-        "result": "loss"
       }
     }
   }

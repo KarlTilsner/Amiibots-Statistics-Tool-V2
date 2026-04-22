@@ -6,6 +6,12 @@
   "trainer_name": "SteelswarmCycada",
   "matches": {
     "2020-10-02T19:55:17.125050+00:00": {
+      "this_amiibo": {
+        "rating": 0.46818462372586467,
+        "rating_mu": 19.360279557026328,
+        "rating_sigma": 6.29736497776682,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
         "id": "40a3f482-9bd6-4313-b441-14e8844a81e4",
@@ -14,15 +20,15 @@
         "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
         "trainer_name": "Lady_Cucco",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.46818462372586467,
-        "rating_mu": 19.360279557026328,
-        "rating_sigma": 6.29736497776682,
-        "result": "loss"
       }
     },
     "2020-10-10T13:06:11.626240+00:00": {
+      "this_amiibo": {
+        "rating": 0.7678757285026165,
+        "rating_mu": 18.859992148158753,
+        "rating_sigma": 6.030705473218712,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
         "id": "424f6694-3033-45a7-af4d-c2f69ba95125",
@@ -31,12 +37,6 @@
         "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
         "trainer_name": "Kangoni",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.7678757285026165,
-        "rating_mu": 18.859992148158753,
-        "rating_sigma": 6.030705473218712,
-        "result": "loss"
       }
     }
   }

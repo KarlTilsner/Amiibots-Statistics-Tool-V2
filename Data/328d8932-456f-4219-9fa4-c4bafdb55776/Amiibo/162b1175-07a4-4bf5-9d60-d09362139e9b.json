@@ -6,6 +6,12 @@
   "trainer_name": "toriegorie",
   "matches": {
     "2022-10-03T03:15:23.183037+00:00": {
+      "this_amiibo": {
+        "rating": 0.12539788546087038,
+        "rating_mu": 19.357568240151593,
+        "rating_sigma": 6.410723451563575,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
         "id": "43509d71-3ecb-438b-98cd-43475af226bb",
@@ -14,12 +20,6 @@
         "trainer_id": "185cb41e-41ca-438d-bf62-472793a73c0b",
         "trainer_name": "blukrby",
         "result": "win"
-      },
-      "this_amiibo": {
-        "rating": 0.12539788546087038,
-        "rating_mu": 19.357568240151593,
-        "rating_sigma": 6.410723451563575,
-        "result": "loss"
       }
     }
   }

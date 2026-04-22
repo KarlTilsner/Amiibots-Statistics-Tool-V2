@@ -57,6 +57,12 @@
       }
     },
     "2022-07-16T11:31:40.697443+00:00": {
+      "this_amiibo": {
+        "rating": 15.393088624376158,
+        "rating_mu": 29.050508659501695,
+        "rating_sigma": 4.552473345041846,
+        "result": "loss"
+      },
       "opponent": {
         "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
         "id": "723fc670-cc30-4498-b4c9-67c117b927f3",
@@ -65,12 +71,57 @@
         "trainer_id": "a40ed5e4-3d2a-4657-b175-226bd6b729f9",
         "trainer_name": "Charcoalizard",
         "result": "win"
-      },
+      }
+    },
+    "2022-12-12T13:28:17.233565+00:00": {
       "this_amiibo": {
-        "rating": 15.393088624376158,
-        "rating_mu": 29.050508659501695,
-        "rating_sigma": 4.552473345041846,
+        "rating": 15.199202307107056,
+        "rating_mu": 27.409777226990805,
+        "rating_sigma": 4.07019163996125,
         "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "fa154cc2-653d-45ce-bfb0-093f375169d0",
+        "name": "PrinceZote",
+        "rating": 27.314960731092675,
+        "trainer_id": "f346091f-8917-49bc-b479-b0c568026dbf",
+        "trainer_name": "RazorForce21",
+        "result": "win"
+      }
+    },
+    "2022-12-16T23:54:38.420413+00:00": {
+      "this_amiibo": {
+        "rating": 15.0076181128432,
+        "rating_mu": 26.1322107173612,
+        "rating_sigma": 3.708197534839333,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "093c31c8-2525-468c-b32e-2620a7fca0b5",
+        "name": "Anubis",
+        "rating": 27.28957266570871,
+        "trainer_id": "0dc4a16f-927f-41d7-bcf5-b338e590b5fa",
+        "trainer_name": "KodinGaming",
+        "result": "win"
+      }
+    },
+    "2023-01-03T03:01:18.069638+00:00": {
+      "this_amiibo": {
+        "rating": 14.625051146664877,
+        "rating_mu": 24.800194288096563,
+        "rating_sigma": 3.3917143804772287,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "f4284a59-d1ab-42d4-847c-be4038f8a368",
+        "name": "Red #3",
+        "rating": 24.01969490983669,
+        "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
+        "trainer_name": "Pi_Boy_314",
+        "result": "win"
       }
     }
   }
