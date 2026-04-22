@@ -225,6 +225,40 @@
         "trainer_name": "flareofstars",
         "result": "loss"
       }
+    },
+    "2021-01-25T08:10:45.956794+00:00": {
+      "this_amiibo": {
+        "rating": 17.828731842283947,
+        "rating_mu": 25.115215770589323,
+        "rating_sigma": 2.428827976101792,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "a1d672ed-1628-467c-8880-b61770fa750a",
+        "name": "Alatar",
+        "rating": 21.742066501935533,
+        "trainer_id": "87ca3f86-0b03-4cd3-b8ff-317fe5caf47d",
+        "trainer_name": "green_magician",
+        "result": "win"
+      }
+    },
+    "2021-01-28T07:54:55.713681+00:00": {
+      "this_amiibo": {
+        "rating": 18.66408404629454,
+        "rating_mu": 25.672409916891695,
+        "rating_sigma": 2.3361086235323856,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "4e0ea0bb-e7c1-4a62-be8c-4cc7354fb6c4",
+        "name": "Garm",
+        "rating": 17.139505562724754,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "Renegade_Marbles",
+        "result": "loss"
+      }
     }
   }
 }

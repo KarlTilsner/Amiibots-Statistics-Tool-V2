@@ -973,6 +973,57 @@
         "trainer_name": "hono1",
         "result": "loss"
       }
+    },
+    "2021-01-22T14:47:01.458799+00:00": {
+      "this_amiibo": {
+        "rating": 21.93272256720657,
+        "rating_mu": 25.558628387827877,
+        "rating_sigma": 1.208635273540435,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "afa85cc9-ea23-46ef-a37d-45870ace1d51",
+        "name": "Zorro",
+        "rating": 27.231471218197818,
+        "trainer_id": "93f967b4-5933-4e9b-9f67-3d16fd17437f",
+        "trainer_name": "glitched_artist",
+        "result": "win"
+      }
+    },
+    "2021-01-24T23:06:38.020409+00:00": {
+      "this_amiibo": {
+        "rating": 21.820965964827924,
+        "rating_mu": 25.43903615710528,
+        "rating_sigma": 1.2060233974257857,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "6c897e9a-34fc-41fd-a165-86aab74ce858",
+        "name": "Yellow Guy",
+        "rating": 11.737193187927588,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "Renegade_Marbles",
+        "result": "win"
+      }
+    },
+    "2021-01-27T10:50:14.919943+00:00": {
+      "this_amiibo": {
+        "rating": 21.796672876159857,
+        "rating_mu": 25.41319078646407,
+        "rating_sigma": 1.205505970101405,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "a9fc79ea-7566-4fa9-abae-8b79cdc20420",
+        "name": "Red Mage",
+        "rating": 24.036754787756383,
+        "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
+        "trainer_name": "Murbert_AM",
+        "result": "win"
+      }
     }
   }
 }

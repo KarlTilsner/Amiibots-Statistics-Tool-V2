@@ -1296,6 +1296,57 @@
         "trainer_name": "AceTempest172",
         "result": "loss"
       }
+    },
+    "2023-02-08T18:41:59.510945+00:00": {
+      "this_amiibo": {
+        "rating": 28.083843550230878,
+        "rating_mu": 31.371799196731423,
+        "rating_sigma": 1.0959852155001824,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "77ab825a-c410-4ca4-bd41-27bed2c9d88c",
+        "name": "pencil",
+        "rating": 23.870623757057988,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
+        "result": "win"
+      }
+    },
+    "2023-02-11T20:32:42.897247+00:00": {
+      "this_amiibo": {
+        "rating": 28.260777110710656,
+        "rating_mu": 31.524072380639993,
+        "rating_sigma": 1.087765089976446,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "24abca9e-ba91-4c4b-84fc-81a9015cdb12",
+        "name": "Slingshot",
+        "rating": 28.514952740296472,
+        "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
+        "trainer_name": "YM44",
+        "result": "loss"
+      }
+    },
+    "2023-02-28T07:55:34.982470+00:00": {
+      "this_amiibo": {
+        "rating": 28.155444498677603,
+        "rating_mu": 31.410002611112724,
+        "rating_sigma": 1.0848527041450398,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "2bdec971-c880-4033-a3fc-bfafc08cc572",
+        "name": "chocolate",
+        "rating": 20.530764760241308,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
+        "result": "win"
+      }
     }
   }
 }

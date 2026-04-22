@@ -1177,6 +1177,57 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2023-02-05T20:48:21.152065+00:00": {
+      "this_amiibo": {
+        "rating": 26.50536570369362,
+        "rating_mu": 29.70280404303155,
+        "rating_sigma": 1.06581277977931,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "c5c8c160-43f2-4a47-94ca-fe45f80e259f",
+        "name": "SSSTRamsay",
+        "rating": 26.655045592392337,
+        "trainer_id": "737b125c-6dc9-418e-80cf-0dc6b78049cd",
+        "trainer_name": "flaminjolt",
+        "result": "win"
+      }
+    },
+    "2023-02-12T21:06:00.479445+00:00": {
+      "this_amiibo": {
+        "rating": 26.721016790807727,
+        "rating_mu": 29.89348108288423,
+        "rating_sigma": 1.0574880973588334,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "f9d89eff-71c2-4c3d-bcb8-e5536b670552",
+        "name": "KingJ.Juul",
+        "rating": 27.992609186356056,
+        "trainer_id": "478fe709-29fa-4d5e-8fc3-282b80765517",
+        "trainer_name": "AstrobeatSaturn",
+        "result": "loss"
+      }
+    },
+    "2023-02-13T12:12:57.338167+00:00": {
+      "this_amiibo": {
+        "rating": 26.85923645399903,
+        "rating_mu": 30.01330306386832,
+        "rating_sigma": 1.0513555366230967,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "9fcfdcc3-ff57-4c56-bce9-c8d9b027585b",
+        "name": "Kirby HBP™",
+        "rating": 25.256819970104583,
+        "trainer_id": "989b85c3-4ffc-41c0-8596-2d2c67fd7158",
+        "trainer_name": "tealeevz",
+        "result": "loss"
+      }
     }
   }
 }

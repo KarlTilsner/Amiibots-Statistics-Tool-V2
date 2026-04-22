@@ -89,6 +89,40 @@
         "trainer_name": "twrecks64",
         "result": "loss"
       }
+    },
+    "2023-02-05T15:47:18.224137+00:00": {
+      "this_amiibo": {
+        "rating": 11.116865836963356,
+        "rating_mu": 20.60835979093708,
+        "rating_sigma": 3.163831317991241,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+        "id": "6a9deee1-6a3a-4e32-9c78-4e904d36d044",
+        "name": "Polio",
+        "rating": 11.993057204149746,
+        "trainer_id": "3c2659e1-5fee-4b6b-98e3-594aec223a09",
+        "trainer_name": "brain_dread",
+        "result": "loss"
+      }
+    },
+    "2023-02-05T09:25:30.468928+00:00": {
+      "this_amiibo": {
+        "rating": 9.088599018324341,
+        "rating_mu": 19.337756088707227,
+        "rating_sigma": 3.4163856901276284,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "a5ad1747-a3ca-4c86-a1a3-db30125595be",
+        "name": "Balor",
+        "rating": 7.5374788717150025,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "win"
+      }
     }
   }
 }
