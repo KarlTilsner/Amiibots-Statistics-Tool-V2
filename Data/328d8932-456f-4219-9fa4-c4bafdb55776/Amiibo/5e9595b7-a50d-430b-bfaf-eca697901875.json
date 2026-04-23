@@ -1704,6 +1704,57 @@
         "trainer_name": "track8regret",
         "result": "loss"
       }
+    },
+    "2023-06-13T07:29:18.293217+00:00": {
+      "this_amiibo": {
+        "rating": 22.800786876176076,
+        "rating_mu": 25.652611560761702,
+        "rating_sigma": 0.9506082281952082,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "91a75746-4895-4017-9a99-b96b4bdecbd1",
+        "name": "Wedge",
+        "rating": 9.86758824955433,
+        "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
+        "trainer_name": "leCharade",
+        "result": "loss"
+      }
+    },
+    "2023-06-14T18:29:24.544584+00:00": {
+      "this_amiibo": {
+        "rating": 22.701389788917815,
+        "rating_mu": 25.545918210332072,
+        "rating_sigma": 0.9481761404714191,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "a3f6650c-5c9c-45e5-87e9-5c2f9c515ab0",
+        "name": "Scareclaw",
+        "rating": 18.151716778867893,
+        "trainer_id": "5c6fabea-f6b5-4c64-84fd-afe78dd35a32",
+        "trainer_name": "islabecausewhynot",
+        "result": "win"
+      }
+    },
+    "2023-06-23T15:00:36.573895+00:00": {
+      "this_amiibo": {
+        "rating": 22.6248718156737,
+        "rating_mu": 25.472376349388874,
+        "rating_sigma": 0.9491681779050583,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "aa626bd6-53de-47f3-bbfd-c4a7caa092e6",
+        "name": "Greil",
+        "rating": 11.73451416297441,
+        "trainer_id": "b4ded674-d14a-4e96-a0c7-5dc00906f8f7",
+        "trainer_name": "aggron_ghost",
+        "result": "win"
+      }
     }
   }
 }

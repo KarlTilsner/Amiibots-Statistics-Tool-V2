@@ -344,6 +344,40 @@
         "trainer_name": "capt_cacdi",
         "result": "loss"
       }
+    },
+    "2023-06-14T09:54:15.384100+00:00": {
+      "this_amiibo": {
+        "rating": 24.79499636675638,
+        "rating_mu": 30.00019127886793,
+        "rating_sigma": 1.7350649707038504,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "40857bb3-7da4-4e39-a9f6-40f260b86b49",
+        "name": "Westley",
+        "rating": 27.428985288830987,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      }
+    },
+    "2023-06-20T05:34:45.178193+00:00": {
+      "this_amiibo": {
+        "rating": 24.590660932540345,
+        "rating_mu": 29.71311634379029,
+        "rating_sigma": 1.7074851370833153,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "b4592daa-9686-4b9e-8ae2-838fb53f3dcf",
+        "name": "Stimpy",
+        "rating": 21.887432848796323,
+        "trainer_id": "8b58def7-f142-4a59-b1d1-322b89f76a74",
+        "trainer_name": "t_newcomer",
+        "result": "win"
+      }
     }
   }
 }
