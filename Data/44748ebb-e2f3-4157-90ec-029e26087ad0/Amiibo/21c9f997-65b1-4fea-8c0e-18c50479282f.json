@@ -395,6 +395,40 @@
         "trainer_name": "mythricity",
         "result": "loss"
       }
+    },
+    "2021-07-30T15:47:46.863798+00:00": {
+      "this_amiibo": {
+        "rating": 26.59354337226945,
+        "rating_mu": 32.05892283806493,
+        "rating_sigma": 1.8217931552651594,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "cbb2fc51-e6f9-41c8-906b-d610f30303fe",
+        "name": "Leshi",
+        "rating": 31.538183363109646,
+        "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
+        "trainer_name": "gotelin_",
+        "result": "win"
+      }
+    },
+    "2021-07-30T22:11:56.464975+00:00": {
+      "this_amiibo": {
+        "rating": 26.949767138271945,
+        "rating_mu": 32.30523339335567,
+        "rating_sigma": 1.785155418361242,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "3f69e9b2-082e-46ba-b29b-bbce5e47a1c7",
+        "name": "GokenBlack",
+        "rating": 25.69914950261225,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "loss"
+      }
     }
   }
 }

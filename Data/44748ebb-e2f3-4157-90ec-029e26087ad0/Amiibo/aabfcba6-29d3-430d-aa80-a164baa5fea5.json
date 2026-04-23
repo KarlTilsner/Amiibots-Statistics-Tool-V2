@@ -310,6 +310,40 @@
         "trainer_name": "qscxz512",
         "result": "loss"
       }
+    },
+    "2021-07-22T18:33:46.488460+00:00": {
+      "this_amiibo": {
+        "rating": 23.317119859076374,
+        "rating_mu": 28.866578177668252,
+        "rating_sigma": 1.8498194395306256,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "fb64abfa-b5e6-4efa-8459-4799bdcb6d9b",
+        "name": "Grima",
+        "rating": 12.94423322987142,
+        "trainer_id": "76a92f67-cceb-47db-88c7-41098515cd28",
+        "trainer_name": "fellgrima69",
+        "result": "win"
+      }
+    },
+    "2021-07-25T18:46:23.940039+00:00": {
+      "this_amiibo": {
+        "rating": 23.46389435151472,
+        "rating_mu": 28.973090741682487,
+        "rating_sigma": 1.836398796722589,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "deb29625-6957-422c-b7f4-e537e09b2286",
+        "name": "Girl Marth",
+        "rating": 2.3483843166884313,
+        "trainer_id": "a9ec9d87-61e1-4c87-be6d-3442cf3a59d4",
+        "trainer_name": "bluerunner0",
+        "result": "loss"
+      }
     }
   }
 }

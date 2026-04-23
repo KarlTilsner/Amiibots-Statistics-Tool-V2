@@ -157,6 +157,57 @@
         "trainer_name": "OmenApproaching",
         "result": "loss"
       }
+    },
+    "2021-07-24T09:48:31.292818+00:00": {
+      "this_amiibo": {
+        "rating": 15.59128612545339,
+        "rating_mu": 24.559121426428117,
+        "rating_sigma": 2.9892784336582423,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "5dcc5be8-b0d8-403b-be81-2890550a23d5",
+        "name": "Geralt",
+        "rating": 25.7499245006927,
+        "trainer_id": "4994b4dd-52cc-4b67-bf51-07bcd8c806b3",
+        "trainer_name": "supaytaita",
+        "result": "win"
+      }
+    },
+    "2021-07-28T16:53:21.614974+00:00": {
+      "this_amiibo": {
+        "rating": 17.40911867838998,
+        "rating_mu": 25.76759793547857,
+        "rating_sigma": 2.7861597523628627,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "18838206-5175-42f4-856d-a8686ef54433",
+        "name": "Urbosa",
+        "rating": 21.27799640176625,
+        "trainer_id": "00937824-4c06-4098-9c8f-af1c024f7fdb",
+        "trainer_name": "Paniamin",
+        "result": "loss"
+      }
+    },
+    "2021-07-31T23:16:16.372453+00:00": {
+      "this_amiibo": {
+        "rating": 17.358736914878374,
+        "rating_mu": 25.583639236295625,
+        "rating_sigma": 2.7416341071390833,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "74a4744a-8a21-4301-b526-1413e2cdbbfc",
+        "name": "Lumity",
+        "rating": 22.483170048560538,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
     }
   }
 }

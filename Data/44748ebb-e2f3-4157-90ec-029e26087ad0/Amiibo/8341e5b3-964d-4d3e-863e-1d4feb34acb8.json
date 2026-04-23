@@ -633,6 +633,40 @@
         "trainer_name": "UltraDPG",
         "result": "loss"
       }
+    },
+    "2021-08-02T06:39:05.000333+00:00": {
+      "this_amiibo": {
+        "rating": 23.224552937121743,
+        "rating_mu": 27.558513840687866,
+        "rating_sigma": 1.4446536345220407,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "6bf07ddc-df7c-434f-acef-9a214f10f900",
+        "name": "Herbizarre",
+        "rating": 28.135976639310392,
+        "trainer_id": "559b97d3-faa3-4aa1-9697-8e87271c7b16",
+        "trainer_name": "ammoknight208",
+        "result": "win"
+      }
+    },
+    "2021-08-03T15:48:49.706067+00:00": {
+      "this_amiibo": {
+        "rating": 23.12523459369834,
+        "rating_mu": 27.409198763420857,
+        "rating_sigma": 1.4279880565741723,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "b535942c-5786-471f-b343-ab4c577c23b2",
+        "name": "Jando",
+        "rating": 28.45792636218312,
+        "trainer_id": "93f967b4-5933-4e9b-9f67-3d16fd17437f",
+        "trainer_name": "glitched_artist",
+        "result": "win"
+      }
     }
   }
 }

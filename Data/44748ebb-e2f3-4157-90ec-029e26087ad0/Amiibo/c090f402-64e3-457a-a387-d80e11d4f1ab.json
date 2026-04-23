@@ -157,6 +157,40 @@
         "trainer_name": "random_fire",
         "result": "win"
       }
+    },
+    "2021-07-24T15:24:55.125324+00:00": {
+      "this_amiibo": {
+        "rating": 15.819882743030366,
+        "rating_mu": 24.002093528288995,
+        "rating_sigma": 2.72740359508621,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "ad162c8d-7284-4ec5-bf7b-218e06620587",
+        "name": "Skylink",
+        "rating": 24.70814184131619,
+        "trainer_id": "5d3b8188-c17a-4198-acb8-a011895c7c7e",
+        "trainer_name": "MonoMalard",
+        "result": "loss"
+      }
+    },
+    "2021-07-24T21:33:12.585975+00:00": {
+      "this_amiibo": {
+        "rating": 15.830365967839338,
+        "rating_mu": 23.93530777132565,
+        "rating_sigma": 2.701647267828771,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "92e2c30b-7f07-4032-b73f-4351d169b5e1",
+        "name": "Mallow",
+        "rating": 31.240782690909747,
+        "trainer_id": "3c6a2558-822c-45dc-9c83-95b524978633",
+        "trainer_name": "0ccactuss0",
+        "result": "win"
+      }
     }
   }
 }

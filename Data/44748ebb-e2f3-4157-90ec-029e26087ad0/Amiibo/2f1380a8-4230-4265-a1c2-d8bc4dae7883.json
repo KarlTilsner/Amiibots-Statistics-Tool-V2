@@ -599,6 +599,40 @@
         "trainer_name": "frosd19",
         "result": "loss"
       }
+    },
+    "2021-07-22T04:26:23.264466+00:00": {
+      "this_amiibo": {
+        "rating": 26.606949865469943,
+        "rating_mu": 31.327085187509145,
+        "rating_sigma": 1.5733784406797338,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "278e131a-a69f-4c36-8691-5914fceb226a",
+        "name": "Pat",
+        "rating": 26.459644400674172,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "staples___",
+        "result": "win"
+      }
+    },
+    "2021-07-29T20:05:43.744161+00:00": {
+      "this_amiibo": {
+        "rating": 26.507718674636607,
+        "rating_mu": 31.1672079343159,
+        "rating_sigma": 1.553163086559764,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "bdcf920c-3d69-4df8-8610-ab362919dd06",
+        "name": "DDDeezNuts",
+        "rating": 31.153931724192823,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "sp_staples",
+        "result": "win"
+      }
     }
   }
 }

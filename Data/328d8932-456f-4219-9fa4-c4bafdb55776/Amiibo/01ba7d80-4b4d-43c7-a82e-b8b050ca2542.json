@@ -1653,6 +1653,40 @@
         "trainer_name": "improv_195",
         "result": "loss"
       }
+    },
+    "2024-09-23T19:37:59.742491+00:00": {
+      "this_amiibo": {
+        "rating": 34.528888421595184,
+        "rating_mu": 37.259402814639635,
+        "rating_sigma": 0.9101714643481509,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "a91bf8dd-919d-4941-a135-4d8863ef6401",
+        "name": "I AM STEVE",
+        "rating": 34.75852368524576,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "joah_22",
+        "result": "win"
+      }
+    },
+    "2024-09-23T23:47:25.547227+00:00": {
+      "this_amiibo": {
+        "rating": 34.43335287084437,
+        "rating_mu": 37.155647032817996,
+        "rating_sigma": 0.9074313873245423,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "0892e21e-2fb0-4c16-9f92-041cfd69f04e",
+        "name": "MasterGuin",
+        "rating": 35.42307429824975,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
     }
   }
 }

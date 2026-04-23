@@ -837,6 +837,40 @@
         "trainer_name": "hono1",
         "result": "loss"
       }
+    },
+    "2021-07-23T10:24:03.072154+00:00": {
+      "this_amiibo": {
+        "rating": 28.076332406672407,
+        "rating_mu": 32.17197040808958,
+        "rating_sigma": 1.3652126671390574,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "9bbeef90-799e-4d42-ba4d-5debd7ed5671",
+        "name": "Eclipto",
+        "rating": 13.910216614450732,
+        "trainer_id": "3fabe039-1087-4290-afb8-fd2ab3a1f5f6",
+        "trainer_name": "SitraSSB",
+        "result": "win"
+      }
+    },
+    "2021-08-02T21:59:29.945684+00:00": {
+      "this_amiibo": {
+        "rating": 28.219255410810444,
+        "rating_mu": 32.289515604805224,
+        "rating_sigma": 1.35675339799826,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "6901d0d7-4b8b-41f8-b2c7-034905403c5d",
+        "name": "Woke Ken",
+        "rating": 13.916832543929608,
+        "trainer_id": "e942f6d5-8582-4856-9ac0-6935cb3f1291",
+        "trainer_name": "orebunn",
+        "result": "loss"
+      }
     }
   }
 }

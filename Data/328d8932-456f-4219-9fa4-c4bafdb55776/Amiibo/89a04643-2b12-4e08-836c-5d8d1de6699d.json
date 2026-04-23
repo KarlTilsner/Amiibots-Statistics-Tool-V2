@@ -293,6 +293,40 @@
         "trainer_name": "leCharade",
         "result": "loss"
       }
+    },
+    "2024-09-15T10:26:07.513338+00:00": {
+      "this_amiibo": {
+        "rating": 16.2507025396023,
+        "rating_mu": 22.09784714720974,
+        "rating_sigma": 1.949048202535813,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "c49ec0ed-2b56-4f9d-a2e6-2b30ad372fb2",
+        "name": "MetalMario",
+        "rating": 19.910684280594122,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
+    },
+    "2024-09-21T02:38:35.628273+00:00": {
+      "this_amiibo": {
+        "rating": 15.731482280722476,
+        "rating_mu": 21.37427163788225,
+        "rating_sigma": 1.8809297857199243,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "a7bf4199-d89e-4655-86a6-4e1a58928690",
+        "name": "Lau Pei",
+        "rating": 14.740960767459534,
+        "trainer_id": "4ef50fd5-b406-48f9-bc3d-95922e8d1456",
+        "trainer_name": "Ashidlun",
+        "result": "win"
+      }
     }
   }
 }

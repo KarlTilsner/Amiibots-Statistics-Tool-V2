@@ -208,6 +208,40 @@
         "trainer_name": "apple_beebs",
         "result": "loss"
       }
+    },
+    "2021-08-05T10:29:26.813160+00:00": {
+      "this_amiibo": {
+        "rating": 15.242744047217611,
+        "rating_mu": 23.60867584023581,
+        "rating_sigma": 2.788643931006067,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "6122822b-6717-4b3c-b3a6-68c489cbcb79",
+        "name": "Ganondork",
+        "rating": 27.372584502186513,
+        "trainer_id": "67752445-1c0b-45ff-872a-f478a3c95ecf",
+        "trainer_name": "dreadfather_666",
+        "result": "win"
+      }
+    },
+    "2021-08-05T10:00:07.360081+00:00": {
+      "this_amiibo": {
+        "rating": 15.30307005346041,
+        "rating_mu": 23.979650554032695,
+        "rating_sigma": 2.892193500190762,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "4409fd7a-da06-4bfd-8810-0db29e05d19d",
+        "name": "jazz hands",
+        "rating": 24.88354827364096,
+        "trainer_id": "c19db4ca-2480-4290-800c-156da376873b",
+        "trainer_name": "lazy_dolphin21",
+        "result": "loss"
+      }
     }
   }
 }

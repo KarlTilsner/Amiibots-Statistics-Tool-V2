@@ -769,6 +769,40 @@
         "trainer_name": "nozzly",
         "result": "win"
       }
+    },
+    "2021-08-02T01:28:28.523808+00:00": {
+      "this_amiibo": {
+        "rating": 30.49797322302387,
+        "rating_mu": 34.530258645771056,
+        "rating_sigma": 1.3440951409157287,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "f54c5202-bdb9-495d-a9d8-ea11f6112241",
+        "name": "Able",
+        "rating": 1.3206448381339442,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "loss"
+      }
+    },
+    "2021-08-02T23:15:03.107126+00:00": {
+      "this_amiibo": {
+        "rating": 30.53648678374887,
+        "rating_mu": 34.56147165527338,
+        "rating_sigma": 1.3416616238415036,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
+        "id": "5c4267e1-ec3f-4dcd-aa14-e7270ae2e3a3",
+        "name": "Glass",
+        "rating": 12.012018460822329,
+        "trainer_id": "5b811e0a-9d5b-497a-91c7-0868e4e49a95",
+        "trainer_name": "early_mp",
+        "result": "loss"
+      }
     }
   }
 }
