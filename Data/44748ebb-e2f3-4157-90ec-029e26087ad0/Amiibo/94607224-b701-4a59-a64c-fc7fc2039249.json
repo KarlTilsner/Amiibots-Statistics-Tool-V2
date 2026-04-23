@@ -497,6 +497,40 @@
         "trainer_name": "hill_matter",
         "result": "loss"
       }
+    },
+    "2021-04-23T10:49:59.517609+00:00": {
+      "this_amiibo": {
+        "rating": 25.38166753179555,
+        "rating_mu": 29.949887026342793,
+        "rating_sigma": 1.5227398315157477,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "3c0286b1-07b1-41c1-9f11-dc87a79fa0b5",
+        "name": "Chesburger",
+        "rating": 31.50503926774598,
+        "trainer_id": "fb659a93-73d7-4f74-aebf-881bd7829482",
+        "trainer_name": "DustBuckit",
+        "result": "win"
+      }
+    },
+    "2021-04-23T09:42:55.888778+00:00": {
+      "this_amiibo": {
+        "rating": 25.478190581774193,
+        "rating_mu": 30.10555924136598,
+        "rating_sigma": 1.542456219863929,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "12a0fcda-bee3-4cf2-a5de-c1942cf2116d",
+        "name": "Opinions",
+        "rating": 7.548980142874502,
+        "trainer_id": "0b5244c4-11f6-4aca-b8b6-051ce2f36491",
+        "trainer_name": "SomethingEggnog1",
+        "result": "loss"
+      }
     }
   }
 }

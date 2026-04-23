@@ -1,7 +1,7 @@
 {
   "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
   "id": "01cf19a4-2322-4ccc-8fa2-4b1c79022aeb",
-  "name": "Olly",
+  "name": "Al",
   "trainer_id": "8d6a769d-19d4-4644-b439-6e87cd8a8b20",
   "trainer_name": "someguy_456",
   "matches": {
@@ -104,6 +104,57 @@
         "rating": 19.656819876550014,
         "trainer_id": "a741e042-203e-4ab9-a042-fe55868ee59d",
         "trainer_name": "nickclark",
+        "result": "loss"
+      }
+    },
+    "2021-04-26T11:22:39.548004+00:00": {
+      "this_amiibo": {
+        "rating": 20.489520243576735,
+        "rating_mu": 30.93152771424444,
+        "rating_sigma": 3.480669156889235,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "b90f713a-23ea-40aa-9c44-4bb38ea7e127",
+        "name": "BazookaJoe",
+        "rating": 19.151316479956364,
+        "trainer_id": "8576530a-2f15-4cd6-bcb5-d9bf076ea24c",
+        "trainer_name": "bladethecheetah",
+        "result": "win"
+      }
+    },
+    "2021-04-29T18:11:25.476339+00:00": {
+      "this_amiibo": {
+        "rating": 20.029971628016227,
+        "rating_mu": 29.982544935577668,
+        "rating_sigma": 3.3175244358538127,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "1c631081-5028-4a38-840b-315fec532a11",
+        "name": "Gae Bowser",
+        "rating": 20.222659907657757,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "familybloopers",
+        "result": "win"
+      }
+    },
+    "2021-05-02T23:12:50.411637+00:00": {
+      "this_amiibo": {
+        "rating": 20.93889237143754,
+        "rating_mu": 30.46514884671568,
+        "rating_sigma": 3.1754188250927133,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "fa67b689-e892-4f51-8573-3b691df9a111",
+        "name": "Green",
+        "rating": 16.381422923695183,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
         "result": "loss"
       }
     }

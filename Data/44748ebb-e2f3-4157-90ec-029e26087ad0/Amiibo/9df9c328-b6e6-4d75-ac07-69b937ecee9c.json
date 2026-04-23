@@ -480,6 +480,40 @@
         "trainer_name": "MiDe1",
         "result": "win"
       }
+    },
+    "2021-04-23T21:36:26.785613+00:00": {
+      "this_amiibo": {
+        "rating": 13.689617520355442,
+        "rating_mu": 19.760836878893794,
+        "rating_sigma": 2.023739786179451,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "58388456-ed4e-47d9-9ce8-02b758fcbb34",
+        "name": "StabLady",
+        "rating": 19.211980445290283,
+        "trainer_id": "7c6d7e35-ffe0-4c7f-ae10-32b296db2b37",
+        "trainer_name": "augold197",
+        "result": "loss"
+      }
+    },
+    "2021-04-27T00:19:38.620176+00:00": {
+      "this_amiibo": {
+        "rating": 13.686013276504536,
+        "rating_mu": 19.734567222771197,
+        "rating_sigma": 2.016184648755554,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "37ef06cc-0860-4fb3-8186-7b330b673d1b",
+        "name": "Kookaburra",
+        "rating": 30.657561277854757,
+        "trainer_id": "1285932e-d5a9-44b2-a0af-582aa5a06b3a",
+        "trainer_name": "Frogcake",
+        "result": "win"
+      }
     }
   }
 }

@@ -140,6 +140,40 @@
         "trainer_name": "dreamy_b_jay",
         "result": "loss"
       }
+    },
+    "2021-04-26T05:23:48.288836+00:00": {
+      "this_amiibo": {
+        "rating": 22.167212357095433,
+        "rating_mu": 30.61876954415319,
+        "rating_sigma": 2.817185729019252,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e2531ffe-e834-49ae-b233-56386472a6ed",
+        "id": "407a6ca3-3740-4306-b9a4-cf6854d798e6",
+        "name": "Melania",
+        "rating": 24.084040048192037,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "win"
+      }
+    },
+    "2021-04-29T01:24:34.715280+00:00": {
+      "this_amiibo": {
+        "rating": 21.746707023167627,
+        "rating_mu": 29.716169026634628,
+        "rating_sigma": 2.6564873344890003,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "239a955d-d7e8-47b2-880f-8c26e0f4971a",
+        "name": "NottDBrave",
+        "rating": 27.574805974751705,
+        "trainer_id": "9d77bdfc-09ab-4886-b28c-6e23ab77fa64",
+        "trainer_name": "InkThinks",
+        "result": "win"
+      }
     }
   }
 }

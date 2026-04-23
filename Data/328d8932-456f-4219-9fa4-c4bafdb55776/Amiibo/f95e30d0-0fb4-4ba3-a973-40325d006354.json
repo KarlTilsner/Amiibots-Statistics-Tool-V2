@@ -378,6 +378,40 @@
         "trainer_name": "AceTempest172",
         "result": "loss"
       }
+    },
+    "2024-02-17T05:23:14.295874+00:00": {
+      "this_amiibo": {
+        "rating": 19.106103663862406,
+        "rating_mu": 24.170882074236243,
+        "rating_sigma": 1.6882594701246119,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "1c49ec93-6ce9-48a6-ab37-940124f73fda",
+        "name": "sepicock",
+        "rating": 19.30407567540264,
+        "trainer_id": "16d95116-717b-4033-929d-85d20482f869",
+        "trainer_name": "aarsters",
+        "result": "win"
+      }
+    },
+    "2024-02-23T16:52:46.186083+00:00": {
+      "this_amiibo": {
+        "rating": 19.506620841597275,
+        "rating_mu": 24.49627213442419,
+        "rating_sigma": 1.6632170976089704,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "ed0dc79f-5b4f-473f-8145-66dbc14a9e27",
+        "name": "YCW Yoshi",
+        "rating": 10.408440257605452,
+        "trainer_id": "0dbb4031-0bb5-4915-81aa-3f796d5d9776",
+        "trainer_name": "infinite_ultimate_life",
+        "result": "loss"
+      }
     }
   }
 }
