@@ -548,6 +548,40 @@
         "trainer_name": "MMMMMMMMTTYYY_",
         "result": "loss"
       }
+    },
+    "2023-08-06T07:51:13.283956+00:00": {
+      "this_amiibo": {
+        "rating": 21.32214843820665,
+        "rating_mu": 25.640630361450057,
+        "rating_sigma": 1.4394939744144692,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "04c09d0c-9b5a-466f-bc18-3cc76e7866a7",
+        "name": "Okami",
+        "rating": 19.643463776120793,
+        "trainer_id": "80f98683-a318-47dd-bcf2-93f67d0878d4",
+        "trainer_name": "Sir_Dragonite",
+        "result": "win"
+      }
+    },
+    "2023-08-08T03:07:28.293953+00:00": {
+      "this_amiibo": {
+        "rating": 21.62578894168894,
+        "rating_mu": 25.88616811327251,
+        "rating_sigma": 1.4201263905278572,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "949309ed-38c2-41ea-9a11-dbaad88cce57",
+        "name": "Aegislash",
+        "rating": 17.144599608287596,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "loss"
+      }
     }
   }
 }

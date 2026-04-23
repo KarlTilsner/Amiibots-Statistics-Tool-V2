@@ -3183,6 +3183,57 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2023-07-22T11:48:14.157790+00:00": {
+      "this_amiibo": {
+        "rating": 31.14770448052819,
+        "rating_mu": 33.609755723617724,
+        "rating_sigma": 0.8206837476965108,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "6058b6d8-3d5b-4886-a20c-00ad7d3f9eab",
+        "name": "Hydrangea",
+        "rating": 30.837950993352784,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2023-07-22T21:12:47.374981+00:00": {
+      "this_amiibo": {
+        "rating": 31.069066075770294,
+        "rating_mu": 33.52981346405216,
+        "rating_sigma": 0.8202491294272884,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "91187b2c-cdc4-4788-9215-5e472fc9b88a",
+        "name": "jojos",
+        "rating": 31.389950952728434,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HD_ssbu",
+        "result": "win"
+      }
+    },
+    "2023-08-20T11:09:07.103026+00:00": {
+      "this_amiibo": {
+        "rating": 31.16225539230103,
+        "rating_mu": 33.621376205428625,
+        "rating_sigma": 0.819706937709198,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "82509c46-fddc-4ecf-b8e5-08f68c3d0b72",
+        "name": "testnum1",
+        "rating": 28.550896109381092,
+        "trainer_id": "62d4eb7f-d418-42f0-97a1-aac0a5f968c0",
+        "trainer_name": "yvvire",
+        "result": "loss"
+      }
     }
   }
 }

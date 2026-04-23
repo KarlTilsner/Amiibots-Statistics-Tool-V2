@@ -21,6 +21,57 @@
         "trainer_name": "0underscore",
         "result": "win"
       }
+    },
+    "2023-08-09T16:30:46.206996+00:00": {
+      "this_amiibo": {
+        "rating": 0.5156118451329021,
+        "rating_mu": 16.639959620362298,
+        "rating_sigma": 5.374782591743132,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "949309ed-38c2-41ea-9a11-dbaad88cce57",
+        "name": "Aegislash",
+        "rating": 16.868771497863456,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2023-08-10T08:58:34.241259+00:00": {
+      "this_amiibo": {
+        "rating": 5.956301501831632,
+        "rating_mu": 19.629527140913655,
+        "rating_sigma": 4.5577418796940075,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
+        "id": "8449c6b2-efbd-47a3-a47e-474d8c37ceca",
+        "name": "nubs",
+        "rating": 11.375941071364235,
+        "trainer_id": "0f97eeae-9a05-49b1-9741-b5719c922fd3",
+        "trainer_name": "AmiiboTrainerLukas",
+        "result": "loss"
+      }
+    },
+    "2023-08-19T09:17:04.511022+00:00": {
+      "this_amiibo": {
+        "rating": 9.843218521909051,
+        "rating_mu": 21.816776469946873,
+        "rating_sigma": 3.991185982679274,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+        "id": "6a9deee1-6a3a-4e32-9c78-4e904d36d044",
+        "name": "Polio",
+        "rating": 16.523327839714412,
+        "trainer_id": "3c2659e1-5fee-4b6b-98e3-594aec223a09",
+        "trainer_name": "brain_dread",
+        "result": "loss"
+      }
     }
   }
 }

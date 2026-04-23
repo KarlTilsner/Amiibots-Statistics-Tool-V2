@@ -1,7 +1,7 @@
 {
   "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
   "id": "cfdd5219-a22f-4bd4-a83d-883cc7e87b5d",
-  "name": "Kahšir",
+  "name": "Horon",
   "trainer_id": "e128e4c8-61ed-4890-87ed-5122450d8b28",
   "trainer_name": "Rehshef",
   "matches": {
@@ -20,6 +20,40 @@
         "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
         "trainer_name": "Renegade_Marbles",
         "result": "loss"
+      }
+    },
+    "2021-02-07T19:22:55.833610+00:00": {
+      "this_amiibo": {
+        "rating": 13.104383704986763,
+        "rating_mu": 26.59407720399579,
+        "rating_sigma": 4.4965644996696765,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "1d856ac1-dcbc-43a4-a4c6-333192a77556",
+        "name": "NightShade",
+        "rating": 26.275782035636215,
+        "trainer_id": "93f967b4-5933-4e9b-9f67-3d16fd17437f",
+        "trainer_name": "glitched_artist",
+        "result": "win"
+      }
+    },
+    "2021-02-08T02:31:44.540771+00:00": {
+      "this_amiibo": {
+        "rating": 11.418356825284423,
+        "rating_mu": 22.876181680865685,
+        "rating_sigma": 3.8192749518604203,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "bcab8de8-fdfb-4a85-a2f6-28c7155e78cc",
+        "name": "Rek Strife",
+        "rating": 17.156231427691154,
+        "trainer_id": "de8bfcb6-60de-48e2-8a23-31517707e203",
+        "trainer_name": "rekcuf_nmad",
+        "result": "win"
       }
     }
   }

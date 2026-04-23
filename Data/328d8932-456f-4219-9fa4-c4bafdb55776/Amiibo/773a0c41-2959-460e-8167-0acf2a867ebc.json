@@ -531,6 +531,40 @@
         "trainer_name": "NoAmiibo",
         "result": "win"
       }
+    },
+    "2023-08-10T16:40:13.016249+00:00": {
+      "this_amiibo": {
+        "rating": 14.841303722514223,
+        "rating_mu": 19.235782624914,
+        "rating_sigma": 1.464826300799925,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+        "id": "6a9deee1-6a3a-4e32-9c78-4e904d36d044",
+        "name": "Polio",
+        "rating": 16.774886547409817,
+        "trainer_id": "3c2659e1-5fee-4b6b-98e3-594aec223a09",
+        "trainer_name": "brain_dread",
+        "result": "loss"
+      }
+    },
+    "2023-08-24T03:10:56.922023+00:00": {
+      "this_amiibo": {
+        "rating": 14.649825127779796,
+        "rating_mu": 19.004694447264445,
+        "rating_sigma": 1.4516231064948832,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
+        "id": "9c162ced-8e46-4028-9ad6-5d73ea0faf6e",
+        "name": "Treffor",
+        "rating": 7.5495387597610595,
+        "trainer_id": "d7ccdd97-5fb5-4c6f-bc15-02ef79e769ef",
+        "trainer_name": "DEADSKULLZ31",
+        "result": "win"
+      }
     }
   }
 }

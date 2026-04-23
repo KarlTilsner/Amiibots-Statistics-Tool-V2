@@ -276,6 +276,40 @@
         "trainer_name": "trueschavi",
         "result": "loss"
       }
+    },
+    "2023-08-16T00:26:56.337649+00:00": {
+      "this_amiibo": {
+        "rating": 4.218349799683153,
+        "rating_mu": 10.3442930433598,
+        "rating_sigma": 2.0419810812255488,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "f6ba6f19-7890-4d3b-a4e4-3588408603a0",
+        "name": "Anakin",
+        "rating": 12.478890461195686,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
+    },
+    "2023-08-18T12:34:12.749703+00:00": {
+      "this_amiibo": {
+        "rating": 4.762003387496125,
+        "rating_mu": 10.718566188141391,
+        "rating_sigma": 1.985520933548422,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "3779cda1-cc00-4a31-a57f-aade8378288a",
+        "name": "Overload",
+        "rating": 3.9464388513360946,
+        "trainer_id": "c77a47ee-60f9-487e-abed-a8514fdaeeac",
+        "trainer_name": "trueschavi",
+        "result": "loss"
+      }
     }
   }
 }
