@@ -1,7 +1,7 @@
 {
   "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
   "id": "f12ebd33-addf-46f5-b08d-19b1c7b4a3e8",
-  "name": "Prisoner",
+  "name": "Joker",
   "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
   "trainer_name": "RockMyRole",
   "matches": {
@@ -104,6 +104,40 @@
         "rating": 16.96366202144015,
         "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
         "trainer_name": "carbon_show",
+        "result": "win"
+      }
+    },
+    "2021-02-28T07:19:03.360775+00:00": {
+      "this_amiibo": {
+        "rating": 17.17954955056142,
+        "rating_mu": 26.808712316100088,
+        "rating_sigma": 3.2097209218462233,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
+        "id": "82d2fb55-f899-47dc-9cfc-1f1c58cbd776",
+        "name": "Stem",
+        "rating": 25.10289015341853,
+        "trainer_id": "ab4f37d8-cc78-43da-97be-708516d98233",
+        "trainer_name": "tschmid22",
+        "result": "win"
+      }
+    },
+    "2021-03-07T09:42:39.937571+00:00": {
+      "this_amiibo": {
+        "rating": 17.112548461688398,
+        "rating_mu": 26.327616336814238,
+        "rating_sigma": 3.071689291708614,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "ca08cd09-30af-424f-8184-3d407d9866cf",
+        "name": "Greil",
+        "rating": 27.800682019338616,
+        "trainer_id": "a5275cc8-8cec-439d-8487-243f0875e90c",
+        "trainer_name": "themee7",
         "result": "win"
       }
     }

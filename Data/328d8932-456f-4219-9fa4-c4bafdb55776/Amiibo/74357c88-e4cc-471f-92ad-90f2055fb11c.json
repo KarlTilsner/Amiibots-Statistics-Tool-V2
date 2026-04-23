@@ -514,6 +514,57 @@
         "trainer_name": "YM44",
         "result": "win"
       }
+    },
+    "2023-09-09T05:57:35.756291+00:00": {
+      "this_amiibo": {
+        "rating": 21.546045206569744,
+        "rating_mu": 26.15365453183269,
+        "rating_sigma": 1.535869775087649,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "38fead34-3962-480b-955c-3bfa87d39393",
+        "name": "BrawlerGuy",
+        "rating": 23.999640986179884,
+        "trainer_id": "81801258-d8a9-47aa-8659-e4d457707b41",
+        "trainer_name": "JoyBoyIndigo",
+        "result": "win"
+      }
+    },
+    "2023-10-02T03:44:55.876364+00:00": {
+      "this_amiibo": {
+        "rating": 21.737597102572977,
+        "rating_mu": 26.320544802248204,
+        "rating_sigma": 1.5276492332250764,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "acde134b-6370-468b-959e-a0e39b63c2f0",
+        "name": "Servant",
+        "rating": 0.713140490715972,
+        "trainer_id": "a03324ae-7a0c-4a4a-a608-046e54c99664",
+        "trainer_name": "picvity",
+        "result": "loss"
+      }
+    },
+    "2023-10-02T22:35:31.693865+00:00": {
+      "this_amiibo": {
+        "rating": 21.92443338513054,
+        "rating_mu": 26.483441104247785,
+        "rating_sigma": 1.5196692397057472,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "0527fc40-d84d-438f-a66c-ecd2b5b421d6",
+        "name": "ChrisPratt",
+        "rating": 0.741102696020473,
+        "trainer_id": "5ecc9f0c-afdd-455b-8077-db8be3c428b8",
+        "trainer_name": "mrgoddamskittles",
+        "result": "loss"
+      }
     }
   }
 }

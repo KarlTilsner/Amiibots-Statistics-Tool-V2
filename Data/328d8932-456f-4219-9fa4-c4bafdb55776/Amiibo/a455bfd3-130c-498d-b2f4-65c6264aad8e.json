@@ -174,6 +174,40 @@
         "trainer_name": "ranchDK",
         "result": "loss"
       }
+    },
+    "2023-07-28T05:04:55.702392+00:00": {
+      "this_amiibo": {
+        "rating": 25.16727598685165,
+        "rating_mu": 32.40450508670295,
+        "rating_sigma": 2.412409699950433,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
+        "id": "a53558c7-f915-4bbe-9f2d-5d71eac2eace",
+        "name": "Ensha",
+        "rating": 31.263103057663805,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
+    },
+    "2023-10-20T11:20:07.154364+00:00": {
+      "this_amiibo": {
+        "rating": 26.31825440538141,
+        "rating_mu": 33.21468118500115,
+        "rating_sigma": 2.2988089265399125,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "e5d29112-7311-4647-b240-809dc10ec939",
+        "name": "nate",
+        "rating": 29.757901054012315,
+        "trainer_id": "a8ec1935-e2e2-4460-b4f4-ad2d5f37fa54",
+        "trainer_name": "thenewamiiboguy",
+        "result": "loss"
+      }
     }
   }
 }

@@ -871,6 +871,40 @@
         "trainer_name": "bluerunner0",
         "result": "loss"
       }
+    },
+    "2023-09-06T22:31:31.959778+00:00": {
+      "this_amiibo": {
+        "rating": 29.964642407450118,
+        "rating_mu": 33.20641952185983,
+        "rating_sigma": 1.080592371469904,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "ff0058f0-9f60-416b-a9dd-b5b9be0404be",
+        "name": "Azrael",
+        "rating": 28.61090093875476,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2023-09-23T02:03:51.361525+00:00": {
+      "this_amiibo": {
+        "rating": 29.822784286063985,
+        "rating_mu": 33.04057416471238,
+        "rating_sigma": 1.072596626216132,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "dccb5648-02a6-48ce-b451-8a31dab2cf04",
+        "name": "Agent Curb",
+        "rating": 28.91630817732033,
+        "trainer_id": "581bcc3e-7190-42bb-a667-bc2c7c5b9a8d",
+        "trainer_name": "duccoboi22_",
+        "result": "win"
+      }
     }
   }
 }

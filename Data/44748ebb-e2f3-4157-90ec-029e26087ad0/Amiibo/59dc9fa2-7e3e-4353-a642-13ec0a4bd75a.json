@@ -1330,6 +1330,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2021-02-28T12:33:47.756287+00:00": {
+      "this_amiibo": {
+        "rating": 24.813506449063212,
+        "rating_mu": 27.959866095901493,
+        "rating_sigma": 1.0487865489460932,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "9e96decf-f213-4659-9335-a2a6a0c4caae",
+        "name": "Alonso",
+        "rating": 28.473893537555313,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      }
+    },
+    "2021-03-01T08:14:50.086771+00:00": {
+      "this_amiibo": {
+        "rating": 24.915854966059772,
+        "rating_mu": 28.049966124903168,
+        "rating_sigma": 1.044703719614465,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "caac744d-3c87-4ab2-8373-a3b2384e31c9",
+        "name": "PANCAKE_FF",
+        "rating": 17.703090462884035,
+        "trainer_id": "c1461260-903f-4aae-ad42-af21e07e1e98",
+        "trainer_name": "TheWohaPolice",
+        "result": "loss"
+      }
     }
   }
 }

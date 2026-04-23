@@ -38,6 +38,40 @@
         "trainer_name": "raid_boss_09",
         "result": "loss"
       }
+    },
+    "2023-07-28T23:52:33.795051+00:00": {
+      "this_amiibo": {
+        "rating": 6.38779170527479,
+        "rating_mu": 19.92834008517064,
+        "rating_sigma": 4.5135161266319495,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "f776ef98-3c5d-4cca-97df-a1af9e865ec0",
+        "name": "Big X",
+        "rating": 10.36061644932662,
+        "trainer_id": "e4931ae7-1311-40d6-811c-354742e96bc0",
+        "trainer_name": "atomic_salvy",
+        "result": "win"
+      }
+    },
+    "2023-09-17T01:59:59.778849+00:00": {
+      "this_amiibo": {
+        "rating": 10.124316696414354,
+        "rating_mu": 22.024248769028535,
+        "rating_sigma": 3.966644024204727,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "ac243d2a-6b1b-44ac-9f28-aaaac3056b8a",
+        "name": "icefallers",
+        "rating": 16.586733389952826,
+        "trainer_id": "8e290d89-5484-46ab-b222-914c45b7b11c",
+        "trainer_name": "pixel_gunners",
+        "result": "loss"
+      }
     }
   }
 }

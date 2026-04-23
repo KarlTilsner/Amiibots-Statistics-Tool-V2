@@ -531,6 +531,57 @@
         "trainer_name": "nozzly",
         "result": "loss"
       }
+    },
+    "2021-03-16T06:45:40.048896+00:00": {
+      "this_amiibo": {
+        "rating": 26.378725561348027,
+        "rating_mu": 35.50608071026906,
+        "rating_sigma": 3.042451716307011,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "c6d48e3a-3ce5-46ca-9e0b-5147c05e271e",
+        "name": "DEDEDEDEDE",
+        "rating": 27.66412495866681,
+        "trainer_id": "3605a786-32a1-41fb-b184-d117ec5e1782",
+        "trainer_name": "jredskins",
+        "result": "win"
+      }
+    },
+    "2021-03-20T10:38:30.578719+00:00": {
+      "this_amiibo": {
+        "rating": 25.35677580800295,
+        "rating_mu": 34.18421524159219,
+        "rating_sigma": 2.942479811196413,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "36822467-93e4-4a03-a9e8-cfbd98ee7289",
+        "name": "Apungu",
+        "rating": 17.053789964155513,
+        "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
+        "trainer_name": "gotelin_",
+        "result": "win"
+      }
+    },
+    "2021-03-21T16:24:15.408311+00:00": {
+      "this_amiibo": {
+        "rating": 27.020547509779554,
+        "rating_mu": 35.293541272404035,
+        "rating_sigma": 2.757664587541494,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "b51c4776-5d51-4730-ae7a-1aed838319c0",
+        "name": "no one",
+        "rating": 29.019361747699143,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "loss"
+      }
     }
   }
 }
