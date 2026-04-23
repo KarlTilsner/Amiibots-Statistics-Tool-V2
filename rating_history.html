@@ -10,11 +10,11 @@
         <link rel="stylesheet" href="css/styles.css">
 
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.6.0/jszip.min.js"></script>
-        <script src="js/ruleset_handler.js"></script>
         <script src="js/rating_history.js"></script>
-        <script src="js/versionNumber.js"></script>
+        <script src="js/header.js"></script>
         <script src="js/navBarElement.js"></script>
         <script src="js/search_history.js"></script>
+        <script src="js/ruleset_handler.js"></script>
 
         <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-datalabels/2.2.0/chartjs-plugin-datalabels.min.js" 
@@ -25,37 +25,12 @@
 
 
 
-
-
     <body>
-
         <nav class="navbar" id="documentNavbar"></nav>
 
 
-
-        
-
         <main>
-            <div class="header">
-                <div>
-                    <h1 class="title">Amiibots Statistics Tool<span class="subtitle"> / Rating History</span></h1>
-
-                    <p class="version" id="versionNo"></p>
-                </div>
-
-                <div class="rulesetSelect">
-                    <select class="rulesetDropdownMenu" id="selectRulesetDropdown" onchange="changeRuleset(this)">
-                        <option class="rulesetDropdownMenuOption" value="null" id="defaultRulesetOption">Select a Ruleset</option>
-                    </select>
-                </div>
-
-                <div class="search_history_button" onclick="toggleVisibility()">
-                    <img class="search_history_icon" src="images/icon_search_history.png">
-                </div>
-
-            </div>
-
-
+            <div id="documentHeader"></div>
 
             <div class="block" id="searchHistoryDropdown" style="display: none;">
                 <div class="container">
@@ -166,18 +141,11 @@
 
 
 
-
-
         </main>
 
 
 
-
-
-    <script>
-
-
-           
+        <script>
 //                                                              GRAPH RATING HISTORY
 //---------------------------------------------------------------------------------------------------------------------------------------------------------
 

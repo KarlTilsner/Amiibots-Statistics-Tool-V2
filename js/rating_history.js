@@ -168,6 +168,11 @@ async function characterMatchup(selectedOption) {
         const rating_history_data = await rating_history_query.json();
         console.log("rating_history_data:", rating_history_data);
 
+        // Latest trainer names
+        const trainer_names_query = await fetch(`./Data/${window.localStorage.getItem('Global_Ruleset')}/unique_trainers.json`);
+        const trainer_names = await trainer_names_query.json();
+        console.log("Latest trainer names:", trainer_names);
+
         // get highest rating
         let highest_rating = 0;
         Object.entries(rating_history_data.rating_history).forEach(([k, v]) => {
@@ -175,6 +180,12 @@ async function characterMatchup(selectedOption) {
                 highest_rating = v.rating;
                 document.getElementById('list_rating').innerText = highest_rating.toFixed(3);
             }
+
+            // Get latest trainer name
+            if (trainer_names[v.trainer_id]) {
+                v.trainer_name = trainer_names[v.trainer_id];
+            }
+
             highestRatedHistory.push(v);
         });
 
@@ -184,10 +195,8 @@ async function characterMatchup(selectedOption) {
                 const trainerId = item.trainer_id;
                 const trainerName = item.trainer_name;
 
+                // Tally days a trainer is dominant
                 if (counts[trainerId]) {
-                    if (trainerName !== counts[trainerId].trainerName) {
-                        counts[trainerId].trainer_name = trainerName; // Update trainerName
-                    }
                     counts[trainerId].days++;
                 } else {
                     counts[trainerId] = { trainer_name: trainerName, days: 1 };
