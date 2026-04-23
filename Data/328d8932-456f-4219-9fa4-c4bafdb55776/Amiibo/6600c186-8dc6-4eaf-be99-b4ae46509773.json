@@ -1262,6 +1262,40 @@
         "trainer_name": "Azend_1",
         "result": "win"
       }
+    },
+    "2023-07-05T09:01:44.198801+00:00": {
+      "this_amiibo": {
+        "rating": 30.966968973850648,
+        "rating_mu": 33.889747348211486,
+        "rating_sigma": 0.974259458120279,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "481ad406-6ede-42cd-b887-08c6fcde3097",
+        "name": "Highlander",
+        "rating": 31.719086144107607,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "win"
+      }
+    },
+    "2023-07-05T08:35:21.036465+00:00": {
+      "this_amiibo": {
+        "rating": 31.066246420330852,
+        "rating_mu": 34.00166686695791,
+        "rating_sigma": 0.9784734822090195,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "974a1c55-c042-4fb1-b6aa-e79ef491006b",
+        "name": "HomeSchool",
+        "rating": 20.84153796975932,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "win"
+      }
     }
   }
 }

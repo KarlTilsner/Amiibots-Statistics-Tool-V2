@@ -5529,6 +5529,40 @@
         "trainer_name": "StaplesTV_",
         "result": "loss"
       }
+    },
+    "2023-07-05T07:26:01.709009+00:00": {
+      "this_amiibo": {
+        "rating": 31.988951886432755,
+        "rating_mu": 34.40281367392867,
+        "rating_sigma": 0.8046205958319718,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
+        "name": "Hero",
+        "rating": 34.542330970455254,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "win"
+      }
+    },
+    "2023-07-07T10:03:43.559082+00:00": {
+      "this_amiibo": {
+        "rating": 32.107677185273886,
+        "rating_mu": 34.51868025461211,
+        "rating_sigma": 0.8036676897794082,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
+        "name": "Hero",
+        "rating": 34.22916847845093,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "loss"
+      }
     }
   }
 }

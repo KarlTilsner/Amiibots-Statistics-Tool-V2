@@ -140,6 +140,57 @@
         "trainer_name": "smashssf2_ita",
         "result": "win"
       }
+    },
+    "2023-07-06T04:08:41.465098+00:00": {
+      "this_amiibo": {
+        "rating": 22.20389537735599,
+        "rating_mu": 29.429157354163145,
+        "rating_sigma": 2.408420658935718,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "0be7e3d3-c453-4331-a9bc-df3015101306",
+        "name": "Mickey",
+        "rating": 24.282667035072194,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "loss"
+      }
+    },
+    "2023-07-07T05:00:00.772050+00:00": {
+      "this_amiibo": {
+        "rating": 21.81409947336872,
+        "rating_mu": 28.72841131677737,
+        "rating_sigma": 2.3047706144695495,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "6501236f-f374-4b3a-b0d7-7684c0d0e908",
+        "name": "no enemies",
+        "rating": 24.972154211079506,
+        "trainer_id": "157dbf30-0efd-4302-ad16-98fa73a77ee0",
+        "trainer_name": "nobandmob",
+        "result": "win"
+      }
+    },
+    "2023-07-07T17:09:07.463232+00:00": {
+      "this_amiibo": {
+        "rating": 21.52693867668913,
+        "rating_mu": 28.241109367274422,
+        "rating_sigma": 2.238056896861764,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "f0d8df27-7c41-4ebe-82ea-2a647f4a9576",
+        "name": "Quiznos",
+        "rating": 21.241593672820663,
+        "trainer_id": "0918eb1f-823d-4b61-8da3-387a14718ebf",
+        "trainer_name": "GamerJohn_",
+        "result": "win"
+      }
     }
   }
 }

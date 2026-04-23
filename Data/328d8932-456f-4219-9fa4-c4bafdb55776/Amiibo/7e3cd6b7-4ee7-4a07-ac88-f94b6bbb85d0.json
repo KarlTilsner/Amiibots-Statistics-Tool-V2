@@ -1,0 +1,43 @@
+{
+  "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+  "id": "7e3cd6b7-4ee7-4a07-ac88-f94b6bbb85d0",
+  "name": "John Cena",
+  "trainer_id": "8b22431e-8223-4c0c-8dd7-f16d277d336b",
+  "trainer_name": "mcchicken425",
+  "matches": {
+    "2023-07-03T19:24:34.419777+00:00": {
+      "this_amiibo": {
+        "rating": 0.9299503512541882,
+        "rating_mu": 20.471387340273484,
+        "rating_sigma": 6.513812329673099,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "7611ad8e-640b-41a3-9782-44be188c249a",
+        "name": "Zangief",
+        "rating": 24.623174168440165,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "win"
+      }
+    },
+    "2023-07-05T02:36:12.941412+00:00": {
+      "this_amiibo": {
+        "rating": 9.933461167974048,
+        "rating_mu": 25.368864123853967,
+        "rating_sigma": 5.145134318626639,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "3e47099b-93c9-4324-9b2a-cb7c8049c502",
+        "name": "Brand",
+        "rating": 18.709392938356856,
+        "trainer_id": "acf5ba5f-23f9-471b-a1c7-ba5119b73cdc",
+        "trainer_name": "sirxyonder",
+        "result": "loss"
+      }
+    }
+  }
+}
