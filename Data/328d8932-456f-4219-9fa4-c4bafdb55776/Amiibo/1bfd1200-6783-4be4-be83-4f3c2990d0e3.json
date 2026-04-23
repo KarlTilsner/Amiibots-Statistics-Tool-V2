@@ -956,6 +956,40 @@
         "trainer_name": "Xedge14",
         "result": "win"
       }
+    },
+    "2023-10-17T04:51:04.468947+00:00": {
+      "this_amiibo": {
+        "rating": 28.268915343841066,
+        "rating_mu": 32.2204427176797,
+        "rating_sigma": 1.3171757912795459,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "14d5e573-14fb-4d61-986b-d5b37e98c853",
+        "name": "starchess",
+        "rating": 29.188365224171058,
+        "trainer_id": "8e290d89-5484-46ab-b222-914c45b7b11c",
+        "trainer_name": "pixel_gunners",
+        "result": "win"
+      }
+    },
+    "2023-10-17T22:59:51.935925+00:00": {
+      "this_amiibo": {
+        "rating": 28.088646888504627,
+        "rating_mu": 31.98812354605621,
+        "rating_sigma": 1.2998255525171953,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "caf64748-4df8-4ef5-b237-a2c698045d2f",
+        "name": "Dog Boy",
+        "rating": 29.603242741245595,
+        "trainer_id": "e819f7ca-4d21-4e94-8e30-7edff2b94fc5",
+        "trainer_name": "DogBoyton",
+        "result": "win"
+      }
     }
   }
 }

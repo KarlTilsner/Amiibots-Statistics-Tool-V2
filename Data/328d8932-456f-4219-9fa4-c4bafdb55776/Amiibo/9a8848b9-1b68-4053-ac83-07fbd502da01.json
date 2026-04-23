@@ -684,6 +684,40 @@
         "trainer_name": "AceTempest172",
         "result": "loss"
       }
+    },
+    "2023-09-29T00:29:35.955169+00:00": {
+      "this_amiibo": {
+        "rating": 21.318783896598923,
+        "rating_mu": 25.44320426501481,
+        "rating_sigma": 1.3748067894719627,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "38fead34-3962-480b-955c-3bfa87d39393",
+        "name": "BrawlerGuy",
+        "rating": 23.61713277818047,
+        "trainer_id": "81801258-d8a9-47aa-8659-e4d457707b41",
+        "trainer_name": "JoyBoyIndigo",
+        "result": "win"
+      }
+    },
+    "2023-09-29T15:09:39.861803+00:00": {
+      "this_amiibo": {
+        "rating": 21.591698727576592,
+        "rating_mu": 25.66559859805877,
+        "rating_sigma": 1.3579666234940604,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "5efc0ca0-f895-4b96-b24d-22ddd586bc9e",
+        "name": "bulborb",
+        "rating": 17.48562181628496,
+        "trainer_id": "9829dfa3-05a1-4936-8d5d-320c204abb1e",
+        "trainer_name": "white_pikminyt",
+        "result": "loss"
+      }
     }
   }
 }

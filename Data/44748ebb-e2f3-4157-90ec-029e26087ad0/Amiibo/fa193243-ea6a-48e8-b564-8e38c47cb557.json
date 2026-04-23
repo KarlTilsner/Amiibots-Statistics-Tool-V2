@@ -38,6 +38,40 @@
         "trainer_name": "random_fire",
         "result": "loss"
       }
+    },
+    "2021-02-28T06:22:57.049675+00:00": {
+      "this_amiibo": {
+        "rating": 17.219134165797396,
+        "rating_mu": 30.700004243210284,
+        "rating_sigma": 4.493623359137629,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "5d6a6b81-b1e6-44c5-87c7-207910f29eaa",
+        "name": "KingOfDoom",
+        "rating": 30.475152771139317,
+        "trainer_id": "75cc72db-3f1a-4ecb-a476-a681603d9d4e",
+        "trainer_name": "BorisTheDemonTamer",
+        "result": "win"
+      }
+    },
+    "2021-03-06T21:36:56.725436+00:00": {
+      "this_amiibo": {
+        "rating": 20.726665112299145,
+        "rating_mu": 32.63491551930215,
+        "rating_sigma": 3.969416802334334,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "3f69e9b2-082e-46ba-b29b-bbce5e47a1c7",
+        "name": "GokenBlack",
+        "rating": 26.93311073414801,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "loss"
+      }
     }
   }
 }

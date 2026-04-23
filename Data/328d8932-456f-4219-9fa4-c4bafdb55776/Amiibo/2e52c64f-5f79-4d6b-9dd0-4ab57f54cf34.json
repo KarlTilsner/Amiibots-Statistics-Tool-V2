@@ -1109,6 +1109,40 @@
         "trainer_name": "cr3at1v123",
         "result": "loss"
       }
+    },
+    "2023-09-30T13:34:41.678781+00:00": {
+      "this_amiibo": {
+        "rating": 27.871251958102995,
+        "rating_mu": 31.084156140139577,
+        "rating_sigma": 1.070968060678861,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "3b49e268-1b06-44b2-8a36-50e9459963e7",
+        "name": "Mr.Sandman",
+        "rating": 32.404849006618505,
+        "trainer_id": "4109b186-2c35-4e06-9fb2-0814df014469",
+        "trainer_name": "vasanthias",
+        "result": "win"
+      }
+    },
+    "2023-10-17T09:50:04.573858+00:00": {
+      "this_amiibo": {
+        "rating": 28.029529909697544,
+        "rating_mu": 31.22209510413364,
+        "rating_sigma": 1.0641883981453655,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
+        "id": "f22c4848-eefc-4c46-a803-d1141ac5c9a3",
+        "name": "Red Velvet",
+        "rating": 25.657990879502776,
+        "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
+        "trainer_name": "RailCanyonn",
+        "result": "loss"
+      }
     }
   }
 }

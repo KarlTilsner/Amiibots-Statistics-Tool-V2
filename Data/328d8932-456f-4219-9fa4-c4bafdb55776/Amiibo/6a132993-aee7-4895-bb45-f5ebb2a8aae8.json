@@ -412,6 +412,57 @@
         "trainer_name": "da_boss5000",
         "result": "loss"
       }
+    },
+    "2023-10-05T08:49:04.942466+00:00": {
+      "this_amiibo": {
+        "rating": 18.95318482980348,
+        "rating_mu": 24.104201394032007,
+        "rating_sigma": 1.7170055214095092,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "1433e876-5b3f-497d-b6df-3fe5f6f97c0b",
+        "name": "LemLem!",
+        "rating": 20.80438218289661,
+        "trainer_id": "fdef585b-96e2-4ebe-93c3-82641f2cefd3",
+        "trainer_name": "yendekai",
+        "result": "win"
+      }
+    },
+    "2023-10-19T15:09:10.087933+00:00": {
+      "this_amiibo": {
+        "rating": 19.23768659922984,
+        "rating_mu": 24.347961671929532,
+        "rating_sigma": 1.7034250242332307,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "2e76fece-34e4-4863-a01a-d12df8d75552",
+        "name": "Rapis",
+        "rating": 0.3075020972411231,
+        "trainer_id": "4912f925-622e-46a3-88cf-5de49dbb407e",
+        "trainer_name": "colfon_",
+        "result": "loss"
+      }
+    },
+    "2023-10-22T00:57:42.630300+00:00": {
+      "this_amiibo": {
+        "rating": 19.51261345758773,
+        "rating_mu": 24.583623538723252,
+        "rating_sigma": 1.6903366937118411,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "c16b0ccc-36e0-4eda-ad51-c21a380abf2b",
+        "name": "The Flop",
+        "rating": 0.3597621680840817,
+        "trainer_id": "47903544-099a-4d15-a2f4-9fb28dae130f",
+        "trainer_name": "da_boss5000",
+        "result": "loss"
+      }
     }
   }
 }

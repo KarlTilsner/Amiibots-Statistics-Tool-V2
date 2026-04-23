@@ -21,6 +21,40 @@
         "trainer_name": "vrcool0",
         "result": "loss"
       }
+    },
+    "2023-10-08T09:07:25.845346+00:00": {
+      "this_amiibo": {
+        "rating": 10.391180028884474,
+        "rating_mu": 26.235326022542925,
+        "rating_sigma": 5.28138199788615,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "d9062485-114d-45c9-95ab-70bf2ede65d8",
+        "name": "X",
+        "rating": 27.178414305984624,
+        "trainer_id": "617a242b-ff29-4568-a5b4-ec41e1ce80d2",
+        "trainer_name": "Xedge14",
+        "result": "win"
+      }
+    },
+    "2023-10-08T23:15:28.551414+00:00": {
+      "this_amiibo": {
+        "rating": 14.362738502335805,
+        "rating_mu": 28.197908889681965,
+        "rating_sigma": 4.61172346244872,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "da3145f0-5750-45a8-a3a5-48b59f62894c",
+        "name": "Ringing?",
+        "rating": 20.4870608665827,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
     }
   }
 }

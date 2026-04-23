@@ -497,6 +497,57 @@
         "trainer_name": "apple_beebs",
         "result": "loss"
       }
+    },
+    "2021-03-04T16:12:41.853765+00:00": {
+      "this_amiibo": {
+        "rating": 27.740545899364054,
+        "rating_mu": 32.27925586974464,
+        "rating_sigma": 1.5129033234601945,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "2a36ffb8-8596-486c-b524-f4acd1b0c5f0",
+        "name": "Falcon",
+        "rating": 22.292193587603983,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "Renegade_Marbles",
+        "result": "win"
+      }
+    },
+    "2021-03-06T07:14:05.827844+00:00": {
+      "this_amiibo": {
+        "rating": 28.246503739922534,
+        "rating_mu": 32.696313669509706,
+        "rating_sigma": 1.4832699765290573,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "ba8a73a6-7713-422b-b6de-fe472476a87d",
+        "name": "Pegasus",
+        "rating": 29.50454372234824,
+        "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
+        "trainer_name": "LovingStew",
+        "result": "loss"
+      }
+    },
+    "2021-03-07T02:25:34.858325+00:00": {
+      "this_amiibo": {
+        "rating": 28.43736586294925,
+        "rating_mu": 32.83593825845272,
+        "rating_sigma": 1.466190798501157,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "6333aa0a-b799-43d6-8cd0-6bd101ef9b88",
+        "name": "ROB-O",
+        "rating": 25.45752708644808,
+        "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
+        "trainer_name": "nozzly",
+        "result": "loss"
+      }
     }
   }
 }
