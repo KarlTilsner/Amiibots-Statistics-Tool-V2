@@ -1415,6 +1415,57 @@
         "trainer_name": "trandomp",
         "result": "loss"
       }
+    },
+    "2021-02-06T11:35:57.086972+00:00": {
+      "this_amiibo": {
+        "rating": 27.03200698849941,
+        "rating_mu": 30.089440081334658,
+        "rating_sigma": 1.0191443642784161,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "257708db-16df-4896-8277-275510c8c6e5",
+        "name": "Kampbell",
+        "rating": 24.960612990496394,
+        "trainer_id": "c6f90073-b1c0-4f2e-9822-1c1906edb4ea",
+        "trainer_name": "AmiiboTrainerIcy",
+        "result": "win"
+      }
+    },
+    "2021-02-06T11:06:41.925671+00:00": {
+      "this_amiibo": {
+        "rating": 27.15698124138249,
+        "rating_mu": 30.231469463122114,
+        "rating_sigma": 1.0248294072465411,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "07c18941-f51c-41c5-becb-7fbfb903448f",
+        "name": "StarLink",
+        "rating": 10.145251123788068,
+        "trainer_id": "da6ecc51-05ce-4a7c-a22a-58f0a5a4c883",
+        "trainer_name": "letter002",
+        "result": "loss"
+      }
+    },
+    "2021-02-06T10:55:16.923874+00:00": {
+      "this_amiibo": {
+        "rating": 27.144893799870353,
+        "rating_mu": 30.215760555192084,
+        "rating_sigma": 1.0236222517739102,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "d13f2d5e-0820-4c15-9ef3-713c9b8e60fb",
+        "name": "Froggers",
+        "rating": 22.601119782669613,
+        "trainer_id": "7dc8c69a-90af-475f-89c5-1b7ce12dc42b",
+        "trainer_name": "SinSei__",
+        "result": "loss"
+      }
     }
   }
 }
