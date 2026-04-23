@@ -2826,6 +2826,57 @@
         "trainer_name": "person_who_likes_games",
         "result": "loss"
       }
+    },
+    "2023-07-12T20:16:22.643258+00:00": {
+      "this_amiibo": {
+        "rating": 32.675888918413335,
+        "rating_mu": 35.339623941934626,
+        "rating_sigma": 0.8879116745070957,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "9710974f-b8b1-4496-a4ad-3f764ee7b9ed",
+        "name": "Scarlet",
+        "rating": 32.66987327339166,
+        "trainer_id": "52395cd5-7302-493e-a7a9-c0cf640159cd",
+        "trainer_name": "mafriel",
+        "result": "win"
+      }
+    },
+    "2023-07-12T13:22:52.346999+00:00": {
+      "this_amiibo": {
+        "rating": 32.780397438478516,
+        "rating_mu": 35.451861208566235,
+        "rating_sigma": 0.8904879233625732,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
+        "name": "Hero",
+        "rating": 35.231379505167794,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "win"
+      }
+    },
+    "2023-07-13T04:30:20.621740+00:00": {
+      "this_amiibo": {
+        "rating": 32.7740672296871,
+        "rating_mu": 35.43181306078722,
+        "rating_sigma": 0.8859152770333732,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "b380d0e1-3adc-4bb0-a7d0-3727d90dc0bd",
+        "name": "Ace",
+        "rating": 31.874652114869463,
+        "trainer_id": "b82c6d43-d80c-4195-99a0-67355d12115d",
+        "trainer_name": "Rukasu9078",
+        "result": "loss"
+      }
     }
   }
 }

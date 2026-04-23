@@ -38,6 +38,40 @@
         "trainer_name": "HD_ssbu",
         "result": "loss"
       }
+    },
+    "2023-07-12T21:40:08.648584+00:00": {
+      "this_amiibo": {
+        "rating": 17.737739558065037,
+        "rating_mu": 31.765741053974388,
+        "rating_sigma": 4.6760004986364505,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "9710974f-b8b1-4496-a4ad-3f764ee7b9ed",
+        "name": "Scarlet",
+        "rating": 32.7277288513078,
+        "trainer_id": "52395cd5-7302-493e-a7a9-c0cf640159cd",
+        "trainer_name": "mafriel",
+        "result": "win"
+      }
+    },
+    "2023-07-13T17:00:46.203146+00:00": {
+      "this_amiibo": {
+        "rating": 22.95589876075136,
+        "rating_mu": 35.073665534400156,
+        "rating_sigma": 4.039255591216266,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "106cde0f-2212-478e-adae-fb153fb979dc",
+        "name": "Sephiroth",
+        "rating": 27.442168889692404,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
+        "result": "loss"
+      }
     }
   }
 }

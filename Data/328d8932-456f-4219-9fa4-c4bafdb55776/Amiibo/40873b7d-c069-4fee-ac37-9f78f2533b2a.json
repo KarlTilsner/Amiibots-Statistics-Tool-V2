@@ -89,6 +89,57 @@
         "trainer_name": "smashssf2_ita",
         "result": "loss"
       }
+    },
+    "2023-07-12T10:58:25.929815+00:00": {
+      "this_amiibo": {
+        "rating": 29.191971805900607,
+        "rating_mu": 35.754871097654565,
+        "rating_sigma": 2.1876330972513185,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "bc800e94-2059-4451-809b-a52b2b625189",
+        "name": "16 Kromer",
+        "rating": 30.314857942237488,
+        "trainer_id": "d8574cbf-2422-4b8f-b20c-8c8395a63fb3",
+        "trainer_name": "Dat1Woomy",
+        "result": "win"
+      }
+    },
+    "2023-07-13T14:37:43.943366+00:00": {
+      "this_amiibo": {
+        "rating": 30.200773290954935,
+        "rating_mu": 36.44175771575074,
+        "rating_sigma": 2.0803281415986024,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "e5d29112-7311-4647-b240-809dc10ec939",
+        "name": "nate",
+        "rating": 18.666583038228012,
+        "trainer_id": "a8ec1935-e2e2-4460-b4f4-ad2d5f37fa54",
+        "trainer_name": "thenewamiiboguy",
+        "result": "loss"
+      }
+    },
+    "2023-07-13T03:45:13.215931+00:00": {
+      "this_amiibo": {
+        "rating": 29.813788255212295,
+        "rating_mu": 36.17152077191681,
+        "rating_sigma": 2.119244172234839,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "dabb5ea4-033e-4391-a227-fce0518da718",
+        "name": "Pratt M.D.",
+        "rating": 29.40953571337215,
+        "trainer_id": "558d6371-ada9-4c14-b300-5eecf975ef68",
+        "trainer_name": "deante_ssb",
+        "result": "loss"
+      }
     }
   }
 }

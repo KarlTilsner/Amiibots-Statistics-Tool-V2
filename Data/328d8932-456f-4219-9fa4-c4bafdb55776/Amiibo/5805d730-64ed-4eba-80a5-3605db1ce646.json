@@ -1942,6 +1942,40 @@
         "trainer_name": "nozomup",
         "result": "loss"
       }
+    },
+    "2023-07-12T16:24:19.483356+00:00": {
+      "this_amiibo": {
+        "rating": 37.16079695775129,
+        "rating_mu": 39.78545737606153,
+        "rating_sigma": 0.8748868061034151,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "8f934ff3-3106-489a-bd35-49eb71fc1dd9",
+        "name": "God Slayer",
+        "rating": 36.95510824811261,
+        "trainer_id": "790bfdd9-7935-4d8a-a2ef-e98e39633f80",
+        "trainer_name": "wizard_real",
+        "result": "win"
+      }
+    },
+    "2023-07-13T15:15:40.230635+00:00": {
+      "this_amiibo": {
+        "rating": 37.23395460933019,
+        "rating_mu": 39.856289781653516,
+        "rating_sigma": 0.8741117241077757,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "ea27092d-6cf5-4f3a-a732-4e999ebc7922",
+        "name": "ocky",
+        "rating": 31.38987910321318,
+        "trainer_id": "ed890131-078f-4922-833d-184e448e3e9f",
+        "trainer_name": "rengaza",
+        "result": "loss"
+      }
     }
   }
 }
