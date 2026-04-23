@@ -2350,6 +2350,57 @@
         "trainer_name": "colfon_",
         "result": "loss"
       }
+    },
+    "2024-07-07T05:29:30.782926+00:00": {
+      "this_amiibo": {
+        "rating": 31.56392628789385,
+        "rating_mu": 34.113217228375746,
+        "rating_sigma": 0.8497636468272991,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "9cfbe1b9-4c41-4560-9131-6eb08b087bfe",
+        "name": "Zachinator",
+        "rating": 29.77304643431535,
+        "trainer_id": "c840966a-507d-4219-bd15-d0678aac918b",
+        "trainer_name": "HBH111502",
+        "result": "win"
+      }
+    },
+    "2024-07-07T23:45:24.758736+00:00": {
+      "this_amiibo": {
+        "rating": 31.648409520023517,
+        "rating_mu": 34.194684165004304,
+        "rating_sigma": 0.848758214993596,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "0ac91353-3c5e-4a69-89e5-e2d9bd151f4d",
+        "name": "Riddles Jr",
+        "rating": 30.172146950253886,
+        "trainer_id": "c72590ae-93c9-4132-99b2-b8f957919ed3",
+        "trainer_name": "laurlnus",
+        "result": "loss"
+      }
+    },
+    "2024-07-21T08:00:03.990234+00:00": {
+      "this_amiibo": {
+        "rating": 31.731193869050127,
+        "rating_mu": 34.274596594000386,
+        "rating_sigma": 0.8478009083167526,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "349bdf30-ed8f-4f55-9c76-b0a32c15d2ce",
+        "name": "Dr. Soulja",
+        "rating": 30.381361021663146,
+        "trainer_id": "790bfdd9-7935-4d8a-a2ef-e98e39633f80",
+        "trainer_name": "wizard_real",
+        "result": "loss"
+      }
     }
   }
 }

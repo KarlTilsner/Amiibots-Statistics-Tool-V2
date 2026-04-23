@@ -718,6 +718,57 @@
         "trainer_name": "StaplesTV_",
         "result": "loss"
       }
+    },
+    "2024-06-25T16:55:29.297425+00:00": {
+      "this_amiibo": {
+        "rating": 27.390214150730777,
+        "rating_mu": 31.291492912546822,
+        "rating_sigma": 1.3004262539386813,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "7c285d98-038c-4590-b2a6-d6022fb8ede2",
+        "name": "flowrgobln",
+        "rating": 29.10889604508558,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2024-07-02T06:27:13.207744+00:00": {
+      "this_amiibo": {
+        "rating": 27.222979800937082,
+        "rating_mu": 31.075599803259234,
+        "rating_sigma": 1.2842066674407173,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+        "id": "173ba98f-66ec-467b-8934-e66aa7e2847e",
+        "name": "Gerald",
+        "rating": 29.184895443405637,
+        "trainer_id": "e38c8bde-3fd5-4f26-aa98-691255967e55",
+        "trainer_name": "Bewni",
+        "result": "win"
+      }
+    },
+    "2024-07-15T04:23:30.030299+00:00": {
+      "this_amiibo": {
+        "rating": 27.47518232790119,
+        "rating_mu": 31.2817920260418,
+        "rating_sigma": 1.268869899380203,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+        "id": "173ba98f-66ec-467b-8934-e66aa7e2847e",
+        "name": "Gerald",
+        "rating": 28.190231182996325,
+        "trainer_id": "e38c8bde-3fd5-4f26-aa98-691255967e55",
+        "trainer_name": "Bewni",
+        "result": "loss"
+      }
     }
   }
 }

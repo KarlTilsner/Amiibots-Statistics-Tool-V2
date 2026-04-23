@@ -2333,6 +2333,40 @@
         "trainer_name": "rekcuf_nmad",
         "result": "loss"
       }
+    },
+    "2021-06-22T15:00:57.584810+00:00": {
+      "this_amiibo": {
+        "rating": 20.60514865737595,
+        "rating_mu": 23.41954229750606,
+        "rating_sigma": 0.9381312133767031,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "8b75f161-c354-40e3-ae2e-8650ec14c7f7",
+        "name": "Blue2",
+        "rating": 26.96653166943872,
+        "trainer_id": "4e5c570d-b1a0-46f7-a6a7-ce9b5b125a30",
+        "trainer_name": "BIue_2",
+        "result": "win"
+      }
+    },
+    "2021-06-29T10:59:51.231741+00:00": {
+      "this_amiibo": {
+        "rating": 20.753187129024628,
+        "rating_mu": 23.558159301392287,
+        "rating_sigma": 0.9349907241225534,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "33ca6f5d-8a0a-4391-8a0c-429d62b6feba",
+        "name": "Mercenary",
+        "rating": 16.660735229684754,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "loss"
+      }
     }
   }
 }

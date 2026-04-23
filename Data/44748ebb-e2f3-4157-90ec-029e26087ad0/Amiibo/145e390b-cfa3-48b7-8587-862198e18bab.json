@@ -225,6 +225,40 @@
         "trainer_name": "gsus22",
         "result": "loss"
       }
+    },
+    "2021-06-21T10:51:38.343168+00:00": {
+      "this_amiibo": {
+        "rating": 27.528976251263934,
+        "rating_mu": 34.680279033337904,
+        "rating_sigma": 2.383767594024657,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "e90b8782-fee8-4b26-8a1b-3ebbdb0b8c9e",
+        "name": "Shujin",
+        "rating": 21.173405782294548,
+        "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+        "trainer_name": "Kangoni",
+        "result": "win"
+      }
+    },
+    "2021-06-24T06:49:16.043074+00:00": {
+      "this_amiibo": {
+        "rating": 27.99987389047582,
+        "rating_mu": 34.962005123419,
+        "rating_sigma": 2.32071041098106,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "f435741c-b516-4b1c-a642-0adf2b2434de",
+        "name": "Arnox",
+        "rating": 24.490596642491546,
+        "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
+        "trainer_name": "Lady_Cucco",
+        "result": "loss"
+      }
     }
   }
 }

@@ -208,6 +208,40 @@
         "trainer_name": "StaplesTV_",
         "result": "loss"
       }
+    },
+    "2024-07-17T18:12:28.226192+00:00": {
+      "this_amiibo": {
+        "rating": 4.6624439900300825,
+        "rating_mu": 11.263510488057381,
+        "rating_sigma": 2.200355499342433,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "c9279a57-996a-40d0-9c87-3806d5f80fc1",
+        "name": "Samus",
+        "rating": 10.184909253314945,
+        "trainer_id": "b13170e2-9073-441d-832a-33ba90a0a506",
+        "trainer_name": "ender5045",
+        "result": "win"
+      }
+    },
+    "2024-07-19T11:12:50.879407+00:00": {
+      "this_amiibo": {
+        "rating": 5.646189143804895,
+        "rating_mu": 11.976188663045127,
+        "rating_sigma": 2.109999839746744,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "c9279a57-996a-40d0-9c87-3806d5f80fc1",
+        "name": "Samus",
+        "rating": 9.989553323367229,
+        "trainer_id": "b13170e2-9073-441d-832a-33ba90a0a506",
+        "trainer_name": "ender5045",
+        "result": "loss"
+      }
     }
   }
 }

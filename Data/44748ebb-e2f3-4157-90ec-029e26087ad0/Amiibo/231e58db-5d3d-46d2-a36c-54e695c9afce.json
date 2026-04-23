@@ -344,6 +344,57 @@
         "trainer_name": "leCharade",
         "result": "loss"
       }
+    },
+    "2021-06-23T03:19:13.345490+00:00": {
+      "this_amiibo": {
+        "rating": 19.55764707988742,
+        "rating_mu": 25.87087834004353,
+        "rating_sigma": 2.104410420052036,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "34ae051b-24a7-4f2d-b680-4bb1685c8ac1",
+        "name": "1 PunchMan",
+        "rating": 24.863587065919443,
+        "trainer_id": "7c20e90f-67fe-43c5-a623-83c60ef05858",
+        "trainer_name": "Zizogod",
+        "result": "win"
+      }
+    },
+    "2021-06-25T23:31:27.662081+00:00": {
+      "this_amiibo": {
+        "rating": 19.02056201147352,
+        "rating_mu": 25.07797391733556,
+        "rating_sigma": 2.019137301954013,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "bcab8de8-fdfb-4a85-a2f6-28c7155e78cc",
+        "name": "Rek Strife",
+        "rating": 20.27782070138939,
+        "trainer_id": "de8bfcb6-60de-48e2-8a23-31517707e203",
+        "trainer_name": "rekcuf_nmad",
+        "result": "win"
+      }
+    },
+    "2021-06-26T11:22:28.760099+00:00": {
+      "this_amiibo": {
+        "rating": 18.966221318811257,
+        "rating_mu": 24.937174761168652,
+        "rating_sigma": 1.990317814119131,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "68a4328c-0be1-46e8-abe8-955daede39dd",
+        "name": "Prospit",
+        "rating": 26.75407786156939,
+        "trainer_id": "95c09948-6452-4ce4-b27f-6c73c294c610",
+        "trainer_name": "2Snowblind",
+        "result": "win"
+      }
     }
   }
 }

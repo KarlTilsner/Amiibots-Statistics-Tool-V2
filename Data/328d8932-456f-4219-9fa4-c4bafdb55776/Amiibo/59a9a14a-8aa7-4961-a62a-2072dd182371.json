@@ -5767,6 +5767,57 @@
         "trainer_name": "track8regret",
         "result": "loss"
       }
+    },
+    "2024-06-22T17:02:41.189612+00:00": {
+      "this_amiibo": {
+        "rating": 19.337176397477293,
+        "rating_mu": 21.764413280449755,
+        "rating_sigma": 0.8090789609908201,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "32e3ee62-2b2a-4f39-8b2f-78177d3506ea",
+        "name": "Jade",
+        "rating": 22.423630346478195,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "win"
+      }
+    },
+    "2024-06-25T10:26:26.491684+00:00": {
+      "this_amiibo": {
+        "rating": 19.26124198712538,
+        "rating_mu": 21.690174627486492,
+        "rating_sigma": 0.8096442134537041,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "c615577e-86b6-45db-a49f-ba4052aee5dd",
+        "name": "P.H.D.",
+        "rating": 14.635470567857503,
+        "trainer_id": "59125a80-8551-40b4-ab89-ecb11081b345",
+        "trainer_name": "sevanny",
+        "result": "win"
+      }
+    },
+    "2024-06-25T12:57:50.779918+00:00": {
+      "this_amiibo": {
+        "rating": 19.372487074742928,
+        "rating_mu": 21.79929039208644,
+        "rating_sigma": 0.8089344391145045,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "830282f2-7c32-4cac-b90a-1134b733b199",
+        "name": "Barbarian",
+        "rating": 18.491855155876003,
+        "trainer_id": "71a13158-2491-4805-ab71-01094a714e46",
+        "trainer_name": "DansOtherClone",
+        "result": "loss"
+      }
     }
   }
 }

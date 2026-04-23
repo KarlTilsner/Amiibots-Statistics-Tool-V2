@@ -242,6 +242,40 @@
         "trainer_name": "leCharade",
         "result": "loss"
       }
+    },
+    "2021-06-26T03:52:46.321873+00:00": {
+      "this_amiibo": {
+        "rating": 15.767627750715189,
+        "rating_mu": 23.159946788794947,
+        "rating_sigma": 2.464106346026586,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "3c0286b1-07b1-41c1-9f11-dc87a79fa0b5",
+        "name": "Chesburger",
+        "rating": 30.99559674687541,
+        "trainer_id": "fb659a93-73d7-4f74-aebf-881bd7829482",
+        "trainer_name": "DustBuckit",
+        "result": "win"
+      }
+    },
+    "2021-07-04T12:03:06.769320+00:00": {
+      "this_amiibo": {
+        "rating": 15.769434371971682,
+        "rating_mu": 23.08476818880863,
+        "rating_sigma": 2.4384446056123164,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "b2a0a5e2-1908-41ca-8984-0a10783e3dde",
+        "name": "Ripjaw",
+        "rating": 31.332921944872307,
+        "trainer_id": "b73cffef-c9fc-4a4d-9c1e-2ba84a63d775",
+        "trainer_name": "Precision_Rhythm",
+        "result": "win"
+      }
     }
   }
 }

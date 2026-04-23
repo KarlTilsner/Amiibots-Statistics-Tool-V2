@@ -1806,6 +1806,57 @@
         "trainer_name": "AceTempest172",
         "result": "loss"
       }
+    },
+    "2024-07-02T10:38:56.210727+00:00": {
+      "this_amiibo": {
+        "rating": 30.683226011755362,
+        "rating_mu": 33.48314859429621,
+        "rating_sigma": 0.9333075275136158,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "ff0058f0-9f60-416b-a9dd-b5b9be0404be",
+        "name": "Azrael",
+        "rating": 31.070764112589792,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2024-07-13T00:21:04.864163+00:00": {
+      "this_amiibo": {
+        "rating": 30.814359592291787,
+        "rating_mu": 33.60340296409731,
+        "rating_sigma": 0.929681123935176,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "405652d6-57e8-497e-8185-90aceef27ad4",
+        "name": "Assassin",
+        "rating": 31.065262832149262,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "loss"
+      }
+    },
+    "2024-07-14T12:59:13.234557+00:00": {
+      "this_amiibo": {
+        "rating": 30.942491138924574,
+        "rating_mu": 33.721035682938215,
+        "rating_sigma": 0.9261815146712136,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "ff0058f0-9f60-416b-a9dd-b5b9be0404be",
+        "name": "Azrael",
+        "rating": 31.249665804333482,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "loss"
+      }
     }
   }
 }

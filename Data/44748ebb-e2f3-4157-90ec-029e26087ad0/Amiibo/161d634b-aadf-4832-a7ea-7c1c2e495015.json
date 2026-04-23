@@ -242,6 +242,40 @@
         "trainer_name": "gold_dxj",
         "result": "loss"
       }
+    },
+    "2021-06-22T00:30:42.622491+00:00": {
+      "this_amiibo": {
+        "rating": 13.73971357454681,
+        "rating_mu": 21.708478646897277,
+        "rating_sigma": 2.656255024116822,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "91f3af83-da50-4381-9867-29ab4a7e75c2",
+        "name": "Fenrir",
+        "rating": 9.173480498699298,
+        "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
+        "trainer_name": "LovingStew",
+        "result": "win"
+      }
+    },
+    "2021-07-04T10:49:19.951454+00:00": {
+      "this_amiibo": {
+        "rating": 13.736395748281106,
+        "rating_mu": 21.65865628949376,
+        "rating_sigma": 2.640753513737551,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "fa5d02f7-202a-4c71-ba1b-6d9ddac2bea3",
+        "name": "Punishment",
+        "rating": 23.781739549853775,
+        "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+        "trainer_name": "Competitively2",
+        "result": "win"
+      }
     }
   }
 }
