@@ -15,7 +15,7 @@ skipcounter = 0
 corruptcounter = 0
 
 def fetch_matches():
-    global previous_cursor, latest_scraped_match_date
+    global previous_cursor, latest_scraped_match_date, skipcounter, corruptcounter
 
     # URL Base values
     base_url = "https://www.amiibots.com/api/singles_matches"
