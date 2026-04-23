@@ -905,6 +905,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2021-02-27T04:31:29.272225+00:00": {
+      "this_amiibo": {
+        "rating": 26.91622753785507,
+        "rating_mu": 30.409621395100583,
+        "rating_sigma": 1.1644646190818364,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "72285334-71a8-478f-b2f4-f7c1ce9e118b",
+        "name": "Salt&Pepa",
+        "rating": 23.34420325663654,
+        "trainer_id": "13e66721-7404-4524-9af9-9d2767916a8d",
+        "trainer_name": "NoMoreHamburgerTime",
+        "result": "loss"
+      }
+    },
+    "2021-02-27T21:37:59.273834+00:00": {
+      "this_amiibo": {
+        "rating": 26.73891669732384,
+        "rating_mu": 30.19669702739156,
+        "rating_sigma": 1.152593443355907,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "5610fd0f-49a4-47f8-9ce4-90938c36d8c4",
+        "name": "AlbinoFrog",
+        "rating": 26.626863255172605,
+        "trainer_id": "93f967b4-5933-4e9b-9f67-3d16fd17437f",
+        "trainer_name": "glitched_artist",
+        "result": "win"
+      }
     }
   }
 }

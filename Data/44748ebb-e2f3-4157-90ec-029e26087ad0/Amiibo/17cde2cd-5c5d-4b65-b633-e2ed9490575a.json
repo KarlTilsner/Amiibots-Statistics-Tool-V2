@@ -412,6 +412,40 @@
         "trainer_name": "apple_beebs",
         "result": "loss"
       }
+    },
+    "2021-02-21T11:56:10.900263+00:00": {
+      "this_amiibo": {
+        "rating": 19.32158689236895,
+        "rating_mu": 26.090754796727296,
+        "rating_sigma": 2.256389301452783,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "bd03d5b9-ab6b-4918-98d1-cf9aea0eed33",
+        "name": "Garfield",
+        "rating": 29.976559384029233,
+        "trainer_id": "bc1ee1d6-06ab-4f6e-8441-bd60742bba1e",
+        "trainer_name": "snas_undertoles",
+        "result": "win"
+      }
+    },
+    "2021-02-25T04:55:53.549189+00:00": {
+      "this_amiibo": {
+        "rating": 19.807035611531344,
+        "rating_mu": 26.421608670013292,
+        "rating_sigma": 2.2048576861606497,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
+        "id": "18222fa5-fe19-4c19-9aee-260a0336a9dc",
+        "name": "CWC",
+        "rating": 10.187082317125322,
+        "trainer_id": "3fabe039-1087-4290-afb8-fd2ab3a1f5f6",
+        "trainer_name": "SitraSSB",
+        "result": "loss"
+      }
     }
   }
 }

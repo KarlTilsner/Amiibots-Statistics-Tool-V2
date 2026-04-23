@@ -1806,6 +1806,57 @@
         "trainer_name": "pfpickles",
         "result": "loss"
       }
+    },
+    "2023-08-25T00:01:28.361389+00:00": {
+      "this_amiibo": {
+        "rating": 19.66131556978967,
+        "rating_mu": 22.437354050351097,
+        "rating_sigma": 0.9253461601871421,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "5890bf1d-d800-43b2-b876-6fe965259798",
+        "name": "LoneSword",
+        "rating": 15.96051995969047,
+        "trainer_id": "fdef585b-96e2-4ebe-93c3-82641f2cefd3",
+        "trainer_name": "yendekai",
+        "result": "win"
+      }
+    },
+    "2023-08-26T21:06:19.706145+00:00": {
+      "this_amiibo": {
+        "rating": 19.76895879693574,
+        "rating_mu": 22.541597553930266,
+        "rating_sigma": 0.924212918998176,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "183e14ff-6dec-4a57-9bee-c6b729cddacc",
+        "name": "JB",
+        "rating": 9.630008947496023,
+        "trainer_id": "799c290d-4ab5-4f35-b859-0c4e7b0234a7",
+        "trainer_name": "bl_bk_44",
+        "result": "loss"
+      }
+    },
+    "2023-08-26T23:27:56.167412+00:00": {
+      "this_amiibo": {
+        "rating": 19.919176344131877,
+        "rating_mu": 22.68098313302719,
+        "rating_sigma": 0.9206022629651041,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "d6ccc18b-c106-4575-a9bb-475cf3798eca",
+        "name": "S.Popinski",
+        "rating": 19.46460311867998,
+        "trainer_id": "ec78dc00-97ce-48d8-bee8-f43401bf1191",
+        "trainer_name": "lugibalugi",
+        "result": "loss"
+      }
     }
   }
 }

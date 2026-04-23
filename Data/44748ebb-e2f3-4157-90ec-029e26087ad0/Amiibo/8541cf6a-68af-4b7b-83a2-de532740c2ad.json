@@ -208,6 +208,40 @@
         "trainer_name": "qscxz512",
         "result": "loss"
       }
+    },
+    "2021-02-24T22:36:12.695990+00:00": {
+      "this_amiibo": {
+        "rating": 18.967319480981494,
+        "rating_mu": 26.068685452768758,
+        "rating_sigma": 2.3671219905957543,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+        "id": "3685658b-fb60-4b5e-b5fb-aa5ee89e9c6c",
+        "name": "BrassMonké",
+        "rating": 19.928179963672896,
+        "trainer_id": "3fabe039-1087-4290-afb8-fd2ab3a1f5f6",
+        "trainer_name": "SitraSSB",
+        "result": "win"
+      }
+    },
+    "2021-02-25T13:27:49.254033+00:00": {
+      "this_amiibo": {
+        "rating": 20.145653055030227,
+        "rating_mu": 26.91207115513053,
+        "rating_sigma": 2.2554727000334345,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "fd3ac966-86e0-44a5-a2f5-9e8dcdef4469",
+        "name": "Walter",
+        "rating": 24.34532788784772,
+        "trainer_id": "a8142203-b80a-4b67-bef0-502f842195b1",
+        "trainer_name": "birbofbirb",
+        "result": "loss"
+      }
     }
   }
 }

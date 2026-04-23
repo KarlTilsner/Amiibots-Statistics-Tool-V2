@@ -803,6 +803,40 @@
         "trainer_name": "wizard_real",
         "result": "loss"
       }
+    },
+    "2023-09-13T20:03:00.229811+00:00": {
+      "this_amiibo": {
+        "rating": 21.957595681498095,
+        "rating_mu": 25.606105934940746,
+        "rating_sigma": 1.216170084480884,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "82c94b6a-49e9-4865-aeb4-1013b116ba6e",
+        "name": "Waveshine",
+        "rating": 23.313994113996458,
+        "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
+        "trainer_name": "raid_boss_09",
+        "result": "win"
+      }
+    },
+    "2023-09-26T15:40:15.415487+00:00": {
+      "this_amiibo": {
+        "rating": 22.17797892395358,
+        "rating_mu": 25.789600767974715,
+        "rating_sigma": 1.2038739480070448,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "7a58e8b2-f834-4575-ae0d-7cfeeb3bea6a",
+        "name": "Ted",
+        "rating": 21.806668823446273,
+        "trainer_id": "f7174ec3-b533-49f6-8746-af9abb18be67",
+        "trainer_name": "ZayinGamer",
+        "result": "loss"
+      }
     }
   }
 }

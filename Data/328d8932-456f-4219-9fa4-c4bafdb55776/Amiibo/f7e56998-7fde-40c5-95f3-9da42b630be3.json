@@ -599,6 +599,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2023-08-26T04:58:50.122123+00:00": {
+      "this_amiibo": {
+        "rating": 26.942920232072883,
+        "rating_mu": 31.21847073852148,
+        "rating_sigma": 1.425183502149532,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "d0763652-bf88-42db-8f0e-5407ea3a4d4f",
+        "name": "Soul Edge",
+        "rating": 20.793810686004335,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "loss"
+      }
+    },
+    "2023-08-29T08:24:15.923061+00:00": {
+      "this_amiibo": {
+        "rating": 26.74138483014712,
+        "rating_mu": 30.94987931920969,
+        "rating_sigma": 1.4028314963541901,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "1af453b6-b540-4f2c-a0a2-ac106f2b1abc",
+        "name": "Acecalibur",
+        "rating": 27.962615933684233,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
     }
   }
 }

@@ -582,6 +582,57 @@
         "trainer_name": "staples___",
         "result": "loss"
       }
+    },
+    "2021-02-24T09:28:23.256351+00:00": {
+      "this_amiibo": {
+        "rating": 20.4604316277673,
+        "rating_mu": 25.130457707446208,
+        "rating_sigma": 1.5566753598929692,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "54d110a8-fb77-47dd-8e66-6f941722b633",
+        "name": "Academia",
+        "rating": 30.637425925065738,
+        "trainer_id": "ab4f37d8-cc78-43da-97be-708516d98233",
+        "trainer_name": "tschmid22",
+        "result": "win"
+      }
+    },
+    "2021-02-24T11:57:31.062296+00:00": {
+      "this_amiibo": {
+        "rating": 20.947030636351055,
+        "rating_mu": 25.524423827189466,
+        "rating_sigma": 1.5257977302794699,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
+        "id": "4b6720fc-2f2d-4d37-b1e8-bc223e34e2e3",
+        "name": "Samurai X",
+        "rating": 21.12402989692395,
+        "trainer_id": "3e1642f4-3a61-4225-bd2d-d551616be0fa",
+        "trainer_name": "doopfizzle",
+        "result": "loss"
+      }
+    },
+    "2021-02-26T14:47:32.585051+00:00": {
+      "this_amiibo": {
+        "rating": 21.21529866259931,
+        "rating_mu": 25.72813370525247,
+        "rating_sigma": 1.5042783475510535,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "66525e1e-072f-4b83-9b33-2bec331acce0",
+        "name": "Blooper",
+        "rating": 16.986600020428927,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
     }
   }
 }

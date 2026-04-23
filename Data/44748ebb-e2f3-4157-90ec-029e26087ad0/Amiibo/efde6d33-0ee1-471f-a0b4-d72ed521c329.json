@@ -463,6 +463,40 @@
         "trainer_name": "MiDe1",
         "result": "loss"
       }
+    },
+    "2021-02-22T18:17:36.228787+00:00": {
+      "this_amiibo": {
+        "rating": 20.440011584305203,
+        "rating_mu": 25.30262054223292,
+        "rating_sigma": 1.6208696526425712,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "2bd9bd4f-6dd2-4acf-bc7f-379be3000535",
+        "name": "Big Bird",
+        "rating": 27.390457475018156,
+        "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
+        "trainer_name": "Murbert_AM",
+        "result": "win"
+      }
+    },
+    "2021-02-24T18:35:22.291280+00:00": {
+      "this_amiibo": {
+        "rating": 20.8497930349,
+        "rating_mu": 25.618462785295648,
+        "rating_sigma": 1.5895565834652166,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
+        "id": "2700af52-a923-40ff-aedc-8d8821721b3d",
+        "name": "AutoBots",
+        "rating": 19.510257010227477,
+        "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
+        "trainer_name": "rurpking22",
+        "result": "loss"
+      }
     }
   }
 }

@@ -174,6 +174,40 @@
         "trainer_name": "Azend_1",
         "result": "loss"
       }
+    },
+    "2023-09-09T17:31:59.168280+00:00": {
+      "this_amiibo": {
+        "rating": 24.384152624800095,
+        "rating_mu": 31.170457718038698,
+        "rating_sigma": 2.2621016977462016,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "30695522-350c-4bee-961d-bfc641d40058",
+        "name": "ヒカリ",
+        "rating": 28.436474531497158,
+        "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
+        "trainer_name": "Pi_Boy_314",
+        "result": "win"
+      }
+    },
+    "2023-09-21T05:57:04.520049+00:00": {
+      "this_amiibo": {
+        "rating": 23.967040863508252,
+        "rating_mu": 30.4805365964762,
+        "rating_sigma": 2.1711652443226486,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "9f8d80fc-133d-4806-b4c4-29def6e4602c",
+        "name": "Altaria",
+        "rating": 26.026712819860943,
+        "trainer_id": "74b11748-df73-4895-a914-7f048a54ecc8",
+        "trainer_name": "Dempsey342",
+        "result": "win"
+      }
     }
   }
 }

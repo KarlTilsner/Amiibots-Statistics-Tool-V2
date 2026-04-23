@@ -157,6 +157,40 @@
         "trainer_name": "Rem1dis",
         "result": "loss"
       }
+    },
+    "2021-02-21T12:03:47.445731+00:00": {
+      "this_amiibo": {
+        "rating": 15.109427809236879,
+        "rating_mu": 23.52338886171682,
+        "rating_sigma": 2.8046536841599807,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "7056e8bf-61cb-4018-b545-853a574d3ce4",
+        "name": "Predaking",
+        "rating": 22.523427900215673,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "win"
+      }
+    },
+    "2021-02-21T17:52:53.018752+00:00": {
+      "this_amiibo": {
+        "rating": 14.75494321414832,
+        "rating_mu": 22.991232424763616,
+        "rating_sigma": 2.745429736871766,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "ee31d9c0-ee90-4839-9298-73f2322f0cc8",
+        "name": "Speakless",
+        "rating": 9.946145823363175,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "win"
+      }
     }
   }
 }

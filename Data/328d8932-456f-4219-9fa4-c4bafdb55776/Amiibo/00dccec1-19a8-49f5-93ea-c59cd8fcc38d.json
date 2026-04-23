@@ -1483,6 +1483,57 @@
         "trainer_name": "wizard_real",
         "result": "loss"
       }
+    },
+    "2023-08-25T12:50:41.479942+00:00": {
+      "this_amiibo": {
+        "rating": 36.13458495878735,
+        "rating_mu": 38.94062486131305,
+        "rating_sigma": 0.9353466341752318,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
+        "name": "Hero",
+        "rating": 35.95674055748062,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "loss"
+      }
+    },
+    "2023-09-07T03:30:32.740360+00:00": {
+      "this_amiibo": {
+        "rating": 36.24826130491515,
+        "rating_mu": 39.04581101574912,
+        "rating_sigma": 0.9325165702779927,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "f6d70b5e-28fa-4443-b992-1f77c04674d8",
+        "name": "TurtleSoup",
+        "rating": 32.35880050273125,
+        "trainer_id": "74b11748-df73-4895-a914-7f048a54ecc8",
+        "trainer_name": "Dempsey342",
+        "result": "loss"
+      }
+    },
+    "2023-09-14T15:51:05.251433+00:00": {
+      "this_amiibo": {
+        "rating": 36.13538756984284,
+        "rating_mu": 38.92246630391915,
+        "rating_sigma": 0.9290262446921024,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "f6d70b5e-28fa-4443-b992-1f77c04674d8",
+        "name": "TurtleSoup",
+        "rating": 34.536146257617546,
+        "trainer_id": "74b11748-df73-4895-a914-7f048a54ecc8",
+        "trainer_name": "Dempsey342",
+        "result": "win"
+      }
     }
   }
 }

@@ -1007,6 +1007,40 @@
         "trainer_name": "panflash",
         "result": "loss"
       }
+    },
+    "2021-02-21T13:55:02.243484+00:00": {
+      "this_amiibo": {
+        "rating": 27.47680535591698,
+        "rating_mu": 31.485470123031288,
+        "rating_sigma": 1.3362215890381033,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "ddd3cbd8-9862-4d0d-95ba-aefdb1afa96c",
+        "name": "The Metal",
+        "rating": 33.107010165897826,
+        "trainer_id": "280c4d25-34f7-4e2f-a2a4-b085faf86b60",
+        "trainer_name": "gsus22",
+        "result": "win"
+      }
+    },
+    "2021-02-27T04:03:11.430734+00:00": {
+      "this_amiibo": {
+        "rating": 27.846118205246587,
+        "rating_mu": 31.79447073678555,
+        "rating_sigma": 1.3161175105129872,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "d7caedb7-02a6-4b03-881b-0df9b286d64b",
+        "name": "Poop Lady",
+        "rating": 29.92954153404295,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "loss"
+      }
     }
   }
 }
