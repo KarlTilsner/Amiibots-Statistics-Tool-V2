@@ -21,6 +21,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2023-07-14T23:38:26.299810+00:00": {
+      "this_amiibo": {
+        "rating": 10.733978566108139,
+        "rating_mu": 26.051556091572607,
+        "rating_sigma": 5.105859175154823,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "3d81688a-cd7b-4f0c-b5b4-3df1463c5012",
+        "name": "Chief Leaf",
+        "rating": 26.26067413616035,
+        "trainer_id": "b2d4f8ba-040d-4121-af64-e1b950939672",
+        "trainer_name": "KeepThatCoin",
+        "result": "win"
+      }
+    },
+    "2023-07-15T19:53:59.661113+00:00": {
+      "this_amiibo": {
+        "rating": 10.397973845769773,
+        "rating_mu": 23.547457120097036,
+        "rating_sigma": 4.383161091442421,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "375165e6-0208-41a6-8c29-92670a8580bc",
+        "name": "BRAWL Σ",
+        "rating": 24.188196143936064,
+        "trainer_id": "790bfdd9-7935-4d8a-a2ef-e98e39633f80",
+        "trainer_name": "wizard_real",
+        "result": "win"
+      }
     }
   }
 }
