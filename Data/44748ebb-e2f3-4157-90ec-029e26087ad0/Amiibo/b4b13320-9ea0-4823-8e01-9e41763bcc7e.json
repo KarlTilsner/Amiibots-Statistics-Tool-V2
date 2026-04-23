@@ -225,6 +225,57 @@
         "trainer_name": "1dusky1",
         "result": "loss"
       }
+    },
+    "2021-04-07T00:52:07.684868+00:00": {
+      "this_amiibo": {
+        "rating": 18.67409303434912,
+        "rating_mu": 25.806667791399878,
+        "rating_sigma": 2.3775249190169188,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "2b7ead03-176d-439a-97b6-96ee9cb2b7af",
+        "name": "hero",
+        "rating": 22.304982967075677,
+        "trainer_id": "1b72bb0c-eef4-457d-bd85-69cc7c2cd24b",
+        "trainer_name": "trollmaster__",
+        "result": "win"
+      }
+    },
+    "2021-04-07T11:03:38.541707+00:00": {
+      "this_amiibo": {
+        "rating": 20.529561614665695,
+        "rating_mu": 27.260975771130642,
+        "rating_sigma": 2.2438047188216497,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "a631bb23-ea8a-46a6-89e9-72ac6a6779eb",
+        "name": "Dr. Stein",
+        "rating": 29.12489352302188,
+        "trainer_id": "842fd55b-5c9f-4914-820e-99639a5ccf96",
+        "trainer_name": "littlefang__",
+        "result": "loss"
+      }
+    },
+    "2021-04-07T19:39:31.520450+00:00": {
+      "this_amiibo": {
+        "rating": 20.364861723402434,
+        "rating_mu": 26.903032986119264,
+        "rating_sigma": 2.1793904209056096,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "deffff12-074e-47a4-b29d-27ee4c248f9a",
+        "name": "AlbinoFire",
+        "rating": 26.467058959106517,
+        "trainer_id": "93f967b4-5933-4e9b-9f67-3d16fd17437f",
+        "trainer_name": "glitched_artist",
+        "result": "win"
+      }
     }
   }
 }

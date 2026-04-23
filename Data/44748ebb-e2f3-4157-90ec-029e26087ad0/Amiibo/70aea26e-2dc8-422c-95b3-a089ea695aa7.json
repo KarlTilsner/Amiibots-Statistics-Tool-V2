@@ -446,6 +446,57 @@
         "trainer_name": "fammydamammy",
         "result": "loss"
       }
+    },
+    "2021-04-16T22:56:21.952506+00:00": {
+      "this_amiibo": {
+        "rating": 27.093804816542566,
+        "rating_mu": 32.905820265462275,
+        "rating_sigma": 1.937338482973236,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "dd41426f-e898-4d50-ac48-22a10122a7c7",
+        "name": "Chess",
+        "rating": 26.612279291624642,
+        "trainer_id": "3388d666-674d-404e-b6ea-96a6f0e4f893",
+        "trainer_name": "Bodhiston",
+        "result": "win"
+      }
+    },
+    "2021-04-20T11:21:55.966936+00:00": {
+      "this_amiibo": {
+        "rating": 27.551176700911135,
+        "rating_mu": 33.225065533582494,
+        "rating_sigma": 1.89129627755712,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fa1ac3ba-0880-483b-b94e-9b4952e3f999",
+        "id": "4bded482-d113-4b66-bdc4-15ad60cff0e2",
+        "name": "UnkCaliber",
+        "rating": 25.137626883222374,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "loss"
+      }
+    },
+    "2021-04-20T19:50:11.328812+00:00": {
+      "this_amiibo": {
+        "rating": 27.821983329126805,
+        "rating_mu": 33.401191005004875,
+        "rating_sigma": 1.8597358919593567,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "1080956a-3f38-4091-8916-4d0299d53fa5",
+        "name": "Master M.",
+        "rating": 23.603668947506833,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "loss"
+      }
     }
   }
 }

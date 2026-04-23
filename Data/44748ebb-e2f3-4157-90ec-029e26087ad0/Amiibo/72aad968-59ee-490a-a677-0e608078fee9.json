@@ -1,0 +1,43 @@
+{
+  "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+  "id": "72aad968-59ee-490a-a677-0e608078fee9",
+  "name": "TennisBall",
+  "trainer_id": "fe0492ad-ab1c-4d15-ad7e-94ba05390faa",
+  "trainer_name": "TheCorviking",
+  "matches": {
+    "2021-04-11T09:38:55.387342+00:00": {
+      "this_amiibo": {
+        "rating": 0.9593903674802959,
+        "rating_mu": 23.46737533475079,
+        "rating_sigma": 7.502661655756832,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "32b28ce9-d423-4482-9270-8b7c25945648",
+        "name": "Yzeria",
+        "rating": 25.43506117894633,
+        "trainer_id": "57b78886-3962-42ea-9e7d-7091b402d1e6",
+        "trainer_name": "HexLunare",
+        "result": "win"
+      }
+    },
+    "2021-04-12T17:08:27.035411+00:00": {
+      "this_amiibo": {
+        "rating": 1.370882422278914,
+        "rating_mu": 19.595434140405366,
+        "rating_sigma": 6.074850572708818,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "b98528a4-dc08-41f5-ae72-98d6f8788e3a",
+        "name": "Cromulent",
+        "rating": 18.908721944874188,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
+    }
+  }
+}

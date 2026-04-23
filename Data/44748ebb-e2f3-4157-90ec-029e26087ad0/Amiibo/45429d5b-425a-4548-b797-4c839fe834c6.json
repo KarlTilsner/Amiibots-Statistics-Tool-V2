@@ -1755,6 +1755,57 @@
         "trainer_name": "MentL_",
         "result": "loss"
       }
+    },
+    "2021-04-11T00:04:19.942405+00:00": {
+      "this_amiibo": {
+        "rating": 26.067645969077063,
+        "rating_mu": 28.889478562064347,
+        "rating_sigma": 0.9406108643290948,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "c7b176e0-72dd-4571-9e67-f4888a095dbd",
+        "name": "Dino-Sore",
+        "rating": 24.043084026304065,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "staples___",
+        "result": "win"
+      }
+    },
+    "2021-04-18T16:26:55.778305+00:00": {
+      "this_amiibo": {
+        "rating": 26.078879964894714,
+        "rating_mu": 28.905576114879025,
+        "rating_sigma": 0.9422320499947706,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "af4c9b56-5d68-4e27-8d28-394d2bbbd246",
+        "name": "MonkeBonk",
+        "rating": 11.870427020055368,
+        "trainer_id": "21c4821b-dc6c-407c-bd6c-dd0602f660ca",
+        "trainer_name": "Ausator",
+        "result": "loss"
+      }
+    },
+    "2021-04-22T01:43:49.646473+00:00": {
+      "this_amiibo": {
+        "rating": 26.04542967743093,
+        "rating_mu": 28.872915754791865,
+        "rating_sigma": 0.9424953591203109,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "1508f815-d6ed-4724-8c0c-2c139b12cb26",
+        "name": "Shrowd",
+        "rating": 30.351374412518073,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
     }
   }
 }
