@@ -157,6 +157,40 @@
         "trainer_name": "UltraDPG",
         "result": "loss"
       }
+    },
+    "2021-05-13T04:20:51.378556+00:00": {
+      "this_amiibo": {
+        "rating": 15.319105369617493,
+        "rating_mu": 23.65618605921764,
+        "rating_sigma": 2.779026896533382,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "03d250c3-065c-4047-a486-4098d4e0a412",
+        "name": "G.I. Jones",
+        "rating": 23.07244407601051,
+        "trainer_id": "b73cffef-c9fc-4a4d-9c1e-2ba84a63d775",
+        "trainer_name": "Precision_Rhythm",
+        "result": "win"
+      }
+    },
+    "2021-05-17T06:31:30.026940+00:00": {
+      "this_amiibo": {
+        "rating": 17.292831749217775,
+        "rating_mu": 25.083261288413173,
+        "rating_sigma": 2.5968098463984663,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "506faaeb-a74a-4ba1-a44d-48dfe23e65ca",
+        "name": "NightHawk…",
+        "rating": 22.11213327793198,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "loss"
+      }
     }
   }
 }

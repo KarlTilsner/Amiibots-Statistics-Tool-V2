@@ -1,0 +1,43 @@
+{
+  "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
+  "id": "24e9bef3-4e8a-4fe0-8038-8a4bfbd85691",
+  "name": "Geico",
+  "trainer_id": "4fb503b0-bb7e-4351-a746-e2b49845f49a",
+  "trainer_name": "dabuffalo457",
+  "matches": {
+    "2021-05-07T06:26:01.569409+00:00": {
+      "this_amiibo": {
+        "rating": 0.4563878128714194,
+        "rating_mu": 19.776816926958723,
+        "rating_sigma": 6.440143038029102,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "b3ec7e74-6ef4-4e61-803f-26708f59d2fe",
+        "name": "Takeo",
+        "rating": 19.142908804388895,
+        "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+        "trainer_name": "Kangoni",
+        "result": "win"
+      }
+    },
+    "2021-05-07T15:32:43.917027+00:00": {
+      "this_amiibo": {
+        "rating": 3.8733041285553043,
+        "rating_mu": 21.27817459225128,
+        "rating_sigma": 5.801623487898659,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "115fc59e-5534-4a9c-b521-5ea7ac014b5d",
+        "name": "NO CONTEST",
+        "rating": -0.10741797098147465,
+        "trainer_id": "de6653cb-e31e-46dd-bd08-6068b56a543d",
+        "trainer_name": "Fernando___",
+        "result": "loss"
+      }
+    }
+  }
+}

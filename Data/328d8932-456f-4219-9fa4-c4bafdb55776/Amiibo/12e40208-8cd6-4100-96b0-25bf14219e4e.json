@@ -55,6 +55,40 @@
         "trainer_name": "smashssf2_ita",
         "result": "loss"
       }
+    },
+    "2024-04-04T20:25:13.070482+00:00": {
+      "this_amiibo": {
+        "rating": 19.64344073963955,
+        "rating_mu": 31.870686316117176,
+        "rating_sigma": 4.075748525492541,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "f95fe600-67cf-4ae5-862c-4bcba2e3cf50",
+        "name": "Dallas",
+        "rating": 23.972588002239856,
+        "trainer_id": "6a92a875-ad10-4927-9ac9-43f4cea3e878",
+        "trainer_name": "ArkansasAFC",
+        "result": "loss"
+      }
+    },
+    "2024-04-09T11:13:09.153836+00:00": {
+      "this_amiibo": {
+        "rating": 19.324369546494992,
+        "rating_mu": 30.37801604396494,
+        "rating_sigma": 3.6845488324899827,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7",
+        "id": "9157df31-8b42-41a7-91a5-0165dc104582",
+        "name": "Soarin'",
+        "rating": 30.175360715103473,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "win"
+      }
     }
   }
 }

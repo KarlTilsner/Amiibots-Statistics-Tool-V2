@@ -4832,6 +4832,74 @@
         "trainer_name": "UltraDPG",
         "result": "loss"
       }
+    },
+    "2021-05-08T17:31:34.304708+00:00": {
+      "this_amiibo": {
+        "rating": 26.551708654453833,
+        "rating_mu": 29.060829546492442,
+        "rating_sigma": 0.8363736306795366,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "c604d381-2c60-45c5-a49d-a18dcd2d5d3f",
+        "name": "Not Mario",
+        "rating": 25.458246283744884,
+        "trainer_id": "1a40b865-6138-4324-b2d6-f23b1fb07270",
+        "trainer_name": "Linkushi_mario",
+        "result": "win"
+      }
+    },
+    "2021-05-14T23:09:32.475226+00:00": {
+      "this_amiibo": {
+        "rating": 26.511685256248025,
+        "rating_mu": 29.024362611152142,
+        "rating_sigma": 0.8375591183013723,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "5a00427a-672e-42ea-9d71-984286091f59",
+        "name": "Netflix",
+        "rating": 28.573688494411115,
+        "trainer_id": "4e0b1a09-8773-4516-b77d-140dd3c8e9f2",
+        "trainer_name": "BIack_Birds",
+        "result": "win"
+      }
+    },
+    "2021-05-15T12:44:05.604596+00:00": {
+      "this_amiibo": {
+        "rating": 26.457400250187384,
+        "rating_mu": 28.97082202628685,
+        "rating_sigma": 0.8378072586998216,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+        "id": "13c7e753-3030-4418-af52-6032d87d0d9d",
+        "name": "Guh-huh",
+        "rating": 28.566333319298906,
+        "trainer_id": "dceebd05-b83b-44e7-a3eb-375e6a706602",
+        "trainer_name": "rustydustyj",
+        "result": "win"
+      }
+    },
+    "2021-05-19T18:34:59.892498+00:00": {
+      "this_amiibo": {
+        "rating": 26.642508652835573,
+        "rating_mu": 29.151411592790883,
+        "rating_sigma": 0.8363009799851024,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "9525d864-a80f-45c9-86c7-5537c584a67b",
+        "name": "Cidney",
+        "rating": 26.790921229055527,
+        "trainer_id": "046b6cbc-d2e8-4317-a680-a2e5b4b18bb0",
+        "trainer_name": "PrinZofGaymes",
+        "result": "loss"
+      }
     }
   }
 }

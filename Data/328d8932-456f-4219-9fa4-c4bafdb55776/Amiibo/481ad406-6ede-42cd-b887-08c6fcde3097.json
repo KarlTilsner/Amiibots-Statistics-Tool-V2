@@ -2316,6 +2316,57 @@
         "trainer_name": "improv_195",
         "result": "loss"
       }
+    },
+    "2024-03-27T03:14:57.741704+00:00": {
+      "this_amiibo": {
+        "rating": 32.90171194112001,
+        "rating_mu": 35.363196515730934,
+        "rating_sigma": 0.8204948582036402,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "d6430bc1-95a2-46e7-bf83-951643d852a8",
+        "name": "Crouch",
+        "rating": 32.961308595938696,
+        "trainer_id": "86912f99-fb6b-4c7d-af81-8700867a6f46",
+        "trainer_name": "viktex",
+        "result": "win"
+      }
+    },
+    "2024-03-28T23:40:56.585872+00:00": {
+      "this_amiibo": {
+        "rating": 32.99573931948878,
+        "rating_mu": 35.45491082925258,
+        "rating_sigma": 0.8197238365879347,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "d6430bc1-95a2-46e7-bf83-951643d852a8",
+        "name": "Crouch",
+        "rating": 32.86896764964096,
+        "trainer_id": "86912f99-fb6b-4c7d-af81-8700867a6f46",
+        "trainer_name": "viktex",
+        "result": "loss"
+      }
+    },
+    "2024-04-04T11:39:11.040118+00:00": {
+      "this_amiibo": {
+        "rating": 32.90182783378865,
+        "rating_mu": 35.35844198371424,
+        "rating_sigma": 0.8188713833085304,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "6058b6d8-3d5b-4886-a20c-00ad7d3f9eab",
+        "name": "Hydrangea",
+        "rating": 32.344221953470864,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
     }
   }
 }

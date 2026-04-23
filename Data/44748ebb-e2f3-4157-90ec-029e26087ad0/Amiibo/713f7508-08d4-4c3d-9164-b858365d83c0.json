@@ -956,6 +956,40 @@
         "trainer_name": "AceTempest172",
         "result": "loss"
       }
+    },
+    "2021-05-09T14:39:32.132666+00:00": {
+      "this_amiibo": {
+        "rating": 22.359351599093063,
+        "rating_mu": 26.033483993342813,
+        "rating_sigma": 1.2247107980832501,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "512739fd-ef89-4306-be6f-b7ec159236d8",
+        "name": "King Croco",
+        "rating": 22.83723803623692,
+        "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
+        "trainer_name": "RockMyRole",
+        "result": "win"
+      }
+    },
+    "2021-05-15T05:02:10.799423+00:00": {
+      "this_amiibo": {
+        "rating": 22.391825451530238,
+        "rating_mu": 26.0629324871409,
+        "rating_sigma": 1.2237023452035538,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "fb9e6937-de9f-49c1-8ca9-d76dbd472bce",
+        "name": "Raven",
+        "rating": 1.2795488262798713,
+        "trainer_id": "43cffe5f-d305-452b-a9de-fdff2396f7c3",
+        "trainer_name": "UltraDPG",
+        "result": "loss"
+      }
     }
   }
 }

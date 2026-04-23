@@ -72,6 +72,74 @@
         "trainer_name": "DONkL",
         "result": "loss"
       }
+    },
+    "2021-05-15T03:01:16.913359+00:00": {
+      "this_amiibo": {
+        "rating": 17.595292803691294,
+        "rating_mu": 28.49081507697321,
+        "rating_sigma": 3.6318407577606386,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "efba1ef6-dcc9-40f2-a4fd-c39e849e1571",
+        "name": "John Doe",
+        "rating": 26.971394251177628,
+        "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+        "trainer_name": "fammydamammy",
+        "result": "win"
+      }
+    },
+    "2021-05-15T01:24:55.285889+00:00": {
+      "this_amiibo": {
+        "rating": 17.787982701951826,
+        "rating_mu": 29.568453180941944,
+        "rating_sigma": 3.926823492996706,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "ec1f2df5-3da7-4473-abdb-50c7b6654ac3",
+        "name": "Paprika",
+        "rating": 25.445692670245307,
+        "trainer_id": "cca06393-73dc-4ce7-9bcf-819a4585ad8a",
+        "trainer_name": "Forcebendier",
+        "result": "loss"
+      }
+    },
+    "2021-05-18T06:59:57.544942+00:00": {
+      "this_amiibo": {
+        "rating": 19.975526266515047,
+        "rating_mu": 29.94110385948852,
+        "rating_sigma": 3.3218591976578242,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "28d281b0-5d7f-4f8c-801d-0cb470cd2d0d",
+        "name": "Hermey",
+        "rating": 22.863935847322185,
+        "trainer_id": "3e1642f4-3a61-4225-bd2d-d551616be0fa",
+        "trainer_name": "doopfizzle",
+        "result": "loss"
+      }
+    },
+    "2021-05-18T15:01:02.790964+00:00": {
+      "this_amiibo": {
+        "rating": 19.440189070218892,
+        "rating_mu": 28.61820373468443,
+        "rating_sigma": 3.0593382214885114,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "9dfe33d5-49db-408a-9c5a-375ea3e08855",
+        "name": "Reinhardt",
+        "rating": 27.11388918502118,
+        "trainer_id": "7ff68788-3366-489f-9efd-bb3c16421574",
+        "trainer_name": "VocalFan",
+        "result": "win"
+      }
     }
   }
 }
