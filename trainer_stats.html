@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UFT-8">
+        <meta name="Amiibots Statistics Tool" content="width = device-width", initial-scale = "1.0">
+        <title>Amiibots Statistics Tool</title>
+
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+
+        <link rel="stylesheet" href="css/styles.css">
+        
+        <script defer src="js/trainer_stats.js"></script>
+        <script defer src="js/versionNumber.js"></script>
+        <script defer src="js/navBarElement.js"></script>
+        <script defer src="js/search_history.js"></script>
+
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-datalabels/2.2.0/chartjs-plugin-datalabels.min.js" 
+                integrity="sha512-JPcRR8yFa8mmCsfrw4TNte1ZvF1e3+1SdGMslZvmrzDYxS69J7J49vkFL8u6u8PlPJK+H3voElBtUCzaXj+6ig==" 
+                crossorigin="anonymous" 
+                referrerpolicy="no-referrer"></script>
+    </head>
+
+
+
+
+
+    <body>
+
+        <nav class="navbar" id="documentNavbar"></nav>
+
+        
+
+        <main>
+            <div class="header">
+                <div>
+                    <h1 class="title">Amiibots Statistics Tool<span class="subtitle"> / Trainer Stats</span></h1>
+
+                    <p class="version" id="versionNo"></p>
+                </div>
+
+                <div class="search_history_button" onclick="toggleVisibility()">
+                    <img class="search_history_icon" src="images/icon_search_history.png">
+                </div>
+
+            </div>
+
+
+
+            <div class="block" id="searchHistoryDropdown" style="display: none;">
+                <div class="container">
+                    <h1 style="margin-left: 1rem; margin-right: 1rem; border-bottom: 1px solid rgba(200, 200, 200, 0.2);">Search History</h1>
+                    <div class="even_padding">
+                        <div class="flex_list_container" id="searchHistoryDropdownContent"></div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="block flex_container">
+                <div class="container search_bar">
+                    <form>
+                        <input type="text" id="trainer_id" name="trainer_id" placeholder="Enter Your Trainer ID Here" required>
+                        
+                        <div class="search_buttons">
+                            <input type="button" value="Get Trainer Stats" class="generate_graph main_search" id="button" onclick="updateTrainerID();" required></form>
+                        </div>
+                    </form>
+                </div>
+
+                <select class="ruleset_dropdownMenu" id="selectTierDropdown">
+                    <option class="dropdownMenuOption" value="44748ebb-e2f3-4157-90ec-029e26087ad0">Ruleset: Vanilla</option>
+                    <option class="dropdownMenuOption" value="328d8932-456f-4219-9fa4-c4bafdb55776">Ruleset: Big 5 Ban</option>
+                    <option class="dropdownMenuOption" value="af1df0cd-3251-4b44-ba04-d48de5b73f8b">Ruleset: Anything Goes</option>
+                </select>
+            </div>
+
+
+
+            <div class="block" id="loading_status">
+                <div class="container">
+                    <h1 class="stats" id="rating_history_chart_title" style="text-align: center;">Loading Status</h1>
+
+                    <div class="general_stats_container" style="padding-bottom: 1rem;">
+
+                        <div class="general_stats_flex_horizontal">
+                            <h2><a href="./trainer_id_search.html">Search for trainer ids</a></h2>
+                        </div>
+
+                        <div class="general_stats_flex_horizontal">
+                            <div class="general_stats_flex_vertical">
+                                <h2 class="stats">trainer_id:</h2>
+                                <div id="status_trainer_id" style="margin: 0 1rem; min-width: 20rem;"></div>
+                            </div>
+
+                            <div class="general_stats_flex_vertical">
+                                <h2 class="stats">ruleset_id:</h2>
+                                <div id="status_ruleset_id" style="margin: 0 1rem; min-width: 20rem;"></div>
+                            </div>
+                        </div>
+
+                        <div class="general_stats_flex_horizontal">
+                            <div class="general_stats_flex_vertical">
+                                <h2 class="stats">Loading all amiibo:</h2>
+                                <div id="status_all_amiibo" style="margin: 0 1rem; min-width: 20rem;"></div>
+                            </div>
+
+                            <div class="general_stats_flex_vertical">
+                                <h2 class="stats">Loading trainer data:</h2>
+                                <div id="status_trainer_data" style="margin: 0 1rem; min-width: 20rem;"></div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="block" id="remove_child_if_no_matches">
+                <div class="container">
+                    <h1 class="stats" id="rating_history_chart_title" style="text-align: center;">General Statistics</h1>
+
+                    <div class="general_stats_container">
+
+                        <div class="general_stats_flex_horizontal">
+                            <h2 class="stats" id="trainer_first_match">First Match:</h2>
+                            <h2 class="stats" id="trainer_last_match">Last Match:</h2>
+                            <h2 class="stats" id="trainer_matches">Matches:</h2>
+                            <h2 class="stats" id="trainer_winrate">Win Rate:</h2>
+                        </div>
+
+                        
+                        <div class="general_stats_flex_horizontal">
+                            <h2 class="stats" id="trainer_average_rating_all">Average Rating (All):</h2>
+                            <h2 class="stats" id="trainer_average_rating_active_standby">Average Rating (Active/Standby):</h2>
+                        </div>
+
+
+                        <div class="general_stats_flex_horizontal">
+                            <div class="general_stats_flex_vertical">
+                                <h2 class="stats">Longest Winstreak:</h2>
+                                <div id="trainer_longest_winstreak"></div>
+                            </div>
+
+                            <div class="general_stats_flex_vertical">
+                                <h2 class="stats">Longest Losestreak:</h2>
+                                <div id="trainer_longest_losestreak"></div>
+                            </div>
+                        </div>
+
+
+                        <div class="general_stats_flex_horizontal">
+                            <div class="general_stats_flex_vertical">
+                                <h2 class="stats">Favourite Characters:</h2>
+                                <div style="margin: 1rem;" id="trainer_favourite_characters"></div>
+                            </div>
+
+                            <div class="general_stats_flex_vertical">
+                                <h2 class="stats">Most Faced Opponents:</h2>
+                                <div class="stats" id="trainer_most_faced_opponents"></div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+            </div>
+
+
+
+            <div class="block">
+                <div  class="flex_container">
+                    <div class="container quick_statistics">
+                        <h1 class="stats" style="text-align: center;">Leaderboard Position</h1>
+                            <div class="padding_container">
+                                <div class="flex_list_container" id="trainer_rank_stats"><h2 class="stats" style="text-align: center; width: 100%;">None</h2></div>
+                            </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="block" id="remove_child_if_no_matches">
+                <div class="container">
+                    <h1 class="stats" id="rating_history_chart_title" style="text-align: center;">All Amiibo Runs</h1>
+
+                    <div class="all_amiibo_runs" id="rating_history">
+                        <canvas id="rating_history_chart_canvas"></canvas>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="block" id="remove_child_if_no_matches">
+                <div class="container amiibo_lost_to">
+                    <h1 class="stats" id="trainer_matchups_chart_title" style="text-align: center;">TrainerName vs Trainers Matchup</h1>
+
+                    <div id="trainer_matchups">
+                        <canvas id="trainer_matchups_chart_canvas"></canvas>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="block" id="remove_child_if_no_matches">
+                <div class="container amiibo_lost_to">
+                    <h1 class="stats" id="character_matchups_chart_title" style="text-align: center;">TrainerName vs Characters Matchup</h1>
+
+                    <div id="character_matchups">
+                        <canvas id="character_matchups_chart_canvas"></canvas>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="block" id="remove_child_if_no_matches">
+                <div class="container amiibo_lost_to">
+                    <h1 class="stats" id="amiibo_matchups_chart_title" style="text-align: center;">TrainerName vs Amiibo Matchup</h1>
+
+                    <div id="amiibo_matchups">
+                        <canvas id="amiibo_matchups_chart_canvas"></canvas>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="block">
+                <div class="container">
+                    <h1 class="stats">All Amiibo</h1>
+                    <h2 class="stats" id="trainer_amiibo_count">Valid Amiibo: 0</h2>
+                    <div id="trainer_amiibo_list"></div>
+                </div>
+            </div>
+
+
+
+            <div class="block" id="remove_child_if_no_matches">
+                <div class="container">
+                    <h1 class="stats" id="match_history" style="text-align: center;">Match History</h1>
+                    <div id="amiibo_list"></div>
+                </div>
+            </div>
+
+
+
+
+
+        </main>
+
+    </body>
+</html>

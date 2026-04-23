@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UFT-8">
+        <meta name="Amiibots Statistics Tool" content="width = device-width", initial-scale = "1.0">
+        <title>Amiibots Statistics Tool</title>
+
+        <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+
+        <link rel="stylesheet" href="css/styles.css">
+
+        <!-- <script src="js/rank_tool.js"></script> -->
+        <script src="js/trainer_ranks.js"></script>
+        <script src="js/versionNumber.js"></script>
+        <script src="js/navBarElement.js"></script>
+        <script src="js/search_history.js"></script>
+    </head>
+
+
+
+
+
+    <body>
+
+        <nav class="navbar" id="documentNavbar"></nav>
+
+
+
+
+
+        <main>
+            <div class="header">
+                <div>
+                    <h1 class="title">Amiibots Statistics Tool<span class="subtitle"> / Leaderboard</span></h1>
+
+                    <p class="version" id="versionNo"></p>
+                </div>
+
+                <div class="search_history_button" onclick="toggleVisibility()">
+                    <img class="search_history_icon" src="images/icon_search_history.png">
+                </div>
+
+            </div>
+
+
+
+            <div class="block" id="searchHistoryDropdown" style="display: none;">
+                <div class="container">
+                    <h1 style="margin-left: 1rem; margin-right: 1rem; border-bottom: 1px solid rgba(200, 200, 200, 0.2);">Search History</h1>
+                    <div class="even_padding">
+                        <div class="flex_list_container" id="searchHistoryDropdownContent"></div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="block">
+                <div class="flex_container">
+                    <div class="container search_bar">
+                        <form>
+                            <input type="text" id="trainer_name" name="trainer" placeholder="Search Trainers" onkeyup="printCharacterLeaderboard()" required>
+
+                            <!-- <input type="button" value="Search for top placing amiibo" class="main_search" id="search_button" onclick="rank_tool();"> -->
+                        </form>
+                    </div>
+
+
+                    <div class="container search_bar">
+                        <form>
+                            <div class="search_buttons">
+                                <input class="button" type="button"  id="ruleset_vanilla"  name="ruleset"   value="Vanilla"        onclick="buttonHighlight('null', 'vanilla')">
+                                <input class="button" type="button"  id="ruleset_b5b"      name="ruleset"   value="Big 5 Ban"      onclick="buttonHighlight('null', 'b5b')">
+                                <input class="button" type="button"  id="ruleset_ag"       name="ruleset"   value="Anything Goes"  onclick="buttonHighlight('null', 'ag')">
+                            </div>
+                        </form>
+                    </div>
+
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+            <div class="block">
+                <div  class="flex_container">
+                    <div class="container quick_statistics">
+                        <h1 class="stats">Unofficial Trainer Leaderboard</h1>
+                            <div class="padding_container">
+                                <div class="flex_list_container" id="test"></div>
+                            </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+            <!-- <div class="block">
+                <div class="flex_container">
+                    <div class="container quick_statistics">
+                        <h1 class="stats">Vanilla:</h1>
+
+                        <h2 class="stats" id="vanilla_top_place_title">1st Place</h2>
+                            <div class="padding_container">
+                                <div class="flex_list_container" id="vanilla_top_place"></div>
+                            </div>
+                            
+                        <h2 class="stats" id="vanilla_top_ten_title">Top 10</h2>
+                            <div class="padding_container">
+                                <div class="flex_list_container" id="vanilla_top_ten"></div>
+                            </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="block">
+                <div class="flex_container">
+                    <div class="container quick_statistics">
+                        <h1 class="stats">Big 5 Ban:</h1>
+
+                        <h2 class="stats" id="b5b_top_place_title">1st Place</h2>
+                            <div class="padding_container">
+                                <div class="flex_list_container" id="b5b_top_place"></div>
+                            </div>
+
+                        <h2 class="stats" id="b5b_top_ten_title">Top 10</h2>
+                            <div class="padding_container">
+                                <div class="flex_list_container" id="b5b_top_ten"></div>   
+                            </div>     
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="block">
+                <div class="flex_container">
+                    <div class="container quick_statistics">
+                        <h1 class="stats">Anything Goes:</h1>
+
+                        <h2 class="stats" id="ag_top_place_title">1st Place</h2>
+                            <div class="padding_container">
+                                <div class="flex_list_container" id="ag_top_place"></div>
+                            </div>
+                            
+                        <h2 class="stats" id="ag_top_ten_title">Top 10</h2>
+                            <div class="padding_container">
+                                <div class="flex_list_container" id="ag_top_ten"></div>  
+                            </div>              
+                    </div>
+                </div>
+            </div> -->
+
+
+
+        </main>
+    </body>
+</html>

@@ -2,5 +2,3 @@
 
 Add a way to remove processed files from repo to another one
 
-Fix rating history icon
-
