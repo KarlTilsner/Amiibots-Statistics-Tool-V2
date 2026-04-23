@@ -2503,6 +2503,40 @@
         "trainer_name": "vrcool0",
         "result": "loss"
       }
+    },
+    "2023-05-24T01:34:32.059275+00:00": {
+      "this_amiibo": {
+        "rating": 25.112705333636193,
+        "rating_mu": 27.77245103266562,
+        "rating_sigma": 0.8865818996764769,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "d9ea90d0-9031-4ae6-becd-03892e24cc48",
+        "name": "Dr. Barry",
+        "rating": 13.26385484836387,
+        "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
+        "trainer_name": "leCharade",
+        "result": "win"
+      }
+    },
+    "2023-05-24T09:36:18.107538+00:00": {
+      "this_amiibo": {
+        "rating": 25.17352435053402,
+        "rating_mu": 27.831405954659513,
+        "rating_sigma": 0.8859605347084978,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "39190a98-4bd9-4f58-ba01-6ba6f8812770",
+        "name": "Pichu-TSD",
+        "rating": 19.2669409330341,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "loss"
+      }
     }
   }
 }

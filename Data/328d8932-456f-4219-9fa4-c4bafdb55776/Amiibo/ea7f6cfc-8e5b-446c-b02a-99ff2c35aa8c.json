@@ -1466,6 +1466,40 @@
         "trainer_name": "track8regret",
         "result": "loss"
       }
+    },
+    "2023-05-23T23:39:11.140389+00:00": {
+      "this_amiibo": {
+        "rating": 22.8215621668398,
+        "rating_mu": 25.798569462179977,
+        "rating_sigma": 0.9923357651133916,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "82c94b6a-49e9-4865-aeb4-1013b116ba6e",
+        "name": "Waveshine",
+        "rating": 22.75075647241965,
+        "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
+        "trainer_name": "raid_boss_09",
+        "result": "win"
+      }
+    },
+    "2023-05-24T08:02:11.790114+00:00": {
+      "this_amiibo": {
+        "rating": 22.727589611994116,
+        "rating_mu": 25.697982099720935,
+        "rating_sigma": 0.9901308292422735,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
+        "id": "636c67b7-a05e-4864-bae5-72e010d72d98",
+        "name": "Yakisoba",
+        "rating": 16.946830628939416,
+        "trainer_id": "932a9ec7-b463-41d8-bc40-59e2e396a8ed",
+        "trainer_name": "ricola7ttv",
+        "result": "win"
+      }
     }
   }
 }
