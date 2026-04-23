@@ -599,6 +599,40 @@
         "trainer_name": "schmorchid",
         "result": "loss"
       }
+    },
+    "2023-06-30T01:00:12.350358+00:00": {
+      "this_amiibo": {
+        "rating": 11.983577835759728,
+        "rating_mu": 16.095883993642254,
+        "rating_sigma": 1.3707687192941749,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "e83c6b0b-ff81-4e41-b4fd-e78cc46707a4",
+        "name": "Barry",
+        "rating": 12.507040612949098,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "win"
+      }
+    },
+    "2023-06-30T18:06:17.798264+00:00": {
+      "this_amiibo": {
+        "rating": 12.160012835515912,
+        "rating_mu": 16.24053827979332,
+        "rating_sigma": 1.360175148092469,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "f225c7d3-e367-4606-a4f3-21b4ae8e5809",
+        "name": "Sefirosu",
+        "rating": 0.615238616678635,
+        "trainer_id": "932a9ec7-b463-41d8-bc40-59e2e396a8ed",
+        "trainer_name": "ricola7ttv",
+        "result": "loss"
+      }
     }
   }
 }

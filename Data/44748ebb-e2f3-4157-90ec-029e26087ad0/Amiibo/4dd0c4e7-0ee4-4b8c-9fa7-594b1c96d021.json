@@ -21,6 +21,40 @@
         "trainer_name": "pikaphones",
         "result": "loss"
       }
+    },
+    "2021-02-04T19:03:45.759149+00:00": {
+      "this_amiibo": {
+        "rating": 19.580758850602116,
+        "rating_mu": 28.36196346391861,
+        "rating_sigma": 2.927068204438831,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "1d67578b-0364-4956-b97e-806bf6eb5104",
+        "name": "Rock Man",
+        "rating": 21.36894536535062,
+        "trainer_id": "07218a86-dd34-412a-911b-f1e33e57b05f",
+        "trainer_name": "palores625",
+        "result": "win"
+      }
+    },
+    "2021-02-04T16:28:41.995581+00:00": {
+      "this_amiibo": {
+        "rating": 20.53235877835685,
+        "rating_mu": 30.080328356757615,
+        "rating_sigma": 3.182656526133588,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "3c1fbae1-763d-4aa9-b101-f4ae963a6660",
+        "name": "McTux",
+        "rating": 24.36940106811567,
+        "trainer_id": "3e1642f4-3a61-4225-bd2d-d551616be0fa",
+        "trainer_name": "doopfizzle",
+        "result": "loss"
+      }
     }
   }
 }

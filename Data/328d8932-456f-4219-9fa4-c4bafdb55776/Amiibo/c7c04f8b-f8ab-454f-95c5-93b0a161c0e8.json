@@ -514,6 +514,57 @@
         "trainer_name": "Azend_1",
         "result": "loss"
       }
+    },
+    "2023-06-30T00:02:47.302196+00:00": {
+      "this_amiibo": {
+        "rating": 38.671689373947785,
+        "rating_mu": 42.78041762056211,
+        "rating_sigma": 1.3695760822047764,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "5805d730-64ed-4eba-80a5-3605db1ce646",
+        "name": "Breeze",
+        "rating": 37.71499289434167,
+        "trainer_id": "599b16e4-90a5-41b2-ad41-917b1e5b5548",
+        "trainer_name": "Pixeluchiha",
+        "result": "win"
+      }
+    },
+    "2023-06-29T12:23:10.266981+00:00": {
+      "this_amiibo": {
+        "rating": 38.956235758223414,
+        "rating_mu": 43.13746238243056,
+        "rating_sigma": 1.39374220806905,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "661fc3ac-680b-46c4-b5ee-1b9935fa849a",
+        "name": "Toobths",
+        "rating": 30.330481070975786,
+        "trainer_id": "e38c8bde-3fd5-4f26-aa98-691255967e55",
+        "trainer_name": "Bewni",
+        "result": "loss"
+      }
+    },
+    "2023-06-30T20:56:04.399841+00:00": {
+      "this_amiibo": {
+        "rating": 38.888689988298935,
+        "rating_mu": 42.95525737553022,
+        "rating_sigma": 1.3555224624104296,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "a0b15d40-20c4-4eed-9537-48eb96860649",
+        "name": "TheTixMan",
+        "rating": 32.122472844639205,
+        "trainer_id": "737b125c-6dc9-418e-80cf-0dc6b78049cd",
+        "trainer_name": "FlaminJolt",
+        "result": "loss"
+      }
     }
   }
 }
