@@ -888,6 +888,40 @@
         "trainer_name": "prime_velo",
         "result": "win"
       }
+    },
+    "2023-11-11T04:54:29.392868+00:00": {
+      "this_amiibo": {
+        "rating": 21.546940769359303,
+        "rating_mu": 25.20448910534046,
+        "rating_sigma": 1.2191827786603862,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "38fead34-3962-480b-955c-3bfa87d39393",
+        "name": "BrawlerGuy",
+        "rating": 23.364872180607207,
+        "trainer_id": "81801258-d8a9-47aa-8659-e4d457707b41",
+        "trainer_name": "JoyBoyIndigo",
+        "result": "loss"
+      }
+    },
+    "2023-11-29T07:49:42.403238+00:00": {
+      "this_amiibo": {
+        "rating": 21.41234031435901,
+        "rating_mu": 25.033710148942504,
+        "rating_sigma": 1.207123278194498,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "38fead34-3962-480b-955c-3bfa87d39393",
+        "name": "BrawlerGuy",
+        "rating": 23.891219706778124,
+        "trainer_id": "81801258-d8a9-47aa-8659-e4d457707b41",
+        "trainer_name": "JoyBoyIndigo",
+        "result": "win"
+      }
     }
   }
 }

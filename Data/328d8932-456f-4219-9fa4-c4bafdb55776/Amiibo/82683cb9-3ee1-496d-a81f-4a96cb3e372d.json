@@ -922,6 +922,91 @@
         "trainer_name": "improv_195",
         "result": "loss"
       }
+    },
+    "2023-10-31T07:50:45.699604+00:00": {
+      "this_amiibo": {
+        "rating": 26.483780587400457,
+        "rating_mu": 29.80170421130275,
+        "rating_sigma": 1.105974541300764,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "ba94257a-9223-4210-a542-ffd8a798d74c",
+        "id": "e626c1a6-cbeb-48f7-b52d-5700242e4feb",
+        "name": "High-Class",
+        "rating": 26.330039670510686,
+        "trainer_id": "05d732e5-ae03-4388-bb8a-ab18b609327e",
+        "trainer_name": "eripaii",
+        "result": "loss"
+      }
+    },
+    "2023-11-01T16:16:51.397084+00:00": {
+      "this_amiibo": {
+        "rating": 26.353483564990245,
+        "rating_mu": 29.64626424645688,
+        "rating_sigma": 1.097593560488878,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "ba94257a-9223-4210-a542-ffd8a798d74c",
+        "id": "e626c1a6-cbeb-48f7-b52d-5700242e4feb",
+        "name": "High-Class",
+        "rating": 26.682193932069108,
+        "trainer_id": "05d732e5-ae03-4388-bb8a-ab18b609327e",
+        "trainer_name": "eripaii",
+        "result": "win"
+      }
+    },
+    "2023-11-18T01:13:54.743705+00:00": {
+      "this_amiibo": {
+        "rating": 26.521121161936346,
+        "rating_mu": 29.79163398485874,
+        "rating_sigma": 1.0901709409741314,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "de5e2c9f-1b0d-44eb-8ce4-d67997dca71e",
+        "name": "Alphosis",
+        "rating": 23.439780281118168,
+        "trainer_id": "52cf741b-9181-4229-8440-532cd6b5e0e7",
+        "trainer_name": "PGXmew2",
+        "result": "loss"
+      }
+    },
+    "2023-11-21T17:32:51.610989+00:00": {
+      "this_amiibo": {
+        "rating": 26.394322905885673,
+        "rating_mu": 29.642527978664926,
+        "rating_sigma": 1.0827350242597509,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "768d9a82-3658-42b8-9ab8-ea09639e8286",
+        "name": "Profoak",
+        "rating": 25.25524321249291,
+        "trainer_id": "52cf741b-9181-4229-8440-532cd6b5e0e7",
+        "trainer_name": "PGXmew2",
+        "result": "win"
+      }
+    },
+    "2023-11-25T01:49:55.814598+00:00": {
+      "this_amiibo": {
+        "rating": 26.26120291025481,
+        "rating_mu": 29.486234853822594,
+        "rating_sigma": 1.0750106478559278,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "de5e2c9f-1b0d-44eb-8ce4-d67997dca71e",
+        "name": "Alphosis",
+        "rating": 25.622674170100083,
+        "trainer_id": "52cf741b-9181-4229-8440-532cd6b5e0e7",
+        "trainer_name": "PGXmew2",
+        "result": "win"
+      }
     }
   }
 }

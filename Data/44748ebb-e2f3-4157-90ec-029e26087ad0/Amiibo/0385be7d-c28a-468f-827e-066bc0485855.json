@@ -497,6 +497,40 @@
         "trainer_name": "apple_beebs",
         "result": "loss"
       }
+    },
+    "2021-03-16T03:31:42.701128+00:00": {
+      "this_amiibo": {
+        "rating": 21.42248664219496,
+        "rating_mu": 26.257729232591124,
+        "rating_sigma": 1.6117475301320536,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "7609b67c-6e3e-49f1-a1bf-77b22db31f3c",
+        "name": "LittleShop",
+        "rating": 27.147794388436893,
+        "trainer_id": "41543e47-6a1f-46db-aef3-b8234a64ea7e",
+        "trainer_name": "DestinyDragonGS",
+        "result": "win"
+      }
+    },
+    "2021-03-21T21:09:06.786373+00:00": {
+      "this_amiibo": {
+        "rating": 21.202459555466362,
+        "rating_mu": 25.979955906929128,
+        "rating_sigma": 1.5924987838209217,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "daadc0f8-e53a-4423-9589-85a1b9052164",
+        "name": "Undertaker",
+        "rating": 15.127273700907296,
+        "trainer_id": "a0825060-117f-42e1-9969-18958a42c8c7",
+        "trainer_name": "yellow_fred",
+        "result": "win"
+      }
     }
   }
 }

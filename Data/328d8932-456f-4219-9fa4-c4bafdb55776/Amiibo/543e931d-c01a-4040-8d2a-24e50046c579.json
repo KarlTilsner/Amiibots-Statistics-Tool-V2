@@ -1585,6 +1585,91 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2023-11-07T09:57:08.365536+00:00": {
+      "this_amiibo": {
+        "rating": 32.49808506521699,
+        "rating_mu": 35.52559162827691,
+        "rating_sigma": 1.0091688543533086,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "fdd91480-8a7b-4d77-be71-f417fa65ff81",
+        "name": "Let'sMosey",
+        "rating": 31.45335800536948,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "joah_22",
+        "result": "win"
+      }
+    },
+    "2023-11-10T06:27:01.026191+00:00": {
+      "this_amiibo": {
+        "rating": 32.629563075084626,
+        "rating_mu": 35.64410169920327,
+        "rating_sigma": 1.0048462080395477,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "f7923990-3b8a-4ddb-ae0e-ab1a18506d07",
+        "name": "Apollo",
+        "rating": 27.436937265533423,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "loss"
+      }
+    },
+    "2023-11-15T22:34:44.197480+00:00": {
+      "this_amiibo": {
+        "rating": 32.50933990382853,
+        "rating_mu": 35.50738711003893,
+        "rating_sigma": 0.9993490687367976,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "5716ba70-fd7f-41e2-ba7f-3d8c6ca33980",
+        "name": "Fat Falco",
+        "rating": 32.25239439953089,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "win"
+      }
+    },
+    "2023-11-17T08:07:56.085301+00:00": {
+      "this_amiibo": {
+        "rating": 32.386983271997835,
+        "rating_mu": 35.36854717019399,
+        "rating_sigma": 0.9938546327320532,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "fdd91480-8a7b-4d77-be71-f417fa65ff81",
+        "name": "Let'sMosey",
+        "rating": 32.34369183736406,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "joah_22",
+        "result": "win"
+      }
+    },
+    "2023-11-19T18:51:14.282483+00:00": {
+      "this_amiibo": {
+        "rating": 32.53037171013723,
+        "rating_mu": 35.49656121709629,
+        "rating_sigma": 0.988729835653021,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "ab85d482-5b65-4958-89c6-a17a23928fdd",
+        "name": "All Might",
+        "rating": 32.625275990163864,
+        "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
+        "trainer_name": "bubs_yt",
+        "result": "loss"
+      }
     }
   }
 }

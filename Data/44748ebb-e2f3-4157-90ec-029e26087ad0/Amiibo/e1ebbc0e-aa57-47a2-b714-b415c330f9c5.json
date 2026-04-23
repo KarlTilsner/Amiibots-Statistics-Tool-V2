@@ -837,6 +837,40 @@
         "trainer_name": "cramorant_is_hungry",
         "result": "loss"
       }
+    },
+    "2021-03-07T23:47:55.049144+00:00": {
+      "this_amiibo": {
+        "rating": 22.07089877118054,
+        "rating_mu": 25.845137473589034,
+        "rating_sigma": 1.2580795674694973,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "01772f4d-4152-49f5-ba42-8b7abee4f089",
+        "name": "Totino's",
+        "rating": 27.072958642414648,
+        "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
+        "trainer_name": "apple_beebs",
+        "result": "win"
+      }
+    },
+    "2021-03-08T18:56:46.090716+00:00": {
+      "this_amiibo": {
+        "rating": 22.289165525957028,
+        "rating_mu": 26.027228863358825,
+        "rating_sigma": 1.2460211124672655,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "547c6717-cf94-4509-9989-ba061a72638c",
+        "name": "KNIFEMARIO",
+        "rating": 17.715887702098225,
+        "trainer_id": "bb38f34d-4024-4bac-8796-b84083162851",
+        "trainer_name": "TechnoPuff",
+        "result": "loss"
+      }
     }
   }
 }

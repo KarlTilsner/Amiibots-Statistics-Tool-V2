@@ -1058,6 +1058,40 @@
         "trainer_name": "the_definitive_mick",
         "result": "loss"
       }
+    },
+    "2023-11-02T05:05:06.427308+00:00": {
+      "this_amiibo": {
+        "rating": 16.654644028285475,
+        "rating_mu": 20.442332542799985,
+        "rating_sigma": 1.262562838171504,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "efa62791-57c3-46fd-bfd2-d11e87495abb",
+        "name": "Ivan Drago",
+        "rating": 18.70543989220569,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "win"
+      }
+    },
+    "2023-11-09T00:45:54.489884+00:00": {
+      "this_amiibo": {
+        "rating": 16.93046618862902,
+        "rating_mu": 20.67172867532352,
+        "rating_sigma": 1.247087495564834,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "efa62791-57c3-46fd-bfd2-d11e87495abb",
+        "name": "Ivan Drago",
+        "rating": 18.612352089971168,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "loss"
+      }
     }
   }
 }

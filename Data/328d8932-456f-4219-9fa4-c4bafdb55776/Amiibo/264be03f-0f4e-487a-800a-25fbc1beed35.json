@@ -208,6 +208,57 @@
         "trainer_name": "improv_195",
         "result": "loss"
       }
+    },
+    "2023-10-31T00:47:11.870936+00:00": {
+      "this_amiibo": {
+        "rating": 29.208269031162523,
+        "rating_mu": 35.64432011852688,
+        "rating_sigma": 2.1453503624547854,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "02df6ba9-78c3-4369-8934-a13e940aa610",
+        "name": "TwinkleToe",
+        "rating": 31.33076062808835,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
+        "result": "win"
+      }
+    },
+    "2023-10-30T17:59:27.461877+00:00": {
+      "this_amiibo": {
+        "rating": 29.55991130820679,
+        "rating_mu": 36.23928849696096,
+        "rating_sigma": 2.2264590629180567,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "02df6ba9-78c3-4369-8934-a13e940aa610",
+        "name": "TwinkleToe",
+        "rating": 29.319870994620644,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
+        "result": "loss"
+      }
+    },
+    "2023-10-31T10:01:11.233259+00:00": {
+      "this_amiibo": {
+        "rating": 30.017768052335995,
+        "rating_mu": 36.22679498442828,
+        "rating_sigma": 2.0696756440307627,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "02df6ba9-78c3-4369-8934-a13e940aa610",
+        "name": "TwinkleToe",
+        "rating": 30.75937971773336,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
+        "result": "loss"
+      }
     }
   }
 }

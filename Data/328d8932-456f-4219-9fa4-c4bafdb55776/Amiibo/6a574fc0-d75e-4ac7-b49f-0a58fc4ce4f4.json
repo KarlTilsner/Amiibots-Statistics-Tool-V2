@@ -1840,6 +1840,91 @@
         "trainer_name": "0100000100110001",
         "result": "loss"
       }
+    },
+    "2023-11-03T07:10:10.131040+00:00": {
+      "this_amiibo": {
+        "rating": 17.245516439076436,
+        "rating_mu": 20.2663879371764,
+        "rating_sigma": 1.0069571660333212,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "5efc0ca0-f895-4b96-b24d-22ddd586bc9e",
+        "name": "bulborb",
+        "rating": 17.823785331042643,
+        "trainer_id": "9829dfa3-05a1-4936-8d5d-320c204abb1e",
+        "trainer_name": "white_pikminyt",
+        "result": "win"
+      }
+    },
+    "2023-11-10T20:40:46.433030+00:00": {
+      "this_amiibo": {
+        "rating": 17.38729768897991,
+        "rating_mu": 20.39223855500477,
+        "rating_sigma": 1.0016469553416198,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+        "id": "3cfb77b4-cb49-43ec-a7ee-4a9196c2121b",
+        "name": "bop",
+        "rating": 16.93867013664078,
+        "trainer_id": "d10a1a53-4977-4227-a545-40d116f5b796",
+        "trainer_name": "combine788",
+        "result": "loss"
+      }
+    },
+    "2023-11-11T13:37:27.156993+00:00": {
+      "this_amiibo": {
+        "rating": 17.54678575625124,
+        "rating_mu": 20.53461614063606,
+        "rating_sigma": 0.9959434614616076,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "efa62791-57c3-46fd-bfd2-d11e87495abb",
+        "name": "Ivan Drago",
+        "rating": 18.362805487150304,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "loss"
+      }
+    },
+    "2023-11-13T00:30:58.080680+00:00": {
+      "this_amiibo": {
+        "rating": 17.43177248026279,
+        "rating_mu": 20.40389976046715,
+        "rating_sigma": 0.9907090934014536,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "3a949817-6af2-4b9d-a375-1187a538f26f",
+        "name": "Genwunner",
+        "rating": 18.12054641858831,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
+    },
+    "2023-11-25T00:42:36.294547+00:00": {
+      "this_amiibo": {
+        "rating": 17.3580600715203,
+        "rating_mu": 20.320090763130658,
+        "rating_sigma": 0.9873435638701202,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "2ce14e09-3296-4359-bbaf-87a96000584f",
+        "name": "Melanie",
+        "rating": 19.847791396281963,
+        "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
+        "trainer_name": "Lucina_Nadine",
+        "result": "win"
+      }
     }
   }
 }

@@ -140,6 +140,57 @@
         "trainer_name": "SitraSSB",
         "result": "loss"
       }
+    },
+    "2021-03-14T19:16:52.178185+00:00": {
+      "this_amiibo": {
+        "rating": 19.009591322848934,
+        "rating_mu": 27.13129864687155,
+        "rating_sigma": 2.7072357746742055,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "9a2e991e-d667-408a-9422-ea675132d4dc",
+        "name": "Roy",
+        "rating": 14.495081841122282,
+        "trainer_id": "c1461260-903f-4aae-ad42-af21e07e1e98",
+        "trainer_name": "TheWohaPolice",
+        "result": "win"
+      }
+    },
+    "2021-03-15T03:07:23.018466+00:00": {
+      "this_amiibo": {
+        "rating": 20.44166530309731,
+        "rating_mu": 28.09672375637288,
+        "rating_sigma": 2.5516861510918574,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3a80cdac-93bb-4a75-8e38-f69f37d10ec6",
+        "id": "63e28028-ca83-42f3-86bd-f7cc3256010d",
+        "name": "Wahbot™",
+        "rating": 24.856470922702464,
+        "trainer_id": "e31250ea-6e7a-4948-b23c-af990e8632f0",
+        "trainer_name": "Nickural",
+        "result": "loss"
+      }
+    },
+    "2021-03-17T11:35:30.400762+00:00": {
+      "this_amiibo": {
+        "rating": 21.38272766040207,
+        "rating_mu": 28.729040539777024,
+        "rating_sigma": 2.4487709597916507,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "fccb94e2-323c-473a-82c9-1b558717fec9",
+        "name": "Makyo",
+        "rating": 18.463070844296002,
+        "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
+        "trainer_name": "apple_beebs",
+        "result": "loss"
+      }
     }
   }
 }

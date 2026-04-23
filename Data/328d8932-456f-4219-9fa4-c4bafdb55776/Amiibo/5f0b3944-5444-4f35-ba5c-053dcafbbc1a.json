@@ -5325,6 +5325,40 @@
         "trainer_name": "track8regret",
         "result": "loss"
       }
+    },
+    "2023-11-12T09:00:04.549420+00:00": {
+      "this_amiibo": {
+        "rating": 18.859844605543024,
+        "rating_mu": 21.518316190970538,
+        "rating_sigma": 0.886157195142504,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "040a7bf5-3f78-4e44-87b9-40480bcaefcd",
+        "name": "byleth",
+        "rating": 13.985149354993265,
+        "trainer_id": "8a5d445a-c5ef-48a8-9428-41276f678e9d",
+        "trainer_name": "soin1324",
+        "result": "win"
+      }
+    },
+    "2023-12-01T16:24:40.807214+00:00": {
+      "this_amiibo": {
+        "rating": 18.776769927634543,
+        "rating_mu": 21.4299812682233,
+        "rating_sigma": 0.8844037801962523,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+        "id": "92770f93-af9e-4672-8c4f-f73ef4bacf85",
+        "name": "Panther",
+        "rating": 19.29257292922005,
+        "trainer_id": "d7f44591-9713-4c95-b840-3607f6a73d24",
+        "trainer_name": "luckman21",
+        "result": "win"
+      }
     }
   }
 }

@@ -548,6 +548,57 @@
         "trainer_name": "rekcuf_nmad",
         "result": "loss"
       }
+    },
+    "2021-03-11T00:19:19.889896+00:00": {
+      "this_amiibo": {
+        "rating": 21.112854156535974,
+        "rating_mu": 25.608653607016706,
+        "rating_sigma": 1.4985998168269101,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "887528ff-c290-4b6f-bb1a-f653a2da1544",
+        "name": "Blaze",
+        "rating": 24.17998676752941,
+        "trainer_id": "1454cbc5-0d91-4538-a0f1-4c365b049d06",
+        "trainer_name": "hono1",
+        "result": "win"
+      }
+    },
+    "2021-03-13T12:23:54.108061+00:00": {
+      "this_amiibo": {
+        "rating": 21.060694704991455,
+        "rating_mu": 25.5240112817082,
+        "rating_sigma": 1.4877721922389155,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "9e401ab7-65d9-4ab9-a6cf-cd53bb6c1234",
+        "name": "El Picante",
+        "rating": 25.76111637566573,
+        "trainer_id": "c2fef7d0-92be-4111-8eff-4f229176422c",
+        "trainer_name": "dreamy_b_jay",
+        "result": "win"
+      }
+    },
+    "2021-03-13T18:09:15.852957+00:00": {
+      "this_amiibo": {
+        "rating": 20.897320570329146,
+        "rating_mu": 25.30794730571634,
+        "rating_sigma": 1.4702089117957313,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "84fe4715-e355-4477-b5b8-c1d21ec142e9",
+        "name": "Typhon",
+        "rating": 18.209129391671397,
+        "trainer_id": "c2fef7d0-92be-4111-8eff-4f229176422c",
+        "trainer_name": "dreamy_b_jay",
+        "result": "win"
+      }
     }
   }
 }
