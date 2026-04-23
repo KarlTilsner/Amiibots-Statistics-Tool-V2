@@ -1347,6 +1347,57 @@
         "trainer_name": "0100000100110001",
         "result": "win"
       }
+    },
+    "2024-06-01T14:30:49.222868+00:00": {
+      "this_amiibo": {
+        "rating": 31.382250129446064,
+        "rating_mu": 34.3857172286347,
+        "rating_sigma": 1.0011556997295448,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "b54ae698-2223-4d7f-9da4-dc69b0826ea5",
+        "name": "HubbaHubba",
+        "rating": 28.721163709969623,
+        "trainer_id": "4912f925-622e-46a3-88cf-5de49dbb407e",
+        "trainer_name": "colfon_",
+        "result": "loss"
+      }
+    },
+    "2024-06-02T06:37:27.059936+00:00": {
+      "this_amiibo": {
+        "rating": 31.52650397641552,
+        "rating_mu": 34.51516628312721,
+        "rating_sigma": 0.996220768903896,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "7424807f-692c-437a-ac63-7722a0face4a",
+        "name": "Scloud",
+        "rating": 29.075760708301924,
+        "trainer_id": "97dbd0ce-b9c2-4547-9e58-048231ec5d1c",
+        "trainer_name": "spider_lungs",
+        "result": "loss"
+      }
+    },
+    "2024-06-14T12:39:10.173309+00:00": {
+      "this_amiibo": {
+        "rating": 31.41898495729749,
+        "rating_mu": 34.393320147565206,
+        "rating_sigma": 0.9914450634225727,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "7424807f-692c-437a-ac63-7722a0face4a",
+        "name": "Scloud",
+        "rating": 31.186414411382277,
+        "trainer_id": "97dbd0ce-b9c2-4547-9e58-048231ec5d1c",
+        "trainer_name": "spider_lungs",
+        "result": "win"
+      }
     }
   }
 }

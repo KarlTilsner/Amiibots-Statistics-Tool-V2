@@ -140,6 +140,40 @@
         "trainer_name": "AceTempest172",
         "result": "loss"
       }
+    },
+    "2024-06-12T09:21:15.306549+00:00": {
+      "this_amiibo": {
+        "rating": 15.902157291404688,
+        "rating_mu": 24.000918213613332,
+        "rating_sigma": 2.699586974069548,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "83fdca12-25f5-47c7-9e5f-4398ce71a455",
+        "name": "Vapor Jr.",
+        "rating": 21.390859986986648,
+        "trainer_id": "8da52313-7867-4448-992b-710b18dc4742",
+        "trainer_name": "Vapor73",
+        "result": "win"
+      }
+    },
+    "2024-06-20T02:42:14.394256+00:00": {
+      "this_amiibo": {
+        "rating": 16.932102653949663,
+        "rating_mu": 24.660605260546554,
+        "rating_sigma": 2.576167535532296,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "7ba7764b-ce40-4352-b0ec-4ea8222c3036",
+        "name": "RYE BREAD",
+        "rating": 16.08113742248477,
+        "trainer_id": "0a04604c-bea5-449d-a960-dd4b2c97b98b",
+        "trainer_name": "YumYumCactus_",
+        "result": "loss"
+      }
     }
   }
 }

@@ -2180,6 +2180,40 @@
         "trainer_name": "MiDe1",
         "result": "loss"
       }
+    },
+    "2021-06-17T22:41:56.922440+00:00": {
+      "this_amiibo": {
+        "rating": 24.572626560222826,
+        "rating_mu": 27.27406085849198,
+        "rating_sigma": 0.900478099423051,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "ef67368e-00d3-4c3c-8a5c-b9ca54b44166",
+        "name": "Gorlami",
+        "rating": 27.019668182784404,
+        "trainer_id": "e53a023e-9ca9-4a47-98dd-0b0e28130b56",
+        "trainer_name": "dk71896",
+        "result": "win"
+      }
+    },
+    "2021-06-20T12:33:34.625807+00:00": {
+      "this_amiibo": {
+        "rating": 24.62048200614148,
+        "rating_mu": 27.327248269593333,
+        "rating_sigma": 0.9022554211506174,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "76964d44-e53a-4403-99b3-0af25b88dbe6",
+        "name": "Speakless",
+        "rating": 0.9312245888828805,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "loss"
+      }
     }
   }
 }

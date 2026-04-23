@@ -395,6 +395,57 @@
         "trainer_name": "AceTempest172",
         "result": "loss"
       }
+    },
+    "2021-06-08T00:21:24.064502+00:00": {
+      "this_amiibo": {
+        "rating": 25.21592464615225,
+        "rating_mu": 31.459787943401405,
+        "rating_sigma": 2.0812877657497184,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
+        "id": "c40ee06a-6ada-43aa-807d-72e5f13cdc43",
+        "name": "Richter",
+        "rating": 16.329992502652722,
+        "trainer_id": "31ac0377-29d9-4a82-afea-5fe20989ce28",
+        "trainer_name": "magimiku",
+        "result": "win"
+      }
+    },
+    "2021-06-15T20:23:19.172613+00:00": {
+      "this_amiibo": {
+        "rating": 26.022124204155656,
+        "rating_mu": 32.08679462209219,
+        "rating_sigma": 2.021556805978846,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "974f98d3-700d-4dd3-9038-3fdc5b872a7a",
+        "name": "Red",
+        "rating": 21.981545631013592,
+        "trainer_id": "8d6a769d-19d4-4644-b439-6e87cd8a8b20",
+        "trainer_name": "someguy_456",
+        "result": "loss"
+      }
+    },
+    "2021-06-19T04:28:00.836234+00:00": {
+      "this_amiibo": {
+        "rating": 26.126222598918794,
+        "rating_mu": 32.14535084604159,
+        "rating_sigma": 2.006376082374265,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "06088db6-cb70-45fb-abe7-e4d584711292",
+        "name": "DarkKnight",
+        "rating": 15.95269777672167,
+        "trainer_id": "78cddeeb-2970-4796-ae81-8cc590373120",
+        "trainer_name": "chancenova1234",
+        "result": "loss"
+      }
     }
   }
 }

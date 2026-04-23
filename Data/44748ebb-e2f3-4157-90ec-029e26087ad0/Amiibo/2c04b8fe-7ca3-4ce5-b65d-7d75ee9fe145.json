@@ -412,6 +412,40 @@
         "trainer_name": "spc_ac",
         "result": "loss"
       }
+    },
+    "2021-06-06T06:54:46.988201+00:00": {
+      "this_amiibo": {
+        "rating": 21.76858779495642,
+        "rating_mu": 26.678152346439468,
+        "rating_sigma": 1.6365215171610157,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "f55fad58-bb11-4ddb-b64a-ed9291f77240",
+        "name": "Dan",
+        "rating": 20.838020603893455,
+        "trainer_id": "f4f59e08-d78e-45b1-89f0-4f44707ab850",
+        "trainer_name": "fuego_incineroar15",
+        "result": "win"
+      }
+    },
+    "2021-06-18T13:55:49.042553+00:00": {
+      "this_amiibo": {
+        "rating": 21.965248993315605,
+        "rating_mu": 26.815548365876833,
+        "rating_sigma": 1.6167664575204086,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "0470015d-23b3-4f30-b66b-72928d322ba8",
+        "name": "Orange",
+        "rating": 15.582476601359435,
+        "trainer_id": "147dbdd6-0e08-4d4a-b7eb-0146fb5735f6",
+        "trainer_name": "Adam2qaz",
+        "result": "loss"
+      }
     }
   }
 }

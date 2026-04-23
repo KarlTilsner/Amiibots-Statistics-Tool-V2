@@ -1,0 +1,43 @@
+{
+  "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+  "id": "ad9c0ed6-d163-4afc-9242-8a2afa8d5564",
+  "name": "Sam",
+  "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
+  "trainer_name": "gotelin_",
+  "matches": {
+    "2021-06-09T16:08:55.839499+00:00": {
+      "this_amiibo": {
+        "rating": 8.273210241557138,
+        "rating_mu": 25.95651139814821,
+        "rating_sigma": 5.894433718863691,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "28f80b12-f6cc-4f0c-adf2-90f637dcf20e",
+        "name": "Charlie",
+        "rating": 29.996678040707884,
+        "trainer_id": "b8caead1-f5ec-408e-8e1c-1ccdfc145d69",
+        "trainer_name": "ILuvBubbleBuddy",
+        "result": "win"
+      }
+    },
+    "2021-06-09T15:20:23.990143+00:00": {
+      "this_amiibo": {
+        "rating": 7.646916951857172,
+        "rating_mu": 29.224298337423292,
+        "rating_sigma": 7.192460461855374,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "6cbb3b42-5a51-4185-bf07-1cc3a6b2814c",
+        "name": "pikachu",
+        "rating": -0.8016797229894159,
+        "trainer_id": "e8c228c8-a377-4a5c-91ba-4ab8238a4023",
+        "trainer_name": "MrSmart13579",
+        "result": "loss"
+      }
+    }
+  }
+}

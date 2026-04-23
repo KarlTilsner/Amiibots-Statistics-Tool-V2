@@ -514,6 +514,40 @@
         "trainer_name": "drsalt16",
         "result": "loss"
       }
+    },
+    "2024-06-03T05:47:46.847244+00:00": {
+      "this_amiibo": {
+        "rating": 20.16104296560232,
+        "rating_mu": 24.588172602377146,
+        "rating_sigma": 1.4757098789249419,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fa1ac3ba-0880-483b-b94e-9b4952e3f999",
+        "id": "3aebb658-3002-440b-9c46-9a50c70cba76",
+        "name": "TerrPauvre",
+        "rating": 18.232336695191357,
+        "trainer_id": "6dc742b4-3fe4-4c3a-8d77-81dde5ea3025",
+        "trainer_name": "ShiiroNekowo",
+        "result": "win"
+      }
+    },
+    "2024-06-11T05:16:49.092543+00:00": {
+      "this_amiibo": {
+        "rating": 20.435381758516407,
+        "rating_mu": 24.79786630802494,
+        "rating_sigma": 1.4541615165028436,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "39190a98-4bd9-4f58-ba01-6ba6f8812770",
+        "name": "Pichu-TSD",
+        "rating": 19.719242625400874,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "loss"
+      }
     }
   }
 }

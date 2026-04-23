@@ -548,6 +548,74 @@
         "trainer_name": "ven_1234",
         "result": "loss"
       }
+    },
+    "2024-05-20T11:36:38.748662+00:00": {
+      "this_amiibo": {
+        "rating": 23.909727596001254,
+        "rating_mu": 27.70763068103563,
+        "rating_sigma": 1.2659676950114591,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "802f2c2f-ba63-47af-8861-cd26d0cf3aff",
+        "name": "Tatsu",
+        "rating": 25.613230620519147,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2024-05-24T20:49:56.635550+00:00": {
+      "this_amiibo": {
+        "rating": 23.723600629238074,
+        "rating_mu": 27.47979539151894,
+        "rating_sigma": 1.2520649207602892,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "89d86f5d-4485-4a9d-a591-345189a0fa05",
+        "name": "Mr. Wahoo",
+        "rating": 20.754489383286028,
+        "trainer_id": "130d14e0-8ba1-407c-8c69-6c2544843b8f",
+        "trainer_name": "bertolupin",
+        "result": "win"
+      }
+    },
+    "2024-05-29T13:22:44.387007+00:00": {
+      "this_amiibo": {
+        "rating": 23.973079599071966,
+        "rating_mu": 27.687077991669874,
+        "rating_sigma": 1.2379994641993028,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "4dbf4ce5-ac9c-4128-8afb-8e72a61e5296",
+        "name": "Brent",
+        "rating": 23.70044912990188,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "loss"
+      }
+    },
+    "2024-05-31T22:22:07.124369+00:00": {
+      "this_amiibo": {
+        "rating": 24.175058777048626,
+        "rating_mu": 27.852446119987782,
+        "rating_sigma": 1.2257957809797189,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "50afce13-1bef-40cb-8e98-1c72c4b84189",
+        "name": "Triple D",
+        "rating": 23.070743078039417,
+        "trainer_id": "77ec4a16-c468-4738-9563-fc51f7fa730e",
+        "trainer_name": "fearwick9",
+        "result": "loss"
+      }
     }
   }
 }

@@ -412,6 +412,40 @@
         "trainer_name": "mf_dimi",
         "result": "loss"
       }
+    },
+    "2024-06-08T12:27:01.569905+00:00": {
+      "this_amiibo": {
+        "rating": 23.84243911155785,
+        "rating_mu": 28.551356905315657,
+        "rating_sigma": 1.5696392645859352,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "802f2c2f-ba63-47af-8861-cd26d0cf3aff",
+        "name": "Tatsu",
+        "rating": 26.57691045280492,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2024-06-10T02:32:51.143110+00:00": {
+      "this_amiibo": {
+        "rating": 23.663494347194117,
+        "rating_mu": 28.33660778311164,
+        "rating_sigma": 1.5577044786391743,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "4b32a90e-f254-48ba-ab15-d2d746f27696",
+        "name": "big Yoshii",
+        "rating": 15.678786187447209,
+        "trainer_id": "5a3f5dc5-53cf-4ba8-b102-31cf7771ecba",
+        "trainer_name": "doveman14",
+        "result": "win"
+      }
     }
   }
 }

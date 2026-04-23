@@ -1398,6 +1398,57 @@
         "trainer_name": "UltraDPG",
         "result": "loss"
       }
+    },
+    "2021-06-08T23:25:52.467593+00:00": {
+      "this_amiibo": {
+        "rating": 23.63512293271466,
+        "rating_mu": 27.808074601429276,
+        "rating_sigma": 1.3909838895715396,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "5a9f36a6-8a90-4659-a3ab-74a442528774",
+        "name": "Boney",
+        "rating": 21.726692713511817,
+        "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
+        "trainer_name": "YM44",
+        "result": "win"
+      }
+    },
+    "2021-06-15T14:09:44.885951+00:00": {
+      "this_amiibo": {
+        "rating": 24.046569910358187,
+        "rating_mu": 28.14856252500928,
+        "rating_sigma": 1.3673308715503643,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "b13af339-58fc-4451-b5ef-9d0a0d48d576",
+        "name": "Butters",
+        "rating": 27.57360550033508,
+        "trainer_id": "60cc23aa-c39d-49e0-b13d-13e205d499bd",
+        "trainer_name": "youaregoknba",
+        "result": "loss"
+      }
+    },
+    "2021-06-16T22:55:44.735213+00:00": {
+      "this_amiibo": {
+        "rating": 24.293798491322068,
+        "rating_mu": 28.34964797481235,
+        "rating_sigma": 1.3519498278300937,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "74905e13-264c-4da8-98e9-54a71e7d4b33",
+        "name": "Dark Flame",
+        "rating": 18.8281966264856,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "loss"
+      }
     }
   }
 }

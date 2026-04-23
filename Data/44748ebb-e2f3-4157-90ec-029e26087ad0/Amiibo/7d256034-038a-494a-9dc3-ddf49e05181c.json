@@ -1,0 +1,77 @@
+{
+  "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+  "id": "7d256034-038a-494a-9dc3-ddf49e05181c",
+  "name": "Dog",
+  "trainer_id": "8d6a769d-19d4-4644-b439-6e87cd8a8b20",
+  "trainer_name": "someguy_456",
+  "matches": {
+    "2021-06-17T14:42:23.750969+00:00": {
+      "this_amiibo": {
+        "rating": 1.3054170115336063,
+        "rating_mu": 22.78355948998255,
+        "rating_sigma": 7.159380826149649,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "f587c59a-1bd9-4fa5-80c8-3e627117d945",
+        "name": "Archer",
+        "rating": 29.626222889897434,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "Renegade_Marbles",
+        "result": "win"
+      }
+    },
+    "2021-06-19T11:40:52.695409+00:00": {
+      "this_amiibo": {
+        "rating": 1.9427876665154784,
+        "rating_mu": 19.75222962771621,
+        "rating_sigma": 5.936480653733578,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "6bf68fde-bdd8-4f5f-b8de-64bdc3d41cdb",
+        "name": "Dorothea",
+        "rating": 22.520821062504,
+        "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
+        "trainer_name": "Sirffuzzylogik",
+        "result": "win"
+      }
+    },
+    "2021-06-20T08:47:44.456629+00:00": {
+      "this_amiibo": {
+        "rating": 6.95118406834073,
+        "rating_mu": 23.05152264677438,
+        "rating_sigma": 5.3667795261445495,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "54fc6daa-b68e-4bcb-b608-1ed1b745b89d",
+        "name": "Spark Pwog",
+        "rating": -1.4963574714653909,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "loss"
+      }
+    },
+    "2021-06-20T19:48:30.782413+00:00": {
+      "this_amiibo": {
+        "rating": 6.90224593231849,
+        "rating_mu": 21.494818235237133,
+        "rating_sigma": 4.864190767639548,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "14bd5720-8f46-4538-8b7a-b253b8b8e847",
+        "name": "Power Trip",
+        "rating": 17.191003192859018,
+        "trainer_id": "bd4dae24-8e9d-4665-9e4c-e39b115b825a",
+        "trainer_name": "dogedadolfin",
+        "result": "win"
+      }
+    }
+  }
+}
