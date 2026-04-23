@@ -820,6 +820,40 @@
         "trainer_name": "jholdc3",
         "result": "win"
       }
+    },
+    "2021-03-22T18:16:35.727276+00:00": {
+      "this_amiibo": {
+        "rating": 28.017105098312584,
+        "rating_mu": 31.85080895930572,
+        "rating_sigma": 1.2779012869977118,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "f68b469a-4d93-4f7b-9b44-41322437e954",
+        "name": "Indra",
+        "rating": 3.6474846606302096,
+        "trainer_id": "1454cbc5-0d91-4538-a0f1-4c365b049d06",
+        "trainer_name": "hono1",
+        "result": "loss"
+      }
+    },
+    "2021-03-23T04:13:06.581750+00:00": {
+      "this_amiibo": {
+        "rating": 27.851333065987703,
+        "rating_mu": 31.651508262884548,
+        "rating_sigma": 1.2667250656322815,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "7f124849-4459-48f2-94f2-7d16e85e4aa6",
+        "name": "Sif",
+        "rating": 22.899863229010805,
+        "trainer_id": "1d938197-2922-4fd5-8104-862ce6783eea",
+        "trainer_name": "Emanperson",
+        "result": "win"
+      }
     }
   }
 }

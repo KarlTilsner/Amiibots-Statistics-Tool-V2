@@ -293,6 +293,40 @@
         "trainer_name": "forenmagra",
         "result": "loss"
       }
+    },
+    "2021-04-02T00:44:49.038373+00:00": {
+      "this_amiibo": {
+        "rating": 21.04433314270773,
+        "rating_mu": 27.147118572828973,
+        "rating_sigma": 2.034261810040414,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "b270c9a2-e79d-40a7-800e-4238d660096b",
+        "name": "Cedhörisin",
+        "rating": 19.309461553570618,
+        "trainer_id": "75cc72db-3f1a-4ecb-a476-a681603d9d4e",
+        "trainer_name": "BorisTheDemonTamer",
+        "result": "win"
+      }
+    },
+    "2021-04-06T11:33:58.047485+00:00": {
+      "this_amiibo": {
+        "rating": 21.964563684049693,
+        "rating_mu": 27.843506632252137,
+        "rating_sigma": 1.959647649400814,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "bbb7a3ba-3919-4ae7-8312-7817e4be92d8",
+        "name": "Lissa",
+        "rating": 25.8956427629388,
+        "trainer_id": "981c6af2-809d-4590-80a6-e051c0344f24",
+        "trainer_name": "Cheimerman",
+        "result": "loss"
+      }
     }
   }
 }

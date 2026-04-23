@@ -55,6 +55,40 @@
         "trainer_name": "wizard_real",
         "result": "win"
       }
+    },
+    "2023-12-05T05:01:17.563512+00:00": {
+      "this_amiibo": {
+        "rating": 19.690915459491464,
+        "rating_mu": 31.4211973330897,
+        "rating_sigma": 3.9100939578660796,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "ecbc4391-1b82-4b43-af09-4de0cb101a55",
+        "name": "M2K",
+        "rating": 29.7197884256784,
+        "trainer_id": "80f98683-a318-47dd-bcf2-93f67d0878d4",
+        "trainer_name": "Sir_Dragonite",
+        "result": "win"
+      }
+    },
+    "2023-12-25T04:58:06.464309+00:00": {
+      "this_amiibo": {
+        "rating": 23.08091999391582,
+        "rating_mu": 33.518846561646754,
+        "rating_sigma": 3.4793088559103107,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "4d91c55c-ef83-438f-946f-a280259908f8",
+        "name": "CaptainKid",
+        "rating": 30.81510622644505,
+        "trainer_id": "6a92a875-ad10-4927-9ac9-43f4cea3e878",
+        "trainer_name": "ArkansasAFC",
+        "result": "loss"
+      }
     }
   }
 }

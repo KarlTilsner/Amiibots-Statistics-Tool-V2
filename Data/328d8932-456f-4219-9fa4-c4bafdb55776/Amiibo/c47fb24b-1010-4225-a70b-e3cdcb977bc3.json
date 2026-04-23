@@ -803,6 +803,57 @@
         "trainer_name": "twrecks64",
         "result": "loss"
       }
+    },
+    "2023-12-11T07:42:22.337803+00:00": {
+      "this_amiibo": {
+        "rating": 19.827243916819945,
+        "rating_mu": 23.578390474992776,
+        "rating_sigma": 1.25038218605761,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "e88ce1de-1e52-40f1-9f9b-9f2504b41530",
+        "name": "Minerva",
+        "rating": 20.579501334025938,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "loss"
+      }
+    },
+    "2023-12-17T03:43:39.177756+00:00": {
+      "this_amiibo": {
+        "rating": 19.68026456611993,
+        "rating_mu": 23.393878745031262,
+        "rating_sigma": 1.2378713929704446,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "8584904a-023f-4f6a-938c-3da41c31f9fa",
+        "name": "GerberGang",
+        "rating": 18.982200445413472,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "win"
+      }
+    },
+    "2023-12-25T09:06:16.801855+00:00": {
+      "this_amiibo": {
+        "rating": 19.52160551859643,
+        "rating_mu": 23.197919900076887,
+        "rating_sigma": 1.2254381271601518,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "03278add-bddf-4c50-bc8d-051464939730",
+        "name": "Digger Mac",
+        "rating": 17.918087964180415,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "win"
+      }
     }
   }
 }

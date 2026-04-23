@@ -1126,6 +1126,57 @@
         "trainer_name": "lavolon",
         "result": "loss"
       }
+    },
+    "2023-12-10T01:46:37.070099+00:00": {
+      "this_amiibo": {
+        "rating": 22.065271418862043,
+        "rating_mu": 25.342866251512536,
+        "rating_sigma": 1.0925316108834981,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "542903f9-447a-4995-b4c7-531a35a7fbdd",
+        "name": "5 Minutes",
+        "rating": 21.812139026045738,
+        "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
+        "trainer_name": "Lucina_Nadine",
+        "result": "win"
+      }
+    },
+    "2023-12-20T20:55:39.135139+00:00": {
+      "this_amiibo": {
+        "rating": 22.233042678317137,
+        "rating_mu": 25.490194396853443,
+        "rating_sigma": 1.0857172395121022,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "c92b854d-0858-4952-b31a-2acb7e0c4d8c",
+        "name": "Jus2Carot",
+        "rating": 17.48369611979422,
+        "trainer_id": "6dc742b4-3fe4-4c3a-8d77-81dde5ea3025",
+        "trainer_name": "ShiiroNekowo",
+        "result": "loss"
+      }
+    },
+    "2023-12-31T03:40:29.012503+00:00": {
+      "this_amiibo": {
+        "rating": 22.36754528063055,
+        "rating_mu": 25.61260274991712,
+        "rating_sigma": 1.081685823095523,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "219e7852-3276-4ac3-bf9a-cf5aefe56c05",
+        "name": "Pibu",
+        "rating": 11.187308524978947,
+        "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
+        "trainer_name": "bubs_yt",
+        "result": "loss"
+      }
     }
   }
 }

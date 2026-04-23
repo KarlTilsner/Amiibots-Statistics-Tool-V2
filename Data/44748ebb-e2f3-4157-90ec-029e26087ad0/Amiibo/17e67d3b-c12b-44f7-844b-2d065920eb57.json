@@ -1,7 +1,7 @@
 {
   "character_id": "3a80cdac-93bb-4a75-8e38-f69f37d10ec6",
   "id": "17e67d3b-c12b-44f7-844b-2d065920eb57",
-  "name": "Wario",
+  "name": "Garlic Man",
   "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
   "trainer_name": "RockMyRole",
   "matches": {
@@ -88,6 +88,57 @@
         "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
         "trainer_name": "spike2the9th",
         "result": "win"
+      }
+    },
+    "2021-03-23T13:35:26.116996+00:00": {
+      "this_amiibo": {
+        "rating": 12.892499714059868,
+        "rating_mu": 23.921077653533207,
+        "rating_sigma": 3.676192646491113,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "1e76e001-908a-4dbc-aa47-a6ec9dca2966",
+        "name": "Malware",
+        "rating": 23.734118403855426,
+        "trainer_id": "e8477299-0a2c-4fe7-91b4-65bdfdc798f4",
+        "trainer_name": "TargetBrandTank",
+        "result": "loss"
+      }
+    },
+    "2021-03-29T19:21:32.104046+00:00": {
+      "this_amiibo": {
+        "rating": 15.241191037546614,
+        "rating_mu": 25.915725721332564,
+        "rating_sigma": 3.55817822792865,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "55fa4feb-b8d1-4dd1-b1b8-dba0f7efcea8",
+        "name": "Red Knight",
+        "rating": 15.735151338275637,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "Renegade_Marbles",
+        "result": "loss"
+      }
+    },
+    "2021-03-30T17:38:54.512188+00:00": {
+      "this_amiibo": {
+        "rating": 19.079830892204836,
+        "rating_mu": 28.6321945999234,
+        "rating_sigma": 3.1841212359061886,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "4c6d9dc9-d675-4dd3-b0bb-802b3252364c",
+        "name": "Flaren",
+        "rating": 26.834973923506016,
+        "trainer_id": "f4f59e08-d78e-45b1-89f0-4f44707ab850",
+        "trainer_name": "fuego_incineroar15",
+        "result": "loss"
       }
     }
   }

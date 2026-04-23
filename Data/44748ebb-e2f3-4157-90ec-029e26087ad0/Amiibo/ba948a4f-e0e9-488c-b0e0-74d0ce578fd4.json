@@ -684,6 +684,57 @@
         "trainer_name": "random_fire",
         "result": "loss"
       }
+    },
+    "2021-03-24T20:47:54.455119+00:00": {
+      "this_amiibo": {
+        "rating": 24.375575629468237,
+        "rating_mu": 28.375164122158466,
+        "rating_sigma": 1.3331961642300765,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "4ba2464f-7e3b-47fc-9068-1a45c4592c9e",
+        "name": "Arthur!",
+        "rating": 29.591855716469695,
+        "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
+        "trainer_name": "Murbert_AM",
+        "result": "win"
+      }
+    },
+    "2021-03-25T11:34:15.919013+00:00": {
+      "this_amiibo": {
+        "rating": 24.69724961129041,
+        "rating_mu": 28.64179386246875,
+        "rating_sigma": 1.3148480837261132,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "7dd32e1b-84cf-48e7-b903-3fa42d70ac8f",
+        "name": "Unpac-ked",
+        "rating": 24.657474183846286,
+        "trainer_id": "b079e5eb-cecb-48d2-a350-091fc4698bd3",
+        "trainer_name": "kangasmom",
+        "result": "loss"
+      }
+    },
+    "2021-04-01T08:12:24.080887+00:00": {
+      "this_amiibo": {
+        "rating": 24.848033776152953,
+        "rating_mu": 28.758296347700657,
+        "rating_sigma": 1.3034208571825683,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "b887a050-d3a0-4d0b-8ece-fc5f4dafdf7f",
+        "name": "Lambda 11",
+        "rating": 21.39761604422111,
+        "trainer_id": "41543e47-6a1f-46db-aef3-b8234a64ea7e",
+        "trainer_name": "DestinyDragonGS",
+        "result": "loss"
+      }
     }
   }
 }

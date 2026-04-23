@@ -1,0 +1,43 @@
+{
+  "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+  "id": "cf1475d4-fa28-4e6b-8b51-8859a4cdf512",
+  "name": "Ω Mario",
+  "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
+  "trainer_name": "raid_boss_09",
+  "matches": {
+    "2023-12-05T16:59:38.751337+00:00": {
+      "this_amiibo": {
+        "rating": 0.42499998530868766,
+        "rating_mu": 20.368217129216994,
+        "rating_sigma": 6.647739047969436,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "c1e0d339-29b8-4c25-be2c-52e260b9eaf0",
+        "name": "Noodle",
+        "rating": 17.141556415284498,
+        "trainer_id": "b4ded674-d14a-4e96-a0c7-5dc00906f8f7",
+        "trainer_name": "aggron_ghost",
+        "result": "win"
+      }
+    },
+    "2023-12-29T10:19:03.849920+00:00": {
+      "this_amiibo": {
+        "rating": 7.969322393730188,
+        "rating_mu": 24.113005948100707,
+        "rating_sigma": 5.381227851456839,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3a80cdac-93bb-4a75-8e38-f69f37d10ec6",
+        "id": "eb1347b5-5ec9-4593-8452-b5109d2af541",
+        "name": "DrangedMan",
+        "rating": 17.025356951256526,
+        "trainer_id": "989b85c3-4ffc-41c0-8596-2d2c67fd7158",
+        "trainer_name": "tealeevz",
+        "result": "loss"
+      }
+    }
+  }
+}
