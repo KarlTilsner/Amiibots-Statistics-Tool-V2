@@ -633,6 +633,40 @@
         "trainer_name": "unoptimalprime",
         "result": "loss"
       }
+    },
+    "2024-08-03T20:04:04.858759+00:00": {
+      "this_amiibo": {
+        "rating": 15.990616826469292,
+        "rating_mu": 20.120258369480094,
+        "rating_sigma": 1.3765471810036003,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "80078911-49c8-4204-8b1f-d498721be246",
+        "name": "FEELIN IT!",
+        "rating": 8.304150213733221,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "win"
+      }
+    },
+    "2024-08-04T18:14:42.915797+00:00": {
+      "this_amiibo": {
+        "rating": 16.283189929451943,
+        "rating_mu": 20.354480237676476,
+        "rating_sigma": 1.3570967694081784,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "0cfa7de8-7e13-4ac3-a7f6-710b93715258",
+        "name": "Sans",
+        "rating": 17.068206548465618,
+        "trainer_id": "5f193754-19cc-4e88-a09f-cd36122614ca",
+        "trainer_name": "twrecks64",
+        "result": "loss"
+      }
     }
   }
 }

@@ -2316,6 +2316,57 @@
         "trainer_name": "theprojectneon",
         "result": "loss"
       }
+    },
+    "2024-08-10T17:37:01.892582+00:00": {
+      "this_amiibo": {
+        "rating": 30.944602104840392,
+        "rating_mu": 33.50910327856138,
+        "rating_sigma": 0.8548337245736635,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "bc323fbd-ae41-4d7e-b7c6-2b1261576461",
+        "name": "Peter",
+        "rating": 30.810113305190576,
+        "trainer_id": "a9ec9d87-61e1-4c87-be6d-3442cf3a59d4",
+        "trainer_name": "bluerunner0",
+        "result": "win"
+      }
+    },
+    "2024-08-12T03:00:15.624842+00:00": {
+      "this_amiibo": {
+        "rating": 31.04342770955414,
+        "rating_mu": 33.60354402689064,
+        "rating_sigma": 0.8533721057788322,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "bc323fbd-ae41-4d7e-b7c6-2b1261576461",
+        "name": "Peter",
+        "rating": 30.726555442154194,
+        "trainer_id": "a9ec9d87-61e1-4c87-be6d-3442cf3a59d4",
+        "trainer_name": "bluerunner0",
+        "result": "loss"
+      }
+    },
+    "2024-08-15T06:19:46.405851+00:00": {
+      "this_amiibo": {
+        "rating": 31.148243968521513,
+        "rating_mu": 33.70401431131664,
+        "rating_sigma": 0.8519234475983757,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "a28e767e-7bb6-44cb-895e-3a85f837a538",
+        "name": "Catatheos",
+        "rating": 29.759071659435484,
+        "trainer_id": "26a79307-74a7-4d40-8f4c-d74a38878187",
+        "trainer_name": "Nightmare5135",
+        "result": "loss"
+      }
     }
   }
 }

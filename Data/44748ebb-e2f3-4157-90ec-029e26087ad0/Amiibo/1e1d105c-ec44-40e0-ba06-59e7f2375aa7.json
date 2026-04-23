@@ -21,6 +21,74 @@
         "trainer_name": "agent_gforce",
         "result": "win"
       }
+    },
+    "2021-07-06T15:59:55.351268+00:00": {
+      "this_amiibo": {
+        "rating": -0.08303093387505811,
+        "rating_mu": 20.035718843132393,
+        "rating_sigma": 6.70624992566915,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "dfe77814-f41f-46ac-90e9-190d29957a64",
+        "name": "Zelda",
+        "rating": 31.69155424338259,
+        "trainer_id": "04df26b0-7d56-4be5-8971-45f8f5df7b9d",
+        "trainer_name": "eaikistone",
+        "result": "win"
+      }
+    },
+    "2021-07-06T23:59:30.103030+00:00": {
+      "this_amiibo": {
+        "rating": 12.275957432619405,
+        "rating_mu": 27.434666380524146,
+        "rating_sigma": 5.052902982634913,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "2a196d4e-fa7b-45da-a318-50455f3a67ef",
+        "name": "IAMSPEED",
+        "rating": 22.951888376244867,
+        "trainer_id": "c38191e3-5f4d-4c5d-9c66-66436166b005",
+        "trainer_name": "qscxz512",
+        "result": "loss"
+      }
+    },
+    "2021-07-20T12:25:37.284370+00:00": {
+      "this_amiibo": {
+        "rating": 12.415213153462087,
+        "rating_mu": 26.081352763114698,
+        "rating_sigma": 4.555379869884203,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "670c903f-7878-485e-b42f-b0980e781887",
+        "name": "Paviso",
+        "rating": 27.990977867506174,
+        "trainer_id": "75cc72db-3f1a-4ecb-a476-a681603d9d4e",
+        "trainer_name": "BorisTheDemonTamer",
+        "result": "win"
+      }
+    },
+    "2021-07-20T19:16:30.036118+00:00": {
+      "this_amiibo": {
+        "rating": 10.214131983462444,
+        "rating_mu": 22.234096081633346,
+        "rating_sigma": 4.0066546993903005,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "58364f55-ed79-40ea-b067-d33010c27e4f",
+        "name": "Aura",
+        "rating": 8.653169761236036,
+        "trainer_id": "4ad370a1-5d2c-4519-a253-8af2eeed1443",
+        "trainer_name": "drweegeepie",
+        "result": "win"
+      }
     }
   }
 }

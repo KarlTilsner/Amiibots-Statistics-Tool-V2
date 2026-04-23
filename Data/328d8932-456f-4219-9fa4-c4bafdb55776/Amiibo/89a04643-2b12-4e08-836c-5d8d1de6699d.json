@@ -242,6 +242,57 @@
         "trainer_name": "theprojectneon",
         "result": "loss"
       }
+    },
+    "2024-08-02T14:18:38.739585+00:00": {
+      "this_amiibo": {
+        "rating": 15.029644831111874,
+        "rating_mu": 21.43254601841467,
+        "rating_sigma": 2.134300395767599,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "e88ce1de-1e52-40f1-9f9b-9f2504b41530",
+        "name": "Minerva",
+        "rating": 21.185528307264896,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "win"
+      }
+    },
+    "2024-08-07T14:38:38.138209+00:00": {
+      "this_amiibo": {
+        "rating": 15.821474173874332,
+        "rating_mu": 22.005307789641034,
+        "rating_sigma": 2.0612778719222336,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "c9f38f94-b878-4b85-8921-43237aa1fad4",
+        "name": "Bug <3",
+        "rating": 15.741595105754428,
+        "trainer_id": "dd0f3778-cdcb-4c39-9401-8c35d4116745",
+        "trainer_name": "ZEgg87",
+        "result": "loss"
+      }
+    },
+    "2024-08-25T00:01:00.841760+00:00": {
+      "this_amiibo": {
+        "rating": 16.476887280659327,
+        "rating_mu": 22.487934265042153,
+        "rating_sigma": 2.003682328127608,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+        "id": "c4973204-db16-4037-8641-31a05a211b02",
+        "name": "Fred&Jamy",
+        "rating": 12.66926163944162,
+        "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
+        "trainer_name": "leCharade",
+        "result": "loss"
+      }
     }
   }
 }

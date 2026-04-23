@@ -174,6 +174,40 @@
         "trainer_name": "ne15son64",
         "result": "loss"
       }
+    },
+    "2021-07-06T02:25:53.432357+00:00": {
+      "this_amiibo": {
+        "rating": 21.377877523741315,
+        "rating_mu": 29.677952460062524,
+        "rating_sigma": 2.766691645440403,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "37c2f05f-47f2-4005-9261-58b9807521fb",
+        "name": "Endeavor",
+        "rating": 34.652294298232555,
+        "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
+        "trainer_name": "spike2the9th",
+        "result": "win"
+      }
+    },
+    "2021-07-16T17:08:13.388523+00:00": {
+      "this_amiibo": {
+        "rating": 22.82146320573389,
+        "rating_mu": 30.63514825382204,
+        "rating_sigma": 2.6045616826960507,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "8b75f161-c354-40e3-ae2e-8650ec14c7f7",
+        "name": "Blue2",
+        "rating": 27.274015989809236,
+        "trainer_id": "4e5c570d-b1a0-46f7-a6a7-ce9b5b125a30",
+        "trainer_name": "BIue_2",
+        "result": "loss"
+      }
     }
   }
 }

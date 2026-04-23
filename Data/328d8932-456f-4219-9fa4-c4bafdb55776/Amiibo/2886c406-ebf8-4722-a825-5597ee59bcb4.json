@@ -1398,6 +1398,57 @@
         "trainer_name": "SwiftSG_Official",
         "result": "win"
       }
+    },
+    "2024-07-28T11:52:02.901046+00:00": {
+      "this_amiibo": {
+        "rating": 29.976771429381234,
+        "rating_mu": 32.847515359051656,
+        "rating_sigma": 0.9569146432234735,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "ff0058f0-9f60-416b-a9dd-b5b9be0404be",
+        "name": "Azrael",
+        "rating": 30.41409202308948,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2024-07-28T09:57:40.966500+00:00": {
+      "this_amiibo": {
+        "rating": 30.091172276979254,
+        "rating_mu": 32.975193985796565,
+        "rating_sigma": 0.9613405696057709,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "349bdf30-ed8f-4f55-9c76-b0a32c15d2ce",
+        "name": "Dr. Soulja",
+        "rating": 30.287773229608707,
+        "trainer_id": "790bfdd9-7935-4d8a-a2ef-e98e39633f80",
+        "trainer_name": "wizard_real",
+        "result": "loss"
+      }
+    },
+    "2024-08-17T14:44:39.156860+00:00": {
+      "this_amiibo": {
+        "rating": 30.08657907284043,
+        "rating_mu": 32.951978221898365,
+        "rating_sigma": 0.9551330496859788,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "28dd2a13-0508-4a25-b782-d35fa77c65b9",
+        "name": "Got Milk?",
+        "rating": 20.053675326835037,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "loss"
+      }
     }
   }
 }

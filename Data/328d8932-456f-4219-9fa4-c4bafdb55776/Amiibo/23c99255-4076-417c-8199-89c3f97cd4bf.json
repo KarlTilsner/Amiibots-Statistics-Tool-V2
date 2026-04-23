@@ -854,6 +854,40 @@
         "trainer_name": "improv_195",
         "result": "loss"
       }
+    },
+    "2024-08-17T05:19:28.482825+00:00": {
+      "this_amiibo": {
+        "rating": 25.678237342186456,
+        "rating_mu": 29.134502876138445,
+        "rating_sigma": 1.1520885113173298,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "edc9f298-1b41-4de7-bba0-aefc1fd5d9ea",
+        "name": "Excaliburn",
+        "rating": 22.876352172089497,
+        "trainer_id": "130d14e0-8ba1-407c-8c69-6c2544843b8f",
+        "trainer_name": "bertolupin",
+        "result": "win"
+      }
+    },
+    "2024-08-19T20:11:12.586175+00:00": {
+      "this_amiibo": {
+        "rating": 25.550309114201365,
+        "rating_mu": 28.98646722646072,
+        "rating_sigma": 1.1453860374197855,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "dc4fdac9-55f0-41de-abf0-f912c9f91f02",
+        "name": "Hitmonchan",
+        "rating": 20.537793492813933,
+        "trainer_id": "07f01019-dfcb-4d9c-9680-e6c47467818f",
+        "trainer_name": "hasidery",
+        "result": "win"
+      }
     }
   }
 }

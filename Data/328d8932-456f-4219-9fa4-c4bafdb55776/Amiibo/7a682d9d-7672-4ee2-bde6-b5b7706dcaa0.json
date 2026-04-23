@@ -276,6 +276,57 @@
         "trainer_name": "atomic_salvy",
         "result": "loss"
       }
+    },
+    "2024-08-10T22:14:46.759154+00:00": {
+      "this_amiibo": {
+        "rating": 13.361870687070555,
+        "rating_mu": 19.435731716973095,
+        "rating_sigma": 2.0246203433008465,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "f1c4c494-5dc9-408c-abee-962608e1a3b3",
+        "name": "Shadow MLL",
+        "rating": 18.175550437760265,
+        "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
+        "trainer_name": "raid_boss_09",
+        "result": "win"
+      }
+    },
+    "2024-08-11T16:05:03.663613+00:00": {
+      "this_amiibo": {
+        "rating": 13.240694876216727,
+        "rating_mu": 19.176386789132092,
+        "rating_sigma": 1.9785639709717882,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "83fdca12-25f5-47c7-9e5f-4398ce71a455",
+        "name": "Vapor Jr.",
+        "rating": 21.566350918447785,
+        "trainer_id": "8da52313-7867-4448-992b-710b18dc4742",
+        "trainer_name": "Vapor73",
+        "result": "win"
+      }
+    },
+    "2024-08-16T01:54:05.019313+00:00": {
+      "this_amiibo": {
+        "rating": 14.102214593988888,
+        "rating_mu": 19.83703941356738,
+        "rating_sigma": 1.9116082731928299,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
+        "id": "d1d7d0a2-40bc-4bcd-a963-b11abdd5f19d",
+        "name": "Lloyd",
+        "rating": 16.65173005780107,
+        "trainer_id": "6f4da470-4db4-42e2-a01d-7bc9856391c3",
+        "trainer_name": "theprojectneon",
+        "result": "loss"
+      }
     }
   }
 }

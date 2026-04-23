@@ -1398,6 +1398,57 @@
         "trainer_name": "nonSenseTaco",
         "result": "loss"
       }
+    },
+    "2021-07-08T08:54:30.718204+00:00": {
+      "this_amiibo": {
+        "rating": 27.9520900745044,
+        "rating_mu": 31.06509082334545,
+        "rating_sigma": 1.0376669162803493,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "3ce1b62b-a04d-4534-ba08-2d33d2b573cf",
+        "name": "Lavenza",
+        "rating": 20.051531865279728,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "loss"
+      }
+    },
+    "2021-07-10T01:30:22.803288+00:00": {
+      "this_amiibo": {
+        "rating": 27.86889711065142,
+        "rating_mu": 30.968492716523055,
+        "rating_sigma": 1.033198535290545,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "fe477941-38c2-4fc0-9faa-eaef8922dc13",
+        "name": "Sobek",
+        "rating": 28.738487051946223,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "Renegade_Marbles",
+        "result": "win"
+      }
+    },
+    "2021-07-10T23:50:10.601327+00:00": {
+      "this_amiibo": {
+        "rating": 27.91606423331452,
+        "rating_mu": 31.017884206139886,
+        "rating_sigma": 1.0339399909417892,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
+        "id": "487531cd-2892-4f2c-bda4-64aa5dbb925b",
+        "name": "Velocity",
+        "rating": 1.2754500300758451,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "Renegade_Marbles",
+        "result": "loss"
+      }
     }
   }
 }

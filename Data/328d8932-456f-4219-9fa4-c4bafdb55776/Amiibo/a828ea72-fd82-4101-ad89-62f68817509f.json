@@ -990,6 +990,57 @@
         "trainer_name": "wizard_real",
         "result": "loss"
       }
+    },
+    "2024-08-01T14:46:12.863162+00:00": {
+      "this_amiibo": {
+        "rating": 36.2832183865156,
+        "rating_mu": 39.54705993788815,
+        "rating_sigma": 1.0879471837908494,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "0892e21e-2fb0-4c16-9f92-041cfd69f04e",
+        "name": "MasterGuin",
+        "rating": 36.10807975410592,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "loss"
+      }
+    },
+    "2024-08-04T17:03:19.857759+00:00": {
+      "this_amiibo": {
+        "rating": 36.44484606805336,
+        "rating_mu": 39.6869643711881,
+        "rating_sigma": 1.0807061010449122,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
+        "id": "69e35826-fb5a-4f2d-9f3c-2f98982833f6",
+        "name": "Maru Min",
+        "rating": 34.076605295119194,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
+        "result": "loss"
+      }
+    },
+    "2024-08-12T06:14:20.189090+00:00": {
+      "this_amiibo": {
+        "rating": 36.32383064663638,
+        "rating_mu": 39.54353435482247,
+        "rating_sigma": 1.0732345693953618,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
+        "id": "69e35826-fb5a-4f2d-9f3c-2f98982833f6",
+        "name": "Maru Min",
+        "rating": 37.29863880268664,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
+        "result": "win"
+      }
     }
   }
 }

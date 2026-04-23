@@ -650,6 +650,57 @@
         "trainer_name": "tucbyt",
         "result": "loss"
       }
+    },
+    "2024-07-28T00:51:13.619930+00:00": {
+      "this_amiibo": {
+        "rating": 23.345213067435374,
+        "rating_mu": 27.36119711283671,
+        "rating_sigma": 1.3386613484671117,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "89ea5677-4ccc-4ba3-b222-980da25fc416",
+        "name": "Smash 6",
+        "rating": 25.27975472739149,
+        "trainer_id": "c5cc2d25-2550-4577-8299-9430ca309ca2",
+        "trainer_name": "tucbyt",
+        "result": "win"
+      }
+    },
+    "2024-08-14T04:24:34.904433+00:00": {
+      "this_amiibo": {
+        "rating": 23.184824099239705,
+        "rating_mu": 27.148956426049857,
+        "rating_sigma": 1.3213774422700502,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7",
+        "id": "41b628f8-2158-4812-847a-7f7ba6bdbf8e",
+        "name": "Rill",
+        "rating": 25.751814512065458,
+        "trainer_id": "b9f75440-e3f7-4c8e-8a3f-8dc09b8327ae",
+        "trainer_name": "blackstargem11",
+        "result": "win"
+      }
+    },
+    "2024-08-22T04:27:51.943867+00:00": {
+      "this_amiibo": {
+        "rating": 23.484144072718966,
+        "rating_mu": 27.39430677496557,
+        "rating_sigma": 1.3033875674155353,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "89ea5677-4ccc-4ba3-b222-980da25fc416",
+        "name": "Smash 6",
+        "rating": 25.12175719581444,
+        "trainer_id": "c5cc2d25-2550-4577-8299-9430ca309ca2",
+        "trainer_name": "tucbyt",
+        "result": "loss"
+      }
     }
   }
 }

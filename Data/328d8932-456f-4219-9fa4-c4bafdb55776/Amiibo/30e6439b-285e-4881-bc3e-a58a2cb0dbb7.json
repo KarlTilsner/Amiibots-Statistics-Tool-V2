@@ -157,6 +157,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2024-08-06T22:28:24.963627+00:00": {
+      "this_amiibo": {
+        "rating": 19.952147341495277,
+        "rating_mu": 27.96417118360511,
+        "rating_sigma": 2.6706746140366118,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "5f01ff57-663d-4e3b-8ecc-7b252b125b6c",
+        "name": "Vassie",
+        "rating": 27.555266182865775,
+        "trainer_id": "4109b186-2c35-4e06-9fb2-0814df014469",
+        "trainer_name": "vasanthias",
+        "result": "win"
+      }
+    },
+    "2024-08-25T11:48:27.045149+00:00": {
+      "this_amiibo": {
+        "rating": 19.37643182817792,
+        "rating_mu": 26.91739721821981,
+        "rating_sigma": 2.5136551300139627,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "f95fe600-67cf-4ae5-862c-4bcba2e3cf50",
+        "name": "Dallas",
+        "rating": 23.996819655593413,
+        "trainer_id": "6a92a875-ad10-4927-9ac9-43f4cea3e878",
+        "trainer_name": "ArkansasAFC",
+        "result": "win"
+      }
     }
   }
 }
