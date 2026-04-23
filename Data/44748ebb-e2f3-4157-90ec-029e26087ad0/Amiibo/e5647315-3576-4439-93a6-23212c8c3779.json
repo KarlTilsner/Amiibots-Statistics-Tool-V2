@@ -208,6 +208,40 @@
         "trainer_name": "rapjm14",
         "result": "loss"
       }
+    },
+    "2021-05-26T22:37:42.423227+00:00": {
+      "this_amiibo": {
+        "rating": 19.85164920893591,
+        "rating_mu": 26.779450045628817,
+        "rating_sigma": 2.3092669455643016,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "ab89c20e-b996-4e40-a927-e8954cfac211",
+        "name": "BBCalamari",
+        "rating": 19.237651066205373,
+        "trainer_id": "00937824-4c06-4098-9c8f-af1c024f7fdb",
+        "trainer_name": "pika123203",
+        "result": "win"
+      }
+    },
+    "2021-06-03T04:57:47.010399+00:00": {
+      "this_amiibo": {
+        "rating": 21.64498539295628,
+        "rating_mu": 28.194062978061375,
+        "rating_sigma": 2.1830258617016987,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "3c0286b1-07b1-41c1-9f11-dc87a79fa0b5",
+        "name": "Chesburger",
+        "rating": 31.475624526872412,
+        "trainer_id": "fb659a93-73d7-4f74-aebf-881bd7829482",
+        "trainer_name": "DustBuckit",
+        "result": "loss"
+      }
     }
   }
 }

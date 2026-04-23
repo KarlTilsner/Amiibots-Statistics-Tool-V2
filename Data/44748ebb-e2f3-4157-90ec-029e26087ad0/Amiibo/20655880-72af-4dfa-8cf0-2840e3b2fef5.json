@@ -327,6 +327,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2021-05-23T04:09:16.364126+00:00": {
+      "this_amiibo": {
+        "rating": 25.485092435063343,
+        "rating_mu": 31.589876602158725,
+        "rating_sigma": 2.034928055698461,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "218bda1a-e144-46e3-8ebe-9a4dfa339ebb",
+        "name": "Jaco",
+        "rating": 15.732210737097223,
+        "trainer_id": "0c68330f-ee61-4b66-a921-01b80640040a",
+        "trainer_name": "spc_ac",
+        "result": "loss"
+      }
+    },
+    "2021-05-23T20:31:21.410418+00:00": {
+      "this_amiibo": {
+        "rating": 26.461230760212594,
+        "rating_mu": 32.33518021151581,
+        "rating_sigma": 1.9579831504344065,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "653d8ce4-42b2-4764-aa38-50cda1e4fb0d",
+        "name": "Noctis",
+        "rating": 31.275386317874954,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "loss"
+      }
     }
   }
 }

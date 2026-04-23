@@ -633,6 +633,57 @@
         "trainer_name": "NoMoreHamburgerTime",
         "result": "loss"
       }
+    },
+    "2021-05-31T10:52:43.933119+00:00": {
+      "this_amiibo": {
+        "rating": 23.19230627887253,
+        "rating_mu": 27.605189875700813,
+        "rating_sigma": 1.4709611989427611,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "6120ec7f-f664-4f06-91ba-6b0b03f1c5d5",
+        "name": "Sideways",
+        "rating": 23.336798465169476,
+        "trainer_id": "3e1642f4-3a61-4225-bd2d-d551616be0fa",
+        "trainer_name": "doopfizzle",
+        "result": "win"
+      }
+    },
+    "2021-06-02T01:00:28.976417+00:00": {
+      "this_amiibo": {
+        "rating": 23.51022834071168,
+        "rating_mu": 27.864026772037604,
+        "rating_sigma": 1.4512661437753076,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "8ea33774-8d68-48c5-9106-82f2f550a3ec",
+        "name": "Jade",
+        "rating": 17.687219235979555,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "loss"
+      }
+    },
+    "2021-06-03T16:18:01.133859+00:00": {
+      "this_amiibo": {
+        "rating": 23.677026325060982,
+        "rating_mu": 27.986288126093815,
+        "rating_sigma": 1.4364206003442777,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "bcab8de8-fdfb-4a85-a2f6-28c7155e78cc",
+        "name": "Rek Strife",
+        "rating": 19.849120932605878,
+        "trainer_id": "de8bfcb6-60de-48e2-8a23-31517707e203",
+        "trainer_name": "rekcuf_nmad",
+        "result": "loss"
+      }
     }
   }
 }

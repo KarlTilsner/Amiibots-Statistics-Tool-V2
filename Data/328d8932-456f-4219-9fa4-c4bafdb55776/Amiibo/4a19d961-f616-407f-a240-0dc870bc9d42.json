@@ -2384,6 +2384,57 @@
         "trainer_name": "improv_195",
         "result": "win"
       }
+    },
+    "2024-04-24T10:26:12.226209+00:00": {
+      "this_amiibo": {
+        "rating": 29.506948388873663,
+        "rating_mu": 32.290510201785835,
+        "rating_sigma": 0.927853937637391,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "bc323fbd-ae41-4d7e-b7c6-2b1261576461",
+        "name": "Peter",
+        "rating": 30.34910126603366,
+        "trainer_id": "a9ec9d87-61e1-4c87-be6d-3442cf3a59d4",
+        "trainer_name": "bluerunner0",
+        "result": "win"
+      }
+    },
+    "2024-04-29T11:26:01.794154+00:00": {
+      "this_amiibo": {
+        "rating": 29.637686129698864,
+        "rating_mu": 32.41118375033971,
+        "rating_sigma": 0.9244992068802819,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "41ea5d24-ad40-42a8-993f-45e95b893a99",
+        "name": "Red Bull",
+        "rating": 28.521049609622615,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "loss"
+      }
+    },
+    "2024-05-08T02:18:53.193566+00:00": {
+      "this_amiibo": {
+        "rating": 29.769453009852775,
+        "rating_mu": 32.53285834442692,
+        "rating_sigma": 0.9211351115247145,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "41ea5d24-ad40-42a8-993f-45e95b893a99",
+        "name": "Red Bull",
+        "rating": 29.157911977344657,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "loss"
+      }
     }
   }
 }

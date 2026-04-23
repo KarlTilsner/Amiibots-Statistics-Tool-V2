@@ -1245,6 +1245,57 @@
         "trainer_name": "PhantomD_SSB",
         "result": "loss"
       }
+    },
+    "2024-05-15T06:49:13.931973+00:00": {
+      "this_amiibo": {
+        "rating": 18.640324770578356,
+        "rating_mu": 21.87045368727852,
+        "rating_sigma": 1.0767096389000541,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "22c8108a-bdf6-42ae-abde-3b141edb3bc2",
+        "name": "Plunderer",
+        "rating": 22.37063874736771,
+        "trainer_id": "71a13158-2491-4805-ab71-01094a714e46",
+        "trainer_name": "DansOtherClone",
+        "result": "win"
+      }
+    },
+    "2024-05-16T06:16:44.149167+00:00": {
+      "this_amiibo": {
+        "rating": 18.851595040457244,
+        "rating_mu": 22.058928117492524,
+        "rating_sigma": 1.0691110256784269,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "fafe8792-5859-4794-80c4-75d433cd5ff9",
+        "name": "Yeehaw",
+        "rating": 16.59150116187272,
+        "trainer_id": "71a13158-2491-4805-ab71-01094a714e46",
+        "trainer_name": "DansOtherClone",
+        "result": "loss"
+      }
+    },
+    "2024-05-16T22:09:52.304199+00:00": {
+      "this_amiibo": {
+        "rating": 19.112672440028245,
+        "rating_mu": 22.29158666671527,
+        "rating_sigma": 1.0596380755623414,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "38fead34-3962-480b-955c-3bfa87d39393",
+        "name": "BrawlerGuy",
+        "rating": 23.203262100898808,
+        "trainer_id": "81801258-d8a9-47aa-8659-e4d457707b41",
+        "trainer_name": "JB_Indigo",
+        "result": "loss"
+      }
     }
   }
 }

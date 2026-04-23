@@ -4696,6 +4696,57 @@
         "trainer_name": "Precision_Rhythm",
         "result": "loss"
       }
+    },
+    "2021-05-23T04:57:31.845370+00:00": {
+      "this_amiibo": {
+        "rating": 27.88512045546531,
+        "rating_mu": 30.404099463633475,
+        "rating_sigma": 0.8396596693893892,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "c59ed452-d883-4e65-b09e-599236aa2411",
+        "name": "Doc",
+        "rating": 28.75775214617156,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "Renegade_Marbles",
+        "result": "win"
+      }
+    },
+    "2021-05-23T01:09:53.253240+00:00": {
+      "this_amiibo": {
+        "rating": 27.950973544797257,
+        "rating_mu": 30.4707218878823,
+        "rating_sigma": 0.8399161143616802,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "83f14565-1770-4997-b7a5-4fa85e516a7f",
+        "name": "Jacob",
+        "rating": 23.03529862821742,
+        "trainer_id": "4f6f55b1-cf3e-4c7b-a378-2641d72fcf23",
+        "trainer_name": "TheLimpWalrus",
+        "result": "loss"
+      }
+    },
+    "2021-05-24T13:22:15.635824+00:00": {
+      "this_amiibo": {
+        "rating": 27.98898487268498,
+        "rating_mu": 30.506685288402693,
+        "rating_sigma": 0.8392334719059039,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "e30fb192-b36a-40ed-aee8-fbe505f11413",
+        "name": "Spwike",
+        "rating": 21.814087543019554,
+        "trainer_id": "5d3b8188-c17a-4198-acb8-a011895c7c7e",
+        "trainer_name": "MonoMalard",
+        "result": "loss"
+      }
     }
   }
 }

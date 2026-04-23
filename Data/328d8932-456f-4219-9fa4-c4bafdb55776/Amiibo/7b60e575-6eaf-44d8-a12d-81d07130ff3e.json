@@ -106,6 +106,40 @@
         "trainer_name": "27masonp",
         "result": "loss"
       }
+    },
+    "2024-04-17T23:38:00.782958+00:00": {
+      "this_amiibo": {
+        "rating": 1.3980200664852411,
+        "rating_mu": 10.666774605174407,
+        "rating_sigma": 3.089584846229722,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "36f588d1-229e-4530-8b44-489793d1c347",
+        "name": "metroid",
+        "rating": 7.908849479028373,
+        "trainer_id": "7f8b89a3-9146-4112-be99-17d04b41118f",
+        "trainer_name": "27masonp",
+        "result": "win"
+      }
+    },
+    "2024-05-02T07:59:54.675373+00:00": {
+      "this_amiibo": {
+        "rating": 3.359923332477072,
+        "rating_mu": 11.955943842975278,
+        "rating_sigma": 2.865340170166069,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "6ac0475a-8ec4-4b30-9d29-dff26ae3fe13",
+        "name": "Leo",
+        "rating": 8.038671846997335,
+        "trainer_id": "7d0252c6-1ac0-49a4-ad80-94add3decdec",
+        "trainer_name": "angelo_gaming_64",
+        "result": "loss"
+      }
     }
   }
 }

@@ -21,6 +21,40 @@
         "trainer_name": "apple_beebs",
         "result": "loss"
       }
+    },
+    "2021-05-22T17:15:31.224823+00:00": {
+      "this_amiibo": {
+        "rating": 12.829492312800728,
+        "rating_mu": 29.601443286480784,
+        "rating_sigma": 5.590650324560018,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "33a3e1ec-e3cb-4285-9505-6ccaa79032e3",
+        "name": "LuckyaPwog",
+        "rating": 32.95507973211202,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "win"
+      }
+    },
+    "2021-06-02T07:28:37.072510+00:00": {
+      "this_amiibo": {
+        "rating": 15.113401271017073,
+        "rating_mu": 30.80375127954757,
+        "rating_sigma": 5.230116669510165,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "5aa8c743-533e-4e8f-856b-554d25976aec",
+        "name": "Varian",
+        "rating": 1.407667484129938,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "loss"
+      }
     }
   }
 }

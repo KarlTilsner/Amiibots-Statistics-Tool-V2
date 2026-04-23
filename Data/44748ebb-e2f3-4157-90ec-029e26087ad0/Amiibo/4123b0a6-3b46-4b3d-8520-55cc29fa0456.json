@@ -174,6 +174,40 @@
         "trainer_name": "random_fire",
         "result": "loss"
       }
+    },
+    "2021-05-22T08:03:56.080504+00:00": {
+      "this_amiibo": {
+        "rating": 23.14848690809358,
+        "rating_mu": 30.486932569258926,
+        "rating_sigma": 2.4461485537217813,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "92ea11f2-30c0-42ee-aef8-0db2319763b1",
+        "name": "Guacamole",
+        "rating": 23.375331547569097,
+        "trainer_id": "c6f90073-b1c0-4f2e-9822-1c1906edb4ea",
+        "trainer_name": "AmiiboTrainerIcy",
+        "result": "win"
+      }
+    },
+    "2021-06-01T16:32:47.217439+00:00": {
+      "this_amiibo": {
+        "rating": 23.372831423182284,
+        "rating_mu": 30.609623731629437,
+        "rating_sigma": 2.412264102815718,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "413ef36a-1f6e-461a-ad10-4029c84d306f",
+        "name": "julk",
+        "rating": 11.702648540335739,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "loss"
+      }
     }
   }
 }
