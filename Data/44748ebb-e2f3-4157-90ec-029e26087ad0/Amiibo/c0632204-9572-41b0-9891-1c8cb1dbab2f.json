@@ -616,6 +616,40 @@
         "trainer_name": "littlefang__",
         "result": "loss"
       }
+    },
+    "2021-12-12T13:56:07.281688+00:00": {
+      "this_amiibo": {
+        "rating": 28.089563997896718,
+        "rating_mu": 32.36091517654832,
+        "rating_sigma": 1.4237837262172004,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "63e9bb09-be63-4cce-b3d6-5bfec41839c4",
+        "name": "Lysithea",
+        "rating": 25.985240818625506,
+        "trainer_id": "5b811e0a-9d5b-497a-91c7-0868e4e49a95",
+        "trainer_name": "early_mp",
+        "result": "win"
+      }
+    },
+    "2021-12-18T22:01:27.455968+00:00": {
+      "this_amiibo": {
+        "rating": 28.25402242456563,
+        "rating_mu": 32.484048298733434,
+        "rating_sigma": 1.4100086247226018,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "38e4c199-c106-47fb-b335-d293b2aef6ab",
+        "name": "Grape",
+        "rating": 22.5242120892113,
+        "trainer_id": "f3de310b-b940-4c6b-9008-ba095132d375",
+        "trainer_name": "ZeroblasterOmega",
+        "result": "loss"
+      }
     }
   }
 }

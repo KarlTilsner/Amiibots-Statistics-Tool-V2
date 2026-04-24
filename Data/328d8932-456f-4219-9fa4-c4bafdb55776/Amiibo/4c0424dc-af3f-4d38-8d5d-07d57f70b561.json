@@ -1041,6 +1041,40 @@
         "trainer_name": "bluerunner0",
         "result": "loss"
       }
+    },
+    "2025-08-18T19:18:14.033393+00:00": {
+      "this_amiibo": {
+        "rating": 29.458987448347262,
+        "rating_mu": 32.59900220437578,
+        "rating_sigma": 1.0466715853428394,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "4a3b14fc-eb3d-43a8-8fa1-8b8588fad4c0",
+        "name": "Sylvanus",
+        "rating": 28.293183501585265,
+        "trainer_id": "8f9a7e3f-ab2c-43bd-8042-bc92d142c3fd",
+        "trainer_name": "Belarias",
+        "result": "win"
+      }
+    },
+    "2025-08-27T11:34:38.415512+00:00": {
+      "this_amiibo": {
+        "rating": 29.319552987923384,
+        "rating_mu": 32.43773418060843,
+        "rating_sigma": 1.0393937308950152,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "bc721145-3a76-473f-833f-d69b58d51c77",
+        "name": "Sensei",
+        "rating": 29.460055653091512,
+        "trainer_id": "f78bcac5-01eb-46ca-9c57-eb6d3e9c242b",
+        "trainer_name": "Epsilon080",
+        "result": "win"
+      }
     }
   }
 }

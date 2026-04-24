@@ -1262,6 +1262,40 @@
         "trainer_name": "blaz_68",
         "result": "loss"
       }
+    },
+    "2025-07-22T06:20:29.335484+00:00": {
+      "this_amiibo": {
+        "rating": 17.119307753601053,
+        "rating_mu": 20.813145868815127,
+        "rating_sigma": 1.2312793717380248,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+        "id": "9222137b-56a6-4ffe-88c3-86c5d2e79cbc",
+        "name": "Polio",
+        "rating": 13.703220677033471,
+        "trainer_id": "3c2659e1-5fee-4b6b-98e3-594aec223a09",
+        "trainer_name": "brain_dread",
+        "result": "win"
+      }
+    },
+    "2025-07-27T20:58:56.464834+00:00": {
+      "this_amiibo": {
+        "rating": 16.937674439382224,
+        "rating_mu": 20.59172908347412,
+        "rating_sigma": 1.2180182146972987,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "d23430ae-9231-4519-93b7-38b746a2b404",
+        "name": "Chibi-Link",
+        "rating": 14.809057573418126,
+        "trainer_id": "4ef50fd5-b406-48f9-bc3d-95922e8d1456",
+        "trainer_name": "Ashidlun",
+        "result": "win"
+      }
     }
   }
 }
