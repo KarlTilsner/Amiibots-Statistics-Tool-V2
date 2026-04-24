@@ -3421,6 +3421,40 @@
         "trainer_name": "nozzly",
         "result": "loss"
       }
+    },
+    "2021-09-09T04:01:34.062527+00:00": {
+      "this_amiibo": {
+        "rating": 24.36874295037235,
+        "rating_mu": 26.887863939679086,
+        "rating_sigma": 0.8397069964355787,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "79d1e2c3-555a-47e6-87b2-61c9d0aec44c",
+        "name": "Siegfried",
+        "rating": 22.500935200713194,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
+    },
+    "2021-09-12T08:48:24.358286+00:00": {
+      "this_amiibo": {
+        "rating": 24.535508236693893,
+        "rating_mu": 27.04833493485062,
+        "rating_sigma": 0.837608899385575,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "baeb87a9-3102-4071-9884-e214bc87d916",
+        "name": "Peregrine",
+        "rating": 26.9023821685239,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend__",
+        "result": "loss"
+      }
     }
   }
 }

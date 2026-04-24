@@ -327,6 +327,57 @@
         "trainer_name": "eon_ii",
         "result": "loss"
       }
+    },
+    "2021-09-08T01:21:25.264967+00:00": {
+      "this_amiibo": {
+        "rating": 24.623189143778887,
+        "rating_mu": 30.29928397021119,
+        "rating_sigma": 1.8920316088107665,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "95b9f071-aba4-41c4-873d-ce4f6430b803",
+        "name": "Masquerade",
+        "rating": 25.58511260792899,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
+    },
+    "2021-09-09T12:50:45.733141+00:00": {
+      "this_amiibo": {
+        "rating": 24.995085825276625,
+        "rating_mu": 30.56235022142535,
+        "rating_sigma": 1.8557547987162426,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "ad3c4504-a881-4f91-9ee9-5eb5133e2f8d",
+        "name": "BOROS",
+        "rating": 18.37223328295198,
+        "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
+        "trainer_name": "leCharade",
+        "result": "loss"
+      }
+    },
+    "2021-09-10T06:13:41.187785+00:00": {
+      "this_amiibo": {
+        "rating": 24.827491770373435,
+        "rating_mu": 30.269549652949973,
+        "rating_sigma": 1.8140192941921789,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "afcf4fac-f3ba-492c-8e83-7e509dc5d777",
+        "name": "bali",
+        "rating": 30.83421105187199,
+        "trainer_id": "b39d720a-e63b-4866-88ec-4ed97d92a0cc",
+        "trainer_name": "karmakittyy",
+        "result": "win"
+      }
     }
   }
 }

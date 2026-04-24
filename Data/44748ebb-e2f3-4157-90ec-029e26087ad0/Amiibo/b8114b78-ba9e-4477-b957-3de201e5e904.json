@@ -480,6 +480,23 @@
         "trainer_name": "Azend__",
         "result": "win"
       }
+    },
+    "2021-09-06T10:46:45.446596+00:00": {
+      "this_amiibo": {
+        "rating": 17.28691512152659,
+        "rating_mu": 23.362842291290935,
+        "rating_sigma": 2.0253090565881147,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c09bb6c6-3309-404d-abe6-4c3b3d00d44a",
+        "name": "Tigger",
+        "rating": 32.37810359638119,
+        "trainer_id": "7e0c5589-f8ae-4cc3-89dc-f8363d2d2a83",
+        "trainer_name": "agent_gforce",
+        "result": "win"
+      }
     }
   }
 }
