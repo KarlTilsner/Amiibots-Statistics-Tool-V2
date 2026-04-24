@@ -9,8 +9,9 @@
 
         <link rel="stylesheet" href="css/styles.css">
 
+        <script src="js/header.js"></script>
+        <script src="js/ruleset_handler.js"></script>
         <script src="js/amiibo_search.js"></script>
-        <script src="js/versionNumber.js"></script>
         <script src="js/navBarElement.js"></script>
         <script src="js/search_history.js"></script>
     </head>
@@ -20,28 +21,10 @@
 
     
     <body> 
-
         <nav class="navbar" id="documentNavbar"></nav>
 
-
-
-
-
         <main>
-            <div class="header">
-                <div>
-                    <h1 class="title">Amiibots Statistics Tool<span class="subtitle"> / Amiibo Search</span></h1>
-
-                    <p class="version" id="versionNo"></p>
-                </div>
-
-                <div class="search_history_button" onclick="toggleVisibility()">
-                    <img class="search_history_icon" src="images/icon_search_history.png">
-                </div>
-
-            </div>
-
-
+            <div id="documentHeader"></div>
 
             <div class="block" id="searchHistoryDropdown" style="display: none;">
                 <div class="container">
@@ -68,22 +51,9 @@
                         </form>
                     </div>
 
-                    <select class="tier_dropdownMenu" id="selectTierDropdown" onchange="nameSearchBar(this)">
-                        <option class="dropdownMenuOption" value="All">Tier: All</option>
-                    </select>
-
-                    <div class="container search_bar">
-                        <form>
-                            <div class="search_buttons">
-                                <input class="button" type="button"  id="ruleset_vanilla"  name="ruleset"   value="Vanilla"        onclick="nameSearchToolHighlight('null', 'vanilla')">
-                                <input class="button" type="button"  id="ruleset_b5b"      name="ruleset"   value="Big 5 Ban"      onclick="nameSearchToolHighlight('null', 'b5b')">
-                                <input class="button" type="button"  id="ruleset_ag"       name="ruleset"   value="Anything Goes"  onclick="nameSearchToolHighlight('null', 'ag')">
-                            </div>
-                        </form>
-                    </div>
-
                 </div>
             </div>
+
 
 
             <div class="block">
@@ -93,11 +63,7 @@
                     <div id="amiibo_list"></div>
                 </div>
             </div>
+
         </main>
-
-
-
-
-
     </body>
 </html>

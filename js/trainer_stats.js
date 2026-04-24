@@ -1,3 +1,7 @@
+window.onload = function () {
+    trainerStats();
+}
+
 async function updateTrainerID() {
     const trainerID = document.getElementById('trainer_id').value;
     const ruleset_id = document.getElementById("selectTierDropdown").value;
@@ -28,16 +32,10 @@ const ruleset_names = {
 
 async function trainerStats() {
     // Get ruleset_id to search for
-    async function getRulesetID() {
-        if (localStorage.getItem('trainer_stats_ruleset_id') != null) {
-            return localStorage.getItem('trainer_stats_ruleset_id');
-        }
-
-        alert("No 'ruleset_id'. Please enter a ruleset_id");
-    }
-    const ruleset_id = await getRulesetID();
-    document.getElementById('status_ruleset_id').innerText = ruleset_names[ruleset_id];
+    const ruleset_id = window.localStorage.getItem("Global_Ruleset");
     console.log('Ruleset: ', ruleset_id);
+    document.getElementById('status_ruleset_id').innerText = "test";
+
 
     // Get trainer_id to search for
     async function getTrainerID() {
@@ -1564,8 +1562,6 @@ async function trainerStats() {
     await trainerRankStats();
 
 }
-
-trainerStats();
 
 
 

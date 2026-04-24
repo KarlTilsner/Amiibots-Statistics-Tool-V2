@@ -9,10 +9,11 @@
 
         <link rel="stylesheet" href="css/styles.css">
         
-        <script defer src="js/trainer_stats.js"></script>
-        <script defer src="js/versionNumber.js"></script>
-        <script defer src="js/navBarElement.js"></script>
-        <script defer src="js/search_history.js"></script>
+        <script src="js/header.js"></script>
+        <script src="js/ruleset_handler.js"></script>
+        <script src="js/navBarElement.js"></script>
+        <script src="js/search_history.js"></script>
+        <script src="js/trainer_stats.js"></script>
 
         <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-datalabels/2.2.0/chartjs-plugin-datalabels.min.js" 
@@ -26,26 +27,10 @@
 
 
     <body>
-
         <nav class="navbar" id="documentNavbar"></nav>
 
-        
-
         <main>
-            <div class="header">
-                <div>
-                    <h1 class="title">Amiibots Statistics Tool<span class="subtitle"> / Trainer Stats</span></h1>
-
-                    <p class="version" id="versionNo"></p>
-                </div>
-
-                <div class="search_history_button" onclick="toggleVisibility()">
-                    <img class="search_history_icon" src="images/icon_search_history.png">
-                </div>
-
-            </div>
-
-
+            <div id="documentHeader"></div>
 
             <div class="block" id="searchHistoryDropdown" style="display: none;">
                 <div class="container">
@@ -68,12 +53,6 @@
                         </div>
                     </form>
                 </div>
-
-                <select class="ruleset_dropdownMenu" id="selectTierDropdown">
-                    <option class="dropdownMenuOption" value="44748ebb-e2f3-4157-90ec-029e26087ad0">Ruleset: Vanilla</option>
-                    <option class="dropdownMenuOption" value="328d8932-456f-4219-9fa4-c4bafdb55776">Ruleset: Big 5 Ban</option>
-                    <option class="dropdownMenuOption" value="af1df0cd-3251-4b44-ba04-d48de5b73f8b">Ruleset: Anything Goes</option>
-                </select>
             </div>
 
 
@@ -90,12 +69,12 @@
 
                         <div class="general_stats_flex_horizontal">
                             <div class="general_stats_flex_vertical">
-                                <h2 class="stats">trainer_id:</h2>
+                                <h2 class="stats">Trainer ID:</h2>
                                 <div id="status_trainer_id" style="margin: 0 1rem; min-width: 20rem;"></div>
                             </div>
 
                             <div class="general_stats_flex_vertical">
-                                <h2 class="stats">ruleset_id:</h2>
+                                <h2 class="stats">Ruleset:</h2>
                                 <div id="status_ruleset_id" style="margin: 0 1rem; min-width: 20rem;"></div>
                             </div>
                         </div>
