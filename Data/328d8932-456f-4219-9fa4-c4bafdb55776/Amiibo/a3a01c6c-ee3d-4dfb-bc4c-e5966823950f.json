@@ -327,6 +327,40 @@
         "trainer_name": "track8regret",
         "result": "loss"
       }
+    },
+    "2026-04-13T23:51:35.355734+00:00": {
+      "this_amiibo": {
+        "rating": 17.83295959969791,
+        "rating_mu": 23.65136742674332,
+        "rating_sigma": 1.9394692756818033,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "b2280a14-04dc-4f90-8614-356efb1e388c",
+        "name": "Eons Ago",
+        "rating": 10.44254841389953,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "win"
+      }
+    },
+    "2026-04-22T09:35:14.316395+00:00": {
+      "this_amiibo": {
+        "rating": 18.447714443959956,
+        "rating_mu": 24.096383855676663,
+        "rating_sigma": 1.8828898039055688,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "e88ce1de-1e52-40f1-9f9b-9f2504b41530",
+        "name": "Minerva",
+        "rating": 20.52606547834009,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "loss"
+      }
     }
   }
 }

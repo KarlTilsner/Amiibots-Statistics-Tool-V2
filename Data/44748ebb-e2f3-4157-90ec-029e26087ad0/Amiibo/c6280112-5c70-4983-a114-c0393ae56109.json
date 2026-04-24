@@ -888,6 +888,40 @@
         "trainer_name": "dreamy_bj",
         "result": "loss"
       }
+    },
+    "2022-04-18T23:56:48.364087+00:00": {
+      "this_amiibo": {
+        "rating": 35.02375525034732,
+        "rating_mu": 39.77707551219017,
+        "rating_sigma": 1.5844400872809503,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "78f63ab0-e646-40d8-ba0b-69d35ff7e3c8",
+        "name": "#Bleed2dth",
+        "rating": 33.276950757950054,
+        "trainer_id": "71eb3456-8f8a-4723-879b-57439190b086",
+        "trainer_name": "snevy_ssb",
+        "result": "win"
+      }
+    },
+    "2022-04-18T23:27:55.786261+00:00": {
+      "this_amiibo": {
+        "rating": 35.41644658559969,
+        "rating_mu": 40.28865004581023,
+        "rating_sigma": 1.6240678200701812,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "78f63ab0-e646-40d8-ba0b-69d35ff7e3c8",
+        "name": "#Bleed2dth",
+        "rating": 32.93868320004537,
+        "trainer_id": "71eb3456-8f8a-4723-879b-57439190b086",
+        "trainer_name": "snevy_ssb",
+        "result": "loss"
+      }
     }
   }
 }

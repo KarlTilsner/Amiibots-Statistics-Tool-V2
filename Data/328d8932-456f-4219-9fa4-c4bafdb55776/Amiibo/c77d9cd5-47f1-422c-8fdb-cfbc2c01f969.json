@@ -752,6 +752,57 @@
         "trainer_name": "Not_An_Humin",
         "result": "loss"
       }
+    },
+    "2026-04-09T19:13:18.668005+00:00": {
+      "this_amiibo": {
+        "rating": 24.983722076096008,
+        "rating_mu": 28.645927646542184,
+        "rating_sigma": 1.2207351901487251,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
+        "id": "580db502-d0c1-444e-96f2-9780c852abd4",
+        "name": "DESTINED",
+        "rating": 27.390514354887728,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "win"
+      }
+    },
+    "2026-04-11T08:52:55.410658+00:00": {
+      "this_amiibo": {
+        "rating": 25.217257243690586,
+        "rating_mu": 28.840573263523776,
+        "rating_sigma": 1.2077720066110638,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "4e54843b-625d-4d1e-b91a-7aaf456cccee",
+        "name": "Snivy",
+        "rating": 25.858332073229015,
+        "trainer_id": "59125a80-8551-40b4-ab89-ecb11081b345",
+        "trainer_name": "sevanny",
+        "result": "loss"
+      }
+    },
+    "2026-04-24T13:44:04.223262+00:00": {
+      "this_amiibo": {
+        "rating": 25.388784594432956,
+        "rating_mu": 28.98187448208342,
+        "rating_sigma": 1.197696629216821,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "fc3fecdd-be93-4a8e-ac61-9dfcc9d3b712",
+        "name": "DarkSoul",
+        "rating": 22.176196336734314,
+        "trainer_id": "16e50ade-e696-4d69-9605-177fadabd171",
+        "trainer_name": "darksoulwarrior23",
+        "result": "loss"
+      }
     }
   }
 }

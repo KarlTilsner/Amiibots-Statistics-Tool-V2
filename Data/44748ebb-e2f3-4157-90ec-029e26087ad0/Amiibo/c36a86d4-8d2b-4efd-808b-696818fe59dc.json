@@ -38,6 +38,57 @@
         "trainer_name": "bindycot",
         "result": "loss"
       }
+    },
+    "2022-04-11T12:00:16.608132+00:00": {
+      "this_amiibo": {
+        "rating": 13.584758229282206,
+        "rating_mu": 26.701516457907505,
+        "rating_sigma": 4.3722527428751,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "73791f49-9af6-4d14-965e-117f9fe57408",
+        "name": "☆□",
+        "rating": 25.624413465235556,
+        "trainer_id": "63dac938-5484-4552-8353-38477db16676",
+        "trainer_name": "thetheia",
+        "result": "win"
+      }
+    },
+    "2022-04-17T23:03:18.285858+00:00": {
+      "this_amiibo": {
+        "rating": 17.49796439379245,
+        "rating_mu": 28.994783427841103,
+        "rating_sigma": 3.83227301134955,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "2a1ca926-510d-4c92-91e7-10b6367d2e52",
+        "name": "Fennec",
+        "rating": 24.585813702185668,
+        "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
+        "trainer_name": "LovingStew",
+        "result": "loss"
+      }
+    },
+    "2022-04-21T14:41:26.922468+00:00": {
+      "this_amiibo": {
+        "rating": 19.488125007324506,
+        "rating_mu": 30.076748072484897,
+        "rating_sigma": 3.52954102172013,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "be3fecad-9c61-446e-a9b6-cde2e2f02bfd",
+        "name": "Entourage",
+        "rating": 22.799244989460277,
+        "trainer_id": "2a5cbff4-ddd6-4396-bb52-efaf92083808",
+        "trainer_name": "tmac1823",
+        "result": "loss"
+      }
     }
   }
 }

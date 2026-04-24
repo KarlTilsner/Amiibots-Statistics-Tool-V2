@@ -2843,6 +2843,40 @@
         "trainer_name": "techmode5",
         "result": "loss"
       }
+    },
+    "2026-04-13T14:08:30.321558+00:00": {
+      "this_amiibo": {
+        "rating": 26.999951209452085,
+        "rating_mu": 29.522344387464184,
+        "rating_sigma": 0.8407977260040325,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "bdeb21c8-1412-4d00-956b-07840e36d173",
+        "name": "NightSlash",
+        "rating": 22.819507648064004,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte356",
+        "result": "win"
+      }
+    },
+    "2026-04-20T15:18:55.551366+00:00": {
+      "this_amiibo": {
+        "rating": 27.05837286625333,
+        "rating_mu": 29.585811501257247,
+        "rating_sigma": 0.8424795450013062,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "72be1175-ec48-481a-8cb2-a228494dfd2f",
+        "name": "Stella",
+        "rating": 9.658299465399011,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte356",
+        "result": "loss"
+      }
     }
   }
 }

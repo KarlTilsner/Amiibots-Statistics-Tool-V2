@@ -701,6 +701,57 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2026-04-09T14:06:20.420568+00:00": {
+      "this_amiibo": {
+        "rating": 28.24373469324594,
+        "rating_mu": 32.08784718545705,
+        "rating_sigma": 1.2813708307370368,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "f749d66e-3314-4f3d-b561-4cf3c8138661",
+        "name": "NoDivinity",
+        "rating": 20.770657294976594,
+        "trainer_id": "ca8867a9-3345-444a-9c19-ef55eeb56e1f",
+        "trainer_name": "mira_cle_lol",
+        "result": "win"
+      }
+    },
+    "2026-04-10T07:06:15.520588+00:00": {
+      "this_amiibo": {
+        "rating": 28.544344279595506,
+        "rating_mu": 32.33862714660215,
+        "rating_sigma": 1.2647609556688812,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "0160a1cc-8fbc-453f-bece-46bf07cc9f3e",
+        "name": "Royinleif",
+        "rating": 30.064214257785714,
+        "trainer_id": "e8358aff-7791-4753-acec-a1b705fa1b0c",
+        "trainer_name": "HolyWarsEnd2",
+        "result": "loss"
+      }
+    },
+    "2026-04-17T06:47:14.405450+00:00": {
+      "this_amiibo": {
+        "rating": 28.788336906971818,
+        "rating_mu": 32.54137435945347,
+        "rating_sigma": 1.2510124841605514,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "622823f7-c81d-48be-aa5f-bfcbb425cb08",
+        "name": "pattgndupe",
+        "rating": 26.726679461512422,
+        "trainer_id": "3cb17fe4-1092-4192-b784-dfa7f1810679",
+        "trainer_name": "buildingpo_tv",
+        "result": "loss"
+      }
     }
   }
 }

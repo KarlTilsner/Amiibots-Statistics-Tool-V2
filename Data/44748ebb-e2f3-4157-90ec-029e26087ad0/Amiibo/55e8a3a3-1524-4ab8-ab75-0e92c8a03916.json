@@ -1160,6 +1160,40 @@
         "trainer_name": "snevy_ssb",
         "result": "win"
       }
+    },
+    "2022-04-07T10:16:29.252594+00:00": {
+      "this_amiibo": {
+        "rating": 26.0773543178135,
+        "rating_mu": 29.326659375297503,
+        "rating_sigma": 1.0831016858280005,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "a1314924-c799-4274-b9e8-8e230fcd88a2",
+        "name": "Jeff",
+        "rating": 14.155821031738128,
+        "trainer_id": "26e7e2d5-119d-4773-8cc4-328463893bbe",
+        "trainer_name": "GamerJohn_SSB",
+        "result": "loss"
+      }
+    },
+    "2022-04-07T15:39:20.837121+00:00": {
+      "this_amiibo": {
+        "rating": 25.933696511827865,
+        "rating_mu": 29.160406463022674,
+        "rating_sigma": 1.075569983731603,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "2137049d-1aa7-4965-8228-275c6f8d9600",
+        "name": "Mario",
+        "rating": 23.13268381551788,
+        "trainer_id": "5b69eb86-90ac-4570-977f-51a23bb7c40b",
+        "trainer_name": "LouBerto_",
+        "result": "win"
+      }
     }
   }
 }

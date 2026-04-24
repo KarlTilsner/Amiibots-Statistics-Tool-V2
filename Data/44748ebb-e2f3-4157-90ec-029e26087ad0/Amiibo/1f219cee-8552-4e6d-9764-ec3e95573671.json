@@ -21,6 +21,40 @@
         "trainer_name": "circuit404",
         "result": "loss"
       }
+    },
+    "2022-04-12T02:16:33.288810+00:00": {
+      "this_amiibo": {
+        "rating": 14.11457836203313,
+        "rating_mu": 28.979730348357755,
+        "rating_sigma": 4.955050662108208,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "55d1c9d4-44d9-4436-a850-b60adaa0ebd2",
+        "name": "RED",
+        "rating": 29.023596073690538,
+        "trainer_id": "61314a03-5052-497e-a2bf-ebeabc47be55",
+        "trainer_name": "amatsoup",
+        "result": "win"
+      }
+    },
+    "2022-04-18T14:07:54.867898+00:00": {
+      "this_amiibo": {
+        "rating": 18.633530633754077,
+        "rating_mu": 31.48854738600162,
+        "rating_sigma": 4.285005584082515,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "50819358-065f-4a55-b852-d91974ca4511",
+        "name": "GRIMP",
+        "rating": 23.720299342421416,
+        "trainer_id": "30e95e5d-d4ef-4bad-922b-ad3f6cd29afa",
+        "trainer_name": "reesespawfs",
+        "result": "loss"
+      }
     }
   }
 }

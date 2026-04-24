@@ -1602,6 +1602,57 @@
         "trainer_name": "Lime_Charlie",
         "result": "loss"
       }
+    },
+    "2026-04-10T02:46:04.723353+00:00": {
+      "this_amiibo": {
+        "rating": 26.898645613101777,
+        "rating_mu": 29.744979870997234,
+        "rating_sigma": 0.9487780859651517,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "9c997b22-28ff-463f-a5dd-057490507113",
+        "name": "Ringleader",
+        "rating": 27.030264151946277,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "BreezyWisp",
+        "result": "win"
+      }
+    },
+    "2026-04-12T10:37:45.840435+00:00": {
+      "this_amiibo": {
+        "rating": 26.903801153588184,
+        "rating_mu": 29.73007874145883,
+        "rating_sigma": 0.9420925292902153,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "94a42e23-a85e-4eb9-968a-180e2b44adca",
+        "name": "Stack-Up",
+        "rating": 24.287674607272642,
+        "trainer_id": "f78bcac5-01eb-46ca-9c57-eb6d3e9c242b",
+        "trainer_name": "Epsilon080",
+        "result": "loss"
+      }
+    },
+    "2026-04-12T05:56:36.124674+00:00": {
+      "this_amiibo": {
+        "rating": 26.787310542391854,
+        "rating_mu": 29.623391992072563,
+        "rating_sigma": 0.9453604832269034,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "f0d44f19-2deb-4f3a-8035-38d853b092df",
+        "name": "Rindo",
+        "rating": 23.756290405658838,
+        "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
+        "trainer_name": "prowervolt",
+        "result": "win"
+      }
     }
   }
 }

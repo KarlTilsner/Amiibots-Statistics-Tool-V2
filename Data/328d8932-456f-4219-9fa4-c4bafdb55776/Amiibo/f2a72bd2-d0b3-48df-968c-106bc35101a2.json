@@ -276,6 +276,40 @@
         "trainer_name": "opms21",
         "result": "loss"
       }
+    },
+    "2026-04-18T15:24:28.242189+00:00": {
+      "this_amiibo": {
+        "rating": 34.62534185447771,
+        "rating_mu": 40.442690122501936,
+        "rating_sigma": 1.9391160893414086,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "bbb102c4-0fa7-44bf-8ce6-b963801c27f8",
+        "name": "^-Rarity-^",
+        "rating": 31.705062499485678,
+        "trainer_id": "d7805111-3127-4140-80fc-a8788cbe9976",
+        "trainer_name": "techmode5",
+        "result": "win"
+      }
+    },
+    "2026-04-23T08:32:13.880459+00:00": {
+      "this_amiibo": {
+        "rating": 35.332262325894455,
+        "rating_mu": 40.97044024096233,
+        "rating_sigma": 1.8793926383559594,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "f09480e1-cda7-4078-b07b-f704e3cabfab",
+        "name": "Hachiko",
+        "rating": 37.20920526384972,
+        "trainer_id": "eee7200a-019e-4b34-9d84-8e326c2cad14",
+        "trainer_name": "mrpig326",
+        "result": "loss"
+      }
     }
   }
 }

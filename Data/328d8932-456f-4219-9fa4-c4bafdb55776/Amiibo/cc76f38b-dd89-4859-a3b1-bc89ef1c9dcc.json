@@ -174,6 +174,40 @@
         "trainer_name": "cr3at1v123",
         "result": "loss"
       }
+    },
+    "2026-04-09T12:34:39.968879+00:00": {
+      "this_amiibo": {
+        "rating": 25.57744576520125,
+        "rating_mu": 32.32675043338737,
+        "rating_sigma": 2.2497682227287052,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "0a5b7e2e-259d-4dc5-a320-4da1e2b896f5",
+        "name": "Raphael",
+        "rating": 31.76460075954387,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "win"
+      }
+    },
+    "2026-04-09T09:13:41.642814+00:00": {
+      "this_amiibo": {
+        "rating": 25.88068226505659,
+        "rating_mu": 32.911898973345906,
+        "rating_sigma": 2.3437389027631057,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "9b5bf85f-d68f-4dfa-b5fd-6348811904c5",
+        "name": "Raine",
+        "rating": 27.45020738330983,
+        "trainer_id": "47259976-75b0-4806-96ff-af13ee9a7977",
+        "trainer_name": "Uyodai",
+        "result": "win"
+      }
     }
   }
 }
