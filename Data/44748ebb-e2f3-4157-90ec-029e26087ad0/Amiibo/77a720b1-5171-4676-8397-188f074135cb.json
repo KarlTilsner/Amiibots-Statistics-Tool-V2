@@ -1143,6 +1143,57 @@
         "trainer_name": "josephTPG",
         "result": "loss"
       }
+    },
+    "2021-11-30T09:43:40.696659+00:00": {
+      "this_amiibo": {
+        "rating": 29.988356181004008,
+        "rating_mu": 33.44851298563178,
+        "rating_sigma": 1.153385601542591,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "0a381548-f1b8-4e60-b50e-cd9bba2e30da",
+        "name": "BustahPWOG",
+        "rating": 31.497866861776526,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "win"
+      }
+    },
+    "2021-11-30T23:20:06.999299+00:00": {
+      "this_amiibo": {
+        "rating": 30.153204382993888,
+        "rating_mu": 33.58823585775133,
+        "rating_sigma": 1.1450104915858137,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "4a98bf56-195e-4ea2-a00d-2a7b762e1f9e",
+        "name": "Goddard",
+        "rating": 25.8316837341113,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "loss"
+      }
+    },
+    "2021-12-01T11:48:25.230332+00:00": {
+      "this_amiibo": {
+        "rating": 30.276777398111943,
+        "rating_mu": 33.69563905040768,
+        "rating_sigma": 1.139620550765245,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "bc09baca-a634-4a05-96c5-aa5049c8a1b2",
+        "name": "Kerchak",
+        "rating": 19.717933035066103,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "loss"
+      }
     }
   }
 }

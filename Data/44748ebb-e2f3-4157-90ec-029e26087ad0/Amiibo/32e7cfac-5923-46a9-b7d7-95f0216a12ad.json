@@ -72,6 +72,40 @@
         "trainer_name": "dirty_meme1",
         "result": "win"
       }
+    },
+    "2021-11-27T17:41:07.372432+00:00": {
+      "this_amiibo": {
+        "rating": 12.34252095306552,
+        "rating_mu": 25.9302301485469,
+        "rating_sigma": 4.529236398493794,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "b55bc537-ccd6-410c-bc5f-1c8d05160c38",
+        "name": "Naucrate",
+        "rating": 0.9866074676697245,
+        "trainer_id": "65321240-86df-4690-adea-6ddbcb87c5c9",
+        "trainer_name": "RichPandaGG",
+        "result": "loss"
+      }
+    },
+    "2021-12-04T07:20:26.193852+00:00": {
+      "this_amiibo": {
+        "rating": 15.58979036077691,
+        "rating_mu": 27.91214913517336,
+        "rating_sigma": 4.107452924798817,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "049c4ed6-97ef-4b3b-85a8-86b4e8a9c155",
+        "name": "Fire Guy",
+        "rating": 12.34888421365114,
+        "trainer_id": "3e2f0f90-d00d-455c-ad34-8009c3fd1f71",
+        "trainer_name": "bindycot",
+        "result": "loss"
+      }
     }
   }
 }

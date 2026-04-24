@@ -1585,6 +1585,40 @@
         "trainer_name": "StaplesTV_",
         "result": "loss"
       }
+    },
+    "2025-06-22T06:14:08.861145+00:00": {
+      "this_amiibo": {
+        "rating": 22.453677645764497,
+        "rating_mu": 25.331190724430577,
+        "rating_sigma": 0.9591710262220271,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "802f2c2f-ba63-47af-8861-cd26d0cf3aff",
+        "name": "Tatsu",
+        "rating": 25.824233085848697,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2025-06-23T04:07:59.739558+00:00": {
+      "this_amiibo": {
+        "rating": 22.6509763060428,
+        "rating_mu": 25.511973511551815,
+        "rating_sigma": 0.953665735169672,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "2b297078-5574-4348-aa80-99b836074357",
+        "name": "WhatDogDo",
+        "rating": 26.02009510124873,
+        "trainer_id": "fd88f995-3090-47f4-bb1f-61a9aa4a1863",
+        "trainer_name": "DazzleMeTaric",
+        "result": "loss"
+      }
     }
   }
 }

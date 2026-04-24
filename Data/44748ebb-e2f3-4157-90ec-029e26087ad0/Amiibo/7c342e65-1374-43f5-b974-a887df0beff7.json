@@ -1058,6 +1058,40 @@
         "trainer_name": "YM44",
         "result": "loss"
       }
+    },
+    "2021-11-26T10:34:16.645397+00:00": {
+      "this_amiibo": {
+        "rating": 23.903886502069458,
+        "rating_mu": 27.528816859245,
+        "rating_sigma": 1.2083101190585144,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "f3ceee88-caae-4196-9616-b19bb046e3d1",
+        "name": "PUCK-MAN",
+        "rating": 27.789911456115263,
+        "trainer_id": "07218a86-dd34-412a-911b-f1e33e57b05f",
+        "trainer_name": "palores625",
+        "result": "win"
+      }
+    },
+    "2021-12-06T23:06:15.967293+00:00": {
+      "this_amiibo": {
+        "rating": 24.19665876387034,
+        "rating_mu": 27.785368215804926,
+        "rating_sigma": 1.1962364839781952,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "02db3d3b-d825-4972-8bd1-5397669f0fde",
+        "name": "Mario, MD",
+        "rating": 21.75587168510298,
+        "trainer_id": "dbc83cb1-5cbe-49b3-8c2e-0c4fd936833d",
+        "trainer_name": "Penguistics",
+        "result": "loss"
+      }
     }
   }
 }

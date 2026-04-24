@@ -1330,6 +1330,74 @@
         "trainer_name": "UltraDPG",
         "result": "loss"
       }
+    },
+    "2021-11-25T22:24:03.958657+00:00": {
+      "this_amiibo": {
+        "rating": 31.96443735927094,
+        "rating_mu": 35.88100749794047,
+        "rating_sigma": 1.3055233795565118,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "c76fc495-a5d8-4a71-9ab4-582ea7ddfd69",
+        "name": "WaddleKing",
+        "rating": 28.173491373681365,
+        "trainer_id": "8d6f8425-125e-4b3a-8f65-0f3e6684fb27",
+        "trainer_name": "FlyingCatOfLol",
+        "result": "win"
+      }
+    },
+    "2021-11-26T07:44:34.847990+00:00": {
+      "this_amiibo": {
+        "rating": 32.08342866382712,
+        "rating_mu": 35.979410115279805,
+        "rating_sigma": 1.2986604838175606,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "af5d15b1-2c6a-4cf8-8267-dccd6e836185",
+        "name": "Glitter!",
+        "rating": 1.2867199809306271,
+        "trainer_id": "c1461260-903f-4aae-ad42-af21e07e1e98",
+        "trainer_name": "MoonBeanBie",
+        "result": "loss"
+      }
+    },
+    "2021-11-26T06:22:00.556961+00:00": {
+      "this_amiibo": {
+        "rating": 32.03625403276614,
+        "rating_mu": 35.935320170092005,
+        "rating_sigma": 1.2996887124419558,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "ff83decc-af78-49a7-a7b6-54a50ddb2b35",
+        "name": "SNAMS",
+        "rating": 23.843817511118754,
+        "trainer_id": "37df81b9-e5cd-431d-8561-7314e26d3d6c",
+        "trainer_name": "Dahtin",
+        "result": "loss"
+      }
+    },
+    "2021-11-26T13:05:43.280868+00:00": {
+      "this_amiibo": {
+        "rating": 32.13916161308693,
+        "rating_mu": 36.02383112605821,
+        "rating_sigma": 1.2948898376570959,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+        "id": "135ec0de-9b94-4046-9a3a-ae37a8b34708",
+        "name": "Manato",
+        "rating": 17.217427182931637,
+        "trainer_id": "2970dc69-fc61-4243-87e6-16422715b321",
+        "trainer_name": "sho3l4c3",
+        "result": "loss"
+      }
     }
   }
 }

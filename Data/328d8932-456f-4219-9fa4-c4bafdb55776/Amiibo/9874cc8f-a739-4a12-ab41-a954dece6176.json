@@ -89,6 +89,40 @@
         "trainer_name": "smashssf2_ita",
         "result": "loss"
       }
+    },
+    "2025-06-18T18:03:03.101479+00:00": {
+      "this_amiibo": {
+        "rating": 20.96221515751078,
+        "rating_mu": 30.055161285357784,
+        "rating_sigma": 3.0309820426156677,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "0f6ce8ef-8f48-4cd1-b6ed-8231db1deef3",
+        "name": "Got Milk?",
+        "rating": 28.224718281493605,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "win"
+      }
+    },
+    "2025-06-18T23:58:38.991960+00:00": {
+      "this_amiibo": {
+        "rating": 20.492826537679242,
+        "rating_mu": 29.27082139835349,
+        "rating_sigma": 2.9259982868914167,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "a83f9e0f-d5cf-4b0a-ac4f-1dd8acc4b4a0",
+        "name": "The End.",
+        "rating": 17.77055180361362,
+        "trainer_id": "7ae72c01-0479-4b54-8c47-7a7e7ed61902",
+        "trainer_name": "dittowog",
+        "result": "win"
+      }
     }
   }
 }

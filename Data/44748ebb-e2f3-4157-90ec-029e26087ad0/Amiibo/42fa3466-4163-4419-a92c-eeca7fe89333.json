@@ -191,6 +191,57 @@
         "trainer_name": "AceTempest172",
         "result": "loss"
       }
+    },
+    "2021-11-26T17:29:00.500022+00:00": {
+      "this_amiibo": {
+        "rating": 18.87282744616683,
+        "rating_mu": 27.100167698789758,
+        "rating_sigma": 2.7424467508743082,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "9dfe33d5-49db-408a-9c5a-375ea3e08855",
+        "name": "Reinhardt",
+        "rating": 27.832561147382496,
+        "trainer_id": "7ff68788-3366-489f-9efd-bb3c16421574",
+        "trainer_name": "VocalFan",
+        "result": "win"
+      }
+    },
+    "2021-11-28T03:10:35.243944+00:00": {
+      "this_amiibo": {
+        "rating": 20.92590235205696,
+        "rating_mu": 28.605815114298753,
+        "rating_sigma": 2.559970920747265,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "1e89b80c-347f-46f0-bc50-cb10c77bbbf8",
+        "name": "WhatDogDo",
+        "rating": 26.91053421246198,
+        "trainer_id": "fd88f995-3090-47f4-bb1f-61a9aa4a1863",
+        "trainer_name": "DazzleMeTaric",
+        "result": "loss"
+      }
+    },
+    "2021-11-29T02:05:50.982127+00:00": {
+      "this_amiibo": {
+        "rating": 21.823824765589823,
+        "rating_mu": 29.180755542910326,
+        "rating_sigma": 2.4523102591068344,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "858ad88a-1718-4846-aac5-6a9e67a9b85c",
+        "name": "LL Lemion",
+        "rating": 21.962486623855273,
+        "trainer_id": "0a7a76be-dbc8-4860-9671-405a7e8b0f64",
+        "trainer_name": "BWKing16",
+        "result": "loss"
+      }
     }
   }
 }

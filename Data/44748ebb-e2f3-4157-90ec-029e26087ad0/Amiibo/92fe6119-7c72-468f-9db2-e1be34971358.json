@@ -21,6 +21,23 @@
         "trainer_name": "FlyingCatOfLol",
         "result": "win"
       }
+    },
+    "2021-11-25T21:43:57.005741+00:00": {
+      "this_amiibo": {
+        "rating": 1.2309680488014365,
+        "rating_mu": 19.938444025692508,
+        "rating_sigma": 6.2358253256303575,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c09bb6c6-3309-404d-abe6-4c3b3d00d44a",
+        "name": "Tigger",
+        "rating": 33.44245445304642,
+        "trainer_id": "7e0c5589-f8ae-4cc3-89dc-f8363d2d2a83",
+        "trainer_name": "agent_gforce",
+        "result": "win"
+      }
     }
   }
 }
