@@ -327,6 +327,40 @@
         "trainer_name": "nanis93",
         "result": "loss"
       }
+    },
+    "2021-11-09T22:35:22.615462+00:00": {
+      "this_amiibo": {
+        "rating": 18.57168251728928,
+        "rating_mu": 25.062958669180126,
+        "rating_sigma": 2.1637587172969495,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c09bb6c6-3309-404d-abe6-4c3b3d00d44a",
+        "name": "Tigger",
+        "rating": 33.60850854915945,
+        "trainer_id": "7e0c5589-f8ae-4cc3-89dc-f8363d2d2a83",
+        "trainer_name": "agent_gforce",
+        "result": "win"
+      }
+    },
+    "2021-11-20T06:57:28.376564+00:00": {
+      "this_amiibo": {
+        "rating": 19.1736058626742,
+        "rating_mu": 25.465318442393524,
+        "rating_sigma": 2.0972375265731085,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
+        "id": "30f3ab27-bf38-4942-8e43-fa1e793d5175",
+        "name": "Sleek",
+        "rating": 19.39985718532293,
+        "trainer_id": "1454cbc5-0d91-4538-a0f1-4c365b049d06",
+        "trainer_name": "hono1",
+        "result": "loss"
+      }
     }
   }
 }

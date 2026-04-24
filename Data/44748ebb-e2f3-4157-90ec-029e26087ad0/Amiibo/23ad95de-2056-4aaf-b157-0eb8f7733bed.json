@@ -786,6 +786,40 @@
         "trainer_name": "WynnThornton",
         "result": "loss"
       }
+    },
+    "2021-11-05T17:53:05.858602+00:00": {
+      "this_amiibo": {
+        "rating": 29.448548154527543,
+        "rating_mu": 33.67246616537573,
+        "rating_sigma": 1.4079726702827295,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c09bb6c6-3309-404d-abe6-4c3b3d00d44a",
+        "name": "Tigger",
+        "rating": 33.73350075025463,
+        "trainer_id": "7e0c5589-f8ae-4cc3-89dc-f8363d2d2a83",
+        "trainer_name": "agent_gforce",
+        "result": "win"
+      }
+    },
+    "2021-11-05T23:59:34.362359+00:00": {
+      "this_amiibo": {
+        "rating": 29.207488726597013,
+        "rating_mu": 33.36870719379287,
+        "rating_sigma": 1.387072822398619,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "01f845b8-380c-4682-abb3-ac20cf063975",
+        "name": "Caeruleum",
+        "rating": 26.06099271340789,
+        "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
+        "trainer_name": "LovingStew",
+        "result": "win"
+      }
     }
   }
 }

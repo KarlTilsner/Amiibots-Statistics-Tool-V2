@@ -2571,6 +2571,40 @@
         "trainer_name": "agent_gforce",
         "result": "loss"
       }
+    },
+    "2021-11-20T12:23:28.062823+00:00": {
+      "this_amiibo": {
+        "rating": 31.710160406090225,
+        "rating_mu": 34.579525723413944,
+        "rating_sigma": 0.9564551057745738,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "f024240b-a0da-4711-b11b-538ff9d32df6",
+        "name": "Bill",
+        "rating": 27.613691292701947,
+        "trainer_id": "a6a195f1-d799-4023-8cf9-3bc02d3055cb",
+        "trainer_name": "Chancellorus",
+        "result": "loss"
+      }
+    },
+    "2021-11-20T19:02:03.203659+00:00": {
+      "this_amiibo": {
+        "rating": 31.50765267959458,
+        "rating_mu": 34.35903110974747,
+        "rating_sigma": 0.9504594767176289,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "7fa21c1c-3b68-43b2-a8e4-6795f6f3bf5d",
+        "name": "Yang",
+        "rating": 26.740102145251942,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      }
     }
   }
 }

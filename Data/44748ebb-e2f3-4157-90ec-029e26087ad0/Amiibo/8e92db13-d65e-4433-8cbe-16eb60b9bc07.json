@@ -293,6 +293,57 @@
         "trainer_name": "TJH142006",
         "result": "win"
       }
+    },
+    "2021-11-10T00:57:32.921294+00:00": {
+      "this_amiibo": {
+        "rating": 21.27963223321153,
+        "rating_mu": 27.12498427537447,
+        "rating_sigma": 1.9484506807209794,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "77a720b1-5171-4676-8397-188f074135cb",
+        "name": "Plinkle",
+        "rating": 29.91460417692485,
+        "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
+        "trainer_name": "SG_Bubs",
+        "result": "loss"
+      }
+    },
+    "2021-11-18T02:38:22.454358+00:00": {
+      "this_amiibo": {
+        "rating": 22.010250475749537,
+        "rating_mu": 27.676803366537545,
+        "rating_sigma": 1.888850963596002,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+        "id": "71c484ca-dc80-4efa-b2e0-45e94021722b",
+        "name": "Yubel",
+        "rating": 22.70046108444152,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "loss"
+      }
+    },
+    "2021-11-20T08:44:43.974185+00:00": {
+      "this_amiibo": {
+        "rating": 21.974589837869516,
+        "rating_mu": 27.57705008507515,
+        "rating_sigma": 1.8674867490685447,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c09bb6c6-3309-404d-abe6-4c3b3d00d44a",
+        "name": "Tigger",
+        "rating": 33.510500489046876,
+        "trainer_id": "7e0c5589-f8ae-4cc3-89dc-f8363d2d2a83",
+        "trainer_name": "agent_gforce",
+        "result": "win"
+      }
     }
   }
 }

@@ -293,6 +293,57 @@
         "trainer_name": "early_mp",
         "result": "win"
       }
+    },
+    "2021-11-08T01:57:09.920515+00:00": {
+      "this_amiibo": {
+        "rating": 13.763897956904898,
+        "rating_mu": 21.14805054159613,
+        "rating_sigma": 2.461384194897078,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "92b878f7-8d3f-4573-93ee-eaa138cdf212",
+        "name": "CaseyJones",
+        "rating": 25.737090010998156,
+        "trainer_id": "9d2e0e79-39fd-4936-8270-f43cb65749cb",
+        "trainer_name": "SpliceStream",
+        "result": "loss"
+      }
+    },
+    "2021-11-12T10:53:48.600818+00:00": {
+      "this_amiibo": {
+        "rating": 13.699765262614582,
+        "rating_mu": 20.921837814739227,
+        "rating_sigma": 2.407357517374882,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "26bdd9a3-66cb-4761-b731-1f6f23b8f471",
+        "name": "TEDDY",
+        "rating": 21.7189125144149,
+        "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
+        "trainer_name": "leCharade",
+        "result": "win"
+      }
+    },
+    "2021-11-18T21:05:30.227106+00:00": {
+      "this_amiibo": {
+        "rating": 13.69744484807661,
+        "rating_mu": 20.919108115729205,
+        "rating_sigma": 2.407221089217532,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "8b165b39-f13f-4ae0-b434-350767cba758",
+        "name": "NachoMan",
+        "rating": 37.204918853178384,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend__",
+        "result": "win"
+      }
     }
   }
 }

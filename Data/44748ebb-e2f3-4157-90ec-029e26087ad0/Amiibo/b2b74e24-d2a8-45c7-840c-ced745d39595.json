@@ -1177,6 +1177,40 @@
         "trainer_name": "bindycot",
         "result": "loss"
       }
+    },
+    "2021-11-08T22:04:31.696070+00:00": {
+      "this_amiibo": {
+        "rating": 26.23205401269372,
+        "rating_mu": 29.701666328105574,
+        "rating_sigma": 1.1565374384706184,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "8e65e0b8-9e54-4bd2-b808-86740aec3a25",
+        "name": "Mori",
+        "rating": 31.237248292010506,
+        "trainer_id": "007f0154-70c5-4781-87aa-e020b2fd5452",
+        "trainer_name": "dirty_meme1",
+        "result": "win"
+      }
+    },
+    "2021-11-09T14:55:03.270532+00:00": {
+      "this_amiibo": {
+        "rating": 26.476556813319263,
+        "rating_mu": 29.915882913176173,
+        "rating_sigma": 1.146442033285636,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "a89fbe97-edfb-4378-be8b-0216716bb6e4",
+        "name": "Nimbus",
+        "rating": 23.842139563496573,
+        "trainer_id": "af5dd649-83cf-4846-b48f-168de5f05963",
+        "trainer_name": "FinancedLoki",
+        "result": "loss"
+      }
     }
   }
 }
