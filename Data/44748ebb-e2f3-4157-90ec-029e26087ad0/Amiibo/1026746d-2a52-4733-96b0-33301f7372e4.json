@@ -531,6 +531,40 @@
         "trainer_name": "smashssf2_ita",
         "result": "loss"
       }
+    },
+    "2022-03-15T09:27:40.934774+00:00": {
+      "this_amiibo": {
+        "rating": 27.959184877859737,
+        "rating_mu": 32.637772010127065,
+        "rating_sigma": 1.5595290440891094,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "d6ec200f-6922-419e-9153-96dc8d200755",
+        "name": "Poke",
+        "rating": 29.619713138669557,
+        "trainer_id": "4e90889a-d80c-4910-a5c2-7b79e12622b9",
+        "trainer_name": "raichu_fan2001",
+        "result": "win"
+      }
+    },
+    "2022-03-21T09:14:02.850234+00:00": {
+      "this_amiibo": {
+        "rating": 28.210215653554357,
+        "rating_mu": 32.82162744189778,
+        "rating_sigma": 1.5371372627811413,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "faffcc94-58b1-408b-8399-b5dfbc35578f",
+        "name": "Dr.Lean",
+        "rating": 25.77492286989529,
+        "trainer_id": "cbea8289-f383-4cad-8950-3fa18407df3a",
+        "trainer_name": "toxicfur36",
+        "result": "loss"
+      }
     }
   }
 }

@@ -1483,6 +1483,57 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2026-02-11T21:07:13.779392+00:00": {
+      "this_amiibo": {
+        "rating": 30.828171314718922,
+        "rating_mu": 33.65297093928487,
+        "rating_sigma": 0.9415998748553156,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "bc0be18c-a2a1-4f29-a317-000529d8d75e",
+        "name": "Gyro",
+        "rating": 30.652944309093744,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "win"
+      }
+    },
+    "2026-02-13T01:48:56.464231+00:00": {
+      "this_amiibo": {
+        "rating": 30.721892854555872,
+        "rating_mu": 33.53589072171258,
+        "rating_sigma": 0.9379992890522371,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "9b6e2900-b867-43a0-b954-dbbc1aa1d4c2",
+        "name": "Drobit",
+        "rating": 30.27662142442724,
+        "trainer_id": "59125a80-8551-40b4-ab89-ecb11081b345",
+        "trainer_name": "sevanny",
+        "result": "win"
+      }
+    },
+    "2026-02-24T06:51:14.560514+00:00": {
+      "this_amiibo": {
+        "rating": 30.86197012692873,
+        "rating_mu": 33.66421194199384,
+        "rating_sigma": 0.9340806050217039,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "2b705c0e-cb07-4808-883b-c0bb326a1280",
+        "name": "Baby Child",
+        "rating": 31.461532052418537,
+        "trainer_id": "932a9ec7-b463-41d8-bc40-59e2e396a8ed",
+        "trainer_name": "ricola7ttv",
+        "result": "loss"
+      }
     }
   }
 }
