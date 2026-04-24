@@ -650,6 +650,57 @@
         "trainer_name": "YM44",
         "result": "loss"
       }
+    },
+    "2022-01-24T15:45:30.380198+00:00": {
+      "this_amiibo": {
+        "rating": 28.213749810231263,
+        "rating_mu": 32.491307357598096,
+        "rating_sigma": 1.4258525157889446,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "545f59a2-2ee1-4076-a39e-549dbf810772",
+        "name": "lasaga",
+        "rating": 26.75165880505228,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "win"
+      }
+    },
+    "2022-01-24T12:55:38.711476+00:00": {
+      "this_amiibo": {
+        "rating": 28.522966190289267,
+        "rating_mu": 32.88309692118767,
+        "rating_sigma": 1.4533769102994676,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "545f59a2-2ee1-4076-a39e-549dbf810772",
+        "name": "lasaga",
+        "rating": 26.48239774702125,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "loss"
+      }
+    },
+    "2022-02-04T05:12:23.380731+00:00": {
+      "this_amiibo": {
+        "rating": 27.996669255831932,
+        "rating_mu": 32.20428165152672,
+        "rating_sigma": 1.4025374652315965,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "193d5f89-3f88-4ef4-9dc1-00e6f32b26c4",
+        "name": "Eragon",
+        "rating": 29.418830246196023,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
     }
   }
 }

@@ -1500,6 +1500,40 @@
         "trainer_name": "StaplesTV_",
         "result": "loss"
       }
+    },
+    "2022-01-22T10:06:50.895760+00:00": {
+      "this_amiibo": {
+        "rating": 32.649727073762136,
+        "rating_mu": 35.82968864967641,
+        "rating_sigma": 1.0599871919714268,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "87f84f52-706d-45bb-9dc4-606ec653f4b8",
+        "name": "Keroro",
+        "rating": 24.891272294216613,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "loss"
+      }
+    },
+    "2022-02-03T15:16:25.840265+00:00": {
+      "this_amiibo": {
+        "rating": 32.38378279470251,
+        "rating_mu": 35.55271910173929,
+        "rating_sigma": 1.0563121023455941,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "3bd085be-5d3c-4802-9731-f2e8844727fb",
+        "name": "Tortellini",
+        "rating": 16.742291396474364,
+        "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
+        "trainer_name": "LovingStew",
+        "result": "win"
+      }
     }
   }
 }

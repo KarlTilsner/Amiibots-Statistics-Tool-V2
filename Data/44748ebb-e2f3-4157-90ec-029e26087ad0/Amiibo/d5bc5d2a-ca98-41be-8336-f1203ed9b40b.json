@@ -395,6 +395,57 @@
         "trainer_name": "momjm_21",
         "result": "win"
       }
+    },
+    "2022-01-23T05:53:19.847212+00:00": {
+      "this_amiibo": {
+        "rating": 24.859865655465843,
+        "rating_mu": 30.33084385082789,
+        "rating_sigma": 1.823659398454016,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "36ae7af8-3128-4c69-aef1-5f6d573e37f5",
+        "name": "Waluigi",
+        "rating": 25.918350109519324,
+        "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
+        "trainer_name": "YM44",
+        "result": "loss"
+      }
+    },
+    "2022-01-25T17:30:35.911613+00:00": {
+      "this_amiibo": {
+        "rating": 24.44820291682264,
+        "rating_mu": 29.754637620433456,
+        "rating_sigma": 1.7688115678702718,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "37d68c71-4992-4685-aa7c-f9b238a978d3",
+        "name": "Bystander",
+        "rating": 24.97578881921654,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
+    },
+    "2022-02-03T07:04:09.557136+00:00": {
+      "this_amiibo": {
+        "rating": 24.26166080131262,
+        "rating_mu": 29.454167274103565,
+        "rating_sigma": 1.730835490930315,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "57196d28-bb54-4461-b9aa-048d26cd2c58",
+        "name": "KungFuMan",
+        "rating": 28.495885470503215,
+        "trainer_id": "95c09948-6452-4ce4-b27f-6c73c294c610",
+        "trainer_name": "2Snowblind",
+        "result": "win"
+      }
     }
   }
 }

@@ -191,6 +191,40 @@
         "trainer_name": "Amronio",
         "result": "loss"
       }
+    },
+    "2022-01-25T02:46:57.302306+00:00": {
+      "this_amiibo": {
+        "rating": 23.098314896018934,
+        "rating_mu": 30.571983721288085,
+        "rating_sigma": 2.491222941756384,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "7ef11f22-4532-46b3-a604-7bd79687e054",
+        "name": "Rat",
+        "rating": 21.316309706622384,
+        "trainer_id": "3fabe039-1087-4290-afb8-fd2ab3a1f5f6",
+        "trainer_name": "SitraSSB",
+        "result": "win"
+      }
+    },
+    "2022-01-30T23:46:17.196705+00:00": {
+      "this_amiibo": {
+        "rating": 23.752112397385545,
+        "rating_mu": 30.973132982192155,
+        "rating_sigma": 2.4070068616022025,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "ba28cd38-185d-48dc-8912-9059b5f9a2f5",
+        "name": "FAE",
+        "rating": 21.97083237750044,
+        "trainer_id": "37df81b9-e5cd-431d-8561-7314e26d3d6c",
+        "trainer_name": "Dahtin",
+        "result": "loss"
+      }
     }
   }
 }

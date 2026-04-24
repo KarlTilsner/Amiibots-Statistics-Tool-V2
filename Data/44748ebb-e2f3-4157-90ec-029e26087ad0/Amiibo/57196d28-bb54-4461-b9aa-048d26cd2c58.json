@@ -1024,6 +1024,57 @@
         "trainer_name": "MiDe1",
         "result": "win"
       }
+    },
+    "2022-02-01T02:44:52.867732+00:00": {
+      "this_amiibo": {
+        "rating": 28.502696249287844,
+        "rating_mu": 32.103023024278265,
+        "rating_sigma": 1.2001089249968064,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "c1cad9d7-9f74-4a80-b156-36e04fe53d41",
+        "name": "Clone Hero",
+        "rating": 18.598347471938094,
+        "trainer_id": "01a22b9b-7ff3-4ef1-a2ae-390dfe7b2651",
+        "trainer_name": "Cosmironic",
+        "result": "loss"
+      }
+    },
+    "2022-02-01T13:45:16.531479+00:00": {
+      "this_amiibo": {
+        "rating": 28.33274503718733,
+        "rating_mu": 31.894641343883965,
+        "rating_sigma": 1.1872987688988783,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "cf59d739-545a-472b-be84-3e9f9d45c7d3",
+        "name": "?",
+        "rating": 28.965826021971814,
+        "trainer_id": "80f98683-a318-47dd-bcf2-93f67d0878d4",
+        "trainer_name": "Sir_Dragonite",
+        "result": "win"
+      }
+    },
+    "2022-02-03T07:04:09.557136+00:00": {
+      "this_amiibo": {
+        "rating": 28.495885470503215,
+        "rating_mu": 32.030388589671745,
+        "rating_sigma": 1.1781677063895097,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "d5bc5d2a-ca98-41be-8336-f1203ed9b40b",
+        "name": "Blood Man",
+        "rating": 24.26166080131262,
+        "trainer_id": "b82c6d43-d80c-4195-99a0-67355d12115d",
+        "trainer_name": "the_real_rukasu",
+        "result": "loss"
+      }
     }
   }
 }

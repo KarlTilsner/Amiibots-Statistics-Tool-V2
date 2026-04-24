@@ -242,6 +242,40 @@
         "trainer_name": "blaz_68",
         "result": "loss"
       }
+    },
+    "2025-10-30T11:47:24.966049+00:00": {
+      "this_amiibo": {
+        "rating": 14.26290874352053,
+        "rating_mu": 20.80011606500009,
+        "rating_sigma": 2.1790691071598536,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "ec965453-defd-43b3-8949-84ffff4742fc",
+        "name": "MAGICIAN",
+        "rating": 22.30978177379554,
+        "trainer_id": "61314a03-5052-497e-a2bf-ebeabc47be55",
+        "trainer_name": "amatsoup",
+        "result": "win"
+      }
+    },
+    "2025-11-19T19:26:59.995167+00:00": {
+      "this_amiibo": {
+        "rating": 14.74457679516194,
+        "rating_mu": 21.10910365166551,
+        "rating_sigma": 2.121508952167857,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "fdf0a111-96a5-47e6-b7d7-74485f2a5312",
+        "name": "Arktos",
+        "rating": 12.732965408601697,
+        "trainer_id": "8f9a7e3f-ab2c-43bd-8042-bc92d142c3fd",
+        "trainer_name": "Belarias",
+        "result": "loss"
+      }
     }
   }
 }

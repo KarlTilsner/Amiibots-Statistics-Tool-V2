@@ -225,6 +225,40 @@
         "trainer_name": "MiDe1",
         "result": "loss"
       }
+    },
+    "2025-10-30T18:31:41.150673+00:00": {
+      "this_amiibo": {
+        "rating": 23.611512058577592,
+        "rating_mu": 30.19399484005916,
+        "rating_sigma": 2.1941609271605222,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "2fd45da1-184d-43e9-930f-f4687c03f086",
+        "name": "ChatGPT",
+        "rating": 24.442940992138602,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "loss"
+      }
+    },
+    "2025-11-20T04:56:26.996465+00:00": {
+      "this_amiibo": {
+        "rating": 23.309906743067216,
+        "rating_mu": 29.653790548774854,
+        "rating_sigma": 2.114627935235879,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "a6a22f16-7152-4751-9fee-ceabd582ccde",
+        "name": "Kaede",
+        "rating": 28.726281272391162,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "win"
+      }
     }
   }
 }

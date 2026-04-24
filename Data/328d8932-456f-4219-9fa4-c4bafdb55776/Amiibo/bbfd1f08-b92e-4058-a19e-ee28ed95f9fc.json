@@ -140,6 +140,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2025-11-09T23:51:54.162023+00:00": {
+      "this_amiibo": {
+        "rating": 20.665164744526898,
+        "rating_mu": 28.376444214923765,
+        "rating_sigma": 2.5704264901322884,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "bcceb7be-9fb3-4158-beb7-fe7bf33cfe7d",
+        "name": "Jack Black",
+        "rating": 26.762174863776302,
+        "trainer_id": "5ecc9f0c-afdd-455b-8077-db8be3c428b8",
+        "trainer_name": "mrgoddamskittles",
+        "result": "win"
+      }
+    },
+    "2025-11-19T05:18:22.656714+00:00": {
+      "this_amiibo": {
+        "rating": 21.691312941889752,
+        "rating_mu": 29.053243053519758,
+        "rating_sigma": 2.453976703876669,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "6f97bed4-a7ac-4651-969e-8f3e0fed907b",
+        "name": "Suavemente",
+        "rating": 22.301130428925923,
+        "trainer_id": "2f2ac200-8c7b-4677-8244-efed4d0083ce",
+        "trainer_name": "lemoninyourheart",
+        "result": "loss"
+      }
     }
   }
 }

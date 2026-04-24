@@ -1381,6 +1381,40 @@
         "trainer_name": "myls19",
         "result": "loss"
       }
+    },
+    "2022-01-27T05:08:46.201446+00:00": {
+      "this_amiibo": {
+        "rating": 22.784424125392114,
+        "rating_mu": 25.991560427633452,
+        "rating_sigma": 1.0690454340804465,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "98f65c3b-3e38-4544-a826-3c20098aca9a",
+        "name": "Adzuki",
+        "rating": 29.890090383948483,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
+    },
+    "2022-02-02T13:55:22.463787+00:00": {
+      "this_amiibo": {
+        "rating": 22.754244435642477,
+        "rating_mu": 25.95753565983662,
+        "rating_sigma": 1.067763741398048,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "4ed4ab3d-282b-4cbf-ac47-1fe3948871c8",
+        "name": "Ccactuss",
+        "rating": 30.616701994481552,
+        "trainer_id": "cc554b9a-73af-4d24-a5d2-3f00a756e54b",
+        "trainer_name": "hazelsiya",
+        "result": "win"
+      }
     }
   }
 }

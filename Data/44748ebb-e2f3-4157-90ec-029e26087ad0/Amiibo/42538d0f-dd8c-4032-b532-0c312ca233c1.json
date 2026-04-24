@@ -446,6 +446,40 @@
         "trainer_name": "bhc_irt",
         "result": "loss"
       }
+    },
+    "2022-02-01T03:35:54.088871+00:00": {
+      "this_amiibo": {
+        "rating": 22.51365588411919,
+        "rating_mu": 27.383489289917012,
+        "rating_sigma": 1.6232778019326084,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "d9b2204f-e56e-4c13-aaf1-d67b8c223973",
+        "name": "Nala",
+        "rating": 36.73615250782893,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "win"
+      }
+    },
+    "2022-02-03T02:59:10.277717+00:00": {
+      "this_amiibo": {
+        "rating": 22.3220603698561,
+        "rating_mu": 27.09890489907481,
+        "rating_sigma": 1.5922815097395697,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "3c8f0ca9-6ae9-4735-ae7f-9cbbccb84410",
+        "name": "Aigis",
+        "rating": 25.72956688361287,
+        "trainer_id": "bb38f34d-4024-4bac-8796-b84083162851",
+        "trainer_name": "TechnoPuff",
+        "result": "win"
+      }
     }
   }
 }

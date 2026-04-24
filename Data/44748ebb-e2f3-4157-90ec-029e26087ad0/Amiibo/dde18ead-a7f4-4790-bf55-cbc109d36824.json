@@ -429,6 +429,40 @@
         "trainer_name": "agent_gforce",
         "result": "win"
       }
+    },
+    "2022-02-03T00:49:22.414709+00:00": {
+      "this_amiibo": {
+        "rating": 27.755468216060788,
+        "rating_mu": 32.59928901819758,
+        "rating_sigma": 1.6146069340455977,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "769b45ee-3fa3-4b52-8a46-f3509cab4b6b",
+        "name": "Malefor",
+        "rating": 29.717212904149772,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
+    },
+    "2022-02-03T07:54:26.920684+00:00": {
+      "this_amiibo": {
+        "rating": 27.90431445793828,
+        "rating_mu": 32.703182453784954,
+        "rating_sigma": 1.5996226652822243,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "afeb85e7-8d18-4ac4-988a-e97da2d8caf8",
+        "name": "Haru",
+        "rating": 18.12255990462066,
+        "trainer_id": "9dd080a5-5309-4ab0-bc0c-f92cef816efa",
+        "trainer_name": "leeya310",
+        "result": "loss"
+      }
     }
   }
 }

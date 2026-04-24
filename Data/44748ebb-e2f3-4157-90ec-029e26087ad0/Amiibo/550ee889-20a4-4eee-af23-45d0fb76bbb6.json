@@ -1687,6 +1687,40 @@
         "trainer_name": "sentientsax",
         "result": "loss"
       }
+    },
+    "2022-01-29T21:34:14.684847+00:00": {
+      "this_amiibo": {
+        "rating": 20.54560745569941,
+        "rating_mu": 23.63589815578057,
+        "rating_sigma": 1.0300969000270535,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "8e36f7a3-e38d-4a9b-9f09-b66dee642cf1",
+        "name": "Nxmaki",
+        "rating": 25.769241300882,
+        "trainer_id": "cbea8289-f383-4cad-8950-3fa18407df3a",
+        "trainer_name": "toxicfur36",
+        "result": "win"
+      }
+    },
+    "2022-01-30T21:23:16.847993+00:00": {
+      "this_amiibo": {
+        "rating": 20.518053511069276,
+        "rating_mu": 23.606815349513738,
+        "rating_sigma": 1.0295872794814875,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "193d5f89-3f88-4ef4-9dc1-00e6f32b26c4",
+        "name": "Eragon",
+        "rating": 29.43627845285201,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
     }
   }
 }

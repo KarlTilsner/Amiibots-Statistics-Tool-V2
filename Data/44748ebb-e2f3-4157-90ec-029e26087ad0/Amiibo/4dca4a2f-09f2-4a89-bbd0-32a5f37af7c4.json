@@ -1,7 +1,7 @@
 {
   "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
   "id": "4dca4a2f-09f2-4a89-bbd0-32a5f37af7c4",
-  "name": "Taxi Bot",
+  "name": "War War 2",
   "trainer_id": "c1a8adfd-561e-4b61-9870-5e000224d33f",
   "trainer_name": "mariodude6700",
   "matches": {
@@ -20,6 +20,40 @@
         "trainer_id": "82744ca8-946c-4b04-8669-586aea3f5d10",
         "trainer_name": "smasher_the_blue_cat",
         "result": "loss"
+      }
+    },
+    "2022-01-23T05:08:41.305685+00:00": {
+      "this_amiibo": {
+        "rating": 12.59311010210595,
+        "rating_mu": 28.675233478946375,
+        "rating_sigma": 5.360707792280142,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
+        "id": "aff0d640-0686-4d76-a7a7-4f58d2b87ae7",
+        "name": "Purin",
+        "rating": 23.34273662449712,
+        "trainer_id": "c4b64610-bef3-429c-a9db-6e6e4bc17e05",
+        "trainer_name": "sheepplant",
+        "result": "win"
+      }
+    },
+    "2022-02-01T15:33:10.161261+00:00": {
+      "this_amiibo": {
+        "rating": 12.619268108902192,
+        "rating_mu": 26.58076529393909,
+        "rating_sigma": 4.6538323950123,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "f6d4ccca-eb99-4da8-9850-5861f9ed04be",
+        "name": "Blue Combo",
+        "rating": 29.042521246184705,
+        "trainer_id": "cced3231-616d-4c14-9310-7dfb1487925d",
+        "trainer_name": "MilitantBrotha",
+        "result": "win"
       }
     }
   }

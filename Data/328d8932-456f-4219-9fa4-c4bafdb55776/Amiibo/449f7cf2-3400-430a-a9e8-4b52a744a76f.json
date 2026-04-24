@@ -72,6 +72,40 @@
         "trainer_name": "gold_dxj",
         "result": "loss"
       }
+    },
+    "2025-11-03T21:08:42.223694+00:00": {
+      "this_amiibo": {
+        "rating": 22.26918084658169,
+        "rating_mu": 32.52643071136343,
+        "rating_sigma": 3.419083288260581,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "5a81c483-c2e5-46fd-8a31-2a31672270c2",
+        "name": "Rex",
+        "rating": 32.46703358998617,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "win"
+      }
+    },
+    "2025-11-04T17:36:10.908589+00:00": {
+      "this_amiibo": {
+        "rating": 21.51083379921056,
+        "rating_mu": 30.845597425052286,
+        "rating_sigma": 3.1115878752805757,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "6d8fefdc-7c93-444b-84e8-8bfecad08222",
+        "name": "JohnVTuber",
+        "rating": 28.21888144030963,
+        "trainer_id": "2378ad65-e527-4455-9cf7-a16bcd9709a9",
+        "trainer_name": "1stawesomeman",
+        "result": "win"
+      }
     }
   }
 }
