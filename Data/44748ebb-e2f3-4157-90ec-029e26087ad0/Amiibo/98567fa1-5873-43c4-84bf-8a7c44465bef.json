@@ -106,6 +106,40 @@
         "trainer_name": "amiiboaction",
         "result": "win"
       }
+    },
+    "2021-04-01T00:54:07.044641+00:00": {
+      "this_amiibo": {
+        "rating": 10.567100082675903,
+        "rating_mu": 20.763454072123672,
+        "rating_sigma": 3.398784663149256,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "bcdf0e14-dd84-405f-a75e-58fa3b0d4732",
+        "name": "Raphael",
+        "rating": 18.370399986707326,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "win"
+      }
+    },
+    "2021-07-12T10:57:12.345139+00:00": {
+      "this_amiibo": {
+        "rating": 14.339494540980308,
+        "rating_mu": 23.469274415984774,
+        "rating_sigma": 3.043259958334822,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "fc239045-924c-46cb-a23c-e31529196295",
+        "name": "Frog",
+        "rating": 25.102543685371487,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "loss"
+      }
     }
   }
 }

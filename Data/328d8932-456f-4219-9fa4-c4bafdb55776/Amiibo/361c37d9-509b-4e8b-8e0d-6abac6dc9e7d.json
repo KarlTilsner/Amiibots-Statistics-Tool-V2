@@ -599,6 +599,57 @@
         "trainer_name": "JoyBoyIndigo",
         "result": "loss"
       }
+    },
+    "2024-02-15T03:27:21.293570+00:00": {
+      "this_amiibo": {
+        "rating": 22.041657330226016,
+        "rating_mu": 26.709224402715087,
+        "rating_sigma": 1.5558556908296906,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "4f1f3529-cac4-494c-b52b-bb6b78350078",
+        "name": "LuckVoltia",
+        "rating": 21.155362957043664,
+        "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
+        "trainer_name": "phantomvoltia",
+        "result": "win"
+      }
+    },
+    "2024-03-06T04:49:23.143166+00:00": {
+      "this_amiibo": {
+        "rating": 22.37037234506281,
+        "rating_mu": 26.97495408313971,
+        "rating_sigma": 1.5348605793589678,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "b8367c6d-353a-4e60-80c3-8eb9f977405b",
+        "name": "Antwan",
+        "rating": 14.529024920456333,
+        "trainer_id": "9452335d-2039-4ace-ae32-09d27b45d862",
+        "trainer_name": "eddyboomtron",
+        "result": "loss"
+      }
+    },
+    "2024-07-13T04:20:07.503392+00:00": {
+      "this_amiibo": {
+        "rating": 22.747581092199365,
+        "rating_mu": 27.272306883257652,
+        "rating_sigma": 1.5082419303527623,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "9630b3a5-03f3-4bfd-9966-6b3c726277cc",
+        "name": "Akira",
+        "rating": 21.206775407965218,
+        "trainer_id": "9452335d-2039-4ace-ae32-09d27b45d862",
+        "trainer_name": "eddyboomtron",
+        "result": "loss"
+      }
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
   "id": "f8ecdf53-efe4-438b-a5b0-3af19079de24",
-  "name": "K0rBo",
+  "name": "Duck Kirby",
   "trainer_id": "8d6a769d-19d4-4644-b439-6e87cd8a8b20",
   "trainer_name": "someguy_456",
   "matches": {
@@ -206,6 +206,40 @@
         "rating": 25.224471474552765,
         "trainer_id": "180df160-b67f-470f-8ddb-1cfba1202adb",
         "trainer_name": "frosd19",
+        "result": "win"
+      }
+    },
+    "2021-04-05T19:21:36.436190+00:00": {
+      "this_amiibo": {
+        "rating": 16.14515493145292,
+        "rating_mu": 26.415634561167025,
+        "rating_sigma": 3.4234932099047004,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fa1ac3ba-0880-483b-b94e-9b4952e3f999",
+        "id": "811b27fe-094e-4b60-aef0-0e48efbdcc8e",
+        "name": "Gideon",
+        "rating": 11.212709915531953,
+        "trainer_id": "95c09948-6452-4ce4-b27f-6c73c294c610",
+        "trainer_name": "2Snowblind",
+        "result": "loss"
+      }
+    },
+    "2021-04-18T13:19:34.896946+00:00": {
+      "this_amiibo": {
+        "rating": 16.088646376435815,
+        "rating_mu": 25.91185914865892,
+        "rating_sigma": 3.2744042574077015,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "a9630712-539c-4c7a-acd9-9ec7bba33c9c",
+        "name": "Sasageyo!",
+        "rating": 25.85509655093636,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
         "result": "win"
       }
     }

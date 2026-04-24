@@ -1,0 +1,43 @@
+{
+  "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+  "id": "3233a8b8-5243-4ac2-9fda-54eb12fbb7c8",
+  "name": "Leia",
+  "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+  "trainer_name": "WynnThornton",
+  "matches": {
+    "2021-05-19T21:57:07.716213+00:00": {
+      "this_amiibo": {
+        "rating": 0.7586326994255934,
+        "rating_mu": 20.71486643025724,
+        "rating_sigma": 6.652077910277215,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+        "id": "cace70e6-428b-4c32-9b3b-fa98766ffdf0",
+        "name": "Coca&Cola",
+        "rating": 20.3014087479954,
+        "trainer_id": "95c09948-6452-4ce4-b27f-6c73c294c610",
+        "trainer_name": "2Snowblind",
+        "result": "win"
+      }
+    },
+    "2021-05-21T05:49:29.885657+00:00": {
+      "this_amiibo": {
+        "rating": 1.2530549832759483,
+        "rating_mu": 20.25898503239731,
+        "rating_sigma": 6.3353100163737865,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "32b28ce9-d423-4482-9270-8b7c25945648",
+        "name": "Yzeria",
+        "rating": 33.134881303855224,
+        "trainer_id": "57b78886-3962-42ea-9e7d-7091b402d1e6",
+        "trainer_name": "HexLunare",
+        "result": "win"
+      }
+    }
+  }
+}

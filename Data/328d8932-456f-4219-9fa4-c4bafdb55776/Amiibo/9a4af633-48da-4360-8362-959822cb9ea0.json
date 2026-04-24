@@ -548,6 +548,40 @@
         "trainer_name": "person_who_likes_games",
         "result": "loss"
       }
+    },
+    "2024-06-05T12:20:48.047479+00:00": {
+      "this_amiibo": {
+        "rating": 26.971944770347204,
+        "rating_mu": 31.209350560342166,
+        "rating_sigma": 1.412468596664988,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+        "id": "173ba98f-66ec-467b-8934-e66aa7e2847e",
+        "name": "Gerald",
+        "rating": 28.844570077745733,
+        "trainer_id": "e38c8bde-3fd5-4f26-aa98-691255967e55",
+        "trainer_name": "Bewni",
+        "result": "win"
+      }
+    },
+    "2024-06-29T22:44:32.131643+00:00": {
+      "this_amiibo": {
+        "rating": 27.304636425693502,
+        "rating_mu": 31.476285274859773,
+        "rating_sigma": 1.3905496163887567,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "d2756a1f-c9e1-4787-987b-0aaf7dea8d7d",
+        "name": "ELIMINAR",
+        "rating": 28.293630113502658,
+        "trainer_id": "be70cc79-9ffd-48a9-8fb9-298a2124f477",
+        "trainer_name": "bfan90133",
+        "result": "loss"
+      }
     }
   }
 }

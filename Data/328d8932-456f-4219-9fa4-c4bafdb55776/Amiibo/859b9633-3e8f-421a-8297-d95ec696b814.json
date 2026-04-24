@@ -1,7 +1,7 @@
 {
   "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
   "id": "859b9633-3e8f-421a-8297-d95ec696b814",
-  "name": "Elf Man",
+  "name": "Emo",
   "trainer_id": "b4ded674-d14a-4e96-a0c7-5dc00906f8f7",
   "trainer_name": "aggron_ghost",
   "matches": {
@@ -36,6 +36,40 @@
         "rating": 28.0536400262854,
         "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
         "trainer_name": "StaplesTV_",
+        "result": "win"
+      }
+    },
+    "2023-12-20T15:05:01.651164+00:00": {
+      "this_amiibo": {
+        "rating": 17.019789604171407,
+        "rating_mu": 30.67888615264251,
+        "rating_sigma": 4.5530321828237,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "a9e51a5a-b56f-48d9-b5c1-56f96623b3e3",
+        "name": "Angel",
+        "rating": 23.128797210951582,
+        "trainer_id": "b4ded674-d14a-4e96-a0c7-5dc00906f8f7",
+        "trainer_name": "aggron_ghost",
+        "result": "loss"
+      }
+    },
+    "2024-12-02T20:51:23.900276+00:00": {
+      "this_amiibo": {
+        "rating": 16.690707599732463,
+        "rating_mu": 28.76171764255808,
+        "rating_sigma": 4.023670014275206,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "5d7f599f-e8db-4f38-ad71-2319f3a98b74",
+        "name": "Alpha",
+        "rating": 28.770215116513267,
+        "trainer_id": "e2f65d18-b243-4281-adf2-343a2f26372a",
+        "trainer_name": "Nex_Stargaze",
         "result": "win"
       }
     }

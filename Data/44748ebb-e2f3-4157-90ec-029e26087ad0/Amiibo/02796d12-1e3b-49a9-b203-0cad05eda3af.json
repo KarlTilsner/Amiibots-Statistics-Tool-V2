@@ -1,7 +1,7 @@
 {
   "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
   "id": "02796d12-1e3b-49a9-b203-0cad05eda3af",
-  "name": "Apple",
+  "name": "Foofy",
   "trainer_id": "8d6a769d-19d4-4644-b439-6e87cd8a8b20",
   "trainer_name": "someguy_456",
   "matches": {
@@ -121,6 +121,57 @@
         "rating": 13.04870849232283,
         "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
         "trainer_name": "Renegade_Marbles",
+        "result": "win"
+      }
+    },
+    "2021-05-03T13:05:17.740700+00:00": {
+      "this_amiibo": {
+        "rating": 11.895951366204304,
+        "rating_mu": 22.611482020343228,
+        "rating_sigma": 3.571843551379641,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "03d5de54-6fdd-4e67-aabd-77b1882d4063",
+        "name": "IceKing",
+        "rating": 30.090348916064183,
+        "trainer_id": "b8caead1-f5ec-408e-8e1c-1ccdfc145d69",
+        "trainer_name": "ILuvBubbleBuddy",
+        "result": "win"
+      }
+    },
+    "2021-05-04T03:58:27.989943+00:00": {
+      "this_amiibo": {
+        "rating": 11.648853971787638,
+        "rating_mu": 21.76358590778875,
+        "rating_sigma": 3.3715773120003716,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+        "id": "4a1529bd-b9f8-44dc-968d-f1dcd3686922",
+        "name": "Herbert",
+        "rating": 17.180237795338655,
+        "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
+        "trainer_name": "Sirffuzzylogik",
+        "result": "win"
+      }
+    },
+    "2021-05-05T12:50:41.558997+00:00": {
+      "this_amiibo": {
+        "rating": 11.347290726960196,
+        "rating_mu": 20.83713240721551,
+        "rating_sigma": 3.1632805600851044,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
+        "id": "21f17061-357a-4ef9-aacd-bf9a7f10e34f",
+        "name": "Hot Topic",
+        "rating": 17.635778058056374,
+        "trainer_id": "a36d4526-a1b2-4467-98f6-9fd436380847",
+        "trainer_name": "tinygreennerd",
         "result": "win"
       }
     }
