@@ -2282,6 +2282,40 @@
         "trainer_name": "SitraSSB",
         "result": "loss"
       }
+    },
+    "2021-09-22T13:00:18.635178+00:00": {
+      "this_amiibo": {
+        "rating": 31.67635921824882,
+        "rating_mu": 34.49479756134107,
+        "rating_sigma": 0.939479447697418,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "26680dc4-8cbd-4de5-ab92-f6e018f63f73",
+        "name": "ChonkTerry",
+        "rating": 31.192232986804427,
+        "trainer_id": "c4b03d82-1d1d-4a8b-88fa-e72a4bc06052",
+        "trainer_name": "gemsbane",
+        "result": "win"
+      }
+    },
+    "2021-09-22T19:51:14.772097+00:00": {
+      "this_amiibo": {
+        "rating": 31.75304917857877,
+        "rating_mu": 34.565295416725334,
+        "rating_sigma": 0.9374154127155214,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "0964fb16-4fb9-4cc9-8c35-d5be6811605c",
+        "name": "Poptart",
+        "rating": 28.428083222364442,
+        "trainer_id": "9d77bdfc-09ab-4886-b28c-6e23ab77fa64",
+        "trainer_name": "InkThinks",
+        "result": "loss"
+      }
     }
   }
 }

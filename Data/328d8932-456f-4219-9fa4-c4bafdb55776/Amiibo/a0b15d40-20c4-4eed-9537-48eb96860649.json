@@ -1653,6 +1653,74 @@
         "trainer_name": "MiDe1",
         "result": "win"
       }
+    },
+    "2025-01-24T03:19:34.171297+00:00": {
+      "this_amiibo": {
+        "rating": 38.39254637036049,
+        "rating_mu": 41.17553262688322,
+        "rating_sigma": 0.9276620855075759,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "3a0d7f8a-fda4-4595-93f0-3667d880c154",
+        "name": "1/4096",
+        "rating": 41.26642508774386,
+        "trainer_id": "737b125c-6dc9-418e-80cf-0dc6b78049cd",
+        "trainer_name": "FlaminJolt",
+        "result": "win"
+      }
+    },
+    "2025-02-20T16:13:40.512191+00:00": {
+      "this_amiibo": {
+        "rating": 38.29069784320286,
+        "rating_mu": 41.063782193637735,
+        "rating_sigma": 0.9243614501449602,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "b502d36b-678b-4aca-a6c5-80717b00cdf3",
+        "name": "MI6 Agent",
+        "rating": 39.060820281332994,
+        "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
+        "trainer_name": "Pi_Boy_314",
+        "result": "win"
+      }
+    },
+    "2025-02-22T11:57:06.143527+00:00": {
+      "this_amiibo": {
+        "rating": 38.5052988935127,
+        "rating_mu": 41.261920734082324,
+        "rating_sigma": 0.9188739468565416,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
+        "id": "4e8569ee-aa00-4c26-aa42-dc4e16913757",
+        "name": "Lo Mein",
+        "rating": 35.875932080583674,
+        "trainer_id": "80f98683-a318-47dd-bcf2-93f67d0878d4",
+        "trainer_name": "Sir_Dragonite",
+        "result": "loss"
+      }
+    },
+    "2025-02-22T02:49:02.802005+00:00": {
+      "this_amiibo": {
+        "rating": 38.424945998775414,
+        "rating_mu": 41.187407040551186,
+        "rating_sigma": 0.9208203472585917,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "b502d36b-678b-4aca-a6c5-80717b00cdf3",
+        "name": "MI6 Agent",
+        "rating": 39.17222505629713,
+        "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
+        "trainer_name": "Pi_Boy_314",
+        "result": "loss"
+      }
     }
   }
 }

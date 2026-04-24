@@ -701,6 +701,57 @@
         "trainer_name": "SitraSSB",
         "result": "loss"
       }
+    },
+    "2021-09-20T09:09:13.327738+00:00": {
+      "this_amiibo": {
+        "rating": 27.82398344820352,
+        "rating_mu": 31.92279292222782,
+        "rating_sigma": 1.366269824674766,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "cfd01c12-e832-42aa-938f-3a2dd8c90cc6",
+        "name": "Lightyear",
+        "rating": 26.063153735938258,
+        "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
+        "trainer_name": "YM44",
+        "result": "win"
+      }
+    },
+    "2021-09-29T20:42:26.807397+00:00": {
+      "this_amiibo": {
+        "rating": 27.819515923718797,
+        "rating_mu": 31.924441453622293,
+        "rating_sigma": 1.3683085099678327,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "0f1208cc-7eda-4813-89ff-7c7811959809",
+        "name": "wah",
+        "rating": 4.9377835620110275,
+        "trainer_id": "d92b7874-c5d1-4579-8e92-86d56c5e594f",
+        "trainer_name": "sumrando123",
+        "result": "loss"
+      }
+    },
+    "2021-10-02T01:31:17.068054+00:00": {
+      "this_amiibo": {
+        "rating": 27.958811255526278,
+        "rating_mu": 32.029391023802745,
+        "rating_sigma": 1.3568599227588225,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "e780fd91-d2b5-40cf-9f8a-6351e316d04a",
+        "name": "Mo",
+        "rating": 22.569675447611615,
+        "trainer_id": "123ffdcf-d8ac-4475-837c-cc925da2f288",
+        "trainer_name": "fdxcfdxc",
+        "result": "loss"
+      }
     }
   }
 }

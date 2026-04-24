@@ -157,6 +157,40 @@
         "trainer_name": "psythe_",
         "result": "loss"
       }
+    },
+    "2021-09-22T09:24:54.900279+00:00": {
+      "this_amiibo": {
+        "rating": 19.982988123710935,
+        "rating_mu": 27.61808510494117,
+        "rating_sigma": 2.5450323270767443,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "bdd595b1-3bb9-45c2-a725-976f3f2e9917",
+        "name": "Heartbreak",
+        "rating": 13.980767809151766,
+        "trainer_id": "6fcd9113-8cc8-48cd-b29b-46b2ccb55f27",
+        "trainer_name": "sunnyfunnytrueform",
+        "result": "win"
+      }
+    },
+    "2021-09-25T04:24:27.218943+00:00": {
+      "this_amiibo": {
+        "rating": 19.730736913134997,
+        "rating_mu": 27.040675129430486,
+        "rating_sigma": 2.436646072098496,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "deffff12-074e-47a4-b29d-27ee4c248f9a",
+        "name": "AlbinoFire",
+        "rating": 27.287842354108438,
+        "trainer_id": "93f967b4-5933-4e9b-9f67-3d16fd17437f",
+        "trainer_name": "glitched_artist",
+        "result": "win"
+      }
     }
   }
 }

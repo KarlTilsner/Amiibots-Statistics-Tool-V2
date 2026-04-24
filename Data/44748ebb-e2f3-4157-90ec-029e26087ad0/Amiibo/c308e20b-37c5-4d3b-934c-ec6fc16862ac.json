@@ -531,6 +531,57 @@
         "trainer_name": "sp_staples",
         "result": "loss"
       }
+    },
+    "2021-09-26T04:17:23.496288+00:00": {
+      "this_amiibo": {
+        "rating": 29.670107045435238,
+        "rating_mu": 34.643808561239155,
+        "rating_sigma": 1.6579005052679718,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c09bb6c6-3309-404d-abe6-4c3b3d00d44a",
+        "name": "Tigger",
+        "rating": 33.3549798822216,
+        "trainer_id": "7e0c5589-f8ae-4cc3-89dc-f8363d2d2a83",
+        "trainer_name": "agent_gforce",
+        "result": "win"
+      }
+    },
+    "2021-09-27T04:22:41.178654+00:00": {
+      "this_amiibo": {
+        "rating": 29.953318158128035,
+        "rating_mu": 34.845817745119454,
+        "rating_sigma": 1.6308331956638074,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "aaf6d871-d472-4cee-a39b-d8d34302eaf2",
+        "name": "MayBAFurry",
+        "rating": 28.18480581645893,
+        "trainer_id": "86912f99-fb6b-4c7d-af81-8700867a6f46",
+        "trainer_name": "viktex",
+        "result": "loss"
+      }
+    },
+    "2021-10-04T02:54:23.033847+00:00": {
+      "this_amiibo": {
+        "rating": 29.757791098395067,
+        "rating_mu": 34.55551310024594,
+        "rating_sigma": 1.5992406672836235,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "fab5ea3a-30c6-45a0-8437-8dd252572508",
+        "name": "Níðhöggr",
+        "rating": 33.05213027413395,
+        "trainer_id": "8d4a1839-4a29-4630-9f6f-25ad5642f9f3",
+        "trainer_name": "Dizenn_SSB",
+        "result": "win"
+      }
     }
   }
 }

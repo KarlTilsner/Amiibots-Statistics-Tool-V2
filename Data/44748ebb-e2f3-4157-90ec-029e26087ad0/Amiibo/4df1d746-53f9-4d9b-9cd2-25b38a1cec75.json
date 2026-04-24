@@ -871,6 +871,57 @@
         "trainer_name": "Zenabievg",
         "result": "loss"
       }
+    },
+    "2021-09-22T09:10:47.111327+00:00": {
+      "this_amiibo": {
+        "rating": 23.13196415417147,
+        "rating_mu": 26.766680422605837,
+        "rating_sigma": 1.211572089478123,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "3f69e9b2-082e-46ba-b29b-bbce5e47a1c7",
+        "name": "GokenBlack",
+        "rating": 25.996841763414245,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "win"
+      }
+    },
+    "2021-09-23T23:53:14.929422+00:00": {
+      "this_amiibo": {
+        "rating": 23.42464056919818,
+        "rating_mu": 27.027096482929906,
+        "rating_sigma": 1.2008186379105763,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "fb0c21e8-15d0-4531-af6e-1ddbf0c2dc00",
+        "name": "Ouroboros",
+        "rating": 18.942256152268214,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "loss"
+      }
+    },
+    "2021-09-28T08:58:40.389249+00:00": {
+      "this_amiibo": {
+        "rating": 23.757635859582415,
+        "rating_mu": 27.31572433910121,
+        "rating_sigma": 1.1860294931729318,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "371df73c-aa05-4a82-84e6-97606e15c782",
+        "name": "Taho",
+        "rating": 27.510212267310443,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "loss"
+      }
     }
   }
 }

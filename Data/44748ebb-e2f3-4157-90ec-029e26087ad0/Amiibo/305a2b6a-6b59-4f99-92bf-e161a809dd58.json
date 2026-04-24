@@ -1,0 +1,43 @@
+{
+  "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+  "id": "305a2b6a-6b59-4f99-92bf-e161a809dd58",
+  "name": "McDonalds",
+  "trainer_id": "6d6bd40e-513e-44c2-950c-14a949e0a078",
+  "trainer_name": "StardustSpirit",
+  "matches": {
+    "2021-10-05T08:32:13.352281+00:00": {
+      "this_amiibo": {
+        "rating": 1.1642920507287187,
+        "rating_mu": 18.727414944447617,
+        "rating_sigma": 5.854374297906299,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "1bc8b483-9c8d-49f9-85bd-1f1327544332",
+        "name": "Kyurrin",
+        "rating": 16.24538878247873,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2021-10-05T06:38:13.935843+00:00": {
+      "this_amiibo": {
+        "rating": 0.9083204238004505,
+        "rating_mu": 21.752068626504432,
+        "rating_sigma": 6.947916067567994,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "9a6513d2-e78d-4f0b-b569-fe22582b43ca",
+        "name": "Angelica",
+        "rating": 20.896204800544016,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
+    }
+  }
+}

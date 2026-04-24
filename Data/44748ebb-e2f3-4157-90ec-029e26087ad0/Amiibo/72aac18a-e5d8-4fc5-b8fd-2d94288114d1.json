@@ -3285,6 +3285,40 @@
         "trainer_name": "staples___",
         "result": "loss"
       }
+    },
+    "2021-09-26T21:13:49.968840+00:00": {
+      "this_amiibo": {
+        "rating": 24.986600156979986,
+        "rating_mu": 27.532732549928667,
+        "rating_sigma": 0.8487107976495604,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c09bb6c6-3309-404d-abe6-4c3b3d00d44a",
+        "name": "Tigger",
+        "rating": 33.37794099246411,
+        "trainer_id": "7e0c5589-f8ae-4cc3-89dc-f8363d2d2a83",
+        "trainer_name": "agent_gforce",
+        "result": "win"
+      }
+    },
+    "2021-09-30T06:57:23.794686+00:00": {
+      "this_amiibo": {
+        "rating": 25.084916118490746,
+        "rating_mu": 27.62887419899926,
+        "rating_sigma": 0.8479860268361714,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "97324187-8e81-45cc-afd3-a4ee31b0b50d",
+        "name": "bad boy",
+        "rating": 19.621204075106828,
+        "trainer_id": "94403b6f-17a3-4d6a-be29-de66b221db6d",
+        "trainer_name": "penguhhhh",
+        "result": "loss"
+      }
     }
   }
 }
