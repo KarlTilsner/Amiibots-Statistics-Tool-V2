@@ -157,6 +157,57 @@
         "trainer_name": "random_fire",
         "result": "loss"
       }
+    },
+    "2021-08-08T14:36:56.091813+00:00": {
+      "this_amiibo": {
+        "rating": 18.700640239258195,
+        "rating_mu": 27.190421886196162,
+        "rating_sigma": 2.829927215645989,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
+        "id": "7c01780d-6366-4110-9ea1-26f0cef590d1",
+        "name": "Arch Angel",
+        "rating": 27.05686341061587,
+        "trainer_id": "09e1fbea-8e94-4937-ba38-19aa4f120f59",
+        "trainer_name": "BunionEL",
+        "result": "win"
+      }
+    },
+    "2021-08-08T23:12:24.673055+00:00": {
+      "this_amiibo": {
+        "rating": 19.49437109657079,
+        "rating_mu": 27.675616109885325,
+        "rating_sigma": 2.7270816711048447,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "0bdb1988-fbff-4333-ae5e-06b418cdf7fe",
+        "name": "Fanta",
+        "rating": 12.805274572087031,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    },
+    "2021-08-14T21:19:24.548544+00:00": {
+      "this_amiibo": {
+        "rating": 19.925757634084935,
+        "rating_mu": 27.952219212942904,
+        "rating_sigma": 2.675487192952656,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "9911b406-50b4-43a1-b6b3-ee4cc7c8b0ea",
+        "name": "Tails",
+        "rating": 2.1993217281224915,
+        "trainer_id": "4ad370a1-5d2c-4519-a253-8af2eeed1443",
+        "trainer_name": "drweegeepie",
+        "result": "loss"
+      }
     }
   }
 }

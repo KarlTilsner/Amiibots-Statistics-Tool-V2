@@ -293,6 +293,57 @@
         "trainer_name": "traumatizedbaconbits",
         "result": "loss"
       }
+    },
+    "2021-08-05T16:05:42.781700+00:00": {
+      "this_amiibo": {
+        "rating": 26.73927254660895,
+        "rating_mu": 33.12341688311918,
+        "rating_sigma": 2.1280481121700743,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "0964fb16-4fb9-4cc9-8c35-d5be6811605c",
+        "name": "Poptart",
+        "rating": 29.71323214459244,
+        "trainer_id": "9d77bdfc-09ab-4886-b28c-6e23ab77fa64",
+        "trainer_name": "InkThinks",
+        "result": "win"
+      }
+    },
+    "2021-08-06T02:58:25.153722+00:00": {
+      "this_amiibo": {
+        "rating": 26.96211413372062,
+        "rating_mu": 33.25230840147584,
+        "rating_sigma": 2.0967314225850724,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "04a21682-a0f0-49d5-b3cc-99d8f5ed1b25",
+        "name": "KnowinFish",
+        "rating": 21.39106010767386,
+        "trainer_id": "c991bf59-5353-4a30-bddd-d236b05b366c",
+        "trainer_name": "knowinape",
+        "result": "loss"
+      }
+    },
+    "2021-08-09T09:02:20.908773+00:00": {
+      "this_amiibo": {
+        "rating": 27.52583806135968,
+        "rating_mu": 33.64095896836045,
+        "rating_sigma": 2.0383736356669244,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "6dc23167-d6aa-488e-ac0d-44f6584fe740",
+        "name": "Albino G&W",
+        "rating": 24.820631875201713,
+        "trainer_id": "93f967b4-5933-4e9b-9f67-3d16fd17437f",
+        "trainer_name": "glitched_artist",
+        "result": "loss"
+      }
     }
   }
 }

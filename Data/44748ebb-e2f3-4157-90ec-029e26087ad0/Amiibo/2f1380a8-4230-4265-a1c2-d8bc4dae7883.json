@@ -633,6 +633,57 @@
         "trainer_name": "sp_staples",
         "result": "win"
       }
+    },
+    "2021-08-07T10:13:22.748756+00:00": {
+      "this_amiibo": {
+        "rating": 26.872981886967533,
+        "rating_mu": 31.463249223136973,
+        "rating_sigma": 1.5300891120564797,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "acfd5ddd-8a11-4458-bc1a-346e5c558997",
+        "name": "Amity",
+        "rating": 20.72792073358674,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "loss"
+      }
+    },
+    "2021-08-14T20:51:41.286452+00:00": {
+      "this_amiibo": {
+        "rating": 27.012312247389374,
+        "rating_mu": 31.562867019589532,
+        "rating_sigma": 1.5168515907333855,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "6b9d0ae5-c573-443a-b599-86588162d37d",
+        "name": "Modem",
+        "rating": 17.965404942520752,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    },
+    "2021-08-16T02:24:30.366088+00:00": {
+      "this_amiibo": {
+        "rating": 27.292627720919317,
+        "rating_mu": 31.774408956392868,
+        "rating_sigma": 1.4939270784911842,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "f435741c-b516-4b1c-a642-0adf2b2434de",
+        "name": "Arnox",
+        "rating": 26.037589021630268,
+        "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
+        "trainer_name": "Lady_Cucco",
+        "result": "loss"
+      }
     }
   }
 }

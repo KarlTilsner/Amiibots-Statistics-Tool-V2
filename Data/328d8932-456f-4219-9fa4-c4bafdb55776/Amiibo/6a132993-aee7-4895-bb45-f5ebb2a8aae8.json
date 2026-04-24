@@ -633,6 +633,40 @@
         "trainer_name": "Epsilon080",
         "result": "loss"
       }
+    },
+    "2024-10-28T03:06:56.942647+00:00": {
+      "this_amiibo": {
+        "rating": 19.10296183533778,
+        "rating_mu": 23.488746156927157,
+        "rating_sigma": 1.4619281071964587,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "5c591021-f0bd-44be-b244-3e8bf45c92b1",
+        "name": "ZyrtcPokey",
+        "rating": 10.39616927645216,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "win"
+      }
+    },
+    "2024-11-11T20:24:17.175310+00:00": {
+      "this_amiibo": {
+        "rating": 19.3357528519509,
+        "rating_mu": 23.684843822084293,
+        "rating_sigma": 1.4496969900444638,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "4cc7482f-6072-4f07-b072-9dd49e28b246",
+        "name": "Raiden",
+        "rating": 6.129939850768647,
+        "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
+        "trainer_name": "leCharade",
+        "result": "loss"
+      }
     }
   }
 }

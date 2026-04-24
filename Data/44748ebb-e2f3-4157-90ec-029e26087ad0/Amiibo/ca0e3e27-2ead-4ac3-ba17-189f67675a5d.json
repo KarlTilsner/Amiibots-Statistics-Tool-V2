@@ -106,6 +106,57 @@
         "trainer_name": "staples___",
         "result": "loss"
       }
+    },
+    "2021-08-08T16:28:39.619856+00:00": {
+      "this_amiibo": {
+        "rating": 21.162794808176876,
+        "rating_mu": 31.00993185089333,
+        "rating_sigma": 3.2823790142388174,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "417c4ccf-c9cd-4bac-ab82-b98dec730f54",
+        "name": "agent pee",
+        "rating": 22.23273414582843,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "sp_staples",
+        "result": "win"
+      }
+    },
+    "2021-08-11T17:07:01.979552+00:00": {
+      "this_amiibo": {
+        "rating": 23.203617103702506,
+        "rating_mu": 32.295058345394246,
+        "rating_sigma": 3.030480413897246,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "9ad28ac4-3877-4650-92cd-ccde73d2f39d",
+        "name": "Hazmir",
+        "rating": 27.6475892635509,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "loss"
+      }
+    },
+    "2021-08-17T20:06:18.197203+00:00": {
+      "this_amiibo": {
+        "rating": 23.058415654280044,
+        "rating_mu": 31.74126834974467,
+        "rating_sigma": 2.894284231821542,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "c4b9ff2f-c0a6-417d-9d44-108ccc62a79a",
+        "name": "Vee",
+        "rating": 31.533594051544405,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
     }
   }
 }

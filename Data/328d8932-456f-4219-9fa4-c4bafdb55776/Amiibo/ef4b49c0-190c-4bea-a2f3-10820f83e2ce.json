@@ -769,6 +769,40 @@
         "trainer_name": "leCharade",
         "result": "loss"
       }
+    },
+    "2024-10-16T11:03:55.407457+00:00": {
+      "this_amiibo": {
+        "rating": 14.189106383917382,
+        "rating_mu": 17.924229425784443,
+        "rating_sigma": 1.245041013955687,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+        "id": "9222137b-56a6-4ffe-88c3-86c5d2e79cbc",
+        "name": "Polio",
+        "rating": 15.187462283897808,
+        "trainer_id": "3c2659e1-5fee-4b6b-98e3-594aec223a09",
+        "trainer_name": "brain_dread",
+        "result": "win"
+      }
+    },
+    "2024-10-17T22:31:48.779450+00:00": {
+      "this_amiibo": {
+        "rating": 14.329071103010232,
+        "rating_mu": 18.039780530825755,
+        "rating_sigma": 1.2369031426051744,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "e280210d-1554-42a9-97b8-761496fcb8aa",
+        "name": "genesect",
+        "rating": 5.133447396897473,
+        "trainer_id": "805ee09b-1c40-434b-9e7c-b71c3fd1c42d",
+        "trainer_name": "elisha_davisyt_new",
+        "result": "loss"
+      }
     }
   }
 }

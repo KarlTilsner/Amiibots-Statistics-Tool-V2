@@ -1653,6 +1653,40 @@
         "trainer_name": "ven_1234",
         "result": "win"
       }
+    },
+    "2024-10-17T16:26:58.704310+00:00": {
+      "this_amiibo": {
+        "rating": 24.43620954130384,
+        "rating_mu": 27.12898926741319,
+        "rating_sigma": 0.8975932420364501,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "ec5620df-b7e6-4b66-b626-bdcd4c9944a3",
+        "name": "Orochi",
+        "rating": 20.61684500114558,
+        "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
+        "trainer_name": "leCharade",
+        "result": "win"
+      }
+    },
+    "2024-10-26T02:09:58.978675+00:00": {
+      "this_amiibo": {
+        "rating": 24.558803072980144,
+        "rating_mu": 27.24327582316461,
+        "rating_sigma": 0.8948242500614885,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "802f2c2f-ba63-47af-8861-cd26d0cf3aff",
+        "name": "Tatsu",
+        "rating": 25.072771092614648,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "loss"
+      }
     }
   }
 }

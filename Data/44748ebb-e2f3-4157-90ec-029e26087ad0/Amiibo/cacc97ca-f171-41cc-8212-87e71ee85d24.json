@@ -446,6 +446,57 @@
         "trainer_name": "spc_ac",
         "result": "loss"
       }
+    },
+    "2021-08-06T03:52:38.226802+00:00": {
+      "this_amiibo": {
+        "rating": 28.050449115779955,
+        "rating_mu": 33.15151773128511,
+        "rating_sigma": 1.7003562051683854,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
+        "id": "fdead48f-e02f-447e-97e5-b735ac9e5174",
+        "name": "Cain",
+        "rating": 23.3715498289448,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "loss"
+      }
+    },
+    "2021-08-08T22:34:58.407496+00:00": {
+      "this_amiibo": {
+        "rating": 27.623856627549582,
+        "rating_mu": 32.585438740286065,
+        "rating_sigma": 1.6538607042454943,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "2d846a86-4c1b-4bb2-9931-e5758b6ec951",
+        "name": "Mr. Grinch",
+        "rating": 26.91462405616418,
+        "trainer_id": "9d2e0e79-39fd-4936-8270-f43cb65749cb",
+        "trainer_name": "SpliceStream",
+        "result": "win"
+      }
+    },
+    "2021-08-10T02:13:59.416598+00:00": {
+      "this_amiibo": {
+        "rating": 27.771598690916083,
+        "rating_mu": 32.68660070525968,
+        "rating_sigma": 1.638334004781199,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "6b9d0ae5-c573-443a-b599-86588162d37d",
+        "name": "Modem",
+        "rating": 18.00369097320321,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
     }
   }
 }

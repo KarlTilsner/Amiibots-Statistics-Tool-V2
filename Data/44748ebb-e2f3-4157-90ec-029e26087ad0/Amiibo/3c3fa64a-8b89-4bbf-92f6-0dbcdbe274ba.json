@@ -106,6 +106,40 @@
         "trainer_name": "Zoom__",
         "result": "loss"
       }
+    },
+    "2021-08-05T14:12:31.666220+00:00": {
+      "this_amiibo": {
+        "rating": 25.870953517889262,
+        "rating_mu": 35.02426108919388,
+        "rating_sigma": 3.051102523768205,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "b871de53-908e-4fca-b755-482de462f7f2",
+        "name": "Luz",
+        "rating": 30.616331894945027,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "loss"
+      }
+    },
+    "2021-08-05T23:23:31.370080+00:00": {
+      "this_amiibo": {
+        "rating": 25.619782454494825,
+        "rating_mu": 34.28620001532742,
+        "rating_sigma": 2.8888058536108634,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "b871de53-908e-4fca-b755-482de462f7f2",
+        "name": "Luz",
+        "rating": 32.75121861113078,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
     }
   }
 }

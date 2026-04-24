@@ -55,6 +55,57 @@
         "trainer_name": "track8regret",
         "result": "loss"
       }
+    },
+    "2024-10-18T22:38:42.463042+00:00": {
+      "this_amiibo": {
+        "rating": 14.934586617027769,
+        "rating_mu": 26.973447547104605,
+        "rating_sigma": 4.012953643358945,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "c5353c8c-2f79-4b87-a068-8adf50e8d3fc",
+        "name": "DW-Jade□",
+        "rating": 26.468636544712552,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "win"
+      }
+    },
+    "2024-10-22T22:33:44.631360+00:00": {
+      "this_amiibo": {
+        "rating": 14.521674855959255,
+        "rating_mu": 25.357928307428175,
+        "rating_sigma": 3.6120844838229735,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "b2141bc7-3165-4e63-9c27-71aef0cf4583",
+        "name": "kirby",
+        "rating": 25.416427617176453,
+        "trainer_id": "8a5d445a-c5ef-48a8-9428-41276f678e9d",
+        "trainer_name": "soin1324",
+        "result": "win"
+      }
+    },
+    "2024-10-24T15:43:09.887584+00:00": {
+      "this_amiibo": {
+        "rating": 14.288965845128175,
+        "rating_mu": 24.31129621609148,
+        "rating_sigma": 3.3407767903211023,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "7611ad8e-640b-41a3-9782-44be188c249a",
+        "name": "Zangief",
+        "rating": 25.72463514020552,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "win"
+      }
     }
   }
 }

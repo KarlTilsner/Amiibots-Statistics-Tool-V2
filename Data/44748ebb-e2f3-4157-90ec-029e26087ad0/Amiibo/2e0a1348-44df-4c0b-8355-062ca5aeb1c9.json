@@ -157,6 +157,40 @@
         "trainer_name": "eon_ii",
         "result": "loss"
       }
+    },
+    "2021-08-06T15:15:35.831842+00:00": {
+      "this_amiibo": {
+        "rating": 18.722671007544804,
+        "rating_mu": 27.506195599381225,
+        "rating_sigma": 2.92784153061214,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
+        "id": "fdead48f-e02f-447e-97e5-b735ac9e5174",
+        "name": "Cain",
+        "rating": 25.596982137223712,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "win"
+      }
+    },
+    "2021-08-20T00:06:55.853530+00:00": {
+      "this_amiibo": {
+        "rating": 18.627620847055628,
+        "rating_mu": 27.077544266012183,
+        "rating_sigma": 2.816641139652185,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "695ef39c-c153-42a1-8240-4468187c0431",
+        "name": "Turmoil",
+        "rating": 28.04919173828263,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
     }
   }
 }

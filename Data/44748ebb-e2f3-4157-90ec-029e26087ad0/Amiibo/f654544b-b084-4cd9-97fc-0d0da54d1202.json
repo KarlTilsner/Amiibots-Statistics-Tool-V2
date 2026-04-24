@@ -89,6 +89,57 @@
         "trainer_name": "spc_ac",
         "result": "loss"
       }
+    },
+    "2021-08-06T06:32:32.121451+00:00": {
+      "this_amiibo": {
+        "rating": 8.857805856792716,
+        "rating_mu": 21.81572854126587,
+        "rating_sigma": 4.319307561491051,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "37e53ae6-bfba-420f-9238-a450a4db23c4",
+        "name": "Lich King",
+        "rating": 29.742901428024492,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "win"
+      }
+    },
+    "2021-08-07T08:10:34.627374+00:00": {
+      "this_amiibo": {
+        "rating": 9.011433198670439,
+        "rating_mu": 21.26306729245481,
+        "rating_sigma": 4.083878031261457,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "cb33e248-569b-428e-9e34-d065d18748c6",
+        "name": "Smol Terry",
+        "rating": 27.618739651378107,
+        "trainer_id": "c4b03d82-1d1d-4a8b-88fa-e72a4bc06052",
+        "trainer_name": "gemsbane",
+        "result": "win"
+      }
+    },
+    "2021-08-13T10:31:31.855020+00:00": {
+      "this_amiibo": {
+        "rating": 7.721335476324391,
+        "rating_mu": 18.823727985099694,
+        "rating_sigma": 3.700797502925101,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "68783d02-65d8-488d-bc6b-19e33794acc1",
+        "name": "MetalSlugr",
+        "rating": 7.437564694152753,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
     }
   }
 }

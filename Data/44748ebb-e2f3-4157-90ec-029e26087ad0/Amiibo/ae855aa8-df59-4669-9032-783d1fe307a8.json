@@ -293,6 +293,23 @@
         "trainer_name": "JohnLML123",
         "result": "win"
       }
+    },
+    "2021-08-06T14:44:26.003327+00:00": {
+      "this_amiibo": {
+        "rating": 23.12333947625408,
+        "rating_mu": 29.275698780336537,
+        "rating_sigma": 2.0507864346941522,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c09bb6c6-3309-404d-abe6-4c3b3d00d44a",
+        "name": "Tigger",
+        "rating": 31.885750475987358,
+        "trainer_id": "7e0c5589-f8ae-4cc3-89dc-f8363d2d2a83",
+        "trainer_name": "agent_gforce",
+        "result": "win"
+      }
     }
   }
 }

@@ -1279,6 +1279,57 @@
         "trainer_name": "UltraDPG",
         "result": "loss"
       }
+    },
+    "2021-08-17T00:09:11.401608+00:00": {
+      "this_amiibo": {
+        "rating": 20.73160250716705,
+        "rating_mu": 24.009227416729683,
+        "rating_sigma": 1.0925416365208775,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "b5259794-f2c7-493e-a552-0988492bcfcb",
+        "name": "Blunderbus",
+        "rating": 27.76871760311418,
+        "trainer_id": "8d6a769d-19d4-4644-b439-6e87cd8a8b20",
+        "trainer_name": "someguy_456",
+        "result": "win"
+      }
+    },
+    "2021-08-18T14:42:36.371146+00:00": {
+      "this_amiibo": {
+        "rating": 20.644670206233396,
+        "rating_mu": 23.90553823663841,
+        "rating_sigma": 1.0869560101350042,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "654cd0ab-af93-4a34-bcce-c298d9edd78a",
+        "name": "4E-G1",
+        "rating": 21.114735710912463,
+        "trainer_id": "559b97d3-faa3-4aa1-9697-8e87271c7b16",
+        "trainer_name": "ammoknight208",
+        "result": "win"
+      }
+    },
+    "2021-08-18T23:08:10.134517+00:00": {
+      "this_amiibo": {
+        "rating": 20.623988390513983,
+        "rating_mu": 23.884381776857165,
+        "rating_sigma": 1.0867977954477273,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "39ea5ae4-bbd9-4296-8bfc-38b0bda043f3",
+        "name": "Poop Guy",
+        "rating": 31.299027676799966,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "win"
+      }
     }
   }
 }

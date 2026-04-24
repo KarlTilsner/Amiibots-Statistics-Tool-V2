@@ -208,6 +208,57 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2024-10-17T20:55:56.393342+00:00": {
+      "this_amiibo": {
+        "rating": 24.18600102077847,
+        "rating_mu": 30.71766837178487,
+        "rating_sigma": 2.1772224503354676,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "ab6bdb4a-b972-401d-a0db-ff58744b3bda",
+        "name": "Blorg",
+        "rating": 28.330603559258673,
+        "trainer_id": "7ae72c01-0479-4b54-8c47-7a7e7ed61902",
+        "trainer_name": "dittowog",
+        "result": "win"
+      }
+    },
+    "2024-11-02T06:25:52.034365+00:00": {
+      "this_amiibo": {
+        "rating": 24.828144455903384,
+        "rating_mu": 31.149537678937897,
+        "rating_sigma": 2.1071310743448373,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "4cbc40e9-ec5e-49f6-95f2-1f8c0a7c8e8b",
+        "name": "夜に駆ける",
+        "rating": 25.816585543140153,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "loss"
+      }
+    },
+    "2024-11-03T17:19:17.278734+00:00": {
+      "this_amiibo": {
+        "rating": 25.812772249733737,
+        "rating_mu": 31.88391435486392,
+        "rating_sigma": 2.023714035043394,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "6600c186-8dc6-4eaf-be99-b4ae46509773",
+        "name": "Bis Vincit",
+        "rating": 30.881512774933835,
+        "trainer_id": "76092551-3aba-4182-923a-848b2d279e4c",
+        "trainer_name": "bleachyboi_426",
+        "result": "loss"
+      }
     }
   }
 }

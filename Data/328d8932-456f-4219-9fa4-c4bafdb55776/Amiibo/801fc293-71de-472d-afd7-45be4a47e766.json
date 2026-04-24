@@ -463,6 +463,57 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2024-10-22T09:39:01.521843+00:00": {
+      "this_amiibo": {
+        "rating": 22.75903036858719,
+        "rating_mu": 27.55199749892449,
+        "rating_sigma": 1.5976557101124327,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "2125a9e7-0afd-4ab5-b7a5-b0d462ca25fc",
+        "name": "Captain ",
+        "rating": 23.72618663851194,
+        "trainer_id": "a783d150-bd51-4b0c-9379-b32e55643dac",
+        "trainer_name": "iguyw",
+        "result": "win"
+      }
+    },
+    "2024-11-09T21:40:53.612258+00:00": {
+      "this_amiibo": {
+        "rating": 22.558431741872933,
+        "rating_mu": 27.267953359051173,
+        "rating_sigma": 1.5698405390594132,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "7daf2c6f-be16-4bc5-9bfa-16cbccb37ae4",
+        "name": "The Bullet",
+        "rating": 22.670460428634502,
+        "trainer_id": "4109b186-2c35-4e06-9fb2-0814df014469",
+        "trainer_name": "vasanthias",
+        "result": "win"
+      }
+    },
+    "2024-11-10T22:52:57.862259+00:00": {
+      "this_amiibo": {
+        "rating": 22.934113118995036,
+        "rating_mu": 27.555915178152212,
+        "rating_sigma": 1.540600686385725,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "c49ec0ed-2b56-4f9d-a2e6-2b30ad372fb2",
+        "name": "MetalMario",
+        "rating": 23.886697210382017,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "loss"
+      }
     }
   }
 }

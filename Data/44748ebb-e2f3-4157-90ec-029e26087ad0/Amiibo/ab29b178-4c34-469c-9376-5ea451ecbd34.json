@@ -72,6 +72,40 @@
         "trainer_name": "SitraSSB",
         "result": "loss"
       }
+    },
+    "2021-08-15T10:13:43.110976+00:00": {
+      "this_amiibo": {
+        "rating": 19.711864058534495,
+        "rating_mu": 31.80992792590276,
+        "rating_sigma": 4.032687955789421,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "ba750a84-3000-45ec-aec4-488edeed11f4",
+        "name": "Bowie",
+        "rating": 28.542122293767225,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "win"
+      }
+    },
+    "2021-08-17T04:25:14.709869+00:00": {
+      "this_amiibo": {
+        "rating": 20.684611505162774,
+        "rating_mu": 32.24853137765172,
+        "rating_sigma": 3.854639957496316,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+        "id": "77d3f1c9-b3cb-4904-9a45-bb0ffdfff409",
+        "name": "Wild Wings",
+        "rating": 16.40753154151516,
+        "trainer_id": "7b5c3a5f-658e-4a35-9c96-2bde3d01f1cd",
+        "trainer_name": "red0_ssbu",
+        "result": "loss"
+      }
     }
   }
 }

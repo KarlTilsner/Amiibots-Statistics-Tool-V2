@@ -1976,6 +1976,57 @@
         "trainer_name": "colfon_",
         "result": "loss"
       }
+    },
+    "2024-11-03T17:51:24.148062+00:00": {
+      "this_amiibo": {
+        "rating": 28.81809600983272,
+        "rating_mu": 31.41957361343947,
+        "rating_sigma": 0.8671592012022505,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "1af453b6-b540-4f2c-a0a2-ac106f2b1abc",
+        "name": "Acecalibur",
+        "rating": 28.779493994795676,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2024-11-08T16:50:07.274636+00:00": {
+      "this_amiibo": {
+        "rating": 28.729353183073147,
+        "rating_mu": 31.32583572972437,
+        "rating_sigma": 0.8654941822170749,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "42990a07-0421-4ac9-a939-aa05c0f52076",
+        "name": "Darth Sion",
+        "rating": 29.591729888173674,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2024-11-17T18:01:09.680583+00:00": {
+      "this_amiibo": {
+        "rating": 28.814713216932205,
+        "rating_mu": 31.409104526370967,
+        "rating_sigma": 0.8647971031462537,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "d6102216-2ac2-4bdf-802e-597f02847503",
+        "name": "Zeta Prime",
+        "rating": 22.099462775642834,
+        "trainer_id": "6fcd9113-8cc8-48cd-b29b-46b2ccb55f27",
+        "trainer_name": "traderwaver",
+        "result": "loss"
+      }
     }
   }
 }
