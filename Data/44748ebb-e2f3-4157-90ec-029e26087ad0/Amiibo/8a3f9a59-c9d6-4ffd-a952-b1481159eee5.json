@@ -225,6 +225,40 @@
         "trainer_name": "jholdc3",
         "result": "loss"
       }
+    },
+    "2021-10-14T23:20:48.186192+00:00": {
+      "this_amiibo": {
+        "rating": 22.67272078496558,
+        "rating_mu": 29.37213866967943,
+        "rating_sigma": 2.2331392949046163,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "d66bfdfd-ed0d-4075-8765-a96d9e21fb2f",
+        "name": "Gravity",
+        "rating": 26.87251505396006,
+        "trainer_id": "3c6a2558-822c-45dc-9c83-95b524978633",
+        "trainer_name": "0ccactuss0",
+        "result": "win"
+      }
+    },
+    "2021-10-17T12:17:59.043256+00:00": {
+      "this_amiibo": {
+        "rating": 24.22939654339917,
+        "rating_mu": 30.645553903871434,
+        "rating_sigma": 2.1387191201574223,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "d66bfdfd-ed0d-4075-8765-a96d9e21fb2f",
+        "name": "Gravity",
+        "rating": 27.520471319166468,
+        "trainer_id": "3c6a2558-822c-45dc-9c83-95b524978633",
+        "trainer_name": "0ccactuss0",
+        "result": "loss"
+      }
     }
   }
 }

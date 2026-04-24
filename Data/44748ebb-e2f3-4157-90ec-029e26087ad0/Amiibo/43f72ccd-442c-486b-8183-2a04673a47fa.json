@@ -21,6 +21,74 @@
         "trainer_name": "sp_staples",
         "result": "loss"
       }
+    },
+    "2021-10-08T15:53:38.515195+00:00": {
+      "this_amiibo": {
+        "rating": 11.736515784802656,
+        "rating_mu": 28.181665409718587,
+        "rating_sigma": 5.481716541638644,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "5ac6639b-a1a4-4243-a5c3-b8ae9f00a86b",
+        "name": "For Glory",
+        "rating": 31.180809762477118,
+        "trainer_id": "6769a5da-b1bb-4563-af5a-4439304198aa",
+        "trainer_name": "truth_wario",
+        "result": "win"
+      }
+    },
+    "2021-10-13T09:47:58.412146+00:00": {
+      "this_amiibo": {
+        "rating": 11.445120634780736,
+        "rating_mu": 25.48464050092063,
+        "rating_sigma": 4.679839955379965,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "8f61d95a-6cd5-41d0-b66a-8299eed75635",
+        "name": "Motley",
+        "rating": 23.775540612814883,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
+    },
+    "2021-10-14T01:43:26.052281+00:00": {
+      "this_amiibo": {
+        "rating": 14.48854451903334,
+        "rating_mu": 27.038415705897652,
+        "rating_sigma": 4.183290395621437,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "90a44cf5-f11e-4a73-a0a5-46fd81664800",
+        "name": "Schildkröt",
+        "rating": 19.072130033693746,
+        "trainer_id": "1c1458b1-8971-492d-bbd8-603e2c00f30b",
+        "trainer_name": "B_C_Gamin",
+        "result": "loss"
+      }
+    },
+    "2021-10-17T09:16:55.472801+00:00": {
+      "this_amiibo": {
+        "rating": 20.11262102505993,
+        "rating_mu": 30.856813812236922,
+        "rating_sigma": 3.5813975957256647,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "32b28ce9-d423-4482-9270-8b7c25945648",
+        "name": "Yzeria",
+        "rating": 31.974206192407706,
+        "trainer_id": "57b78886-3962-42ea-9e7d-7091b402d1e6",
+        "trainer_name": "HexLunare",
+        "result": "loss"
+      }
     }
   }
 }

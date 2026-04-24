@@ -276,6 +276,57 @@
         "trainer_name": "WynnThornton",
         "result": "loss"
       }
+    },
+    "2021-10-10T12:54:00.063627+00:00": {
+      "this_amiibo": {
+        "rating": 23.932006109233754,
+        "rating_mu": 30.85022490213589,
+        "rating_sigma": 2.306072930967378,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c09bb6c6-3309-404d-abe6-4c3b3d00d44a",
+        "name": "Tigger",
+        "rating": 34.07244202464689,
+        "trainer_id": "7e0c5589-f8ae-4cc3-89dc-f8363d2d2a83",
+        "trainer_name": "agent_gforce",
+        "result": "win"
+      }
+    },
+    "2021-10-14T12:36:59.050383+00:00": {
+      "this_amiibo": {
+        "rating": 23.670969339276926,
+        "rating_mu": 30.450298225863225,
+        "rating_sigma": 2.2597762955287664,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "31cfc76b-9940-405a-a824-9d96a89437db",
+        "name": "Raphael",
+        "rating": 20.425615543204792,
+        "trainer_id": "80e1c8d7-18a9-4fbb-9ee5-23eca623505e",
+        "trainer_name": "kusoshinu",
+        "result": "win"
+      }
+    },
+    "2021-10-15T13:41:15.604973+00:00": {
+      "this_amiibo": {
+        "rating": 23.49098657561582,
+        "rating_mu": 30.05683922603989,
+        "rating_sigma": 2.188617550141356,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "e3144200-76ed-4a6a-a050-4f9d19dcad63",
+        "name": "Nest",
+        "rating": 31.14816937740499,
+        "trainer_id": "8d6a769d-19d4-4644-b439-6e87cd8a8b20",
+        "trainer_name": "someguy_456",
+        "result": "win"
+      }
     }
   }
 }

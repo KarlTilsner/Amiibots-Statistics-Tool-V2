@@ -1806,6 +1806,57 @@
         "trainer_name": "sevanny",
         "result": "loss"
       }
+    },
+    "2025-03-04T15:51:00.180625+00:00": {
+      "this_amiibo": {
+        "rating": 25.978193594680558,
+        "rating_mu": 28.87342934144655,
+        "rating_sigma": 0.96507858225533,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "802f2c2f-ba63-47af-8861-cd26d0cf3aff",
+        "name": "Tatsu",
+        "rating": 26.383846300842595,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2025-03-15T14:41:35.515711+00:00": {
+      "this_amiibo": {
+        "rating": 26.110919797759934,
+        "rating_mu": 28.99330360447522,
+        "rating_sigma": 0.9607946022384288,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "5a363f55-e4ba-4138-a7bf-404deacbc450",
+        "name": "Lemonade",
+        "rating": 26.09455837167815,
+        "trainer_id": "1b2f2208-154e-44fd-a520-f5a043b3e7ba",
+        "trainer_name": "HyperKritical",
+        "result": "loss"
+      }
+    },
+    "2025-03-19T03:06:02.597470+00:00": {
+      "this_amiibo": {
+        "rating": 26.24122541153988,
+        "rating_mu": 29.111186233454948,
+        "rating_sigma": 0.9566536073050226,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "802f2c2f-ba63-47af-8861-cd26d0cf3aff",
+        "name": "Tatsu",
+        "rating": 26.183247223977652,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "loss"
+      }
     }
   }
 }

@@ -293,6 +293,40 @@
         "trainer_name": "bhc_irt",
         "result": "loss"
       }
+    },
+    "2021-10-12T01:34:39.642645+00:00": {
+      "this_amiibo": {
+        "rating": 18.2945907871603,
+        "rating_mu": 24.461872051576748,
+        "rating_sigma": 2.0557604214721494,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "e320b344-1066-4dd7-971c-7bb562e39339",
+        "name": "Piggy",
+        "rating": 26.624948979018782,
+        "trainer_id": "559b97d3-faa3-4aa1-9697-8e87271c7b16",
+        "trainer_name": "ammoknight208",
+        "result": "win"
+      }
+    },
+    "2021-10-15T03:18:32.967515+00:00": {
+      "this_amiibo": {
+        "rating": 18.18500738003612,
+        "rating_mu": 24.21479481034814,
+        "rating_sigma": 2.0099291434373394,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "d82f3dcc-17bf-4b8f-812f-68bc22f0e507",
+        "name": "Westley",
+        "rating": 26.815580908609693,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      }
     }
   }
 }

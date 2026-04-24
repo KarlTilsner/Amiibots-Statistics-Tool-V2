@@ -344,6 +344,40 @@
         "trainer_name": "superlamp64",
         "result": "loss"
       }
+    },
+    "2021-10-06T02:45:13.362377+00:00": {
+      "this_amiibo": {
+        "rating": 21.285621592104416,
+        "rating_mu": 27.31028927238097,
+        "rating_sigma": 2.008222560092185,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "f8907bfc-efe5-41ef-865d-2e84d1e34fb6",
+        "name": "Punishment",
+        "rating": 29.967715182527964,
+        "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+        "trainer_name": "Competitively2",
+        "result": "loss"
+      }
+    },
+    "2021-10-08T07:59:35.305889+00:00": {
+      "this_amiibo": {
+        "rating": 21.022227658394556,
+        "rating_mu": 26.865754864437175,
+        "rating_sigma": 1.9478424020142069,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "14b72245-40ea-4d6f-9899-cc10c449d7c1",
+        "name": "Luckman",
+        "rating": 25.651743399606186,
+        "trainer_id": "9db830e1-33be-44b8-a5c4-0eccbdfb3e64",
+        "trainer_name": "TheGoldMario",
+        "result": "win"
+      }
     }
   }
 }

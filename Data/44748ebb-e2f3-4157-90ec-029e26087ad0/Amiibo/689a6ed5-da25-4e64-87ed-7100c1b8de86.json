@@ -1,0 +1,43 @@
+{
+  "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+  "id": "689a6ed5-da25-4e64-87ed-7100c1b8de86",
+  "name": "connect 4",
+  "trainer_id": "9e039111-18ec-44c2-9980-483bc1429d0d",
+  "trainer_name": "cheeseman58",
+  "matches": {
+    "2021-10-17T11:25:00.764020+00:00": {
+      "this_amiibo": {
+        "rating": 17.298297416660755,
+        "rating_mu": 31.969657993065052,
+        "rating_sigma": 4.890453525468099,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "211a4fbc-1ae4-4156-9def-0992483f6452",
+        "name": "Mallow",
+        "rating": 30.290723968223098,
+        "trainer_id": "3c6a2558-822c-45dc-9c83-95b524978633",
+        "trainer_name": "0ccactuss0",
+        "result": "loss"
+      }
+    },
+    "2021-10-17T06:53:01.609293+00:00": {
+      "this_amiibo": {
+        "rating": 0.8718482608038052,
+        "rating_mu": 20.906823868287873,
+        "rating_sigma": 6.6783252024946895,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "14497f5b-bb7b-44f0-976d-29083b1e32ed",
+        "name": "KennyBlue",
+        "rating": 21.4455194315261,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "win"
+      }
+    }
+  }
+}

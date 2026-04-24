@@ -293,6 +293,40 @@
         "trainer_name": "agent_gforce",
         "result": "loss"
       }
+    },
+    "2021-10-05T18:29:18.792965+00:00": {
+      "this_amiibo": {
+        "rating": 21.24193600930502,
+        "rating_mu": 28.5643041268292,
+        "rating_sigma": 2.4407893725080596,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "97a56135-ab52-4ebc-a483-c4729416aebd",
+        "name": "ChompChomp",
+        "rating": 26.937923878505554,
+        "trainer_id": "e8477299-0a2c-4fe7-91b4-65bdfdc798f4",
+        "trainer_name": "TargetBrandTank",
+        "result": "win"
+      }
+    },
+    "2021-10-05T12:26:14.318722+00:00": {
+      "this_amiibo": {
+        "rating": 21.6450100797074,
+        "rating_mu": 29.35240871986679,
+        "rating_sigma": 2.56913288005313,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "7e5b41c5-5f7c-4688-8496-8cf229c182aa",
+        "name": "Leal",
+        "rating": 23.183631432916147,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
     }
   }
 }

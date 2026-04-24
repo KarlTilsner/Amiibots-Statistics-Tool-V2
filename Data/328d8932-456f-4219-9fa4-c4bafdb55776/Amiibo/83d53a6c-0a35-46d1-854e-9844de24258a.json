@@ -667,6 +667,40 @@
         "trainer_name": "AlexanderAgne",
         "result": "win"
       }
+    },
+    "2025-03-03T07:12:00.957680+00:00": {
+      "this_amiibo": {
+        "rating": -0.21868607875111534,
+        "rating_mu": 3.8223923323229188,
+        "rating_sigma": 1.347026137024678,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "f25e8888-0bf3-4985-80a9-0300518c2705",
+        "name": "Tony Tiger",
+        "rating": 0.7692113438463961,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "win"
+      }
+    },
+    "2025-04-03T21:20:45.010440+00:00": {
+      "this_amiibo": {
+        "rating": 0.10326432129756924,
+        "rating_mu": 4.087423654869037,
+        "rating_sigma": 1.3280531111904892,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "f25e8888-0bf3-4985-80a9-0300518c2705",
+        "name": "Tony Tiger",
+        "rating": 0.36775493589725006,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "loss"
+      }
     }
   }
 }
