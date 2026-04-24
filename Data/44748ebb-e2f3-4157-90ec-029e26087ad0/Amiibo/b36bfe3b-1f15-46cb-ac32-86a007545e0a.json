@@ -803,6 +803,57 @@
         "trainer_name": "glitched_artist",
         "result": "win"
       }
+    },
+    "2021-08-21T02:59:38.484639+00:00": {
+      "this_amiibo": {
+        "rating": 22.51538487594709,
+        "rating_mu": 26.522336579010272,
+        "rating_sigma": 1.3356505676877275,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
+        "id": "6fbce097-5436-4ac5-8325-3cf972e6b60d",
+        "name": "Vanquisher",
+        "rating": 0.7621349655744858,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "loss"
+      }
+    },
+    "2021-08-21T10:43:33.115651+00:00": {
+      "this_amiibo": {
+        "rating": 22.472804870915034,
+        "rating_mu": 26.468329444937776,
+        "rating_sigma": 1.3318415246742479,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "a3469226-5db9-4295-ad0d-0b5dd491e1f6",
+        "name": "Montblanc",
+        "rating": 22.425098368579125,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
+    },
+    "2021-08-28T00:44:37.532765+00:00": {
+      "this_amiibo": {
+        "rating": 22.44320397251188,
+        "rating_mu": 26.431850495506865,
+        "rating_sigma": 1.3295488409983283,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "e36b2054-eae3-4060-8f2a-64fe0afb4ed0",
+        "name": "Warlock",
+        "rating": 23.955652239276553,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
     }
   }
 }

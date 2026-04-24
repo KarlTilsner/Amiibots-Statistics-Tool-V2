@@ -582,6 +582,57 @@
         "trainer_name": "SwiftSG_Official",
         "result": "loss"
       }
+    },
+    "2024-11-23T19:45:37.233175+00:00": {
+      "this_amiibo": {
+        "rating": 31.08660272614283,
+        "rating_mu": 35.1277510321013,
+        "rating_sigma": 1.3470494353194902,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "16485e86-fa1c-45b5-adf1-744ccacc2ba2",
+        "name": "Pearl",
+        "rating": 30.92522580195206,
+        "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
+        "trainer_name": "raid_boss_09",
+        "result": "win"
+      }
+    },
+    "2024-12-03T02:44:21.045772+00:00": {
+      "this_amiibo": {
+        "rating": 31.314876191834934,
+        "rating_mu": 35.30786588090034,
+        "rating_sigma": 1.3309965630218008,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "ff0058f0-9f60-416b-a9dd-b5b9be0404be",
+        "name": "Azrael",
+        "rating": 30.676419589527207,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "loss"
+      }
+    },
+    "2024-12-03T23:04:30.399714+00:00": {
+      "this_amiibo": {
+        "rating": 31.5628923730755,
+        "rating_mu": 35.51351029345963,
+        "rating_sigma": 1.3168726401280448,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "b04a457f-cbda-41cf-b001-0aba21ff48e7",
+        "name": "Space Vet",
+        "rating": 25.960930128598218,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "loss"
+      }
     }
   }
 }

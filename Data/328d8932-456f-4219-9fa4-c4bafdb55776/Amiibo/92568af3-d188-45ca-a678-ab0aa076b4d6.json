@@ -667,6 +667,74 @@
         "trainer_name": "amiibofight",
         "result": "win"
       }
+    },
+    "2024-11-23T06:42:15.807831+00:00": {
+      "this_amiibo": {
+        "rating": 29.655761796285795,
+        "rating_mu": 33.85307210975284,
+        "rating_sigma": 1.3991034378223475,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "ff0058f0-9f60-416b-a9dd-b5b9be0404be",
+        "name": "Azrael",
+        "rating": 31.003015227696324,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2024-12-13T04:43:00.889365+00:00": {
+      "this_amiibo": {
+        "rating": 30.510729423342948,
+        "rating_mu": 34.54161420778036,
+        "rating_sigma": 1.3436282614791384,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "56c56156-5fff-44f7-8c35-b211444886c0",
+        "name": "Bird Up",
+        "rating": 27.243629396561317,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "loss"
+      }
+    },
+    "2024-12-13T00:55:38.639169+00:00": {
+      "this_amiibo": {
+        "rating": 30.259280366836627,
+        "rating_mu": 34.33920303686996,
+        "rating_sigma": 1.3599742233444452,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "045f819a-00f4-4d3d-9e27-4ef5f92d3e82",
+        "name": "Apple Jack",
+        "rating": 31.441736130441477,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "loss"
+      }
+    },
+    "2024-12-13T00:48:07.168896+00:00": {
+      "this_amiibo": {
+        "rating": 29.955436903751455,
+        "rating_mu": 34.09536141691623,
+        "rating_sigma": 1.3799748377215906,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "56c56156-5fff-44f7-8c35-b211444886c0",
+        "name": "Bird Up",
+        "rating": 27.49143738913584,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "loss"
+      }
     }
   }
 }

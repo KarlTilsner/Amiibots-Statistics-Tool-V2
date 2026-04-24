@@ -3557,6 +3557,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2024-11-29T03:40:01.815092+00:00": {
+      "this_amiibo": {
+        "rating": 29.879054513486373,
+        "rating_mu": 32.31955117904113,
+        "rating_sigma": 0.8134988885182507,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "2fb21632-8297-4e9f-bc32-5a5efceb868d",
+        "name": "Greg",
+        "rating": 31.869247299529434,
+        "trainer_id": "d0819553-207b-4eee-966e-58b6d2294437",
+        "trainer_name": "Avramax98",
+        "result": "win"
+      }
+    },
+    "2024-12-09T01:00:26.374995+00:00": {
+      "this_amiibo": {
+        "rating": 29.975656027190283,
+        "rating_mu": 32.414047915674544,
+        "rating_sigma": 0.8127972961614208,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "6548be52-6e97-49f0-bbe4-6a26f2c076a3",
+        "name": "Viserion",
+        "rating": 30.08385798051168,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "loss"
+      }
     }
   }
 }

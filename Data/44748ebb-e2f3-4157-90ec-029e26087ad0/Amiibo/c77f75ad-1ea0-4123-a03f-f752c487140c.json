@@ -38,6 +38,40 @@
         "trainer_name": "motarexprime",
         "result": "loss"
       }
+    },
+    "2021-08-21T05:56:42.124562+00:00": {
+      "this_amiibo": {
+        "rating": 9.216348668918783,
+        "rating_mu": 23.449209398401308,
+        "rating_sigma": 4.744286909827508,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "c03686d7-c5af-44cf-a9a1-55c0b6c383be",
+        "name": "Lavenza",
+        "rating": 25.117952411762612,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
+    },
+    "2021-08-21T12:47:16.354945+00:00": {
+      "this_amiibo": {
+        "rating": 12.999227724463807,
+        "rating_mu": 25.776395171772418,
+        "rating_sigma": 4.259055815769536,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "bc203013-bb79-4cf6-8a55-ed6db437bd5e",
+        "name": "PLISKIN",
+        "rating": 10.400183076885531,
+        "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
+        "trainer_name": "leCharade",
+        "result": "loss"
+      }
     }
   }
 }

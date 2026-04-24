@@ -395,6 +395,40 @@
         "trainer_name": "sunnyfunnytrueform",
         "result": "loss"
       }
+    },
+    "2021-08-22T14:08:40.372745+00:00": {
+      "this_amiibo": {
+        "rating": 26.22927730251733,
+        "rating_mu": 31.57957110319452,
+        "rating_sigma": 1.783431266892398,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "f9215e0e-c0a6-42ce-a988-4b67f1d071b0",
+        "name": "Vader",
+        "rating": 21.674461688246904,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "win"
+      }
+    },
+    "2021-09-04T22:48:24.489624+00:00": {
+      "this_amiibo": {
+        "rating": 26.873154426763573,
+        "rating_mu": 32.09233277269375,
+        "rating_sigma": 1.7397261153100594,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "71e60600-0068-413e-a1ef-93d7b6007b9f",
+        "name": "Humboldt",
+        "rating": 25.454474987260046,
+        "trainer_id": "bb38f34d-4024-4bac-8796-b84083162851",
+        "trainer_name": "TechnoPuff",
+        "result": "loss"
+      }
     }
   }
 }

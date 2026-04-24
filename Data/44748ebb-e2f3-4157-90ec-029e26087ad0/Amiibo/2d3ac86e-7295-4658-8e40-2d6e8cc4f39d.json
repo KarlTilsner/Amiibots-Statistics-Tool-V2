@@ -344,6 +344,40 @@
         "trainer_name": "Adam2qaz",
         "result": "loss"
       }
+    },
+    "2021-08-21T18:54:25.118540+00:00": {
+      "this_amiibo": {
+        "rating": 29.219046117343716,
+        "rating_mu": 35.08687754826748,
+        "rating_sigma": 1.955943810307921,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "ef033816-d4f0-4474-a5be-a4a3d45ae8ef",
+        "name": "War Bot",
+        "rating": 19.229497621476217,
+        "trainer_id": "e39a4218-ee1a-4456-ad1e-2a2c467433c3",
+        "trainer_name": "Lackhuys",
+        "result": "win"
+      }
+    },
+    "2021-08-21T18:05:57.617489+00:00": {
+      "this_amiibo": {
+        "rating": 30.712043112917222,
+        "rating_mu": 36.874868669328585,
+        "rating_sigma": 2.054275185470454,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "6e7e6774-ef63-41bd-a3ae-ba30028071c5",
+        "name": "King Kong",
+        "rating": 31.175680759545823,
+        "trainer_id": "eb5e7569-6044-4e27-b8cb-2c565ac13579",
+        "trainer_name": "vrcool0",
+        "result": "loss"
+      }
     }
   }
 }

@@ -1585,6 +1585,40 @@
         "trainer_name": "amiibofight",
         "result": "win"
       }
+    },
+    "2024-11-29T04:46:30.341715+00:00": {
+      "this_amiibo": {
+        "rating": 31.86040031174456,
+        "rating_mu": 34.60582963466173,
+        "rating_sigma": 0.9151431076390574,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "2fb21632-8297-4e9f-bc32-5a5efceb868d",
+        "name": "Greg",
+        "rating": 31.968433020950947,
+        "trainer_id": "d0819553-207b-4eee-966e-58b6d2294437",
+        "trainer_name": "Avramax98",
+        "result": "win"
+      }
+    },
+    "2024-12-07T00:24:39.380772+00:00": {
+      "this_amiibo": {
+        "rating": 31.968088941623733,
+        "rating_mu": 34.70907063767564,
+        "rating_sigma": 0.913660565350634,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "ec164314-4e82-4c92-9bb9-a181b1c302d1",
+        "name": "Gut Buster",
+        "rating": 23.877167944823682,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "loss"
+      }
     }
   }
 }

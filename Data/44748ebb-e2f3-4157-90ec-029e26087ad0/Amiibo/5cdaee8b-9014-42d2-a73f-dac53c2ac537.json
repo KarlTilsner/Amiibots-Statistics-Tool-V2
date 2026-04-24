@@ -1,0 +1,43 @@
+{
+  "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+  "id": "5cdaee8b-9014-42d2-a73f-dac53c2ac537",
+  "name": "Pokkén Rep",
+  "trainer_id": "2970dc69-fc61-4243-87e6-16422715b321",
+  "trainer_name": "sho3l4c3",
+  "matches": {
+    "2021-08-29T06:56:20.898922+00:00": {
+      "this_amiibo": {
+        "rating": 0.45273599083238025,
+        "rating_mu": 19.627986553545348,
+        "rating_sigma": 6.391750187570989,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "7e95d489-3a06-4a05-9344-081fe386959a",
+        "name": "Cromulent",
+        "rating": 19.73389796308374,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
+    },
+    "2021-08-29T15:17:11.957820+00:00": {
+      "this_amiibo": {
+        "rating": 12.447275665273718,
+        "rating_mu": 26.990851626481895,
+        "rating_sigma": 4.847858653736059,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "6dc23167-d6aa-488e-ac0d-44f6584fe740",
+        "name": "Albino G&W",
+        "rating": 24.14821149649944,
+        "trainer_id": "93f967b4-5933-4e9b-9f67-3d16fd17437f",
+        "trainer_name": "glitched_artist",
+        "result": "loss"
+      }
+    }
+  }
+}

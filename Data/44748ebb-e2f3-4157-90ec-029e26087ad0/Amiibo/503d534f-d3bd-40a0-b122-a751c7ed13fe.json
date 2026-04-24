@@ -769,6 +769,40 @@
         "trainer_name": "random_fire",
         "result": "loss"
       }
+    },
+    "2021-08-24T19:20:02.391553+00:00": {
+      "this_amiibo": {
+        "rating": 20.063673773529192,
+        "rating_mu": 24.307489321206283,
+        "rating_sigma": 1.4146051825590304,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "84ad489f-fcca-4e10-b38c-961fb9f4e952",
+        "name": "Drunk",
+        "rating": 22.321528302163536,
+        "trainer_id": "9e039111-18ec-44c2-9980-483bc1429d0d",
+        "trainer_name": "cheeseman58",
+        "result": "win"
+      }
+    },
+    "2021-08-29T19:49:22.914503+00:00": {
+      "this_amiibo": {
+        "rating": 19.94982622461904,
+        "rating_mu": 24.14385916053104,
+        "rating_sigma": 1.3980109786373325,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
+        "id": "af92ed5c-e64d-4a82-ad4e-d5a199f6a5ba",
+        "name": "Crossfit",
+        "rating": 23.725766576810862,
+        "trainer_id": "ab1f76a6-17bb-4125-aafe-261bbce07ff1",
+        "trainer_name": "ScuttIer",
+        "result": "win"
+      }
     }
   }
 }

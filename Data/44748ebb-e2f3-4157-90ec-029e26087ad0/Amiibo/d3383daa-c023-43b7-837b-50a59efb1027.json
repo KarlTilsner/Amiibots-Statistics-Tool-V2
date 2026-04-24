@@ -1,7 +1,7 @@
 {
   "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
   "id": "d3383daa-c023-43b7-837b-50a59efb1027",
-  "name": "Biggie",
+  "name": "Spike IX",
   "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
   "trainer_name": "RockMyRole",
   "matches": {
@@ -104,6 +104,57 @@
         "rating": 1.3475076145996852,
         "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
         "trainer_name": "RockMyRole",
+        "result": "loss"
+      }
+    },
+    "2021-09-03T04:52:57.518675+00:00": {
+      "this_amiibo": {
+        "rating": 18.14721412596139,
+        "rating_mu": 29.064673189821328,
+        "rating_sigma": 3.639153021286645,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "2e0a1348-44df-4c0b-8355-062ca5aeb1c9",
+        "name": "Stinker",
+        "rating": 17.763148319366003,
+        "trainer_id": "65321240-86df-4690-adea-6ddbcb87c5c9",
+        "trainer_name": "RichPandaGG",
+        "result": "loss"
+      }
+    },
+    "2021-09-03T17:36:51.955639+00:00": {
+      "this_amiibo": {
+        "rating": 22.215966889790135,
+        "rating_mu": 31.617799527294142,
+        "rating_sigma": 3.133944212501336,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "1a9d4751-4ae2-4002-85d3-008f455a5e6b",
+        "name": "Crimson",
+        "rating": 20.259043673008886,
+        "trainer_id": "e39a4218-ee1a-4456-ad1e-2a2c467433c3",
+        "trainer_name": "Lackhuys",
+        "result": "loss"
+      }
+    },
+    "2021-09-03T15:05:31.582500+00:00": {
+      "this_amiibo": {
+        "rating": 21.454999310029272,
+        "rating_mu": 31.235510288145413,
+        "rating_sigma": 3.260170326038714,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "78d4b807-cf56-4185-9a68-49199e36cb2b",
+        "name": "red mario",
+        "rating": 29.23047422316501,
+        "trainer_id": "6cd2f184-8b44-4ebd-a4eb-c8c4e7a905b9",
+        "trainer_name": "al3phgaming",
         "result": "loss"
       }
     }

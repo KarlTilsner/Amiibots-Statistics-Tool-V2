@@ -888,6 +888,74 @@
         "trainer_name": "random_fire",
         "result": "loss"
       }
+    },
+    "2021-08-25T20:34:42.925286+00:00": {
+      "this_amiibo": {
+        "rating": 27.930062902619706,
+        "rating_mu": 31.750010825793748,
+        "rating_sigma": 1.2733159743913474,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "38c1b582-0653-4c3f-89ea-667b4e520fe0",
+        "name": "Yarnold",
+        "rating": 28.504273633273584,
+        "trainer_id": "b85e8371-ba5f-4ba7-8a48-8f21c1056c76",
+        "trainer_name": "amiiboaction",
+        "result": "win"
+      }
+    },
+    "2021-08-31T15:22:33.976617+00:00": {
+      "this_amiibo": {
+        "rating": 28.004795885531742,
+        "rating_mu": 31.818971386055427,
+        "rating_sigma": 1.2713918335078955,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "3cc2d9df-e01a-4308-923d-5c6f3f88acf1",
+        "name": "King Pin",
+        "rating": 1.2936624329613657,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "loss"
+      }
+    },
+    "2021-09-02T09:47:57.799431+00:00": {
+      "this_amiibo": {
+        "rating": 28.331666321452065,
+        "rating_mu": 32.094783740098286,
+        "rating_sigma": 1.2543724728820733,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "6e7e6774-ef63-41bd-a3ae-ba30028071c5",
+        "name": "King Kong",
+        "rating": 30.82073434323889,
+        "trainer_id": "eb5e7569-6044-4e27-b8cb-2c565ac13579",
+        "trainer_name": "vrcool0",
+        "result": "loss"
+      }
+    },
+    "2021-09-03T01:38:26.693646+00:00": {
+      "this_amiibo": {
+        "rating": 28.397166101634426,
+        "rating_mu": 32.14565844071305,
+        "rating_sigma": 1.2494974463595405,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "afde7aa7-cd29-4dc2-a76a-d2fbf63df2bb",
+        "name": "Isaac",
+        "rating": 20.265699895943087,
+        "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
+        "trainer_name": "Sirffuzzylogik",
+        "result": "loss"
+      }
     }
   }
 }

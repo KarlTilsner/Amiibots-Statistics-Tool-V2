@@ -2877,6 +2877,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2024-12-06T11:45:17.392262+00:00": {
+      "this_amiibo": {
+        "rating": 24.364831833915375,
+        "rating_mu": 26.911860623247403,
+        "rating_sigma": 0.8490095964440091,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "04b8e698-3943-46c9-8919-6f27efadd0e8",
+        "name": "MetalMario",
+        "rating": 21.298331506514,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
+    },
+    "2024-12-06T05:59:17.342307+00:00": {
+      "this_amiibo": {
+        "rating": 24.48149526206494,
+        "rating_mu": 27.03402780196423,
+        "rating_sigma": 0.850844179966429,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "4d4749e8-ceba-4f71-9d36-015884114533",
+        "name": "Fister",
+        "rating": 20.00485095617679,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "loss"
+      }
     }
   }
 }

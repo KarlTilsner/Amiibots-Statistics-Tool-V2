@@ -633,6 +633,40 @@
         "trainer_name": "combine788",
         "result": "win"
       }
+    },
+    "2024-11-28T01:34:46.155467+00:00": {
+      "this_amiibo": {
+        "rating": 6.684148110121226,
+        "rating_mu": 10.914424200284254,
+        "rating_sigma": 1.4100920300543425,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "83d53a6c-0a35-46d1-854e-9844de24258a",
+        "name": "Yanqing",
+        "rating": 0.983756649056331,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "loss"
+      }
+    },
+    "2024-12-16T14:40:39.352825+00:00": {
+      "this_amiibo": {
+        "rating": 6.844651035874963,
+        "rating_mu": 11.036258667902633,
+        "rating_sigma": 1.3972025440092233,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "6e3adbfe-78ed-47c0-a392-747b5ad4bbb3",
+        "name": "UT Messiah",
+        "rating": -0.23904608101625335,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "loss"
+      }
     }
   }
 }
