@@ -1,4 +1,10 @@
 document.addEventListener('DOMContentLoaded', async function () {
+    // Random chance rick roll
+    const rollEveryone = Math.floor(Math.random() * 250) + 1;
+    console.log(rollEveryone);
+    if (rollEveryone == 137) {
+        window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley";
+    }
 
     let content = document.getElementById('documentHeader');
 

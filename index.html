@@ -9,8 +9,9 @@
 
         <link rel="stylesheet" href="css/styles.css">
         
+        <script src="js/header.js"></script>
+        <script src="js/ruleset_handler.js"></script>
         <script src="js/index.js"></script>
-        <script src="js/versionNumber.js"></script>
         <script src="js/navBarElement.js"></script>
         <script src="js/search_history.js"></script>
 
@@ -26,26 +27,10 @@
 
 
     <body>
-
         <nav class="navbar" id="documentNavbar"></nav>
 
-        
-
         <main>
-            <div class="header">
-                <div>
-                    <h1 class="title">Amiibots Statistics Tool<span class="subtitle"> / Amiibo Stats</span></h1>
-
-                    <p class="version" id="versionNo"></p>
-                </div>
-
-                <div class="search_history_button" onclick="toggleVisibility()">
-                    <img class="search_history_icon" src="images/icon_search_history.png">
-                </div>
-
-            </div>
-
-
+            <div id="documentHeader"></div>
 
             <div class="block" id="searchHistoryDropdown" style="display: none;">
                 <div class="container">
@@ -160,21 +145,11 @@
                 </div>
             </div>
 
-
-
-
         </main>
 
 
 
-
-
-    <script>
-
-                                                          
-
-
-
+        <script>
 //                                                              GRAPH RATING HISTORY
 //---------------------------------------------------------------------------------------------------------------------------------------------------------
     //Draw chart onto a canvas

@@ -62,16 +62,16 @@ const quaternary_border_colour = 'rgba(255, 170, 0, 1)'          // orange
 
 // Queries all character names and IDs and loads them into an object
 //---------------------------------------------------------------------------------------------------------------------------------------------------------
-let all_characters_global = [];
+let all_characters = [];
 async function get_all_characters() {
-    const url = `https://www.amiibots.com/api/utility/get_all_characters`;
-    const query = await fetch(url);
+    const query = await fetch("../Data/all_characters.json");
     const response = await query.json();
-    const data = response.data.map(index => index);
-    all_characters_global = data;
-
-    console.log("Got all character names and ids");
-    return data;
+    Object.entries(response).forEach(([id, name]) => {
+        all_characters.push({
+            "name": name,
+            "id": id
+        });
+    });
 }
 
 
@@ -81,6 +81,7 @@ async function get_all_characters() {
 // HANDLES QUICK STATS, RATING HISTORY, CHARACTER MATCHUPS, AND MATCH HISTORY
 //---------------------------------------------------------------------------------------------------------------------------------------------------------
 async function amiiboStats() {
+    await get_all_characters();
 
     // Read the ID submitted in the text box and put it into LocalStorage for later
     const amiibo_id = window.localStorage.getItem('saved_amiibo_id');
@@ -94,16 +95,6 @@ async function amiiboStats() {
     const all_matches_data = []; // stores all matches for the specified character
     let ratingHistory = []; // stores graph data for rating history and highest rating
 
-
-
-    // Destroy the page if anyone searches their amiibo
-    const rollEveryone = Math.floor(Math.random() * 1000) + 1;
-    console.log(rollEveryone);
-    if (rollEveryone == 137) {
-        window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley";
-    }
-
-
     // Destroy the page if ben searches his amiibo
     if (amiibo_id == '26680dc4-8cbd-4de5-ab92-f6e018f63f73') {
         const rollBen = Math.floor(Math.random() * 10) + 1;
@@ -115,29 +106,56 @@ async function amiiboStats() {
 
 
 
-    const all_characters = await get_all_characters();
-
-
-
 
 
     // EXTRACTS ALL RELAVENT DATA FOR EACH TOOL
     //---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    // Get rulesets
+    const ruleset_file = await fetch("../Data/rulesets.json");
+    const rulesets = await ruleset_file.json();
+
+    // Fetch all possible files
+    let ruleset_id = null;
+    const responses = await Promise.all(
+        rulesets.map(async (r) => {
+            const res = await fetch(`../Data/${r.id}/Amiibo/${amiibo_id}.json`);
+
+            if (!res.ok) return null;
+
+            if (res.ok) ruleset_id = r.id;
+
+            return await res.json();
+        })
+    );
+
+    // Remove failed fetches
+    const response = responses.filter(Boolean)[0];
+
+    Object.entries(response.matches).forEach(([date, match]) => {
+        match.created_at = date;
+        all_matches_data.push(match);
+    });
+
+    // Sort by date
+    all_matches_data.sort((a, b) => b.created_at.localeCompare(a.created_at));
+
+    const latest_match_date = Object.keys(response.matches).reduce((max, key) =>
+        key > max ? key : max
+    );
+
     let highest_rating = [{
         "highest_rating": 0,
         "match": 0
     }];
 
-    // Query the amiibo at https://www.amiibots.com/api/singles_matches/by_amiibo_id/[AMIIBO_ID]
-    const query = await fetch(`https://www.amiibots.com/api/singles_matches/by_amiibo_id/${amiibo_id}`);
-    const response = await query.json();
     async function extractMatchData() {
         let matchCount = 0;
 
         // This will delete all elements on the page and produce an error message if the amiibo has no games
         try {
-            matchCount = response.data.length;
-            amiibo_ruleset = response.data[0].ruleset_id;
+            matchCount = Object.values(response.matches).length;
+            amiibo_ruleset = ruleset_id;
         } catch (error) {
             const elementsToRemove = document.querySelectorAll('#remove_child_if_no_matches');
             elementsToRemove.forEach(element => {
@@ -146,61 +164,30 @@ async function amiiboStats() {
             document.querySelector('main').innerHTML += '<h1 class="container" style="text-align: center;">AMIIBO HAS NO DATA</h1>';
         }
 
-
         // Get latest trainer name and rating_mu
-        if (amiibo_id == response.data[0].winner_info.id) {
-            trainer_name = response.data[0].winner_info.trainer_name;
-            rating_mu = response.data[0].winner_info.rating_mu;
-        } else if (amiibo_id == response.data[0].loser_info.id) {
-            trainer_name = response.data[0].loser_info.trainer_name;
-            rating_mu = response.data[0].loser_info.rating_mu;
-        }
-
+        trainer_name = response.trainer_name;
+        rating_mu = response.matches[latest_match_date].this_amiibo.rating_mu;
 
         // Take data from the API and store it into the correct objects
-        const file = response.data.map(
+        const file = Object.values(all_matches_data).map(
             async function (index) {
-
-                all_matches_data.push(index);
-
                 // Data for rating history
-                if (amiibo_id == index.winner_info.id) {
-                    amiibo_name = index.winner_info.name;
+                amiibo_name = response.name;
 
-                    if (index.winner_info.rating > highest_rating[0].highest_rating) {
-                        highest_rating = [{
-                            "highest_rating": index.winner_info.rating,
-                            "match": matchCount
-                        }];
-                    }
-
-                    ratingHistory.push({
-                        "rating_history": (index.winner_info.rating).toFixed(2),
-                        "highest_rating": 0,
-                        "rating_sigma": (index.winner_info.rating_sigma).toFixed(2),
-                        "rating_mu": (index.winner_info.rating_mu).toFixed(2),
+                if (index.this_amiibo.rating > highest_rating[0].highest_rating) {
+                    highest_rating = [{
+                        "highest_rating": index.this_amiibo.rating,
                         "match": matchCount
-                    });
+                    }];
                 }
 
-                if (amiibo_id == index.loser_info.id) {
-                    amiibo_name = index.loser_info.name;
-
-                    if (index.loser_info.rating > highest_rating[0].highest_rating) {
-                        highest_rating = [{
-                            "highest_rating": index.loser_info.rating,
-                            "match": matchCount
-                        }];
-                    }
-
-                    ratingHistory.push({
-                        "rating_history": (index.loser_info.rating).toFixed(2),
-                        "highest_rating": 0,
-                        "rating_sigma": (index.loser_info.rating_sigma).toFixed(2),
-                        "rating_mu": (index.loser_info.rating_mu).toFixed(2),
-                        "match": matchCount
-                    });
-                }
+                ratingHistory.push({
+                    "rating_history": (index.this_amiibo.rating).toFixed(2),
+                    "highest_rating": 0,
+                    "rating_sigma": (index.this_amiibo.rating_sigma).toFixed(2),
+                    "rating_mu": (index.this_amiibo.rating_mu).toFixed(2),
+                    "match": matchCount
+                });
 
                 // increase this to record what match we are on
                 matchCount--;
@@ -217,25 +204,15 @@ async function amiiboStats() {
     //---------------------------------------------------------------------------------------------------------------------------------------------------------
     async function processAmiiboStats() {
         // Push initial stats of the amiibo for rating history
-        if (response.data[response.data.length - 1].fp1.id == amiibo_id) {
-            character_id = response.data[response.data.length - 1].fp1.character_id;
-            ratingHistory.push({
-                "rating_history": 0,
-                "highest_rating": 0,
-                "rating_sigma": (response.data[response.data.length - 1].fp1.rating_sigma).toFixed(2),
-                "rating_mu": (response.data[response.data.length - 1].fp1.rating_mu).toFixed(2),
-                "match": 0
-            });
-        } else if (response.data[response.data.length - 1].fp2.id == amiibo_id) {
-            character_id = response.data[response.data.length - 1].fp2.character_id;
-            ratingHistory.push({
-                "rating_history": 0,
-                "highest_rating": 0,
-                "rating_sigma": (response.data[response.data.length - 1].fp2.rating_sigma).toFixed(2),
-                "rating_mu": (response.data[response.data.length - 1].fp2.rating_mu).toFixed(2),
-                "match": 0
-            });
-        }
+        character_id = response.character_id;
+        ratingHistory.push({
+            "rating_history": 0,
+            "highest_rating": 0,
+            "rating_sigma": 8.33,
+            "rating_mu": 25,
+            "match": 0
+        });
+
 
         // Reverse the order of the rating history and update the highest rating in the data structure
         let temp = [];
@@ -477,7 +454,6 @@ async function amiiboStats() {
         function prinOpponentFrequency() {
             const opponent_frequency_data = amiibo_rank_data.data.opponent_frequency;
             opponent_frequency_data.sort((a, b) => b.rating_mu - a.rating_mu);
-            console.log("🚀 ~ prinOpponentFrequency ~ opponent_frequency_data:", opponent_frequency_data);
 
             const opponent_frequency = [];
 
@@ -605,8 +581,6 @@ async function amiiboStats() {
         matchups_sort_winrate = matchups_data.data.matchups_sort_winrate;
         matchups_encounters = matchups_data.data.matchups_encounters;
 
-        console.log(matchups_data.data);
-
         const datasets = [
             {
                 label: `Wins`,
@@ -639,85 +613,26 @@ async function amiiboStats() {
     // 'your_rating': all_matches_data[i].winner_info.rating,
 
     function fullMatchHistory() {
-        // Sort match data for the match card
+        // Sort opponent match data for the match card
         const full_match_history = [];
         for (let i = 0; i < all_matches_data.length; i++) {
 
-            if (amiibo_id == all_matches_data[i].fp1.id && amiibo_id == all_matches_data[i].winner_info.id) {
-                full_match_history.push({
-                    'character_id': all_matches_data[i].fp2.character_id,
-                    'opponent_id': all_matches_data[i].fp2.id,
-                    'name': all_matches_data[i].fp2.name,
-                    'trainer_name': all_matches_data[i].fp2.trainer_name,
+            let match_win = null
+            if (all_matches_data[i].this_amiibo.result == "win") { match_win = true } else match_win = false;
 
-                    'opponent_rating': all_matches_data[i].fp2.rating,
-                    'your_rating': all_matches_data[i].fp1.rating,
-                    'your_current_rating': all_matches_data[i].winner_info.rating,
-                    'rating_change': all_matches_data[i].winner_info.rating_change,
+            full_match_history.push({
+                'character_id': all_matches_data[i].opponent.character_id,
+                'opponent_id': all_matches_data[i].opponent.id,
+                'name': all_matches_data[i].opponent.name,
+                'trainer_name': all_matches_data[i].opponent.trainer_name,
 
-                    'match_number': all_matches_data.length - i,
-                    'match_selection': all_matches_data[i].match_metadata.fp1_selection,
-                    'match_win': true
-                });
-            }
+                'opponent_rating': all_matches_data[i].opponent.rating,
+                'your_rating': all_matches_data[i].this_amiibo.rating,
 
-            if (amiibo_id == all_matches_data[i].fp1.id && amiibo_id == all_matches_data[i].loser_info.id) {
-                full_match_history.push({
-                    'character_id': all_matches_data[i].fp2.character_id,
-                    'opponent_id': all_matches_data[i].fp2.id,
-                    'name': all_matches_data[i].fp2.name,
-                    'trainer_name': all_matches_data[i].fp2.trainer_name,
-
-                    'opponent_rating': all_matches_data[i].fp2.rating,
-                    'your_rating': all_matches_data[i].fp1.rating,
-                    'your_current_rating': all_matches_data[i].loser_info.rating,
-                    'rating_change': all_matches_data[i].loser_info.rating_change,
-
-                    'match_number': all_matches_data.length - i,
-                    'match_selection': all_matches_data[i].match_metadata.fp1_selection,
-                    'match_win': false
-                });
-            }
-
-            if (amiibo_id == all_matches_data[i].fp2.id && amiibo_id == all_matches_data[i].winner_info.id) {
-                full_match_history.push({
-                    'character_id': all_matches_data[i].fp1.character_id,
-                    'opponent_id': all_matches_data[i].fp1.id,
-                    'name': all_matches_data[i].fp1.name,
-                    'trainer_name': all_matches_data[i].fp1.trainer_name,
-
-                    'opponent_rating': all_matches_data[i].fp1.rating,
-                    'your_rating': all_matches_data[i].fp2.rating,
-                    'your_current_rating': all_matches_data[i].winner_info.rating,
-                    'rating_change': all_matches_data[i].winner_info.rating_change,
-
-                    'match_number': all_matches_data.length - i,
-                    'match_selection': all_matches_data[i].match_metadata.fp2_selection,
-                    'match_win': true
-                });
-            }
-
-            if (amiibo_id == all_matches_data[i].fp2.id && amiibo_id == all_matches_data[i].loser_info.id) {
-                full_match_history.push({
-                    'character_id': all_matches_data[i].fp1.character_id,
-                    'opponent_id': all_matches_data[i].fp1.id,
-                    'name': all_matches_data[i].fp1.name,
-                    'trainer_name': all_matches_data[i].fp1.trainer_name,
-
-                    'opponent_rating': all_matches_data[i].fp1.rating,
-                    'your_rating': all_matches_data[i].fp2.rating,
-                    'your_current_rating': all_matches_data[i].loser_info.rating,
-                    'rating_change': all_matches_data[i].loser_info.rating_change,
-
-                    'match_number': all_matches_data.length - i,
-                    'match_selection': all_matches_data[i].match_metadata.fp2_selection,
-                    'match_win': false
-                });
-            }
+                'match_number': all_matches_data.length - i,
+                'match_win': match_win,
+            });
         }
-
-        // console.log(full_match_history);
-
 
         // Get longest winstreak
         let LongestWinstreak = 0;
@@ -733,16 +648,6 @@ async function amiiboStats() {
         }
 
         document.getElementById('amiibo_longest_winstreak').innerText += ` ${LongestWinstreak}`;
-
-
-        // Add + sign to rating increases
-        for (let i = 0; i < full_match_history.length; i++) {
-            if (full_match_history[i].rating_change > 0) {
-                full_match_history[i].rating_change = `+${full_match_history[i].rating_change.toFixed(2)}`;
-            } else {
-                full_match_history[i].rating_change = full_match_history[i].rating_change.toFixed(2);
-            }
-        }
 
         // Fix any null values
         for (let i = 0; i < full_match_history.length; i++) {
@@ -762,7 +667,7 @@ async function amiiboStats() {
         for (let i = 0; i < full_match_history.length; i++) {
 
             // Match current character with icon
-            let characterIcon = 'reset';
+            let characterIcon = 'Blank Icon.png';
             for (let x = 0; x < all_characters.length; x++) {
                 if (all_characters[x].id == full_match_history[i].character_id) {
                     characterIcon = (`${all_characters[x].name}.png`)
@@ -806,14 +711,8 @@ async function amiiboStats() {
                                 <h1>${full_match_history[i].your_rating.toFixed(2)}</h1>
                             </div>
 
-                            <div class="list_stats">
-                                <h2>Rating Change:</h2>   
-                                <h1>${full_match_history[i].your_current_rating.toFixed(2)} (${full_match_history[i].rating_change})</h1>
-                            </div>
-
                             <div class="list_stats mobile_remove">
-                                <h2>Match: ${full_match_history[i].match_number}</h2>   
-                                <h2>Selection: ${full_match_history[i].match_selection}</h2>
+                                <h2>Match: ${full_match_history[i].match_number}</h2>
                             </div>
                         </div>
 
@@ -843,7 +742,6 @@ async function amiiboStats() {
     document.getElementById('amiibo_rating_sigma').innerText += ` ${ratingHistory[ratingHistory.length - 1].rating_sigma}`;
 
     addAmiiboToSearchHistory(`${trainer_name}`, `${amiibo_name}`, `${amiibo_id}`, `${character_id}`, `${amiibo_ruleset}`, `${new Date()}`);
-    // console.log(`${trainer_name}`, `${amiibo_name}`, `${amiibo_id}`, `${character_id}`, `${amiibo_ruleset}`, `${new Date()}`);
 }
 
 
@@ -1015,7 +913,7 @@ function sortMatchupChartData(sortType) {
 // Make hidden tab show all surrounding opponents for the selected character
 function displaySurroundingOpponents(selected_character_id) {
     // Close any other character that may be open
-    all_characters_global.map(character => {
+    all_characters.map(character => {
         try {
             document.getElementById(character.id).style.display = "none";
         } catch (error) {
