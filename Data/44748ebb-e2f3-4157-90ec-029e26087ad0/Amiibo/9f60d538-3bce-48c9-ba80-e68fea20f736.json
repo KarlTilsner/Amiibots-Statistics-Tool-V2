@@ -140,6 +140,57 @@
         "trainer_name": "gotelin_",
         "result": "loss"
       }
+    },
+    "2022-03-30T17:08:42.461178+00:00": {
+      "this_amiibo": {
+        "rating": 23.78661611809891,
+        "rating_mu": 32.79810863443118,
+        "rating_sigma": 3.0038308387774237,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "9125a8d7-a309-4843-8e59-c6fb71149814",
+        "name": "Louroalka",
+        "rating": 25.321582454762066,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
+    },
+    "2022-04-01T00:26:35.307661+00:00": {
+      "this_amiibo": {
+        "rating": 22.946551942669267,
+        "rating_mu": 31.68149905001238,
+        "rating_sigma": 2.9116490357810383,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "357f4669-a565-47fc-b7f0-2f29658807dd",
+        "name": "CursedKing",
+        "rating": 15.39331268606535,
+        "trainer_id": "d7f44591-9713-4c95-b840-3607f6a73d24",
+        "trainer_name": "luckman21",
+        "result": "win"
+      }
+    },
+    "2022-04-03T10:49:51.915374+00:00": {
+      "this_amiibo": {
+        "rating": 23.87091494185213,
+        "rating_mu": 32.284576978352526,
+        "rating_sigma": 2.804554012166798,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "3bb62a60-6d2e-4e58-8d3d-d104471ed2df",
+        "name": "Syrup",
+        "rating": 14.985698606315022,
+        "trainer_id": "c1461260-903f-4aae-ad42-af21e07e1e98",
+        "trainer_name": "MoonBeanBie",
+        "result": "loss"
+      }
     }
   }
 }

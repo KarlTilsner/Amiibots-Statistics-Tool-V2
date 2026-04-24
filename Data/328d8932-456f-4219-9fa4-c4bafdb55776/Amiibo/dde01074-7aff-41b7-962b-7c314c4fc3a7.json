@@ -701,6 +701,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2026-03-25T00:20:07.831858+00:00": {
+      "this_amiibo": {
+        "rating": 32.702143356158075,
+        "rating_mu": 36.54094449936353,
+        "rating_sigma": 1.2796003810684868,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "0160a1cc-8fbc-453f-bece-46bf07cc9f3e",
+        "name": "Royinleif",
+        "rating": 31.27002366272078,
+        "trainer_id": "e8358aff-7791-4753-acec-a1b705fa1b0c",
+        "trainer_name": "HolyWarsEnd2",
+        "result": "win"
+      }
+    },
+    "2026-04-08T15:18:08.054658+00:00": {
+      "this_amiibo": {
+        "rating": 32.974928223029224,
+        "rating_mu": 36.766095952215316,
+        "rating_sigma": 1.2637225763953641,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "079de94f-b36d-4374-9c23-ca30f111dae4",
+        "name": "Dark Aegis",
+        "rating": 34.31973566709449,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "loss"
+      }
     }
   }
 }

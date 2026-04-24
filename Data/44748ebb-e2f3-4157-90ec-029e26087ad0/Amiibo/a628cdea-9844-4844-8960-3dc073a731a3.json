@@ -701,6 +701,57 @@
         "trainer_name": "combine788",
         "result": "win"
       }
+    },
+    "2022-03-24T10:40:16.545351+00:00": {
+      "this_amiibo": {
+        "rating": 19.963035210264934,
+        "rating_mu": 24.077859244315924,
+        "rating_sigma": 1.3716080113503295,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "b27d9d73-d179-4287-887f-77ef1a9307b0",
+        "name": "Meruem",
+        "rating": 26.576918902569396,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
+    },
+    "2022-03-24T17:14:27.714908+00:00": {
+      "this_amiibo": {
+        "rating": 20.632965900881885,
+        "rating_mu": 24.667362684835478,
+        "rating_sigma": 1.3447989279845312,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "23b261c3-31a0-415b-8592-47e732fa3262",
+        "name": "Aldo",
+        "rating": 29.30095377816138,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "loss"
+      }
+    },
+    "2022-03-25T08:04:10.449605+00:00": {
+      "this_amiibo": {
+        "rating": 20.487656728623048,
+        "rating_mu": 24.47259097438918,
+        "rating_sigma": 1.3283114152553774,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "51fe637b-a989-4064-ad30-dff5fb648da8",
+        "name": "Chromeo",
+        "rating": 23.012519643349105,
+        "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
+        "trainer_name": "CikadaKing",
+        "result": "win"
+      }
     }
   }
 }

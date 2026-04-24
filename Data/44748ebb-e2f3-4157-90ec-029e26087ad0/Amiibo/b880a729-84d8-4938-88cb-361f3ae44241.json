@@ -1007,6 +1007,40 @@
         "trainer_name": "Adam2qaz",
         "result": "loss"
       }
+    },
+    "2022-03-22T08:01:18.261373+00:00": {
+      "this_amiibo": {
+        "rating": 22.898320116731917,
+        "rating_mu": 26.393109279693356,
+        "rating_sigma": 1.1649297209871468,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "b711cf49-fbf8-484f-9de9-88f3b69f4d02",
+        "name": "Bonzi",
+        "rating": 25.297521687940968,
+        "trainer_id": "3e2f0f90-d00d-455c-ad34-8009c3fd1f71",
+        "trainer_name": "bindycot",
+        "result": "win"
+      }
+    },
+    "2022-03-22T05:50:40.024104+00:00": {
+      "this_amiibo": {
+        "rating": 23.01282027430518,
+        "rating_mu": 26.53663965068273,
+        "rating_sigma": 1.174606458792516,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "5dc12413-a364-4830-8042-3e47ff6ff5a5",
+        "name": "Guatamalan",
+        "rating": 19.502742457047063,
+        "trainer_id": "c1461260-903f-4aae-ad42-af21e07e1e98",
+        "trainer_name": "MoonBeanBie",
+        "result": "win"
+      }
     }
   }
 }

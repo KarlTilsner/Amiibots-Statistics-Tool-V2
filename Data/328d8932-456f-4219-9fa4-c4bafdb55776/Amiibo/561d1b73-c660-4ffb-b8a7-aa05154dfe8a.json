@@ -89,6 +89,91 @@
         "trainer_name": "greenmidoriverde",
         "result": "loss"
       }
+    },
+    "2026-03-05T08:46:21.803692+00:00": {
+      "this_amiibo": {
+        "rating": 1.2672267210259314,
+        "rating_mu": 11.845189342999962,
+        "rating_sigma": 3.52598754065801,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "e389f83c-99cb-4b58-9045-9863d04fcbb5",
+        "name": "Nia",
+        "rating": 6.369631493549084,
+        "trainer_id": "0d645a11-0945-4d5d-ab52-ae7a8e5a43a3",
+        "trainer_name": "greenmidoriverde",
+        "result": "win"
+      }
+    },
+    "2026-03-06T10:59:33.786724+00:00": {
+      "this_amiibo": {
+        "rating": 3.6768656373018658,
+        "rating_mu": 13.349119727600453,
+        "rating_sigma": 3.224084696766196,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "a5c90d33-f895-4daf-8168-000aa4dbfbef",
+        "name": "ItalianMan",
+        "rating": 7.627106039026905,
+        "trainer_id": "3d0239b2-91b4-4705-bfc3-0e69a9b7052e",
+        "trainer_name": "stickguy2001",
+        "result": "loss"
+      }
+    },
+    "2026-03-25T03:36:20.560058+00:00": {
+      "this_amiibo": {
+        "rating": 3.075004152338126,
+        "rating_mu": 12.004202713395879,
+        "rating_sigma": 2.976399520352584,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "a5c90d33-f895-4daf-8168-000aa4dbfbef",
+        "name": "ItalianMan",
+        "rating": 9.085905966756552,
+        "trainer_id": "3d0239b2-91b4-4705-bfc3-0e69a9b7052e",
+        "trainer_name": "stickguy2001",
+        "result": "win"
+      }
+    },
+    "2026-03-26T03:30:51.083229+00:00": {
+      "this_amiibo": {
+        "rating": 4.656867666010797,
+        "rating_mu": 13.015922901087427,
+        "rating_sigma": 2.7863517450255433,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "515904da-c9b6-49b2-b000-7add0c00a65f",
+        "name": "dok",
+        "rating": 8.695532113424735,
+        "trainer_id": "d10a1a53-4977-4227-a545-40d116f5b796",
+        "trainer_name": "combine788",
+        "result": "loss"
+      }
+    },
+    "2026-03-29T14:13:47.537166+00:00": {
+      "this_amiibo": {
+        "rating": 5.595633218462999,
+        "rating_mu": 13.578725211200087,
+        "rating_sigma": 2.661030664245696,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "b152524a-f8b9-475a-9013-6fac8fba1129",
+        "name": "Bowser",
+        "rating": 6.244040711089253,
+        "trainer_id": "3d0239b2-91b4-4705-bfc3-0e69a9b7052e",
+        "trainer_name": "stickguy2001",
+        "result": "loss"
+      }
     }
   }
 }

@@ -531,6 +531,57 @@
         "trainer_name": "MentL_",
         "result": "loss"
       }
+    },
+    "2022-03-25T13:36:38.330081+00:00": {
+      "this_amiibo": {
+        "rating": 26.08092868260224,
+        "rating_mu": 30.63640781089615,
+        "rating_sigma": 1.518493042764635,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "b169da8a-8796-4ba6-b1e6-4ce318eed066",
+        "name": "Hiro",
+        "rating": 28.303446551403447,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "win"
+      }
+    },
+    "2022-03-29T15:33:53.437211+00:00": {
+      "this_amiibo": {
+        "rating": 25.828937934008238,
+        "rating_mu": 30.29759903351498,
+        "rating_sigma": 1.4895536998355818,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
+        "id": "f4b65d11-7c2a-42c3-b92f-84eabadcde5f",
+        "name": "X Æ A-12",
+        "rating": 26.694412948311353,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "win"
+      }
+    },
+    "2022-04-03T21:06:23.363587+00:00": {
+      "this_amiibo": {
+        "rating": 25.62948790890899,
+        "rating_mu": 30.0220215352304,
+        "rating_sigma": 1.4641778754404704,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "daaf2d91-d987-452f-a511-d2872e11ce22",
+        "name": "F.S. U.S.",
+        "rating": 28.156976846736253,
+        "trainer_id": "7ff68788-3366-489f-9efd-bb3c16421574",
+        "trainer_name": "VocalFan",
+        "result": "win"
+      }
     }
   }
 }
