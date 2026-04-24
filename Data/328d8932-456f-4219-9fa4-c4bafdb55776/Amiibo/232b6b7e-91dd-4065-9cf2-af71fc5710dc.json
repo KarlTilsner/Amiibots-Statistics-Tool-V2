@@ -1041,6 +1041,40 @@
         "trainer_name": "improv_195",
         "result": "loss"
       }
+    },
+    "2026-01-04T09:00:58.032390+00:00": {
+      "this_amiibo": {
+        "rating": 24.267978748048044,
+        "rating_mu": 27.457465454416635,
+        "rating_sigma": 1.0631622354561976,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "949309ed-38c2-41ea-9a11-dbaad88cce57",
+        "name": "Aegislash",
+        "rating": 24.77066168118044,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2026-01-25T21:19:01.776610+00:00": {
+      "this_amiibo": {
+        "rating": 24.141652005482257,
+        "rating_mu": 27.310340363592967,
+        "rating_sigma": 1.0562294527035698,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "bb9e1650-2ee2-4f59-8da1-6cd61fcfcabd",
+        "name": "Gold's Gym",
+        "rating": 23.37523186592773,
+        "trainer_id": "68d166a5-c256-4482-b7ba-fce46a9b9a24",
+        "trainer_name": "itsecho14",
+        "result": "win"
+      }
     }
   }
 }

@@ -259,6 +259,40 @@
         "trainer_name": "hono1",
         "result": "win"
       }
+    },
+    "2022-02-21T10:51:37.056231+00:00": {
+      "this_amiibo": {
+        "rating": 12.79183293216673,
+        "rating_mu": 20.845774659648765,
+        "rating_sigma": 2.6846472424940115,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "afa83462-6a91-4a6b-ad56-635e667ac297",
+        "name": "Commander",
+        "rating": 20.6286650308378,
+        "trainer_id": "d0e3f535-e180-4251-94b6-6c528f278d1e",
+        "trainer_name": "CSharp__",
+        "result": "win"
+      }
+    },
+    "2022-02-22T23:59:41.085841+00:00": {
+      "this_amiibo": {
+        "rating": 16.218426480972752,
+        "rating_mu": 23.641669805095752,
+        "rating_sigma": 2.474414441374333,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "94f78efb-42e7-49e5-8dcd-f4714821fa07",
+        "name": "Terry",
+        "rating": 32.09653697992951,
+        "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
+        "trainer_name": "nozzly",
+        "result": "loss"
+      }
     }
   }
 }

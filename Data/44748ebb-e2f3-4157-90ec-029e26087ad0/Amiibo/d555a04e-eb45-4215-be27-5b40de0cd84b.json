@@ -344,6 +344,40 @@
         "trainer_name": "HD_ssbu",
         "result": "loss"
       }
+    },
+    "2022-02-23T01:08:35.481020+00:00": {
+      "this_amiibo": {
+        "rating": 23.312264017747566,
+        "rating_mu": 28.758216934311232,
+        "rating_sigma": 1.8153176388545558,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "e5c86bbd-87c5-4c7c-bf6a-3dde4f74cc4d",
+        "name": "Pitfall",
+        "rating": 16.832036398521055,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
+    },
+    "2022-02-23T11:54:27.335697+00:00": {
+      "this_amiibo": {
+        "rating": 23.23362713189338,
+        "rating_mu": 28.59499829255835,
+        "rating_sigma": 1.7871237202216579,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "3e3a0bbe-71cc-49b7-86fe-991c4e424bf3",
+        "name": "Zerogōki",
+        "rating": 32.11457774971296,
+        "trainer_id": "4cbd80f8-53d4-4ecb-9e72-0d14f18b4354",
+        "trainer_name": "GroovyPhroggu",
+        "result": "win"
+      }
     }
   }
 }

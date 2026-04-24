@@ -55,6 +55,40 @@
         "trainer_name": "opms21",
         "result": "loss"
       }
+    },
+    "2026-01-05T08:09:05.216143+00:00": {
+      "this_amiibo": {
+        "rating": 11.326889255560292,
+        "rating_mu": 23.838675839723056,
+        "rating_sigma": 4.170595528054254,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "8fcc48c5-b7e1-4de2-acb2-565ee0a7e100",
+        "name": "Boshi",
+        "rating": 26.494645906092686,
+        "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
+        "trainer_name": "Pi_Boy_314",
+        "result": "win"
+      }
+    },
+    "2026-01-13T07:28:02.634488+00:00": {
+      "this_amiibo": {
+        "rating": 14.616003167519457,
+        "rating_mu": 25.75691248147576,
+        "rating_sigma": 3.713636437985434,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "88cca04c-9a34-45d2-92c6-0d0285017527",
+        "name": "FireBreath",
+        "rating": 20.07089541776845,
+        "trainer_id": "48adda99-cb04-41cd-8ccd-226adb4036ac",
+        "trainer_name": "ames155",
+        "result": "loss"
+      }
     }
   }
 }

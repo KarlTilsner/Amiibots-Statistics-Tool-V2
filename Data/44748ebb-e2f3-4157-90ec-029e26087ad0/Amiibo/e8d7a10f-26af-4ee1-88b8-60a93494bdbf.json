@@ -1823,6 +1823,40 @@
         "trainer_name": "BCRiparo",
         "result": "loss"
       }
+    },
+    "2022-02-22T12:09:30.550796+00:00": {
+      "this_amiibo": {
+        "rating": 27.954728875694514,
+        "rating_mu": 30.738001841444692,
+        "rating_sigma": 0.92775765525006,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "50813356-25c7-4cb6-a753-34f14b4ba016",
+        "name": "NoMoreHugs",
+        "rating": 29.986969837935792,
+        "trainer_id": "7ff68788-3366-489f-9efd-bb3c16421574",
+        "trainer_name": "VocalFan",
+        "result": "win"
+      }
+    },
+    "2022-03-01T10:26:11.564214+00:00": {
+      "this_amiibo": {
+        "rating": 27.863886178874658,
+        "rating_mu": 30.6383392421353,
+        "rating_sigma": 0.9248176877535474,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "bfc403ec-4ac1-464f-b230-9222a4f777e8",
+        "name": "JBPeterson",
+        "rating": 29.39657361008569,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "win"
+      }
     }
   }
 }

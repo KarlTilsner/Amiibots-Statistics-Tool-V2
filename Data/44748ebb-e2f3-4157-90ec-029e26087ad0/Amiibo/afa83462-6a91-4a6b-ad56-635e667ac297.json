@@ -769,6 +769,40 @@
         "trainer_name": "StaplesTV_",
         "result": "loss"
       }
+    },
+    "2022-02-21T06:07:45.966876+00:00": {
+      "this_amiibo": {
+        "rating": 20.43282146952513,
+        "rating_mu": 24.615474166326706,
+        "rating_sigma": 1.3942175656005256,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "ddc12b8c-ab76-417a-99bb-0a6f1828b4bc",
+        "name": "Quinn",
+        "rating": 26.148261912914613,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
+    },
+    "2022-02-21T10:51:37.056231+00:00": {
+      "this_amiibo": {
+        "rating": 20.6286650308378,
+        "rating_mu": 24.770425857552095,
+        "rating_sigma": 1.380586942238097,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "f6ca644d-abde-443c-aec3-3f935e07b792",
+        "name": "Mosca",
+        "rating": 12.79183293216673,
+        "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
+        "trainer_name": "CikadaKing",
+        "result": "loss"
+      }
     }
   }
 }
