@@ -1,132 +1,41 @@
-// STARTER FUNCTION
-//--------------------------------------------------------------------------------------------------------------------------------------------------------- 
-window.onload = function () {
-    // Set rulesets
-    window.localStorage.setItem('vanilla', '44748ebb-e2f3-4157-90ec-029e26087ad0');
-    window.localStorage.setItem('b5b', '328d8932-456f-4219-9fa4-c4bafdb55776');
-    window.localStorage.setItem('ag', 'af1df0cd-3251-4b44-ba04-d48de5b73f8b');
-
-    buttonHighlight('start');
-    main();
-};
-
-
-
-
-
-// HIGHLIGHT RANK TOOL RULESET BUTTONS
-//--------------------------------------------------------------------------------------------------------------------------------------------------------- 
-function buttonHighlight(start, button_id) {
-    if (start == 'start') {
-        try {
-            // Highlight ruleset buttons
-            let highlightRulesetButton = window.localStorage.getItem('Rank Tool Ruleset');
-            document.getElementById(`ruleset_${highlightRulesetButton}`).setAttribute("style", `background-color: rgba(220, 220, 220, 0.3)`);
-        } catch (err) {
-            window.localStorage.setItem('Rank Tool Ruleset', 'vanilla');
-            let highlightRulesetButton = window.localStorage.getItem('Rank Tool Ruleset');
-            document.getElementById(`ruleset_${highlightRulesetButton}`).setAttribute("style", `background-color: rgba(220, 220, 220, 0.3)`);
-            console.log("Ruleset was empty");
-        }
-    }
-
-    if (start != 'start') {
-        try {
-            let highlightRulesetButton = window.localStorage.getItem('Rank Tool Ruleset');
-            document.getElementById(`ruleset_${highlightRulesetButton}`).removeAttribute("style", `background-color: rgba(220, 220, 220, 0.3)`);
-
-            document.getElementById(`ruleset_${button_id}`).setAttribute("style", `background-color: rgba(220, 220, 220 , 0.3)`);
-            window.localStorage.setItem('Rank Tool Ruleset', `${button_id}`);
-            console.log('Ruleset is: ' + button_id);
-        } catch (err) {
-            document.getElementById(`ruleset_${button_id}`).setAttribute("style", `background-color: rgba(220, 220, 220 , 0.3)`);
-            window.localStorage.setItem('Rank Tool Ruleset', `${button_id}`);
-            console.log('Ruleset is: ' + button_id);
-        }
-
-        window.location.reload();
-    }
-}
-
-
-
-
-
-let all_characters = [];
+let all_characters = {};
 let all_trainer_data = [];
-
-// const ruleset_id = '44748ebb-e2f3-4157-90ec-029e26087ad0';      // vanilla ruleset
-// const ruleset_id = '328d8932-456f-4219-9fa4-c4bafdb55776';      // b5b ruleset
-// const ruleset_id = 'af1df0cd-3251-4b44-ba04-d48de5b73f8b';      // ag ruleset
-
 let ruleset_id = null;
-
-
 
 
 
 // GET ALL TRAINERS AND THEIR AMIIBO AND GIVE THEM A SCORE BASED ON AMIIBO RANKS
 //--------------------------------------------------------------------------------------------------------------------------------------------------------- 
 async function main() {
+    const res = await fetch('Data/all_characters.json');
+    const data = await res.json();
+    all_characters = data;
+
     // Getting ruleset
-    let ruleset_input = window.localStorage.getItem("Rank Tool Ruleset");
-    ruleset_id = window.localStorage.getItem(ruleset_input);
+    ruleset_id = window.localStorage.getItem("Global_Ruleset");
     console.log('Ruleset: ', ruleset_id);
-
-    // get all character names and ids
-    async function get_all_characters() {
-        const url = `https://www.amiibots.com/api/utility/get_all_characters`;
-        const query = await fetch(url);
-        const response = await query.json();
-        const data = response.data.map(index => index);
-
-        console.log("Got all character names and ids");
-        return data;
-    }
-    all_characters = await get_all_characters();
 
     // get all amiibo
     async function get_all_amiibo() {
-        async function rank_tool_leaderboard_count() {
-            // Check how many amiibo to search for on the leaderboard for vanilla
-            let queryURL = `https://www.amiibots.com/api/amiibo?per_page=1&matchmaking_status=ACTIVE,STANDBY&ruleset_id=${ruleset_id}`;
+        const res = await fetch(`Data/${ruleset_id}/leaderboard.json`);
+        const file = await res.json();
+        const data = file.filter(index => index.match_selection_status !== "INACTIVE");
 
-            const query = await fetch(queryURL);
-            const response = await query.json();
-            const per_page = response.total;
-            return per_page;
-        }
-
-        const per_page = await rank_tool_leaderboard_count();
-
-        const url = `https://www.amiibots.com/api/amiibo?per_page=${per_page}&matchmaking_status=ACTIVE,STANDBY&ruleset_id=${ruleset_id}`;
-        const query = await fetch(url);
-        const response = await query.json();
-
-        const data = response.data.map(index => index);
-
-        // const data = [];
-        // response.data.map(index => {
-        //     if (index.total_matches >= 30) {
-        //         data.push(index);
-        //     }
-        // });
-
-        console.log("Got all amiibo");
+        console.log(data);
         return data;
     }
     const all_amiibo = await get_all_amiibo();
 
-    // rank each amiibo
-    for (let i = 0; i < all_characters.length; i++) {
+    // Assign rank to each amiibo based on character
+    Object.keys(all_characters).map(id => {
         let rank = 1;
-        for (let x = 0; x < all_amiibo.length; x++) {
-            if (all_characters[i].id == all_amiibo[x].playable_character_id) {
-                all_amiibo[x].character_rank = rank;
+        all_amiibo.map(amiibo => {
+            if (amiibo.playable_character_id == id) {
+                amiibo.character_rank = rank;
                 rank++;
             }
-        }
-    }
+        });
+    });
 
     // get all unique trainers
     const unique_trainers = [];
@@ -182,7 +91,7 @@ async function main() {
 
     // Get the points assigned to each place
     async function get_points() {
-        const url = `./json/points_system.json`;
+        const url = `./points_system.json`;
         const query = await fetch(url);
         const data = await query.json();
 
@@ -228,7 +137,7 @@ async function main() {
 
     await printCharacterLeaderboard();
 }
-
+main();
 
 
 
@@ -236,7 +145,7 @@ async function main() {
 //--------------------------------------------------------------------------------------------------------------------------------------------------------- 
 async function printCharacterLeaderboard() {
 
-    let content = document.getElementById('test');
+    let content = document.getElementById('leaderboard');
     let list = '<div class="list_item_container">';
 
     let username_input = document.getElementById('trainer_name');
@@ -249,12 +158,12 @@ async function printCharacterLeaderboard() {
             let dropdown_list = '<div class="tier_list_container" style="gap: 0px;">';
             for (let x = 0; x < all_trainer_data[i].amiibo.length; x++) {
 
-                all_characters.map(character => {
-                    if (character.id == all_trainer_data[i].amiibo[x].character && all_trainer_data[i].amiibo[x].highest == true) {
+                Object.entries(all_characters).forEach(([id, name]) => {
+                    if (id == all_trainer_data[i].amiibo[x].character && all_trainer_data[i].amiibo[x].highest == true) {
 
                         dropdown_list += (
-                            `<div class="tier_list_item" onclick="clickListItem('${character.id}', '${ruleset_id}')">
-                                <img src="images/${character.name}.png" class="tier_list_image">
+                            `<div class="tier_list_item" onclick="clickListItem('${id}', '${ruleset_id}')">
+                                <img src="images/${name}.png" class="tier_list_image">
                                 <div class="tier_list_text_box">
                                     <p class="tier_list_text">${all_trainer_data[i].amiibo[x].character_rank}</p>
                                 </div>
