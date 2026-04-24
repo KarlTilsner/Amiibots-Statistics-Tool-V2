@@ -157,6 +157,57 @@
         "trainer_name": "dirty_meme1",
         "result": "win"
       }
+    },
+    "2021-10-23T20:20:22.010613+00:00": {
+      "this_amiibo": {
+        "rating": 26.359194788214978,
+        "rating_mu": 34.320318988276725,
+        "rating_sigma": 2.6537080666872486,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "d34e7445-ba5c-43b0-815f-f9429860f60c",
+        "name": "link",
+        "rating": 23.036668838241724,
+        "trainer_id": "80e1c8d7-18a9-4fbb-9ee5-23eca623505e",
+        "trainer_name": "kusoshinu",
+        "result": "loss"
+      }
+    },
+    "2021-10-31T07:08:04.899181+00:00": {
+      "this_amiibo": {
+        "rating": 26.214435976114153,
+        "rating_mu": 33.6334091892631,
+        "rating_sigma": 2.472991071049648,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
+        "id": "aa03d0fc-627b-42a5-b363-d082986cfa39",
+        "name": "Speed",
+        "rating": 16.19865609846272,
+        "trainer_id": "6d6bd40e-513e-44c2-950c-14a949e0a078",
+        "trainer_name": "Amy0513",
+        "result": "win"
+      }
+    },
+    "2021-10-31T02:51:52.239358+00:00": {
+      "this_amiibo": {
+        "rating": 27.16829492572689,
+        "rating_mu": 34.808607936659406,
+        "rating_sigma": 2.5467710036441726,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "9dfe33d5-49db-408a-9c5a-375ea3e08855",
+        "name": "Reinhardt",
+        "rating": 27.56037797306622,
+        "trainer_id": "7ff68788-3366-489f-9efd-bb3c16421574",
+        "trainer_name": "VocalFan",
+        "result": "loss"
+      }
     }
   }
 }

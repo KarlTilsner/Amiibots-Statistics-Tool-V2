@@ -565,6 +565,40 @@
         "trainer_name": "agent_gforce",
         "result": "loss"
       }
+    },
+    "2021-10-21T10:25:39.539023+00:00": {
+      "this_amiibo": {
+        "rating": 27.608402876621412,
+        "rating_mu": 32.53291727957215,
+        "rating_sigma": 1.641504800983581,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "582bfd4c-3d46-484a-b0d8-8af71d121e48",
+        "name": "SUKIRUき",
+        "rating": 25.507081416942324,
+        "trainer_id": "d7f44591-9713-4c95-b840-3607f6a73d24",
+        "trainer_name": "luckman21",
+        "result": "win"
+      }
+    },
+    "2021-10-26T06:36:07.999561+00:00": {
+      "this_amiibo": {
+        "rating": 27.374352218783024,
+        "rating_mu": 32.19456710792849,
+        "rating_sigma": 1.6067382963818235,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "e3144200-76ed-4a6a-a050-4f9d19dcad63",
+        "name": "Nest",
+        "rating": 30.20023767073406,
+        "trainer_id": "8d6a769d-19d4-4644-b439-6e87cd8a8b20",
+        "trainer_name": "someguy_456",
+        "result": "win"
+      }
     }
   }
 }

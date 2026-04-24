@@ -157,6 +157,40 @@
         "trainer_name": "temp_anon",
         "result": "loss"
       }
+    },
+    "2021-10-22T01:04:42.887810+00:00": {
+      "this_amiibo": {
+        "rating": 19.66740299504734,
+        "rating_mu": 27.830344590012636,
+        "rating_sigma": 2.720980531655099,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "288dbf9a-19ca-4724-a5fb-6c5c2ccbfd24",
+        "name": "King",
+        "rating": 31.93674362129607,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "win"
+      }
+    },
+    "2021-10-28T02:23:35.805540+00:00": {
+      "this_amiibo": {
+        "rating": 20.866374331124877,
+        "rating_mu": 28.68654138120526,
+        "rating_sigma": 2.6067223500267938,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "4f0ad911-2559-42ac-9018-766a64655504",
+        "name": "Dinja",
+        "rating": 15.646533043516591,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "loss"
+      }
     }
   }
 }

@@ -174,6 +174,40 @@
         "trainer_name": "early_mp",
         "result": "win"
       }
+    },
+    "2021-10-24T01:41:18.220169+00:00": {
+      "this_amiibo": {
+        "rating": 18.944204893738437,
+        "rating_mu": 26.867695095494696,
+        "rating_sigma": 2.6411634005854197,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "e0391abc-51a0-4086-b0f8-8fef572ee015",
+        "name": "Red Knight",
+        "rating": 27.83875426875477,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "win"
+      }
+    },
+    "2021-10-24T23:43:20.865042+00:00": {
+      "this_amiibo": {
+        "rating": 20.504723478411066,
+        "rating_mu": 27.96060689502373,
+        "rating_sigma": 2.485294472204222,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "dd41426f-e898-4d50-ac48-22a10122a7c7",
+        "name": "Chess",
+        "rating": 26.1602976548794,
+        "trainer_id": "3388d666-674d-404e-b6ea-96a6f0e4f893",
+        "trainer_name": "Bodhiston",
+        "result": "loss"
+      }
     }
   }
 }

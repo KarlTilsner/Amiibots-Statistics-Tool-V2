@@ -395,6 +395,40 @@
         "trainer_name": "Adam2qaz",
         "result": "loss"
       }
+    },
+    "2021-10-23T03:44:55.069295+00:00": {
+      "this_amiibo": {
+        "rating": 23.676816427200897,
+        "rating_mu": 28.821946004263477,
+        "rating_sigma": 1.7150431923541936,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "33c971f1-4110-488a-a53e-1c29be87ee03",
+        "name": "Terry Ren",
+        "rating": 27.960628327797508,
+        "trainer_id": "7e0c5589-f8ae-4cc3-89dc-f8363d2d2a83",
+        "trainer_name": "agent_gforce",
+        "result": "win"
+      }
+    },
+    "2021-10-23T02:52:15.570563+00:00": {
+      "this_amiibo": {
+        "rating": 23.894093221357778,
+        "rating_mu": 29.15996164380101,
+        "rating_sigma": 1.7552894741477452,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "7d3f80bb-057c-4719-8ddd-3f363a6573d2",
+        "name": "Pankechi",
+        "rating": 18.746343149497896,
+        "trainer_id": "c78165aa-229a-409f-9ac4-7e07e0f565df",
+        "trainer_name": "sora199597",
+        "result": "win"
+      }
     }
   }
 }

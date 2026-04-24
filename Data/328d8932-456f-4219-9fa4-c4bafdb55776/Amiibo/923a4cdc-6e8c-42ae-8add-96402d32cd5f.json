@@ -446,6 +446,40 @@
         "trainer_name": "blueflares1",
         "result": "loss"
       }
+    },
+    "2025-04-30T09:20:38.856716+00:00": {
+      "this_amiibo": {
+        "rating": 21.4867110854559,
+        "rating_mu": 28.533212578538038,
+        "rating_sigma": 2.3488338310273793,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "4fa30746-f51c-44ef-b5a0-a39a328219af",
+        "name": "Dessert",
+        "rating": 30.808707849627236,
+        "trainer_id": "e09adf1e-56b7-4943-891c-141f18d440fc",
+        "trainer_name": "gold_dxj",
+        "result": "win"
+      }
+    },
+    "2025-05-07T09:43:51.455422+00:00": {
+      "this_amiibo": {
+        "rating": 22.22371813512575,
+        "rating_mu": 29.013781027894574,
+        "rating_sigma": 2.2633542975896077,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "38fead34-3962-480b-955c-3bfa87d39393",
+        "name": "BrawlerGuy",
+        "rating": 23.429169393398986,
+        "trainer_id": "81801258-d8a9-47aa-8659-e4d457707b41",
+        "trainer_name": "JB_Indigo",
+        "result": "loss"
+      }
     }
   }
 }

@@ -1755,6 +1755,40 @@
         "trainer_name": "Adam2qaz",
         "result": "win"
       }
+    },
+    "2021-10-26T16:04:32.220695+00:00": {
+      "this_amiibo": {
+        "rating": 22.514500579944247,
+        "rating_mu": 25.378722024024995,
+        "rating_sigma": 0.9547404813602489,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "375ff112-67e2-4046-9461-73f36183b4b5",
+        "name": "Marie",
+        "rating": 25.101528215375065,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "loss"
+      }
+    },
+    "2021-10-31T09:31:08.566138+00:00": {
+      "this_amiibo": {
+        "rating": 22.496119319904743,
+        "rating_mu": 25.366213283762395,
+        "rating_sigma": 0.9566979879525509,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "9128a40d-f02d-451c-8e47-96651b8baffd",
+        "name": "Kainé",
+        "rating": 28.798109319554477,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
     }
   }
 }

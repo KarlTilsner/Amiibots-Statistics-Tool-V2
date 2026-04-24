@@ -565,6 +565,23 @@
         "trainer_name": "gotelin_",
         "result": "loss"
       }
+    },
+    "2021-10-27T22:21:37.390516+00:00": {
+      "this_amiibo": {
+        "rating": 16.75701039624378,
+        "rating_mu": 22.308070763979156,
+        "rating_sigma": 1.8503534559117925,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "33c971f1-4110-488a-a53e-1c29be87ee03",
+        "name": "Terry Ren",
+        "rating": 27.806574016379336,
+        "trainer_id": "7e0c5589-f8ae-4cc3-89dc-f8363d2d2a83",
+        "trainer_name": "agent_gforce",
+        "result": "win"
+      }
     }
   }
 }

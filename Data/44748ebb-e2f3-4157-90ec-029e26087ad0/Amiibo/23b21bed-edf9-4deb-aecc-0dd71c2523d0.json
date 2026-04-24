@@ -123,6 +123,40 @@
         "trainer_name": "bindycot",
         "result": "loss"
       }
+    },
+    "2021-10-21T05:14:40.618414+00:00": {
+      "this_amiibo": {
+        "rating": 14.993724724571198,
+        "rating_mu": 25.114338150515252,
+        "rating_sigma": 3.3735378086480177,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "288dbf9a-19ca-4724-a5fb-6c5c2ccbfd24",
+        "name": "King",
+        "rating": 31.888580101054792,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "win"
+      }
+    },
+    "2021-10-23T15:01:30.241869+00:00": {
+      "this_amiibo": {
+        "rating": 14.863668895493271,
+        "rating_mu": 24.457235284726828,
+        "rating_sigma": 3.197855463077852,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "026a7db3-1295-41d9-b73d-5fa7a2b4fef5",
+        "name": "Racquet",
+        "rating": 23.856329144383956,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
     }
   }
 }

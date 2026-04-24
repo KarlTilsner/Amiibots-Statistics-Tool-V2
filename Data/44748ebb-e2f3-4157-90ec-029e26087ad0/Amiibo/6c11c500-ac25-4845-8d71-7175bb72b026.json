@@ -871,6 +871,40 @@
         "trainer_name": "MoonBeanBie",
         "result": "loss"
       }
+    },
+    "2021-10-26T09:57:38.628458+00:00": {
+      "this_amiibo": {
+        "rating": 28.766260278493135,
+        "rating_mu": 32.47359415990752,
+        "rating_sigma": 1.2357779604714614,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "49708595-98a0-475d-8c3f-132d75638709",
+        "name": "Byleth",
+        "rating": 28.209884310586745,
+        "trainer_id": "87224cb7-0ae3-42ce-8704-de46b2f07d00",
+        "trainer_name": "kermy_frog",
+        "result": "win"
+      }
+    },
+    "2021-10-29T13:38:45.099571+00:00": {
+      "this_amiibo": {
+        "rating": 28.93870114007473,
+        "rating_mu": 32.61423882447967,
+        "rating_sigma": 1.2251792281349798,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "09dc4b2a-187d-4c0f-beb3-d72172ecef7b",
+        "name": "Chromium",
+        "rating": 25.049471245262104,
+        "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
+        "trainer_name": "YM44",
+        "result": "loss"
+      }
     }
   }
 }

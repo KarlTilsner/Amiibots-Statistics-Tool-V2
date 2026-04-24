@@ -123,6 +123,40 @@
         "trainer_name": "bindycot",
         "result": "win"
       }
+    },
+    "2021-10-23T06:11:46.505401+00:00": {
+      "this_amiibo": {
+        "rating": 19.585263493752286,
+        "rating_mu": 29.25549127791777,
+        "rating_sigma": 3.223409261388495,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "feb576d8-ef14-4849-9cc8-2696a003cec6",
+        "name": "Cup&Noodle",
+        "rating": 19.334472133203207,
+        "trainer_id": "73ed9260-7617-4ae1-a395-7e0ddb479057",
+        "trainer_name": "CupNoodle",
+        "result": "loss"
+      }
+    },
+    "2021-11-01T12:41:33.299801+00:00": {
+      "this_amiibo": {
+        "rating": 21.182610160838223,
+        "rating_mu": 30.323135693424387,
+        "rating_sigma": 3.0468418441953884,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "afa82717-1fa8-4c07-a0d2-6a8d5b3f9f4e",
+        "name": "Triplemon",
+        "rating": 16.331914364263007,
+        "trainer_id": "bd4dae24-8e9d-4665-9e4c-e39b115b825a",
+        "trainer_name": "dogedadolfin",
+        "result": "loss"
+      }
     }
   }
 }

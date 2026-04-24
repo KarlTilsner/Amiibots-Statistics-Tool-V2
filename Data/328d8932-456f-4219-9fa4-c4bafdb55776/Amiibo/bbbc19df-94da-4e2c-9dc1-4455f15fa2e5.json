@@ -820,6 +820,57 @@
         "trainer_name": "sodium_c3",
         "result": "loss"
       }
+    },
+    "2025-04-06T11:59:15.080547+00:00": {
+      "this_amiibo": {
+        "rating": 29.668702447419026,
+        "rating_mu": 33.152006346335114,
+        "rating_sigma": 1.1611012996386958,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "1c754344-4726-434e-852f-f826bc813307",
+        "name": "Gorrie Yen",
+        "rating": 32.060061324261156,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2025-04-19T17:45:18.483650+00:00": {
+      "this_amiibo": {
+        "rating": 29.91225696731287,
+        "rating_mu": 33.360504994355054,
+        "rating_sigma": 1.1494160090140615,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "045f819a-00f4-4d3d-9e27-4ef5f92d3e82",
+        "name": "Apple Jack",
+        "rating": 31.898855975161172,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "loss"
+      }
+    },
+    "2025-05-02T05:24:50.540869+00:00": {
+      "this_amiibo": {
+        "rating": 30.139541059048344,
+        "rating_mu": 33.55495735444009,
+        "rating_sigma": 1.1384720984639158,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "1c754344-4726-434e-852f-f826bc813307",
+        "name": "Gorrie Yen",
+        "rating": 31.70098190296686,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "loss"
+      }
     }
   }
 }

@@ -718,6 +718,57 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2025-04-21T02:44:14.324487+00:00": {
+      "this_amiibo": {
+        "rating": 36.7156039843709,
+        "rating_mu": 40.46822980806795,
+        "rating_sigma": 1.2508752745656848,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "3e6d8ce0-b389-4328-a312-c47c28b82d25",
+        "name": "Hyperion",
+        "rating": 38.44834586310808,
+        "trainer_id": "74b11748-df73-4895-a914-7f048a54ecc8",
+        "trainer_name": "Dempsey342",
+        "result": "win"
+      }
+    },
+    "2025-04-27T04:23:20.880369+00:00": {
+      "this_amiibo": {
+        "rating": 36.98612607425098,
+        "rating_mu": 40.693830563414515,
+        "rating_sigma": 1.235901496387845,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "b502d36b-678b-4aca-a6c5-80717b00cdf3",
+        "name": "MI6 Agent",
+        "rating": 38.65321074437023,
+        "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
+        "trainer_name": "Pi_Boy_314",
+        "result": "loss"
+      }
+    },
+    "2025-04-27T18:51:48.378475+00:00": {
+      "this_amiibo": {
+        "rating": 37.24287340111375,
+        "rating_mu": 40.908180473644045,
+        "rating_sigma": 1.2217690241767654,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "b502d36b-678b-4aca-a6c5-80717b00cdf3",
+        "name": "MI6 Agent",
+        "rating": 38.663365534097416,
+        "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
+        "trainer_name": "Pi_Boy_314",
+        "result": "loss"
+      }
     }
   }
 }

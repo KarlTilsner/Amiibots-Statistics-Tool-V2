@@ -208,6 +208,40 @@
         "trainer_name": "amiiboaction",
         "result": "win"
       }
+    },
+    "2021-10-21T04:10:52.914643+00:00": {
+      "this_amiibo": {
+        "rating": 14.35075910201289,
+        "rating_mu": 22.806620019151865,
+        "rating_sigma": 2.8186203057129915,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "1d7c3092-1c52-45c8-a6da-d86083663e77",
+        "name": "Lizardo",
+        "rating": 30.958701151218932,
+        "trainer_id": "b85e8371-ba5f-4ba7-8a48-8f21c1056c76",
+        "trainer_name": "amiiboaction",
+        "result": "win"
+      }
+    },
+    "2021-10-27T18:52:52.717502+00:00": {
+      "this_amiibo": {
+        "rating": 17.565010837471505,
+        "rating_mu": 25.329036547818994,
+        "rating_sigma": 2.5880085701158304,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "b2a0a5e2-1908-41ca-8984-0a10783e3dde",
+        "name": "Ripjaw",
+        "rating": 30.674758053707226,
+        "trainer_id": "b73cffef-c9fc-4a4d-9c1e-2ba84a63d775",
+        "trainer_name": "Precision_Rhythm",
+        "result": "loss"
+      }
     }
   }
 }
