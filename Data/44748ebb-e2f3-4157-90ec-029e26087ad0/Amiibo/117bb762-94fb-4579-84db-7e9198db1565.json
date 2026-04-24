@@ -344,6 +344,40 @@
         "trainer_name": "123hyden",
         "result": "loss"
       }
+    },
+    "2021-10-19T05:22:23.168047+00:00": {
+      "this_amiibo": {
+        "rating": 21.794463281087303,
+        "rating_mu": 27.219776985600383,
+        "rating_sigma": 1.8084379015043601,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "38c1b582-0653-4c3f-89ea-667b4e520fe0",
+        "name": "Yarnold",
+        "rating": 27.65046045292127,
+        "trainer_id": "b85e8371-ba5f-4ba7-8a48-8f21c1056c76",
+        "trainer_name": "amiiboaction",
+        "result": "win"
+      }
+    },
+    "2021-10-26T15:27:44.088878+00:00": {
+      "this_amiibo": {
+        "rating": 21.968837868204293,
+        "rating_mu": 27.334955825964215,
+        "rating_sigma": 1.7887059859199739,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
+        "id": "c0904064-ca6e-4227-8649-13f58299b0c9",
+        "name": "Δt",
+        "rating": 11.464001817468398,
+        "trainer_id": "b9f75440-e3f7-4c8e-8a3f-8dc09b8327ae",
+        "trainer_name": "blackstargem11",
+        "result": "loss"
+      }
     }
   }
 }

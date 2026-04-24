@@ -1432,6 +1432,57 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2025-02-13T07:50:11.336775+00:00": {
+      "this_amiibo": {
+        "rating": 32.70501848259344,
+        "rating_mu": 35.83463182861505,
+        "rating_sigma": 1.043204448673871,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "423a6508-cd6b-42a1-bbda-c53a2efcc6dc",
+        "name": "Plinkle",
+        "rating": 33.81990856644107,
+        "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
+        "trainer_name": "bubs_yt",
+        "result": "win"
+      }
+    },
+    "2025-04-22T11:59:10.187825+00:00": {
+      "this_amiibo": {
+        "rating": 32.872949412587296,
+        "rating_mu": 35.982129860966936,
+        "rating_sigma": 1.0363934827932133,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "6058b6d8-3d5b-4886-a20c-00ad7d3f9eab",
+        "name": "Hydrangea",
+        "rating": 33.474973870978474,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "loss"
+      }
+    },
+    "2025-05-27T07:33:15.881942+00:00": {
+      "this_amiibo": {
+        "rating": 33.006186401881386,
+        "rating_mu": 36.103010177383766,
+        "rating_sigma": 1.0322745918341274,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "d2b917b5-73f6-46ef-9200-56ba1ffdf830",
+        "name": "Falco",
+        "rating": 24.99442189028219,
+        "trainer_id": "932a9ec7-b463-41d8-bc40-59e2e396a8ed",
+        "trainer_name": "ricola7ttv",
+        "result": "loss"
+      }
     }
   }
 }
