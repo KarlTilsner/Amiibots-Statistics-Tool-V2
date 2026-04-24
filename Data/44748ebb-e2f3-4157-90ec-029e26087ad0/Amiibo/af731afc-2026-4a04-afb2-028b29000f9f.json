@@ -1,0 +1,43 @@
+{
+  "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+  "id": "af731afc-2026-4a04-afb2-028b29000f9f",
+  "name": "Star Kirby",
+  "trainer_id": "7fe97427-ba6c-4130-ac03-680b25a74961",
+  "trainer_name": "Cceider",
+  "matches": {
+    "2022-05-18T11:31:12.207705+00:00": {
+      "this_amiibo": {
+        "rating": 0.5514021740957382,
+        "rating_mu": 19.54959124587025,
+        "rating_sigma": 6.3327296905915045,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "c09aebd2-0f4f-454c-aa98-59aa12e1758d",
+        "name": "Moxie",
+        "rating": 22.277368549099286,
+        "trainer_id": "624db185-7721-4a13-a2a2-8e125d72a06e",
+        "trainer_name": "nathaniel328",
+        "result": "win"
+      }
+    },
+    "2022-05-22T08:19:55.581972+00:00": {
+      "this_amiibo": {
+        "rating": 5.674050778434729,
+        "rating_mu": 22.453375790655993,
+        "rating_sigma": 5.593108337407088,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
+        "id": "4f38c9c4-1b96-4286-8b5c-2f6628f69170",
+        "name": "Kimahri",
+        "rating": -0.4387311583374718,
+        "trainer_id": "53a69838-dfcb-4c1b-8704-fe8d70d56fe0",
+        "trainer_name": "Tsevir",
+        "result": "loss"
+      }
+    }
+  }
+}

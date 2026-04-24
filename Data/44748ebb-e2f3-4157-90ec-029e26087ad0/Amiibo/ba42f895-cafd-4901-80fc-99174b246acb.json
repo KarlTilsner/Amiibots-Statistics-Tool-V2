@@ -752,6 +752,40 @@
         "trainer_name": "KeeBeeper1",
         "result": "loss"
       }
+    },
+    "2022-05-09T23:15:23.661257+00:00": {
+      "this_amiibo": {
+        "rating": 21.117955075027762,
+        "rating_mu": 25.070904914315236,
+        "rating_sigma": 1.317649946429158,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
+        "id": "5e0efa6f-5aa6-47dc-9778-c0a168bea9f9",
+        "name": "Jeremy",
+        "rating": 22.800024083922345,
+        "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
+        "trainer_name": "rurpking22",
+        "result": "win"
+      }
+    },
+    "2022-05-13T21:53:04.615086+00:00": {
+      "this_amiibo": {
+        "rating": 21.37498028222446,
+        "rating_mu": 25.27895185395222,
+        "rating_sigma": 1.3013238572425867,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "04a21682-a0f0-49d5-b3cc-99d8f5ed1b25",
+        "name": "KnowinFish",
+        "rating": 21.361243216024015,
+        "trainer_id": "c991bf59-5353-4a30-bddd-d236b05b366c",
+        "trainer_name": "KnowinApe",
+        "result": "loss"
+      }
     }
   }
 }
