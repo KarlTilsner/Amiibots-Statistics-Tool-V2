@@ -72,6 +72,40 @@
         "trainer_name": "truth_wario",
         "result": "win"
       }
+    },
+    "2021-12-23T12:14:53.363130+00:00": {
+      "this_amiibo": {
+        "rating": 16.026264023287723,
+        "rating_mu": 27.32748255066963,
+        "rating_sigma": 3.7670728424606352,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "a058a158-0f5b-4cd2-ab51-ac7ccc75840a",
+        "name": "Cable",
+        "rating": 21.535573152841447,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    },
+    "2022-01-01T14:58:39.208079+00:00": {
+      "this_amiibo": {
+        "rating": 15.69269104917863,
+        "rating_mu": 26.067050998855233,
+        "rating_sigma": 3.4581199832255347,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "ce621ce8-1a21-4c09-b39b-a071f23b9a71",
+        "name": "Щит Рыцарь",
+        "rating": 24.513400668870002,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
     }
   }
 }

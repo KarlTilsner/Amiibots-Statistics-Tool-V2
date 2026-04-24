@@ -1,7 +1,7 @@
 {
   "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
   "id": "3bdcba56-8580-4a73-811a-46d516349416",
-  "name": "Vallen",
+  "name": "Arch",
   "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
   "trainer_name": "RockMyRole",
   "matches": {
@@ -139,6 +139,57 @@
         "trainer_id": "123ffdcf-d8ac-4475-837c-cc925da2f288",
         "trainer_name": "fdxcfdxc",
         "result": "loss"
+      }
+    },
+    "2021-12-31T04:18:39.504164+00:00": {
+      "this_amiibo": {
+        "rating": 18.936520350097787,
+        "rating_mu": 29.01008337553621,
+        "rating_sigma": 3.357854341812808,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "8b380975-7db5-44d0-a9a3-c6f87d088cff",
+        "name": "The Medic",
+        "rating": 18.803720297491274,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
+    },
+    "2021-12-31T11:40:01.652780+00:00": {
+      "this_amiibo": {
+        "rating": 18.609641420245083,
+        "rating_mu": 27.968378184436883,
+        "rating_sigma": 3.119578921397267,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "d36f37c9-c958-41ba-beff-fff717474905",
+        "name": "Waluigi?",
+        "rating": 27.97695731249805,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "win"
+      }
+    },
+    "2021-12-31T23:52:43.995764+00:00": {
+      "this_amiibo": {
+        "rating": 18.634194361632204,
+        "rating_mu": 27.751244630532177,
+        "rating_sigma": 3.0390167562999904,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "d8a4fca8-f3f9-4ce6-a297-08f4bf38758e",
+        "name": "The Finale",
+        "rating": 35.051958596515895,
+        "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+        "trainer_name": "Competitively2",
+        "result": "win"
       }
     }
   }

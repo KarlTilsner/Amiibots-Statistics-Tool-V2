@@ -531,6 +531,74 @@
         "trainer_name": "dirty_meme1",
         "result": "loss"
       }
+    },
+    "2021-12-25T02:56:57.049601+00:00": {
+      "this_amiibo": {
+        "rating": 19.31752634417518,
+        "rating_mu": 24.57084646023159,
+        "rating_sigma": 1.7511067053521356,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "ff83decc-af78-49a7-a7b6-54a50ddb2b35",
+        "name": "SNAMS",
+        "rating": 25.69643044565592,
+        "trainer_id": "37df81b9-e5cd-431d-8561-7314e26d3d6c",
+        "trainer_name": "Dahtin",
+        "result": "win"
+      }
+    },
+    "2021-12-25T20:42:04.858443+00:00": {
+      "this_amiibo": {
+        "rating": 19.23494490891637,
+        "rating_mu": 24.41487168916675,
+        "rating_sigma": 1.7266422600834597,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "a7b8c739-395a-4f7b-a6f2-91ba85408c21",
+        "name": "DarkFalcon",
+        "rating": 25.35297018842168,
+        "trainer_id": "43f9256a-bda1-4f6c-91b5-8b089c483205",
+        "trainer_name": "TheCloudyFalcon",
+        "result": "win"
+      }
+    },
+    "2021-12-31T01:13:48.756725+00:00": {
+      "this_amiibo": {
+        "rating": 19.755420460320302,
+        "rating_mu": 24.83953079774701,
+        "rating_sigma": 1.6947034458089023,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
+        "id": "d03ef550-dfee-4555-befe-177941023873",
+        "name": "Astolfo",
+        "rating": 13.823473507649128,
+        "trainer_id": "f6fe89e0-7c9e-4ceb-9003-8d2003cce31b",
+        "trainer_name": "lolmemes1010",
+        "result": "loss"
+      }
+    },
+    "2022-01-05T05:25:12.575593+00:00": {
+      "this_amiibo": {
+        "rating": 19.87656926299369,
+        "rating_mu": 24.926677424980387,
+        "rating_sigma": 1.6833693873288986,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "1d04eee9-c538-40bc-b8fc-8e595f01b84a",
+        "name": "Papa Smurf",
+        "rating": 2.0416314719735063,
+        "trainer_id": "43cffe5f-d305-452b-a9de-fdff2396f7c3",
+        "trainer_name": "UltraDPG",
+        "result": "loss"
+      }
     }
   }
 }

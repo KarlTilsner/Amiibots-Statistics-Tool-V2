@@ -769,6 +769,40 @@
         "trainer_name": "nozzly",
         "result": "loss"
       }
+    },
+    "2021-12-29T20:05:02.133843+00:00": {
+      "this_amiibo": {
+        "rating": 29.009339411743632,
+        "rating_mu": 33.191958712395625,
+        "rating_sigma": 1.3942064335506643,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "974c7f12-c48f-48b0-8267-78fc13969b8a",
+        "name": "Sanosuke",
+        "rating": 28.530861093795156,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
+    },
+    "2021-12-30T23:32:05.129168+00:00": {
+      "this_amiibo": {
+        "rating": 29.157689748177077,
+        "rating_mu": 33.304560489868294,
+        "rating_sigma": 1.3822902472304048,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "630b035f-f101-4e37-b9ec-adf93f1f2da4",
+        "name": "King Pwog",
+        "rating": 21.7525554356958,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "loss"
+      }
     }
   }
 }

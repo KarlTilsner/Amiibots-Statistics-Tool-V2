@@ -1,0 +1,43 @@
+{
+  "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
+  "id": "6224ecd7-1481-4201-b442-ab4d13d005c8",
+  "name": "Iris",
+  "trainer_id": "26e7e2d5-119d-4773-8cc4-328463893bbe",
+  "trainer_name": "GamerJohn_SSB",
+  "matches": {
+    "2021-12-22T01:43:47.823184+00:00": {
+      "this_amiibo": {
+        "rating": 1.3075827887055596,
+        "rating_mu": 23.013828169921876,
+        "rating_sigma": 7.235415127072105,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "d016acdd-de37-4d98-be3e-4c3d89153d1f",
+        "name": "Tourmaline",
+        "rating": 31.216829442110168,
+        "trainer_id": "95c09948-6452-4ce4-b27f-6c73c294c610",
+        "trainer_name": "2Snowblind",
+        "result": "win"
+      }
+    },
+    "2021-12-22T13:30:43.895772+00:00": {
+      "this_amiibo": {
+        "rating": 14.418121444479993,
+        "rating_mu": 31.138589540754083,
+        "rating_sigma": 5.573489365424697,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "e7a029b2-ddcc-4b1f-9c88-6a620dc4e828",
+        "name": "Jake Long",
+        "rating": 19.68661153369681,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "loss"
+      }
+    }
+  }
+}

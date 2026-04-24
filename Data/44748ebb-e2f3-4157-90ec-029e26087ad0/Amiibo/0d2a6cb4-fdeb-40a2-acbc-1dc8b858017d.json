@@ -701,6 +701,40 @@
         "trainer_name": "AceTempest172",
         "result": "loss"
       }
+    },
+    "2021-12-23T02:43:52.271521+00:00": {
+      "this_amiibo": {
+        "rating": 23.585205665194163,
+        "rating_mu": 27.614589345092355,
+        "rating_sigma": 1.343127893299397,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "d9fd6917-ae23-4912-b000-110ef28bf5be",
+        "name": "Monke",
+        "rating": 20.01510442705409,
+        "trainer_id": "bd4dae24-8e9d-4665-9e4c-e39b115b825a",
+        "trainer_name": "dogedadolfin",
+        "result": "win"
+      }
+    },
+    "2021-12-24T13:43:18.820196+00:00": {
+      "this_amiibo": {
+        "rating": 24.08564388020211,
+        "rating_mu": 28.067422275619034,
+        "rating_sigma": 1.3272594651389746,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "81cb2d5d-e107-4b9c-86be-71e21e929170",
+        "name": "Mr. Gizmo",
+        "rating": 22.15121218953989,
+        "trainer_id": "4a9b09f9-e2b6-4654-9723-dfba236fe6b5",
+        "trainer_name": "dreamy_bj",
+        "result": "loss"
+      }
     }
   }
 }

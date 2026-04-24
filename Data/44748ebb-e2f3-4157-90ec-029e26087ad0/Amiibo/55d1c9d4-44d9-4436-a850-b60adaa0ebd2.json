@@ -701,6 +701,40 @@
         "trainer_name": "DazzleMeTaric",
         "result": "loss"
       }
+    },
+    "2021-12-23T06:43:23.118103+00:00": {
+      "this_amiibo": {
+        "rating": 28.09002874951628,
+        "rating_mu": 32.0782358193031,
+        "rating_sigma": 1.329402356595608,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "87f84f52-706d-45bb-9dc4-606ec653f4b8",
+        "name": "Keroro",
+        "rating": 24.459988506748495,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
+    },
+    "2022-01-05T14:38:42.647422+00:00": {
+      "this_amiibo": {
+        "rating": 27.893663671406934,
+        "rating_mu": 31.82853413965357,
+        "rating_sigma": 1.311623489415545,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "1f312462-16c5-458f-b799-757561df91c0",
+        "name": "MarshalLaw",
+        "rating": 27.40141347612015,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
     }
   }
 }

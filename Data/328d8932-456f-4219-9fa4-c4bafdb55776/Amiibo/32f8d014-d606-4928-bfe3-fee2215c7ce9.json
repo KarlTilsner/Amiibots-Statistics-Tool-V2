@@ -2537,6 +2537,57 @@
         "trainer_name": "improv_195",
         "result": "loss"
       }
+    },
+    "2025-08-29T10:43:18.995878+00:00": {
+      "this_amiibo": {
+        "rating": 36.09551340771799,
+        "rating_mu": 38.78451778182864,
+        "rating_sigma": 0.896334791370218,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "b502d36b-678b-4aca-a6c5-80717b00cdf3",
+        "name": "MI6 Agent",
+        "rating": 39.74997158312592,
+        "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
+        "trainer_name": "Pi_Boy_314",
+        "result": "win"
+      }
+    },
+    "2025-08-30T22:50:17.685479+00:00": {
+      "this_amiibo": {
+        "rating": 35.99654971247098,
+        "rating_mu": 38.680072467501134,
+        "rating_sigma": 0.8945075850100525,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "60ac8e2f-1db5-4064-90bd-c03e5679ede9",
+        "name": "Exploshi",
+        "rating": 32.17441920767569,
+        "trainer_id": "9f4effdf-3b78-45bd-a663-aa4c1dfe8a8e",
+        "trainer_name": "super_lucky_ducks",
+        "result": "win"
+      }
+    },
+    "2025-09-02T23:00:30.402066+00:00": {
+      "this_amiibo": {
+        "rating": 36.08858890682801,
+        "rating_mu": 38.767404727585664,
+        "rating_sigma": 0.8929386069192176,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "60ac8e2f-1db5-4064-90bd-c03e5679ede9",
+        "name": "Exploshi",
+        "rating": 31.15044689793646,
+        "trainer_id": "9f4effdf-3b78-45bd-a663-aa4c1dfe8a8e",
+        "trainer_name": "super_lucky_ducks",
+        "result": "loss"
+      }
     }
   }
 }
