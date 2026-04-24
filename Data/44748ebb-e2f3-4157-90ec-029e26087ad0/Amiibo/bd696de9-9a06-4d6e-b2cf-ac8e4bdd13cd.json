@@ -276,6 +276,40 @@
         "trainer_name": "eon_ii",
         "result": "loss"
       }
+    },
+    "2022-01-10T05:37:12.025279+00:00": {
+      "this_amiibo": {
+        "rating": 19.347838632673003,
+        "rating_mu": 25.922689278873147,
+        "rating_sigma": 2.191616882066715,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "8d6de21a-aee4-4921-9609-1722665cbdf0",
+        "name": "Who Am I?",
+        "rating": 16.908464240458603,
+        "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+        "trainer_name": "Competitively2",
+        "result": "win"
+      }
+    },
+    "2022-01-14T06:28:41.409500+00:00": {
+      "this_amiibo": {
+        "rating": 20.59011122708591,
+        "rating_mu": 26.876864608880148,
+        "rating_sigma": 2.0955844605980793,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "0410688f-71b4-4786-9bd8-0511ce31fd60",
+        "name": "Rupert",
+        "rating": 25.17986783023683,
+        "trainer_id": "9e039111-18ec-44c2-9980-483bc1429d0d",
+        "trainer_name": "cheeseman58",
+        "result": "loss"
+      }
     }
   }
 }

@@ -582,6 +582,40 @@
         "trainer_name": "Precision_Rhythm",
         "result": "loss"
       }
+    },
+    "2022-01-08T09:41:04.024867+00:00": {
+      "this_amiibo": {
+        "rating": 24.601656722367682,
+        "rating_mu": 28.983620184821422,
+        "rating_sigma": 1.4606544874845804,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "daaf2d91-d987-452f-a511-d2872e11ce22",
+        "name": "F.S. U.S.",
+        "rating": 27.647260633255208,
+        "trainer_id": "7ff68788-3366-489f-9efd-bb3c16421574",
+        "trainer_name": "VocalFan",
+        "result": "win"
+      }
+    },
+    "2022-01-15T01:33:03.944289+00:00": {
+      "this_amiibo": {
+        "rating": 24.75181183136277,
+        "rating_mu": 29.093290262840693,
+        "rating_sigma": 1.447159477159308,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "3d40112c-cb56-487b-8545-8c9ac3ec08c4",
+        "name": "Lucina",
+        "rating": 18.43435771209857,
+        "trainer_id": "c78165aa-229a-409f-9ac4-7e07e0f565df",
+        "trainer_name": "sora199597",
+        "result": "loss"
+      }
     }
   }
 }

@@ -1160,6 +1160,57 @@
         "trainer_name": "ironicname",
         "result": "loss"
       }
+    },
+    "2022-01-06T23:40:16.704052+00:00": {
+      "this_amiibo": {
+        "rating": 23.93920602105502,
+        "rating_mu": 27.418343430908273,
+        "rating_sigma": 1.1597124699510841,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "1ba87abe-6d12-48b8-a566-f3b29d0f4afd",
+        "name": "Not funny",
+        "rating": 25.014160402908466,
+        "trainer_id": "3c6a2558-822c-45dc-9c83-95b524978633",
+        "trainer_name": "0ccactuss0",
+        "result": "win"
+      }
+    },
+    "2022-01-10T03:55:21.386365+00:00": {
+      "this_amiibo": {
+        "rating": 23.79772742895007,
+        "rating_mu": 27.245335965999722,
+        "rating_sigma": 1.1492028456832177,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "286b42c9-0d34-4c9d-bb2f-a2fbd3b10ad2",
+        "name": "Kacophony",
+        "rating": 25.166156198031956,
+        "trainer_id": "dd6555fd-a19c-44f9-8e49-d533db72a667",
+        "trainer_name": "jholdc3",
+        "result": "win"
+      }
+    },
+    "2022-01-10T21:34:14.487547+00:00": {
+      "this_amiibo": {
+        "rating": 24.04025176337291,
+        "rating_mu": 27.45391925570499,
+        "rating_sigma": 1.137889164110692,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e2531ffe-e834-49ae-b233-56386472a6ed",
+        "id": "407a6ca3-3740-4306-b9a4-cf6854d798e6",
+        "name": "Melania",
+        "rating": 25.966694069764866,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "loss"
+      }
     }
   }
 }

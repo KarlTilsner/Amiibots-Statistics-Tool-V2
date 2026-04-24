@@ -361,6 +361,57 @@
         "trainer_name": "YM44",
         "result": "loss"
       }
+    },
+    "2022-01-07T00:57:38.307167+00:00": {
+      "this_amiibo": {
+        "rating": 27.728158824603014,
+        "rating_mu": 33.36641527569747,
+        "rating_sigma": 1.879418817031486,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "63e9bb09-be63-4cce-b3d6-5bfec41839c4",
+        "name": "Lysithea",
+        "rating": 25.212923966680457,
+        "trainer_id": "5b811e0a-9d5b-497a-91c7-0868e4e49a95",
+        "trainer_name": "early_mp",
+        "result": "loss"
+      }
+    },
+    "2022-01-16T05:01:31.140219+00:00": {
+      "this_amiibo": {
+        "rating": 28.073564503343743,
+        "rating_mu": 33.59903286994047,
+        "rating_sigma": 1.841822788865577,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "aa0bd7bc-db3a-4bb3-a263-b00ef1b4643e",
+        "name": "Schmorca",
+        "rating": 26.309669343018445,
+        "trainer_id": "6a92a875-ad10-4927-9ac9-43f4cea3e878",
+        "trainer_name": "trandomp",
+        "result": "loss"
+      }
+    },
+    "2022-01-18T18:00:44.278350+00:00": {
+      "this_amiibo": {
+        "rating": 27.84909641680069,
+        "rating_mu": 33.236624784489116,
+        "rating_sigma": 1.795842789229475,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "94f78efb-42e7-49e5-8dcd-f4714821fa07",
+        "name": "Terry",
+        "rating": 32.46196088109236,
+        "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
+        "trainer_name": "nozzly",
+        "result": "win"
+      }
     }
   }
 }

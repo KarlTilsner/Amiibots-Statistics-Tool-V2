@@ -1,0 +1,43 @@
+{
+  "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
+  "id": "5c254849-057d-4018-9502-125f7e94a5cc",
+  "name": "Joseph",
+  "trainer_id": "a36d4526-a1b2-4467-98f6-9fd436380847",
+  "trainer_name": "tinygreennerd",
+  "matches": {
+    "2022-01-11T17:48:44.154717+00:00": {
+      "this_amiibo": {
+        "rating": -0.059705700542703966,
+        "rating_mu": 19.57905694077983,
+        "rating_sigma": 6.546254213774177,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "09beb75f-5516-4144-af8b-d8ef06bbca46",
+        "name": "Blue Man",
+        "rating": 14.397373079256266,
+        "trainer_id": "a20909c7-9e51-492a-9e78-1472022a1d7a",
+        "trainer_name": "GreeFoss",
+        "result": "win"
+      }
+    },
+    "2022-01-17T15:44:23.752325+00:00": {
+      "this_amiibo": {
+        "rating": 0.6312646276358507,
+        "rating_mu": 18.494893816812972,
+        "rating_sigma": 5.954543063059041,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "bfc403ec-4ac1-464f-b230-9222a4f777e8",
+        "name": "JBPeterson",
+        "rating": 27.63857454687175,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "win"
+      }
+    }
+  }
+}

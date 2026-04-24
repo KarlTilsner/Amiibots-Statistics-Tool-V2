@@ -1041,6 +1041,40 @@
         "trainer_name": "StaplesTV_",
         "result": "loss"
       }
+    },
+    "2022-01-10T16:41:53.031318+00:00": {
+      "this_amiibo": {
+        "rating": 29.70986305975407,
+        "rating_mu": 33.11418832583019,
+        "rating_sigma": 1.134775088692041,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "b3353172-488d-4ecb-8b0e-bb20a7fba301",
+        "name": "optimal",
+        "rating": 27.477025230341,
+        "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+        "trainer_name": "LunagradeTV",
+        "result": "win"
+      }
+    },
+    "2022-01-19T20:33:10.081452+00:00": {
+      "this_amiibo": {
+        "rating": 29.87966112149069,
+        "rating_mu": 33.25787680710619,
+        "rating_sigma": 1.1260718952051676,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "7f1853b3-4d2b-4973-bb57-0802df12fd68",
+        "name": "WonderOfU",
+        "rating": 28.401382542801606,
+        "trainer_id": "a70d4e56-1076-4d29-8bea-ea0802249489",
+        "trainer_name": "RonJottoman",
+        "result": "loss"
+      }
     }
   }
 }

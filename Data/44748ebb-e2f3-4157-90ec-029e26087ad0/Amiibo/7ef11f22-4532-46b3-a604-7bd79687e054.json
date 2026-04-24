@@ -140,6 +140,57 @@
         "trainer_name": "bindycot",
         "result": "win"
       }
+    },
+    "2022-01-06T20:12:14.226194+00:00": {
+      "this_amiibo": {
+        "rating": 17.227625418611066,
+        "rating_mu": 26.41757743524167,
+        "rating_sigma": 3.063317338876869,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "308cdc29-ba61-496b-b854-a6276851d791",
+        "name": "King Bang",
+        "rating": 0.3623035888448243,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "loss"
+      }
+    },
+    "2022-01-08T12:23:48.626170+00:00": {
+      "this_amiibo": {
+        "rating": 17.009995840685473,
+        "rating_mu": 25.78425094604236,
+        "rating_sigma": 2.9247517017856284,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "e7fa66f6-81f9-4349-a969-e57e1102e8a1",
+        "name": "King Bang",
+        "rating": 22.361781466028553,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "win"
+      }
+    },
+    "2022-01-14T09:08:29.131786+00:00": {
+      "this_amiibo": {
+        "rating": 19.597009589003694,
+        "rating_mu": 27.689056746792073,
+        "rating_sigma": 2.697349052596126,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "97d24240-321c-406e-a926-a87ec0e5dc5f",
+        "name": "Thalia",
+        "rating": 27.422166312854955,
+        "trainer_id": "8a479357-a5de-4f56-8700-0d1a85c3d46b",
+        "trainer_name": "OmenApproaching",
+        "result": "loss"
+      }
     }
   }
 }
