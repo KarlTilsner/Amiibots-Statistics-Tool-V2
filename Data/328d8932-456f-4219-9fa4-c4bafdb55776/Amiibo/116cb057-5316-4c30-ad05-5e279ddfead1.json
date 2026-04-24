@@ -1143,6 +1143,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2024-12-24T17:53:22.558907+00:00": {
+      "this_amiibo": {
+        "rating": 30.57655503002268,
+        "rating_mu": 33.632997440589385,
+        "rating_sigma": 1.0188141368555685,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "2e9de397-00c6-4910-a997-225d8e1eb9eb",
+        "name": "DILFDORF",
+        "rating": 30.606836519136603,
+        "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
+        "trainer_name": "bubs_yt",
+        "result": "win"
+      }
+    },
+    "2025-01-11T13:24:31.589293+00:00": {
+      "this_amiibo": {
+        "rating": 30.717772426037204,
+        "rating_mu": 33.75895336658004,
+        "rating_sigma": 1.013726980180944,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "373aea0e-61be-43ba-a38e-216a1c0c20b4",
+        "name": "Δ Luigi",
+        "rating": 27.331113778857528,
+        "trainer_id": "5a8589ed-d354-409f-a80e-11e5ddb74749",
+        "trainer_name": "secnico42",
+        "result": "loss"
+      }
     }
   }
 }

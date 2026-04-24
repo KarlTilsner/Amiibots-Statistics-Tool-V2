@@ -480,6 +480,40 @@
         "trainer_name": "LunagradeTV",
         "result": "win"
       }
+    },
+    "2021-09-05T01:48:14.642937+00:00": {
+      "this_amiibo": {
+        "rating": 27.60434036363465,
+        "rating_mu": 32.543483237079606,
+        "rating_sigma": 1.6463809578149866,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "dde18ead-a7f4-4790-bf55-cbc109d36824",
+        "name": "Nickelback",
+        "rating": 27.35763955641068,
+        "trainer_id": "c94bea4e-a6b8-4173-84d0-faaf3d1c416a",
+        "trainer_name": "PixeLB_SSB",
+        "result": "win"
+      }
+    },
+    "2021-09-05T22:05:42.955976+00:00": {
+      "this_amiibo": {
+        "rating": 27.240043159297876,
+        "rating_mu": 32.060964987230726,
+        "rating_sigma": 1.606973942644283,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "82f0623a-4b0c-4d64-94a4-788194c9ef24",
+        "name": "Entropy",
+        "rating": 25.64805558149582,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
     }
   }
 }
