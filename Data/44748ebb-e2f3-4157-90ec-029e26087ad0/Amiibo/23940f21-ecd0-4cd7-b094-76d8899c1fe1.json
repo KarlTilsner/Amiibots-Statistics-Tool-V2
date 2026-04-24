@@ -412,6 +412,57 @@
         "trainer_name": "rapjm14",
         "result": "loss"
       }
+    },
+    "2022-02-08T08:41:55.148717+00:00": {
+      "this_amiibo": {
+        "rating": 19.587899769527947,
+        "rating_mu": 24.94093620176707,
+        "rating_sigma": 1.784345477413041,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "fe01d821-b2a2-4737-984f-253fd36dcc67",
+        "name": "Classified",
+        "rating": 22.85727867507789,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
+    },
+    "2022-02-08T14:00:00.552275+00:00": {
+      "this_amiibo": {
+        "rating": 19.56386237503765,
+        "rating_mu": 24.874856935663832,
+        "rating_sigma": 1.7703315202087264,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "94f78efb-42e7-49e5-8dcd-f4714821fa07",
+        "name": "Terry",
+        "rating": 32.03578508050402,
+        "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
+        "trainer_name": "nozzly",
+        "result": "win"
+      }
+    },
+    "2022-02-19T03:01:25.339882+00:00": {
+      "this_amiibo": {
+        "rating": 19.5020852948973,
+        "rating_mu": 24.744595133620912,
+        "rating_sigma": 1.7475032795745375,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "5a9f36a6-8a90-4659-a3ab-74a442528774",
+        "name": "Boney",
+        "rating": 28.181775108713722,
+        "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
+        "trainer_name": "YM44",
+        "result": "win"
+      }
     }
   }
 }

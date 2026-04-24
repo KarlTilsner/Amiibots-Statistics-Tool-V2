@@ -225,6 +225,40 @@
         "trainer_name": "SG_Bubs",
         "result": "loss"
       }
+    },
+    "2022-02-05T19:06:45.167773+00:00": {
+      "this_amiibo": {
+        "rating": 15.851968520885173,
+        "rating_mu": 22.97208245407078,
+        "rating_sigma": 2.373371311061869,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e2531ffe-e834-49ae-b233-56386472a6ed",
+        "id": "407a6ca3-3740-4306-b9a4-cf6854d798e6",
+        "name": "Melania",
+        "rating": 25.233988617969345,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "win"
+      }
+    },
+    "2022-02-09T23:52:20.411108+00:00": {
+      "this_amiibo": {
+        "rating": 15.824107293527709,
+        "rating_mu": 22.814923432272845,
+        "rating_sigma": 2.330272046248379,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "2c481113-41b8-4b0a-aa7a-b7f30253fb54",
+        "name": "Edge",
+        "rating": 28.943992530640735,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      }
     }
   }
 }

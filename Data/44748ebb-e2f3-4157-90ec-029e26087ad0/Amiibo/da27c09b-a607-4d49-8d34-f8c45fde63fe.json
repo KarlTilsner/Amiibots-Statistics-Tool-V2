@@ -1449,6 +1449,40 @@
         "trainer_name": "eon_ii",
         "result": "loss"
       }
+    },
+    "2022-02-06T10:00:19.633591+00:00": {
+      "this_amiibo": {
+        "rating": 24.232347745560773,
+        "rating_mu": 27.264253638559584,
+        "rating_sigma": 1.0106352976662698,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "94f78efb-42e7-49e5-8dcd-f4714821fa07",
+        "name": "Terry",
+        "rating": 32.749729310581515,
+        "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
+        "trainer_name": "nozzly",
+        "result": "win"
+      }
+    },
+    "2022-02-06T20:38:52.516613+00:00": {
+      "this_amiibo": {
+        "rating": 24.141821915339968,
+        "rating_mu": 27.15992662679236,
+        "rating_sigma": 1.0060349038174634,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "e1cb5d79-f6e9-4863-a718-569896d3e10f",
+        "name": "Sun Tzu",
+        "rating": 26.139812244215918,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
     }
   }
 }

@@ -429,6 +429,40 @@
         "trainer_name": "blackestarrow",
         "result": "loss"
       }
+    },
+    "2022-02-07T05:15:48.903683+00:00": {
+      "this_amiibo": {
+        "rating": 22.44280414031035,
+        "rating_mu": 27.721558781018036,
+        "rating_sigma": 1.7595848802358944,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "5c7b9506-ddac-4797-a47e-13fff2161a0f",
+        "name": "Sam",
+        "rating": 31.916025025528473,
+        "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
+        "trainer_name": "gotelin_",
+        "result": "win"
+      }
+    },
+    "2022-02-07T18:26:27.405142+00:00": {
+      "this_amiibo": {
+        "rating": 22.837831898711443,
+        "rating_mu": 28.00703805265855,
+        "rating_sigma": 1.7230687179823692,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "c14fcc31-aa18-4227-82ab-b3d428133aca",
+        "name": "Remex",
+        "rating": 21.547950743631997,
+        "trainer_id": "0bfc5314-1499-4f2b-b443-8b5c63040f63",
+        "trainer_name": "terrassb",
+        "result": "loss"
+      }
     }
   }
 }

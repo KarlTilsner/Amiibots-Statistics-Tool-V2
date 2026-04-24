@@ -939,6 +939,40 @@
         "trainer_name": "forenmagra",
         "result": "loss"
       }
+    },
+    "2022-02-11T08:55:26.796064+00:00": {
+      "this_amiibo": {
+        "rating": 31.42065052191078,
+        "rating_mu": 35.41466138110675,
+        "rating_sigma": 1.331336953065322,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "2e95c813-e070-46fa-b5f5-91ae10f00c4f",
+        "name": "Star",
+        "rating": 26.393770804226325,
+        "trainer_id": "7431e9f5-4615-4074-9589-015c11ed1705",
+        "trainer_name": "laura016_",
+        "result": "win"
+      }
+    },
+    "2022-02-12T01:33:00.551553+00:00": {
+      "this_amiibo": {
+        "rating": 31.56042823895431,
+        "rating_mu": 35.523508723023824,
+        "rating_sigma": 1.3210268280231714,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "55e8a3a3-1524-4ab8-ab75-0e92c8a03916",
+        "name": "IBPC",
+        "rating": 23.989184734685374,
+        "trainer_id": "36312709-4ad7-419b-8db4-3a8c210cded0",
+        "trainer_name": "circuit404",
+        "result": "loss"
+      }
     }
   }
 }
