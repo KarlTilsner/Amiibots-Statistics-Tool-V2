@@ -344,6 +344,40 @@
         "trainer_name": "WynnThornton",
         "result": "loss"
       }
+    },
+    "2022-04-25T03:01:01.525306+00:00": {
+      "this_amiibo": {
+        "rating": 18.019758199080187,
+        "rating_mu": 23.525257070206013,
+        "rating_sigma": 1.8351662903752755,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "0a263e23-9896-4f40-a2de-9b35df07edbd",
+        "name": "JstAPhazon",
+        "rating": 20.15236990579633,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
+    },
+    "2022-04-25T20:38:59.801291+00:00": {
+      "this_amiibo": {
+        "rating": 17.730247974153713,
+        "rating_mu": 23.0872247989969,
+        "rating_sigma": 1.7856589416143962,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "0a263e23-9896-4f40-a2de-9b35df07edbd",
+        "name": "JstAPhazon",
+        "rating": 20.324143742950643,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
     }
   }
 }

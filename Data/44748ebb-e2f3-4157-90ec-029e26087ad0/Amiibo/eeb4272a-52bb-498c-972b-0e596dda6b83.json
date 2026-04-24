@@ -1772,6 +1772,57 @@
         "trainer_name": "swiftsg_official",
         "result": "loss"
       }
+    },
+    "2022-05-02T07:52:24.199773+00:00": {
+      "this_amiibo": {
+        "rating": 27.14710577946013,
+        "rating_mu": 29.983132871945347,
+        "rating_sigma": 0.9453423641617389,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "e1cb5d79-f6e9-4863-a718-569896d3e10f",
+        "name": "Sun Tzu",
+        "rating": 26.58050827960742,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2022-05-03T00:32:57.852215+00:00": {
+      "this_amiibo": {
+        "rating": 27.23541588191741,
+        "rating_mu": 30.066168734600748,
+        "rating_sigma": 0.9435842842277792,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "f2123c79-bfe0-4a01-8f75-3a550576b947",
+        "name": "BombVoyage",
+        "rating": 18.625036136380153,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "loss"
+      }
+    },
+    "2022-05-03T17:57:44.767009+00:00": {
+      "this_amiibo": {
+        "rating": 27.385691210149503,
+        "rating_mu": 30.20362881806399,
+        "rating_sigma": 0.9393125359714952,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "ffdb65d7-24d9-4978-9048-367a1a921be6",
+        "name": "Illiterate",
+        "rating": 28.608794753803256,
+        "trainer_id": "ef09c7bb-1209-4ef1-ba32-becaa71e01e5",
+        "trainer_name": "6b_baby",
+        "result": "loss"
+      }
     }
   }
 }

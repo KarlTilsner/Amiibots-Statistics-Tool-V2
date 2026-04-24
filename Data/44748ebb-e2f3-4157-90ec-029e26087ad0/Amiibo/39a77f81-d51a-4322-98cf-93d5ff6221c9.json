@@ -531,6 +531,57 @@
         "trainer_name": "reesespawfs",
         "result": "loss"
       }
+    },
+    "2022-04-26T03:30:04.008833+00:00": {
+      "this_amiibo": {
+        "rating": 15.780080750000915,
+        "rating_mu": 21.60613740783126,
+        "rating_sigma": 1.942018885943448,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "681941ce-fa15-4559-a030-758747e60450",
+        "name": "Hunch",
+        "rating": 19.687436781356823,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
+    },
+    "2022-04-30T14:56:53.902168+00:00": {
+      "this_amiibo": {
+        "rating": 16.573117977675032,
+        "rating_mu": 22.20589322117888,
+        "rating_sigma": 1.8775917478346158,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "7cadbf04-2670-4d17-a97a-8f1acdd5a24f",
+        "name": "AIRbender",
+        "rating": 20.72535968303369,
+        "trainer_id": "4bdb229d-51e8-43ec-a2d3-8ceb540f9ced",
+        "trainer_name": "cramorant_is_hungry",
+        "result": "loss"
+      }
+    },
+    "2022-05-02T00:30:48.786285+00:00": {
+      "this_amiibo": {
+        "rating": 16.403929241418428,
+        "rating_mu": 21.907694537955624,
+        "rating_sigma": 1.8345884321790658,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "c8a4e552-3602-40e7-ad6d-46b2f3a75b03",
+        "name": "Inksicle",
+        "rating": 22.20484043696112,
+        "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
+        "trainer_name": "SG_Bubs",
+        "result": "win"
+      }
     }
   }
 }

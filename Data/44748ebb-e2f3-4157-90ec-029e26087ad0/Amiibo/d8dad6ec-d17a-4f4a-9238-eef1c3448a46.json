@@ -888,6 +888,40 @@
         "trainer_name": "AmiiboDoctor",
         "result": "win"
       }
+    },
+    "2022-04-22T17:02:53.850407+00:00": {
+      "this_amiibo": {
+        "rating": 29.043440472805745,
+        "rating_mu": 32.8771306830076,
+        "rating_sigma": 1.2778967367339518,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "d686a3d9-28e0-45d8-8b16-fef82457172c",
+        "name": "Hephaestus",
+        "rating": 27.520669970496968,
+        "trainer_id": "87ca3f86-0b03-4cd3-b8ff-317fe5caf47d",
+        "trainer_name": "AmiiboLucifer",
+        "result": "loss"
+      }
+    },
+    "2022-05-01T05:25:08.252673+00:00": {
+      "this_amiibo": {
+        "rating": 28.889541399030833,
+        "rating_mu": 32.681459861198476,
+        "rating_sigma": 1.2639728207225485,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "af3fb945-8cb5-4a9b-949d-dc24a06b430a",
+        "name": "Progenitor",
+        "rating": 28.686652413761582,
+        "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+        "trainer_name": "i_guano",
+        "result": "win"
+      }
     }
   }
 }
