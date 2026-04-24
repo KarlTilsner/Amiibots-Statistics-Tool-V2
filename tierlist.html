@@ -9,39 +9,20 @@
 
         <link rel="stylesheet" href="css/styles.css">
 
+        <script src="js/header.js"></script>
+        <script src="js/ruleset_handler.js"></script>
         <script src="js/tierlist.js"></script>
-        <script src="js/versionNumber.js"></script>
         <script src="js/navBarElement.js"></script>
         <script src="js/search_history.js"></script>
     </head>
 
 
-
-
     
     <body>
-
         <nav class="navbar" id="documentNavbar"></nav>
 
-
-
-
-
         <main>
-            <div class="header">
-                <div>
-                    <h1 class="title">Amiibots Statistics Tool<span class="subtitle"> / Tierlist</span></h1>
-
-                    <p class="version" id="versionNo"></p>
-                </div>
-
-                <div class="search_history_button" onclick="toggleVisibility()">
-                    <img class="search_history_icon" src="images/icon_search_history.png">
-                </div>
-
-            </div>
-
-
+            <div id="documentHeader"></div>
 
             <div class="block" id="searchHistoryDropdown" style="display: none;">
                 <div class="container">
@@ -54,21 +35,9 @@
 
 
 
-            <div class="block flex_container">
-                <div class="container search_bar">
-                    <form>
-                        <div class="search_buttons">
-                            <input class="thick_button" type="button"  id="ruleset_vanilla"  name="ruleset"   value="Vanilla"        onclick="tierlistRulesetHighlight('null', 'vanilla')">
-                            <input class="thick_button" type="button"  id="ruleset_b5b"      name="ruleset"   value="Big 5 Ban"      onclick="tierlistRulesetHighlight('null', 'b5b')">
-                            <input class="thick_button" type="button"  id="ruleset_ag"       name="ruleset"   value="Anything Goes"  onclick="tierlistRulesetHighlight('null', 'ag')">
-                        </div>
-                    </form>
-                </div>
-
-
-                
+            <div class="block flex_container">              
                 <div class="container quick_statistics">
-                    <p class="stats" id="global_average_rating">Global Average Rating: (xx.xx)</p>
+                    <p class="stats" id="global_average_rating">Global Average Rating: </p>
                 </div>
             </div>
 
@@ -154,7 +123,6 @@
         </main>
 
 
-
-
         
     </body>
+</html>

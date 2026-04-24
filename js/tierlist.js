@@ -1,52 +1,6 @@
-//                                                              STARTER FUNCTION
-//--------------------------------------------------------------------------------------------------------------------------------------------------------- 
-window.onload = function() {
-    // Set rulesets
-    window.localStorage.setItem('vanilla', '44748ebb-e2f3-4157-90ec-029e26087ad0');
-    window.localStorage.setItem('b5b', '328d8932-456f-4219-9fa4-c4bafdb55776');
-    window.localStorage.setItem('ag', 'af1df0cd-3251-4b44-ba04-d48de5b73f8b');
-
-    tierlistRulesetHighlight('start');
+window.onload = function () {
     generateTierList();
 };
-
-
-
-
-
-//                                                              HIGHLIGHT TIERLIST RULESET BUTTONS
-//--------------------------------------------------------------------------------------------------------------------------------------------------------- 
-function tierlistRulesetHighlight(start, button_id) {
-    if (start == 'start') {
-        try {
-        // Highlight ruleset buttons
-        let highlightRulesetButton = window.localStorage.getItem('Tierlist Ruleset');
-        document.getElementById(`ruleset_${highlightRulesetButton}`).setAttribute("style", `background-color: rgba(220, 220, 220, 0.3)`);
-        } catch (err) {
-            window.localStorage.setItem('Tierlist Ruleset', 'vanilla');
-            let highlightRulesetButton = window.localStorage.getItem('Tierlist Ruleset');
-            document.getElementById(`ruleset_${highlightRulesetButton}`).setAttribute("style", `background-color: rgba(220, 220, 220, 0.3)`);
-            console.log("Ruleset was empty");
-        }
-    }
-
-    if (start != 'start') {
-        try {    
-            let highlightRulesetButton = window.localStorage.getItem('Tierlist Ruleset');
-            document.getElementById(`ruleset_${highlightRulesetButton}`).removeAttribute("style", `background-color: rgba(220, 220, 220, 0.3)`);
-    
-            document.getElementById(`ruleset_${button_id}`).setAttribute("style", `background-color: rgba(220, 220, 220 , 0.3)`);
-            window.localStorage.setItem('Tierlist Ruleset', `${button_id}`);
-            console.log('Ruleset is: ' + button_id);
-        } catch (err) {
-            document.getElementById(`ruleset_${button_id}`).setAttribute("style", `background-color: rgba(220, 220, 220 , 0.3)`);
-            window.localStorage.setItem('Tierlist Ruleset', `${button_id}`);
-            console.log('Ruleset is: ' + button_id);
-        }
-
-        window.location.reload();
-    }
-}
 
 
 
@@ -56,51 +10,43 @@ function tierlistRulesetHighlight(start, button_id) {
 //--------------------------------------------------------------------------------------------------------------------------------------------------------- 
 async function generateTierList(match_count) {
 
-    let tier_list_ruleset_input = window.localStorage.getItem("Tierlist Ruleset");
-    let tier_list_ruleset_select = window.localStorage.getItem(tier_list_ruleset_input);
-    let tier_list_ruleset_id = `&ruleset_id=${tier_list_ruleset_select}`;
-    const matchmaking_status = '&matchmaking_status=ACTIVE,STANDBY';
-    match_count = `&per_page=${await get_number_of_amiibo()}`;
-
-
-    // call this function to find the exact amount of amiibo to search for
-    async function get_number_of_amiibo() {
-        const number_of_amiibo_query = await fetch(`https://www.amiibots.com/api/amiibo?per_page=1${tier_list_ruleset_id}&matchmaking_status=ACTIVE,STANDBY`);
-        const number_of_amiibo_response = await number_of_amiibo_query.json();
-        console.log(`found ${number_of_amiibo_response.total} ${tier_list_ruleset_input} amiibo`);
-        return number_of_amiibo_response.total;
-    }
+    let ruleset_id = window.localStorage.getItem("Global_Ruleset");
 
     // update the title of the tierlist
-    document.getElementById('tierlistTitle').innerHTML = `Amiibots Realtime Tierlist (${tier_list_ruleset_input})`;
+    async function rulesetName() {
+        const res = await fetch('Data/rulesets.json');
+        const data = await res.json();
+        const nameById = Object.fromEntries(
+            data.map(item => [item.id, item.name])
+        );
 
+        return nameById[ruleset_id];
+    }
 
-    // Get all character ids
-    // Get all character names
+    document.getElementById('tierlistTitle').innerHTML = `Amiibots Realtime Tierlist (${await rulesetName()})`;
+
+    // Get all characters
     let all_character_names = [];
     let all_character_id = [];
-    const all_characters_query = await fetch('https://www.amiibots.com/api/utility/get_all_characters');
+    const all_characters_query = await fetch("Data/all_characters.json");
     const all_characters_response = await all_characters_query.json();
-    const all_characters_data = all_characters_response.data.map(
-        function(index) {
-            all_character_names.push(index.name);
-            all_character_id.push(index.id);
+    Object.entries(all_characters_response).map(([id, name]) => {
+        all_character_names.push(name);
+        all_character_id.push(id);
     });
-
 
     // Get all amiibo ratings
     // Get all amiibo corresponding char ids
     let leaderboard_rating = [];
     let leaderboard_char_id = [];
-    
-    const tier_list_url = 'https://www.amiibots.com/api/amiibo?' + match_count + tier_list_ruleset_id + matchmaking_status;
-    const tier_list_query = await fetch(tier_list_url);
+
+    const tier_list_query = await fetch(`Data/${ruleset_id}/leaderboard.json`);
     const tier_list_response = await tier_list_query.json();
-    const tier_list_data = tier_list_response.data.map(
-        function(index) {
+    const tier_list_data = tier_list_response.map(
+        function (index) {
             leaderboard_rating.push(index.rating);
             leaderboard_char_id.push(index.playable_character_id);
-    });
+        });
 
 
     // For each character get top 10 ratings of the same character
@@ -123,7 +69,7 @@ async function generateTierList(match_count) {
             tier_list_character_id.push(all_character_id[i]);
 
             // Calculate the average rating
-            temp.forEach(function(num) {sum += num});
+            temp.forEach(function (num) { sum += num });
             // Push character name and rating into an array
             tier_list_average_rating.push(sum / temp.length);
 
@@ -135,11 +81,11 @@ async function generateTierList(match_count) {
     // Combine arrays
     let combineSort = [];
     for (let i = 0; i < tier_list_average_rating.length; i++) {
-        combineSort.push({'name': tier_list_character_name[i], 'rating': tier_list_average_rating[i], 'id': tier_list_character_id[i]});
+        combineSort.push({ 'name': tier_list_character_name[i], 'rating': tier_list_average_rating[i], 'id': tier_list_character_id[i] });
     }
 
     // Sort arrays
-    combineSort.sort(function(a, b) {
+    combineSort.sort(function (a, b) {
         return ((a.rating > b.rating) ? -1 : ((a.rating == b.rating)) ? 0 : 1);
     });
 
@@ -153,7 +99,7 @@ async function generateTierList(match_count) {
 
     // Calculate the global average rating
     let sum = 0;
-    tier_list_average_rating.forEach(function(num) {sum += num});
+    tier_list_average_rating.forEach(function (num) { sum += num });
     // Push character name and rating into an array
     let global_average_rating = (sum / tier_list_average_rating.length).toFixed(5);
 
@@ -204,9 +150,9 @@ async function generateTierList(match_count) {
     let list = '<div class="tier_list_container" style="gap: 0px;">';
     for (let i = 0; i < tier_list_average_rating.length; i++) {
         if (tier_list_average_rating[i] >= U_bound) {
-            list += 
+            list +=
                 (
-                `<div class="tier_list_item" onclick="clickTierlistItem('${tier_list_character_id[i]}', '${tier_list_ruleset_select}')">
+                    `<div class="tier_list_item" onclick="clickTierlistItem('${tier_list_character_id[i]}', '${ruleset_id}')">
                     <img src="images/${tier_list_character_name[i]}.png" class="tier_list_image">
                     <div class="tier_list_text_box">
                         <p class="tier_list_text">${tier_list_average_rating[i].toFixed(2)}</p>
@@ -223,9 +169,9 @@ async function generateTierList(match_count) {
     list = '<div class="tier_list_container" style="gap: 0px;">';
     for (let i = 0; i < tier_list_average_rating.length; i++) {
         if ((tier_list_average_rating[i] < U_bound) && (tier_list_average_rating[i] >= S_bound)) {
-            list += 
+            list +=
                 (
-                `<div class="tier_list_item" onclick="clickTierlistItem('${tier_list_character_id[i]}', '${tier_list_ruleset_select}')">
+                    `<div class="tier_list_item" onclick="clickTierlistItem('${tier_list_character_id[i]}', '${ruleset_id}')">
                     <img src="images/${tier_list_character_name[i]}.png" class="tier_list_image">
                     <div class="tier_list_text_box">
                         <p class="tier_list_text">${tier_list_average_rating[i].toFixed(2)}</p>
@@ -236,15 +182,15 @@ async function generateTierList(match_count) {
     }
     list += "</div>";
     content.innerHTML = list;
-   
-    
+
+
     content = document.getElementById('A+_TIER');
     list = '<div class="tier_list_container" style="gap: 0px;">';
     for (let i = 0; i < tier_list_average_rating.length; i++) {
         if ((tier_list_average_rating[i] < S_bound) && (tier_list_average_rating[i] >= A_bound)) {
-            list += 
+            list +=
                 (
-                `<div class="tier_list_item" onclick="clickTierlistItem('${tier_list_character_id[i]}', '${tier_list_ruleset_select}')">
+                    `<div class="tier_list_item" onclick="clickTierlistItem('${tier_list_character_id[i]}', '${ruleset_id}')">
                     <img src="images/${tier_list_character_name[i]}.png" class="tier_list_image">
                     <div class="tier_list_text_box">
                         <p class="tier_list_text">${tier_list_average_rating[i].toFixed(2)}</p>
@@ -261,9 +207,9 @@ async function generateTierList(match_count) {
     list = '<div class="tier_list_container" style="gap: 0px;">';
     for (let i = 0; i < tier_list_average_rating.length; i++) {
         if ((tier_list_average_rating[i] < A_bound) && (tier_list_average_rating[i] >= a_bound)) {
-            list += 
+            list +=
                 (
-                `<div class="tier_list_item" onclick="clickTierlistItem('${tier_list_character_id[i]}', '${tier_list_ruleset_select}')">
+                    `<div class="tier_list_item" onclick="clickTierlistItem('${tier_list_character_id[i]}', '${ruleset_id}')">
                     <img src="images/${tier_list_character_name[i]}.png" class="tier_list_image">
                     <div class="tier_list_text_box">
                         <p class="tier_list_text">${tier_list_average_rating[i].toFixed(2)}</p>
@@ -280,9 +226,9 @@ async function generateTierList(match_count) {
     list = '<div class="tier_list_container" style="gap: 0px;">';
     for (let i = 0; i < tier_list_average_rating.length; i++) {
         if ((tier_list_average_rating[i] < a_bound) && (tier_list_average_rating[i] >= B_bound)) {
-            list += 
+            list +=
                 (
-                `<div class="tier_list_item" onclick="clickTierlistItem('${tier_list_character_id[i]}', '${tier_list_ruleset_select}')">
+                    `<div class="tier_list_item" onclick="clickTierlistItem('${tier_list_character_id[i]}', '${ruleset_id}')">
                     <img src="images/${tier_list_character_name[i]}.png" class="tier_list_image">
                     <div class="tier_list_text_box">
                         <p class="tier_list_text">${tier_list_average_rating[i].toFixed(2)}</p>
@@ -299,9 +245,9 @@ async function generateTierList(match_count) {
     list = '<div class="tier_list_container" style="gap: 0px;">';
     for (let i = 0; i < tier_list_average_rating.length; i++) {
         if ((tier_list_average_rating[i] < B_bound) && (tier_list_average_rating[i] >= b_bound)) {
-            list += 
+            list +=
                 (
-                `<div class="tier_list_item" onclick="clickTierlistItem('${tier_list_character_id[i]}', '${tier_list_ruleset_select}')">
+                    `<div class="tier_list_item" onclick="clickTierlistItem('${tier_list_character_id[i]}', '${ruleset_id}')">
                     <img src="images/${tier_list_character_name[i]}.png" class="tier_list_image">
                     <div class="tier_list_text_box">
                         <p class="tier_list_text">${tier_list_average_rating[i].toFixed(2)}</p>
@@ -318,9 +264,9 @@ async function generateTierList(match_count) {
     list = '<div class="tier_list_container" style="gap: 0px;">';
     for (let i = 0; i < tier_list_average_rating.length; i++) {
         if ((tier_list_average_rating[i] < b_bound) && (tier_list_average_rating[i] >= C_bound)) {
-            list += 
+            list +=
                 (
-                `<div class="tier_list_item" onclick="clickTierlistItem('${tier_list_character_id[i]}', '${tier_list_ruleset_select}')">
+                    `<div class="tier_list_item" onclick="clickTierlistItem('${tier_list_character_id[i]}', '${ruleset_id}')">
                     <img src="images/${tier_list_character_name[i]}.png" class="tier_list_image">
                     <div class="tier_list_text_box">
                         <p class="tier_list_text">${tier_list_average_rating[i].toFixed(2)}</p>
@@ -337,9 +283,9 @@ async function generateTierList(match_count) {
     list = '<div class="tier_list_container" style="gap: 0px;">';
     for (let i = 0; i < tier_list_average_rating.length; i++) {
         if ((tier_list_average_rating[i] < C_bound) && (tier_list_average_rating[i] >= c_bound)) {
-            list += 
+            list +=
                 (
-                `<div class="tier_list_item" onclick="clickTierlistItem('${tier_list_character_id[i]}', '${tier_list_ruleset_select}')">
+                    `<div class="tier_list_item" onclick="clickTierlistItem('${tier_list_character_id[i]}', '${ruleset_id}')">
                     <img src="images/${tier_list_character_name[i]}.png" class="tier_list_image">
                     <div class="tier_list_text_box">
                         <p class="tier_list_text">${tier_list_average_rating[i].toFixed(2)}</p>
@@ -356,9 +302,9 @@ async function generateTierList(match_count) {
     list = '<div class="tier_list_container" style="gap: 0px;">';
     for (let i = 0; i < tier_list_average_rating.length; i++) {
         if ((tier_list_average_rating[i] < c_bound)) {
-            list += 
+            list +=
                 (
-                `<div class="tier_list_item" onclick="clickTierlistItem('${tier_list_character_id[i]}', '${tier_list_ruleset_select}')">
+                    `<div class="tier_list_item" onclick="clickTierlistItem('${tier_list_character_id[i]}', '${ruleset_id}')">
                     <img src="images/${tier_list_character_name[i]}.png" class="tier_list_image">
                     <div class="tier_list_text_box">
                         <p class="tier_list_text">${tier_list_average_rating[i].toFixed(2)}</p>
