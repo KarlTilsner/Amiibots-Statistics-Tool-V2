@@ -2588,6 +2588,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2022-09-22T17:18:13.498117+00:00": {
+      "this_amiibo": {
+        "rating": 36.405529332952106,
+        "rating_mu": 38.984468693935554,
+        "rating_sigma": 0.8596464536611486,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "f0cca338-917c-4a94-9292-3ab6e3b8fe2d",
+        "name": "BuckRogers",
+        "rating": 34.64225226084104,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
+    },
+    "2022-09-24T06:05:30.982277+00:00": {
+      "this_amiibo": {
+        "rating": 36.501662229602246,
+        "rating_mu": 39.07661831555313,
+        "rating_sigma": 0.8583186953169591,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "f8866a3a-c1b3-455d-9acc-8fd026ca038b",
+        "name": "Plant",
+        "rating": 34.10471611974218,
+        "trainer_id": "65321240-86df-4690-adea-6ddbcb87c5c9",
+        "trainer_name": "RichPandaGG",
+        "result": "loss"
+      }
     }
   }
 }

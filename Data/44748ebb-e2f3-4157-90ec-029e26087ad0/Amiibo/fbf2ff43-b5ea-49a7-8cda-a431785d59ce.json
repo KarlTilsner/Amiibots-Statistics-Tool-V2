@@ -820,6 +820,40 @@
         "trainer_name": "weedrobin",
         "result": "loss"
       }
+    },
+    "2022-09-26T09:11:48.888835+00:00": {
+      "this_amiibo": {
+        "rating": 27.968328777045105,
+        "rating_mu": 31.428982427317262,
+        "rating_sigma": 1.153551216757386,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+        "id": "10a9787b-a181-4c05-919b-b760c54b5eb2",
+        "name": "Unbearable",
+        "rating": 28.91138588984608,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "win"
+      }
+    },
+    "2022-10-06T13:54:49.516742+00:00": {
+      "this_amiibo": {
+        "rating": 28.151040172848422,
+        "rating_mu": 31.582678846105452,
+        "rating_sigma": 1.143879557752343,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "1c14503d-5071-40c0-8fed-ea6a81bb0008",
+        "name": "Sanryu",
+        "rating": 27.83000262386415,
+        "trainer_id": "8fb22cec-7176-4c66-8a37-0a38a179cd24",
+        "trainer_name": "kingozebras",
+        "result": "loss"
+      }
     }
   }
 }

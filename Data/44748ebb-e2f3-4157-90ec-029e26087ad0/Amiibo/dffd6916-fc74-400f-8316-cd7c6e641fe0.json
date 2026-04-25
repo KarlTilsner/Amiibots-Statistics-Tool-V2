@@ -6090,6 +6090,40 @@
         "trainer_name": "agent_gforce",
         "result": "win"
       }
+    },
+    "2022-09-30T14:32:43.749091+00:00": {
+      "this_amiibo": {
+        "rating": 23.329399911681385,
+        "rating_mu": 25.887633234402013,
+        "rating_sigma": 0.8527444409068762,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+        "id": "0502ee4e-623c-4c34-a58b-208838a539ff",
+        "name": "Julie",
+        "rating": 8.928851778066862,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "loss"
+      }
+    },
+    "2022-10-01T10:36:56.523655+00:00": {
+      "this_amiibo": {
+        "rating": 23.244962350586768,
+        "rating_mu": 25.803419281689425,
+        "rating_sigma": 0.8528189770342194,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "40c0212a-1f4a-416a-9bc8-f2bfbcc537a0",
+        "name": "MuchHigher",
+        "rating": 16.86271240044653,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "win"
+      }
     }
   }
 }

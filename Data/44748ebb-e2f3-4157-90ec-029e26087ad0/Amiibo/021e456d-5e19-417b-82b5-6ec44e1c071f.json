@@ -837,6 +837,40 @@
         "trainer_name": "StaplesTV_",
         "result": "loss"
       }
+    },
+    "2022-09-27T19:29:39.165744+00:00": {
+      "this_amiibo": {
+        "rating": 28.202449249483944,
+        "rating_mu": 31.839120904578046,
+        "rating_sigma": 1.212223885031367,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+        "id": "10a9787b-a181-4c05-919b-b760c54b5eb2",
+        "name": "Unbearable",
+        "rating": 29.219355308516626,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "win"
+      }
+    },
+    "2022-10-01T14:57:52.017181+00:00": {
+      "this_amiibo": {
+        "rating": 28.42170000709479,
+        "rating_mu": 32.02144250441265,
+        "rating_sigma": 1.19991416577262,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "1fe52d37-355d-4256-a403-3b07eba34900",
+        "name": "VALORANT",
+        "rating": 28.858132931492676,
+        "trainer_id": "6769a5da-b1bb-4563-af5a-4439304198aa",
+        "trainer_name": "Truth_Villager",
+        "result": "loss"
+      }
     }
   }
 }

@@ -582,6 +582,40 @@
         "trainer_name": "NytrozypicRL",
         "result": "win"
       }
+    },
+    "2022-09-26T21:37:23.427106+00:00": {
+      "this_amiibo": {
+        "rating": 20.89824254314779,
+        "rating_mu": 25.16874855350828,
+        "rating_sigma": 1.4235020034534962,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "b86d8e92-66c8-411b-bf72-9679a29498f4",
+        "name": "Queen",
+        "rating": 21.02970144486962,
+        "trainer_id": "74bfd21d-9ccb-44c8-9161-1e08b92c1e82",
+        "trainer_name": "fortuneminer21",
+        "result": "win"
+      }
+    },
+    "2022-09-29T18:41:07.011664+00:00": {
+      "this_amiibo": {
+        "rating": 21.07230382682443,
+        "rating_mu": 25.324120163609518,
+        "rating_sigma": 1.4172721122616954,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "f045f8ec-dce1-4355-9d96-2a59cc59972e",
+        "name": "Hierophant",
+        "rating": 0.5536839211878721,
+        "trainer_id": "a5eb3823-a703-4a48-9039-c1142b46ebde",
+        "trainer_name": "False_Justice",
+        "result": "loss"
+      }
     }
   }
 }

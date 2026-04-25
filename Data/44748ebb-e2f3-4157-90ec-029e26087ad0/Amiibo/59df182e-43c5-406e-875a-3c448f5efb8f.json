@@ -1908,6 +1908,57 @@
         "trainer_name": "dittowog",
         "result": "loss"
       }
+    },
+    "2022-09-27T20:54:02.674685+00:00": {
+      "this_amiibo": {
+        "rating": 35.244036228910105,
+        "rating_mu": 37.920551925472125,
+        "rating_sigma": 0.8921718988540064,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "0f54afff-2070-4dc3-b9da-0e9412b5c4dd",
+        "name": "Arya",
+        "rating": 35.082693371777076,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2022-09-28T03:18:37.166690+00:00": {
+      "this_amiibo": {
+        "rating": 35.14350593248303,
+        "rating_mu": 37.81392111973121,
+        "rating_sigma": 0.8901383957493929,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "6dd33567-d49f-4c7e-adaa-057058c79e3a",
+        "name": "NegativeXP",
+        "rating": 32.23937194352848,
+        "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
+        "trainer_name": "soysauce881",
+        "result": "win"
+      }
+    },
+    "2022-10-03T06:04:08.403471+00:00": {
+      "this_amiibo": {
+        "rating": 35.25764750823149,
+        "rating_mu": 37.920748617919514,
+        "rating_sigma": 0.8877003698960061,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "0f54afff-2070-4dc3-b9da-0e9412b5c4dd",
+        "name": "Arya",
+        "rating": 35.37145088945847,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "loss"
+      }
     }
   }
 }

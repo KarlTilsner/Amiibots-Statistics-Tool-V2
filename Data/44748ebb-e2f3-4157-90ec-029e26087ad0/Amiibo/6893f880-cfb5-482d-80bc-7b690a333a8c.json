@@ -1211,6 +1211,40 @@
         "trainer_name": "j20pk",
         "result": "loss"
       }
+    },
+    "2022-09-22T14:55:49.795553+00:00": {
+      "this_amiibo": {
+        "rating": 22.861516317563733,
+        "rating_mu": 26.034637386654722,
+        "rating_sigma": 1.0577070230303294,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "0fe6174d-7e2c-47ac-a5e4-b670f6c08fa0",
+        "name": "Pasta",
+        "rating": 26.066572893852012,
+        "trainer_id": "0a2cece6-ff06-4c61-b6c6-f6e4c6fa968f",
+        "trainer_name": "wumbodoom",
+        "result": "win"
+      }
+    },
+    "2022-09-22T21:53:09.256632+00:00": {
+      "this_amiibo": {
+        "rating": 22.792952425711054,
+        "rating_mu": 25.95300575201329,
+        "rating_sigma": 1.0533511087674126,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "0fe6174d-7e2c-47ac-a5e4-b670f6c08fa0",
+        "name": "Pasta",
+        "rating": 26.217735737146896,
+        "trainer_id": "0a2cece6-ff06-4c61-b6c6-f6e4c6fa968f",
+        "trainer_name": "wumbodoom",
+        "result": "win"
+      }
     }
   }
 }

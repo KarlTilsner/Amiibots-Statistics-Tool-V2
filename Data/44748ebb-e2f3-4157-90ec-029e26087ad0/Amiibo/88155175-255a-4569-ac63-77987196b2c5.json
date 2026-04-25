@@ -1092,6 +1092,40 @@
         "trainer_name": "nozzly",
         "result": "loss"
       }
+    },
+    "2022-09-24T07:52:47.105250+00:00": {
+      "this_amiibo": {
+        "rating": 26.361002540280126,
+        "rating_mu": 29.620650510567977,
+        "rating_sigma": 1.0865493234292838,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "8dcd2bdd-3141-4cc3-a08e-2ce1ae55ce81",
+        "name": "Falinks",
+        "rating": 19.070566274834118,
+        "trainer_id": "333ada9d-112d-469a-8a26-320358969432",
+        "trainer_name": "smashssf2_ita",
+        "result": "win"
+      }
+    },
+    "2022-09-26T14:09:04.931154+00:00": {
+      "this_amiibo": {
+        "rating": 26.24536033293106,
+        "rating_mu": 29.484702899678076,
+        "rating_sigma": 1.0797808555823383,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "fce4f7f1-1498-4728-b30c-a4b0c122e027",
+        "name": "Better Leo",
+        "rating": 25.121921709070104,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "average_videogame_user",
+        "result": "win"
+      }
     }
   }
 }
