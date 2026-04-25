@@ -259,6 +259,57 @@
         "trainer_name": "iVelune",
         "result": "loss"
       }
+    },
+    "2022-07-24T14:10:24.123494+00:00": {
+      "this_amiibo": {
+        "rating": 10.949347642237552,
+        "rating_mu": 18.618452367213973,
+        "rating_sigma": 2.556368241658807,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
+        "id": "1ea68957-0973-49a7-91ae-21e4f460deee",
+        "name": "Dwarf Star",
+        "rating": 9.517126467055657,
+        "trainer_id": "888b9593-05d9-4eef-bdb3-ea92805fb396",
+        "trainer_name": "tutor_for_shock",
+        "result": "win"
+      }
+    },
+    "2022-07-28T00:58:56.119824+00:00": {
+      "this_amiibo": {
+        "rating": 11.566163085079356,
+        "rating_mu": 19.03405575056774,
+        "rating_sigma": 2.489297555162795,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
+        "id": "0afb14c2-8e1c-4f58-aac9-50f3f7ba5953",
+        "name": "pecho",
+        "rating": 0.36787426350278807,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "loss"
+      }
+    },
+    "2022-07-28T12:43:41.410319+00:00": {
+      "this_amiibo": {
+        "rating": 12.370606883884347,
+        "rating_mu": 19.579406789963723,
+        "rating_sigma": 2.4029333020264585,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+        "id": "b231379a-0997-4fb4-abad-7ac7d03bd77d",
+        "name": "Girlfriend",
+        "rating": 7.086524266568681,
+        "trainer_id": "9863ac87-9ad3-4ebc-858c-3f0a6f5adafa",
+        "trainer_name": "swagginwaggin",
+        "result": "loss"
+      }
     }
   }
 }

@@ -735,6 +735,40 @@
         "trainer_name": "swagginwaggin",
         "result": "win"
       }
+    },
+    "2022-08-01T05:37:17.385490+00:00": {
+      "this_amiibo": {
+        "rating": 26.622862171149844,
+        "rating_mu": 30.561792679702567,
+        "rating_sigma": 1.3129768361842409,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "3f6b179a-f30f-47cc-a767-8fb8c9cc4643",
+        "name": "Are you ok",
+        "rating": 12.03055600201527,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "average_videogame_user",
+        "result": "loss"
+      }
+    },
+    "2022-08-06T09:30:45.494419+00:00": {
+      "this_amiibo": {
+        "rating": 26.44445528780657,
+        "rating_mu": 30.332076095332692,
+        "rating_sigma": 1.2958736025087072,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "f42e5cdb-dce0-4555-9d45-02e1fbf3e3fb",
+        "name": "Bloo",
+        "rating": 27.94028932140325,
+        "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
+        "trainer_name": "River_Tethys",
+        "result": "win"
+      }
     }
   }
 }

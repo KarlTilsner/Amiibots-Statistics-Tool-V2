@@ -1,0 +1,60 @@
+{
+  "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+  "id": "3f6b179a-f30f-47cc-a767-8fb8c9cc4643",
+  "name": "Are you ok",
+  "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+  "trainer_name": "average_videogame_user",
+  "matches": {
+    "2022-07-29T02:54:34.730673+00:00": {
+      "this_amiibo": {
+        "rating": 12.352739016321351,
+        "rating_mu": 31.049027634262597,
+        "rating_sigma": 6.232096205980415,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "d1d18a8d-121f-4ee8-8c00-770a0898be43",
+        "name": "scam",
+        "rating": 23.487829136353632,
+        "trainer_id": "a52a8430-cf55-42e5-bf19-5b02af9f1896",
+        "trainer_name": "Shimedge",
+        "result": "loss"
+      }
+    },
+    "2022-08-01T05:37:17.385490+00:00": {
+      "this_amiibo": {
+        "rating": 12.03055600201527,
+        "rating_mu": 27.258834366200887,
+        "rating_sigma": 5.076092788061872,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "c30e24c2-4944-454c-94a8-e2011af529ce",
+        "name": "Inner Calm",
+        "rating": 26.622862171149844,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "win"
+      }
+    },
+    "2022-08-05T19:29:47.731183+00:00": {
+      "this_amiibo": {
+        "rating": 17.056203039340584,
+        "rating_mu": 30.141815448144307,
+        "rating_sigma": 4.3618708029345745,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "54806e2a-bdf4-42b2-89b2-53dfe87ca33b",
+        "name": "Billy",
+        "rating": 21.072189664292765,
+        "trainer_id": "0ef948e8-8ead-4690-85d5-1a6b46d0aa45",
+        "trainer_name": "Losinik",
+        "result": "loss"
+      }
+    }
+  }
+}

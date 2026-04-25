@@ -1942,6 +1942,57 @@
         "trainer_name": "cameron_h_03",
         "result": "loss"
       }
+    },
+    "2022-07-24T12:23:16.173843+00:00": {
+      "this_amiibo": {
+        "rating": 22.360449663500468,
+        "rating_mu": 25.21115408496474,
+        "rating_sigma": 0.9502348071547579,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "9f985bb5-859f-44d1-a5af-e1eda4de6af8",
+        "name": "NightWing",
+        "rating": 17.99303184693389,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
+    },
+    "2022-08-05T20:42:15.845830+00:00": {
+      "this_amiibo": {
+        "rating": 22.352630520533992,
+        "rating_mu": 25.209366823147022,
+        "rating_sigma": 0.952245434204343,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "262c0cb2-c259-49fc-96e4-b160eba0dc00",
+        "name": "Frank",
+        "rating": 0.5923721557026269,
+        "trainer_id": "d420e005-a49d-4da6-b8ec-e8848f4c4e99",
+        "trainer_name": "amiibotstourrunner",
+        "result": "loss"
+      }
+    },
+    "2022-08-05T19:25:47.551750+00:00": {
+      "this_amiibo": {
+        "rating": 22.28547380874613,
+        "rating_mu": 25.139165955719385,
+        "rating_sigma": 0.9512307156577523,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "2a7f61f5-f5ac-43d2-8693-c44de1d5e4ec",
+        "name": "Skyler",
+        "rating": 11.515394104490188,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "win"
+      }
     }
   }
 }

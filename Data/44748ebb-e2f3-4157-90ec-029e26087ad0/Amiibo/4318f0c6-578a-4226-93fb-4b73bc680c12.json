@@ -157,6 +157,40 @@
         "trainer_name": "swagginwaggin",
         "result": "loss"
       }
+    },
+    "2022-07-23T20:17:52.223805+00:00": {
+      "this_amiibo": {
+        "rating": 12.021213211503696,
+        "rating_mu": 20.450587693788528,
+        "rating_sigma": 2.809791494094944,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "e654cba5-c3c9-457d-9825-27ab5203cef5",
+        "name": "Frozone",
+        "rating": 8.112002121411145,
+        "trainer_id": "26e7e2d5-119d-4773-8cc4-328463893bbe",
+        "trainer_name": "GamerJohn_SSB",
+        "result": "win"
+      }
+    },
+    "2022-07-27T18:10:20.832906+00:00": {
+      "this_amiibo": {
+        "rating": 13.57617567874486,
+        "rating_mu": 21.49835010886388,
+        "rating_sigma": 2.640724810039674,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "b5b2524b-2ec2-40df-ab24-585304891425",
+        "name": "Legiana",
+        "rating": 16.782021423074994,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
     }
   }
 }

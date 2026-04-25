@@ -1568,6 +1568,40 @@
         "trainer_name": "BCRiparo",
         "result": "loss"
       }
+    },
+    "2022-08-05T22:58:52.506212+00:00": {
+      "this_amiibo": {
+        "rating": 23.515121157293752,
+        "rating_mu": 26.39420124113854,
+        "rating_sigma": 0.9596933612815961,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+        "id": "fd4a2f43-1d5c-48c5-9a85-845476e9dd17",
+        "name": "Venat",
+        "rating": 22.216872933343026,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      }
+    },
+    "2022-08-06T06:50:58.774177+00:00": {
+      "this_amiibo": {
+        "rating": 23.638086830177443,
+        "rating_mu": 26.505827878673067,
+        "rating_sigma": 0.9559136828318742,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+        "id": "fd4a2f43-1d5c-48c5-9a85-845476e9dd17",
+        "name": "Venat",
+        "rating": 21.817674228024423,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "loss"
+      }
     }
   }
 }

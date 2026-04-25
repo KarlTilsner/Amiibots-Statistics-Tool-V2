@@ -718,6 +718,57 @@
         "trainer_name": "nozzly",
         "result": "loss"
       }
+    },
+    "2022-07-22T18:46:31.079877+00:00": {
+      "this_amiibo": {
+        "rating": 21.390053948218135,
+        "rating_mu": 25.282922243140195,
+        "rating_sigma": 1.2976227649740202,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "a28e43fb-6637-4c40-aeff-b7d9e712d341",
+        "name": "ML ROB□",
+        "rating": 21.836318591662092,
+        "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
+        "trainer_name": "nozzly",
+        "result": "win"
+      }
+    },
+    "2022-07-23T21:36:18.454977+00:00": {
+      "this_amiibo": {
+        "rating": 21.72135244302238,
+        "rating_mu": 25.566300784921154,
+        "rating_sigma": 1.2816494472995916,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "993a2f0c-a6c2-4069-b9f2-e2f37b8bd1c6",
+        "name": "Kira",
+        "rating": 19.899740198992482,
+        "trainer_id": "0ef948e8-8ead-4690-85d5-1a6b46d0aa45",
+        "trainer_name": "Losinik",
+        "result": "loss"
+      }
+    },
+    "2022-07-24T19:36:36.849598+00:00": {
+      "this_amiibo": {
+        "rating": 21.624813688896726,
+        "rating_mu": 25.43490221459563,
+        "rating_sigma": 1.2700295085663016,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "1c14503d-5071-40c0-8fed-ea6a81bb0008",
+        "name": "Sanryu",
+        "rating": 26.093792159285353,
+        "trainer_id": "8fb22cec-7176-4c66-8a37-0a38a179cd24",
+        "trainer_name": "kingozebras",
+        "result": "win"
+      }
     }
   }
 }

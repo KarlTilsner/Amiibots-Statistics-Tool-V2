@@ -1041,6 +1041,40 @@
         "trainer_name": "marble_787",
         "result": "loss"
       }
+    },
+    "2022-08-06T03:43:36.313983+00:00": {
+      "this_amiibo": {
+        "rating": 30.01914822112662,
+        "rating_mu": 33.26974803738893,
+        "rating_sigma": 1.0835332720874358,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "36b75aa3-2929-44b2-9fe0-29d024b246e8",
+        "name": "Dr. Tetris",
+        "rating": 27.965101867317063,
+        "trainer_id": "4a9b09f9-e2b6-4654-9723-dfba236fe6b5",
+        "trainer_name": "d3arena",
+        "result": "win"
+      }
+    },
+    "2022-08-06T12:39:28.096457+00:00": {
+      "this_amiibo": {
+        "rating": 29.904429976041357,
+        "rating_mu": 33.13396964097284,
+        "rating_sigma": 1.0765132216438291,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "43d93bcb-f045-433a-b53a-0e42c783a1c7",
+        "name": "Nahobino",
+        "rating": 29.989549820294826,
+        "trainer_id": "8a479357-a5de-4f56-8700-0d1a85c3d46b",
+        "trainer_name": "OmenApproaching",
+        "result": "win"
+      }
     }
   }
 }
