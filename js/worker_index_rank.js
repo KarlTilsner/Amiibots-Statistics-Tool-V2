@@ -7,7 +7,7 @@ self.onmessage = async function (amiibo_id_message) {
     let matchmaking_status = null;
 
     async function getCharacterName() {
-        const query = await fetch("/Data/all_characters.json");
+        const query = await fetch("../Data/all_characters.json");
         const response = await query.json();
         return response[character_id]
     }
@@ -31,7 +31,7 @@ self.onmessage = async function (amiibo_id_message) {
         let character_leaderboard = [];
 
         // Query all amiibo except for inactive ones for the given ruleset and find the leaderboard position
-        const query = await fetch(`/Data/${amiibo_ruleset}/leaderboard.json`);
+        const query = await fetch(`../Data/${amiibo_ruleset}/leaderboard.json`);
         const response = await query.json();
         response.map(index => {
 
