@@ -837,6 +837,23 @@
         "trainer_name": "SpliceStream",
         "result": "loss"
       }
+    },
+    "2023-05-10T01:51:09.528187+00:00": {
+      "this_amiibo": {
+        "rating": 24.298922079127507,
+        "rating_mu": 27.944971311373912,
+        "rating_sigma": 1.2153497440821355,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 25.26623077364418,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "loss"
+      }
     }
   }
 }

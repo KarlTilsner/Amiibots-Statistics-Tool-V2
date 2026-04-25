@@ -1789,6 +1789,40 @@
         "trainer_name": "hidari_amiibo",
         "result": "win"
       }
+    },
+    "2023-05-07T04:31:58.666835+00:00": {
+      "this_amiibo": {
+        "rating": 25.571708161273875,
+        "rating_mu": 28.315803797884993,
+        "rating_sigma": 0.9146985455370393,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 25.20660624641576,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "loss"
+      }
+    },
+    "2023-05-16T06:28:22.058392+00:00": {
+      "this_amiibo": {
+        "rating": 25.49152548441493,
+        "rating_mu": 28.22869711169359,
+        "rating_sigma": 0.9123905424262208,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "cbabf456-a721-4895-ba9b-e0610bd5ead9",
+        "name": "VanillaIce",
+        "rating": 27.73783336703595,
+        "trainer_id": "22caf840-a51e-44d4-b6f3-ff77fca76532",
+        "trainer_name": "Deadeye30_",
+        "result": "win"
+      }
     }
   }
 }

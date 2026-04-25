@@ -293,6 +293,57 @@
         "trainer_name": "atomic_salvy",
         "result": "loss"
       }
+    },
+    "2023-05-08T06:17:38.748033+00:00": {
+      "this_amiibo": {
+        "rating": 19.076751063285073,
+        "rating_mu": 25.121127395745386,
+        "rating_sigma": 2.0147921108201037,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "7a305295-4a88-45b1-a4ef-b9a7a8703c84",
+        "name": "Mark",
+        "rating": 0.4026849221492519,
+        "trainer_id": "014cbd7d-3976-48c6-929d-d64677762669",
+        "trainer_name": "Illialidur",
+        "result": "loss"
+      }
+    },
+    "2023-05-17T06:52:01.807005+00:00": {
+      "this_amiibo": {
+        "rating": 19.776048499635785,
+        "rating_mu": 25.658578309968544,
+        "rating_sigma": 1.9608432701109204,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "80fb774d-d3c0-41d4-905b-81fd56a8a515",
+        "name": "Cholo",
+        "rating": 15.527378382936757,
+        "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
+        "trainer_name": "gotelin_",
+        "result": "loss"
+      }
+    },
+    "2023-05-19T14:16:39.759070+00:00": {
+      "this_amiibo": {
+        "rating": 19.528585153200748,
+        "rating_mu": 25.347772214212693,
+        "rating_sigma": 1.9397290203373148,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "b47b32fb-f4e8-48e0-8231-9d3c2267fc6a",
+        "name": "Finland",
+        "rating": 11.531305685662705,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "win"
+      }
     }
   }
 }

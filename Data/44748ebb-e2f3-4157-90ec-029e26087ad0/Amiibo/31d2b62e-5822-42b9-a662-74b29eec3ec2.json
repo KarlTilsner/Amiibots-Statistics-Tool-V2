@@ -429,6 +429,40 @@
         "trainer_name": "leCharade",
         "result": "loss"
       }
+    },
+    "2023-05-12T07:28:38.871781+00:00": {
+      "this_amiibo": {
+        "rating": 10.791881879424976,
+        "rating_mu": 15.769598627712295,
+        "rating_sigma": 1.659238916095773,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "808d9ab9-cbd2-4e8e-9901-cbc9e6cfa52d",
+        "name": "squid game",
+        "rating": 6.935172906605651,
+        "trainer_id": "0fb55565-9a16-4eaf-9ae8-e089b432d6f0",
+        "trainer_name": "sdm_ranch",
+        "result": "win"
+      }
+    },
+    "2023-05-17T22:03:36.918977+00:00": {
+      "this_amiibo": {
+        "rating": 10.514708103864443,
+        "rating_mu": 15.40749940062128,
+        "rating_sigma": 1.630930432252279,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "ae0ded65-d2d6-454b-b58f-7f7fe061eb3b",
+        "name": "Kaworu",
+        "rating": 5.785201269814015,
+        "trainer_id": "a5eb3823-a703-4a48-9039-c1142b46ebde",
+        "trainer_name": "False_Justice",
+        "result": "win"
+      }
     }
   }
 }

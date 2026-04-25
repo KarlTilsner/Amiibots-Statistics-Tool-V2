@@ -2962,6 +2962,57 @@
         "trainer_name": "Competitively2",
         "result": "loss"
       }
+    },
+    "2023-05-11T22:50:50.835303+00:00": {
+      "this_amiibo": {
+        "rating": 39.5164076295557,
+        "rating_mu": 42.15534379309075,
+        "rating_sigma": 0.8796453878450158,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "592d3980-775c-4c01-ad5a-ae007be37386",
+        "name": "Judgement",
+        "rating": 39.46196929548062,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "win"
+      }
+    },
+    "2023-05-13T07:39:54.396986+00:00": {
+      "this_amiibo": {
+        "rating": 39.67601621726105,
+        "rating_mu": 42.30574577522543,
+        "rating_sigma": 0.8765765193214613,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "fbe51dac-a8c5-4f5c-9e48-6402701bb858",
+        "name": "LooksRawr□",
+        "rating": 42.39531670970843,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "loss"
+      }
+    },
+    "2023-05-14T06:49:32.492883+00:00": {
+      "this_amiibo": {
+        "rating": 39.60597903542881,
+        "rating_mu": 42.23214474525993,
+        "rating_sigma": 0.8753885699437078,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "fbe51dac-a8c5-4f5c-9e48-6402701bb858",
+        "name": "LooksRawr□",
+        "rating": 41.971656541139765,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "win"
+      }
     }
   }
 }

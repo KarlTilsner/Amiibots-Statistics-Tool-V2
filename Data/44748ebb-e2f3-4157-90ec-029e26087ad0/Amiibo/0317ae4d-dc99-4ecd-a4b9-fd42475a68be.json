@@ -293,6 +293,57 @@
         "trainer_name": "sst_bearslayer",
         "result": "win"
       }
+    },
+    "2023-05-06T11:04:22.927035+00:00": {
+      "this_amiibo": {
+        "rating": 32.892753914600775,
+        "rating_mu": 38.733742255196105,
+        "rating_sigma": 1.946996113531777,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "64944d0a-44e7-499f-bef2-0bac9af4288d",
+        "name": "BloodFalcn",
+        "rating": 35.73097589616237,
+        "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+        "trainer_name": "Competitively2",
+        "result": "loss"
+      }
+    },
+    "2023-05-14T20:53:43.081488+00:00": {
+      "this_amiibo": {
+        "rating": 33.58652010072116,
+        "rating_mu": 39.245933503447716,
+        "rating_sigma": 1.8864711342421843,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "64944d0a-44e7-499f-bef2-0bac9af4288d",
+        "name": "BloodFalcn",
+        "rating": 36.301115517562835,
+        "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+        "trainer_name": "Competitively2",
+        "result": "loss"
+      }
+    },
+    "2023-05-19T11:40:52.199903+00:00": {
+      "this_amiibo": {
+        "rating": 33.28848295310347,
+        "rating_mu": 38.7909411539422,
+        "rating_sigma": 1.8341527336129106,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "6fb89952-f703-4668-9fab-945147947de7",
+        "name": "Resilience",
+        "rating": 35.06049453192259,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
     }
   }
 }

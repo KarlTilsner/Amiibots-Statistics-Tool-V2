@@ -1891,6 +1891,40 @@
         "trainer_name": "MMMMMMMMTTYYY_",
         "result": "loss"
       }
+    },
+    "2023-05-10T05:38:36.605053+00:00": {
+      "this_amiibo": {
+        "rating": 24.433936123185674,
+        "rating_mu": 27.20121712047943,
+        "rating_sigma": 0.9224269990979195,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "10d9fd33-d6f0-413b-b940-a018340f1410",
+        "name": "Firefist 1",
+        "rating": 17.490929493017234,
+        "trainer_id": "014cbd7d-3976-48c6-929d-d64677762669",
+        "trainer_name": "Illialidur",
+        "result": "win"
+      }
+    },
+    "2023-05-12T02:39:20.661610+00:00": {
+      "this_amiibo": {
+        "rating": 24.513555483046222,
+        "rating_mu": 27.280498472119447,
+        "rating_sigma": 0.9223143296910753,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "94698700-42dc-4af4-ba46-735a0e293cf1",
+        "name": "Radiance",
+        "rating": 10.367137001335106,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "loss"
+      }
     }
   }
 }

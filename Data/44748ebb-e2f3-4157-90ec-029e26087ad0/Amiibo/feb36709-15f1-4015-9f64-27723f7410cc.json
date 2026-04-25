@@ -565,6 +565,57 @@
         "trainer_name": "duckman060",
         "result": "loss"
       }
+    },
+    "2023-05-09T17:09:27.278043+00:00": {
+      "this_amiibo": {
+        "rating": 26.07013979205059,
+        "rating_mu": 30.311239104646006,
+        "rating_sigma": 1.4136997708651395,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "bae9d310-5693-4e26-81d8-a2c20d2f620c",
+        "name": "Comet",
+        "rating": 27.566974878954152,
+        "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
+        "trainer_name": "RockMyRole",
+        "result": "win"
+      }
+    },
+    "2023-05-14T17:26:26.786923+00:00": {
+      "this_amiibo": {
+        "rating": 26.429729213681412,
+        "rating_mu": 30.603435041245806,
+        "rating_sigma": 1.391235275854798,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "56f77028-cb63-4dba-bfd5-9d13c64a3221",
+        "name": "Eliwood",
+        "rating": 27.06123377490709,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HD_ssbu",
+        "result": "loss"
+      }
+    },
+    "2023-05-16T21:13:39.351257+00:00": {
+      "this_amiibo": {
+        "rating": 26.279751554046147,
+        "rating_mu": 30.40491644989977,
+        "rating_sigma": 1.375054965284541,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "a9e6ba7c-3935-4041-b434-0d82671898d8",
+        "name": "Kirby509",
+        "rating": 25.423702832372168,
+        "trainer_id": "8cefb4bd-9d7c-47bb-8e09-6b23d1a97aaa",
+        "trainer_name": "ATATAness",
+        "result": "win"
+      }
     }
   }
 }

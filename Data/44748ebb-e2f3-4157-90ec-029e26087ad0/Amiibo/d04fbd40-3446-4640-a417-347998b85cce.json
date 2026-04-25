@@ -4441,6 +4441,40 @@
         "trainer_name": "vrcool0",
         "result": "loss"
       }
+    },
+    "2023-05-09T12:31:10.754066+00:00": {
+      "this_amiibo": {
+        "rating": 31.629799931849114,
+        "rating_mu": 34.050650107534665,
+        "rating_sigma": 0.8069500585618509,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "6190f851-1d22-4771-b3ed-63e4b5e6791d",
+        "name": "Mitsurugi",
+        "rating": 31.48013600489466,
+        "trainer_id": "d5a5c4f3-d299-47a2-a5e0-ed4471b55e36",
+        "trainer_name": "not_citrus23",
+        "result": "win"
+      }
+    },
+    "2023-05-18T10:52:05.968091+00:00": {
+      "this_amiibo": {
+        "rating": 31.720445519228345,
+        "rating_mu": 34.139975576143605,
+        "rating_sigma": 0.8065100189717531,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "94eca42d-1317-4f89-8ab2-c4afd3406bfd",
+        "name": "Vriska",
+        "rating": 31.06467819672138,
+        "trainer_id": "95c09948-6452-4ce4-b27f-6c73c294c610",
+        "trainer_name": "2Snowblind",
+        "result": "loss"
+      }
     }
   }
 }

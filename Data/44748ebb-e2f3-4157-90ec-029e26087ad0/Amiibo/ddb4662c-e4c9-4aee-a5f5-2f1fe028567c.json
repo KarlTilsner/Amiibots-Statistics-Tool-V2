@@ -1415,6 +1415,40 @@
         "trainer_name": "sdm_ranch",
         "result": "loss"
       }
+    },
+    "2023-05-09T07:49:57.094142+00:00": {
+      "this_amiibo": {
+        "rating": 19.042404743997558,
+        "rating_mu": 22.210525706485374,
+        "rating_sigma": 1.0560403208292715,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "963a2131-0a4a-4b8c-81d0-2d24ebf9f96c",
+        "name": "Fennec",
+        "rating": 20.742840292524267,
+        "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
+        "trainer_name": "LovingStew",
+        "result": "win"
+      }
+    },
+    "2023-05-17T01:13:13.525655+00:00": {
+      "this_amiibo": {
+        "rating": 18.829780147214827,
+        "rating_mu": 21.971484519478803,
+        "rating_sigma": 1.0472347907546593,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "2e2e39a3-66e8-45a5-8f20-226a4df0e4e4",
+        "name": "Marthilous",
+        "rating": 13.988419604049643,
+        "trainer_id": "5f193754-19cc-4e88-a09f-cd36122614ca",
+        "trainer_name": "twrecks64",
+        "result": "win"
+      }
     }
   }
 }

@@ -922,6 +922,57 @@
         "trainer_name": "SquallDBC",
         "result": "loss"
       }
+    },
+    "2023-05-08T01:36:28.945180+00:00": {
+      "this_amiibo": {
+        "rating": 17.056410848811314,
+        "rating_mu": 20.62065325093374,
+        "rating_sigma": 1.188080800707475,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "74eee2c1-fa04-4215-a038-89a625cd8472",
+        "name": "Luci",
+        "rating": 15.717179251516914,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "win"
+      }
+    },
+    "2023-05-13T18:58:39.911418+00:00": {
+      "this_amiibo": {
+        "rating": 17.31168142549127,
+        "rating_mu": 20.84111589005561,
+        "rating_sigma": 1.1764781548547814,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "4bd2f2e5-43a0-432d-ab1f-ccdb2c307eef",
+        "name": "Slay Queen",
+        "rating": 15.627552209698836,
+        "trainer_id": "2befebf3-b874-420b-bed5-10a372e8bab2",
+        "trainer_name": "toxicmantis259",
+        "result": "loss"
+      }
+    },
+    "2023-05-16T13:30:08.386156+00:00": {
+      "this_amiibo": {
+        "rating": 17.552967029021715,
+        "rating_mu": 21.04724029611339,
+        "rating_sigma": 1.1647577556972244,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "4568a5c5-b46c-464c-8345-3c7586452b6c",
+        "name": "AdoBo",
+        "rating": 17.747004500461657,
+        "trainer_id": "16d95116-717b-4033-929d-85d20482f869",
+        "trainer_name": "aarsters",
+        "result": "loss"
+      }
     }
   }
 }

@@ -650,6 +650,40 @@
         "trainer_name": "hidari_amiibo",
         "result": "loss"
       }
+    },
+    "2023-05-18T20:30:17.243646+00:00": {
+      "this_amiibo": {
+        "rating": 24.925138593229406,
+        "rating_mu": 28.93012991389999,
+        "rating_sigma": 1.3349971068901947,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "164ffabd-f23d-48b1-a268-ebc14eb442ee",
+        "name": "Neferu",
+        "rating": 27.449888550816592,
+        "trainer_id": "94403b6f-17a3-4d6a-be29-de66b221db6d",
+        "trainer_name": "penguhhhh",
+        "result": "win"
+      }
+    },
+    "2023-05-18T19:33:58.942961+00:00": {
+      "this_amiibo": {
+        "rating": 25.092030882851812,
+        "rating_mu": 29.151486126104583,
+        "rating_sigma": 1.3531517477509232,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "79f271fa-1a9c-45c0-9bf6-fcad5bdf029a",
+        "name": "Yukino",
+        "rating": 10.963198747475147,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "loss"
+      }
     }
   }
 }

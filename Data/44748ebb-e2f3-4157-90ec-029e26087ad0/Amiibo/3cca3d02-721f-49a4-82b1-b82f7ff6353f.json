@@ -684,6 +684,74 @@
         "trainer_name": "gold_dxj",
         "result": "loss"
       }
+    },
+    "2023-05-06T05:01:25.712264+00:00": {
+      "this_amiibo": {
+        "rating": 23.59304173403544,
+        "rating_mu": 27.646052559148256,
+        "rating_sigma": 1.3510036083709382,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "f1fe2cac-9fde-4faf-b503-d74242ea3673",
+        "name": "James",
+        "rating": 21.465916290844252,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "win"
+      }
+    },
+    "2023-05-08T06:38:00.768156+00:00": {
+      "this_amiibo": {
+        "rating": 23.890545448443376,
+        "rating_mu": 27.888115913532882,
+        "rating_sigma": 1.332523488363168,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
+        "id": "8e80403e-b11f-4854-b681-e460bd205149",
+        "name": "Tink",
+        "rating": 23.852492365576225,
+        "trainer_id": "48c90d50-5b56-408c-a5c4-4c038ceeb83b",
+        "trainer_name": "kame707",
+        "result": "loss"
+      }
+    },
+    "2023-05-19T12:54:39.301386+00:00": {
+      "this_amiibo": {
+        "rating": 24.171517364120838,
+        "rating_mu": 28.115929186568188,
+        "rating_sigma": 1.3148039408157837,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "e6f3fbde-23a3-4706-ad26-27ab34a84f43",
+        "name": "Rizzo",
+        "rating": 25.168489925544183,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "loss"
+      }
+    },
+    "2023-05-19T17:01:12.427900+00:00": {
+      "this_amiibo": {
+        "rating": 23.8457139319727,
+        "rating_mu": 27.725663245520302,
+        "rating_sigma": 1.293316437849201,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "fca3626c-7f30-4c34-9c7d-203390f669b8",
+        "name": "G.R.N.",
+        "rating": 20.928293761885037,
+        "trainer_id": "147dbdd6-0e08-4d4a-b7eb-0146fb5735f6",
+        "trainer_name": "Adam2qaz",
+        "result": "win"
+      }
     }
   }
 }

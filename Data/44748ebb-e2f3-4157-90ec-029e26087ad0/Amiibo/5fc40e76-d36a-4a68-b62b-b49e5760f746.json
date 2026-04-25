@@ -582,6 +582,40 @@
         "trainer_name": "bosn23",
         "result": "loss"
       }
+    },
+    "2023-05-09T04:54:50.381011+00:00": {
+      "this_amiibo": {
+        "rating": 29.0583814385674,
+        "rating_mu": 33.11743503306394,
+        "rating_sigma": 1.3530178648321793,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "98e89a90-2075-4595-b2c2-7f2a07360d13",
+        "name": "The Agenda",
+        "rating": 29.277255493598815,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "win"
+      }
+    },
+    "2023-05-17T12:34:36.479908+00:00": {
+      "this_amiibo": {
+        "rating": 29.33604973985726,
+        "rating_mu": 33.3411260205759,
+        "rating_sigma": 1.3350254269062127,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "cfd01c12-e832-42aa-938f-3a2dd8c90cc6",
+        "name": "Lightyear",
+        "rating": 29.179785271314394,
+        "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
+        "trainer_name": "YM44",
+        "result": "loss"
+      }
     }
   }
 }
