@@ -482,8 +482,6 @@ async function amiiboStats() {
             // Sort arrays
             opponent_frequency.sort((a, b) => b.frequency - a.frequency);
 
-            console.log(opponent_frequency);
-
             // Display all surrounding amiibo and their frequency
             let content = document.getElementById('opponent_frequency_graph');
             opponent_frequency.map(opponent => {
@@ -529,7 +527,7 @@ async function amiiboStats() {
     
                                     <div class="list_stats">
                                         <h2>Matches:</h2>   
-                                        <h1>${index.total_matches}</h1>
+                                        <h1>${index.wins + index.losses}</h1>
                                     </div>
     
                                     <div class="list_stats">

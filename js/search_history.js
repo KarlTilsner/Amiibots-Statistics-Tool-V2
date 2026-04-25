@@ -1,13 +1,11 @@
 // Queries all character names and IDs and loads them into an object
 //---------------------------------------------------------------------------------------------------------------------------------------------------------
 async function get_all_characters_search_history() {
-    const url = `https://www.amiibots.com/api/utility/get_all_characters`;
+    const url = `./Data/all_characters.json`;
     const query = await fetch(url);
     const response = await query.json();
-    const data = response.data.map(index => index);
-    
-    console.log("Got all character names and ids");
-    return data;
+
+    return response;
 }
 
 
@@ -17,12 +15,11 @@ async function get_all_characters_search_history() {
 // Queries all rulesets and load them into an object
 //---------------------------------------------------------------------------------------------------------------------------------------------------------
 async function get_rulesets() {
-    const url = `https://www.amiibots.com/api/rulesets/public_rulesets`;
+    const url = `./Data/rulesets.json`;
     const query = await fetch(url);
     const response = await query.json();
-    const data = response.data.map(index => index);
-    
-    console.log("Got rulesets");
+    const data = response.map(index => index);
+
     return data;
 }
 
@@ -46,7 +43,7 @@ async function addAmiiboToSearchHistory(trainer_name, amiibo_name, amiibo_id, ch
     // check if not null before pushing new search item
     const storedSearchHistory = JSON.parse(localStorage.getItem('Search History'));
     if (storedSearchHistory != null) {
-        
+
         let match = false;
 
         // If amiibo is already in search history, update its date
@@ -61,7 +58,7 @@ async function addAmiiboToSearchHistory(trainer_name, amiibo_name, amiibo_id, ch
         if (match == false) {
             storedSearchHistory.push(newSearchItem);
         }
-        
+
         storedSearchHistory.sort((a, b) => new Date(a.date_searched) - new Date(b.date_searched));
         const searchHistory = storedSearchHistory.slice(-10);
         window.localStorage.setItem("Search History", JSON.stringify(searchHistory));
@@ -79,7 +76,7 @@ async function addAmiiboToSearchHistory(trainer_name, amiibo_name, amiibo_id, ch
 
 // Gets all the amiibo from local storage and lists them
 //---------------------------------------------------------------------------------------------------------------------------------------------------------
-document.addEventListener('DOMContentLoaded', async function() {
+document.addEventListener('DOMContentLoaded', async function () {
 
     const all_characters = await get_all_characters_search_history();
     const all_rulesets = await get_rulesets();
@@ -95,7 +92,7 @@ document.addEventListener('DOMContentLoaded', async function() {
             function calculateTimeAgo(targetDate) {
                 const now = new Date();
                 const elapsedMilliseconds = now - targetDate;
-                
+
                 // Calculate years, months, days, hours, minutes, and seconds
                 const elapsedSeconds = Math.floor(elapsedMilliseconds / 1000);
                 const elapsedMinutes = Math.floor(elapsedSeconds / 60);
@@ -103,11 +100,11 @@ document.addEventListener('DOMContentLoaded', async function() {
                 const elapsedDays = Math.floor(elapsedHours / 24);
                 const elapsedMonths = Math.floor(elapsedDays / 30); // Approximation
                 const elapsedYears = Math.floor(elapsedMonths / 12); // Approximation
-              
+
                 if (elapsedYears > 0) {
-                     return `${elapsedYears} ${elapsedYears === 1 ? 'year' : 'years'} ago`;
+                    return `${elapsedYears} ${elapsedYears === 1 ? 'year' : 'years'} ago`;
                 } else if (elapsedMonths > 0) {
-                      return `${elapsedMonths} ${elapsedMonths === 1 ? 'month' : 'months'} ago`;
+                    return `${elapsedMonths} ${elapsedMonths === 1 ? 'month' : 'months'} ago`;
                 } else if (elapsedDays > 0) {
                     return `${elapsedDays} ${elapsedDays === 1 ? 'day' : 'days'} ago`;
                 } else if (elapsedHours > 0) {
@@ -118,18 +115,13 @@ document.addEventListener('DOMContentLoaded', async function() {
                     return `${elapsedSeconds} ${elapsedSeconds === 1 ? 'second' : 'seconds'} ago`;
                 }
             }
-              
-            // Example usage
+
             const targetDate = new Date(index.date_searched);
             const timeAgo = calculateTimeAgo(targetDate);
 
             // Match current character with icon
-            let characterIcon;
-            for (let i = 0; i < all_characters.length; i++) {
-                if (all_characters[i].id == index.character_id) {
-                    characterIcon = (`${all_characters[i].name}.png`)
-                }
-            }
+            let characterIcon = `${all_characters[index.character_id]}.png`;
+
 
             // Match current character with icon
             let ruleset_name;
@@ -169,7 +161,7 @@ document.addEventListener('DOMContentLoaded', async function() {
             );
         });
 
-        
+
     } else {
         content.innerHTML = `<h2 style="margin: auto;">No search history to show :/</h2>`;
     }
@@ -197,4 +189,3 @@ function toggleVisibility() {
 
 
 
-  

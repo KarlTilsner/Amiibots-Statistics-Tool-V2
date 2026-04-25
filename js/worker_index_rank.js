@@ -33,41 +33,43 @@ self.onmessage = async function (amiibo_id_message) {
         // Query all amiibo except for inactive ones for the given ruleset and find the leaderboard position
         const query = await fetch(`../Data/${amiibo_ruleset}/leaderboard.json`);
         const response = await query.json();
-        console.log(response);
-        response.map(
-            async function (index) {
+        response.map(index => {
 
-                // Get amiibo matchmaking status
-                if (amiibo_id == index.id) {
-                    matchmaking_status = index.match_selection_status;
-                }
+            if (index.match_selection_status == "INACTIVE") {
+                return;
+            }
 
-                overallRank++;
-                overall_leaderboard.push({
+
+            // Get amiibo matchmaking status
+            if (amiibo_id == index.id) {
+                matchmaking_status = index.match_selection_status;
+            }
+
+            overallRank++;
+            overall_leaderboard.push({
+                'trainer_name': index.user.twitch_user_name,
+                'amiibo_name': index.name,
+                'rating': index.rating,
+                'amiibo_id': index.id,
+                'character_id': index.playable_character_id,
+                'total_matches': index.total_matches,
+                'rank': overallRank
+            });
+
+            if (character_id == index.playable_character_id) {
+                characterRank++;
+                character_leaderboard.push({
                     'trainer_name': index.user.twitch_user_name,
                     'amiibo_name': index.name,
                     'rating': index.rating,
                     'amiibo_id': index.id,
                     'character_id': index.playable_character_id,
                     'total_matches': index.total_matches,
-                    'rank': overallRank
+                    'rank': characterRank
                 });
-
-                if (character_id == index.playable_character_id) {
-                    characterRank++;
-                    character_leaderboard.push({
-                        'trainer_name': index.user.twitch_user_name,
-                        'amiibo_name': index.name,
-                        'rating': index.rating,
-                        'amiibo_id': index.id,
-                        'character_id': index.playable_character_id,
-                        'total_matches': index.total_matches,
-                        'rank': characterRank
-                    });
-                }
-
             }
-        );
+
+        });
 
 
         for (let i = 0; i < overall_leaderboard.length; i++) {
@@ -81,10 +83,6 @@ self.onmessage = async function (amiibo_id_message) {
                 character_leaderboard[i].character_highlight = 'highlight_amiibo';
             } else character_leaderboard[i].character_highlight = ''
         }
-
-
-        console.log(overall_leaderboard);
-        console.log(character_leaderboard);
 
         const rank_quick_stats = {
             rank_overall: 0,
@@ -282,6 +280,10 @@ self.onmessage = async function (amiibo_id_message) {
             const possibleOpponents = [];
 
             response.map(index => {
+                if (index.match_selection_status == "INACTIVE") {
+                    return;
+                }
+
                 // If amiibo is active get all amiibo within range
                 if (matchmaking_status == "ACTIVE") {
                     if (index.rating_mu <= upperBound && index.rating_mu >= lowerBound) {
@@ -315,8 +317,5 @@ self.onmessage = async function (amiibo_id_message) {
         return processedData;
     }
     const processedData = await findAmiiboRank();
-
-    console.log('Finished finding ranks');
-
     self.postMessage(processedData);
 }
