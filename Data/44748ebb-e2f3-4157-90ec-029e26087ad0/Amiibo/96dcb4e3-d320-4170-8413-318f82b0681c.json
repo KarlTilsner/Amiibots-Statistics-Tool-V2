@@ -1,0 +1,43 @@
+{
+  "character_id": "fa1ac3ba-0880-483b-b94e-9b4952e3f999",
+  "id": "96dcb4e3-d320-4170-8413-318f82b0681c",
+  "name": "He-Man",
+  "trainer_id": "74fb0249-4b7d-4ef4-9aa9-3fdf35fe351c",
+  "trainer_name": "Starshade71",
+  "matches": {
+    "2023-05-03T03:35:08.264685+00:00": {
+      "this_amiibo": {
+        "rating": 0.2140646914252322,
+        "rating_mu": 20.84915529915012,
+        "rating_sigma": 6.878363535908296,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "a0573ec8-0e23-40fb-94a7-1875b413bab2",
+        "name": "NotPay",
+        "rating": 14.602900241177752,
+        "trainer_id": "1a81c5cc-756f-41bd-a295-bdcaf4fe3a43",
+        "trainer_name": "MossyBD",
+        "result": "win"
+      }
+    },
+    "2023-05-04T23:44:11.873026+00:00": {
+      "this_amiibo": {
+        "rating": 7.718262447442857,
+        "rating_mu": 24.465073292750976,
+        "rating_sigma": 5.582270281769373,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+        "id": "911ccc15-c6ed-43d6-853d-1e148a458582",
+        "name": "Cereza",
+        "rating": 16.272686099931143,
+        "trainer_id": "72dbf100-42cd-432c-993b-ac2d26cfcaa6",
+        "trainer_name": "Persesco",
+        "result": "loss"
+      }
+    }
+  }
+}

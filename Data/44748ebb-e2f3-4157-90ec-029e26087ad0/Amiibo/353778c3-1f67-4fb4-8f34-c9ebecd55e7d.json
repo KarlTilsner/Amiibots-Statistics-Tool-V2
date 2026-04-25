@@ -463,6 +463,40 @@
         "trainer_name": "AmiiboDoctor",
         "result": "loss"
       }
+    },
+    "2023-04-21T10:08:40.437081+00:00": {
+      "this_amiibo": {
+        "rating": 16.99274155095117,
+        "rating_mu": 21.778550720061194,
+        "rating_sigma": 1.5952697230366746,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "9051a0f4-bbfd-4ef2-aced-7cbb488d8ca9",
+        "name": "Society",
+        "rating": 12.797190512655517,
+        "trainer_id": "0fb55565-9a16-4eaf-9ae8-e089b432d6f0",
+        "trainer_name": "sdm_ranch",
+        "result": "win"
+      }
+    },
+    "2023-04-28T21:57:01.952927+00:00": {
+      "this_amiibo": {
+        "rating": 16.70224306742884,
+        "rating_mu": 21.386562938850098,
+        "rating_sigma": 1.561439957140419,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "e8973529-e98a-4c71-82cb-31d1d75dafb5",
+        "name": "Coffeebean",
+        "rating": 16.266776581504107,
+        "trainer_id": "884cb5c3-bfa9-465a-afc3-dadf89fe30b4",
+        "trainer_name": "amiiboman16",
+        "result": "win"
+      }
     }
   }
 }

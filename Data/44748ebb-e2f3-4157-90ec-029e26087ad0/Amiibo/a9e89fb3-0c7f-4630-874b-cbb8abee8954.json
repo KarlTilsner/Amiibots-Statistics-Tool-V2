@@ -497,6 +497,57 @@
         "trainer_name": "random_fire",
         "result": "loss"
       }
+    },
+    "2023-04-25T18:08:42.603002+00:00": {
+      "this_amiibo": {
+        "rating": 32.69161619842112,
+        "rating_mu": 37.07555063721718,
+        "rating_sigma": 1.461311479598684,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "59b2dc56-42fb-406f-a75c-12770a3d028d",
+        "name": "Mewthree",
+        "rating": 28.119297718930234,
+        "trainer_id": "c3fe3b7f-7e85-43c1-9749-435494d5d429",
+        "trainer_name": "CJMaster3",
+        "result": "loss"
+      }
+    },
+    "2023-04-26T04:32:51.073592+00:00": {
+      "this_amiibo": {
+        "rating": 32.43658802428543,
+        "rating_mu": 36.74161561415836,
+        "rating_sigma": 1.4350091966243106,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "2a74e7bd-c8d8-4562-a057-be95f75b2d50",
+        "name": "Marianne",
+        "rating": 32.70434728330067,
+        "trainer_id": "bd07a343-f51b-4804-836e-c1461c87ce83",
+        "trainer_name": "PikaPoooool",
+        "result": "win"
+      }
+    },
+    "2023-04-28T16:42:43.418523+00:00": {
+      "this_amiibo": {
+        "rating": 32.24023019670101,
+        "rating_mu": 36.477163451740026,
+        "rating_sigma": 1.4123110850130038,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "b717a555-84c0-4ec8-9483-711e119ba3ef",
+        "name": "Antagonist",
+        "rating": 34.08444616731894,
+        "trainer_id": "c3fe3b7f-7e85-43c1-9749-435494d5d429",
+        "trainer_name": "CJMaster3",
+        "result": "win"
+      }
     }
   }
 }

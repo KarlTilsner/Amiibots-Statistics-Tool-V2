@@ -1517,6 +1517,57 @@
         "trainer_name": "HD_ssbu",
         "result": "loss"
       }
+    },
+    "2023-04-20T11:14:35.507095+00:00": {
+      "this_amiibo": {
+        "rating": 29.91437341533694,
+        "rating_mu": 32.75876424398592,
+        "rating_sigma": 0.9481302762163281,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "351a4aef-bca1-4a12-ac1c-df7e59752c71",
+        "name": "Mac",
+        "rating": 29.413387588287748,
+        "trainer_id": "e60803e1-d2e2-4f63-af89-61a4b79fe518",
+        "trainer_name": "Eclaume",
+        "result": "win"
+      }
+    },
+    "2023-04-22T02:25:51.017285+00:00": {
+      "this_amiibo": {
+        "rating": 30.028631360505063,
+        "rating_mu": 32.86954859560164,
+        "rating_sigma": 0.9469724116988599,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "1eee3298-75c7-4bb2-9e38-4b90aae17803",
+        "name": "Dr. Pop",
+        "rating": 18.60259109771589,
+        "trainer_id": "4581f763-87c3-4a74-99dc-82dba8b9bb6a",
+        "trainer_name": "ActualMamaLuigi",
+        "result": "loss"
+      }
+    },
+    "2023-04-29T04:14:59.424513+00:00": {
+      "this_amiibo": {
+        "rating": 30.16517082082307,
+        "rating_mu": 32.99425290027929,
+        "rating_sigma": 0.9430273598187399,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "c2ce51f2-0350-47bf-9ea3-af93f54c8418",
+        "name": "Vergil",
+        "rating": 29.783275196420732,
+        "trainer_id": "6620a138-5af3-4d27-8bc7-1e989943136b",
+        "trainer_name": "ethanzombiek",
+        "result": "loss"
+      }
     }
   }
 }

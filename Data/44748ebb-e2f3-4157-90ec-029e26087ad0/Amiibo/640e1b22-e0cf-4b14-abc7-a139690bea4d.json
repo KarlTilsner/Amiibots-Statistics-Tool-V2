@@ -106,6 +106,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2023-04-21T06:04:54.892851+00:00": {
+      "this_amiibo": {
+        "rating": 27.682501862302395,
+        "rating_mu": 36.95402151264826,
+        "rating_sigma": 3.0905065501152884,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "d02fbfc4-b6db-4538-9e46-9ef643ae8627",
+        "name": "Claude",
+        "rating": 31.341341966249498,
+        "trainer_id": "e60803e1-d2e2-4f63-af89-61a4b79fe518",
+        "trainer_name": "Eclaume",
+        "result": "loss"
+      }
+    },
+    "2023-04-23T06:12:42.286488+00:00": {
+      "this_amiibo": {
+        "rating": 29.64680607773429,
+        "rating_mu": 38.23743415984036,
+        "rating_sigma": 2.863542694035357,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "217f9903-d545-49dc-97da-69e35dc7d42d",
+        "name": "Dadidoo",
+        "rating": 35.3131934212144,
+        "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
+        "trainer_name": "YM44",
+        "result": "loss"
+      }
     }
   }
 }

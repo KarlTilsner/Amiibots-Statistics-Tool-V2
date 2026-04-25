@@ -2367,6 +2367,23 @@
         "trainer_name": "hidari_amiibo",
         "result": "loss"
       }
+    },
+    "2023-05-03T11:43:59.234946+00:00": {
+      "this_amiibo": {
+        "rating": 24.746354124824492,
+        "rating_mu": 27.464891593000495,
+        "rating_sigma": 0.9061791560586675,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "e789b28e-ab82-4ccd-b34c-b34e5a7886bc",
+        "name": "Rose",
+        "rating": 20.388947610924497,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "loss"
+      }
     }
   }
 }

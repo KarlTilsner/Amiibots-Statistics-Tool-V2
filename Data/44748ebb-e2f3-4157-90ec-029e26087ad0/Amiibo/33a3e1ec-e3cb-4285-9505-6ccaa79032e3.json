@@ -1823,6 +1823,40 @@
         "trainer_name": "eon_ii",
         "result": "loss"
       }
+    },
+    "2023-04-26T20:08:36.200758+00:00": {
+      "this_amiibo": {
+        "rating": 33.72844235513679,
+        "rating_mu": 36.806232297850286,
+        "rating_sigma": 1.025929980904498,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "a8feb8cc-708a-4c7c-af18-556596f61525",
+        "name": "Shrek",
+        "rating": 30.36481605221388,
+        "trainer_id": "c3fe3b7f-7e85-43c1-9749-435494d5d429",
+        "trainer_name": "CJMaster3",
+        "result": "loss"
+      }
+    },
+    "2023-05-02T07:49:01.042103+00:00": {
+      "this_amiibo": {
+        "rating": 33.600888388108885,
+        "rating_mu": 36.66216392015422,
+        "rating_sigma": 1.0204251773484454,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "6fb89952-f703-4668-9fab-945147947de7",
+        "name": "Resilience",
+        "rating": 30.445426218584416,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
     }
   }
 }

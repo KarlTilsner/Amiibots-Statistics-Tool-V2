@@ -157,6 +157,40 @@
         "trainer_name": "pgxmew2",
         "result": "win"
       }
+    },
+    "2023-04-21T04:36:21.836508+00:00": {
+      "this_amiibo": {
+        "rating": 22.786018477437743,
+        "rating_mu": 30.487389236474563,
+        "rating_sigma": 2.567123586345606,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "418dad5b-3f23-4f1b-adc7-5d25e2a2d006",
+        "name": "M18",
+        "rating": 26.80644291493844,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    },
+    "2023-05-03T06:05:08.065024+00:00": {
+      "this_amiibo": {
+        "rating": 22.23020376147065,
+        "rating_mu": 29.508356680613026,
+        "rating_sigma": 2.426050973047458,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "63e9bb09-be63-4cce-b3d6-5bfec41839c4",
+        "name": "Lysithea",
+        "rating": 26.447883985863562,
+        "trainer_id": "5b811e0a-9d5b-497a-91c7-0868e4e49a95",
+        "trainer_name": "early_mp",
+        "result": "win"
+      }
     }
   }
 }

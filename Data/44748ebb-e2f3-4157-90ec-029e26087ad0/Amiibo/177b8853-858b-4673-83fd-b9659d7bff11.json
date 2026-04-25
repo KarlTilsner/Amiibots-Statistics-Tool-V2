@@ -1,7 +1,7 @@
 {
   "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
   "id": "177b8853-858b-4673-83fd-b9659d7bff11",
-  "name": "bob",
+  "name": "bob 2.1",
   "trainer_id": "673481f6-f380-42e8-9567-c8ac03b22bac",
   "trainer_name": "chicken3826367",
   "matches": {
@@ -1465,6 +1465,57 @@
         "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
         "trainer_name": "traumatizedbaconbits",
         "result": "win"
+      }
+    },
+    "2023-04-30T16:15:15.175705+00:00": {
+      "this_amiibo": {
+        "rating": 23.3870216377813,
+        "rating_mu": 26.469370032831524,
+        "rating_sigma": 1.027449465016742,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "a0569687-1e22-4064-8047-e90e4935a070",
+        "name": "PusInBoots",
+        "rating": 22.336800643851344,
+        "trainer_id": "0c727e8c-96ac-48e4-8547-7f00c0eba250",
+        "trainer_name": "MrCatto98",
+        "result": "win"
+      }
+    },
+    "2023-05-01T02:48:46.021372+00:00": {
+      "this_amiibo": {
+        "rating": 23.28097608440031,
+        "rating_mu": 26.34798573550898,
+        "rating_sigma": 1.0223365503695563,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "1e5b431c-93db-4146-afb3-c6c8b59c765a",
+        "name": "Cendrillon",
+        "rating": 22.196815643043465,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
+    },
+    "2023-05-03T16:48:19.012916+00:00": {
+      "this_amiibo": {
+        "rating": 19.06812235151638,
+        "rating_mu": 26.70392161244623,
+        "rating_sigma": 2.54526642030995,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "41f6795f-1722-4681-9e0e-48e727704765",
+        "name": "Leg Eater",
+        "rating": 1.3279103718526635,
+        "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
+        "trainer_name": "Sirffuzzylogik",
+        "result": "loss"
       }
     }
   }

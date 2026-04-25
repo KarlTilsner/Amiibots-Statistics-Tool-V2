@@ -531,6 +531,40 @@
         "trainer_name": "fake_l3af",
         "result": "loss"
       }
+    },
+    "2023-04-21T13:06:07.338899+00:00": {
+      "this_amiibo": {
+        "rating": 10.325409539344086,
+        "rating_mu": 14.93367528558126,
+        "rating_sigma": 1.5360885820790575,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "50c29b30-8e04-4ee3-bcdb-077896570c3e",
+        "name": "Séadanda",
+        "rating": 5.466583019962201,
+        "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
+        "trainer_name": "leCharade",
+        "result": "loss"
+      }
+    },
+    "2023-04-28T15:09:57.474175+00:00": {
+      "this_amiibo": {
+        "rating": 10.578142110537451,
+        "rating_mu": 15.124571645996078,
+        "rating_sigma": 1.5154765118195421,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "3c758a1c-7e2b-4a5d-b2ed-f6b7cba0bd32",
+        "name": "young link",
+        "rating": 5.232166000155031,
+        "trainer_id": "a5eb3823-a703-4a48-9039-c1142b46ebde",
+        "trainer_name": "False_Justice",
+        "result": "loss"
+      }
     }
   }
 }

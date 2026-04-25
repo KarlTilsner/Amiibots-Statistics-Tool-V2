@@ -38,6 +38,23 @@
         "trainer_name": "SquallDBC",
         "result": "loss"
       }
+    },
+    "2023-04-29T18:46:33.896043+00:00": {
+      "this_amiibo": {
+        "rating": 7.531695076117426,
+        "rating_mu": 21.645629032384655,
+        "rating_sigma": 4.704644652089076,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 25.54940333264361,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "win"
+      }
     }
   }
 }

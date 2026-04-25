@@ -55,6 +55,40 @@
         "trainer_name": "False_Justice",
         "result": "loss"
       }
+    },
+    "2023-04-26T22:58:24.161205+00:00": {
+      "this_amiibo": {
+        "rating": 16.792670883662772,
+        "rating_mu": 28.469904697458617,
+        "rating_sigma": 3.892411271265282,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "134007cb-642c-41ae-9e19-5d1186766070",
+        "name": "Zangief",
+        "rating": 27.260439621790866,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "win"
+      }
+    },
+    "2023-05-05T01:04:30.332495+00:00": {
+      "this_amiibo": {
+        "rating": 19.72579977099817,
+        "rating_mu": 30.219273179112324,
+        "rating_sigma": 3.4978244693713854,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "e0a38063-19b7-4423-8a17-1e9e30918644",
+        "name": "Glutosaur",
+        "rating": 25.996030272932778,
+        "trainer_id": "2f91b438-99d4-4966-b002-9a9b4dbfaf92",
+        "trainer_name": "Klerpy",
+        "result": "loss"
+      }
     }
   }
 }

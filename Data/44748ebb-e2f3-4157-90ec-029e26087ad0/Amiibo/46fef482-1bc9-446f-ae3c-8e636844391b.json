@@ -89,6 +89,40 @@
         "trainer_name": "HyperKritical",
         "result": "loss"
       }
+    },
+    "2023-05-03T03:19:06.352588+00:00": {
+      "this_amiibo": {
+        "rating": 16.851436421791046,
+        "rating_mu": 27.895603696829827,
+        "rating_sigma": 3.6813890916795935,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "6c067ce9-c3b0-4070-9f41-e6ef718cedfc",
+        "name": "Zombo",
+        "rating": 24.56841373228917,
+        "trainer_id": "ae366d8f-bbaa-4dc9-9533-45a8dce887a1",
+        "trainer_name": "cybertsarbomba",
+        "result": "win"
+      }
+    },
+    "2023-05-04T17:44:56.035004+00:00": {
+      "this_amiibo": {
+        "rating": 19.523326580458388,
+        "rating_mu": 29.527930592799915,
+        "rating_sigma": 3.334868004113843,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+        "id": "32a21a17-c8d2-4bc7-a39c-026fc289cd20",
+        "name": "Jango Fett",
+        "rating": 25.493349042427145,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "loss"
+      }
     }
   }
 }

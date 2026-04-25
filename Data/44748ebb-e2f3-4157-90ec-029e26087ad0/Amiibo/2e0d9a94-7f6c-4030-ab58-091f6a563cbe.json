@@ -140,6 +140,40 @@
         "trainer_name": "6b_Baby",
         "result": "loss"
       }
+    },
+    "2023-04-28T09:47:16.328025+00:00": {
+      "this_amiibo": {
+        "rating": 21.274044320590427,
+        "rating_mu": 29.30189111029982,
+        "rating_sigma": 2.6759489299031314,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "18e1f243-e8e6-45d9-b256-a60878744143",
+        "name": "DeVito",
+        "rating": 27.361569091326338,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "win"
+      }
+    },
+    "2023-05-02T04:36:59.715458+00:00": {
+      "this_amiibo": {
+        "rating": 22.516085178592032,
+        "rating_mu": 30.119723988722782,
+        "rating_sigma": 2.5345462700435832,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "b8417168-aea4-4185-bdc4-7bfa32486d7b",
+        "name": "Whitney",
+        "rating": 25.993331546214378,
+        "trainer_id": "147dbdd6-0e08-4d4a-b7eb-0146fb5735f6",
+        "trainer_name": "Adam2qaz",
+        "result": "loss"
+      }
     }
   }
 }
