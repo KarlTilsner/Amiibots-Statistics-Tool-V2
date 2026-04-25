@@ -157,6 +157,74 @@
         "trainer_name": "NytrozypicRL",
         "result": "loss"
       }
+    },
+    "2023-03-12T06:13:01.947762+00:00": {
+      "this_amiibo": {
+        "rating": 25.305742987411588,
+        "rating_mu": 32.8726063427918,
+        "rating_sigma": 2.522287785126737,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "9b658703-ad0b-4f74-ab79-f2c4baf9158b",
+        "name": "7-Up",
+        "rating": 32.139129852332005,
+        "trainer_id": "ee1d9a05-9070-4b4f-ad6c-768064c23993",
+        "trainer_name": "psythe_",
+        "result": "win"
+      }
+    },
+    "2023-03-14T00:35:55.813931+00:00": {
+      "this_amiibo": {
+        "rating": 26.37683465528272,
+        "rating_mu": 33.58720238612402,
+        "rating_sigma": 2.403455910280432,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "05049ebf-4039-4fbd-8f96-6e5c872f8b14",
+        "name": "cumrag",
+        "rating": 29.502963722603067,
+        "trainer_id": "046b6cbc-d2e8-4317-a680-a2e5b4b18bb0",
+        "trainer_name": "PrinZssb",
+        "result": "loss"
+      }
+    },
+    "2023-03-15T02:54:29.187955+00:00": {
+      "this_amiibo": {
+        "rating": 25.94904094127257,
+        "rating_mu": 32.82551852778158,
+        "rating_sigma": 2.2921591955030034,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "0d878808-37d1-455e-b72f-a7c2ee4d8b79",
+        "name": "Illiterate",
+        "rating": 30.705653832127936,
+        "trainer_id": "ef09c7bb-1209-4ef1-ba32-becaa71e01e5",
+        "trainer_name": "6b_Baby",
+        "result": "win"
+      }
+    },
+    "2023-03-20T22:26:25.208097+00:00": {
+      "this_amiibo": {
+        "rating": 26.89113793888018,
+        "rating_mu": 33.48282629095008,
+        "rating_sigma": 2.1972294506899663,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "0f3052f4-84ac-4157-b021-944a7c6a23b2",
+        "name": "Lil' Molag",
+        "rating": 30.284649810367448,
+        "trainer_id": "060e12dd-a8a9-4e3d-a6e1-bd34c23446db",
+        "trainer_name": "ShadyZenith",
+        "result": "loss"
+      }
     }
   }
 }

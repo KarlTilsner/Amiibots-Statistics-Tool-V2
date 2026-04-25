@@ -38,6 +38,57 @@
         "trainer_name": "mael_de_poulet",
         "result": "loss"
       }
+    },
+    "2023-03-07T14:32:05.173509+00:00": {
+      "this_amiibo": {
+        "rating": 16.7132785788489,
+        "rating_mu": 30.37872268480264,
+        "rating_sigma": 4.555148035317913,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "30ec41db-18a9-47e2-9a96-72504e6d8bf5",
+        "name": "Caeruleum",
+        "rating": 30.101491386811826,
+        "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
+        "trainer_name": "LovingStew",
+        "result": "win"
+      }
+    },
+    "2023-03-13T07:43:57.712486+00:00": {
+      "this_amiibo": {
+        "rating": 20.78111864127701,
+        "rating_mu": 32.724417468350744,
+        "rating_sigma": 3.981099609024577,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "31af48b7-4b1b-4aa1-bbd0-bbc442696da2",
+        "name": "HAAAH!",
+        "rating": 26.49967462410589,
+        "trainer_id": "52395cd5-7302-493e-a7a9-c0cf640159cd",
+        "trainer_name": "mafriel",
+        "result": "loss"
+      }
+    },
+    "2023-03-17T09:59:58.267209+00:00": {
+      "this_amiibo": {
+        "rating": 23.446229350230084,
+        "rating_mu": 34.24639704279851,
+        "rating_sigma": 3.600055897522809,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "129f4aa8-f9e3-4beb-a571-afe2ef9abec9",
+        "name": "IGuyW",
+        "rating": 27.9939306058081,
+        "trainer_id": "a783d150-bd51-4b0c-9379-b32e55643dac",
+        "trainer_name": "iguyw",
+        "result": "loss"
+      }
     }
   }
 }

@@ -429,6 +429,57 @@
         "trainer_name": "forenmagra",
         "result": "loss"
       }
+    },
+    "2023-03-07T05:24:53.821110+00:00": {
+      "this_amiibo": {
+        "rating": 19.282647929298527,
+        "rating_mu": 24.321513212835214,
+        "rating_sigma": 1.679621761178895,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "440edb47-b9a4-41d8-bc6b-e5c7d3c25ab0",
+        "name": "Bob",
+        "rating": 10.906596777706795,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "22_woah",
+        "result": "win"
+      }
+    },
+    "2023-03-15T17:19:43.948099+00:00": {
+      "this_amiibo": {
+        "rating": 19.111243156019313,
+        "rating_mu": 24.11466041163973,
+        "rating_sigma": 1.6678057518734721,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "ab397efa-1bbb-4884-a3ad-6c9ffb8f03a9",
+        "name": "YoshIce",
+        "rating": 10.774897840715617,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "win"
+      }
+    },
+    "2023-03-15T22:14:13.927599+00:00": {
+      "this_amiibo": {
+        "rating": 19.37798315713198,
+        "rating_mu": 24.34469493602974,
+        "rating_sigma": 1.6555705929659204,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "5daad3b3-80b3-41df-9bec-497d3318f42d",
+        "name": "TundraKing",
+        "rating": 0.31599193235787126,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "loss"
+      }
     }
   }
 }

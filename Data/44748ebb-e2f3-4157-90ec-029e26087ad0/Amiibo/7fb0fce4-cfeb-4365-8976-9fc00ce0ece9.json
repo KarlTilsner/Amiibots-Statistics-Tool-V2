@@ -1381,6 +1381,91 @@
         "trainer_name": "average_videogame_user",
         "result": "loss"
       }
+    },
+    "2023-03-08T04:01:21.236765+00:00": {
+      "this_amiibo": {
+        "rating": 27.326669293105006,
+        "rating_mu": 30.284871365950643,
+        "rating_sigma": 0.9860673576152124,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "a497a285-c49a-484f-b94b-b9dc6e502911",
+        "name": "Lucifer□",
+        "rating": 24.460331526183932,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "win"
+      }
+    },
+    "2023-03-11T21:05:00.885030+00:00": {
+      "this_amiibo": {
+        "rating": 27.478484762932563,
+        "rating_mu": 30.422020217825448,
+        "rating_sigma": 0.9811784849642953,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "a497a285-c49a-484f-b94b-b9dc6e502911",
+        "name": "Lucifer□",
+        "rating": 26.006259497003057,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "loss"
+      }
+    },
+    "2023-03-12T10:18:06.004173+00:00": {
+      "this_amiibo": {
+        "rating": 27.61221747995907,
+        "rating_mu": 30.54458064198568,
+        "rating_sigma": 0.9774543873422026,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "302d727f-d6e6-43c3-8267-d686c57d3a55",
+        "name": "Seiggen",
+        "rating": 22.337928405298165,
+        "trainer_id": "28640173-1e3d-46fe-9d0c-50fe94bee266",
+        "trainer_name": "Kaze_Aze",
+        "result": "loss"
+      }
+    },
+    "2023-03-17T15:52:29.417869+00:00": {
+      "this_amiibo": {
+        "rating": 27.705878234157776,
+        "rating_mu": 30.636606132880353,
+        "rating_sigma": 0.9769092995741921,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "47031b50-a3cf-4fc0-a55c-ad661e916008",
+        "name": "SST Chad□",
+        "rating": 11.942859882936409,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "loss"
+      }
+    },
+    "2023-03-18T21:24:28.026779+00:00": {
+      "this_amiibo": {
+        "rating": 27.592189413163545,
+        "rating_mu": 30.508680315153345,
+        "rating_sigma": 0.9721636339966004,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "2ddc610f-abe9-4e43-a298-9319b181f4ab",
+        "name": "STEVE",
+        "rating": 28.10749958068454,
+        "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
+        "trainer_name": "Pi_Boy_314",
+        "result": "win"
+      }
     }
   }
 }

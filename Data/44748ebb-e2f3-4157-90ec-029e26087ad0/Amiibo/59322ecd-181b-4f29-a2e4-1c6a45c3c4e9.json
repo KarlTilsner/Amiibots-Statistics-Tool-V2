@@ -208,6 +208,40 @@
         "trainer_name": "Salty_Smash_NB",
         "result": "loss"
       }
+    },
+    "2023-03-14T00:15:47.434953+00:00": {
+      "this_amiibo": {
+        "rating": 18.46844890723218,
+        "rating_mu": 25.583003600737452,
+        "rating_sigma": 2.371518231168424,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "c1cad9d7-9f74-4a80-b156-36e04fe53d41",
+        "name": "Clone Hero",
+        "rating": 18.613690210282837,
+        "trainer_id": "01a22b9b-7ff3-4ef1-a2ae-390dfe7b2651",
+        "trainer_name": "Cosmironic",
+        "result": "loss"
+      }
+    },
+    "2023-03-19T09:44:07.823061+00:00": {
+      "this_amiibo": {
+        "rating": 17.984953099036705,
+        "rating_mu": 24.7644963708838,
+        "rating_sigma": 2.2598477572823654,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "ba5c6780-786e-4d2c-9ee5-aff1794a4075",
+        "name": "Genwunner",
+        "rating": 21.904156311536976,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
     }
   }
 }

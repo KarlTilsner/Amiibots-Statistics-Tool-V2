@@ -395,6 +395,40 @@
         "trainer_name": "Starshade71",
         "result": "loss"
       }
+    },
+    "2023-03-14T02:09:49.289479+00:00": {
+      "this_amiibo": {
+        "rating": 25.21184157614628,
+        "rating_mu": 30.418468061505976,
+        "rating_sigma": 1.7355421617865652,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "f8e53970-64c8-4c41-81eb-c327adfccaf1",
+        "name": "Apothecary",
+        "rating": 24.065730104280217,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
+    },
+    "2023-03-19T07:11:35.602714+00:00": {
+      "this_amiibo": {
+        "rating": 25.661313944686633,
+        "rating_mu": 30.75143726407053,
+        "rating_sigma": 1.6967077731279645,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "43f677a9-a396-42a1-a080-b55449355ed4",
+        "name": "Ego",
+        "rating": 26.297658196924367,
+        "trainer_id": "fe0492ad-ab1c-4d15-ad7e-94ba05390faa",
+        "trainer_name": "TheCorviking",
+        "result": "loss"
+      }
     }
   }
 }
