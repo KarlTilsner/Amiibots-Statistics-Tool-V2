@@ -1,0 +1,43 @@
+{
+  "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+  "id": "22cef91b-5218-4417-9c5a-4b08ff975754",
+  "name": "Sanctus",
+  "trainer_id": "c1461260-903f-4aae-ad42-af21e07e1e98",
+  "trainer_name": "MoonBeanBie",
+  "matches": {
+    "2022-09-02T09:47:55.168364+00:00": {
+      "this_amiibo": {
+        "rating": 0.6665687615189491,
+        "rating_mu": 20.813381181372076,
+        "rating_sigma": 6.715604139951042,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "474689ba-c001-459d-94eb-87a77fcc7235",
+        "name": "Balboa",
+        "rating": 18.909786043662738,
+        "trainer_id": "d0e3f535-e180-4251-94b6-6c528f278d1e",
+        "trainer_name": "CSharp__",
+        "result": "win"
+      }
+    },
+    "2022-09-02T23:27:24.528172+00:00": {
+      "this_amiibo": {
+        "rating": -0.14162773508218862,
+        "rating_mu": 17.672025382237766,
+        "rating_sigma": 5.937884372439985,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "d33580c3-4cc5-4b39-8773-5e92da797c2a",
+        "name": "Frogmon",
+        "rating": 5.713545873078637,
+        "trainer_id": "1285932e-d5a9-44b2-a0af-582aa5a06b3a",
+        "trainer_name": "Frogcake",
+        "result": "win"
+      }
+    }
+  }
+}

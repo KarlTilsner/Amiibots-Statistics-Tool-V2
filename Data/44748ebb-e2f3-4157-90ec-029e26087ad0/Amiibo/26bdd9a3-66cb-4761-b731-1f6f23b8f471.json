@@ -1,7 +1,7 @@
 {
   "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
   "id": "26bdd9a3-66cb-4761-b731-1f6f23b8f471",
-  "name": "TEDDY",
+  "name": "Teddy",
   "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
   "trainer_name": "leCharade",
   "matches": {
@@ -240,6 +240,74 @@
         "rating": 13.699765262614582,
         "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
         "trainer_name": "AceTempest172",
+        "result": "loss"
+      }
+    },
+    "2022-10-07T02:17:52.625089+00:00": {
+      "this_amiibo": {
+        "rating": 21.36948738245524,
+        "rating_mu": 28.25337862620715,
+        "rating_sigma": 2.29463041458397,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "90d059b9-1828-420a-8223-15c51db27de8",
+        "name": "Jessav",
+        "rating": 26.191113477390765,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "win"
+      }
+    },
+    "2022-10-15T02:40:14.408527+00:00": {
+      "this_amiibo": {
+        "rating": 17.965179141322775,
+        "rating_mu": 26.900529649161978,
+        "rating_sigma": 2.9784501692797347,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "e55749bc-6405-484e-95eb-2c9b17b74311",
+        "name": "GokenBlack",
+        "rating": 24.86889278665002,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "win"
+      }
+    },
+    "2022-10-15T13:25:16.267248+00:00": {
+      "this_amiibo": {
+        "rating": 17.437319361157087,
+        "rating_mu": 26.13647021976213,
+        "rating_sigma": 2.8997169528683475,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "c57c55c0-b826-480b-8c08-784ca40f3706",
+        "name": "Clobbered",
+        "rating": 11.836996653946787,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
+        "result": "win"
+      }
+    },
+    "2022-10-18T00:52:29.435102+00:00": {
+      "this_amiibo": {
+        "rating": 18.961966282344232,
+        "rating_mu": 27.122168782709196,
+        "rating_sigma": 2.7200675001216545,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "34ae051b-24a7-4f2d-b680-4bb1685c8ac1",
+        "name": "1 PunchMan",
+        "rating": 23.390078517121566,
+        "trainer_id": "7c20e90f-67fe-43c5-a623-83c60ef05858",
+        "trainer_name": "Zizogod",
         "result": "loss"
       }
     }

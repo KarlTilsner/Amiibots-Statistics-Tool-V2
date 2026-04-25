@@ -1,7 +1,7 @@
 {
   "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
   "id": "2b1b6ad6-52d9-4749-b662-37e1af80bcc2",
-  "name": "CHIP&DALE",
+  "name": "Chip&Dale",
   "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
   "trainer_name": "leCharade",
   "matches": {
@@ -223,6 +223,40 @@
         "rating": 34.33605415450941,
         "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
         "trainer_name": "Competitively2",
+        "result": "win"
+      }
+    },
+    "2022-10-14T13:27:39.838256+00:00": {
+      "this_amiibo": {
+        "rating": 13.645607429557591,
+        "rating_mu": 23.594915390077787,
+        "rating_sigma": 3.3164359868400655,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
+        "id": "21774798-2078-4422-bcc4-33a3edd6ea91",
+        "name": "Pink Furby",
+        "rating": 12.192487717056661,
+        "trainer_id": "12089c7d-a8c3-435e-bcb1-c9e632a15e4b",
+        "trainer_name": "zornchist",
+        "result": "loss"
+      }
+    },
+    "2022-10-15T14:51:52.065097+00:00": {
+      "this_amiibo": {
+        "rating": 13.19964171591451,
+        "rating_mu": 22.4621140023674,
+        "rating_sigma": 3.0874907621509635,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "a29bb503-5b4d-41f4-be5c-f023de6794eb",
+        "name": "Bread",
+        "rating": 18.56947838142945,
+        "trainer_id": "9863ac87-9ad3-4ebc-858c-3f0a6f5adafa",
+        "trainer_name": "swagginwaggin",
         "result": "win"
       }
     }

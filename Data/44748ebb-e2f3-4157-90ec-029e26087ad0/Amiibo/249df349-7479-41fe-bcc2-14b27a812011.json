@@ -752,6 +752,74 @@
         "trainer_name": "early_mp",
         "result": "loss"
       }
+    },
+    "2022-08-04T08:20:34.359546+00:00": {
+      "this_amiibo": {
+        "rating": 33.51980710282846,
+        "rating_mu": 38.198189257746066,
+        "rating_sigma": 1.5594607183058684,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "68264c09-d70f-452c-9ec3-ac8404b0a085",
+        "name": "HalfMario",
+        "rating": 32.779208003548824,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
+        "result": "loss"
+      }
+    },
+    "2022-08-19T19:34:46.761314+00:00": {
+      "this_amiibo": {
+        "rating": 33.89450821798901,
+        "rating_mu": 38.50346382176518,
+        "rating_sigma": 1.5363185345920574,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "5ba0e1ce-eb0d-4826-8c76-cce11040a000",
+        "name": "VGC2019",
+        "rating": 27.615727719687534,
+        "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+        "trainer_name": "Competitively2",
+        "result": "loss"
+      }
+    },
+    "2022-09-23T07:13:49.281514+00:00": {
+      "this_amiibo": {
+        "rating": 34.24861846884986,
+        "rating_mu": 38.78640497272461,
+        "rating_sigma": 1.5125955012915837,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "28524a92-e3fd-4c6f-abb9-3a2eff37df76",
+        "name": "Kratos",
+        "rating": 29.591107096551955,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "loss"
+      }
+    },
+    "2022-10-08T09:35:26.352008+00:00": {
+      "this_amiibo": {
+        "rating": 34.04318498212776,
+        "rating_mu": 38.506580110636186,
+        "rating_sigma": 1.4877983761694753,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
+        "id": "25067a40-37a1-4d66-9a5e-37debec8e8a2",
+        "name": "Ram Watt",
+        "rating": 33.787482761382314,
+        "trainer_id": "ef09c7bb-1209-4ef1-ba32-becaa71e01e5",
+        "trainer_name": "6b_Baby",
+        "result": "win"
+      }
     }
   }
 }

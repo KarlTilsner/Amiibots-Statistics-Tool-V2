@@ -21,6 +21,57 @@
         "trainer_name": "qscxz512",
         "result": "loss"
       }
+    },
+    "2022-08-22T15:29:11.309091+00:00": {
+      "this_amiibo": {
+        "rating": 13.617489134455468,
+        "rating_mu": 28.91688558685441,
+        "rating_sigma": 5.099798817466314,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "193d5f89-3f88-4ef4-9dc1-00e6f32b26c4",
+        "name": "Eragon",
+        "rating": 31.230000918401153,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2022-09-25T08:06:14.368429+00:00": {
+      "this_amiibo": {
+        "rating": 18.472245529672087,
+        "rating_mu": 31.590805128591413,
+        "rating_sigma": 4.372853199639775,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "0bcf4229-70c5-4611-b4ef-322e4df1d3c9",
+        "name": "HelloMario",
+        "rating": 24.32252815119097,
+        "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
+        "trainer_name": "schmorchid",
+        "result": "loss"
+      }
+    },
+    "2022-10-19T15:09:48.586023+00:00": {
+      "this_amiibo": {
+        "rating": 23.094386250935855,
+        "rating_mu": 34.44422433533577,
+        "rating_sigma": 3.783279361466637,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "c826453a-9b22-47d9-b06c-8466106ba9f2",
+        "name": "wumbology",
+        "rating": 31.608232764228262,
+        "trainer_id": "5c6fabea-f6b5-4c64-84fd-afe78dd35a32",
+        "trainer_name": "islabecausewhynot",
+        "result": "loss"
+      }
     }
   }
 }
