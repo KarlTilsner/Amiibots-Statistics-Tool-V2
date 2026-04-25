@@ -121,7 +121,7 @@ function nameSearchBar() {
 
             // Put image onto the listed item when amiibots is fixed
             list += (
-                `<div class="list_item ${status}" id="list_item_searchable" onclick="updateStatsSearch('${index.amiibo_id}'), addAmiiboToSearchHistory('${index.trainer_name}', '${index.amiibo_name}', '${index.amiibo_id}', '${index.character_id}', '${window.localStorage.getItem(window.localStorage.getItem("Name Search Tool Ruleset"))}', '${new Date()}')">
+                `<div class="list_item ${status}" id="list_item_searchable" onclick="updateStatsSearch('${index.amiibo_id}'), addAmiiboToSearchHistory('${index.trainer_name}', '${index.amiibo_name}', '${index.amiibo_id}', '${index.character_id}', '${window.localStorage.getItem("Global_Ruleset")}', '${new Date()}')">
 
                 <img src="./images/${characterIcon}" class="list_image">
 

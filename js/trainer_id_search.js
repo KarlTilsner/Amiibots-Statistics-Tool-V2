@@ -9,18 +9,14 @@ let ruleset_id = '';
 //--------------------------------------------------------------------------------------------------------------------------------------------------------- 
 async function main() {
     ruleset_id = document.getElementById("selectTierDropdown").value;
-    console.log('Ruleset: ', ruleset_id);
 
     // get all amiibo
     async function get_all_amiibo() {
-        console.log("Getting trainers");
         const url = `https://www.amiibots.com/api/amiibo?per_page=${Number.MAX_SAFE_INTEGER}&ruleset_id=${ruleset_id}`;
         const query = await fetch(url);
         const response = await query.json();
 
         const data = response.data.map(index => index);
-
-        console.log("Got all trainers");
         return data;
     }
     const all_amiibo = await get_all_amiibo();
@@ -34,8 +30,6 @@ async function main() {
             });
         }
     });
-
-    console.log(unique_trainers);
 
     await printCharacterLeaderboard();
 }

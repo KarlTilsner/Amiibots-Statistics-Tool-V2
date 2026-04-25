@@ -10,7 +10,7 @@ self.onmessage = async function (matchups_data_message) {
     async function getTierlistOrder() {
         const order = [];
 
-        const url = `https://www.amiibots.com/api/tier_list/first_dataset_of_given_month?ruleset_id=${amiibo_ruleset}`;
+        const url = `/Data/${amiibo_ruleset}/tierlist.json`;
         const query = await fetch(url);
         const response = await query.json();
 

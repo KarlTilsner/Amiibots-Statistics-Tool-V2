@@ -110,10 +110,8 @@ async function characterMatchup(selectedOption) {
     //---------------------------------------------------------------------------------------------------------------------------------------------------------
     async function createMatchupChart() {
         // Push specific amiibo data into array for matchup chart
-        const matchups_query = await fetch(`./Data/${window.localStorage.getItem('Global_Ruleset')}/matchups.json`);
+        const matchups_query = await fetch(`/Data/${window.localStorage.getItem('Global_Ruleset')}/matchups.json`);
         const matchups_data = await matchups_query.json();
-
-        console.log("matchups_data:", matchups_data);
 
         // Data for amiibo card
         let specified_character_rating = 0;
@@ -164,14 +162,12 @@ async function characterMatchup(selectedOption) {
         highestRatedHistory = [];
 
         // Push specified amiibo data into array for rating history chart
-        const rating_history_query = await fetch(`./Data/${window.localStorage.getItem('Global_Ruleset')}/Rating_History/${specifiedCharacter_name} Rating History.json`);
+        const rating_history_query = await fetch(`/Data/${window.localStorage.getItem('Global_Ruleset')}/Rating_History/${specifiedCharacter_name} Rating History.json`);
         const rating_history_data = await rating_history_query.json();
-        console.log("rating_history_data:", rating_history_data);
 
         // Latest trainer names
-        const trainer_names_query = await fetch(`./Data/${window.localStorage.getItem('Global_Ruleset')}/unique_trainers.json`);
+        const trainer_names_query = await fetch(`/Data/${window.localStorage.getItem('Global_Ruleset')}/unique_trainers.json`);
         const trainer_names = await trainer_names_query.json();
-        console.log("Latest trainer names:", trainer_names);
 
         // get highest rating
         let highest_rating = 0;
@@ -207,7 +203,6 @@ async function characterMatchup(selectedOption) {
 
             const sortedResults = Object.values(trainerIdCounts);
             sortedResults.sort((a, b) => b.days - a.days);
-            console.log("Tally of trainer_ids:", sortedResults);
 
             document.getElementById('list_longest_streak_trainer').innerText = sortedResults[0].trainer_name;
             document.getElementById('list_longest_streak').innerText = `~${sortedResults[0].days} Days`;
@@ -304,7 +299,6 @@ async function characterMatchup(selectedOption) {
                 yAxis_rating.push(trainerGraphRatingData[i][x]);
             }
 
-            // console.log(yAxis_rating);
             await getRandomColor();
 
             const newDataset = {
@@ -460,7 +454,6 @@ function sortMatchupChartData(sortType) {
         }
     }
 
-    console.log(matchupChart_characterPlayed_data);
     drawCharts('sorted');
 }
 

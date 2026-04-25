@@ -13,7 +13,6 @@ async function main() {
 
     // Getting ruleset
     ruleset_id = window.localStorage.getItem("Global_Ruleset");
-    console.log('Ruleset: ', ruleset_id);
 
     // get all amiibo
     async function get_all_amiibo() {
@@ -21,7 +20,6 @@ async function main() {
         const file = await res.json();
         const data = file.filter(index => index.match_selection_status !== "INACTIVE");
 
-        console.log(data);
         return data;
     }
     const all_amiibo = await get_all_amiibo();
@@ -95,7 +93,6 @@ async function main() {
         const query = await fetch(url);
         const data = await query.json();
 
-        console.log("Got points system");
         return data;
     }
     const points_system = await get_points();
@@ -132,8 +129,6 @@ async function main() {
             trainer.rank = rank;
         }
     });
-
-    console.log("🚀 ~ main ~ all_trainer_data:", all_trainer_data);
 
     await printCharacterLeaderboard();
 }

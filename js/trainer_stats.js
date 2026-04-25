@@ -349,7 +349,7 @@ async function trainerStats() {
 
                 // Put image onto the listed item when amiibots is fixed
                 list += (
-                    `<div class="list_item ${status}" id="list_item_searchable" onclick="updateStatsSearch('${index.id}'), addAmiiboToSearchHistory('${index.user.twitch_user_name}', '${index.name}', '${index.id}', '${index.playable_character_id}', '${window.localStorage.getItem(window.localStorage.getItem("Name Search Tool Ruleset"))}', '${new Date()}')">
+                    `<div class="list_item ${status}" id="list_item_searchable" onclick="updateStatsSearch('${index.id}'), addAmiiboToSearchHistory('${index.user.twitch_user_name}', '${index.name}', '${index.id}', '${index.playable_character_id}', '${window.localStorage.getItem("Global_Ruleset")}', '${new Date()}')">
 
                     <img src="./images/${characterIcon}" class="list_image">
 

@@ -62,8 +62,6 @@ async function generateTierList(match_count) {
             }
         }
 
-        // console.log(temp);
-
         if (temp.length != 0) {
             tier_list_character_name.push(all_character_names[i]);
             tier_list_character_id.push(all_character_id[i]);

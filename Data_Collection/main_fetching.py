@@ -4,6 +4,8 @@ import all_characters as ac
 import fetch_rulesets as fr
 import fetch_matches as fm
 import fetch_leaderboard as fl
+import fetch_tierlist as ft
+
 
 
 
@@ -19,7 +21,8 @@ def main():
         print(f"Fetching data for ruleset: {ruleset['name']}")
         fm.main(ruleset["id"])
         fl.main(ruleset["id"])
-    
+        ft.main(ruleset["id"])
+        
     print("All data fetching complete. \n")
 
 
