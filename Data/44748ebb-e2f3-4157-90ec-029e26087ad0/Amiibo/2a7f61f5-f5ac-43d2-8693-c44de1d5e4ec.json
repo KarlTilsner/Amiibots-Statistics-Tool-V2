@@ -497,6 +497,40 @@
         "trainer_name": "nozzly",
         "result": "win"
       }
+    },
+    "2022-11-19T18:24:52.228996+00:00": {
+      "this_amiibo": {
+        "rating": 35.75335613124478,
+        "rating_mu": 40.217627333870944,
+        "rating_sigma": 1.488090400875388,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "4ffd800b-dd94-4b05-83e1-98f3e8d3444d",
+        "name": "LooksRawr",
+        "rating": 27.00298275181617,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_link",
+        "result": "loss"
+      }
+    },
+    "2022-11-21T09:09:47.815815+00:00": {
+      "this_amiibo": {
+        "rating": 35.514978876901154,
+        "rating_mu": 39.90001999857296,
+        "rating_sigma": 1.4616803738906008,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "efda04f6-f2a2-45af-886f-0b0dc2329b63",
+        "name": "Morgott",
+        "rating": 35.62695905937329,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "win"
+      }
     }
   }
 }

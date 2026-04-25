@@ -55,6 +55,40 @@
         "trainer_name": "leCharade",
         "result": "loss"
       }
+    },
+    "2022-11-07T20:39:20.453107+00:00": {
+      "this_amiibo": {
+        "rating": 21.621739983421726,
+        "rating_mu": 33.236685015462214,
+        "rating_sigma": 3.8716483440134954,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "826ea50c-9da8-4326-bf4c-a2a3dabe2379",
+        "name": "Sinestro",
+        "rating": 30.555725225949715,
+        "trainer_id": "f346091f-8917-49bc-b479-b0c568026dbf",
+        "trainer_name": "RazorForce21",
+        "result": "win"
+      }
+    },
+    "2022-11-17T20:37:04.600681+00:00": {
+      "this_amiibo": {
+        "rating": 24.262085340022082,
+        "rating_mu": 34.77513522218566,
+        "rating_sigma": 3.504349960721193,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "81e3a548-fe5c-482b-8421-b3b068a329b5",
+        "name": "bet",
+        "rating": 29.39649240883368,
+        "trainer_id": "36312709-4ad7-419b-8db4-3a8c210cded0",
+        "trainer_name": "circuit404",
+        "result": "loss"
+      }
     }
   }
 }

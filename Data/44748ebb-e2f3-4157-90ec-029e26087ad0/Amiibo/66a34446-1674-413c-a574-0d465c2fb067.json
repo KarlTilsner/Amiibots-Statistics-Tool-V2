@@ -2282,6 +2282,74 @@
         "trainer_name": "AlexanderAgne",
         "result": "loss"
       }
+    },
+    "2022-11-15T01:22:54.776715+00:00": {
+      "this_amiibo": {
+        "rating": 32.98322154416901,
+        "rating_mu": 35.57446988116648,
+        "rating_sigma": 0.8637494456658215,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "0f54afff-2070-4dc3-b9da-0e9412b5c4dd",
+        "name": "Arya",
+        "rating": 33.85729609946774,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2022-11-16T06:15:37.331678+00:00": {
+      "this_amiibo": {
+        "rating": 33.0989369636606,
+        "rating_mu": 35.684196410361515,
+        "rating_sigma": 0.8617531489003053,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "0f54afff-2070-4dc3-b9da-0e9412b5c4dd",
+        "name": "Arya",
+        "rating": 33.78862766733185,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "loss"
+      }
+    },
+    "2022-11-17T06:11:40.475077+00:00": {
+      "this_amiibo": {
+        "rating": 33.18879184965861,
+        "rating_mu": 35.774493171143156,
+        "rating_sigma": 0.8619004404948492,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "1e5c0da8-9cda-46c2-b308-e967c0d6cdb1",
+        "name": "Power",
+        "rating": 22.518515522143453,
+        "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
+        "trainer_name": "soysauce881",
+        "result": "loss"
+      }
+    },
+    "2022-11-21T13:37:57.746038+00:00": {
+      "this_amiibo": {
+        "rating": 33.27654709617227,
+        "rating_mu": 35.85943541015545,
+        "rating_sigma": 0.8609627713277258,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "bded0d9c-9758-4450-9426-46e85d1216b4",
+        "name": "Apothecary",
+        "rating": 28.381639810776832,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "loss"
+      }
     }
   }
 }

@@ -5172,6 +5172,57 @@
         "trainer_name": "AmiibotsCurseDistributor_",
         "result": "loss"
       }
+    },
+    "2022-11-08T21:44:24.659843+00:00": {
+      "this_amiibo": {
+        "rating": 32.36214886863725,
+        "rating_mu": 34.79032669639407,
+        "rating_sigma": 0.809392609252273,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "e9502a7c-80a0-43e3-88be-2384ca2b5bed",
+        "name": "Adzuki",
+        "rating": 31.51226462938852,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
+    },
+    "2022-11-09T20:08:36.263926+00:00": {
+      "this_amiibo": {
+        "rating": 32.44465015474217,
+        "rating_mu": 34.8730360789399,
+        "rating_sigma": 0.8094619747325765,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "21e500d0-4e99-4113-a5d6-2a20656fc237",
+        "name": "Spamton",
+        "rating": 27.400829388396886,
+        "trainer_id": "a3306550-987d-4dc8-8865-9daed393f9e8",
+        "trainer_name": "VertixSSB",
+        "result": "loss"
+      }
+    },
+    "2022-11-19T17:56:20.695683+00:00": {
+      "this_amiibo": {
+        "rating": 32.40048584699657,
+        "rating_mu": 34.83250170051865,
+        "rating_sigma": 0.8106719511740266,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "0cf9bf55-c6b5-4874-888e-f8dd7ffa1056",
+        "name": "Waterboy",
+        "rating": 34.67532702349682,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_link",
+        "result": "win"
+      }
     }
   }
 }

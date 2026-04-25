@@ -820,6 +820,57 @@
         "trainer_name": "SuperAndromeda",
         "result": "win"
       }
+    },
+    "2022-11-08T11:24:22.646352+00:00": {
+      "this_amiibo": {
+        "rating": 7.099955635336099,
+        "rating_mu": 10.978339143935084,
+        "rating_sigma": 1.2927945028663286,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "b2e71946-2988-4645-8b21-d70e69390461",
+        "name": "Mr. Cronk",
+        "rating": 4.111007506355886,
+        "trainer_id": "2f91b438-99d4-4966-b002-9a9b4dbfaf92",
+        "trainer_name": "Klerpy",
+        "result": "loss"
+      }
+    },
+    "2022-11-15T01:00:44.822188+00:00": {
+      "this_amiibo": {
+        "rating": 6.961287478845698,
+        "rating_mu": 10.802118492831799,
+        "rating_sigma": 1.2802770046620338,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
+        "id": "5c254849-057d-4018-9502-125f7e94a5cc",
+        "name": "Joseph",
+        "rating": 5.558522352638875,
+        "trainer_id": "a36d4526-a1b2-4467-98f6-9fd436380847",
+        "trainer_name": "tinygreennerd",
+        "result": "win"
+      }
+    },
+    "2022-11-15T10:49:24.500257+00:00": {
+      "this_amiibo": {
+        "rating": 6.841012556375646,
+        "rating_mu": 10.647514584584062,
+        "rating_sigma": 1.2688340094028054,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
+        "id": "5c254849-057d-4018-9502-125f7e94a5cc",
+        "name": "Joseph",
+        "rating": 6.397553845134016,
+        "trainer_id": "a36d4526-a1b2-4467-98f6-9fd436380847",
+        "trainer_name": "tinygreennerd",
+        "result": "win"
+      }
     }
   }
 }

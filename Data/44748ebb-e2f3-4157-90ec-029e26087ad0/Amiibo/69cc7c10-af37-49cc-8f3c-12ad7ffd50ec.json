@@ -412,6 +412,40 @@
         "trainer_name": "eon_ii",
         "result": "loss"
       }
+    },
+    "2022-11-21T02:03:02.391012+00:00": {
+      "this_amiibo": {
+        "rating": 29.902120933677438,
+        "rating_mu": 34.70742092571366,
+        "rating_sigma": 1.601766664012075,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "0d878808-37d1-455e-b72f-a7c2ee4d8b79",
+        "name": "Illiterate",
+        "rating": 30.20684894649359,
+        "trainer_id": "ef09c7bb-1209-4ef1-ba32-becaa71e01e5",
+        "trainer_name": "6b_Baby",
+        "result": "win"
+      }
+    },
+    "2022-11-21T13:29:03.009317+00:00": {
+      "this_amiibo": {
+        "rating": 29.706489554084108,
+        "rating_mu": 34.42005861183149,
+        "rating_sigma": 1.5711896859157943,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "0f54afff-2070-4dc3-b9da-0e9412b5c4dd",
+        "name": "Arya",
+        "rating": 33.48242407372912,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
     }
   }
 }

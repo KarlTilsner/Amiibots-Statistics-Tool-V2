@@ -990,6 +990,40 @@
         "trainer_name": "AmiiboDoctor",
         "result": "loss"
       }
+    },
+    "2022-11-10T01:30:37.238686+00:00": {
+      "this_amiibo": {
+        "rating": 19.999739609971044,
+        "rating_mu": 23.35770433910415,
+        "rating_sigma": 1.1193215763777022,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "c45f5369-cae4-4f99-8fff-16f14e6ca397",
+        "name": "Cute Charm",
+        "rating": 11.28234297490728,
+        "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
+        "trainer_name": "CikadaKing",
+        "result": "win"
+      }
+    },
+    "2022-11-16T21:52:13.052013+00:00": {
+      "this_amiibo": {
+        "rating": 19.875461706439168,
+        "rating_mu": 23.207899240809933,
+        "rating_sigma": 1.110812511456922,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+        "id": "1da8ef1a-63ef-49f5-ad21-76f90341fdff",
+        "name": "Slapperoni",
+        "rating": 20.652309178519307,
+        "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
+        "trainer_name": "raid_boss_09",
+        "result": "win"
+      }
     }
   }
 }

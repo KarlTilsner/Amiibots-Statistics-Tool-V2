@@ -21,6 +21,40 @@
         "trainer_name": "HD_ssbu",
         "result": "loss"
       }
+    },
+    "2022-11-11T11:55:41.704167+00:00": {
+      "this_amiibo": {
+        "rating": 11.237603562622237,
+        "rating_mu": 26.983953201387813,
+        "rating_sigma": 5.248783212921858,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "50716ded-4294-4a04-bc92-c747446b03f4",
+        "name": "Angela",
+        "rating": 28.51270559198884,
+        "trainer_id": "24cb89b6-cc33-48ac-89c6-efbaa138f42e",
+        "trainer_name": "hidari_amiibo",
+        "result": "win"
+      }
+    },
+    "2022-11-15T05:14:14.937100+00:00": {
+      "this_amiibo": {
+        "rating": 17.110269636434385,
+        "rating_mu": 30.290781001882145,
+        "rating_sigma": 4.393503788482587,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "8b75f161-c354-40e3-ae2e-8650ec14c7f7",
+        "name": "Blue2",
+        "rating": 26.275246617014425,
+        "trainer_id": "4e5c570d-b1a0-46f7-a6a7-ce9b5b125a30",
+        "trainer_name": "BIue_2",
+        "result": "loss"
+      }
     }
   }
 }

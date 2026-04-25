@@ -1194,6 +1194,57 @@
         "trainer_name": "eripai",
         "result": "loss"
       }
+    },
+    "2022-11-08T00:55:44.235480+00:00": {
+      "this_amiibo": {
+        "rating": 21.217382660765274,
+        "rating_mu": 24.375913289516067,
+        "rating_sigma": 1.0528435429169307,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "77c5e7b5-0dd8-40c1-9557-1cd19356fc88",
+        "name": "Zelda",
+        "rating": 21.329983775527733,
+        "trainer_id": "dd6555fd-a19c-44f9-8e49-d533db72a667",
+        "trainer_name": "zorua_trees",
+        "result": "loss"
+      }
+    },
+    "2022-11-08T07:12:55.779929+00:00": {
+      "this_amiibo": {
+        "rating": 21.066725155620723,
+        "rating_mu": 24.20271219310284,
+        "rating_sigma": 1.0453290124940393,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "67da7bd9-0937-4ddd-8970-0d4afb14fecf",
+        "name": "Yharim□",
+        "rating": 19.444987200528853,
+        "trainer_id": "16758325-89ed-4978-8cc3-f2615f304f84",
+        "trainer_name": "tiefighter450",
+        "result": "win"
+      }
+    },
+    "2022-11-12T12:52:30.363226+00:00": {
+      "this_amiibo": {
+        "rating": 20.87778287445432,
+        "rating_mu": 23.989148670426278,
+        "rating_sigma": 1.0371219319906526,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "6c31e4a4-945b-4364-a715-10343db97a3b",
+        "name": "$15",
+        "rating": 17.477082811326678,
+        "trainer_id": "9f081e0c-1317-4179-b93f-a0180990f77e",
+        "trainer_name": "cmdpromptcat",
+        "result": "win"
+      }
     }
   }
 }

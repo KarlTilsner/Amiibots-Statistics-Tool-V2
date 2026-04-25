@@ -1,7 +1,7 @@
 {
   "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
   "id": "06adafb8-790b-486a-9c63-bbd49fd6f64a",
-  "name": "PEDRO",
+  "name": "Pedro",
   "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
   "trainer_name": "leCharade",
   "matches": {
@@ -223,6 +223,23 @@
         "rating": 17.855624916219853,
         "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
         "trainer_name": "Lucina_Nadine",
+        "result": "loss"
+      }
+    },
+    "2022-11-09T02:17:54.135775+00:00": {
+      "this_amiibo": {
+        "rating": 13.171374464042561,
+        "rating_mu": 23.146131253220872,
+        "rating_sigma": 3.324918929726104,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
+        "id": "14baaf85-0c12-44e1-bef5-54fef9cde674",
+        "name": "meta sonic",
+        "rating": 16.376749951773917,
+        "trainer_id": "8e290d89-5484-46ab-b222-914c45b7b11c",
+        "trainer_name": "pixel_gunners",
         "result": "loss"
       }
     }

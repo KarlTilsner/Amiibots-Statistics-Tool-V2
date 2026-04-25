@@ -480,6 +480,57 @@
         "trainer_name": "hidari_amiibo",
         "result": "loss"
       }
+    },
+    "2022-11-10T13:11:02.600506+00:00": {
+      "this_amiibo": {
+        "rating": 29.51334084877795,
+        "rating_mu": 34.01249704867347,
+        "rating_sigma": 1.4997187332985054,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "8baefe13-6cbf-4fd9-a7ce-6207e2016981",
+        "name": "poop",
+        "rating": 30.130992178023277,
+        "trainer_id": "bd07a343-f51b-4804-836e-c1461c87ce83",
+        "trainer_name": "PikaPoooool",
+        "result": "loss"
+      }
+    },
+    "2022-11-11T18:47:09.782547+00:00": {
+      "this_amiibo": {
+        "rating": 29.36105489046782,
+        "rating_mu": 33.794568444830176,
+        "rating_sigma": 1.4778378514541193,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "b216c6b8-7cc4-416a-a19d-b5821c799ee4",
+        "name": "CASH MONEY",
+        "rating": 31.411600764163246,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "average_videogame_user",
+        "result": "win"
+      }
+    },
+    "2022-11-15T11:26:43.363706+00:00": {
+      "this_amiibo": {
+        "rating": 29.20441876982546,
+        "rating_mu": 33.57056169980054,
+        "rating_sigma": 1.4553809766583607,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "e9522ddb-5c2d-410c-b528-d84d5d3a1a05",
+        "name": "Brian",
+        "rating": 33.11811406098166,
+        "trainer_id": "259c6c07-f590-4aba-8069-85a64f78c6f3",
+        "trainer_name": "massivmann",
+        "result": "win"
+      }
     }
   }
 }

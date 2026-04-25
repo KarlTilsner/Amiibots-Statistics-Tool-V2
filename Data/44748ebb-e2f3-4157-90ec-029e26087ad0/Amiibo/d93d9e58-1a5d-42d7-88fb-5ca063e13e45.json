@@ -1279,6 +1279,40 @@
         "trainer_name": "eon_ii",
         "result": "loss"
       }
+    },
+    "2022-11-08T18:51:29.756159+00:00": {
+      "this_amiibo": {
+        "rating": 32.50209643139947,
+        "rating_mu": 35.71012619185703,
+        "rating_sigma": 1.0693432534858518,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "0f54afff-2070-4dc3-b9da-0e9412b5c4dd",
+        "name": "Arya",
+        "rating": 33.511777405689244,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2022-11-15T08:22:03.187750+00:00": {
+      "this_amiibo": {
+        "rating": 32.38856846613888,
+        "rating_mu": 35.58162660138189,
+        "rating_sigma": 1.0643527117476717,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "6409857d-1683-49ee-9b8f-5a671d1cb17d",
+        "name": "Tenten",
+        "rating": 28.04558584099083,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
     }
   }
 }

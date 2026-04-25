@@ -361,6 +361,23 @@
         "trainer_name": "gotelin_",
         "result": "win"
       }
+    },
+    "2022-11-06T20:48:20.616254+00:00": {
+      "this_amiibo": {
+        "rating": 22.4776438564319,
+        "rating_mu": 28.2520219962535,
+        "rating_sigma": 1.9247927132738665,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 25.719015073853885,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "win"
+      }
     }
   }
 }

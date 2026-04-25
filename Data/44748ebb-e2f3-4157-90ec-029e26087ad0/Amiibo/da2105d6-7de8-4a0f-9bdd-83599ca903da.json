@@ -208,6 +208,74 @@
         "trainer_name": "RockMyRole",
         "result": "loss"
       }
+    },
+    "2022-11-08T22:13:12.034826+00:00": {
+      "this_amiibo": {
+        "rating": 13.477426880461554,
+        "rating_mu": 20.972440807088923,
+        "rating_sigma": 2.498337975542456,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
+        "id": "4b6720fc-2f2d-4d37-b1e8-bc223e34e2e3",
+        "name": "Samurai X",
+        "rating": 22.49361464070995,
+        "trainer_id": "3e1642f4-3a61-4225-bd2d-d551616be0fa",
+        "trainer_name": "doopfizzle",
+        "result": "win"
+      }
+    },
+    "2022-11-13T15:15:31.604039+00:00": {
+      "this_amiibo": {
+        "rating": 12.71302676972471,
+        "rating_mu": 19.806436507939576,
+        "rating_sigma": 2.3644699127382887,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "5ee5cb65-27f4-45c8-9a25-5c9d6a7a6bf9",
+        "name": "Monke",
+        "rating": 11.729540894896504,
+        "trainer_id": "ce05ce46-bd9b-4fcb-a528-d04de1f9fef7",
+        "trainer_name": "AqueousBlue",
+        "result": "win"
+      }
+    },
+    "2022-11-17T08:45:02.642250+00:00": {
+      "this_amiibo": {
+        "rating": 13.575492419526105,
+        "rating_mu": 20.38446619794792,
+        "rating_sigma": 2.2696579261406047,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
+        "id": "a62542ea-0427-4662-8d58-89e337d4e3e5",
+        "name": "Curve",
+        "rating": 15.67556324890806,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    },
+    "2022-11-17T15:57:23.573860+00:00": {
+      "this_amiibo": {
+        "rating": 14.471092313392633,
+        "rating_mu": 21.009701642305338,
+        "rating_sigma": 2.1795364429709014,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "b5b2524b-2ec2-40df-ab24-585304891425",
+        "name": "Legiana",
+        "rating": 16.822907115402092,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
     }
   }
 }

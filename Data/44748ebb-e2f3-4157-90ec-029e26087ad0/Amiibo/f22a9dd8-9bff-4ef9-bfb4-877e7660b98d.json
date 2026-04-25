@@ -888,6 +888,40 @@
         "trainer_name": "marble_787",
         "result": "loss"
       }
+    },
+    "2022-11-10T08:41:12.590644+00:00": {
+      "this_amiibo": {
+        "rating": 25.23226165915923,
+        "rating_mu": 28.95055088663606,
+        "rating_sigma": 1.2394297424922756,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "458406b1-20f9-4585-b631-f27daab063df",
+        "name": "Man Fox",
+        "rating": 20.1041828617579,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "average_videogame_user",
+        "result": "win"
+      }
+    },
+    "2022-11-21T04:05:40.861069+00:00": {
+      "this_amiibo": {
+        "rating": 25.470555816089018,
+        "rating_mu": 29.148123633943786,
+        "rating_sigma": 1.2258559392849224,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "be0dcb2d-f375-4841-b1c7-095207663a77",
+        "name": "CupKnight",
+        "rating": 25.8504551407663,
+        "trainer_id": "0dac8a24-5ed7-4fc9-9c00-5674617b4fab",
+        "trainer_name": "JohnLML123",
+        "result": "loss"
+      }
     }
   }
 }

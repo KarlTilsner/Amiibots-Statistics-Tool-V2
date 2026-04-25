@@ -191,6 +191,74 @@
         "trainer_name": "gold_dxj",
         "result": "loss"
       }
+    },
+    "2022-11-11T13:50:51.240131+00:00": {
+      "this_amiibo": {
+        "rating": 26.370917973007806,
+        "rating_mu": 33.33021824632202,
+        "rating_sigma": 2.3197667577714043,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "5410702b-8203-4cf9-b31c-c3b7678ce952",
+        "name": "Trouser",
+        "rating": 32.89279247330569,
+        "trainer_id": "45948f53-c2e7-49f5-8139-57ec762150f0",
+        "trainer_name": "SSB_Fear",
+        "result": "win"
+      }
+    },
+    "2022-11-12T08:34:18.311750+00:00": {
+      "this_amiibo": {
+        "rating": 25.915595361563483,
+        "rating_mu": 32.57527219900716,
+        "rating_sigma": 2.2198922791478917,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "e770ea47-34a5-4658-b58d-0d83486de9e8",
+        "name": "Kaiser Ali",
+        "rating": 28.0085204791065,
+        "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
+        "trainer_name": "leCharade",
+        "result": "win"
+      }
+    },
+    "2022-11-16T08:01:31.538194+00:00": {
+      "this_amiibo": {
+        "rating": 26.842305630648276,
+        "rating_mu": 33.2371128310859,
+        "rating_sigma": 2.131602400145875,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "d4731467-583f-4791-aa26-518bc32e039b",
+        "name": "Crynet",
+        "rating": 29.75278037760711,
+        "trainer_id": "13b7a54b-104c-4718-9ba1-886046130b4a",
+        "trainer_name": "Vulkyz_",
+        "result": "loss"
+      }
+    },
+    "2022-11-20T08:22:29.828283+00:00": {
+      "this_amiibo": {
+        "rating": 27.61592719350854,
+        "rating_mu": 33.784344390894375,
+        "rating_sigma": 2.056139065795279,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "7f7cbad3-9943-40a8-99e5-482e9369fa8d",
+        "name": "CYBERSANS",
+        "rating": 30.279199531402547,
+        "trainer_id": "05eacb7f-fff7-4c14-ab1d-129195051d66",
+        "trainer_name": "NinObsessed",
+        "result": "loss"
+      }
     }
   }
 }

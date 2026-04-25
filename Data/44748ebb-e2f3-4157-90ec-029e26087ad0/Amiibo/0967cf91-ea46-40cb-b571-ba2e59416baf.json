@@ -548,6 +548,57 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2022-11-13T22:58:25.186489+00:00": {
+      "this_amiibo": {
+        "rating": 31.71281812153138,
+        "rating_mu": 35.91927707945406,
+        "rating_sigma": 1.4021529859742274,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "09b2870d-d00d-4ba1-8c86-bfd0e4edb693",
+        "name": "Hictor",
+        "rating": 28.60373445740705,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "win"
+      }
+    },
+    "2022-11-19T00:26:57.832411+00:00": {
+      "this_amiibo": {
+        "rating": 32.03466615241478,
+        "rating_mu": 36.179145055581316,
+        "rating_sigma": 1.3814929677221792,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "b216c6b8-7cc4-416a-a19d-b5821c799ee4",
+        "name": "CASH MONEY",
+        "rating": 31.451265286124272,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "average_videogame_user",
+        "result": "loss"
+      }
+    },
+    "2022-11-19T12:31:33.365775+00:00": {
+      "this_amiibo": {
+        "rating": 31.831472289138834,
+        "rating_mu": 35.91369182563737,
+        "rating_sigma": 1.3607398454995128,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "8a07ed6a-48ad-4f70-8e72-85679b94eeed",
+        "name": "Melissa",
+        "rating": 32.965105742708516,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "win"
+      }
     }
   }
 }

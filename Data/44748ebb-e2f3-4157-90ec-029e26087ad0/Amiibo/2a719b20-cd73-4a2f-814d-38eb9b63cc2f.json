@@ -582,6 +582,57 @@
         "trainer_name": "leCharade",
         "result": "loss"
       }
+    },
+    "2022-11-09T05:43:24.590364+00:00": {
+      "this_amiibo": {
+        "rating": 21.664249211890457,
+        "rating_mu": 25.916770829771497,
+        "rating_sigma": 1.4175072059603466,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "ed3336ac-36c4-4a9c-9279-736423a69aa5",
+        "name": "mon",
+        "rating": 24.008644699144398,
+        "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
+        "trainer_name": "rurpking22",
+        "result": "win"
+      }
+    },
+    "2022-11-19T13:35:29.488932+00:00": {
+      "this_amiibo": {
+        "rating": 21.929743489317488,
+        "rating_mu": 26.143902851187402,
+        "rating_sigma": 1.4047197872899717,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "75c22b05-8980-497c-bc9f-9ae68e680ed9",
+        "name": "Perry",
+        "rating": 11.05291242030706,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_link",
+        "result": "loss"
+      }
+    },
+    "2022-11-20T07:48:21.668483+00:00": {
+      "this_amiibo": {
+        "rating": 22.201189189011608,
+        "rating_mu": 26.358193322529058,
+        "rating_sigma": 1.385668044505817,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "a05a2872-5a8e-4ee7-b97d-e5f5a137fd8a",
+        "name": "KawayaKami",
+        "rating": 20.78908461992103,
+        "trainer_id": "989b85c3-4ffc-41c0-8596-2d2c67fd7158",
+        "trainer_name": "tealeevz",
+        "result": "loss"
+      }
     }
   }
 }
