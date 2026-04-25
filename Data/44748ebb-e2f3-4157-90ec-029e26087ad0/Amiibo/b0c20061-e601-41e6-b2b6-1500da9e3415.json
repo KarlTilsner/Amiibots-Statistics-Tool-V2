@@ -123,6 +123,74 @@
         "trainer_name": "SquallDBC",
         "result": "loss"
       }
+    },
+    "2023-01-22T09:08:55.653878+00:00": {
+      "this_amiibo": {
+        "rating": 12.155624938663081,
+        "rating_mu": 20.615770584877843,
+        "rating_sigma": 2.820048548738254,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "eac62453-ebfc-4e40-a486-9cdea665e132",
+        "name": "Colby",
+        "rating": 14.001498019867665,
+        "trainer_id": "479b93ff-1d93-4e65-88c9-8cbfff7e08fc",
+        "trainer_name": "SquallDBC",
+        "result": "win"
+      }
+    },
+    "2023-01-25T15:48:25.582012+00:00": {
+      "this_amiibo": {
+        "rating": 13.023269967333619,
+        "rating_mu": 21.239482589477277,
+        "rating_sigma": 2.7387375407145527,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "14086312-6be5-4ae9-9b36-740c59222364",
+        "name": "Mr Fist",
+        "rating": 0.07935807747742629,
+        "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
+        "trainer_name": "rurpking22",
+        "result": "loss"
+      }
+    },
+    "2023-01-27T19:21:34.124068+00:00": {
+      "this_amiibo": {
+        "rating": 13.23842426026603,
+        "rating_mu": 20.630787293012148,
+        "rating_sigma": 2.4641210109153726,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "5f8868dc-42ef-49d0-bf57-99558b88f68a",
+        "name": "Spaghetti",
+        "rating": 12.116399395932973,
+        "trainer_id": "572ea3a2-7f62-4814-9089-dd5e78bb246f",
+        "trainer_name": "Strange_Fate",
+        "result": "loss"
+      }
+    },
+    "2023-01-27T16:36:48.681852+00:00": {
+      "this_amiibo": {
+        "rating": 12.340407346700363,
+        "rating_mu": 20.0512503932455,
+        "rating_sigma": 2.5702810155150457,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "eac62453-ebfc-4e40-a486-9cdea665e132",
+        "name": "Colby",
+        "rating": 14.61400070303982,
+        "trainer_id": "479b93ff-1d93-4e65-88c9-8cbfff7e08fc",
+        "trainer_name": "SquallDBC",
+        "result": "win"
+      }
     }
   }
 }

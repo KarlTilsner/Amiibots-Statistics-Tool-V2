@@ -837,6 +837,40 @@
         "trainer_name": "Eliot_The_Great",
         "result": "loss"
       }
+    },
+    "2023-01-21T09:20:45.358946+00:00": {
+      "this_amiibo": {
+        "rating": 13.355544380129507,
+        "rating_mu": 17.072318275997155,
+        "rating_sigma": 1.2389246319558829,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "a9bb2ce7-bb04-4a51-89e8-db2ede9c77ac",
+        "name": "20XX",
+        "rating": 6.50020181257128,
+        "trainer_id": "572ea3a2-7f62-4814-9089-dd5e78bb246f",
+        "trainer_name": "Strange_Fate",
+        "result": "win"
+      }
+    },
+    "2023-01-22T12:17:08.621047+00:00": {
+      "this_amiibo": {
+        "rating": 13.131726870352292,
+        "rating_mu": 16.818840533236916,
+        "rating_sigma": 1.229037887628208,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "f2f727a2-1b82-4521-821a-25488add6d66",
+        "name": "Valentines",
+        "rating": 4.0284714840895095,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "win"
+      }
     }
   }
 }

@@ -378,6 +378,40 @@
         "trainer_name": "marble_787",
         "result": "loss"
       }
+    },
+    "2023-01-30T00:04:54.516320+00:00": {
+      "this_amiibo": {
+        "rating": 35.5250810706671,
+        "rating_mu": 40.55463747438645,
+        "rating_sigma": 1.6765188012397856,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "b221f1e1-c865-4b70-a281-d7fde72e7ef7",
+        "name": "Incineroar",
+        "rating": 39.5964279954474,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "win"
+      }
+    },
+    "2023-01-29T23:52:30.564742+00:00": {
+      "this_amiibo": {
+        "rating": 35.7403210457328,
+        "rating_mu": 40.883320789257446,
+        "rating_sigma": 1.7143332478415494,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "ebd936b3-c40a-430b-89d3-e51fc5fe4d47",
+        "name": "Super NES",
+        "rating": 33.661591755770026,
+        "trainer_id": "345febd3-6433-4ed8-addb-b0ead57bf565",
+        "trainer_name": "cloudnine987",
+        "result": "loss"
+      }
     }
   }
 }

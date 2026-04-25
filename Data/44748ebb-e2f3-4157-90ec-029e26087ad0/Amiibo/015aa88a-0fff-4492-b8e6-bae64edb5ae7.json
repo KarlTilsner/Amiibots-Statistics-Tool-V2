@@ -939,6 +939,57 @@
         "trainer_name": "sdm_ranch",
         "result": "loss"
       }
+    },
+    "2023-01-24T17:40:53.102457+00:00": {
+      "this_amiibo": {
+        "rating": 31.91307270963702,
+        "rating_mu": 35.19316438961234,
+        "rating_sigma": 1.0933638933251075,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "b93b15b8-6932-4f3d-ab00-37587d804133",
+        "name": "EVAUnit-01",
+        "rating": 29.030136822988982,
+        "trainer_id": "108c96a4-0d10-462a-9b24-7b6058848679",
+        "trainer_name": "vexvoxel",
+        "result": "win"
+      }
+    },
+    "2023-01-25T05:25:17.069612+00:00": {
+      "this_amiibo": {
+        "rating": 32.11705614111359,
+        "rating_mu": 35.37047003213631,
+        "rating_sigma": 1.0844712970075712,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "66a34446-1674-413c-a574-0d465c2fb067",
+        "name": "BAHAMUT",
+        "rating": 33.41431018463306,
+        "trainer_id": "61314a03-5052-497e-a2bf-ebeabc47be55",
+        "trainer_name": "amatsoup",
+        "result": "loss"
+      }
+    },
+    "2023-02-01T16:05:19.959898+00:00": {
+      "this_amiibo": {
+        "rating": 31.985509728560938,
+        "rating_mu": 35.220864708597794,
+        "rating_sigma": 1.078451660012285,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "9c8271bd-94f1-419a-b94c-0cd101b5e19a",
+        "name": "chocolate",
+        "rating": 27.19770044776015,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
+        "result": "win"
+      }
     }
   }
 }

@@ -1670,6 +1670,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2023-01-21T11:22:24.641719+00:00": {
+      "this_amiibo": {
+        "rating": 32.899802699061084,
+        "rating_mu": 36.14782367670871,
+        "rating_sigma": 1.0826736592158765,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "c9306d3c-a17f-4298-afd3-3f14d501aa70",
+        "name": "Escanor",
+        "rating": 31.412493938376514,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "win"
+      }
+    },
+    "2023-02-02T15:29:47.368591+00:00": {
+      "this_amiibo": {
+        "rating": 33.065784545421984,
+        "rating_mu": 36.2956556963952,
+        "rating_sigma": 1.0766237169910733,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "99fe2559-dc2a-4500-a78f-ab56b53774ea",
+        "name": "Leg Day",
+        "rating": 26.897902031667044,
+        "trainer_id": "c3fe3b7f-7e85-43c1-9749-435494d5d429",
+        "trainer_name": "CJMaster3",
+        "result": "loss"
+      }
     }
   }
 }

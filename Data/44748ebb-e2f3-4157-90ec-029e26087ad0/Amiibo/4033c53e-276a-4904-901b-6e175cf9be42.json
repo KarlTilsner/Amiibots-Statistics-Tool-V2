@@ -89,6 +89,57 @@
         "trainer_name": "speakerbox08",
         "result": "win"
       }
+    },
+    "2023-01-26T18:29:30.638295+00:00": {
+      "this_amiibo": {
+        "rating": 11.2412212101794,
+        "rating_mu": 21.129320145596278,
+        "rating_sigma": 3.296032978472293,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
+        "id": "03d02b1c-c8ec-479e-9a47-893978135d5b",
+        "name": "Gertrude",
+        "rating": 17.33637735572432,
+        "trainer_id": "dd2fb133-18ea-44bc-8a89-27adc7617d8e",
+        "trainer_name": "SharingEagle",
+        "result": "loss"
+      }
+    },
+    "2023-01-27T10:22:40.577699+00:00": {
+      "this_amiibo": {
+        "rating": 10.743094881657136,
+        "rating_mu": 20.043614531095535,
+        "rating_sigma": 3.100173216479466,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "a038f0b2-1aaf-4405-9697-fda77659e26a",
+        "name": "Fat Bird",
+        "rating": 12.781646009309819,
+        "trainer_id": "4c4eed95-5881-4563-8756-4c4d567ddf0b",
+        "trainer_name": "maxleungeatspineapple",
+        "result": "win"
+      }
+    },
+    "2023-01-29T00:49:54.865155+00:00": {
+      "this_amiibo": {
+        "rating": 10.448232251146955,
+        "rating_mu": 19.300642431265782,
+        "rating_sigma": 2.9508033933729423,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "a038f0b2-1aaf-4405-9697-fda77659e26a",
+        "name": "Fat Bird",
+        "rating": 14.2187468023904,
+        "trainer_id": "4c4eed95-5881-4563-8756-4c4d567ddf0b",
+        "trainer_name": "maxleungeatspineapple",
+        "result": "win"
+      }
     }
   }
 }

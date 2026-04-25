@@ -344,6 +344,40 @@
         "trainer_name": "carbon_show",
         "result": "win"
       }
+    },
+    "2023-01-26T05:13:11.244571+00:00": {
+      "this_amiibo": {
+        "rating": 23.98336951056826,
+        "rating_mu": 29.762579906118297,
+        "rating_sigma": 1.926403465183346,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "a6704997-6c34-404c-bd3d-f071582d4622",
+        "name": "Poetic",
+        "rating": 8.945320949143035,
+        "trainer_id": "b341d599-da55-4bdf-be0d-cd5c49049f0c",
+        "trainer_name": "promadebison",
+        "result": "loss"
+      }
+    },
+    "2023-01-30T23:46:31.282630+00:00": {
+      "this_amiibo": {
+        "rating": 23.671699024719874,
+        "rating_mu": 29.290311518015987,
+        "rating_sigma": 1.8728708310987041,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "50ac18d1-eca7-4c5a-82b0-13dd7495b100",
+        "name": "Luigi",
+        "rating": 24.1114231063346,
+        "trainer_id": "e819f7ca-4d21-4e94-8e30-7edff2b94fc5",
+        "trainer_name": "DogBoyton",
+        "result": "win"
+      }
     }
   }
 }

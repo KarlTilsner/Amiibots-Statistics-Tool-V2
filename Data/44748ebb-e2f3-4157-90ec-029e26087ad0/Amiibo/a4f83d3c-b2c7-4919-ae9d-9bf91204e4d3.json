@@ -208,6 +208,40 @@
         "trainer_name": "forenmagra",
         "result": "loss"
       }
+    },
+    "2023-01-25T03:39:04.328055+00:00": {
+      "this_amiibo": {
+        "rating": 32.29158115926565,
+        "rating_mu": 39.05931807699094,
+        "rating_sigma": 2.25591230590843,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "b813e9ba-889f-40dd-8252-75bdec06877a",
+        "name": "↓toGeorgia",
+        "rating": 36.74634443220871,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      }
+    },
+    "2023-02-04T08:24:40.945814+00:00": {
+      "this_amiibo": {
+        "rating": 33.422825094675645,
+        "rating_mu": 39.89194659934274,
+        "rating_sigma": 2.1563738348890302,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "b23f475b-720d-41cf-a151-c25ca6f8d803",
+        "name": "Scar",
+        "rating": 37.55792200104144,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "loss"
+      }
     }
   }
 }

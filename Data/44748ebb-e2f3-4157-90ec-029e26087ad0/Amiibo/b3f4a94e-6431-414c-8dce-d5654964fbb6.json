@@ -3540,6 +3540,57 @@
         "trainer_name": "HD_ssbu",
         "result": "loss"
       }
+    },
+    "2023-01-23T22:12:58.872398+00:00": {
+      "this_amiibo": {
+        "rating": 26.63395119396682,
+        "rating_mu": 29.5631437454337,
+        "rating_sigma": 0.9763975171556262,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "fe0b037f-ba65-45c7-8bda-19094e88e8e8",
+        "name": "Cavalry",
+        "rating": 25.238583492850196,
+        "trainer_id": "1332142b-404c-4c00-acf0-1e1620282799",
+        "trainer_name": "yellow84nana",
+        "result": "win"
+      }
+    },
+    "2023-01-26T08:36:20.493895+00:00": {
+      "this_amiibo": {
+        "rating": 27.049421379676424,
+        "rating_mu": 29.942955208519134,
+        "rating_sigma": 0.964511276280903,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "2e0a77e0-2f0b-45f8-b69f-4d4a0f1f76a7",
+        "name": "Skyloft",
+        "rating": 30.90969857883132,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HD_ssbu",
+        "result": "loss"
+      }
+    },
+    "2023-01-26T06:23:17.575769+00:00": {
+      "this_amiibo": {
+        "rating": 26.838463175483795,
+        "rating_mu": 29.750027469140555,
+        "rating_sigma": 0.9705214312189203,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "1931ffb6-b58f-4a51-8f69-323ce7eebf5c",
+        "name": "Ascent",
+        "rating": 29.070998642291503,
+        "trainer_id": "3fabe039-1087-4290-afb8-fd2ab3a1f5f6",
+        "trainer_name": "SitraSSB",
+        "result": "loss"
+      }
     }
   }
 }

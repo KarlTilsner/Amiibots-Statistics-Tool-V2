@@ -72,6 +72,40 @@
         "trainer_name": "SquallDBC",
         "result": "loss"
       }
+    },
+    "2023-02-03T18:37:54.244335+00:00": {
+      "this_amiibo": {
+        "rating": 11.658604928408833,
+        "rating_mu": 23.293028201003743,
+        "rating_sigma": 3.87814109086497,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
+        "id": "bb65656a-b7ff-4a55-aa99-7de21f56634e",
+        "name": "Min Min",
+        "rating": 22.482701758778738,
+        "trainer_id": "baab3ea0-f89c-447a-a74f-dd6855e8b93c",
+        "trainer_name": "mabunii",
+        "result": "win"
+      }
+    },
+    "2023-02-04T01:10:01.546783+00:00": {
+      "this_amiibo": {
+        "rating": 14.234032598132307,
+        "rating_mu": 24.786727762098028,
+        "rating_sigma": 3.51756505465524,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "add6d993-02b0-4378-8b8b-c13e3b5855bb",
+        "name": "Mariibo",
+        "rating": 18.56785542079635,
+        "trainer_id": "8829bed5-f390-4394-b5b2-1ff5180ada26",
+        "trainer_name": "polytechnicality",
+        "result": "loss"
+      }
     }
   }
 }

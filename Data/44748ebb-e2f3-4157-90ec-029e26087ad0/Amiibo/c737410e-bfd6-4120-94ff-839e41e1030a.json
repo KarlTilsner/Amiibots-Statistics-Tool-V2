@@ -990,6 +990,57 @@
         "trainer_name": "average_videogame_user",
         "result": "win"
       }
+    },
+    "2023-01-21T19:19:43.219058+00:00": {
+      "this_amiibo": {
+        "rating": 31.702231865970695,
+        "rating_mu": 35.30594660995894,
+        "rating_sigma": 1.201238247996081,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "a8412803-816b-49e8-8687-5e55ef54b114",
+        "name": "Bonk&Bash",
+        "rating": 26.09945726923698,
+        "trainer_id": "44f105f0-22fa-47ac-81af-ad6fb3a08964",
+        "trainer_name": "duckman060",
+        "result": "loss"
+      }
+    },
+    "2023-01-23T12:27:29.123353+00:00": {
+      "this_amiibo": {
+        "rating": 31.56635187338433,
+        "rating_mu": 35.13894656296043,
+        "rating_sigma": 1.1908648965253659,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "96b644ad-0939-41ce-b196-9558b49c733f",
+        "name": "Kazeya",
+        "rating": 30.350951564708463,
+        "trainer_id": "28640173-1e3d-46fe-9d0c-50fe94bee266",
+        "trainer_name": "Kaze_Aze",
+        "result": "win"
+      }
+    },
+    "2023-02-03T02:37:51.141392+00:00": {
+      "this_amiibo": {
+        "rating": 31.42298612072871,
+        "rating_mu": 34.96318384762116,
+        "rating_sigma": 1.180065908964151,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "064088ab-7284-4f95-a8d0-add13fe5349e",
+        "name": "Solomon",
+        "rating": 30.69295780978042,
+        "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
+        "trainer_name": "CikadaKing",
+        "result": "win"
+      }
     }
   }
 }

@@ -242,6 +242,40 @@
         "trainer_name": "StaplesTV_",
         "result": "loss"
       }
+    },
+    "2023-01-29T11:06:58.390621+00:00": {
+      "this_amiibo": {
+        "rating": 22.661462461312958,
+        "rating_mu": 28.995063047340558,
+        "rating_sigma": 2.1112001953425334,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "6f370d61-e9b6-4a72-865a-0f703db8a8ec",
+        "name": "Charizard",
+        "rating": 24.096311346799457,
+        "trainer_id": "379a789d-80c9-4bc3-9ad8-ec76c2397303",
+        "trainer_name": "player00010101",
+        "result": "win"
+      }
+    },
+    "2023-02-02T09:26:55.760581+00:00": {
+      "this_amiibo": {
+        "rating": 23.482928146292807,
+        "rating_mu": 29.60461414997607,
+        "rating_sigma": 2.0405620012277548,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "b66b80ea-2d0e-404f-a99c-d75a0ce49dc0",
+        "name": "Alphonso",
+        "rating": 22.683532714853953,
+        "trainer_id": "7333749d-693d-4054-a9fd-e006eacd09ab",
+        "trainer_name": "pepeantonio313",
+        "result": "loss"
+      }
     }
   }
 }

@@ -1007,6 +1007,91 @@
         "trainer_name": "AmiiboDoctor",
         "result": "loss"
       }
+    },
+    "2023-01-26T17:58:35.533334+00:00": {
+      "this_amiibo": {
+        "rating": 23.164544377897535,
+        "rating_mu": 26.645542655985142,
+        "rating_sigma": 1.1603327593625354,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "2b5f78de-ff87-402b-bb27-10c15fd6620c",
+        "name": "CanarChass",
+        "rating": 15.79884002442228,
+        "trainer_id": "6dc742b4-3fe4-4c3a-8d77-81dde5ea3025",
+        "trainer_name": "ShiiroNekowo",
+        "result": "win"
+      }
+    },
+    "2023-01-27T12:31:00.681822+00:00": {
+      "this_amiibo": {
+        "rating": 23.360354355141887,
+        "rating_mu": 26.81051313735854,
+        "rating_sigma": 1.150052927405551,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "34ae051b-24a7-4f2d-b680-4bb1685c8ac1",
+        "name": "1 PunchMan",
+        "rating": 23.587622688503558,
+        "trainer_id": "7c20e90f-67fe-43c5-a623-83c60ef05858",
+        "trainer_name": "Zizogod",
+        "result": "loss"
+      }
+    },
+    "2023-01-27T22:06:06.359681+00:00": {
+      "this_amiibo": {
+        "rating": 23.197032119211627,
+        "rating_mu": 26.614375230895376,
+        "rating_sigma": 1.1391143705612503,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "bd16fa53-8f91-4726-ad49-66e3eea4ebc1",
+        "name": "Tanja",
+        "rating": 23.227079918889906,
+        "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
+        "trainer_name": "Lucina_Nadine",
+        "result": "win"
+      }
+    },
+    "2023-02-03T06:13:02.200449+00:00": {
+      "this_amiibo": {
+        "rating": 23.575855926578665,
+        "rating_mu": 26.939862044790168,
+        "rating_sigma": 1.1213353727371673,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "113355a7-aa5e-4694-9d7e-56fa72004d77",
+        "name": "SmolKnight",
+        "rating": 20.857220803669627,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "loss"
+      }
+    },
+    "2023-02-03T05:27:57.284778+00:00": {
+      "this_amiibo": {
+        "rating": 23.394769161732235,
+        "rating_mu": 26.784461350557887,
+        "rating_sigma": 1.1298973962752172,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "113355a7-aa5e-4694-9d7e-56fa72004d77",
+        "name": "SmolKnight",
+        "rating": 21.106261924340732,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "loss"
+      }
     }
   }
 }

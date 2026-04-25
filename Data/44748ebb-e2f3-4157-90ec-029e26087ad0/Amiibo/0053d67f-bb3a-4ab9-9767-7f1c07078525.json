@@ -2265,6 +2265,40 @@
         "trainer_name": "noltrayt",
         "result": "loss"
       }
+    },
+    "2023-01-22T21:25:23.076586+00:00": {
+      "this_amiibo": {
+        "rating": 22.74018844848016,
+        "rating_mu": 25.52470884202884,
+        "rating_sigma": 0.9281734645162261,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
+        "id": "a0085d45-f7cb-4ae5-b785-37f8c4c8ddcf",
+        "name": "Valencia",
+        "rating": 17.609299198492252,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
+    },
+    "2023-01-29T23:32:41.356474+00:00": {
+      "this_amiibo": {
+        "rating": 22.840334715786774,
+        "rating_mu": 25.62139945502568,
+        "rating_sigma": 0.9270215797463023,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
+        "id": "2c25aa02-f8cc-4a8e-bd28-cfa3116edd1e",
+        "name": "ball",
+        "rating": 12.528463364074197,
+        "trainer_id": "52395cd5-7302-493e-a7a9-c0cf640159cd",
+        "trainer_name": "mafriel",
+        "result": "loss"
+      }
     }
   }
 }

@@ -123,6 +123,40 @@
         "trainer_name": "onillusions",
         "result": "loss"
       }
+    },
+    "2023-01-25T21:07:48.217301+00:00": {
+      "this_amiibo": {
+        "rating": 24.679815762146397,
+        "rating_mu": 33.111709773239376,
+        "rating_sigma": 2.8106313370309928,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "6e947ba7-dd28-4b70-bcbd-d398fee3b554",
+        "name": "Emerald",
+        "rating": 30.805248581505847,
+        "trainer_id": "2378ad65-e527-4455-9cf7-a16bcd9709a9",
+        "trainer_name": "1stawesomeman",
+        "result": "win"
+      }
+    },
+    "2023-01-31T14:29:33.691233+00:00": {
+      "this_amiibo": {
+        "rating": 26.141818836596748,
+        "rating_mu": 34.07904001765965,
+        "rating_sigma": 2.6457403936876336,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "f57365e0-e694-4e9f-acf9-d354dbaa541f",
+        "name": "Cloudussy",
+        "rating": 29.27808317781465,
+        "trainer_id": "23cc62ed-8d92-471d-b8a4-3545d8bf5b53",
+        "trainer_name": "Winchesteroni",
+        "result": "loss"
+      }
     }
   }
 }

@@ -2690,6 +2690,57 @@
         "trainer_name": "OmenApproaching",
         "result": "loss"
       }
+    },
+    "2023-01-23T01:54:38.106658+00:00": {
+      "this_amiibo": {
+        "rating": 31.56542305672101,
+        "rating_mu": 34.10689355560771,
+        "rating_sigma": 0.8471568329622345,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "949550bb-f707-488f-9026-fc16033f8825",
+        "name": "MEWTANT",
+        "rating": 29.328463963812823,
+        "trainer_id": "52cf741b-9181-4229-8440-532cd6b5e0e7",
+        "trainer_name": "pgxmew2",
+        "result": "win"
+      }
+    },
+    "2023-01-28T19:44:07.219207+00:00": {
+      "this_amiibo": {
+        "rating": 31.659385718297404,
+        "rating_mu": 34.197777858833454,
+        "rating_sigma": 0.8461307135120166,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "5fc40e76-d36a-4a68-b62b-b49e5760f746",
+        "name": "Pyrite",
+        "rating": 28.87626569734112,
+        "trainer_id": "95c09948-6452-4ce4-b27f-6c73c294c610",
+        "trainer_name": "2Snowblind",
+        "result": "loss"
+      }
+    },
+    "2023-01-30T08:25:06.749817+00:00": {
+      "this_amiibo": {
+        "rating": 31.74847034770453,
+        "rating_mu": 34.283620297449986,
+        "rating_sigma": 0.8450499832484858,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "2e0a77e0-2f0b-45f8-b69f-4d4a0f1f76a7",
+        "name": "Skyloft",
+        "rating": 30.89619711205387,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HD_ssbu",
+        "result": "loss"
+      }
     }
   }
 }

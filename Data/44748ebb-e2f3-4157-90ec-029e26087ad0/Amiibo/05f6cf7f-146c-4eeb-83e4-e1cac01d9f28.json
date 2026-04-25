@@ -939,6 +939,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2023-01-22T13:59:23.007251+00:00": {
+      "this_amiibo": {
+        "rating": 22.67485308040898,
+        "rating_mu": 26.080560747328764,
+        "rating_sigma": 1.135235888973261,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "21316b78-7d0c-43e5-98d5-dffc9a8c5359",
+        "name": "Sussyroth",
+        "rating": 20.84196762907309,
+        "trainer_id": "0fb55565-9a16-4eaf-9ae8-e089b432d6f0",
+        "trainer_name": "sdm_ranch",
+        "result": "win"
+      }
+    },
+    "2023-02-01T18:01:23.233043+00:00": {
+      "this_amiibo": {
+        "rating": 22.853334579719586,
+        "rating_mu": 26.237315546714793,
+        "rating_sigma": 1.1279936556650696,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "347a4889-e1e7-4848-aa6d-b9cb24cb4b81",
+        "name": "Bzzzzzzzzz",
+        "rating": 16.143964000387854,
+        "trainer_id": "b929ab4f-b055-4dda-94b4-326913335357",
+        "trainer_name": "4esv",
+        "result": "loss"
+      }
     }
   }
 }

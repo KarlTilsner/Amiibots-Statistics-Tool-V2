@@ -633,6 +633,40 @@
         "trainer_name": "AmiibotsCurseDistributor_",
         "result": "loss"
       }
+    },
+    "2023-01-21T01:13:25.974397+00:00": {
+      "this_amiibo": {
+        "rating": 32.21229348046912,
+        "rating_mu": 36.2311648249166,
+        "rating_sigma": 1.3396237814824916,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "91c412bd-744b-4f8d-a326-5fa5b3b38100",
+        "name": "Alice",
+        "rating": 29.35314622299716,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "win"
+      }
+    },
+    "2023-01-24T20:12:35.376444+00:00": {
+      "this_amiibo": {
+        "rating": 32.0470881645416,
+        "rating_mu": 36.0137606560229,
+        "rating_sigma": 1.3222241638271015,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "8b600b17-e595-4e72-8ce1-79402ae8cc45",
+        "name": "Yokozuna",
+        "rating": 33.95883300779033,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "win"
+      }
     }
   }
 }

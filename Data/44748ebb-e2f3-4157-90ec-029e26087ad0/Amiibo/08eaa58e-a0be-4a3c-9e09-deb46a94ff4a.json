@@ -327,6 +327,57 @@
         "trainer_name": "average_videogame_user",
         "result": "win"
       }
+    },
+    "2023-01-28T11:25:27.321649+00:00": {
+      "this_amiibo": {
+        "rating": 25.744723020373836,
+        "rating_mu": 31.14224445724335,
+        "rating_sigma": 1.7991738122898384,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "2e0a77e0-2f0b-45f8-b69f-4d4a0f1f76a7",
+        "name": "Skyloft",
+        "rating": 31.101235266453152,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HD_ssbu",
+        "result": "win"
+      }
+    },
+    "2023-01-31T17:13:24.663740+00:00": {
+      "this_amiibo": {
+        "rating": 26.505296130497214,
+        "rating_mu": 31.74542041880958,
+        "rating_sigma": 1.7467080961041226,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "ded90ba7-6562-445b-a8b3-12cf9a89a09c",
+        "name": "Loki",
+        "rating": 29.675516669919425,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "loss"
+      }
+    },
+    "2023-02-04T05:03:56.284421+00:00": {
+      "this_amiibo": {
+        "rating": 26.33146148343924,
+        "rating_mu": 31.462247700425397,
+        "rating_sigma": 1.7102620723287192,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "2e0a77e0-2f0b-45f8-b69f-4d4a0f1f76a7",
+        "name": "Skyloft",
+        "rating": 31.744927980545086,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HD_ssbu",
+        "result": "win"
+      }
     }
   }
 }

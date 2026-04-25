@@ -514,6 +514,91 @@
         "trainer_name": "average_videogame_user",
         "result": "loss"
       }
+    },
+    "2023-01-21T00:56:10.418296+00:00": {
+      "this_amiibo": {
+        "rating": 27.946283129036797,
+        "rating_mu": 32.33663135618915,
+        "rating_sigma": 1.4634494090507848,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "83c06d23-26ea-4f6d-937c-c940654f073e",
+        "name": "Link",
+        "rating": 23.68448667787913,
+        "trainer_id": "9dc48d32-a373-43dc-8f54-666289ff29e8",
+        "trainer_name": "micah_mmg",
+        "result": "win"
+      }
+    },
+    "2023-01-22T16:11:09.374492+00:00": {
+      "this_amiibo": {
+        "rating": 28.242675133557448,
+        "rating_mu": 32.56621984455648,
+        "rating_sigma": 1.44118157033301,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "cbabf456-a721-4895-ba9b-e0610bd5ead9",
+        "name": "VanillaIce",
+        "rating": 28.401690485330576,
+        "trainer_id": "22caf840-a51e-44d4-b6f3-ff77fca76532",
+        "trainer_name": "Deadeye30_",
+        "result": "loss"
+      }
+    },
+    "2023-01-24T10:24:07.016417+00:00": {
+      "this_amiibo": {
+        "rating": 28.525618934053625,
+        "rating_mu": 32.786199666751855,
+        "rating_sigma": 1.4201935775660761,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "a5d318f2-e2c9-41a2-8be5-7612c4f52724",
+        "name": "MewTube",
+        "rating": 28.43921390215386,
+        "trainer_id": "bb38f34d-4024-4bac-8796-b84083162851",
+        "trainer_name": "TechnoPuff",
+        "result": "loss"
+      }
+    },
+    "2023-01-26T11:05:35.660102+00:00": {
+      "this_amiibo": {
+        "rating": 28.282354585742517,
+        "rating_mu": 32.47058522783473,
+        "rating_sigma": 1.3960768806974047,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "cac777a3-3ba9-4417-ab4d-074a5ffff57d",
+        "name": "Watschnbam",
+        "rating": 28.886262223293752,
+        "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
+        "trainer_name": "Lucina_Nadine",
+        "result": "win"
+      }
+    },
+    "2023-02-01T02:35:41.632549+00:00": {
+      "this_amiibo": {
+        "rating": 28.016124472285924,
+        "rating_mu": 32.132897139928914,
+        "rating_sigma": 1.3722575558809966,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "cbabf456-a721-4895-ba9b-e0610bd5ead9",
+        "name": "VanillaIce",
+        "rating": 27.831097298424172,
+        "trainer_id": "22caf840-a51e-44d4-b6f3-ff77fca76532",
+        "trainer_name": "Deadeye30_",
+        "result": "win"
+      }
     }
   }
 }

@@ -344,6 +344,23 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2023-01-27T09:34:37.386228+00:00": {
+      "this_amiibo": {
+        "rating": 23.375237186913072,
+        "rating_mu": 28.797403437715868,
+        "rating_sigma": 1.8073887502675987,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 25.964568031050458,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "loss"
+      }
     }
   }
 }
