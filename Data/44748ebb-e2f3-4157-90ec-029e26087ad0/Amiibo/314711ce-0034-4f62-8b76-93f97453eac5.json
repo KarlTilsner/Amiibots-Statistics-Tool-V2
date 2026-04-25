@@ -1670,6 +1670,40 @@
         "trainer_name": "luckman21",
         "result": "loss"
       }
+    },
+    "2023-01-06T12:12:42.525464+00:00": {
+      "this_amiibo": {
+        "rating": 29.692961636876053,
+        "rating_mu": 32.47699380044915,
+        "rating_sigma": 0.928010721191033,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "a4f885f0-b949-44fa-a6e8-576e8726cd12",
+        "name": "Vulcan",
+        "rating": 28.551231785003502,
+        "trainer_id": "786e6e83-75ca-435d-a09c-6cfe64342840",
+        "trainer_name": "Zenntrox",
+        "result": "win"
+      }
+    },
+    "2023-01-16T02:03:38.536356+00:00": {
+      "this_amiibo": {
+        "rating": 29.793040464894354,
+        "rating_mu": 32.57321129115792,
+        "rating_sigma": 0.926723608754521,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "f6e62003-9a47-49c8-9f10-275f7e40e36d",
+        "name": "Monika",
+        "rating": 20.016730556113075,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "average_videogame_user",
+        "result": "loss"
+      }
     }
   }
 }

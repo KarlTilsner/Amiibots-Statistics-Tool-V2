@@ -1,7 +1,7 @@
 {
   "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
   "id": "1e06cafe-e471-4638-bbe4-8ed0003b0031",
-  "name": "Aalεyn",
+  "name": "ααιεγη",
   "trainer_id": "777d12f5-fc42-4921-adbb-e0038cb093e2",
   "trainer_name": "Halyaran",
   "matches": {
@@ -155,6 +155,57 @@
         "rating": 30.09004294173046,
         "trainer_id": "fcd78570-b49f-4d4b-98e7-6801a6dfa634",
         "trainer_name": "LaWildFire",
+        "result": "win"
+      }
+    },
+    "2023-01-08T05:36:43.200460+00:00": {
+      "this_amiibo": {
+        "rating": 27.74490705366684,
+        "rating_mu": 37.751195390156724,
+        "rating_sigma": 3.3354294454966285,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "7ed967eb-378a-4678-aecd-2c80645f9136",
+        "name": "Tifa",
+        "rating": 25.76709062908941,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "loss"
+      }
+    },
+    "2023-01-13T18:40:45.561642+00:00": {
+      "this_amiibo": {
+        "rating": 27.57921979723782,
+        "rating_mu": 36.977414334836745,
+        "rating_sigma": 3.1327315125329758,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "b221f1e1-c865-4b70-a281-d7fde72e7ef7",
+        "name": "Incineroar",
+        "rating": 39.24481878189307,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "win"
+      }
+    },
+    "2023-01-19T23:28:30.766974+00:00": {
+      "this_amiibo": {
+        "rating": 27.19406667066594,
+        "rating_mu": 36.02957955088265,
+        "rating_sigma": 2.9451709600722364,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "ad8e4188-fbd6-43c8-aed1-22dd52b66ab4",
+        "name": "Radahn",
+        "rating": 32.10414243279834,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
         "result": "win"
       }
     }

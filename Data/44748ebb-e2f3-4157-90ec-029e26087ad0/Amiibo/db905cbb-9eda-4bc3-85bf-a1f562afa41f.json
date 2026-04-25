@@ -633,6 +633,57 @@
         "trainer_name": "False_Justice",
         "result": "loss"
       }
+    },
+    "2023-01-08T13:55:13.545044+00:00": {
+      "this_amiibo": {
+        "rating": 19.66618982141446,
+        "rating_mu": 23.729551186301475,
+        "rating_sigma": 1.3544537882956718,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "46005c38-73ce-4723-90fd-7ca670bf5360",
+        "name": "Link",
+        "rating": 18.183451464680072,
+        "trainer_id": "56bb1da8-33b3-4700-b399-25aa6b0086fd",
+        "trainer_name": "yocubed",
+        "result": "win"
+      }
+    },
+    "2023-01-12T06:54:33.610401+00:00": {
+      "this_amiibo": {
+        "rating": 20.031934214162344,
+        "rating_mu": 24.033932660033926,
+        "rating_sigma": 1.3339994819571943,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "0decd6c8-4a8a-4360-8645-8e6fdc267c75",
+        "name": "GOLD SPARK",
+        "rating": 21.35550070338442,
+        "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
+        "trainer_name": "CikadaKing",
+        "result": "loss"
+      }
+    },
+    "2023-01-16T20:36:18.879233+00:00": {
+      "this_amiibo": {
+        "rating": 19.861539528080833,
+        "rating_mu": 23.81114829787376,
+        "rating_sigma": 1.3165362565976422,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "5e6661e0-26f8-480c-bbde-c2a2014a2b96",
+        "name": "ftilt",
+        "rating": 21.621735290641197,
+        "trainer_id": "8e290d89-5484-46ab-b222-914c45b7b11c",
+        "trainer_name": "pixel_gunners",
+        "result": "win"
+      }
     }
   }
 }

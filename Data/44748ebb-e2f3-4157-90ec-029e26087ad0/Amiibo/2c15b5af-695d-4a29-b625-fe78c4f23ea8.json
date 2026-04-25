@@ -412,6 +412,40 @@
         "trainer_name": "ieatdipers",
         "result": "loss"
       }
+    },
+    "2023-01-17T05:51:48.753084+00:00": {
+      "this_amiibo": {
+        "rating": 10.794034724383287,
+        "rating_mu": 16.312926482921398,
+        "rating_sigma": 1.8396305861793705,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "5bb356cd-becc-441d-96b3-48fb3ec2bfd9",
+        "name": "Inkblot",
+        "rating": 13.369700669573092,
+        "trainer_id": "2f9c8c00-fa6a-404d-8718-68edf85cb21f",
+        "trainer_name": "irongelatin",
+        "result": "win"
+      }
+    },
+    "2023-01-18T05:23:43.981809+00:00": {
+      "this_amiibo": {
+        "rating": 11.209127233618773,
+        "rating_mu": 16.638022734956355,
+        "rating_sigma": 1.809631833779194,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "e9e751fa-ad1b-4c97-9857-a59099b4d7fa",
+        "name": "Spike",
+        "rating": 0.8815441179987751,
+        "trainer_id": "43108e27-2c8f-4e61-b63c-87ba8c911d36",
+        "trainer_name": "noctureno9",
+        "result": "loss"
+      }
     }
   }
 }

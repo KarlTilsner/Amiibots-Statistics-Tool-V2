@@ -21,6 +21,40 @@
         "trainer_name": "RockMyRole",
         "result": "loss"
       }
+    },
+    "2023-01-14T03:51:06.606023+00:00": {
+      "this_amiibo": {
+        "rating": 12.288778083587209,
+        "rating_mu": 28.108274952484674,
+        "rating_sigma": 5.273165622965822,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "fbc72111-3c6c-48a1-af33-c102d0cced8b",
+        "name": "b",
+        "rating": 31.22674868189986,
+        "trainer_id": "8e290d89-5484-46ab-b222-914c45b7b11c",
+        "trainer_name": "pixel_gunners",
+        "result": "win"
+      }
+    },
+    "2023-01-14T10:36:20.855642+00:00": {
+      "this_amiibo": {
+        "rating": 17.652345730118945,
+        "rating_mu": 31.151342485359756,
+        "rating_sigma": 4.499665585080271,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "49287e31-eb01-4f0f-b584-66ad6cccf262",
+        "name": "αηατh",
+        "rating": 21.637651661600604,
+        "trainer_id": "777d12f5-fc42-4921-adbb-e0038cb093e2",
+        "trainer_name": "Halyaran",
+        "result": "loss"
+      }
     }
   }
 }

@@ -225,6 +225,40 @@
         "trainer_name": "Persesco",
         "result": "loss"
       }
+    },
+    "2023-01-12T18:29:39.678247+00:00": {
+      "this_amiibo": {
+        "rating": 13.418800451725769,
+        "rating_mu": 20.373636075679745,
+        "rating_sigma": 2.318278541317992,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "0d1a8f20-c985-4080-8d58-dc1a9fe0ef4d",
+        "name": "Killamari",
+        "rating": 16.729129091486953,
+        "trainer_id": "a40ed5e4-3d2a-4657-b175-226bd6b729f9",
+        "trainer_name": "Charcoalizard",
+        "result": "win"
+      }
+    },
+    "2023-01-15T03:35:42.746687+00:00": {
+      "this_amiibo": {
+        "rating": 14.402880781053145,
+        "rating_mu": 21.064460905054187,
+        "rating_sigma": 2.2205267080003472,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "e02acb43-6589-4698-916b-db1af154f9df",
+        "name": "Beatrice",
+        "rating": 16.91700271914609,
+        "trainer_id": "2f91b438-99d4-4966-b002-9a9b4dbfaf92",
+        "trainer_name": "Klerpy",
+        "result": "loss"
+      }
     }
   }
 }

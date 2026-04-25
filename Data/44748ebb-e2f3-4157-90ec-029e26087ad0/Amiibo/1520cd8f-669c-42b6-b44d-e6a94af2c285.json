@@ -3880,6 +3880,57 @@
         "trainer_name": "CJMaster3",
         "result": "loss"
       }
+    },
+    "2023-01-05T23:42:09.359313+00:00": {
+      "this_amiibo": {
+        "rating": 28.084476784216957,
+        "rating_mu": 30.514466382903795,
+        "rating_sigma": 0.8099965328956122,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "aba2fd29-0e9e-4d9f-8294-8eb959908bd6",
+        "name": "Aether",
+        "rating": 28.58787062201624,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "average_videogame_user",
+        "result": "loss"
+      }
+    },
+    "2023-01-06T21:21:54.684488+00:00": {
+      "this_amiibo": {
+        "rating": 27.99536254920313,
+        "rating_mu": 30.423846212779253,
+        "rating_sigma": 0.8094945545253744,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "281541ad-2249-4727-a4dc-782a073ce381",
+        "name": "Shoryuken",
+        "rating": 27.08916797193965,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HD_ssbu",
+        "result": "win"
+      }
+    },
+    "2023-01-08T14:36:59.654478+00:00": {
+      "this_amiibo": {
+        "rating": 27.908007963765876,
+        "rating_mu": 30.335699556564848,
+        "rating_sigma": 0.8092305309329907,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "aff0aecd-63e0-4030-a2ae-5314d0bed4a9",
+        "name": "Bayley",
+        "rating": 25.47853853208081,
+        "trainer_id": "fcd78570-b49f-4d4b-98e7-6801a6dfa634",
+        "trainer_name": "LaWildFire",
+        "result": "win"
+      }
     }
   }
 }

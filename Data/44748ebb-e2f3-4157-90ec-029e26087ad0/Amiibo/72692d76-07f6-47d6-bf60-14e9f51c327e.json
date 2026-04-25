@@ -1211,6 +1211,40 @@
         "trainer_name": "MiDe1",
         "result": "win"
       }
+    },
+    "2023-01-07T00:51:26.468076+00:00": {
+      "this_amiibo": {
+        "rating": 24.37912907517941,
+        "rating_mu": 27.557121839084314,
+        "rating_sigma": 1.0593309213016346,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "401abbcb-d911-457a-8647-a8a06480429c",
+        "name": "Suit Zero",
+        "rating": 25.052190083318607,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "loss"
+      }
+    },
+    "2023-01-14T12:55:43.573755+00:00": {
+      "this_amiibo": {
+        "rating": 24.54035909728615,
+        "rating_mu": 27.697481564009856,
+        "rating_sigma": 1.0523741555745683,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
+        "id": "0e780ede-1cba-47d6-85e4-07429cbed93c",
+        "name": "Pelipper",
+        "rating": 24.533374541420486,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "loss"
+      }
     }
   }
 }

@@ -293,6 +293,57 @@
         "trainer_name": "twofold_diary5",
         "result": "loss"
       }
+    },
+    "2023-01-14T10:51:54.299938+00:00": {
+      "this_amiibo": {
+        "rating": 17.914021081288343,
+        "rating_mu": 23.932456901826825,
+        "rating_sigma": 2.0061452735128276,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "2b5f78de-ff87-402b-bb27-10c15fd6620c",
+        "name": "CanarChass",
+        "rating": 10.443180856470956,
+        "trainer_id": "6dc742b4-3fe4-4c3a-8d77-81dde5ea3025",
+        "trainer_name": "ShiiroNekowo",
+        "result": "win"
+      }
+    },
+    "2023-01-17T22:50:48.959636+00:00": {
+      "this_amiibo": {
+        "rating": 17.51917526535311,
+        "rating_mu": 23.332070074742084,
+        "rating_sigma": 1.9376316031296585,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "e0565216-1d5b-4f66-803f-4067f5d658c0",
+        "name": "Bob",
+        "rating": 19.478158525611125,
+        "trainer_id": "b266b73a-6394-4b7d-811c-478380fe2437",
+        "trainer_name": "Shade4X4",
+        "result": "win"
+      }
+    },
+    "2023-01-19T12:29:15.150827+00:00": {
+      "this_amiibo": {
+        "rating": 17.382968979164854,
+        "rating_mu": 23.06685769440927,
+        "rating_sigma": 1.8946295717481378,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "ebefdbda-b1ec-48f4-a762-47621102812e",
+        "name": "Misneach",
+        "rating": 24.813226411982633,
+        "trainer_id": "78058de3-e8d4-4a0a-a333-11d0a5901cdd",
+        "trainer_name": "OnyxLouise",
+        "result": "win"
+      }
     }
   }
 }

@@ -89,6 +89,40 @@
         "trainer_name": "RockMyRole",
         "result": "loss"
       }
+    },
+    "2023-01-11T14:05:46.333857+00:00": {
+      "this_amiibo": {
+        "rating": 13.531131612887489,
+        "rating_mu": 23.32405254958378,
+        "rating_sigma": 3.2643069788987638,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "61e53481-9d7c-4e5c-ae94-22b363a1461a",
+        "name": "Mochi",
+        "rating": 24.233241160299276,
+        "trainer_id": "3fabe039-1087-4290-afb8-fd2ab3a1f5f6",
+        "trainer_name": "SitraSSB",
+        "result": "win"
+      }
+    },
+    "2023-01-15T08:31:19.467438+00:00": {
+      "this_amiibo": {
+        "rating": 15.399522970345489,
+        "rating_mu": 24.479276479202742,
+        "rating_sigma": 3.0265845029524177,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "e0565216-1d5b-4f66-803f-4067f5d658c0",
+        "name": "Bob",
+        "rating": 19.274342374902098,
+        "trainer_id": "b266b73a-6394-4b7d-811c-478380fe2437",
+        "trainer_name": "Shade4X4",
+        "result": "loss"
+      }
     }
   }
 }

@@ -2299,6 +2299,57 @@
         "trainer_name": "eon_ii",
         "result": "loss"
       }
+    },
+    "2023-01-06T07:48:25.554462+00:00": {
+      "this_amiibo": {
+        "rating": 27.339990337622815,
+        "rating_mu": 29.981544533283618,
+        "rating_sigma": 0.8805180652202677,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "a5ed75bf-37cd-4eca-b706-ef2a60aad03e",
+        "name": "Excuuse Me",
+        "rating": 22.78918382216269,
+        "trainer_id": "9ab00719-f6c9-4b32-94fe-fa00b3bcf87a",
+        "trainer_name": "ZuupMummy",
+        "result": "win"
+      }
+    },
+    "2023-01-08T11:00:58.008212+00:00": {
+      "this_amiibo": {
+        "rating": 27.459506455903355,
+        "rating_mu": 30.093955101175805,
+        "rating_sigma": 0.8781495484241498,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "9544357e-c844-4c7b-a41d-35a0b4a94cb4",
+        "name": "Garm",
+        "rating": 27.866919298912947,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "loss"
+      }
+    },
+    "2023-01-11T11:22:50.820999+00:00": {
+      "this_amiibo": {
+        "rating": 27.369066733556036,
+        "rating_mu": 29.997740190866008,
+        "rating_sigma": 0.8762244857699903,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "0b5aa46b-8261-40e5-a809-0d1c723d8b3f",
+        "name": "RoboKnight",
+        "rating": 28.164647057740943,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "win"
+      }
     }
   }
 }

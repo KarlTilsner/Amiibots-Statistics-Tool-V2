@@ -1364,6 +1364,57 @@
         "trainer_name": "AceTempest172",
         "result": "loss"
       }
+    },
+    "2023-01-08T15:20:34.299475+00:00": {
+      "this_amiibo": {
+        "rating": 32.89522635104062,
+        "rating_mu": 35.8436210649818,
+        "rating_sigma": 0.9827982379803927,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "0f54afff-2070-4dc3-b9da-0e9412b5c4dd",
+        "name": "Arya",
+        "rating": 33.980859796516114,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2023-01-14T04:57:41.986392+00:00": {
+      "this_amiibo": {
+        "rating": 33.0625663234899,
+        "rating_mu": 35.99478530766932,
+        "rating_sigma": 0.9774063280598071,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "c5b2d831-a6a7-42f0-a932-23f77797e943",
+        "name": "Yuna",
+        "rating": 33.816059930301726,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "loss"
+      }
+    },
+    "2023-01-19T10:14:09.906727+00:00": {
+      "this_amiibo": {
+        "rating": 32.96825708155896,
+        "rating_mu": 35.89131503315912,
+        "rating_sigma": 0.9743526505333854,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "42c9a44c-1e9c-4128-83c5-b696e7f53856",
+        "name": "↓toGeorgia",
+        "rating": 29.93581577567831,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      }
     }
   }
 }

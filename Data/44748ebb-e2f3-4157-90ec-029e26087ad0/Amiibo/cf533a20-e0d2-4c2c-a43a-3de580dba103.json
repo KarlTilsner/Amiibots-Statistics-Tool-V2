@@ -514,6 +514,57 @@
         "trainer_name": "pgxmew2",
         "result": "loss"
       }
+    },
+    "2023-01-05T22:57:14.729709+00:00": {
+      "this_amiibo": {
+        "rating": 28.043836002956667,
+        "rating_mu": 32.50304164206797,
+        "rating_sigma": 1.4864018797037672,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "178dff34-c1cb-4936-b7f8-0dea65c34667",
+        "name": "Apothecary",
+        "rating": 28.988712285883906,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
+    },
+    "2023-01-07T03:52:01.840920+00:00": {
+      "this_amiibo": {
+        "rating": 28.29640279718823,
+        "rating_mu": 32.71062486556823,
+        "rating_sigma": 1.4714073561266658,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "33acbfd9-edf6-4304-b5e7-6ecff3659760",
+        "name": "DoTheMario",
+        "rating": 17.32765354250026,
+        "trainer_id": "d92b7874-c5d1-4579-8e92-86d56c5e594f",
+        "trainer_name": "sumrando123",
+        "result": "loss"
+      }
+    },
+    "2023-01-09T00:07:50.126883+00:00": {
+      "this_amiibo": {
+        "rating": 28.597570536288625,
+        "rating_mu": 32.9484913387047,
+        "rating_sigma": 1.4503069341386912,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "960c5138-979a-4fa6-a78f-2bb712745191",
+        "name": "Snowball",
+        "rating": 25.059939077836006,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "loss"
+      }
     }
   }
 }

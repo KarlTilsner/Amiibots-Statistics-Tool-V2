@@ -803,6 +803,40 @@
         "trainer_name": "SniperJenko",
         "result": "loss"
       }
+    },
+    "2023-01-15T10:25:58.154682+00:00": {
+      "this_amiibo": {
+        "rating": 28.074553773296678,
+        "rating_mu": 31.6523831625229,
+        "rating_sigma": 1.1926097964087405,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "e88eb063-4f63-4ddc-b19d-aea06632d600",
+        "name": "Joe Flaco",
+        "rating": 24.505288480692492,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "average_videogame_user",
+        "result": "win"
+      }
+    },
+    "2023-01-20T06:09:20.484063+00:00": {
+      "this_amiibo": {
+        "rating": 28.256638065994235,
+        "rating_mu": 31.810190957297717,
+        "rating_sigma": 1.1845176304344938,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "25fd1ad2-6219-4e51-acfb-12baea105a39",
+        "name": "Violet",
+        "rating": 20.131284916910438,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "loss"
+      }
     }
   }
 }

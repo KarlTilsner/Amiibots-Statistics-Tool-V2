@@ -837,6 +837,23 @@
         "trainer_name": "AmiiboDoctor",
         "result": "win"
       }
+    },
+    "2023-01-14T04:02:02.784134+00:00": {
+      "this_amiibo": {
+        "rating": 23.484980876017357,
+        "rating_mu": 27.120218486693915,
+        "rating_sigma": 1.2117458702255197,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "aacb87b8-96ca-49fc-98ac-d3821d6ce048",
+        "name": "Blaster",
+        "rating": 22.597664044197032,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "win"
+      }
     }
   }
 }

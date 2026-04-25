@@ -72,6 +72,40 @@
         "trainer_name": "twofold_diary5",
         "result": "loss"
       }
+    },
+    "2023-01-08T09:20:18.726587+00:00": {
+      "this_amiibo": {
+        "rating": 19.653573298644623,
+        "rating_mu": 29.568543000154445,
+        "rating_sigma": 3.304989900503274,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "b169da8a-8796-4ba6-b1e6-4ce318eed066",
+        "name": "Hiro",
+        "rating": 28.059638598099955,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "win"
+      }
+    },
+    "2023-01-08T05:14:33.731766+00:00": {
+      "this_amiibo": {
+        "rating": 20.26501400202369,
+        "rating_mu": 31.206212918946907,
+        "rating_sigma": 3.647066305641072,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "78507133-d7f5-48db-9370-176c62bf8daa",
+        "name": "Adachi",
+        "rating": 28.295477622816893,
+        "trainer_id": "a5eb3823-a703-4a48-9039-c1142b46ebde",
+        "trainer_name": "False_Justice",
+        "result": "win"
+      }
     }
   }
 }

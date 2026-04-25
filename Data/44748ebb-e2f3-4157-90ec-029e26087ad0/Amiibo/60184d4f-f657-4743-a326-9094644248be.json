@@ -1245,6 +1245,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2023-01-14T10:23:19.092396+00:00": {
+      "this_amiibo": {
+        "rating": 33.6596250381212,
+        "rating_mu": 36.64580624680887,
+        "rating_sigma": 0.9953937362292234,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "0f54afff-2070-4dc3-b9da-0e9412b5c4dd",
+        "name": "Arya",
+        "rating": 34.63796066647395,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2023-01-14T07:25:45.489717+00:00": {
+      "this_amiibo": {
+        "rating": 33.773954654841674,
+        "rating_mu": 36.776183715564095,
+        "rating_sigma": 1.0007430202408079,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "11a2d519-b96f-499a-9470-73a05336a6cc",
+        "name": "GrabLocked",
+        "rating": 31.884940548293272,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "AmiibotsCurseDistributor_",
+        "result": "win"
+      }
     }
   }
 }

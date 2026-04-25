@@ -21,6 +21,40 @@
         "trainer_name": "brain_dread",
         "result": "loss"
       }
+    },
+    "2023-01-07T11:28:25.174736+00:00": {
+      "this_amiibo": {
+        "rating": 11.045070955391175,
+        "rating_mu": 26.71097954177983,
+        "rating_sigma": 5.221969528796219,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "7eaf6274-336d-4ea9-8136-7c6a70049b11",
+        "name": "lvl 9 cpu",
+        "rating": 27.14897749078633,
+        "trainer_id": "4c096049-60df-4586-abcd-787193f3f6b2",
+        "trainer_name": "cheese_manhater2",
+        "result": "win"
+      }
+    },
+    "2023-01-10T18:59:29.225500+00:00": {
+      "this_amiibo": {
+        "rating": 16.910396962161837,
+        "rating_mu": 30.02881834564098,
+        "rating_sigma": 4.3728071278263805,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "deae37ae-cdef-4fc1-a3d7-ba238f0a34b7",
+        "name": "King",
+        "rating": 26.05483751140812,
+        "trainer_id": "2e52684c-b62c-49ac-9880-59ada37bfd16",
+        "trainer_name": "booomeeth",
+        "result": "loss"
+      }
     }
   }
 }

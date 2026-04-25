@@ -1381,6 +1381,40 @@
         "trainer_name": "someguy_456",
         "result": "win"
       }
+    },
+    "2023-01-17T23:59:54.277433+00:00": {
+      "this_amiibo": {
+        "rating": 24.207634087421457,
+        "rating_mu": 32.41822270898594,
+        "rating_sigma": 2.7368628738548266,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "aba2fd29-0e9e-4d9f-8294-8eb959908bd6",
+        "name": "Aether",
+        "rating": 28.447102213769192,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "average_videogame_user",
+        "result": "loss"
+      }
+    },
+    "2023-01-17T22:33:57.351509+00:00": {
+      "this_amiibo": {
+        "rating": 26.386032362153184,
+        "rating_mu": 31.408033955009433,
+        "rating_sigma": 1.6740005309520833,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fa1ac3ba-0880-483b-b94e-9b4952e3f999",
+        "id": "c7b12281-2239-4a0e-8f56-e177939eb4a4",
+        "name": "He-Man",
+        "rating": 25.93310981438641,
+        "trainer_id": "74fb0249-4b7d-4ef4-9aa9-3fdf35fe351c",
+        "trainer_name": "Starshade71",
+        "result": "win"
+      }
     }
   }
 }

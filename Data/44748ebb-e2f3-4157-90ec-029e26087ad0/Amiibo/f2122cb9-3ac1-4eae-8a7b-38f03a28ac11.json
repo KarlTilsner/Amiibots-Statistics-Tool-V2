@@ -1228,6 +1228,40 @@
         "trainer_name": "iguyw",
         "result": "loss"
       }
+    },
+    "2023-01-06T21:01:29.077124+00:00": {
+      "this_amiibo": {
+        "rating": 18.59297623989238,
+        "rating_mu": 21.84056426351193,
+        "rating_sigma": 1.0825293412065164,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "b77b5cab-d64b-474f-82b2-ae154f1ada5d",
+        "name": "windows11",
+        "rating": 19.125157088485945,
+        "trainer_id": "52395cd5-7302-493e-a7a9-c0cf640159cd",
+        "trainer_name": "mafriel",
+        "result": "win"
+      }
+    },
+    "2023-01-07T05:40:07.440988+00:00": {
+      "this_amiibo": {
+        "rating": 18.68454230415454,
+        "rating_mu": 21.927176298142378,
+        "rating_sigma": 1.0808779979959453,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "d11456de-3ce8-4f66-ab8b-faeb8f5132cc",
+        "name": "Aqua",
+        "rating": 0.7539703658344088,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "loss"
+      }
     }
   }
 }
