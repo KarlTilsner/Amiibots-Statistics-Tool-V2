@@ -1772,6 +1772,40 @@
         "trainer_name": "AmiiboDoctor",
         "result": "loss"
       }
+    },
+    "2023-02-05T06:07:29.672720+00:00": {
+      "this_amiibo": {
+        "rating": 26.207564633852986,
+        "rating_mu": 29.04956473428626,
+        "rating_sigma": 0.9473333668110911,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "825ff735-91b9-423b-9d28-4df8742d76d9",
+        "name": "DarkKenny",
+        "rating": 25.871972026579055,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "win"
+      }
+    },
+    "2023-02-12T00:02:13.921684+00:00": {
+      "this_amiibo": {
+        "rating": 26.344864307428693,
+        "rating_mu": 29.174688045502176,
+        "rating_sigma": 0.9432745793578281,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "c34f3b98-6387-448a-884d-4c75d246c0f7",
+        "name": "Protoman",
+        "rating": 26.87263130678078,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "loss"
+      }
     }
   }
 }

@@ -1551,6 +1551,57 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2023-02-05T19:32:06.873512+00:00": {
+      "this_amiibo": {
+        "rating": 38.86629347555648,
+        "rating_mu": 41.686129834981394,
+        "rating_sigma": 0.9399454531416371,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "b221f1e1-c865-4b70-a281-d7fde72e7ef7",
+        "name": "Incineroar",
+        "rating": 39.73119483327602,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "win"
+      }
+    },
+    "2023-02-08T02:13:29.236042+00:00": {
+      "this_amiibo": {
+        "rating": 38.98794914099663,
+        "rating_mu": 41.79752759084218,
+        "rating_sigma": 0.9365261499485142,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "f8ff11cf-5e28-4d3f-8d07-b1056e7b62f6",
+        "name": "Obelisk",
+        "rating": 37.64720911676201,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "loss"
+      }
+    },
+    "2023-02-10T10:58:27.406655+00:00": {
+      "this_amiibo": {
+        "rating": 38.87109905077676,
+        "rating_mu": 41.66915160509593,
+        "rating_sigma": 0.9326841847730545,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "f8ff11cf-5e28-4d3f-8d07-b1056e7b62f6",
+        "name": "Obelisk",
+        "rating": 38.10711801889293,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "win"
+      }
     }
   }
 }

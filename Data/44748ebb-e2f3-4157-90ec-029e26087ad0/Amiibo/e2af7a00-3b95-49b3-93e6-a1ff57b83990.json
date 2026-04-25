@@ -344,6 +344,57 @@
         "trainer_name": "jessee1209",
         "result": "loss"
       }
+    },
+    "2023-02-05T04:40:35.144842+00:00": {
+      "this_amiibo": {
+        "rating": 12.433287303590252,
+        "rating_mu": 18.089869988181025,
+        "rating_sigma": 1.8855275615302576,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "466bd1a8-1575-47fd-b5b4-e2227f90e0ba",
+        "name": "Kevin",
+        "rating": 15.414468184856132,
+        "trainer_id": "479b93ff-1d93-4e65-88c9-8cbfff7e08fc",
+        "trainer_name": "SquallDBC",
+        "result": "win"
+      }
+    },
+    "2023-02-08T16:29:22.380828+00:00": {
+      "this_amiibo": {
+        "rating": 12.876797499271529,
+        "rating_mu": 18.460633410757456,
+        "rating_sigma": 1.8612786371619754,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "03a6dd38-be9b-4981-a3cd-e42bd1281338",
+        "name": "AerialPain",
+        "rating": -1.3279208239862328,
+        "trainer_id": "16758325-89ed-4978-8cc3-f2615f304f84",
+        "trainer_name": "tiefighter450",
+        "result": "loss"
+      }
+    },
+    "2023-02-16T23:35:02.444689+00:00": {
+      "this_amiibo": {
+        "rating": 13.432365677513237,
+        "rating_mu": 18.870564187560284,
+        "rating_sigma": 1.8127328366823487,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "59df3c3a-1c09-42b9-bc4e-3bf26f9f7622",
+        "name": "antscMrFox",
+        "rating": 13.456868047043233,
+        "trainer_id": "9863ac87-9ad3-4ebc-858c-3f0a6f5adafa",
+        "trainer_name": "swagginwaggin",
+        "result": "loss"
+      }
     }
   }
 }

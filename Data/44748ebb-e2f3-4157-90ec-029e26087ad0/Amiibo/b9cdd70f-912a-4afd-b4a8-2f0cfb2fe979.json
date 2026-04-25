@@ -1534,6 +1534,40 @@
         "trainer_name": "hidari_amiibo",
         "result": "win"
       }
+    },
+    "2023-02-09T13:35:37.226222+00:00": {
+      "this_amiibo": {
+        "rating": 27.07466051333623,
+        "rating_mu": 30.013998760341508,
+        "rating_sigma": 0.9797794156684259,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "3b120af4-fa72-4a81-a5bc-bc7f042db203",
+        "name": "Rose Tyler",
+        "rating": 23.893187380125294,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      }
+    },
+    "2023-02-12T17:31:53.307765+00:00": {
+      "this_amiibo": {
+        "rating": 27.239336924601684,
+        "rating_mu": 30.162611204909652,
+        "rating_sigma": 0.974424760102656,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "5b0884a9-02a0-446f-a230-c518f0eff5c4",
+        "name": "JustTurtle",
+        "rating": 28.634876813598016,
+        "trainer_id": "4f6f55b1-cf3e-4c7b-a378-2641d72fcf23",
+        "trainer_name": "TheLimpWalrus",
+        "result": "loss"
+      }
     }
   }
 }

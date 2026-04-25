@@ -293,6 +293,74 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2023-02-05T11:50:14.770647+00:00": {
+      "this_amiibo": {
+        "rating": 31.98380980527258,
+        "rating_mu": 37.61884307083519,
+        "rating_sigma": 1.8783444218542034,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "eda158ca-a8f6-4ce1-a701-9ccf03ca5273",
+        "name": "Smoke",
+        "rating": 34.40548239109397,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
+    },
+    "2023-02-05T22:00:03.253990+00:00": {
+      "this_amiibo": {
+        "rating": 33.2412991601924,
+        "rating_mu": 38.56989371564699,
+        "rating_sigma": 1.7761981851515312,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "dd124821-ed06-4a8d-81ab-f11514d1ef99",
+        "name": "elmo",
+        "rating": 34.02025034500417,
+        "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+        "trainer_name": "fammydamammy",
+        "result": "loss"
+      }
+    },
+    "2023-02-05T21:38:23.892903+00:00": {
+      "this_amiibo": {
+        "rating": 32.56978747963908,
+        "rating_mu": 38.04884599357727,
+        "rating_sigma": 1.8263528379793947,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "5c7593b0-148c-447e-988f-9f969cb3c2fc",
+        "name": "Cupcake",
+        "rating": 34.52366212367788,
+        "trainer_id": "26cad4d1-9d7d-457c-b6e3-6a285e74f071",
+        "trainer_name": "toonlinktroll",
+        "result": "loss"
+      }
+    },
+    "2023-02-15T15:28:41.695805+00:00": {
+      "this_amiibo": {
+        "rating": 33.666011420385104,
+        "rating_mu": 38.90189294554906,
+        "rating_sigma": 1.7452938417213193,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "1681fc9e-b548-4a9c-827f-15bf5598df58",
+        "name": "Master Wu",
+        "rating": 25.645169332929562,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "loss"
+      }
     }
   }
 }

@@ -2877,6 +2877,40 @@
         "trainer_name": "random_fire",
         "result": "loss"
       }
+    },
+    "2023-02-07T08:12:25.182030+00:00": {
+      "this_amiibo": {
+        "rating": 34.441801096539486,
+        "rating_mu": 37.16808287117449,
+        "rating_sigma": 0.9087605915450009,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "e14982b4-9815-4660-8a39-6c9a8475e43c",
+        "name": "MISHIMA",
+        "rating": 32.29291955497732,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "average_videogame_user",
+        "result": "win"
+      }
+    },
+    "2023-02-09T11:21:12.509983+00:00": {
+      "this_amiibo": {
+        "rating": 34.33918143311845,
+        "rating_mu": 37.05675917010605,
+        "rating_sigma": 0.9058592456625328,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "6dd33567-d49f-4c7e-adaa-057058c79e3a",
+        "name": "NegativeXP",
+        "rating": 34.607614680776386,
+        "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
+        "trainer_name": "soysauce881",
+        "result": "win"
+      }
     }
   }
 }

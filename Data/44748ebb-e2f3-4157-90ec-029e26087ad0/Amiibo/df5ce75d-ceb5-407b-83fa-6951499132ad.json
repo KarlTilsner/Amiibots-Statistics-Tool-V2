@@ -1721,6 +1721,40 @@
         "trainer_name": "nonSenseTaco",
         "result": "win"
       }
+    },
+    "2023-02-06T08:54:59.901337+00:00": {
+      "this_amiibo": {
+        "rating": 31.59618930796315,
+        "rating_mu": 34.36385702376149,
+        "rating_sigma": 0.9225559052661134,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "506859ec-1bf1-464f-8490-617b7748eab0",
+        "name": "hi cloud:)",
+        "rating": 25.919755372061864,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "average_videogame_user",
+        "result": "loss"
+      }
+    },
+    "2023-02-15T23:09:57.739030+00:00": {
+      "this_amiibo": {
+        "rating": 31.500219654973964,
+        "rating_mu": 34.25975547421952,
+        "rating_sigma": 0.919845273081851,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "a14d999c-7bca-4159-9f01-d4b1cea61641",
+        "name": "Gwynbleidd",
+        "rating": 30.389977754803667,
+        "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
+        "trainer_name": "LovingStew",
+        "result": "win"
+      }
     }
   }
 }

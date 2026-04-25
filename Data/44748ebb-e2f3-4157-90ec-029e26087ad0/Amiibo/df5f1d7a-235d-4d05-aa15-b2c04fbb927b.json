@@ -650,6 +650,40 @@
         "trainer_name": "WoopalotlSSBU",
         "result": "loss"
       }
+    },
+    "2023-02-13T21:29:42.370532+00:00": {
+      "this_amiibo": {
+        "rating": 21.692118389726886,
+        "rating_mu": 25.78897013912638,
+        "rating_sigma": 1.365617249799831,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 26.595211300954738,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "win"
+      }
+    },
+    "2023-02-17T02:27:25.651739+00:00": {
+      "this_amiibo": {
+        "rating": 21.5381512768989,
+        "rating_mu": 25.600258340164377,
+        "rating_sigma": 1.3540356877551578,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "3a0507af-a355-4be3-862b-a0b5a5ad069a",
+        "name": "Riptide",
+        "rating": 16.383565294282946,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
     }
   }
 }

@@ -854,6 +854,40 @@
         "trainer_name": "average_videogame_user",
         "result": "loss"
       }
+    },
+    "2023-02-10T06:14:38.117829+00:00": {
+      "this_amiibo": {
+        "rating": 25.576282391101614,
+        "rating_mu": 29.15173891420131,
+        "rating_sigma": 1.1918188410332313,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "0b60e147-79c0-46f8-b562-c7a1643a26ae",
+        "name": "Swoop",
+        "rating": 19.968267678120824,
+        "trainer_id": "0dc4a16f-927f-41d7-bcf5-b338e590b5fa",
+        "trainer_name": "KodinGaming",
+        "result": "loss"
+      }
+    },
+    "2023-02-15T17:26:52.870439+00:00": {
+      "this_amiibo": {
+        "rating": 25.421436209508,
+        "rating_mu": 28.960768672480608,
+        "rating_sigma": 1.1797774876575364,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "c34f3b98-6387-448a-884d-4c75d246c0f7",
+        "name": "Protoman",
+        "rating": 26.69693872612135,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "win"
+      }
     }
   }
 }

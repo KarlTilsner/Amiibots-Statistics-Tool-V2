@@ -174,6 +174,40 @@
         "trainer_name": "VertixSSB",
         "result": "loss"
       }
+    },
+    "2023-02-11T06:03:59.677964+00:00": {
+      "this_amiibo": {
+        "rating": 25.895197249838006,
+        "rating_mu": 32.98997208578678,
+        "rating_sigma": 2.3649249453162584,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "193d5f89-3f88-4ef4-9dc1-00e6f32b26c4",
+        "name": "Eragon",
+        "rating": 30.913439499376924,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2023-02-17T02:44:29.842699+00:00": {
+      "this_amiibo": {
+        "rating": 26.802999385784393,
+        "rating_mu": 33.60614217587404,
+        "rating_sigma": 2.267714263363216,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3a80cdac-93bb-4a75-8e38-f69f37d10ec6",
+        "id": "b4ebdb90-4394-4919-8ee6-fa7b962cdad0",
+        "name": "Keith",
+        "rating": 28.83561734454802,
+        "trainer_id": "483fb9bd-575a-446b-90ee-b81fa0b8e69d",
+        "trainer_name": "nonSenseTaco",
+        "result": "loss"
+      }
     }
   }
 }

@@ -4067,6 +4067,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2023-02-04T20:48:36.148518+00:00": {
+      "this_amiibo": {
+        "rating": 36.681955458093164,
+        "rating_mu": 39.13408121369081,
+        "rating_sigma": 0.8173752518658826,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "91c412bd-744b-4f8d-a326-5fa5b3b38100",
+        "name": "Alice",
+        "rating": 34.79483862465232,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "win"
+      }
+    },
+    "2023-02-13T11:02:05.626400+00:00": {
+      "this_amiibo": {
+        "rating": 36.76320214176957,
+        "rating_mu": 39.214306238411055,
+        "rating_sigma": 0.8170346988804952,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "ad8e4188-fbd6-43c8-aed1-22dd52b66ab4",
+        "name": "Radahn",
+        "rating": 34.41836442164381,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "loss"
+      }
     }
   }
 }
