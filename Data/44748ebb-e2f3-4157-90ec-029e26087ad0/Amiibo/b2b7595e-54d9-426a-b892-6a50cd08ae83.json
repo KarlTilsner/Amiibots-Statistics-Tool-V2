@@ -123,6 +123,40 @@
         "trainer_name": "FearOCE",
         "result": "win"
       }
+    },
+    "2023-02-23T05:00:30.652810+00:00": {
+      "this_amiibo": {
+        "rating": 24.791871154486124,
+        "rating_mu": 33.12369048557164,
+        "rating_sigma": 2.77727311036184,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "5291ae1b-6268-45fb-8274-6566560cfc58",
+        "name": "R U OK?",
+        "rating": 30.21099153907923,
+        "trainer_id": "bb97642b-5537-4a96-9b38-62ec8e984f5b",
+        "trainer_name": "j20pk",
+        "result": "loss"
+      }
+    },
+    "2023-03-04T13:40:51.267261+00:00": {
+      "this_amiibo": {
+        "rating": 25.665306528720848,
+        "rating_mu": 33.639146109161324,
+        "rating_sigma": 2.6579465268134914,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 26.40704057417205,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "loss"
+      }
     }
   }
 }

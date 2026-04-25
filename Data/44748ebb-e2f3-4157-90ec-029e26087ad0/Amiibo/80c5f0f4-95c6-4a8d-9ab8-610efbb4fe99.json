@@ -1245,6 +1245,57 @@
         "trainer_name": "MiDe1",
         "result": "loss"
       }
+    },
+    "2023-02-24T06:39:19.329266+00:00": {
+      "this_amiibo": {
+        "rating": 27.468279691157004,
+        "rating_mu": 30.62657169635433,
+        "rating_sigma": 1.0527640017324418,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "308e9926-d796-4093-b6ab-f717552d7619",
+        "name": "Timmy T.",
+        "rating": 24.371222100981818,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
+        "result": "win"
+      }
+    },
+    "2023-02-25T06:52:34.801231+00:00": {
+      "this_amiibo": {
+        "rating": 27.63248948594976,
+        "rating_mu": 30.770134721310477,
+        "rating_sigma": 1.0458817451202391,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "2ddc610f-abe9-4e43-a298-9319b181f4ab",
+        "name": "STEVE",
+        "rating": 27.66480144846506,
+        "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
+        "trainer_name": "Pi_Boy_314",
+        "result": "loss"
+      }
+    },
+    "2023-03-03T21:20:27.734044+00:00": {
+      "this_amiibo": {
+        "rating": 27.777629892911815,
+        "rating_mu": 30.89854035111888,
+        "rating_sigma": 1.040303486069021,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "5b3b9557-d8ad-4cfc-8b2e-ecbf8b76dbbb",
+        "name": "First Uber",
+        "rating": 23.641229191535103,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "loss"
+      }
     }
   }
 }

@@ -1228,6 +1228,57 @@
         "trainer_name": "nozomup",
         "result": "loss"
       }
+    },
+    "2023-02-26T23:34:32.469344+00:00": {
+      "this_amiibo": {
+        "rating": 34.74322194008491,
+        "rating_mu": 37.776261240897725,
+        "rating_sigma": 1.0110131002709386,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "5c7a6f83-a271-4ce1-b557-15e6453731dd",
+        "name": "Scar",
+        "rating": 38.40852838462975,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "win"
+      }
+    },
+    "2023-03-05T00:08:53.695352+00:00": {
+      "this_amiibo": {
+        "rating": 34.608406032041465,
+        "rating_mu": 37.623185962605206,
+        "rating_sigma": 1.0049266435212458,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "ba4a167a-a457-4dec-a15a-8d3660377fb4",
+        "name": "Shrek",
+        "rating": 33.704972908158055,
+        "trainer_id": "52395cd5-7302-493e-a7a9-c0cf640159cd",
+        "trainer_name": "mafriel",
+        "result": "win"
+      }
+    },
+    "2023-03-05T20:10:19.173107+00:00": {
+      "this_amiibo": {
+        "rating": 34.83965099910064,
+        "rating_mu": 37.833377889662415,
+        "rating_sigma": 0.9979089635205918,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "7790c762-11ba-4be9-b510-8b074eaf8c9d",
+        "name": "Kiryu",
+        "rating": 37.722938989860076,
+        "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
+        "trainer_name": "Sirffuzzylogik",
+        "result": "loss"
+      }
     }
   }
 }

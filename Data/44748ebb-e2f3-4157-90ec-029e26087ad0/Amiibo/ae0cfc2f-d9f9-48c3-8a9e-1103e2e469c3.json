@@ -55,6 +55,40 @@
         "trainer_name": "faunassbu",
         "result": "win"
       }
+    },
+    "2023-02-24T20:04:56.220915+00:00": {
+      "this_amiibo": {
+        "rating": 0.7062579811440948,
+        "rating_mu": 13.31013837984996,
+        "rating_sigma": 4.201293466235288,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "324f1147-6e7c-402a-87d7-7b41d1e2651d",
+        "name": "agent 007",
+        "rating": 10.305090389677776,
+        "trainer_id": "2dc27fd0-46aa-452d-87bf-a07832523ee5",
+        "trainer_name": "me_694",
+        "result": "win"
+      }
+    },
+    "2023-02-27T10:48:58.606731+00:00": {
+      "this_amiibo": {
+        "rating": 4.203127334647251,
+        "rating_mu": 15.375247588414835,
+        "rating_sigma": 3.7240400845891948,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "324f1147-6e7c-402a-87d7-7b41d1e2651d",
+        "name": "agent 007",
+        "rating": 9.97113609882274,
+        "trainer_id": "2dc27fd0-46aa-452d-87bf-a07832523ee5",
+        "trainer_name": "me_694",
+        "result": "loss"
+      }
     }
   }
 }

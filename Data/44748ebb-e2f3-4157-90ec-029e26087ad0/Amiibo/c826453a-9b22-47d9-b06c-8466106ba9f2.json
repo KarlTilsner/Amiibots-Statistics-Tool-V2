@@ -1721,6 +1721,40 @@
         "trainer_name": "HD_ssbu",
         "result": "loss"
       }
+    },
+    "2023-02-21T06:47:41.420468+00:00": {
+      "this_amiibo": {
+        "rating": 31.270997313258285,
+        "rating_mu": 34.16800018596993,
+        "rating_sigma": 0.9656676242372152,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "bc8c0ec7-f7ab-426e-866e-58e55d49a83f",
+        "name": "Dyne-t-rex",
+        "rating": 31.207620183346656,
+        "trainer_id": "2f91b438-99d4-4966-b002-9a9b4dbfaf92",
+        "trainer_name": "Klerpy",
+        "result": "win"
+      }
+    },
+    "2023-03-05T00:46:54.339065+00:00": {
+      "this_amiibo": {
+        "rating": 31.40718707911473,
+        "rating_mu": 34.29170496286758,
+        "rating_sigma": 0.9615059612509482,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+        "id": "221d2068-d582-4c22-97fd-d917de7c9aae",
+        "name": "Air Bear",
+        "rating": 29.716918748810023,
+        "trainer_id": "d5a5c4f3-d299-47a2-a5e0-ed4471b55e36",
+        "trainer_name": "not_citrus23",
+        "result": "loss"
+      }
     }
   }
 }

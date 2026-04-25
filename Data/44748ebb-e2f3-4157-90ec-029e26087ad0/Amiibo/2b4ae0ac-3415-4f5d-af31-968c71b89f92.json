@@ -633,6 +633,40 @@
         "trainer_name": "MiDe1",
         "result": "loss"
       }
+    },
+    "2023-02-23T08:03:08.804307+00:00": {
+      "this_amiibo": {
+        "rating": 22.29423550193466,
+        "rating_mu": 26.577832433049377,
+        "rating_sigma": 1.427865643704905,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "29932c7d-97f3-4a18-8fda-7440470ff63d",
+        "name": "Puka",
+        "rating": 23.664573420650523,
+        "trainer_id": "dfd7eda0-b0a3-45b8-baf9-764cb4a0283a",
+        "trainer_name": "Inverse_vs",
+        "result": "win"
+      }
+    },
+    "2023-02-26T21:49:22.496028+00:00": {
+      "this_amiibo": {
+        "rating": 22.645485573615694,
+        "rating_mu": 26.86094701518584,
+        "rating_sigma": 1.4051538138567148,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "33acbfd9-edf6-4304-b5e7-6ecff3659760",
+        "name": "DoTheMario",
+        "rating": 22.965551084868952,
+        "trainer_id": "d92b7874-c5d1-4579-8e92-86d56c5e594f",
+        "trainer_name": "sumrando123",
+        "result": "loss"
+      }
     }
   }
 }

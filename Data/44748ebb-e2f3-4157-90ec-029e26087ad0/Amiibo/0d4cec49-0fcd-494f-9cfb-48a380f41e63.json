@@ -854,6 +854,57 @@
         "trainer_name": "amiibofight",
         "result": "win"
       }
+    },
+    "2023-03-01T17:31:56.195477+00:00": {
+      "this_amiibo": {
+        "rating": 23.314340067138833,
+        "rating_mu": 26.911670471482918,
+        "rating_sigma": 1.199110134781362,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "e3a0bbe0-1f6d-4bd8-8f99-984162a96079",
+        "name": "Dill",
+        "rating": 22.185583790062807,
+        "trainer_id": "d60c17de-88e7-4a82-9e0f-27247be1a530",
+        "trainer_name": "epicslasher1",
+        "result": "win"
+      }
+    },
+    "2023-03-04T05:55:55.390471+00:00": {
+      "this_amiibo": {
+        "rating": 23.19302243702292,
+        "rating_mu": 26.78233789904225,
+        "rating_sigma": 1.196438487339777,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "b56cf0e7-04d3-4dc9-b019-caebc9eceb5b",
+        "name": "Iris",
+        "rating": 12.57438478017302,
+        "trainer_id": "f346091f-8917-49bc-b479-b0c568026dbf",
+        "trainer_name": "RazorForce21",
+        "result": "win"
+      }
+    },
+    "2023-03-04T12:01:31.095631+00:00": {
+      "this_amiibo": {
+        "rating": 23.046965055742902,
+        "rating_mu": 26.6183226559249,
+        "rating_sigma": 1.1904525333939988,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "a9d4a5c5-af1b-4c4b-815f-a3285e28c0c9",
+        "name": "optimal",
+        "rating": 14.950094188375097,
+        "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+        "trainer_name": "LunagradeTV",
+        "result": "win"
+      }
     }
   }
 }

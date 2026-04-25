@@ -531,6 +531,40 @@
         "trainer_name": "CSharp__",
         "result": "loss"
       }
+    },
+    "2023-02-21T22:05:01.856841+00:00": {
+      "this_amiibo": {
+        "rating": 25.96384362663861,
+        "rating_mu": 30.33238151131351,
+        "rating_sigma": 1.4561792948916332,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
+        "id": "4cd81004-d49d-4692-adc8-4439b7c8b252",
+        "name": "Symbiote",
+        "rating": 29.06524930758454,
+        "trainer_id": "0918eb1f-823d-4b61-8da3-387a14718ebf",
+        "trainer_name": "GamerJohn_",
+        "result": "win"
+      }
+    },
+    "2023-02-23T14:10:03.846080+00:00": {
+      "this_amiibo": {
+        "rating": 25.704843961798872,
+        "rating_mu": 29.993990497781027,
+        "rating_sigma": 1.4297155119940517,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "c34f3b98-6387-448a-884d-4c75d246c0f7",
+        "name": "Protoman",
+        "rating": 26.39606069520421,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "win"
+      }
     }
   }
 }

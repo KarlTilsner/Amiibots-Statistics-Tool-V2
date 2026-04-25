@@ -1432,6 +1432,40 @@
         "trainer_name": "MiDe1",
         "result": "win"
       }
+    },
+    "2023-03-01T17:18:34.061143+00:00": {
+      "this_amiibo": {
+        "rating": 29.57867022614657,
+        "rating_mu": 32.69322070608677,
+        "rating_sigma": 1.0381834933133993,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "46c239b1-fb2b-49f6-853e-4137a7ca4b95",
+        "name": "Artemis",
+        "rating": 21.862290323230475,
+        "trainer_id": "f346091f-8917-49bc-b479-b0c568026dbf",
+        "trainer_name": "RazorForce21",
+        "result": "win"
+      }
+    },
+    "2023-03-01T15:20:09.001095+00:00": {
+      "this_amiibo": {
+        "rating": 29.681175224467943,
+        "rating_mu": 32.8025111748026,
+        "rating_sigma": 1.0404453167782202,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "2848d29e-614e-4621-8e21-9398473f3cb9",
+        "name": "Birdperson",
+        "rating": 23.168502867409643,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "loss"
+      }
     }
   }
 }

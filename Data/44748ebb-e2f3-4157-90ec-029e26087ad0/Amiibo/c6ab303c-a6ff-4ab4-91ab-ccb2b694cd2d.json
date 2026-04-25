@@ -2197,6 +2197,40 @@
         "trainer_name": "pinheadpatrick017",
         "result": "loss"
       }
+    },
+    "2023-02-26T05:23:55.052092+00:00": {
+      "this_amiibo": {
+        "rating": 25.820026799384305,
+        "rating_mu": 28.458680633366647,
+        "rating_sigma": 0.8795512779941138,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 26.718869203130353,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "win"
+      }
+    },
+    "2023-03-02T16:46:09.664648+00:00": {
+      "this_amiibo": {
+        "rating": 25.93815631626242,
+        "rating_mu": 28.569804890843756,
+        "rating_sigma": 0.8772161915271122,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 26.467913239898895,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "loss"
+      }
     }
   }
 }

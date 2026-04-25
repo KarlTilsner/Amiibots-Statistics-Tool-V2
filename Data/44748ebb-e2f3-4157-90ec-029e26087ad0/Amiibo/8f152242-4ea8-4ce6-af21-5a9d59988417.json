@@ -38,6 +38,40 @@
         "trainer_name": "average_videogame_user",
         "result": "loss"
       }
+    },
+    "2023-02-19T07:30:19.300518+00:00": {
+      "this_amiibo": {
+        "rating": 24.35995101847783,
+        "rating_mu": 35.927207486437645,
+        "rating_sigma": 3.855752155986605,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "8e838694-7b26-446e-8314-9689099bfb59",
+        "name": "Sothis",
+        "rating": 36.654967028863254,
+        "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+        "trainer_name": "Competitively2",
+        "result": "win"
+      }
+    },
+    "2023-02-19T07:16:48.503904+00:00": {
+      "this_amiibo": {
+        "rating": 24.684758039623947,
+        "rating_mu": 37.652473355377936,
+        "rating_sigma": 4.322571771917996,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "74af2a20-6b90-429d-87d0-109418f583d1",
+        "name": "Roulette",
+        "rating": 32.0767271194647,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "loss"
+      }
     }
   }
 }

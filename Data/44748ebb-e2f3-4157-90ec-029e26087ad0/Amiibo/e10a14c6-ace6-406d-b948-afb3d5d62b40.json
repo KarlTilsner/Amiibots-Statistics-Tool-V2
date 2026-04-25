@@ -225,6 +225,57 @@
         "trainer_name": "smashssf2_ita",
         "result": "loss"
       }
+    },
+    "2023-02-25T06:22:38.376468+00:00": {
+      "this_amiibo": {
+        "rating": 22.864052247120288,
+        "rating_mu": 29.25539526999719,
+        "rating_sigma": 2.130447674292301,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "b7a42a67-3c5c-46e5-84bf-34f1f5030e13",
+        "name": "Sun Tzu",
+        "rating": 19.632582247643036,
+        "trainer_id": "229cc080-eb7b-4fa0-856d-af16574a0979",
+        "trainer_name": "ggfan52",
+        "result": "win"
+      }
+    },
+    "2023-03-01T00:32:51.253511+00:00": {
+      "this_amiibo": {
+        "rating": 23.6469100252584,
+        "rating_mu": 29.813653708400437,
+        "rating_sigma": 2.0555812277140117,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "30dba625-f997-468f-8639-71ceefcb556a",
+        "name": "Luna",
+        "rating": 25.3146350743175,
+        "trainer_id": "95c09948-6452-4ce4-b27f-6c73c294c610",
+        "trainer_name": "2Snowblind",
+        "result": "loss"
+      }
+    },
+    "2023-03-02T17:40:28.166480+00:00": {
+      "this_amiibo": {
+        "rating": 24.355458026377313,
+        "rating_mu": 30.32089939192871,
+        "rating_sigma": 1.9884804551837985,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "e7cb763a-b879-4741-9c9c-9096d09694f6",
+        "name": "1u1g1",
+        "rating": 26.113907786601295,
+        "trainer_id": "b929ab4f-b055-4dda-94b4-326913335357",
+        "trainer_name": "4esv",
+        "result": "loss"
+      }
     }
   }
 }

@@ -293,6 +293,57 @@
         "trainer_name": "E1024WasTaken",
         "result": "loss"
       }
+    },
+    "2023-02-28T14:38:24.619779+00:00": {
+      "this_amiibo": {
+        "rating": 12.22557702363895,
+        "rating_mu": 19.058726860062848,
+        "rating_sigma": 2.2777166121412993,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
+        "id": "312840c9-0ef6-4b10-bb9a-d8d37a8518a3",
+        "name": "Pop!",
+        "rating": 9.531698938049868,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "win"
+      }
+    },
+    "2023-03-01T14:50:24.985558+00:00": {
+      "this_amiibo": {
+        "rating": 13.013510891725264,
+        "rating_mu": 19.629641942725517,
+        "rating_sigma": 2.2053770170000844,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
+        "id": "312840c9-0ef6-4b10-bb9a-d8d37a8518a3",
+        "name": "Pop!",
+        "rating": 8.175357345047942,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "loss"
+      }
+    },
+    "2023-03-03T20:08:10.395087+00:00": {
+      "this_amiibo": {
+        "rating": 13.821011024829572,
+        "rating_mu": 20.201438463082265,
+        "rating_sigma": 2.126809146084231,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "664b9d9c-41e6-4171-87ba-19d966305cd9",
+        "name": "Dairdevil",
+        "rating": 13.728945963073098,
+        "trainer_id": "a5eb3823-a703-4a48-9039-c1142b46ebde",
+        "trainer_name": "False_Justice",
+        "result": "loss"
+      }
     }
   }
 }
