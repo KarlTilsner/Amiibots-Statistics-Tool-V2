@@ -276,6 +276,74 @@
         "trainer_name": "amiibofight",
         "result": "win"
       }
+    },
+    "2022-05-26T20:21:07.970003+00:00": {
+      "this_amiibo": {
+        "rating": 1.6736354725522729,
+        "rating_mu": 8.129487186791712,
+        "rating_sigma": 2.1519505714131464,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "aacb87b8-96ca-49fc-98ac-d3821d6ce048",
+        "name": "Blaster",
+        "rating": 3.5811095657220315,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "win"
+      }
+    },
+    "2022-05-26T23:00:03.203060+00:00": {
+      "this_amiibo": {
+        "rating": 1.4341031451587556,
+        "rating_mu": 7.700071651710526,
+        "rating_sigma": 2.0886561688505902,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "aacb87b8-96ca-49fc-98ac-d3821d6ce048",
+        "name": "Blaster",
+        "rating": 4.225237155396889,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "win"
+      }
+    },
+    "2022-06-01T04:58:45.176544+00:00": {
+      "this_amiibo": {
+        "rating": 2.086166957649228,
+        "rating_mu": 8.173062492104869,
+        "rating_sigma": 2.0289651781518803,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "316563e2-ea24-4e1d-ade0-282369b3973c",
+        "name": "NanaSlammd",
+        "rating": -1.4954916451012839,
+        "trainer_id": "f3fd9308-4a4f-4ce8-bfa5-8f1059a23718",
+        "trainer_name": "asukaaddict",
+        "result": "loss"
+      }
+    },
+    "2022-06-03T17:27:07.238352+00:00": {
+      "this_amiibo": {
+        "rating": 1.6932110076344156,
+        "rating_mu": 7.589914132400931,
+        "rating_sigma": 1.9655677082555052,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "316563e2-ea24-4e1d-ade0-282369b3973c",
+        "name": "NanaSlammd",
+        "rating": 0.6409703690303212,
+        "trainer_id": "f3fd9308-4a4f-4ce8-bfa5-8f1059a23718",
+        "trainer_name": "asukaaddict",
+        "result": "win"
+      }
     }
   }
 }

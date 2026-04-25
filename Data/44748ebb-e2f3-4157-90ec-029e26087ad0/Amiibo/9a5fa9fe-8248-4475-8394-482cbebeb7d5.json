@@ -89,6 +89,40 @@
         "trainer_name": "ursagram",
         "result": "loss"
       }
+    },
+    "2022-05-22T11:17:13.385573+00:00": {
+      "this_amiibo": {
+        "rating": 19.076570424920995,
+        "rating_mu": 28.68601477468239,
+        "rating_sigma": 3.203148116587133,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "d34e7445-ba5c-43b0-815f-f9429860f60c",
+        "name": "link",
+        "rating": 27.50119940122884,
+        "trainer_id": "80e1c8d7-18a9-4fbb-9ee5-23eca623505e",
+        "trainer_name": "kusoshinu",
+        "result": "loss"
+      }
+    },
+    "2022-05-22T18:14:46.842103+00:00": {
+      "this_amiibo": {
+        "rating": 18.863423530585578,
+        "rating_mu": 27.926386727034988,
+        "rating_sigma": 3.0209877321498033,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "30b0cf85-daf9-4575-b3f6-6cd1dba3705a",
+        "name": "Test Run",
+        "rating": 27.597427238522478,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "win"
+      }
     }
   }
 }

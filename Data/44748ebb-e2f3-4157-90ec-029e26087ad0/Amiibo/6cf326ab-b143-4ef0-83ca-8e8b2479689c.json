@@ -225,6 +225,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2022-05-26T19:38:10.910630+00:00": {
+      "this_amiibo": {
+        "rating": 7.473868727654793,
+        "rating_mu": 15.628568288166726,
+        "rating_sigma": 2.718233186837311,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "d2afc1aa-87ee-4439-91fe-4f3083ee71d6",
+        "name": "Kaminari",
+        "rating": 5.599165379667713,
+        "trainer_id": "43cffe5f-d305-452b-a9de-fdff2396f7c3",
+        "trainer_name": "UltraDPG",
+        "result": "win"
+      }
+    },
+    "2022-06-02T07:15:32.808101+00:00": {
+      "this_amiibo": {
+        "rating": 8.224371687051232,
+        "rating_mu": 16.074424957913095,
+        "rating_sigma": 2.6166844236206215,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "aacb87b8-96ca-49fc-98ac-d3821d6ce048",
+        "name": "Blaster",
+        "rating": 5.401748558394798,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "loss"
+      }
     }
   }
 }

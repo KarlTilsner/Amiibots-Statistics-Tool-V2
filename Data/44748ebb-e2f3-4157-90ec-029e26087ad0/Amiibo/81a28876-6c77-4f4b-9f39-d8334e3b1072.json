@@ -3591,6 +3591,40 @@
         "trainer_name": "jholdc3",
         "result": "loss"
       }
+    },
+    "2022-05-26T23:11:46.621566+00:00": {
+      "this_amiibo": {
+        "rating": 26.572982492520236,
+        "rating_mu": 29.094288955093607,
+        "rating_sigma": 0.8404354875244565,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "3db73251-3d16-43fa-97da-6bb6af901641",
+        "name": "Harkness",
+        "rating": 26.263356390488806,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      }
+    },
+    "2022-06-03T06:25:40.314615+00:00": {
+      "this_amiibo": {
+        "rating": 26.662980804302975,
+        "rating_mu": 29.182151734137758,
+        "rating_sigma": 0.8397236432782603,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+        "id": "dd58a9a0-7400-4b4d-b8da-f19188eba75a",
+        "name": "Abu",
+        "rating": 22.717864913722163,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "loss"
+      }
     }
   }
 }

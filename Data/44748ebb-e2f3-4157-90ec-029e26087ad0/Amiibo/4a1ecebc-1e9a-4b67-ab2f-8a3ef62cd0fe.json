@@ -106,6 +106,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2022-05-22T18:32:29.871503+00:00": {
+      "this_amiibo": {
+        "rating": 4.87822551143781,
+        "rating_mu": 15.303185898730097,
+        "rating_sigma": 3.474986795764096,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "e8ac3450-24c2-44d9-8567-9c11f6645ca6",
+        "name": "PiratePicu",
+        "rating": 17.31523970840387,
+        "trainer_id": "b2c868f9-140a-4019-99a7-3277436ebd10",
+        "trainer_name": "shadybirdgamer",
+        "result": "win"
+      }
+    },
+    "2022-06-05T14:42:14.491940+00:00": {
+      "this_amiibo": {
+        "rating": 4.360212098155177,
+        "rating_mu": 14.12104032697364,
+        "rating_sigma": 3.2536094096061543,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "3a76ca0a-4e82-4bf7-9f79-3125d926102e",
+        "name": "Queenie",
+        "rating": 6.67964088852996,
+        "trainer_id": "43cffe5f-d305-452b-a9de-fdff2396f7c3",
+        "trainer_name": "UltraDPG",
+        "result": "win"
+      }
     }
   }
 }

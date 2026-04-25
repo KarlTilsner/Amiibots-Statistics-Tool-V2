@@ -5155,6 +5155,57 @@
         "trainer_name": "sorpl3x",
         "result": "loss"
       }
+    },
+    "2022-05-23T04:16:05.529397+00:00": {
+      "this_amiibo": {
+        "rating": 25.522396899621008,
+        "rating_mu": 28.024919876151802,
+        "rating_sigma": 0.8341743255102644,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "3e7572a7-4084-4f13-adda-9e7c0da61d32",
+        "name": "Arcade",
+        "rating": 25.264442699710088,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "win"
+      }
+    },
+    "2022-06-03T13:24:24.163931+00:00": {
+      "this_amiibo": {
+        "rating": 25.620729138163398,
+        "rating_mu": 28.12019205187177,
+        "rating_sigma": 0.833154304569457,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "4410ec75-e1a9-484d-a06f-f98cd5c5903f",
+        "name": "Kemuel",
+        "rating": 24.528111243373512,
+        "trainer_id": "cbea8289-f383-4cad-8950-3fa18407df3a",
+        "trainer_name": "toxicfur36",
+        "result": "loss"
+      }
+    },
+    "2022-06-04T22:41:54.038385+00:00": {
+      "this_amiibo": {
+        "rating": 25.53693849765046,
+        "rating_mu": 28.03608384103135,
+        "rating_sigma": 0.8330484477936301,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+        "id": "810a228a-868c-4e9c-8d5f-15bdad08a2a8",
+        "name": "Monferno",
+        "rating": 21.0016081327977,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
     }
   }
 }

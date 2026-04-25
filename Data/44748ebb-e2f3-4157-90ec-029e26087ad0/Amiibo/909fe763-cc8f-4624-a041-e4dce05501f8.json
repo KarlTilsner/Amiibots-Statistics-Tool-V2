@@ -293,6 +293,57 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2022-05-23T08:00:16.400404+00:00": {
+      "this_amiibo": {
+        "rating": 6.13173056497967,
+        "rating_mu": 12.678067438968416,
+        "rating_sigma": 2.182112291329582,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "aacb87b8-96ca-49fc-98ac-d3821d6ce048",
+        "name": "Blaster",
+        "rating": 2.7993214177457055,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "loss"
+      }
+    },
+    "2022-05-28T04:46:19.109267+00:00": {
+      "this_amiibo": {
+        "rating": 5.819109836148459,
+        "rating_mu": 12.190715824135458,
+        "rating_sigma": 2.123868662662333,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "6dbcaa59-dfb0-4121-bc16-9579061a4577",
+        "name": "Upskirt",
+        "rating": 4.031446548829102,
+        "trainer_id": "9863ac87-9ad3-4ebc-858c-3f0a6f5adafa",
+        "trainer_name": "swagginwaggin",
+        "result": "win"
+      }
+    },
+    "2022-05-29T05:26:30.829754+00:00": {
+      "this_amiibo": {
+        "rating": 5.51432943257937,
+        "rating_mu": 11.676985991945683,
+        "rating_sigma": 2.0542188531221046,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "c4ffba39-4196-4d79-816c-a9cf505a7703",
+        "name": "meryo",
+        "rating": 8.129869305293493,
+        "trainer_id": "7c677a01-57df-4329-925e-fd444f7db5d9",
+        "trainer_name": "DarkDakurai",
+        "result": "win"
+      }
     }
   }
 }
