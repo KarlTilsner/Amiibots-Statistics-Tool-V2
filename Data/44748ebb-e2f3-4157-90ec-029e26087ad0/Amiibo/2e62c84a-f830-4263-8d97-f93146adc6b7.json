@@ -1296,6 +1296,57 @@
         "trainer_name": "NytrozypicRL",
         "result": "loss"
       }
+    },
+    "2022-08-22T20:50:16.148817+00:00": {
+      "this_amiibo": {
+        "rating": 23.740068640613575,
+        "rating_mu": 26.961483053349504,
+        "rating_sigma": 1.0738048042453094,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "dfb4a6b3-4e39-4f23-9a03-20d5f258a044",
+        "name": "Candice",
+        "rating": 15.983267314695858,
+        "trainer_id": "05eacb7f-fff7-4c14-ab1d-129195051d66",
+        "trainer_name": "NinObsessed",
+        "result": "win"
+      }
+    },
+    "2022-08-27T19:22:35.877526+00:00": {
+      "this_amiibo": {
+        "rating": 23.91454995746532,
+        "rating_mu": 27.11515486726874,
+        "rating_sigma": 1.0668683032678066,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "c068ce48-bce1-4001-a201-437feb98512f",
+        "name": "KingD-Mind",
+        "rating": 20.81602196419543,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "loss"
+      }
+    },
+    "2022-09-01T17:28:44.425743+00:00": {
+      "this_amiibo": {
+        "rating": 24.045526718378152,
+        "rating_mu": 27.228997601515513,
+        "rating_sigma": 1.0611569610457872,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "9759c204-e9db-4d9c-a543-587a602a46b8",
+        "name": "Kicksune",
+        "rating": 19.80154166340627,
+        "trainer_id": "478fe709-29fa-4d5e-8fc3-282b80765517",
+        "trainer_name": "AstrobeatSaturn",
+        "result": "loss"
+      }
     }
   }
 }

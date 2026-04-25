@@ -4560,6 +4560,57 @@
         "trainer_name": "gotelin_",
         "result": "loss"
       }
+    },
+    "2022-08-26T23:50:43.242051+00:00": {
+      "this_amiibo": {
+        "rating": 21.913845885917816,
+        "rating_mu": 24.445806167294545,
+        "rating_sigma": 0.8439867604589094,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "8dad9e51-900f-4c8f-936d-b81f993335d7",
+        "name": "MC1",
+        "rating": 18.482949161398608,
+        "trainer_id": "718fd8e8-9eae-4c3b-a973-5526de990dba",
+        "trainer_name": "whispercord",
+        "result": "win"
+      }
+    },
+    "2022-09-01T06:41:33.762997+00:00": {
+      "this_amiibo": {
+        "rating": 21.965671009121944,
+        "rating_mu": 24.504282481424255,
+        "rating_sigma": 0.8462038241007699,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "89d00c17-b176-4328-9ec1-3f374d6602db",
+        "name": "Sanctus",
+        "rating": 0.46512901045518973,
+        "trainer_id": "c1461260-903f-4aae-ad42-af21e07e1e98",
+        "trainer_name": "MoonBeanBie",
+        "result": "loss"
+      }
+    },
+    "2022-09-02T15:54:28.838034+00:00": {
+      "this_amiibo": {
+        "rating": 22.07778021813563,
+        "rating_mu": 24.611649191893708,
+        "rating_sigma": 0.8446229912526922,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "c8a4e552-3602-40e7-ad6d-46b2f3a75b03",
+        "name": "Inksicle",
+        "rating": 22.534547116036403,
+        "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
+        "trainer_name": "SG_Bubs",
+        "result": "loss"
+      }
     }
   }
 }

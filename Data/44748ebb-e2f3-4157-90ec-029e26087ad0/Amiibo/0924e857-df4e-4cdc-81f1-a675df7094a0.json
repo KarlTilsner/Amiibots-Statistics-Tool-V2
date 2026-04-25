@@ -225,6 +225,40 @@
         "trainer_name": "TheAgentOfChaos",
         "result": "win"
       }
+    },
+    "2022-08-23T10:51:04.064189+00:00": {
+      "this_amiibo": {
+        "rating": 3.999085981565832,
+        "rating_mu": 11.60369789275146,
+        "rating_sigma": 2.5348706370618763,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "aaafdeea-b488-4bf0-a926-a6138137e9f4",
+        "name": "Stink",
+        "rating": -2.0704379978888223,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "loss"
+      }
+    },
+    "2022-08-31T11:25:41.197510+00:00": {
+      "this_amiibo": {
+        "rating": 3.7465695597677344,
+        "rating_mu": 11.113731017884126,
+        "rating_sigma": 2.455720486038797,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "f5be36f7-b1e9-4ba6-b674-b367d489bb4f",
+        "name": "Our Boy",
+        "rating": 4.909049803902743,
+        "trainer_id": "ba8e343a-f566-473d-8a43-a6059cf773f7",
+        "trainer_name": "bananspit",
+        "result": "win"
+      }
     }
   }
 }

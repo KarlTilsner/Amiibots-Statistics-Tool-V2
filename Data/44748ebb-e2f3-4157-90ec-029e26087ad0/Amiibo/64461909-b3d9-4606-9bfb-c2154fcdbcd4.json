@@ -684,6 +684,57 @@
         "trainer_name": "ShadyGSB",
         "result": "loss"
       }
+    },
+    "2022-08-23T05:25:14.619057+00:00": {
+      "this_amiibo": {
+        "rating": 27.979126287325315,
+        "rating_mu": 31.799467243746875,
+        "rating_sigma": 1.2734469854738533,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "dd22c132-afd4-4472-beb5-8f2a23911c86",
+        "name": "Anti Virus",
+        "rating": 30.336970008003924,
+        "trainer_id": "d0e3f535-e180-4251-94b6-6c528f278d1e",
+        "trainer_name": "CSharp__",
+        "result": "win"
+      }
+    },
+    "2022-08-28T07:08:06.095543+00:00": {
+      "this_amiibo": {
+        "rating": 28.25377586169274,
+        "rating_mu": 32.02758507052971,
+        "rating_sigma": 1.2579364029456561,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "18a62186-1c56-4dd6-b601-0ec7ee3d7a2c",
+        "name": "Motley",
+        "rating": 28.73383994864899,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "loss"
+      }
+    },
+    "2022-09-06T04:28:28.209423+00:00": {
+      "this_amiibo": {
+        "rating": 28.056879317054108,
+        "rating_mu": 31.786284555238492,
+        "rating_sigma": 1.243135079394795,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
+        "id": "4cd81004-d49d-4692-adc8-4439b7c8b252",
+        "name": "Symbiote",
+        "rating": 25.956289891409206,
+        "trainer_id": "0918eb1f-823d-4b61-8da3-387a14718ebf",
+        "trainer_name": "GamerJohn_",
+        "result": "win"
+      }
     }
   }
 }

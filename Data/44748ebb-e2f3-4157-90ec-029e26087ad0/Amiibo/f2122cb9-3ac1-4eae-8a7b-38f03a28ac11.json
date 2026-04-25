@@ -820,6 +820,57 @@
         "trainer_name": "cmdpromptcat",
         "result": "loss"
       }
+    },
+    "2022-08-26T01:08:27.535853+00:00": {
+      "this_amiibo": {
+        "rating": 18.663356527037962,
+        "rating_mu": 22.507346999571194,
+        "rating_sigma": 1.2813301575110778,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "02924e50-c7e6-4495-9b8e-ab14d77421bb",
+        "name": "Zallard1",
+        "rating": 14.054330305700873,
+        "trainer_id": "262a13cb-2bf9-4dea-9203-93c189fd789a",
+        "trainer_name": "JumboSizedRichard",
+        "result": "win"
+      }
+    },
+    "2022-08-28T11:34:56.502120+00:00": {
+      "this_amiibo": {
+        "rating": 18.829727599022053,
+        "rating_mu": 22.638791158069438,
+        "rating_sigma": 1.269687853015795,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
+        "id": "a62542ea-0427-4662-8d58-89e337d4e3e5",
+        "name": "Curve",
+        "rating": 16.39233451748228,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    },
+    "2022-09-02T04:02:05.589861+00:00": {
+      "this_amiibo": {
+        "rating": 19.103053032749436,
+        "rating_mu": 22.865507934478572,
+        "rating_sigma": 1.2541516339097114,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "d7aaa96d-dba5-4aa2-b121-9f1b8e3e57ed",
+        "name": "Samus",
+        "rating": 20.273725785329802,
+        "trainer_id": "3388d666-674d-404e-b6ea-96a6f0e4f893",
+        "trainer_name": "Bodhiston",
+        "result": "loss"
+      }
     }
   }
 }

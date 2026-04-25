@@ -633,6 +633,40 @@
         "trainer_name": "trueschavi",
         "result": "loss"
       }
+    },
+    "2022-08-24T21:02:51.003897+00:00": {
+      "this_amiibo": {
+        "rating": 9.515954725732502,
+        "rating_mu": 13.8115237055456,
+        "rating_sigma": 1.431856326604366,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "93215a59-d9c2-4998-a8d7-bb800194b648",
+        "name": "Nein",
+        "rating": 7.165845116009574,
+        "trainer_id": "9863ac87-9ad3-4ebc-858c-3f0a6f5adafa",
+        "trainer_name": "swagginwaggin",
+        "result": "win"
+      }
+    },
+    "2022-08-29T03:27:40.047442+00:00": {
+      "this_amiibo": {
+        "rating": 9.724890547101309,
+        "rating_mu": 13.97624107079062,
+        "rating_sigma": 1.4171168412297703,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "979a300a-48fe-4c01-9b11-c72e2da9ce31",
+        "name": "Pepper",
+        "rating": 1.5492413849273117,
+        "trainer_id": "ea0d1371-3b4a-4bdd-ad82-28130c65dd84",
+        "trainer_name": "iVelune",
+        "result": "loss"
+      }
     }
   }
 }
