@@ -21,6 +21,40 @@
         "trainer_name": "sdm_ranch",
         "result": "loss"
       }
+    },
+    "2022-11-23T09:39:41.729375+00:00": {
+      "this_amiibo": {
+        "rating": 10.741994174449864,
+        "rating_mu": 26.55865541469846,
+        "rating_sigma": 5.272220413416199,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "8038564c-5665-4769-86e9-6972999a587c",
+        "name": "Gluttony",
+        "rating": 28.499168933957385,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
+    },
+    "2022-11-27T10:10:29.419371+00:00": {
+      "this_amiibo": {
+        "rating": 15.242991797234765,
+        "rating_mu": 28.91164648705939,
+        "rating_sigma": 4.556218229941542,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "26bdd9a3-66cb-4761-b731-1f6f23b8f471",
+        "name": "Teddy",
+        "rating": 19.98942046229367,
+        "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
+        "trainer_name": "leCharade",
+        "result": "loss"
+      }
     }
   }
 }

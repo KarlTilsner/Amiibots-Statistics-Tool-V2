@@ -1415,6 +1415,40 @@
         "trainer_name": "HD_ssbu",
         "result": "loss"
       }
+    },
+    "2022-11-29T04:42:08.254246+00:00": {
+      "this_amiibo": {
+        "rating": 27.328159968933356,
+        "rating_mu": 30.357347061979272,
+        "rating_sigma": 1.0097290310153049,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "2e0a77e0-2f0b-45f8-b69f-4d4a0f1f76a7",
+        "name": "Skyloft",
+        "rating": 29.0017351891768,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HD_ssbu",
+        "result": "win"
+      }
+    },
+    "2022-12-05T05:30:23.870836+00:00": {
+      "this_amiibo": {
+        "rating": 27.4820570945988,
+        "rating_mu": 30.494068750581306,
+        "rating_sigma": 1.0040038853275015,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "1bfc7cf1-9ef0-4db9-811c-411b0a0914da",
+        "name": "Muncho",
+        "rating": 27.86376241348409,
+        "trainer_id": "7cc55879-788a-46a5-b227-132b263d947f",
+        "trainer_name": "joejoe2188",
+        "result": "loss"
+      }
     }
   }
 }

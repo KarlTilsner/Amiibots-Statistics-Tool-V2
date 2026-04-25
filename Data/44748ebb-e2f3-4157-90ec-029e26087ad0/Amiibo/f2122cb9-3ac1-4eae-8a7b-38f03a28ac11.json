@@ -1092,6 +1092,40 @@
         "trainer_name": "SSEpyon",
         "result": "loss"
       }
+    },
+    "2022-11-25T23:40:34.489900+00:00": {
+      "this_amiibo": {
+        "rating": 19.022281007107125,
+        "rating_mu": 22.440983437372363,
+        "rating_sigma": 1.1395674767550799,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "c2641414-2393-47b0-a11b-7b0bd9e5539b",
+        "name": "Betsy",
+        "rating": 9.512438624224668,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
+        "result": "win"
+      }
+    },
+    "2022-11-30T10:13:35.708450+00:00": {
+      "this_amiibo": {
+        "rating": 19.201027444179445,
+        "rating_mu": 22.596221800476748,
+        "rating_sigma": 1.1317314520991013,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "9f7ed856-f03e-4563-90e6-582d05b522d0",
+        "name": "alex",
+        "rating": 13.648380369442249,
+        "trainer_id": "2dc27fd0-46aa-452d-87bf-a07832523ee5",
+        "trainer_name": "me_694",
+        "result": "loss"
+      }
     }
   }
 }

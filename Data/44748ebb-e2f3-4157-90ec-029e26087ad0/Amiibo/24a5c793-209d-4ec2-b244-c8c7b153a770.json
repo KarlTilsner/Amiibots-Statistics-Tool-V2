@@ -565,6 +565,57 @@
         "trainer_name": "average_videogame_user",
         "result": "win"
       }
+    },
+    "2022-11-24T02:20:51.047677+00:00": {
+      "this_amiibo": {
+        "rating": 16.112129738178616,
+        "rating_mu": 20.46590852433251,
+        "rating_sigma": 1.4512595953846301,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "7e6012cd-c130-4a25-a2f2-467795cf793a",
+        "name": "Poyonator",
+        "rating": 17.43250830186236,
+        "trainer_id": "7fbfc865-b4e0-4c64-a130-49134186b7cf",
+        "trainer_name": "crazychase10",
+        "result": "loss"
+      }
+    },
+    "2022-11-29T06:49:45.394126+00:00": {
+      "this_amiibo": {
+        "rating": 16.01282371227186,
+        "rating_mu": 20.322300052034674,
+        "rating_sigma": 1.4364921132542707,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "9c099197-33c9-47d1-9820-6d1925522898",
+        "name": "Auracle",
+        "rating": 17.75781214272606,
+        "trainer_id": "2b57d49d-984b-4875-8542-795b943d18ec",
+        "trainer_name": "royalldarkness",
+        "result": "win"
+      }
+    },
+    "2022-11-29T23:00:21.175746+00:00": {
+      "this_amiibo": {
+        "rating": 15.820179129981383,
+        "rating_mu": 20.092910418874453,
+        "rating_sigma": 1.4242437629643567,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "c4dccc29-453b-425f-8063-b2b113d85aeb",
+        "name": "Boba Fett",
+        "rating": 8.26058854239778,
+        "trainer_id": "1332142b-404c-4c00-acf0-1e1620282799",
+        "trainer_name": "yellow84nana",
+        "result": "win"
+      }
     }
   }
 }

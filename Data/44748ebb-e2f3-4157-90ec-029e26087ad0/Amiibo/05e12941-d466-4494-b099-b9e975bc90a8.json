@@ -4475,6 +4475,74 @@
         "trainer_name": "Zoom__",
         "result": "loss"
       }
+    },
+    "2022-11-25T08:55:56.178655+00:00": {
+      "this_amiibo": {
+        "rating": 39.81354894909162,
+        "rating_mu": 42.2495424096309,
+        "rating_sigma": 0.8119978201797596,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "b221f1e1-c865-4b70-a281-d7fde72e7ef7",
+        "name": "Incineroar",
+        "rating": 39.722933209072856,
+        "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
+        "trainer_name": "nozzly",
+        "result": "win"
+      }
+    },
+    "2022-11-30T01:26:03.455000+00:00": {
+      "this_amiibo": {
+        "rating": 39.968958040198345,
+        "rating_mu": 42.405074116987585,
+        "rating_sigma": 0.8120386922630807,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "b221f1e1-c865-4b70-a281-d7fde72e7ef7",
+        "name": "Incineroar",
+        "rating": 39.303430392912695,
+        "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
+        "trainer_name": "nozzly",
+        "result": "loss"
+      }
+    },
+    "2022-11-29T22:08:07.393696+00:00": {
+      "this_amiibo": {
+        "rating": 39.88496987765998,
+        "rating_mu": 42.322340243227046,
+        "rating_sigma": 0.8124567885223559,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+        "id": "fd32c3e3-d8ea-426a-83c3-5b51c569e26a",
+        "name": "Snikers",
+        "rating": 32.44483303014718,
+        "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
+        "trainer_name": "gotelin_",
+        "result": "loss"
+      }
+    },
+    "2022-12-02T06:05:26.461246+00:00": {
+      "this_amiibo": {
+        "rating": 39.87530839034716,
+        "rating_mu": 42.311103013437894,
+        "rating_sigma": 0.8119315410302459,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+        "id": "fd32c3e3-d8ea-426a-83c3-5b51c569e26a",
+        "name": "Snikers",
+        "rating": 34.89251334486607,
+        "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
+        "trainer_name": "gotelin_",
+        "result": "win"
+      }
     }
   }
 }

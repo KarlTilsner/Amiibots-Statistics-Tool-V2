@@ -242,6 +242,40 @@
         "trainer_name": "AqueousBlue",
         "result": "win"
       }
+    },
+    "2022-11-28T12:11:40.862273+00:00": {
+      "this_amiibo": {
+        "rating": 5.491344090445885,
+        "rating_mu": 13.275781642316808,
+        "rating_sigma": 2.5948125172903076,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "324f1147-6e7c-402a-87d7-7b41d1e2651d",
+        "name": "agent 007",
+        "rating": 6.585956381696825,
+        "trainer_id": "2dc27fd0-46aa-452d-87bf-a07832523ee5",
+        "trainer_name": "me_694",
+        "result": "win"
+      }
+    },
+    "2022-12-04T17:46:48.332065+00:00": {
+      "this_amiibo": {
+        "rating": 6.939291279368209,
+        "rating_mu": 14.29043853833733,
+        "rating_sigma": 2.4503824196563735,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
+        "id": "9dddc7b3-e3ab-493d-8664-5a21f96e80a6",
+        "name": "Rob Skunt",
+        "rating": 11.453373724610639,
+        "trainer_id": "2449752e-dba5-4319-82a0-3463ed6750fd",
+        "trainer_name": "the_definitive_mick",
+        "result": "loss"
+      }
     }
   }
 }

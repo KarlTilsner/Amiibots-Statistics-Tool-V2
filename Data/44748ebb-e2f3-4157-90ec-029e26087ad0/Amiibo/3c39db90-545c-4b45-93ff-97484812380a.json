@@ -1942,6 +1942,40 @@
         "trainer_name": "AceTempest172",
         "result": "loss"
       }
+    },
+    "2022-11-25T00:03:37.597906+00:00": {
+      "this_amiibo": {
+        "rating": 33.032812856653,
+        "rating_mu": 36.06200901862026,
+        "rating_sigma": 1.0097320539890846,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "0f54afff-2070-4dc3-b9da-0e9412b5c4dd",
+        "name": "Arya",
+        "rating": 33.62407179040154,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2022-12-06T03:03:20.259194+00:00": {
+      "this_amiibo": {
+        "rating": 32.91133002839049,
+        "rating_mu": 35.92527668496186,
+        "rating_sigma": 1.0046488855237903,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "7c699c69-667f-4ba6-8969-29a62cd98362",
+        "name": "Aldo",
+        "rating": 30.266714121209596,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
     }
   }
 }

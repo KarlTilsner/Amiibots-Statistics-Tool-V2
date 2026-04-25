@@ -412,6 +412,57 @@
         "trainer_name": "sdm_ranch",
         "result": "loss"
       }
+    },
+    "2022-12-02T18:41:42.765441+00:00": {
+      "this_amiibo": {
+        "rating": 12.566548829842901,
+        "rating_mu": 17.895714411402537,
+        "rating_sigma": 1.776388527186545,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "31156f6b-6f60-42a5-9269-0375d082aca6",
+        "name": "Chipotle",
+        "rating": 12.500862382390535,
+        "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
+        "trainer_name": "schmorchid",
+        "result": "win"
+      }
+    },
+    "2022-12-03T17:13:09.875184+00:00": {
+      "this_amiibo": {
+        "rating": 12.169062523906788,
+        "rating_mu": 17.396259980236803,
+        "rating_sigma": 1.7423991521100046,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "9176b893-7d69-4b01-8fc9-ae86c01d2656",
+        "name": "Vortex",
+        "rating": 4.835027698616718,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
+    },
+    "2022-12-04T01:41:23.743161+00:00": {
+      "this_amiibo": {
+        "rating": 11.906545416102032,
+        "rating_mu": 17.009621221901142,
+        "rating_sigma": 1.7010252685997034,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "5bb356cd-becc-441d-96b3-48fb3ec2bfd9",
+        "name": "Inkblot",
+        "rating": 13.759498393721657,
+        "trainer_id": "2f9c8c00-fa6a-404d-8718-68edf85cb21f",
+        "trainer_name": "irongelatin",
+        "result": "win"
+      }
     }
   }
 }

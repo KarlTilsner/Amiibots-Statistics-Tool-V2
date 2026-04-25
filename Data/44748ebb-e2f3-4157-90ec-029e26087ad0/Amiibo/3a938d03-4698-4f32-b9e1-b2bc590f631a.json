@@ -1,0 +1,43 @@
+{
+  "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+  "id": "3a938d03-4698-4f32-b9e1-b2bc590f631a",
+  "name": "Lady",
+  "trainer_id": "db273810-d707-4c26-9fc5-5f04718f25c7",
+  "trainer_name": "noltrayt",
+  "matches": {
+    "2022-12-05T16:42:26.290200+00:00": {
+      "this_amiibo": {
+        "rating": 0.5300962220311014,
+        "rating_mu": 19.670995408459646,
+        "rating_sigma": 6.380299728809515,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "f62473ac-50c3-49a4-96ec-91e4db88c6d8",
+        "name": "Avian",
+        "rating": 20.750831868700864,
+        "trainer_id": "b2a798a6-4874-49ce-8055-7c420c6eca5a",
+        "trainer_name": "Arspamon",
+        "result": "win"
+      }
+    },
+    "2022-12-06T15:33:58.730314+00:00": {
+      "this_amiibo": {
+        "rating": -0.17732373987662697,
+        "rating_mu": 16.73258075612714,
+        "rating_sigma": 5.636634832001255,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "434bfd40-781c-4632-8ff4-68b77c4406f5",
+        "name": "Zack",
+        "rating": 5.947872217581864,
+        "trainer_id": "fdef585b-96e2-4ebe-93c3-82641f2cefd3",
+        "trainer_name": "yendekai",
+        "result": "win"
+      }
+    }
+  }
+}

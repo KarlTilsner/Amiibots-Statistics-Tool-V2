@@ -72,6 +72,74 @@
         "trainer_name": "itspseudonotpsuedo",
         "result": "loss"
       }
+    },
+    "2022-11-24T13:10:46.697001+00:00": {
+      "this_amiibo": {
+        "rating": 12.697140116632921,
+        "rating_mu": 24.662327819823748,
+        "rating_sigma": 3.9883959010636088,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "e60120de-41fc-4def-8786-583f9669aad1",
+        "name": "Mr. Nimbus",
+        "rating": 16.472133739570214,
+        "trainer_id": "259c6c07-f590-4aba-8069-85a64f78c6f3",
+        "trainer_name": "massivmann",
+        "result": "win"
+      }
+    },
+    "2022-11-28T16:20:29.644543+00:00": {
+      "this_amiibo": {
+        "rating": 16.079980953953243,
+        "rating_mu": 26.718223013028986,
+        "rating_sigma": 3.546080686358581,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "f151d781-447a-4875-a705-77c09028c69c",
+        "name": "B.E.N.",
+        "rating": 23.48263367478914,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "loss"
+      }
+    },
+    "2022-11-30T01:12:42.569740+00:00": {
+      "this_amiibo": {
+        "rating": 18.379267287208126,
+        "rating_mu": 28.10906995814761,
+        "rating_sigma": 3.243267556979828,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "f151d781-447a-4875-a705-77c09028c69c",
+        "name": "B.E.N.",
+        "rating": 23.814883873294562,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "loss"
+      }
+    },
+    "2022-12-02T21:20:34.863438+00:00": {
+      "this_amiibo": {
+        "rating": 20.540911261484155,
+        "rating_mu": 29.59248476439967,
+        "rating_sigma": 3.0171911676385053,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "dd8dcc0f-7b5d-440c-abc4-240a1c20ee1d",
+        "name": "1",
+        "rating": 20.583825676980624,
+        "trainer_id": "c2165b93-c300-4810-b347-c6809b346195",
+        "trainer_name": "zerosuts",
+        "result": "loss"
+      }
     }
   }
 }

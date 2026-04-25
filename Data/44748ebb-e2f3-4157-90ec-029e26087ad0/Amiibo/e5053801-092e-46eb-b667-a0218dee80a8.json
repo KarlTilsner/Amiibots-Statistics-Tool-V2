@@ -395,6 +395,57 @@
         "trainer_name": "average_videogame_user",
         "result": "loss"
       }
+    },
+    "2022-11-24T18:38:17.657240+00:00": {
+      "this_amiibo": {
+        "rating": 18.31314375994035,
+        "rating_mu": 23.64212741658968,
+        "rating_sigma": 1.776327885549777,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
+        "id": "cf30a4d2-8813-44bd-aab4-33f35ee1a86d",
+        "name": "Jiggles",
+        "rating": 18.090263445993955,
+        "trainer_id": "ba8e343a-f566-473d-8a43-a6059cf773f7",
+        "trainer_name": "bananspit",
+        "result": "win"
+      }
+    },
+    "2022-11-27T19:41:26.423896+00:00": {
+      "this_amiibo": {
+        "rating": 18.063577154581623,
+        "rating_mu": 23.2622123866775,
+        "rating_sigma": 1.7328784106986264,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "5e6661e0-26f8-480c-bbde-c2a2014a2b96",
+        "name": "ftilt",
+        "rating": 21.331131166550612,
+        "trainer_id": "8e290d89-5484-46ab-b222-914c45b7b11c",
+        "trainer_name": "pixel_gunners",
+        "result": "win"
+      }
+    },
+    "2022-12-03T21:58:54.422947+00:00": {
+      "this_amiibo": {
+        "rating": 18.34554742108191,
+        "rating_mu": 23.47065047327412,
+        "rating_sigma": 1.7083676840640702,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "2c15b5af-695d-4a29-b625-fe78c4f23ea8",
+        "name": "Imposter F",
+        "rating": 8.794948022193477,
+        "trainer_id": "3fd8383d-5b56-4dbd-a550-4d1b902dbb48",
+        "trainer_name": "xTas9",
+        "result": "loss"
+      }
     }
   }
 }
