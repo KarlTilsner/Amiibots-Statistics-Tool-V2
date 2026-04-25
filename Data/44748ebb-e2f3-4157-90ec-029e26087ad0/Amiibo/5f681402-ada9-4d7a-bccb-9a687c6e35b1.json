@@ -208,6 +208,40 @@
         "trainer_name": "TheGlunk",
         "result": "loss"
       }
+    },
+    "2022-09-09T14:47:58.533859+00:00": {
+      "this_amiibo": {
+        "rating": 15.77753246114975,
+        "rating_mu": 22.65711131359809,
+        "rating_sigma": 2.2931929508161133,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "422d5727-5ec5-4885-8aa4-d1d9b1d227ae",
+        "name": "Spwike",
+        "rating": 24.356937503362595,
+        "trainer_id": "5d3b8188-c17a-4198-acb8-a011895c7c7e",
+        "trainer_name": "MonoMalard",
+        "result": "win"
+      }
+    },
+    "2022-09-09T20:00:54.624626+00:00": {
+      "this_amiibo": {
+        "rating": 16.363002412284313,
+        "rating_mu": 23.13313394658294,
+        "rating_sigma": 2.2567105114328756,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "00a032a4-14e8-42b5-adba-6faec56c67f8",
+        "name": "Cοck Block",
+        "rating": -0.10145496249486285,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "loss"
+      }
     }
   }
 }

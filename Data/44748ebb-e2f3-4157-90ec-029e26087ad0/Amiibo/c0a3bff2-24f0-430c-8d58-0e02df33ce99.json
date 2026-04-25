@@ -310,6 +310,57 @@
         "trainer_name": "the_definitive_mick",
         "result": "loss"
       }
+    },
+    "2022-09-09T18:58:13.590471+00:00": {
+      "this_amiibo": {
+        "rating": 14.452989340451484,
+        "rating_mu": 20.888479773365287,
+        "rating_sigma": 2.145163477637934,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "a334dc85-177a-41f1-b935-bec06b58f94c",
+        "name": "CHRONOS",
+        "rating": 19.24213232351699,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
+    },
+    "2022-09-11T05:36:27.155712+00:00": {
+      "this_amiibo": {
+        "rating": 14.931366037729227,
+        "rating_mu": 21.19708277609867,
+        "rating_sigma": 2.0885722461231486,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
+        "id": "756c5dc2-1b58-4c84-ae39-af9eb2d00c9b",
+        "name": "Good Egg",
+        "rating": 13.939805699811373,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    },
+    "2022-09-13T06:19:44.488190+00:00": {
+      "this_amiibo": {
+        "rating": 15.468640921724447,
+        "rating_mu": 21.5661279628252,
+        "rating_sigma": 2.0324956803669174,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "7d89d03a-6d4f-4551-8e5d-b9ca371a81ee",
+        "name": "Flatline",
+        "rating": 12.333631244907478,
+        "trainer_id": "6733154b-3601-4424-b9d7-adaa9a9ebb59",
+        "trainer_name": "hab_schon",
+        "result": "loss"
+      }
     }
   }
 }

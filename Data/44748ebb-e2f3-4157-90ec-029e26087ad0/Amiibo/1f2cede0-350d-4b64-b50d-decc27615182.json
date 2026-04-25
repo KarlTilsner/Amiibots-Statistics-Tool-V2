@@ -72,6 +72,40 @@
         "trainer_name": "SitraSSB",
         "result": "loss"
       }
+    },
+    "2022-09-11T01:43:29.124716+00:00": {
+      "this_amiibo": {
+        "rating": 11.113009063202849,
+        "rating_mu": 22.254062563461275,
+        "rating_sigma": 3.713684500086142,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
+        "id": "14898ee6-2741-43c3-92cf-b49bc34f6f61",
+        "name": "silly",
+        "rating": 19.552754911223264,
+        "trainer_id": "d10a1a53-4977-4227-a545-40d116f5b796",
+        "trainer_name": "combine788",
+        "result": "win"
+      }
+    },
+    "2022-09-15T14:00:32.560502+00:00": {
+      "this_amiibo": {
+        "rating": 14.08777982845364,
+        "rating_mu": 24.18879234686261,
+        "rating_sigma": 3.36700417280299,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "a05a2872-5a8e-4ee7-b97d-e5f5a137fd8a",
+        "name": "KawayaKami",
+        "rating": 16.879534452649636,
+        "trainer_id": "989b85c3-4ffc-41c0-8596-2d2c67fd7158",
+        "trainer_name": "Leevunzo",
+        "result": "loss"
+      }
     }
   }
 }

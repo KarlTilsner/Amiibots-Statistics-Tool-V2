@@ -565,6 +565,40 @@
         "trainer_name": "carbon_show",
         "result": "win"
       }
+    },
+    "2022-09-07T22:03:12.353370+00:00": {
+      "this_amiibo": {
+        "rating": 27.980272785344408,
+        "rating_mu": 32.15135800376146,
+        "rating_sigma": 1.3903617394723506,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "5a8f6b9d-1930-4e67-8f61-e4ad69044c90",
+        "name": "Nephilim",
+        "rating": 28.0611945360303,
+        "trainer_id": "d0e3f535-e180-4251-94b6-6c528f278d1e",
+        "trainer_name": "CSharp__",
+        "result": "win"
+      }
+    },
+    "2022-09-20T11:35:29.303766+00:00": {
+      "this_amiibo": {
+        "rating": 28.28641561561676,
+        "rating_mu": 32.398165189951655,
+        "rating_sigma": 1.3705831914449647,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "d33580c3-4cc5-4b39-8773-5e92da797c2a",
+        "name": "Frogmon",
+        "rating": 27.500036916807023,
+        "trainer_id": "1285932e-d5a9-44b2-a0af-582aa5a06b3a",
+        "trainer_name": "Frogcake",
+        "result": "loss"
+      }
     }
   }
 }

@@ -123,6 +123,40 @@
         "trainer_name": "BleuScreen",
         "result": "win"
       }
+    },
+    "2022-09-07T04:07:51.065624+00:00": {
+      "this_amiibo": {
+        "rating": 11.325641259535946,
+        "rating_mu": 20.702697564323167,
+        "rating_sigma": 3.125685434929074,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
+        "id": "756c5dc2-1b58-4c84-ae39-af9eb2d00c9b",
+        "name": "Good Egg",
+        "rating": 13.800832746808428,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    },
+    "2022-09-12T17:51:44.603602+00:00": {
+      "this_amiibo": {
+        "rating": 12.613577348466645,
+        "rating_mu": 21.46798260557537,
+        "rating_sigma": 2.9514684190362415,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "aa804f20-dcde-42f1-87e4-9ab88bc86bbf",
+        "name": "Hoppip",
+        "rating": 12.328857413032155,
+        "trainer_id": "bf57813b-651b-4622-b9e7-da0877cc50b2",
+        "trainer_name": "roughthatdabalt",
+        "result": "loss"
+      }
     }
   }
 }

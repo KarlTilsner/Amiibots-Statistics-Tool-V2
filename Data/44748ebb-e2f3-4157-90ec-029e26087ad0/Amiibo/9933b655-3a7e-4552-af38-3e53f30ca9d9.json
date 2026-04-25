@@ -1398,6 +1398,40 @@
         "trainer_name": "eripai",
         "result": "loss"
       }
+    },
+    "2022-09-16T16:05:54.743795+00:00": {
+      "this_amiibo": {
+        "rating": 35.31042250594371,
+        "rating_mu": 38.21541863952538,
+        "rating_sigma": 0.9683320445272235,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "0f54afff-2070-4dc3-b9da-0e9412b5c4dd",
+        "name": "Arya",
+        "rating": 34.358111865379215,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2022-09-21T05:08:24.309885+00:00": {
+      "this_amiibo": {
+        "rating": 35.38289651032851,
+        "rating_mu": 38.28627002403786,
+        "rating_sigma": 0.9677911712364502,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "e37dfe81-5744-40d9-839a-550b84cb2770",
+        "name": "Oh Wowser!",
+        "rating": 20.084272015288665,
+        "trainer_id": "ba8e343a-f566-473d-8a43-a6059cf773f7",
+        "trainer_name": "bananspit",
+        "result": "loss"
+      }
     }
   }
 }

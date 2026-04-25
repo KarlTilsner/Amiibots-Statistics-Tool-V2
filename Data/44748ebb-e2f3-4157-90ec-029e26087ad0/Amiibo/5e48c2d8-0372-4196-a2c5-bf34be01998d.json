@@ -242,6 +242,40 @@
         "trainer_name": "NytrozypicRL",
         "result": "loss"
       }
+    },
+    "2022-09-16T09:35:04.501787+00:00": {
+      "this_amiibo": {
+        "rating": 17.16441449199118,
+        "rating_mu": 23.81981003270221,
+        "rating_sigma": 2.2184651802370094,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "0a263e23-9896-4f40-a2de-9b35df07edbd",
+        "name": "JstAPhazon",
+        "rating": 20.255568297969525,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
+    },
+    "2022-09-18T09:23:24.701837+00:00": {
+      "this_amiibo": {
+        "rating": 16.771113284675696,
+        "rating_mu": 23.224134892014035,
+        "rating_sigma": 2.151007202446113,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "b4c9c127-507e-415a-8e81-ecd35c4a3f37",
+        "name": "Alexis",
+        "rating": 14.366977762966899,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
     }
   }
 }

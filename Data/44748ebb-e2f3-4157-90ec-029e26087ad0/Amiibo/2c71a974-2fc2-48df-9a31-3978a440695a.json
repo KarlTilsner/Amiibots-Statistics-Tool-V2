@@ -3625,6 +3625,40 @@
         "trainer_name": "6b_baby",
         "result": "loss"
       }
+    },
+    "2022-09-13T20:25:14.061996+00:00": {
+      "this_amiibo": {
+        "rating": 35.95336300092069,
+        "rating_mu": 38.45828765697323,
+        "rating_sigma": 0.8349748853508486,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "f8866a3a-c1b3-455d-9acc-8fd026ca038b",
+        "name": "Plant",
+        "rating": 33.9670861392504,
+        "trainer_id": "65321240-86df-4690-adea-6ddbcb87c5c9",
+        "trainer_name": "RichPandaGG",
+        "result": "win"
+      }
+    },
+    "2022-09-19T22:17:32.670483+00:00": {
+      "this_amiibo": {
+        "rating": 36.031270655443905,
+        "rating_mu": 38.5363333152046,
+        "rating_sigma": 0.8350208865868999,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "1ef67cf0-92ef-45c5-8a6f-d5629e0022e0",
+        "name": "MuchHigher",
+        "rating": 28.405270376992,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "loss"
+      }
     }
   }
 }

@@ -208,6 +208,57 @@
         "trainer_name": "CluelessCR",
         "result": "win"
       }
+    },
+    "2022-09-15T19:29:59.703315+00:00": {
+      "this_amiibo": {
+        "rating": 14.39335464381456,
+        "rating_mu": 21.72377506680961,
+        "rating_sigma": 2.443473474331683,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
+        "id": "e23992ff-9b94-4f07-bd8d-335c0eed5398",
+        "name": "Tasha",
+        "rating": 16.29289764363042,
+        "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
+        "trainer_name": "Lucina_Nadine",
+        "result": "loss"
+      }
+    },
+    "2022-09-16T06:51:29.629038+00:00": {
+      "this_amiibo": {
+        "rating": 13.934443323417693,
+        "rating_mu": 20.969817298556684,
+        "rating_sigma": 2.345124658379664,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "d981a458-9b12-4f24-95f8-5dd3e7bd7d81",
+        "name": "Flare",
+        "rating": 13.382784263451734,
+        "trainer_id": "6a92a875-ad10-4927-9ac9-43f4cea3e878",
+        "trainer_name": "ArkansasAFC",
+        "result": "win"
+      }
+    },
+    "2022-09-20T13:16:24.675636+00:00": {
+      "this_amiibo": {
+        "rating": 15.1720365331917,
+        "rating_mu": 21.87590204805413,
+        "rating_sigma": 2.2346218382874765,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "8dad9e51-900f-4c8f-936d-b81f993335d7",
+        "name": "MC1",
+        "rating": 19.045352230276414,
+        "trainer_id": "718fd8e8-9eae-4c3b-a973-5526de990dba",
+        "trainer_name": "whispercord",
+        "result": "loss"
+      }
     }
   }
 }

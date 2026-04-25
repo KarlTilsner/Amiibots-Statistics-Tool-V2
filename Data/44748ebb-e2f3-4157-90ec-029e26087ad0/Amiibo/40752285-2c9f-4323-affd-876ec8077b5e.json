@@ -684,6 +684,40 @@
         "trainer_name": "BleuScreen",
         "result": "loss"
       }
+    },
+    "2022-09-08T11:46:37.105002+00:00": {
+      "this_amiibo": {
+        "rating": 19.608033294417773,
+        "rating_mu": 24.045398437759903,
+        "rating_sigma": 1.4791217144473767,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
+        "id": "eb8cebae-846a-4aa2-8b63-cb7c1ad44826",
+        "name": "TransRghts",
+        "rating": 22.230894856598375,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
+    },
+    "2022-09-13T09:54:34.595799+00:00": {
+      "this_amiibo": {
+        "rating": 19.373772503287377,
+        "rating_mu": 23.77306795055986,
+        "rating_sigma": 1.4664318157574947,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "c71cfcf2-e8da-4a98-94cb-1f87b742ce9e",
+        "name": "am wet",
+        "rating": 10.085429749514997,
+        "trainer_id": "09661b17-e46f-43cf-9de1-0a516ede480d",
+        "trainer_name": "whotfiskoi",
+        "result": "win"
+      }
     }
   }
 }

@@ -3489,6 +3489,40 @@
         "trainer_name": "BleuScreen",
         "result": "loss"
       }
+    },
+    "2022-09-17T20:45:16.233071+00:00": {
+      "this_amiibo": {
+        "rating": 19.24188905868313,
+        "rating_mu": 21.837752981352885,
+        "rating_sigma": 0.8652879742232513,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "cf5ee1e0-86ba-4236-9345-3fe45e4eb364",
+        "name": "Mikasa",
+        "rating": 13.16439897256869,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "loss"
+      }
+    },
+    "2022-09-19T06:06:35.201757+00:00": {
+      "this_amiibo": {
+        "rating": 19.333867641718502,
+        "rating_mu": 21.925368612734896,
+        "rating_sigma": 0.8638336570054649,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "6f452857-dcbb-4504-88ba-41b947c13ec6",
+        "name": "Coke",
+        "rating": 18.228322015093052,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
     }
   }
 }

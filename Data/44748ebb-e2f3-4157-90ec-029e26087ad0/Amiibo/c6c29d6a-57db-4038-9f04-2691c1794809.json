@@ -3183,6 +3183,57 @@
         "trainer_name": "someguy_456",
         "result": "loss"
       }
+    },
+    "2022-09-07T00:59:08.780865+00:00": {
+      "this_amiibo": {
+        "rating": 22.35459056202498,
+        "rating_mu": 25.049020824443545,
+        "rating_sigma": 0.8981434208061881,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "07f9ce1f-035a-45f6-8264-011baa0b4b6a",
+        "name": "MC Hammer",
+        "rating": 16.979236156700445,
+        "trainer_id": "ba8e343a-f566-473d-8a43-a6059cf773f7",
+        "trainer_name": "bananspit",
+        "result": "win"
+      }
+    },
+    "2022-09-14T13:01:26.488483+00:00": {
+      "this_amiibo": {
+        "rating": 22.3669364576134,
+        "rating_mu": 25.044384583166053,
+        "rating_sigma": 0.892482708517551,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "69458295-7c18-4d5f-a4a3-d0cfd6ce228d",
+        "name": "KTX-473",
+        "rating": 22.639253138433446,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "loss"
+      }
+    },
+    "2022-09-14T10:19:47.978290+00:00": {
+      "this_amiibo": {
+        "rating": 22.242410925156083,
+        "rating_mu": 24.928063972154696,
+        "rating_sigma": 0.8952176823328709,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "ba5c6780-786e-4d2c-9ee5-aff1794a4075",
+        "name": "Genwunner",
+        "rating": 21.715587573543363,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
     }
   }
 }

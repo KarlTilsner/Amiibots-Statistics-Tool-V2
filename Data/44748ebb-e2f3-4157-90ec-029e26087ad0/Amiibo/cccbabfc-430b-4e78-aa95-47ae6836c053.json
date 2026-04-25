@@ -1415,6 +1415,57 @@
         "trainer_name": "MiDe1",
         "result": "loss"
       }
+    },
+    "2022-09-12T07:33:14.837658+00:00": {
+      "this_amiibo": {
+        "rating": 22.621727078541305,
+        "rating_mu": 25.77852890091788,
+        "rating_sigma": 1.0522672741255248,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "262dd99c-70ed-4530-bb54-89436e8b5fa4",
+        "name": "☆★Kirby★☆",
+        "rating": 23.640393832813455,
+        "trainer_id": "7d1c9df4-57ec-48a4-ba0d-140fbb120591",
+        "trainer_name": "TheAbsoluteDingus",
+        "result": "win"
+      }
+    },
+    "2022-09-13T13:19:05.825806+00:00": {
+      "this_amiibo": {
+        "rating": 22.79902199335285,
+        "rating_mu": 25.93429309120374,
+        "rating_sigma": 1.0450903659502973,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "e4552ffd-55c5-42ba-8360-2879e898bb24",
+        "name": "GANDALF",
+        "rating": 23.070708865308205,
+        "trainer_id": "52cf741b-9181-4229-8440-532cd6b5e0e7",
+        "trainer_name": "pgxmew2",
+        "result": "loss"
+      }
+    },
+    "2022-09-20T18:40:17.610007+00:00": {
+      "this_amiibo": {
+        "rating": 22.70808028803418,
+        "rating_mu": 25.842512861028027,
+        "rating_sigma": 1.0448108576646165,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "6cb242ab-447d-4d9f-ba8b-54a5e9889a1a",
+        "name": "Bang",
+        "rating": 11.969820931465602,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "win"
+      }
     }
   }
 }
