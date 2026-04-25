@@ -310,6 +310,40 @@
         "trainer_name": "speakerbox08",
         "result": "win"
       }
+    },
+    "2022-10-06T21:30:09.244553+00:00": {
+      "this_amiibo": {
+        "rating": 11.303422918958939,
+        "rating_mu": 17.17963894189239,
+        "rating_sigma": 1.95873867431115,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+        "id": "911ccc15-c6ed-43d6-853d-1e148a458582",
+        "name": "Cereza",
+        "rating": 13.585969148697178,
+        "trainer_id": "72dbf100-42cd-432c-993b-ac2d26cfcaa6",
+        "trainer_name": "Persesco",
+        "result": "loss"
+      }
+    },
+    "2022-10-11T09:43:23.360380+00:00": {
+      "this_amiibo": {
+        "rating": 11.080266955998507,
+        "rating_mu": 16.873168797245153,
+        "rating_sigma": 1.9309672804155484,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "1be6f542-d3e4-440b-ae88-672c0e5cf267",
+        "name": "Nakoruru",
+        "rating": 6.044924359341049,
+        "trainer_id": "572ea3a2-7f62-4814-9089-dd5e78bb246f",
+        "trainer_name": "Strange_Fate",
+        "result": "win"
+      }
     }
   }
 }

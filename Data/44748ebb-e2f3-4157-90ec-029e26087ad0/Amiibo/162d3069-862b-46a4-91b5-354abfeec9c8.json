@@ -259,6 +259,40 @@
         "trainer_name": "AmiiboDoctor",
         "result": "loss"
       }
+    },
+    "2022-10-08T06:14:08.055276+00:00": {
+      "this_amiibo": {
+        "rating": 10.83901622064284,
+        "rating_mu": 17.309003018211452,
+        "rating_sigma": 2.156662265856204,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "1bba9563-c18f-4ee4-8f46-902de04eb8b1",
+        "name": "Billie",
+        "rating": 4.685121463711122,
+        "trainer_id": "0ef948e8-8ead-4690-85d5-1a6b46d0aa45",
+        "trainer_name": "Losinik",
+        "result": "loss"
+      }
+    },
+    "2022-10-19T13:14:27.101814+00:00": {
+      "this_amiibo": {
+        "rating": 11.448943438697935,
+        "rating_mu": 17.781738180352743,
+        "rating_sigma": 2.1109315805516027,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "dd5ea8f1-693a-4b21-9b57-372eb3b8e351",
+        "name": "Alex",
+        "rating": 0.7975867947938085,
+        "trainer_id": "1286feaf-c5e9-4594-b9cd-4849ecb6c657",
+        "trainer_name": "Lukarbonite",
+        "result": "loss"
+      }
     }
   }
 }

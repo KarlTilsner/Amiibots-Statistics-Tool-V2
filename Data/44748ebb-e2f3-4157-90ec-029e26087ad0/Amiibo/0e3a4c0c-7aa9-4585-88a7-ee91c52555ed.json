@@ -1,7 +1,7 @@
 {
   "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
   "id": "0e3a4c0c-7aa9-4585-88a7-ee91c52555ed",
-  "name": "BILLY",
+  "name": "Billy",
   "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
   "trainer_name": "leCharade",
   "matches": {
@@ -308,6 +308,23 @@
         "rating": 18.99755779004377,
         "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
         "trainer_name": "WynnThornton",
+        "result": "win"
+      }
+    },
+    "2022-10-12T12:51:12.315042+00:00": {
+      "this_amiibo": {
+        "rating": 5.115822329747635,
+        "rating_mu": 14.852443629721517,
+        "rating_sigma": 3.2455404333246274,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "0eaa3c07-1f8c-49ae-9fcc-4fffb3545d43",
+        "name": "LedgeCraft",
+        "rating": 12.532111814812499,
+        "trainer_id": "892c0fef-6425-415c-a5ba-9520ca6ea65b",
+        "trainer_name": "Theorpo",
         "result": "win"
       }
     }

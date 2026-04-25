@@ -174,6 +174,23 @@
         "trainer_name": "BleuScreen",
         "result": "loss"
       }
+    },
+    "2022-10-07T22:03:21.278818+00:00": {
+      "this_amiibo": {
+        "rating": 11.414435500713031,
+        "rating_mu": 19.24683351177936,
+        "rating_sigma": 2.61079933702211,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "5cede10d-4aec-4310-b643-3669b642aafc",
+        "name": "Leo",
+        "rating": 14.265769302524436,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "average_videogame_user",
+        "result": "win"
+      }
     }
   }
 }

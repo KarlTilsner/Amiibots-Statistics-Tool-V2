@@ -1,7 +1,7 @@
 {
   "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
   "id": "d7b12bfb-4e9c-4336-9a9f-d11dd80917a3",
-  "name": "METAL BOY",
+  "name": "Metal Boy",
   "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
   "trainer_name": "leCharade",
   "matches": {
@@ -223,6 +223,40 @@
         "rating": 27.986695955971005,
         "trainer_id": "345febd3-6433-4ed8-addb-b0ead57bf565",
         "trainer_name": "cloudnine987",
+        "result": "loss"
+      }
+    },
+    "2022-10-17T02:19:24.585502+00:00": {
+      "this_amiibo": {
+        "rating": 16.308156181927288,
+        "rating_mu": 25.688000254159366,
+        "rating_sigma": 3.126614690744027,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
+        "id": "c9a260a7-7177-4bed-860e-3e038ddb51c8",
+        "name": "Valencia",
+        "rating": 15.74215273616932,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "loss"
+      }
+    },
+    "2022-10-20T04:03:44.680132+00:00": {
+      "this_amiibo": {
+        "rating": 17.252916357576563,
+        "rating_mu": 26.38200602085538,
+        "rating_sigma": 3.043029887759605,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "e6b2ce19-0ce0-46df-acbc-94f62adafb70",
+        "name": "Mr. Catto",
+        "rating": 0.37557504550675347,
+        "trainer_id": "b3c93a1e-0aee-4a76-a0ed-36bc7258e629",
+        "trainer_name": "Bananika7",
         "result": "loss"
       }
     }

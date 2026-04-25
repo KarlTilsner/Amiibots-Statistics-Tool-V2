@@ -1109,6 +1109,74 @@
         "trainer_name": "hono1",
         "result": "loss"
       }
+    },
+    "2022-10-11T07:03:33.812543+00:00": {
+      "this_amiibo": {
+        "rating": 18.004365192681117,
+        "rating_mu": 21.39135178043435,
+        "rating_sigma": 1.1289955292510767,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+        "id": "c8402789-e54b-4a31-9f62-620f29417bee",
+        "name": "Cereza",
+        "rating": 14.824859018522865,
+        "trainer_id": "65321240-86df-4690-adea-6ddbcb87c5c9",
+        "trainer_name": "RichPandaGG",
+        "result": "win"
+      }
+    },
+    "2022-10-12T10:59:38.816128+00:00": {
+      "this_amiibo": {
+        "rating": 17.870746413953,
+        "rating_mu": 21.23034911024712,
+        "rating_sigma": 1.1198675654313728,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "86fa523b-f141-4676-9aac-78a5aca164a1",
+        "name": "XGamesMode",
+        "rating": 18.2857571583256,
+        "trainer_id": "0f879b78-b0b0-4069-8e70-164832ef3737",
+        "trainer_name": "speakerbox08",
+        "result": "win"
+      }
+    },
+    "2022-10-14T23:25:13.123111+00:00": {
+      "this_amiibo": {
+        "rating": 18.05322561235673,
+        "rating_mu": 21.38610264192193,
+        "rating_sigma": 1.1109590098550663,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "7e95d489-3a06-4a05-9344-081fe386959a",
+        "name": "Cromulent",
+        "rating": 18.123433358937657,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    },
+    "2022-10-15T10:04:16.797614+00:00": {
+      "this_amiibo": {
+        "rating": 18.178061451758758,
+        "rating_mu": 21.49646715489442,
+        "rating_sigma": 1.1061352343785542,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "5bb356cd-becc-441d-96b3-48fb3ec2bfd9",
+        "name": "Inkblot",
+        "rating": 7.912471763709153,
+        "trainer_id": "2f9c8c00-fa6a-404d-8718-68edf85cb21f",
+        "trainer_name": "irongelatin",
+        "result": "loss"
+      }
     }
   }
 }

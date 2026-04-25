@@ -55,6 +55,40 @@
         "trainer_name": "bunion_j",
         "result": "loss"
       }
+    },
+    "2022-10-16T23:54:51.604936+00:00": {
+      "this_amiibo": {
+        "rating": 15.352369843865828,
+        "rating_mu": 26.858023603996426,
+        "rating_sigma": 3.8352179200435326,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "d22d5256-9ab7-42d9-86e2-a21bfd096c02",
+        "name": "Kris",
+        "rating": 24.696675413066174,
+        "trainer_id": "888b9593-05d9-4eef-bdb3-ea92805fb396",
+        "trainer_name": "tutor_for_shock",
+        "result": "win"
+      }
+    },
+    "2022-10-17T16:59:54.926844+00:00": {
+      "this_amiibo": {
+        "rating": 17.433712181116054,
+        "rating_mu": 28.08709221836075,
+        "rating_sigma": 3.551126679081565,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "8ecf04de-876b-49c4-bd8b-f6301fddce87",
+        "name": "Altitude²",
+        "rating": 15.061971881174134,
+        "trainer_id": "ec78dc00-97ce-48d8-bee8-f43401bf1191",
+        "trainer_name": "lugibalugi",
+        "result": "loss"
+      }
     }
   }
 }

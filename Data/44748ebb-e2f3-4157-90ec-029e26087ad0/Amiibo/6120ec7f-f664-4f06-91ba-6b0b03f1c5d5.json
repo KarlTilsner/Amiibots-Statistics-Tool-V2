@@ -1007,6 +1007,74 @@
         "trainer_name": "glued_tntree",
         "result": "loss"
       }
+    },
+    "2022-10-12T12:25:33.050927+00:00": {
+      "this_amiibo": {
+        "rating": 25.712569409225075,
+        "rating_mu": 29.07722147723359,
+        "rating_sigma": 1.1215506893361715,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "418dad5b-3f23-4f1b-adc7-5d25e2a2d006",
+        "name": "M18",
+        "rating": 26.81771904779976,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
+    },
+    "2022-10-14T00:04:47.527099+00:00": {
+      "this_amiibo": {
+        "rating": 25.589116439453324,
+        "rating_mu": 28.928159721258837,
+        "rating_sigma": 1.113014427268504,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "1c8ba150-e5d4-4094-8187-7ba1c9639d9c",
+        "name": "BestFriend",
+        "rating": 26.434989717389055,
+        "trainer_id": "7363710d-f22e-4dd4-b88f-0e71edffffb8",
+        "trainer_name": "Blankie_SSB",
+        "result": "win"
+      }
+    },
+    "2022-10-14T20:20:28.554377+00:00": {
+      "this_amiibo": {
+        "rating": 25.654437129086848,
+        "rating_mu": 28.953942300320723,
+        "rating_sigma": 1.0998350570779587,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "52d731cd-c079-4146-ae27-6d34b87fb101",
+        "name": "Cheeto",
+        "rating": 25.796952352095317,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "loss"
+      }
+    },
+    "2022-10-14T19:20:42.861759+00:00": {
+      "this_amiibo": {
+        "rating": 25.46632793946252,
+        "rating_mu": 28.792168121950446,
+        "rating_sigma": 1.1086133941626426,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "cfbbd11a-09bc-449a-a336-d6c31bbb65cb",
+        "name": "Death",
+        "rating": 18.21591018071006,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "win"
+      }
     }
   }
 }

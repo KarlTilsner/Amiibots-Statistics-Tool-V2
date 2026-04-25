@@ -1,7 +1,7 @@
 {
   "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
   "id": "bc203013-bb79-4cf6-8a55-ed6db437bd5e",
-  "name": "PLISKIN",
+  "name": "Pliskin",
   "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
   "trainer_name": "leCharade",
   "matches": {
@@ -207,6 +207,23 @@
         "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
         "trainer_name": "AceTempest172",
         "result": "loss"
+      }
+    },
+    "2022-10-20T12:48:49.746424+00:00": {
+      "this_amiibo": {
+        "rating": 15.783235844796929,
+        "rating_mu": 25.248235046080065,
+        "rating_sigma": 3.1549997337610454,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "9759c204-e9db-4d9c-a543-587a602a46b8",
+        "name": "Kicksune",
+        "rating": 21.547912495754016,
+        "trainer_id": "478fe709-29fa-4d5e-8fc3-282b80765517",
+        "trainer_name": "AstrobeatSaturn",
+        "result": "win"
       }
     }
   }

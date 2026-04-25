@@ -89,6 +89,40 @@
         "trainer_name": "whispercord",
         "result": "loss"
       }
+    },
+    "2022-10-12T20:47:34.978794+00:00": {
+      "this_amiibo": {
+        "rating": 14.177326153233158,
+        "rating_mu": 25.303813784877804,
+        "rating_sigma": 3.708829210548215,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "27aa25d6-e39d-42be-a53a-2e0356725f0b",
+        "name": "Wendy",
+        "rating": 23.645453781313922,
+        "trainer_id": "2f91b438-99d4-4966-b002-9a9b4dbfaf92",
+        "trainer_name": "Klerpy",
+        "result": "win"
+      }
+    },
+    "2022-10-21T04:49:14.538299+00:00": {
+      "this_amiibo": {
+        "rating": 15.087459498833244,
+        "rating_mu": 26.410243498836145,
+        "rating_sigma": 3.7742613333343003,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
+        "id": "c314708d-b89d-4325-b17a-c7fea4a31731",
+        "name": "Mannequin",
+        "rating": 0.13752806681869956,
+        "trainer_id": "0fb55565-9a16-4eaf-9ae8-e089b432d6f0",
+        "trainer_name": "sdm_ranch",
+        "result": "loss"
+      }
     }
   }
 }

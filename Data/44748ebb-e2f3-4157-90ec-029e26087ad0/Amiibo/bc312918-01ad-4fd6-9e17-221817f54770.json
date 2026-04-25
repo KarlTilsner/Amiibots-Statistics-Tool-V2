@@ -565,6 +565,40 @@
         "trainer_name": "STRYDER_49",
         "result": "loss"
       }
+    },
+    "2022-10-10T11:22:22.154894+00:00": {
+      "this_amiibo": {
+        "rating": 13.447213455062661,
+        "rating_mu": 17.726649922563897,
+        "rating_sigma": 1.4264788225004121,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+        "id": "911ccc15-c6ed-43d6-853d-1e148a458582",
+        "name": "Cereza",
+        "rating": 14.490894200039367,
+        "trainer_id": "72dbf100-42cd-432c-993b-ac2d26cfcaa6",
+        "trainer_name": "Persesco",
+        "result": "win"
+      }
+    },
+    "2022-10-17T02:23:48.133268+00:00": {
+      "this_amiibo": {
+        "rating": 13.758206571596112,
+        "rating_mu": 17.97259528232941,
+        "rating_sigma": 1.4047962369110998,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "0bdb1988-fbff-4333-ae5e-06b418cdf7fe",
+        "name": "Fanta",
+        "rating": 14.432373099015525,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
     }
   }
 }

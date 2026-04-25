@@ -2571,6 +2571,40 @@
         "trainer_name": "eon_ii",
         "result": "loss"
       }
+    },
+    "2022-10-10T19:08:22.875043+00:00": {
+      "this_amiibo": {
+        "rating": 31.08363749361056,
+        "rating_mu": 33.64953445470511,
+        "rating_sigma": 0.8552989870315177,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "2e26188e-a242-403e-ac4f-d65290c4a0d0",
+        "name": "I'm Cereal",
+        "rating": 28.41831927480034,
+        "trainer_id": "26cad4d1-9d7d-457c-b6e3-6a285e74f071",
+        "trainer_name": "toonlinktroll",
+        "result": "win"
+      }
+    },
+    "2022-10-22T03:16:54.876658+00:00": {
+      "this_amiibo": {
+        "rating": 31.164524464426012,
+        "rating_mu": 33.73032076825511,
+        "rating_sigma": 0.8552654346097002,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "f52a9df9-4103-47e7-9e61-a04a775494e6",
+        "name": "Phoenix",
+        "rating": 21.89874746134926,
+        "trainer_id": "3fabe039-1087-4290-afb8-fd2ab3a1f5f6",
+        "trainer_name": "SitraSSB",
+        "result": "loss"
+      }
     }
   }
 }

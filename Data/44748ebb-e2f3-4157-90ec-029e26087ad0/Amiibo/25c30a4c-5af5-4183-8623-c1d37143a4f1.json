@@ -497,6 +497,40 @@
         "trainer_name": "traumatizedbaconbits",
         "result": "loss"
       }
+    },
+    "2022-10-12T21:53:26.281824+00:00": {
+      "this_amiibo": {
+        "rating": 27.964495471762255,
+        "rating_mu": 32.36394929801714,
+        "rating_sigma": 1.4664846087516283,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "eccf7a2a-eed4-4568-a9a2-ded29c24683d",
+        "name": "Bang",
+        "rating": 27.999781623365237,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "win"
+      }
+    },
+    "2022-10-12T21:49:28.453596+00:00": {
+      "this_amiibo": {
+        "rating": 28.200413096924596,
+        "rating_mu": 32.67906837441244,
+        "rating_sigma": 1.4928850924959471,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "9c4896b4-626c-45d1-8d68-7d0cc6314f39",
+        "name": "PowerPoint",
+        "rating": 29.98601302097781,
+        "trainer_id": "9db830e1-33be-44b8-a5c4-0eccbdfb3e64",
+        "trainer_name": "TheGoldMario",
+        "result": "loss"
+      }
     }
   }
 }

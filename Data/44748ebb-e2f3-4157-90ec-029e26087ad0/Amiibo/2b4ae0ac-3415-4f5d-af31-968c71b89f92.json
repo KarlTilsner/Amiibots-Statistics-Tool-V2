@@ -361,6 +361,23 @@
         "trainer_name": "sst_link",
         "result": "win"
       }
+    },
+    "2022-10-22T06:43:13.308143+00:00": {
+      "this_amiibo": {
+        "rating": 20.170409832245817,
+        "rating_mu": 25.843286489409852,
+        "rating_sigma": 1.890958885721346,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "1e76e001-908a-4dbc-aa47-a6ec9dca2966",
+        "name": "Malware",
+        "rating": 24.502365059269504,
+        "trainer_id": "e8477299-0a2c-4fe7-91b4-65bdfdc798f4",
+        "trainer_name": "TargetBrandTank",
+        "result": "win"
+      }
     }
   }
 }

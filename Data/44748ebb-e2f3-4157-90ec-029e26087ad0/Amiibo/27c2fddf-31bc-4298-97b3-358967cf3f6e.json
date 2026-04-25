@@ -242,6 +242,57 @@
         "trainer_name": "average_videogame_user",
         "result": "win"
       }
+    },
+    "2022-10-08T23:44:26.973672+00:00": {
+      "this_amiibo": {
+        "rating": 26.040788868668802,
+        "rating_mu": 32.57374945360311,
+        "rating_sigma": 2.177653528311435,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "b12b1887-c994-4b08-83dc-23791de1faf7",
+        "name": "Götz",
+        "rating": 16.35868569171378,
+        "trainer_id": "00bf2308-cc89-4d7d-9a21-4bc5b08c8077",
+        "trainer_name": "SSEpyon",
+        "result": "loss"
+      }
+    },
+    "2022-10-16T08:13:41.680194+00:00": {
+      "this_amiibo": {
+        "rating": 26.580304230877722,
+        "rating_mu": 32.92629212964525,
+        "rating_sigma": 2.1153292995891753,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "d086c01b-5899-46f7-9254-b345c0a557dc",
+        "name": "Seulgi",
+        "rating": 25.67707252224725,
+        "trainer_id": "c72590ae-93c9-4132-99b2-b8f957919ed3",
+        "trainer_name": "Leonard_Lauryn",
+        "result": "loss"
+      }
+    },
+    "2022-10-19T14:44:18.778366+00:00": {
+      "this_amiibo": {
+        "rating": 26.189288543975607,
+        "rating_mu": 32.30223267694872,
+        "rating_sigma": 2.0376480443243707,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "aa9da09b-2bfe-4680-b55d-a03cad5f5e6a",
+        "name": "Rikko",
+        "rating": 28.80850430782455,
+        "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
+        "trainer_name": "RockMyRole",
+        "result": "win"
+      }
     }
   }
 }

@@ -2350,6 +2350,40 @@
         "trainer_name": "red16r1",
         "result": "loss"
       }
+    },
+    "2022-10-12T01:59:59.323393+00:00": {
+      "this_amiibo": {
+        "rating": 27.11154415427776,
+        "rating_mu": 29.82499506228817,
+        "rating_sigma": 0.9044836360034703,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "79dc01a2-9425-4976-93f5-f52727dad45a",
+        "name": "MatPat",
+        "rating": 23.77063872045302,
+        "trainer_id": "b2a798a6-4874-49ce-8055-7c420c6eca5a",
+        "trainer_name": "Arspamon",
+        "result": "win"
+      }
+    },
+    "2022-10-17T17:28:59.990874+00:00": {
+      "this_amiibo": {
+        "rating": 27.018561935681007,
+        "rating_mu": 29.724615613005582,
+        "rating_sigma": 0.9020178924415259,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "d33580c3-4cc5-4b39-8773-5e92da797c2a",
+        "name": "Frogmon",
+        "rating": 27.33260854869646,
+        "trainer_id": "1285932e-d5a9-44b2-a0af-582aa5a06b3a",
+        "trainer_name": "Frogcake",
+        "result": "win"
+      }
     }
   }
 }

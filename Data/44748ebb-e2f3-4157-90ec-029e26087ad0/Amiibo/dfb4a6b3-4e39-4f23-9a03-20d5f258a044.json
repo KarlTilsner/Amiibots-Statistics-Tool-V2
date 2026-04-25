@@ -565,6 +565,40 @@
         "trainer_name": "AmiiboDoctor",
         "result": "loss"
       }
+    },
+    "2022-10-16T23:26:23.582902+00:00": {
+      "this_amiibo": {
+        "rating": 28.955707390925237,
+        "rating_mu": 33.10802789637922,
+        "rating_sigma": 1.384106835151327,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "50716ded-4294-4a04-bc92-c747446b03f4",
+        "name": "Angela",
+        "rating": 28.274780354701626,
+        "trainer_id": "24cb89b6-cc33-48ac-89c6-efbaa138f42e",
+        "trainer_name": "hidari_amiibo",
+        "result": "win"
+      }
+    },
+    "2022-10-21T06:23:33.227393+00:00": {
+      "this_amiibo": {
+        "rating": 29.2775649740339,
+        "rating_mu": 33.36846418391658,
+        "rating_sigma": 1.3636330699608932,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "83c07ea8-9974-46a1-902d-d5a6d3ce8355",
+        "name": "Pairopu",
+        "rating": 29.890452113183954,
+        "trainer_id": "b3c93a1e-0aee-4a76-a0ed-36bc7258e629",
+        "trainer_name": "Bananika7",
+        "result": "loss"
+      }
     }
   }
 }

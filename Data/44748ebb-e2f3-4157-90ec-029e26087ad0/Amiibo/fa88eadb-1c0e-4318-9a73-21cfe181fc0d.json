@@ -276,6 +276,57 @@
         "trainer_name": "speakerbox08",
         "result": "loss"
       }
+    },
+    "2022-10-08T10:46:08.546486+00:00": {
+      "this_amiibo": {
+        "rating": 14.611067559738478,
+        "rating_mu": 20.799565435765444,
+        "rating_sigma": 2.062832625342322,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "db905cbb-9eda-4bc3-85bf-a1f562afa41f",
+        "name": "Cheeto Man",
+        "rating": 8.76997228677206,
+        "trainer_id": "a3fa8592-cc43-4769-b360-57911517c725",
+        "trainer_name": "itspseudonotpsuedo",
+        "result": "win"
+      }
+    },
+    "2022-10-18T04:52:59.583768+00:00": {
+      "this_amiibo": {
+        "rating": 15.20589702426109,
+        "rating_mu": 21.21012452163219,
+        "rating_sigma": 2.0014091657903665,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
+        "id": "a62542ea-0427-4662-8d58-89e337d4e3e5",
+        "name": "Curve",
+        "rating": 16.071070945036674,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    },
+    "2022-10-19T15:52:37.862630+00:00": {
+      "this_amiibo": {
+        "rating": 15.754177205806311,
+        "rating_mu": 21.600737281628994,
+        "rating_sigma": 1.9488533586075614,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "105af0db-5cbe-4768-b55e-0b12ba4c118d",
+        "name": "Dabbing",
+        "rating": 12.893782669840029,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "loss"
+      }
     }
   }
 }
