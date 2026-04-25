@@ -429,6 +429,40 @@
         "trainer_name": "superplushlord",
         "result": "loss"
       }
+    },
+    "2023-04-07T16:11:15.108329+00:00": {
+      "this_amiibo": {
+        "rating": 16.751200668221337,
+        "rating_mu": 21.74153629552642,
+        "rating_sigma": 1.6634452091016938,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "60e86ba9-6c1b-46fc-918e-7bf547825d98",
+        "name": "Sprite",
+        "rating": 14.408100405098585,
+        "trainer_id": "0fb55565-9a16-4eaf-9ae8-e089b432d6f0",
+        "trainer_name": "sdm_ranch",
+        "result": "win"
+      }
+    },
+    "2023-04-15T18:17:00.979249+00:00": {
+      "this_amiibo": {
+        "rating": 17.27973695779692,
+        "rating_mu": 22.153424257791606,
+        "rating_sigma": 1.6245624333315614,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "367e7a34-ac28-4124-ab02-09a805f6a01a",
+        "name": "Ken",
+        "rating": 19.656795326202946,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "loss"
+      }
     }
   }
 }

@@ -55,6 +55,57 @@
         "trainer_name": "sst_bearslayer",
         "result": "loss"
       }
+    },
+    "2023-04-08T06:52:43.070859+00:00": {
+      "this_amiibo": {
+        "rating": 5.319109959526962,
+        "rating_mu": 19.02624750474479,
+        "rating_sigma": 4.569045848405943,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "dda5f400-b160-4fc9-a0b5-674b801afedb",
+        "name": "Apocalypze",
+        "rating": 19.019548107841104,
+        "trainer_id": "fb6e3742-9119-4426-bf3a-71bba6204b60",
+        "trainer_name": "pokemoncade",
+        "result": "win"
+      }
+    },
+    "2023-04-12T08:43:07.568143+00:00": {
+      "this_amiibo": {
+        "rating": 8.464737487526907,
+        "rating_mu": 20.687017533209644,
+        "rating_sigma": 4.074093348560912,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "755be348-8c86-4afa-8e79-4921876c6e0c",
+        "name": "FaxMachine",
+        "rating": 13.170276548534739,
+        "trainer_id": "2f9c8c00-fa6a-404d-8718-68edf85cb21f",
+        "trainer_name": "irongelatin",
+        "result": "loss"
+      }
+    },
+    "2023-04-18T07:26:33.639623+00:00": {
+      "this_amiibo": {
+        "rating": 12.120522724261958,
+        "rating_mu": 22.922099431644877,
+        "rating_sigma": 3.60052556912764,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
+        "id": "0ab134b1-d425-4ada-9cf7-6b482486d8de",
+        "name": "Nimmifred",
+        "rating": 19.590754141595113,
+        "trainer_id": "478fe709-29fa-4d5e-8fc3-282b80765517",
+        "trainer_name": "AstrobeatSaturn",
+        "result": "loss"
+      }
     }
   }
 }

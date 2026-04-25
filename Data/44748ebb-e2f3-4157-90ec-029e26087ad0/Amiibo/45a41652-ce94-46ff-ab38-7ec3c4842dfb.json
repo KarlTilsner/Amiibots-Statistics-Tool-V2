@@ -174,6 +174,23 @@
         "trainer_name": "track8regret",
         "result": "loss"
       }
+    },
+    "2023-04-08T07:44:48.921526+00:00": {
+      "this_amiibo": {
+        "rating": 10.51943333130782,
+        "rating_mu": 18.141241714380786,
+        "rating_sigma": 2.540602794357656,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "18179c80-2e63-4345-9d1a-76c92c1aee4f",
+        "name": "Can't Read",
+        "rating": 6.856851380162272,
+        "trainer_id": "aa43658e-5b76-465a-8e40-88525da0addb",
+        "trainer_name": "flounder_ssbu",
+        "result": "win"
+      }
     }
   }
 }

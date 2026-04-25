@@ -1024,6 +1024,57 @@
         "trainer_name": "Azend_1",
         "result": "loss"
       }
+    },
+    "2023-04-08T17:18:49.301095+00:00": {
+      "this_amiibo": {
+        "rating": 40.81908589576405,
+        "rating_mu": 44.07587117281065,
+        "rating_sigma": 1.0855950923488669,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "943e9195-1ac1-4d0b-89f3-d4d5989f97c8",
+        "name": "Demoman",
+        "rating": 36.44688436633159,
+        "trainer_id": "db478eb2-7e39-43c5-9dca-2fe9358ad69a",
+        "trainer_name": "thatbupguy",
+        "result": "win"
+      }
+    },
+    "2023-04-08T20:15:35.558258+00:00": {
+      "this_amiibo": {
+        "rating": 40.94041214454631,
+        "rating_mu": 44.179092805042096,
+        "rating_sigma": 1.0795602201652625,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "211a4fbc-1ae4-4156-9def-0992483f6452",
+        "name": "Mallow",
+        "rating": 38.4165399625814,
+        "trainer_id": "3c6a2558-822c-45dc-9c83-95b524978633",
+        "trainer_name": "0ccactuss0",
+        "result": "loss"
+      }
+    },
+    "2023-04-09T09:42:38.725168+00:00": {
+      "this_amiibo": {
+        "rating": 41.06655650501963,
+        "rating_mu": 44.286821657256695,
+        "rating_sigma": 1.073421717412354,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "905a7d38-7599-4c6c-a8a3-d72f9c6a53f1",
+        "name": "Luchador",
+        "rating": 39.00347459606485,
+        "trainer_id": "b2a798a6-4874-49ce-8055-7c420c6eca5a",
+        "trainer_name": "Arspamon",
+        "result": "loss"
+      }
     }
   }
 }

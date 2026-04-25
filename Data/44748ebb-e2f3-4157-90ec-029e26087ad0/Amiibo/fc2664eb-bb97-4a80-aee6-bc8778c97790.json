@@ -2061,6 +2061,23 @@
         "trainer_name": "SSEpyon",
         "result": "win"
       }
+    },
+    "2023-04-09T01:42:05.204088+00:00": {
+      "this_amiibo": {
+        "rating": 24.621056213410622,
+        "rating_mu": 27.338593929481764,
+        "rating_sigma": 0.9058459053570476,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 25.728954663899025,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "loss"
+      }
     }
   }
 }

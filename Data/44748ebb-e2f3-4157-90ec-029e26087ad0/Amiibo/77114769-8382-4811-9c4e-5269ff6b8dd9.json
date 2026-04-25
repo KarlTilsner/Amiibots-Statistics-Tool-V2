@@ -106,6 +106,57 @@
         "trainer_name": "bhc_irt",
         "result": "loss"
       }
+    },
+    "2023-04-08T07:17:26.219481+00:00": {
+      "this_amiibo": {
+        "rating": 14.658350632455663,
+        "rating_mu": 23.782440399982253,
+        "rating_sigma": 3.0413632558421964,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "9b02b182-2321-42e4-815b-8f61e4a6171d",
+        "name": "SGNWaluigi",
+        "rating": 21.54823890251951,
+        "trainer_id": "a6c7579c-e47b-44fa-ad4b-bffb12748934",
+        "trainer_name": "SGNAndy",
+        "result": "win"
+      }
+    },
+    "2023-04-08T17:40:24.990828+00:00": {
+      "this_amiibo": {
+        "rating": 16.415924574702874,
+        "rating_mu": 24.917649037360214,
+        "rating_sigma": 2.833908154219113,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "f73d3f61-737b-4d1a-ac34-1778c6075480",
+        "name": "Klarbee",
+        "rating": 20.75101956448952,
+        "trainer_id": "72dbf100-42cd-432c-993b-ac2d26cfcaa6",
+        "trainer_name": "Persesco",
+        "result": "loss"
+      }
+    },
+    "2023-04-16T12:07:34.772470+00:00": {
+      "this_amiibo": {
+        "rating": 18.02629485920025,
+        "rating_mu": 26.040413454797253,
+        "rating_sigma": 2.671372865199001,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "fedafff3-084e-4372-9282-74160d3435c6",
+        "name": "Yoshi",
+        "rating": 18.43204277598349,
+        "trainer_id": "e819f7ca-4d21-4e94-8e30-7edff2b94fc5",
+        "trainer_name": "DogBoyton",
+        "result": "loss"
+      }
     }
   }
 }

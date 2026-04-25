@@ -6192,6 +6192,40 @@
         "trainer_name": "HD_ssbu",
         "result": "loss"
       }
+    },
+    "2023-04-06T19:45:31.921060+00:00": {
+      "this_amiibo": {
+        "rating": 30.969026971932692,
+        "rating_mu": 33.39191500507322,
+        "rating_sigma": 0.8076293443801775,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "4c3adfb7-6348-42e6-b10e-23ef28cc81bc",
+        "name": "Adzuki",
+        "rating": 32.18498290433441,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
+    },
+    "2023-04-10T04:58:30.426087+00:00": {
+      "this_amiibo": {
+        "rating": 31.06629479722733,
+        "rating_mu": 33.487553674387016,
+        "rating_sigma": 0.8070862923865625,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "0c3d5bb0-14c3-4863-bc57-44cc982ef710",
+        "name": "LuckySocks",
+        "rating": 30.346374983885024,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "loss"
+      }
     }
   }
 }

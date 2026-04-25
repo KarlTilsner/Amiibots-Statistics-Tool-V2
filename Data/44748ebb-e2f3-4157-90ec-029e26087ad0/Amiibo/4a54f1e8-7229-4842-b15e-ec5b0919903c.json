@@ -191,6 +191,40 @@
         "trainer_name": "smashssf2_ita",
         "result": "loss"
       }
+    },
+    "2023-04-09T23:28:05.898621+00:00": {
+      "this_amiibo": {
+        "rating": 24.64207306928175,
+        "rating_mu": 31.619249912748916,
+        "rating_sigma": 2.325725614489056,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "7d1e43fc-779d-484c-8191-d93986387757",
+        "name": "Banana?",
+        "rating": 24.658425422573174,
+        "trainer_id": "259c6c07-f590-4aba-8069-85a64f78c6f3",
+        "trainer_name": "massivmann",
+        "result": "win"
+      }
+    },
+    "2023-04-14T14:37:34.429338+00:00": {
+      "this_amiibo": {
+        "rating": 25.307603944527827,
+        "rating_mu": 32.048012761298686,
+        "rating_sigma": 2.246802938923619,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "8d7a80cb-b129-4d5c-9031-4581f0df2555",
+        "name": "P.O.T.S",
+        "rating": 25.82756770650099,
+        "trainer_id": "6476e38f-5b9b-4f8a-b17b-6ee733aba270",
+        "trainer_name": "6samama9",
+        "result": "loss"
+      }
     }
   }
 }

@@ -21,6 +21,40 @@
         "trainer_name": "MiDe1",
         "result": "loss"
       }
+    },
+    "2023-04-06T19:13:50.542787+00:00": {
+      "this_amiibo": {
+        "rating": 11.415108406192777,
+        "rating_mu": 26.55395967595462,
+        "rating_sigma": 5.046283756587281,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "60964184-7c7f-4c03-850a-e9558e5dd06b",
+        "name": "Wilfred",
+        "rating": 26.751873773976733,
+        "trainer_id": "d3b9e42a-530d-4db7-95cf-c71ee2dc1602",
+        "trainer_name": "CoolerGlassBerriez",
+        "result": "win"
+      }
+    },
+    "2023-04-11T18:51:22.780602+00:00": {
+      "this_amiibo": {
+        "rating": 16.504060155614475,
+        "rating_mu": 29.43856462808558,
+        "rating_sigma": 4.3115014908237015,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "3b3024e1-69fd-4ce3-bcef-2a236b9295fb",
+        "name": "Neon",
+        "rating": 22.448505607337815,
+        "trainer_id": "e60803e1-d2e2-4f63-af89-61a4b79fe518",
+        "trainer_name": "Eclaume",
+        "result": "loss"
+      }
     }
   }
 }

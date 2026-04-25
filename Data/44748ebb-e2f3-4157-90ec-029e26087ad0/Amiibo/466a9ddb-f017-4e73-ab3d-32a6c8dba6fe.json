@@ -1,0 +1,43 @@
+{
+  "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+  "id": "466a9ddb-f017-4e73-ab3d-32a6c8dba6fe",
+  "name": "Oscar",
+  "trainer_id": "c8b851c2-d185-4108-9254-a81296e3f107",
+  "trainer_name": "yourpaloscar",
+  "matches": {
+    "2023-04-14T05:35:05.122305+00:00": {
+      "this_amiibo": {
+        "rating": -0.7899217551096172,
+        "rating_mu": 20.79452709502615,
+        "rating_sigma": 7.194816283378589,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "eff84931-39b7-400c-b23f-6ca8c45eff92",
+        "name": "Gerald",
+        "rating": 7.621024054838067,
+        "trainer_id": "896ea818-2f47-4338-b4da-9509b314cdbe",
+        "trainer_name": "mechatr0ns",
+        "result": "win"
+      }
+    },
+    "2023-04-14T20:17:51.589365+00:00": {
+      "this_amiibo": {
+        "rating": 5.990768946537571,
+        "rating_mu": 24.175632305607692,
+        "rating_sigma": 6.06162111969004,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "75104696-674d-4418-be11-f53cb38d99ca",
+        "name": "Remus□",
+        "rating": 5.246676387107922,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "loss"
+      }
+    }
+  }
+}

@@ -38,6 +38,40 @@
         "trainer_name": "flounder_ssbu",
         "result": "loss"
       }
+    },
+    "2023-04-09T18:56:16.164420+00:00": {
+      "this_amiibo": {
+        "rating": 15.282886022951008,
+        "rating_mu": 30.117707559146318,
+        "rating_sigma": 4.944940512065103,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "89b30bb0-28b9-406e-a6eb-c69058f18e30",
+        "name": "The Reset",
+        "rating": 33.23469307609996,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "win"
+      }
+    },
+    "2023-04-10T16:06:18.553636+00:00": {
+      "this_amiibo": {
+        "rating": 18.414295791787907,
+        "rating_mu": 31.65030861131352,
+        "rating_sigma": 4.412004273175205,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "1227e0ae-167e-4561-b9c4-8591c01eeeb7",
+        "name": "Alpharad",
+        "rating": 23.069843921866337,
+        "trainer_id": "48628fde-0115-48b9-93b4-418629c20b25",
+        "trainer_name": "Rooster_Bud",
+        "result": "loss"
+      }
     }
   }
 }

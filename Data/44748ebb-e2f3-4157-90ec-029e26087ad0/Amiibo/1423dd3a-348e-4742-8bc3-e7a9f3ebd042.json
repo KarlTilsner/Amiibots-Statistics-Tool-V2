@@ -769,6 +769,40 @@
         "trainer_name": "random_fire",
         "result": "loss"
       }
+    },
+    "2023-04-16T11:08:09.433838+00:00": {
+      "this_amiibo": {
+        "rating": 32.70491104501782,
+        "rating_mu": 36.31744051308063,
+        "rating_sigma": 1.2041764893542692,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "7dc6ba0b-3a36-4589-9f69-ddd37deeae90",
+        "name": "Apex",
+        "rating": 29.18067289290285,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
+    },
+    "2023-04-18T21:13:35.489059+00:00": {
+      "this_amiibo": {
+        "rating": 32.57023668011884,
+        "rating_mu": 36.16317958679739,
+        "rating_sigma": 1.197647635559516,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "55029baf-f0a7-4a5d-81e6-efae99c698e1",
+        "name": "PSIcho",
+        "rating": 25.840163936025156,
+        "trainer_id": "f346091f-8917-49bc-b479-b0c568026dbf",
+        "trainer_name": "RazorForce21",
+        "result": "win"
+      }
     }
   }
 }

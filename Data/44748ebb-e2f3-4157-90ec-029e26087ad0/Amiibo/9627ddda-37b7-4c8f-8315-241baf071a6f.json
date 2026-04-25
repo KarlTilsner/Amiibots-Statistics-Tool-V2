@@ -1755,6 +1755,57 @@
         "trainer_name": "hjroels02",
         "result": "loss"
       }
+    },
+    "2023-04-12T21:15:06.315288+00:00": {
+      "this_amiibo": {
+        "rating": 30.448540454401254,
+        "rating_mu": 33.24187359249548,
+        "rating_sigma": 0.9311110460314089,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "0b99c483-e5cf-4ea3-aeb9-624975d739f7",
+        "name": "Red Marth",
+        "rating": 33.44829490907152,
+        "trainer_id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
+        "trainer_name": "pinheadpatrick017",
+        "result": "win"
+      }
+    },
+    "2023-04-13T07:31:48.950865+00:00": {
+      "this_amiibo": {
+        "rating": 30.548126379182,
+        "rating_mu": 33.33364270918485,
+        "rating_sigma": 0.9285054433342829,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "3a7ba5a4-bc50-4033-a1f1-58fe72ba9605",
+        "name": "dok",
+        "rating": 27.5450162612624,
+        "trainer_id": "d10a1a53-4977-4227-a545-40d116f5b796",
+        "trainer_name": "combine788",
+        "result": "loss"
+      }
+    },
+    "2023-04-16T02:32:11.355596+00:00": {
+      "this_amiibo": {
+        "rating": 30.671448279250974,
+        "rating_mu": 33.447594353165165,
+        "rating_sigma": 0.9253820246380632,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "ea5e4490-fb7b-4d72-a0c7-dbc635e7d780",
+        "name": "Apollo",
+        "rating": 28.597723535146887,
+        "trainer_id": "c3fe3b7f-7e85-43c1-9749-435494d5d429",
+        "trainer_name": "CJMaster3",
+        "result": "loss"
+      }
     }
   }
 }

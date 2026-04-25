@@ -735,6 +735,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2023-04-08T01:20:44.887322+00:00": {
+      "this_amiibo": {
+        "rating": 29.189271926678344,
+        "rating_mu": 33.00517145772774,
+        "rating_sigma": 1.271966510349799,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "804886f5-5b47-403f-8fc4-ea2e45e98bc1",
+        "name": "Vash",
+        "rating": 25.671904063776573,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "win"
+      }
+    },
+    "2023-04-17T01:10:38.055277+00:00": {
+      "this_amiibo": {
+        "rating": 29.0352837424244,
+        "rating_mu": 32.81829006317618,
+        "rating_sigma": 1.2610021069172592,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "10b79129-b8d2-456b-b62e-d58507421801",
+        "name": "Sky Boi",
+        "rating": 24.784999957453074,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "win"
+      }
     }
   }
 }

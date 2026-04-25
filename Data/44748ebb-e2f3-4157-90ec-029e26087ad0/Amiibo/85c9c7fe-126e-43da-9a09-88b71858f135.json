@@ -2656,6 +2656,57 @@
         "trainer_name": "track8regret",
         "result": "loss"
       }
+    },
+    "2023-04-07T19:30:49.328835+00:00": {
+      "this_amiibo": {
+        "rating": 22.544418936801954,
+        "rating_mu": 25.169677564640715,
+        "rating_sigma": 0.8750862092795874,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "4c54c30f-55a0-4d88-bc36-9682431a8cbb",
+        "name": "RWeDoneYet",
+        "rating": 11.541275410852837,
+        "trainer_id": "259c6c07-f590-4aba-8069-85a64f78c6f3",
+        "trainer_name": "massivmann",
+        "result": "win"
+      }
+    },
+    "2023-04-12T16:41:59.329185+00:00": {
+      "this_amiibo": {
+        "rating": 22.477784332758322,
+        "rating_mu": 25.108696709693533,
+        "rating_sigma": 0.8769707923117365,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
+        "id": "10127618-a788-44d9-ab54-b6e7e9d16f18",
+        "name": "Alter ego",
+        "rating": 11.501083358440582,
+        "trainer_id": "0f97eeae-9a05-49b1-9741-b5719c922fd3",
+        "trainer_name": "theknownace137574",
+        "result": "win"
+      }
+    },
+    "2023-04-15T21:48:57.309574+00:00": {
+      "this_amiibo": {
+        "rating": 22.532066321080624,
+        "rating_mu": 25.16862516571648,
+        "rating_sigma": 0.8788529482119525,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "adea50a1-e1bd-4445-a908-a5ce9da6a9f8",
+        "name": "Biggs",
+        "rating": 0.5921184850568721,
+        "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
+        "trainer_name": "leCharade",
+        "result": "loss"
+      }
     }
   }
 }
