@@ -378,6 +378,40 @@
         "trainer_name": "MiDe1",
         "result": "win"
       }
+    },
+    "2022-08-13T14:33:14.579873+00:00": {
+      "this_amiibo": {
+        "rating": 21.5473273963661,
+        "rating_mu": 28.664971400272236,
+        "rating_sigma": 2.372548001302046,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "887528ff-c290-4b6f-bb1a-f653a2da1544",
+        "name": "Blaze",
+        "rating": 25.213827981203618,
+        "trainer_id": "1454cbc5-0d91-4538-a0f1-4c365b049d06",
+        "trainer_name": "hono1",
+        "result": "loss"
+      }
+    },
+    "2022-08-16T09:14:56.684540+00:00": {
+      "this_amiibo": {
+        "rating": 21.137151654431968,
+        "rating_mu": 27.93576554826802,
+        "rating_sigma": 2.266204631278684,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "422d5727-5ec5-4885-8aa4-d1d9b1d227ae",
+        "name": "Spwike",
+        "rating": 25.886279169306377,
+        "trainer_id": "5d3b8188-c17a-4198-acb8-a011895c7c7e",
+        "trainer_name": "MonoMalard",
+        "result": "win"
+      }
     }
   }
 }

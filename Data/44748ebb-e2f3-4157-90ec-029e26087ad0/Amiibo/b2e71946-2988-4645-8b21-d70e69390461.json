@@ -1,0 +1,43 @@
+{
+  "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+  "id": "b2e71946-2988-4645-8b21-d70e69390461",
+  "name": "Mr. Cronk",
+  "trainer_id": "2f91b438-99d4-4966-b002-9a9b4dbfaf92",
+  "trainer_name": "Klerpy",
+  "matches": {
+    "2022-08-18T07:34:19.240902+00:00": {
+      "this_amiibo": {
+        "rating": 1.0553022382593902,
+        "rating_mu": 21.544219854204226,
+        "rating_sigma": 6.829639205314945,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "bad5dd15-e682-45de-9a5a-1d1bfff87620",
+        "name": "Birb",
+        "rating": 23.081258498977355,
+        "trainer_id": "e6299ead-4194-4e17-b0ec-dc8c49cca85b",
+        "trainer_name": "CluelessCR",
+        "result": "win"
+      }
+    },
+    "2022-08-21T06:25:21.875634+00:00": {
+      "this_amiibo": {
+        "rating": -0.03656020863217435,
+        "rating_mu": 16.34206466265442,
+        "rating_sigma": 5.459541623762198,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "7aaf875c-8944-42e2-bd70-f7f5d810b937",
+        "name": "SheekPlant",
+        "rating": 9.338893807053514,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "win"
+      }
+    }
+  }
+}

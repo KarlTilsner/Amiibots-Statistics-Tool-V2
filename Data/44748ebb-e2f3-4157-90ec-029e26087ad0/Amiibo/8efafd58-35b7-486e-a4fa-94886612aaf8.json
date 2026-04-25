@@ -38,6 +38,57 @@
         "trainer_name": "BCRiparo",
         "result": "loss"
       }
+    },
+    "2022-08-09T13:06:54.119554+00:00": {
+      "this_amiibo": {
+        "rating": 15.00571239151129,
+        "rating_mu": 28.504929107595487,
+        "rating_sigma": 4.499738905361399,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "34ae051b-24a7-4f2d-b680-4bb1685c8ac1",
+        "name": "1 PunchMan",
+        "rating": 26.761226361691097,
+        "trainer_id": "7c20e90f-67fe-43c5-a623-83c60ef05858",
+        "trainer_name": "Zizogod",
+        "result": "win"
+      }
+    },
+    "2022-08-12T07:32:19.827111+00:00": {
+      "this_amiibo": {
+        "rating": 16.742595043369157,
+        "rating_mu": 29.611107531483466,
+        "rating_sigma": 4.28950416270477,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "cc26e925-5389-4616-a330-7cce5fbec0cd",
+        "name": "GhostBones",
+        "rating": 0.4995667909660497,
+        "trainer_id": "fd2be56f-b542-4651-9b7e-94a43c060a58",
+        "trainer_name": "BleuScreen",
+        "result": "loss"
+      }
+    },
+    "2022-08-15T12:23:45.650053+00:00": {
+      "this_amiibo": {
+        "rating": 20.514386463544128,
+        "rating_mu": 31.858725455506384,
+        "rating_sigma": 3.781446330654085,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "82ed5946-7b9e-4af9-bb9f-9cadc51e792a",
+        "name": "Egghead",
+        "rating": 26.10632982425596,
+        "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
+        "trainer_name": "raid_boss_09",
+        "result": "loss"
+      }
     }
   }
 }

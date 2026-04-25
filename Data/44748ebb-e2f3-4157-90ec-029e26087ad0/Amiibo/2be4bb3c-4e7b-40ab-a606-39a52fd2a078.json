@@ -293,6 +293,40 @@
         "trainer_name": "Adam2qaz",
         "result": "win"
       }
+    },
+    "2022-08-07T07:02:45.872362+00:00": {
+      "this_amiibo": {
+        "rating": 14.603636105382385,
+        "rating_mu": 20.751804339552866,
+        "rating_sigma": 2.0493894113901603,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "0bdb1988-fbff-4333-ae5e-06b418cdf7fe",
+        "name": "Fanta",
+        "rating": 15.367031434354807,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
+    },
+    "2022-08-18T22:03:54.000350+00:00": {
+      "this_amiibo": {
+        "rating": 14.272055479645253,
+        "rating_mu": 20.225657896048332,
+        "rating_sigma": 1.9845341388010262,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "884c3991-6733-437c-aeef-dd88edfd17cd",
+        "name": "Vaporwave",
+        "rating": 15.650469687496546,
+        "trainer_id": "fd2be56f-b542-4651-9b7e-94a43c060a58",
+        "trainer_name": "BleuScreen",
+        "result": "win"
+      }
     }
   }
 }

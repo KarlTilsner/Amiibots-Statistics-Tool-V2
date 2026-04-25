@@ -752,6 +752,40 @@
         "trainer_name": "nozzly",
         "result": "win"
       }
+    },
+    "2022-08-06T22:31:55.225047+00:00": {
+      "this_amiibo": {
+        "rating": 23.92054159707884,
+        "rating_mu": 27.837820385879947,
+        "rating_sigma": 1.3057595962670352,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 23.40841257982931,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "loss"
+      }
+    },
+    "2022-08-07T15:13:35.241894+00:00": {
+      "this_amiibo": {
+        "rating": 23.729505613921955,
+        "rating_mu": 27.596238924396015,
+        "rating_sigma": 1.2889111034913536,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "7d7e0636-04cc-42cb-853f-f87ad35a04fc",
+        "name": "Cleopatra",
+        "rating": 23.414890370870467,
+        "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
+        "trainer_name": "CikadaKing",
+        "result": "win"
+      }
     }
   }
 }

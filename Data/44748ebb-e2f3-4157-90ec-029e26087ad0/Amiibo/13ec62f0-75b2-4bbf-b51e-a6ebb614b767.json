@@ -3540,6 +3540,40 @@
         "trainer_name": "dk71896",
         "result": "loss"
       }
+    },
+    "2022-08-08T06:41:43.295374+00:00": {
+      "this_amiibo": {
+        "rating": 23.889226386003745,
+        "rating_mu": 26.463043310017902,
+        "rating_sigma": 0.8579389746713859,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 23.543925613672677,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "win"
+      }
+    },
+    "2022-08-10T15:14:03.096375+00:00": {
+      "this_amiibo": {
+        "rating": 23.995227693668337,
+        "rating_mu": 26.566384815405954,
+        "rating_sigma": 0.8570523739125386,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+        "id": "262f4431-07e2-45b4-8e33-55726558335f",
+        "name": "guts",
+        "rating": 18.320464021356887,
+        "trainer_id": "08d29f70-88f4-4a6a-ba6b-f13990208106",
+        "trainer_name": "brihmome",
+        "result": "loss"
+      }
     }
   }
 }

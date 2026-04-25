@@ -293,6 +293,57 @@
         "trainer_name": "qscxz512",
         "result": "loss"
       }
+    },
+    "2022-08-17T08:07:50.579069+00:00": {
+      "this_amiibo": {
+        "rating": 16.134675675639897,
+        "rating_mu": 23.40539750892908,
+        "rating_sigma": 2.423573944429727,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "e4552ffd-55c5-42ba-8360-2879e898bb24",
+        "name": "GANDALF",
+        "rating": 16.158634496555376,
+        "trainer_id": "52cf741b-9181-4229-8440-532cd6b5e0e7",
+        "trainer_name": "pgxmew2",
+        "result": "win"
+      }
+    },
+    "2022-08-20T02:00:19.620787+00:00": {
+      "this_amiibo": {
+        "rating": 16.894489286196524,
+        "rating_mu": 23.895999910434952,
+        "rating_sigma": 2.3338368747461424,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "b5b2524b-2ec2-40df-ab24-585304891425",
+        "name": "Legiana",
+        "rating": 16.525726471334494,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    },
+    "2022-08-21T16:47:23.023210+00:00": {
+      "this_amiibo": {
+        "rating": 17.687960515826568,
+        "rating_mu": 24.42395190302679,
+        "rating_sigma": 2.2453304624000743,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "b3caa48b-f74e-48a1-a59a-bcae44896b51",
+        "name": "Arsenico",
+        "rating": 19.37115652636661,
+        "trainer_id": "75f5b3c5-1586-4dd5-9511-a8b0018ae349",
+        "trainer_name": "blackestarrow",
+        "result": "loss"
+      }
     }
   }
 }

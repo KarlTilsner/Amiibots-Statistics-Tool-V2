@@ -1993,6 +1993,40 @@
         "trainer_name": "eon_ii",
         "result": "loss"
       }
+    },
+    "2022-08-10T17:05:30.997170+00:00": {
+      "this_amiibo": {
+        "rating": 27.0082432555586,
+        "rating_mu": 29.754295777386197,
+        "rating_sigma": 0.9153508406091992,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "f73d3f61-737b-4d1a-ac34-1778c6075480",
+        "name": "Klarbee",
+        "rating": 17.377879883953117,
+        "trainer_id": "72dbf100-42cd-432c-993b-ac2d26cfcaa6",
+        "trainer_name": "Persesco",
+        "result": "win"
+      }
+    },
+    "2022-08-17T03:53:50.201232+00:00": {
+      "this_amiibo": {
+        "rating": 27.120777264873013,
+        "rating_mu": 29.860516863058514,
+        "rating_sigma": 0.9132465327285008,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "1307f840-e8b2-4a11-9690-9538370cb1ad",
+        "name": "Cioccolata",
+        "rating": 21.57619201077667,
+        "trainer_id": "259c6c07-f590-4aba-8069-85a64f78c6f3",
+        "trainer_name": "massivmann",
+        "result": "loss"
+      }
     }
   }
 }
