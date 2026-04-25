@@ -157,6 +157,40 @@
         "trainer_name": "speakerbox08",
         "result": "win"
       }
+    },
+    "2022-10-29T18:33:03.713092+00:00": {
+      "this_amiibo": {
+        "rating": 3.081310384265782,
+        "rating_mu": 11.05202714071218,
+        "rating_sigma": 2.6569055854821326,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "f045f8ec-dce1-4355-9d96-2a59cc59972e",
+        "name": "Hierophant",
+        "rating": 0.47838072489278893,
+        "trainer_id": "a5eb3823-a703-4a48-9039-c1142b46ebde",
+        "trainer_name": "False_Justice",
+        "result": "win"
+      }
+    },
+    "2022-10-29T20:58:43.987287+00:00": {
+      "this_amiibo": {
+        "rating": 4.271720214291598,
+        "rating_mu": 11.875053992840432,
+        "rating_sigma": 2.5344445928496113,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e2531ffe-e834-49ae-b233-56386472a6ed",
+        "id": "42c398c2-50aa-4b40-9fa7-1bd5814cb5bd",
+        "name": "sno bunny!",
+        "rating": 2.173600280166143,
+        "trainer_id": "83dcd0e6-2d0c-4f68-8807-d52db8ae72a6",
+        "trainer_name": "BreadSpreaderr",
+        "result": "loss"
+      }
     }
   }
 }

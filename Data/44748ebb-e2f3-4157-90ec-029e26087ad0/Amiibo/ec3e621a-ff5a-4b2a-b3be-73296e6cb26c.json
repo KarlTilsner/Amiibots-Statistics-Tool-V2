@@ -1279,6 +1279,74 @@
         "trainer_name": "AmiiboDoctor",
         "result": "loss"
       }
+    },
+    "2022-10-26T02:47:18.804020+00:00": {
+      "this_amiibo": {
+        "rating": 30.12515826963169,
+        "rating_mu": 33.190388190332676,
+        "rating_sigma": 1.0217433069003288,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "45b1d6f5-65c4-4a55-9aab-18a4f42448e0",
+        "name": "Red",
+        "rating": 31.43496077345677,
+        "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
+        "trainer_name": "Pi_Boy_314",
+        "result": "win"
+      }
+    },
+    "2022-10-31T10:28:25.045602+00:00": {
+      "this_amiibo": {
+        "rating": 30.298371279643646,
+        "rating_mu": 33.345086437437956,
+        "rating_sigma": 1.0155717192647706,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "91fcb9b2-6efb-43b8-9f88-a55a2d76d06a",
+        "name": "TexasRangr",
+        "rating": 29.510678171800258,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "loss"
+      }
+    },
+    "2022-11-01T00:04:54.089399+00:00": {
+      "this_amiibo": {
+        "rating": 30.33378397921187,
+        "rating_mu": 33.34776682544133,
+        "rating_sigma": 1.0046609487431541,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "b24a72f1-2820-4b38-bf27-384c355000f8",
+        "name": "Kenshi",
+        "rating": 28.36542268559373,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "loss"
+      }
+    },
+    "2022-10-31T23:34:22.378561+00:00": {
+      "this_amiibo": {
+        "rating": 30.180323107887876,
+        "rating_mu": 33.21042209902107,
+        "rating_sigma": 1.0100329970443993,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "aca3443c-8dbb-46e8-b43a-d5040a4d3a91",
+        "name": "The Awaken",
+        "rating": 29.4330828929023,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "win"
+      }
     }
   }
 }

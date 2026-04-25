@@ -1534,6 +1534,40 @@
         "trainer_name": "SG_Bubs",
         "result": "loss"
       }
+    },
+    "2022-10-28T07:27:23.104331+00:00": {
+      "this_amiibo": {
+        "rating": 22.148851274553596,
+        "rating_mu": 25.308357769581004,
+        "rating_sigma": 1.0531688316758026,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "4826b2a2-5592-41e6-a8a1-d02064cc1edd",
+        "name": "Sonic",
+        "rating": 11.617802296029048,
+        "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
+        "trainer_name": "soysauce881",
+        "result": "win"
+      }
+    },
+    "2022-11-04T07:30:36.761905+00:00": {
+      "this_amiibo": {
+        "rating": 22.234292822893792,
+        "rating_mu": 25.39307364571716,
+        "rating_sigma": 1.0529269409411222,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "09ed3e7a-c788-4fcf-bd9f-0e919bd49ed9",
+        "name": "Yamcha",
+        "rating": 0.6154728285095139,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_link",
+        "result": "loss"
+      }
     }
   }
 }

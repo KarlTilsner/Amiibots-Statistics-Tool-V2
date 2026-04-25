@@ -973,6 +973,57 @@
         "trainer_name": "marble_787",
         "result": "loss"
       }
+    },
+    "2022-10-23T05:15:00.135653+00:00": {
+      "this_amiibo": {
+        "rating": 28.166901604139717,
+        "rating_mu": 31.87713401608031,
+        "rating_sigma": 1.2367441373135308,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "8f31d4f9-267b-45e5-aa34-3da4fd74abc5",
+        "name": "Malboro",
+        "rating": 25.999378074407094,
+        "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
+        "trainer_name": "Murbert_AM",
+        "result": "win"
+      }
+    },
+    "2022-11-03T12:56:21.173297+00:00": {
+      "this_amiibo": {
+        "rating": 28.424219186415574,
+        "rating_mu": 32.09251352556691,
+        "rating_sigma": 1.222764779717111,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "23ad95de-2056-4aaf-b157-0eb8f7733bed",
+        "name": "SEIGENを",
+        "rating": 28.964824955717887,
+        "trainer_id": "d7f44591-9713-4c95-b840-3607f6a73d24",
+        "trainer_name": "luckman21",
+        "result": "loss"
+      }
+    },
+    "2022-11-06T09:54:50.615693+00:00": {
+      "this_amiibo": {
+        "rating": 28.65430271201107,
+        "rating_mu": 32.28535556913471,
+        "rating_sigma": 1.2103509523745462,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "0d878808-37d1-455e-b72f-a7c2ee4d8b79",
+        "name": "Illiterate",
+        "rating": 27.17970533550536,
+        "trainer_id": "ef09c7bb-1209-4ef1-ba32-becaa71e01e5",
+        "trainer_name": "6b_Baby",
+        "result": "loss"
+      }
     }
   }
 }

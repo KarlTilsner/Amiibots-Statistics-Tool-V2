@@ -1653,6 +1653,57 @@
         "trainer_name": "red16r1",
         "result": "loss"
       }
+    },
+    "2022-10-22T23:24:09.913379+00:00": {
+      "this_amiibo": {
+        "rating": 27.336305332980785,
+        "rating_mu": 30.186904711237037,
+        "rating_sigma": 0.9501997927520847,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "52cb47ef-4f25-4db1-ab07-f07521fe896a",
+        "name": "Beer Belly",
+        "rating": 28.744455373644215,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "win"
+      }
+    },
+    "2022-10-26T11:21:01.968284+00:00": {
+      "this_amiibo": {
+        "rating": 27.24481035847132,
+        "rating_mu": 30.08510846530095,
+        "rating_sigma": 0.9467660356098777,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "9e96decf-f213-4659-9335-a2a6a0c4caae",
+        "name": "Alonso",
+        "rating": 29.013489211174385,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      }
+    },
+    "2022-10-30T14:44:16.481277+00:00": {
+      "this_amiibo": {
+        "rating": 27.357308190289093,
+        "rating_mu": 30.18754922921204,
+        "rating_sigma": 0.9434136796409818,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "4214d612-d390-4d25-9da6-160912265116",
+        "name": "Doom Guy",
+        "rating": 26.003103510756123,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "loss"
+      }
     }
   }
 }

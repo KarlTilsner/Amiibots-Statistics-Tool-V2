@@ -55,6 +55,40 @@
         "trainer_name": "wyvernfalcon",
         "result": "win"
       }
+    },
+    "2022-10-24T03:18:06.423096+00:00": {
+      "this_amiibo": {
+        "rating": 12.675091113206065,
+        "rating_mu": 25.835844059949927,
+        "rating_sigma": 4.386917648914621,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
+        "id": "7fc813e0-c995-4099-baba-6108eecde426",
+        "name": "Min Max",
+        "rating": -0.22799763625939917,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_link",
+        "result": "loss"
+      }
+    },
+    "2022-11-02T21:32:18.283955+00:00": {
+      "this_amiibo": {
+        "rating": 12.59708145923599,
+        "rating_mu": 24.516118872126377,
+        "rating_sigma": 3.9730124709634618,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "e05df3f9-7928-4f0b-9b33-d90ab46d4418",
+        "name": "Lancelot",
+        "rating": 26.835523564084106,
+        "trainer_id": "7f5b738f-b997-4899-8577-e7c5c67b0c52",
+        "trainer_name": "red16r1",
+        "result": "win"
+      }
     }
   }
 }

@@ -106,6 +106,57 @@
         "trainer_name": "Adam2qaz",
         "result": "loss"
       }
+    },
+    "2022-10-23T10:08:15.625360+00:00": {
+      "this_amiibo": {
+        "rating": 7.312829565830718,
+        "rating_mu": 17.388032024234462,
+        "rating_sigma": 3.3584008194679145,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "cc6e3e20-aaf1-4bfc-8544-572141d82055",
+        "name": "Chromium",
+        "rating": 8.969906803962388,
+        "trainer_id": "572ea3a2-7f62-4814-9089-dd5e78bb246f",
+        "trainer_name": "Strange_Fate",
+        "result": "win"
+      }
+    },
+    "2022-10-30T17:30:38.985632+00:00": {
+      "this_amiibo": {
+        "rating": 9.921272144784997,
+        "rating_mu": 19.116693189319953,
+        "rating_sigma": 3.0651403481783186,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "e02acb43-6589-4698-916b-db1af154f9df",
+        "name": "Beatrice",
+        "rating": 15.57847263762202,
+        "trainer_id": "2f91b438-99d4-4966-b002-9a9b4dbfaf92",
+        "trainer_name": "Klerpy",
+        "result": "loss"
+      }
+    },
+    "2022-11-05T10:02:54.785600+00:00": {
+      "this_amiibo": {
+        "rating": 9.764146772663725,
+        "rating_mu": 18.49649510147048,
+        "rating_sigma": 2.9107827762689182,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "8dad9e51-900f-4c8f-936d-b81f993335d7",
+        "name": "MC1",
+        "rating": 20.009456150548722,
+        "trainer_id": "718fd8e8-9eae-4c3b-a973-5526de990dba",
+        "trainer_name": "whispercord",
+        "result": "win"
+      }
     }
   }
 }

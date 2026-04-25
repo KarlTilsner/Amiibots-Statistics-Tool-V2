@@ -956,6 +956,57 @@
         "trainer_name": "dreamy_jay_d3",
         "result": "loss"
       }
+    },
+    "2022-10-29T15:15:26.267063+00:00": {
+      "this_amiibo": {
+        "rating": 27.62160582073365,
+        "rating_mu": 31.002420751454014,
+        "rating_sigma": 1.1269383102401216,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "0912c1d5-6d8f-419d-98ff-4fd6abe7d26d",
+        "name": "Jenova",
+        "rating": 29.39417671628937,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HD_ssbu",
+        "result": "win"
+      }
+    },
+    "2022-10-30T07:00:35.973348+00:00": {
+      "this_amiibo": {
+        "rating": 27.81682036810684,
+        "rating_mu": 31.169881779222294,
+        "rating_sigma": 1.1176871370384849,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "6f983077-382e-4144-9476-db2e04362f43",
+        "name": "Rolf",
+        "rating": 27.128050249660127,
+        "trainer_id": "7363710d-f22e-4dd4-b88f-0e71edffffb8",
+        "trainer_name": "Blankie_SSB",
+        "result": "loss"
+      }
+    },
+    "2022-11-05T15:44:56.561881+00:00": {
+      "this_amiibo": {
+        "rating": 27.704221520184866,
+        "rating_mu": 31.04282171355388,
+        "rating_sigma": 1.1128667311230043,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "c4304ffe-6315-4c57-bc57-d31a3ef7035a",
+        "name": "Apothecary",
+        "rating": 21.987453624626767,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
     }
   }
 }

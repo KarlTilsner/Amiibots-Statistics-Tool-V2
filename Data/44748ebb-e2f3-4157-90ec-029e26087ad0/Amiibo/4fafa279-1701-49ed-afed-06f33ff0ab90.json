@@ -1262,6 +1262,40 @@
         "trainer_name": "hidari_amiibo",
         "result": "loss"
       }
+    },
+    "2022-10-22T19:48:34.450639+00:00": {
+      "this_amiibo": {
+        "rating": 22.548548660969303,
+        "rating_mu": 25.792425965815863,
+        "rating_sigma": 1.0812924349488526,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "1f1c1075-f88b-4480-9249-6ed634c161ea",
+        "name": "Surge",
+        "rating": 23.31788500759933,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    },
+    "2022-10-23T13:05:44.372363+00:00": {
+      "this_amiibo": {
+        "rating": 22.44721971455543,
+        "rating_mu": 25.676840684977957,
+        "rating_sigma": 1.0765403234741757,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "cb670a07-a6ba-434f-ae13-ee9fe591438d",
+        "name": "Ember",
+        "rating": 18.79738529680251,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "win"
+      }
     }
   }
 }

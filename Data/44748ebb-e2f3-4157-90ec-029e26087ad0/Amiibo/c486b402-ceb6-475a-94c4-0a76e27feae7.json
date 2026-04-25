@@ -684,6 +684,40 @@
         "trainer_name": "pokemoncade",
         "result": "win"
       }
+    },
+    "2022-10-23T11:45:00.463925+00:00": {
+      "this_amiibo": {
+        "rating": 15.024201139473949,
+        "rating_mu": 19.167616458820827,
+        "rating_sigma": 1.3811384397822926,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "755be348-8c86-4afa-8e79-4921876c6e0c",
+        "name": "FaxMachine",
+        "rating": -0.3066478063018021,
+        "trainer_id": "2f9c8c00-fa6a-404d-8718-68edf85cb21f",
+        "trainer_name": "irongelatin",
+        "result": "loss"
+      }
+    },
+    "2022-10-31T11:24:47.279977+00:00": {
+      "this_amiibo": {
+        "rating": 14.83419925021257,
+        "rating_mu": 18.943934794449586,
+        "rating_sigma": 1.369911848079005,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
+        "id": "cf9f2f77-06bd-44c4-ba9f-44f807e9e393",
+        "name": "Soccer Mom",
+        "rating": 7.134414646236129,
+        "trainer_id": "2befebf3-b874-420b-bed5-10a372e8bab2",
+        "trainer_name": "toxicmantis259",
+        "result": "win"
+      }
     }
   }
 }

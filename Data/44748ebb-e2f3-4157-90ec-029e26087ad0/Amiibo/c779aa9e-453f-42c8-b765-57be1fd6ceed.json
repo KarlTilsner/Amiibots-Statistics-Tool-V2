@@ -55,6 +55,57 @@
         "trainer_name": "hypercodec",
         "result": "loss"
       }
+    },
+    "2022-10-26T05:20:48.987507+00:00": {
+      "this_amiibo": {
+        "rating": 14.686227295423512,
+        "rating_mu": 26.94607026887249,
+        "rating_sigma": 4.0866143244829924,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "7a3ed322-a88a-451d-9229-03cab1737cf0",
+        "name": "Mewtant",
+        "rating": 26.9528844291639,
+        "trainer_id": "52cf741b-9181-4229-8440-532cd6b5e0e7",
+        "trainer_name": "pgxmew2",
+        "result": "win"
+      }
+    },
+    "2022-11-05T15:23:36.540896+00:00": {
+      "this_amiibo": {
+        "rating": 16.830251274034012,
+        "rating_mu": 26.99570010505907,
+        "rating_sigma": 3.388482943675019,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "1c0bd5cd-1144-432a-8f04-f7fd0d225bc4",
+        "name": "Skyloft",
+        "rating": 21.272744141069957,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HD_ssbu",
+        "result": "loss"
+      }
+    },
+    "2022-11-05T15:18:57.497732+00:00": {
+      "this_amiibo": {
+        "rating": 14.470694193855334,
+        "rating_mu": 25.610353269248904,
+        "rating_sigma": 3.713219691797857,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "a66ef317-d566-41a4-a6ca-a7096fe36ae6",
+        "name": "PKLOVE",
+        "rating": 26.666249182785506,
+        "trainer_id": "53e90c96-ca03-4ecf-b0f2-37583e5bd70e",
+        "trainer_name": "Blazing_Torrent",
+        "result": "win"
+      }
     }
   }
 }

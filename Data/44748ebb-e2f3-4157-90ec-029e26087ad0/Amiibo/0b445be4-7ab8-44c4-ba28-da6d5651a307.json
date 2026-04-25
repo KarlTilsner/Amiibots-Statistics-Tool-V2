@@ -1092,6 +1092,57 @@
         "trainer_name": "eripai",
         "result": "loss"
       }
+    },
+    "2022-10-28T05:36:26.749600+00:00": {
+      "this_amiibo": {
+        "rating": 26.79706676332291,
+        "rating_mu": 29.952480965316678,
+        "rating_sigma": 1.0518047339979222,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "facccb1a-8077-4890-85a5-33ea9a4baf38",
+        "name": "Megamiibo",
+        "rating": 27.563224682237063,
+        "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
+        "trainer_name": "River_Tethys",
+        "result": "win"
+      }
+    },
+    "2022-10-28T03:28:54.717003+00:00": {
+      "this_amiibo": {
+        "rating": 26.92596755668319,
+        "rating_mu": 30.103179484023446,
+        "rating_sigma": 1.0590706424467524,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "8038564c-5665-4769-86e9-6972999a587c",
+        "name": "Gluttony",
+        "rating": 28.650866124438778,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    },
+    "2022-10-28T19:11:14.506003+00:00": {
+      "this_amiibo": {
+        "rating": 26.953308835830917,
+        "rating_mu": 30.09043104492749,
+        "rating_sigma": 1.045707403032192,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "3e548a3c-a3e3-49aa-aa44-4f169cd8d32e",
+        "name": "Mrth",
+        "rating": 23.675416974217825,
+        "trainer_id": "b82c6d43-d80c-4195-99a0-67355d12115d",
+        "trainer_name": "Rukasu9078",
+        "result": "loss"
+      }
     }
   }
 }

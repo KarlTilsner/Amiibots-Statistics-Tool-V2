@@ -55,6 +55,57 @@
         "trainer_name": "average_videogame_user",
         "result": "loss"
       }
+    },
+    "2022-10-22T19:53:13.997603+00:00": {
+      "this_amiibo": {
+        "rating": 11.796896697569302,
+        "rating_mu": 24.8776679401786,
+        "rating_sigma": 4.360257080869766,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "05371533-7d2e-49df-a71b-333745d4e2ee",
+        "name": "Lelouch",
+        "rating": 13.992682157736077,
+        "trainer_id": "bd07a343-f51b-4804-836e-c1461c87ce83",
+        "trainer_name": "PikaPoooool",
+        "result": "loss"
+      }
+    },
+    "2022-10-30T03:10:11.125603+00:00": {
+      "this_amiibo": {
+        "rating": 14.538404456726877,
+        "rating_mu": 26.503615406217133,
+        "rating_sigma": 3.988403649830085,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "a8aee18a-745e-435a-a7b5-80f7b0eacb8f",
+        "name": "Robin",
+        "rating": 10.948653798325262,
+        "trainer_id": "a41bf671-2ca9-4e5d-822a-2ae2ed01202e",
+        "trainer_name": "Glaceon808",
+        "result": "loss"
+      }
+    },
+    "2022-11-04T04:26:18.588093+00:00": {
+      "this_amiibo": {
+        "rating": 17.996872013437887,
+        "rating_mu": 28.62509858234968,
+        "rating_sigma": 3.542742189637264,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "deae37ae-cdef-4fc1-a3d7-ba238f0a34b7",
+        "name": "King",
+        "rating": 25.090223629310223,
+        "trainer_id": "2e52684c-b62c-49ac-9880-59ada37bfd16",
+        "trainer_name": "booomeeth",
+        "result": "loss"
+      }
     }
   }
 }
