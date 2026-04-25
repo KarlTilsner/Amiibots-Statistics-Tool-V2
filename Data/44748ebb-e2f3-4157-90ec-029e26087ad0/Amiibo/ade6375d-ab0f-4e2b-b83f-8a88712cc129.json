@@ -905,6 +905,74 @@
         "trainer_name": "sst_bearslayer",
         "result": "win"
       }
+    },
+    "2023-05-21T16:43:43.921072+00:00": {
+      "this_amiibo": {
+        "rating": 37.20361443109072,
+        "rating_mu": 40.64863309339325,
+        "rating_sigma": 1.148339554100843,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "5c7a6f83-a271-4ce1-b557-15e6453731dd",
+        "name": "Scar",
+        "rating": 39.40099125098065,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "loss"
+      }
+    },
+    "2023-05-28T05:47:57.687166+00:00": {
+      "this_amiibo": {
+        "rating": 37.0866020633655,
+        "rating_mu": 40.50400196589672,
+        "rating_sigma": 1.1391333008437416,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "5c7a6f83-a271-4ce1-b557-15e6453731dd",
+        "name": "Scar",
+        "rating": 39.653538775042115,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "win"
+      }
+    },
+    "2023-05-30T15:52:48.667762+00:00": {
+      "this_amiibo": {
+        "rating": 36.927575505003794,
+        "rating_mu": 40.31725304696444,
+        "rating_sigma": 1.1298925139868818,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "3f13139c-9393-44d8-8abd-3bb0abe481f5",
+        "name": "Reserve",
+        "rating": 33.568923452123485,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "win"
+      }
+    },
+    "2023-06-04T00:05:02.309794+00:00": {
+      "this_amiibo": {
+        "rating": 37.10760056454586,
+        "rating_mu": 40.472667115650616,
+        "rating_sigma": 1.12168885036825,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "3f13139c-9393-44d8-8abd-3bb0abe481f5",
+        "name": "Reserve",
+        "rating": 33.2357647506993,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "loss"
+      }
     }
   }
 }

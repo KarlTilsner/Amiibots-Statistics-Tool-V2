@@ -106,6 +106,57 @@
         "trainer_name": "pacman2k4",
         "result": "loss"
       }
+    },
+    "2023-05-21T10:49:48.803587+00:00": {
+      "this_amiibo": {
+        "rating": 13.13257897980517,
+        "rating_mu": 23.112054124158856,
+        "rating_sigma": 3.326491714784562,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 24.854079527200355,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "win"
+      }
+    },
+    "2023-05-24T20:52:55.285405+00:00": {
+      "this_amiibo": {
+        "rating": 12.82921696976277,
+        "rating_mu": 22.1180640936998,
+        "rating_sigma": 3.0962823746456767,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "3d03e5f9-5174-43e1-8aba-ec13594426e8",
+        "name": "ARCEE",
+        "rating": 22.69262337775641,
+        "trainer_id": "9dd080a5-5309-4ab0-bc0c-f92cef816efa",
+        "trainer_name": "leeya310",
+        "result": "win"
+      }
+    },
+    "2023-05-29T07:08:19.731875+00:00": {
+      "this_amiibo": {
+        "rating": 14.465427591791709,
+        "rating_mu": 23.171746625001358,
+        "rating_sigma": 2.9021063444032165,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "10e8b074-3780-42e5-87b4-1ebd5fa4895e",
+        "name": "Squid Game",
+        "rating": 14.810302458018281,
+        "trainer_id": "6dc742b4-3fe4-4c3a-8d77-81dde5ea3025",
+        "trainer_name": "ShiiroNekowo",
+        "result": "loss"
+      }
     }
   }
 }

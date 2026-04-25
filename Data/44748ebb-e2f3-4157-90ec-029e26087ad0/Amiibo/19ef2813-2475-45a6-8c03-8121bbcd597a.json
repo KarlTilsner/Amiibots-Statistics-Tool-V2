@@ -616,6 +616,57 @@
         "trainer_name": "track8regret",
         "result": "win"
       }
+    },
+    "2023-05-20T21:30:12.390374+00:00": {
+      "this_amiibo": {
+        "rating": 21.982405802279796,
+        "rating_mu": 26.360707780466424,
+        "rating_sigma": 1.4594339927288755,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
+        "id": "9d2526b9-e8a7-49f3-b4d7-fa9bdbaf2ed6",
+        "name": "Ice Spice",
+        "rating": 0.7301969424865717,
+        "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
+        "trainer_name": "soysauce881",
+        "result": "loss"
+      }
+    },
+    "2023-05-22T16:56:12.285327+00:00": {
+      "this_amiibo": {
+        "rating": 21.821497576849122,
+        "rating_mu": 26.177549968158427,
+        "rating_sigma": 1.4520174637697687,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "1b12d9f8-9245-4776-8271-00287e7095e8",
+        "name": "Cynthia",
+        "rating": 12.144311792998785,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "win"
+      }
+    },
+    "2023-05-25T11:12:11.298463+00:00": {
+      "this_amiibo": {
+        "rating": 21.664201248040506,
+        "rating_mu": 25.998637709542923,
+        "rating_sigma": 1.444812153834139,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "cd00a815-1a66-4add-b078-3ee3b0c7852b",
+        "name": "Blockie",
+        "rating": 12.027881718557879,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "win"
+      }
     }
   }
 }

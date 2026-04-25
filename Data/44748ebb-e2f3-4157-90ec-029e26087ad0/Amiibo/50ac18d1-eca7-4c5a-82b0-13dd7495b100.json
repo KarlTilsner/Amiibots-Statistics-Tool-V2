@@ -1296,6 +1296,40 @@
         "trainer_name": "Azend_1",
         "result": "loss"
       }
+    },
+    "2023-06-01T18:27:35.915766+00:00": {
+      "this_amiibo": {
+        "rating": 28.60793506103527,
+        "rating_mu": 31.67054620946682,
+        "rating_sigma": 1.0208703828105166,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "12ea151a-a5c7-4d68-848e-8d1996d0242a",
+        "name": "DarkKnight",
+        "rating": 31.80455204336935,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "win"
+      }
+    },
+    "2023-06-03T17:37:53.511910+00:00": {
+      "this_amiibo": {
+        "rating": 28.797446820238214,
+        "rating_mu": 31.84548618967376,
+        "rating_sigma": 1.016013123145182,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "6efe18f2-3366-470c-95dc-53bfec6adbe9",
+        "name": "Crobat",
+        "rating": 23.762510829517737,
+        "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
+        "trainer_name": "bubs_yt",
+        "result": "loss"
+      }
     }
   }
 }

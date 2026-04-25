@@ -276,6 +276,57 @@
         "trainer_name": "mixling_",
         "result": "loss"
       }
+    },
+    "2023-05-25T19:49:45.124148+00:00": {
+      "this_amiibo": {
+        "rating": 14.061587238950995,
+        "rating_mu": 20.347110404169385,
+        "rating_sigma": 2.0951743884061296,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "5e5f7600-31c9-4a1f-8ef1-47945b8ae4df",
+        "name": "KSI",
+        "rating": 17.424931799766124,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "22_woah",
+        "result": "win"
+      }
+    },
+    "2023-05-30T22:50:45.397400+00:00": {
+      "this_amiibo": {
+        "rating": 14.671751507659337,
+        "rating_mu": 20.765268552943056,
+        "rating_sigma": 2.031172348427906,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
+        "id": "e23992ff-9b94-4f07-bd8d-335c0eed5398",
+        "name": "Tasha",
+        "rating": 15.673643639186531,
+        "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
+        "trainer_name": "Lucina_Nadine",
+        "result": "loss"
+      }
+    },
+    "2023-06-02T16:11:24.178776+00:00": {
+      "this_amiibo": {
+        "rating": 14.130614897112213,
+        "rating_mu": 20.02373908287579,
+        "rating_sigma": 1.9643747285878586,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "9b69013f-29a4-4aa3-9b36-03207dba13b8",
+        "name": "GodOf Ctrl",
+        "rating": 10.091110231913602,
+        "trainer_id": "a5eb3823-a703-4a48-9039-c1142b46ebde",
+        "trainer_name": "False_Justice",
+        "result": "win"
+      }
     }
   }
 }

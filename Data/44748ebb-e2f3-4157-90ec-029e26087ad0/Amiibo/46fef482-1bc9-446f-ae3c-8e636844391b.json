@@ -140,6 +140,57 @@
         "trainer_name": "vexvoxel",
         "result": "loss"
       }
+    },
+    "2023-05-23T03:06:32.133041+00:00": {
+      "this_amiibo": {
+        "rating": 21.228883512748986,
+        "rating_mu": 29.8861924039641,
+        "rating_sigma": 2.885769630405038,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "56f77028-cb63-4dba-bfd5-9d13c64a3221",
+        "name": "Eliwood",
+        "rating": 28.80225098502691,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HD_ssbu",
+        "result": "win"
+      }
+    },
+    "2023-05-30T09:31:28.589124+00:00": {
+      "this_amiibo": {
+        "rating": 20.586972466517206,
+        "rating_mu": 29.012086229169444,
+        "rating_sigma": 2.8083712542174126,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "716e4d2b-27f7-440a-919d-9f3705ddde21",
+        "name": "Reinhardt",
+        "rating": 13.701473067638528,
+        "trainer_id": "f346091f-8917-49bc-b479-b0c568026dbf",
+        "trainer_name": "RazorForce21",
+        "result": "win"
+      }
+    },
+    "2023-06-01T06:44:54.747721+00:00": {
+      "this_amiibo": {
+        "rating": 19.97871166980679,
+        "rating_mu": 27.978718071844302,
+        "rating_sigma": 2.666668800679171,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "69a450ca-fda6-4468-bd83-fbe0a246d57e",
+        "name": "Radiance",
+        "rating": 19.039758530767344,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
     }
   }
 }

@@ -1687,6 +1687,40 @@
         "trainer_name": "NinObsessed",
         "result": "loss"
       }
+    },
+    "2023-05-30T10:14:38.325759+00:00": {
+      "this_amiibo": {
+        "rating": 32.610303274964664,
+        "rating_mu": 35.3316689673984,
+        "rating_sigma": 0.9071218974779124,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+        "id": "baa9430a-1536-4d31-9964-616aeb8bccd3",
+        "name": "Bonjo",
+        "rating": 33.410206622379924,
+        "trainer_id": "1fe74399-3119-43e4-82c7-8b574e5a5ace",
+        "trainer_name": "Esvee",
+        "result": "win"
+      }
+    },
+    "2023-06-02T20:22:49.327162+00:00": {
+      "this_amiibo": {
+        "rating": 32.51620413577958,
+        "rating_mu": 35.23013037231306,
+        "rating_sigma": 0.9046420788444935,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "059334e4-de59-49e3-99d9-ad1fa3cb7dfe",
+        "name": "lizard",
+        "rating": 32.19952205376718,
+        "trainer_id": "52395cd5-7302-493e-a7a9-c0cf640159cd",
+        "trainer_name": "mafriel",
+        "result": "win"
+      }
     }
   }
 }

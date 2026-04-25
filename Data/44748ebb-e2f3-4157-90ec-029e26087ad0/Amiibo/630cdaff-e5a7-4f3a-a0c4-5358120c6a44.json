@@ -565,6 +565,40 @@
         "trainer_name": "the_definitive_mick",
         "result": "loss"
       }
+    },
+    "2023-05-24T05:34:44.482964+00:00": {
+      "this_amiibo": {
+        "rating": 29.60195581975192,
+        "rating_mu": 33.72565706687161,
+        "rating_sigma": 1.3745670823732297,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "83c06d23-26ea-4f6d-937c-c940654f073e",
+        "name": "Link",
+        "rating": 31.0212664979497,
+        "trainer_id": "9dc48d32-a373-43dc-8f54-666289ff29e8",
+        "trainer_name": "micah_mmg",
+        "result": "win"
+      }
+    },
+    "2023-05-29T17:18:31.347091+00:00": {
+      "this_amiibo": {
+        "rating": 29.888255693811914,
+        "rating_mu": 33.954413293970376,
+        "rating_sigma": 1.3553858667194867,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "bc8c0ec7-f7ab-426e-866e-58e55d49a83f",
+        "name": "Dyne-t-rex",
+        "rating": 30.638070325288787,
+        "trainer_id": "2f91b438-99d4-4966-b002-9a9b4dbfaf92",
+        "trainer_name": "Klerpy",
+        "result": "loss"
+      }
     }
   }
 }

@@ -1585,6 +1585,74 @@
         "trainer_name": "MiDe1",
         "result": "win"
       }
+    },
+    "2023-05-23T07:09:33.416536+00:00": {
+      "this_amiibo": {
+        "rating": 26.045431715750475,
+        "rating_mu": 28.896740973309168,
+        "rating_sigma": 0.9504364191862312,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 24.72570538282797,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "loss"
+      }
+    },
+    "2023-05-26T07:07:39.535214+00:00": {
+      "this_amiibo": {
+        "rating": 26.12170680195133,
+        "rating_mu": 28.97180011172095,
+        "rating_sigma": 0.9500311032565395,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "f8740a82-49fa-4f4b-acda-c0b9f8046014",
+        "name": "Felix",
+        "rating": 11.343143023240838,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "22_woah",
+        "result": "loss"
+      }
+    },
+    "2023-05-30T21:48:25.190447+00:00": {
+      "this_amiibo": {
+        "rating": 26.206359914672472,
+        "rating_mu": 29.049772499832887,
+        "rating_sigma": 0.947804195053472,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+        "id": "b3070fdb-a450-4eee-90b5-5d5a737bb669",
+        "name": "Mugglewump",
+        "rating": 20.440952495800317,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "loss"
+      }
+    },
+    "2023-06-03T12:42:30.292473+00:00": {
+      "this_amiibo": {
+        "rating": 26.086800384335348,
+        "rating_mu": 28.91797386890168,
+        "rating_sigma": 0.9437244948554441,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "105445de-fc61-4683-9c40-5955c15c3ca4",
+        "name": "Mother Who",
+        "rating": 24.713203620223787,
+        "trainer_id": "209329c1-6cbd-4b80-9946-53b2a9ea5b6c",
+        "trainer_name": "bluea273",
+        "result": "win"
+      }
     }
   }
 }

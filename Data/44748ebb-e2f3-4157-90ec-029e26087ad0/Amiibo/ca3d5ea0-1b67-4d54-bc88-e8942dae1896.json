@@ -1,0 +1,43 @@
+{
+  "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+  "id": "ca3d5ea0-1b67-4d54-bc88-e8942dae1896",
+  "name": "Sonja",
+  "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
+  "trainer_name": "leCharade",
+  "matches": {
+    "2023-05-30T02:19:26.974636+00:00": {
+      "this_amiibo": {
+        "rating": 0.047407144199393514,
+        "rating_mu": 18.597188421134256,
+        "rating_sigma": 6.183260425644954,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "dda5f400-b160-4fc9-a0b5-674b801afedb",
+        "name": "Apocalypze",
+        "rating": 19.339835052052752,
+        "trainer_id": "fb6e3742-9119-4426-bf3a-71bba6204b60",
+        "trainer_name": "pokemoncade",
+        "result": "win"
+      }
+    },
+    "2023-05-31T05:40:09.587206+00:00": {
+      "this_amiibo": {
+        "rating": -0.40984469205448626,
+        "rating_mu": 14.80508340565178,
+        "rating_sigma": 5.071642699235422,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "24ab1b92-f3f5-45d0-88b9-094bba90766d",
+        "name": "Kyoya",
+        "rating": 11.99212460075867,
+        "trainer_id": "a36d4526-a1b2-4467-98f6-9fd436380847",
+        "trainer_name": "tinygreennerd",
+        "result": "win"
+      }
+    }
+  }
+}

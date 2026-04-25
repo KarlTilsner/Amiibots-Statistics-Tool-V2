@@ -361,6 +361,40 @@
         "trainer_name": "hidari_amiibo",
         "result": "loss"
       }
+    },
+    "2023-06-01T11:51:16.630439+00:00": {
+      "this_amiibo": {
+        "rating": 25.17463763873126,
+        "rating_mu": 30.228032523735237,
+        "rating_sigma": 1.684464961667993,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "d5a8c402-accc-4787-94c0-d97c3331ab40",
+        "name": "Cheryl",
+        "rating": 25.11959624542083,
+        "trainer_id": "da4634c2-2088-4d73-8dd4-f4ee8d8b8f08",
+        "trainer_name": "LunagradeTV",
+        "result": "win"
+      }
+    },
+    "2023-06-03T01:06:47.232207+00:00": {
+      "this_amiibo": {
+        "rating": 24.869517943911063,
+        "rating_mu": 29.805824385040577,
+        "rating_sigma": 1.6454354803765046,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fa1ac3ba-0880-483b-b94e-9b4952e3f999",
+        "id": "bfffe1db-bbb2-4414-9c40-677f58956887",
+        "name": "Eddie",
+        "rating": 24.421422234146412,
+        "trainer_id": "259c6c07-f590-4aba-8069-85a64f78c6f3",
+        "trainer_name": "massivmann",
+        "result": "win"
+      }
     }
   }
 }

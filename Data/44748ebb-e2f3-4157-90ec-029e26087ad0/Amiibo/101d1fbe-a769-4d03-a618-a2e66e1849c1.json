@@ -327,6 +327,57 @@
         "trainer_name": "Hydroclty",
         "result": "loss"
       }
+    },
+    "2023-05-21T06:10:13.838588+00:00": {
+      "this_amiibo": {
+        "rating": 33.077425121504064,
+        "rating_mu": 38.738676816524375,
+        "rating_sigma": 1.8870838983401046,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "5c7a6f83-a271-4ce1-b557-15e6453731dd",
+        "name": "Scar",
+        "rating": 39.50498456440645,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "win"
+      }
+    },
+    "2023-05-21T22:26:04.212317+00:00": {
+      "this_amiibo": {
+        "rating": 32.80190787939336,
+        "rating_mu": 38.32122404413535,
+        "rating_sigma": 1.8397720549139966,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "042d458d-478d-44e8-947f-e0eb9e3e686b",
+        "name": "EVAUnit-02",
+        "rating": 32.974439498722745,
+        "trainer_id": "108c96a4-0d10-462a-9b24-7b6058848679",
+        "trainer_name": "vexvoxel",
+        "result": "win"
+      }
+    },
+    "2023-06-04T15:12:12.391328+00:00": {
+      "this_amiibo": {
+        "rating": 32.569686278246124,
+        "rating_mu": 37.94923018030672,
+        "rating_sigma": 1.7931813006868644,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "833aa43b-4441-46b5-bb03-63cb4f7ff172",
+        "name": "Are U OK?",
+        "rating": 37.129673938485,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "win"
+      }
     }
   }
 }

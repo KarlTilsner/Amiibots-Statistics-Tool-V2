@@ -89,6 +89,40 @@
         "trainer_name": "subtleestone",
         "result": "win"
       }
+    },
+    "2023-05-23T23:20:50.852848+00:00": {
+      "this_amiibo": {
+        "rating": 14.468961194195224,
+        "rating_mu": 24.703785803512147,
+        "rating_sigma": 3.411608203105641,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "26bdd9a3-66cb-4761-b731-1f6f23b8f471",
+        "name": "Teddy",
+        "rating": 18.814172251161104,
+        "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
+        "trainer_name": "leCharade",
+        "result": "loss"
+      }
+    },
+    "2023-06-01T08:14:55.218361+00:00": {
+      "this_amiibo": {
+        "rating": 14.099940058203025,
+        "rating_mu": 23.57208179301376,
+        "rating_sigma": 3.1573805782702444,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "9b02b182-2321-42e4-815b-8f61e4a6171d",
+        "name": "SGNWaluigi",
+        "rating": 22.912327205433822,
+        "trainer_id": "a6c7579c-e47b-44fa-ad4b-bffb12748934",
+        "trainer_name": "SGNAndy",
+        "result": "win"
+      }
     }
   }
 }

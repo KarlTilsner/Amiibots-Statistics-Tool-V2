@@ -650,6 +650,40 @@
         "trainer_name": "False_Justice",
         "result": "loss"
       }
+    },
+    "2023-05-21T16:56:23.143736+00:00": {
+      "this_amiibo": {
+        "rating": 29.93158272341065,
+        "rating_mu": 33.84614250391615,
+        "rating_sigma": 1.304853260168499,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "d02fbfc4-b6db-4538-9e46-9ef643ae8627",
+        "name": "Claude",
+        "rating": 31.90584715798301,
+        "trainer_id": "e60803e1-d2e2-4f63-af89-61a4b79fe518",
+        "trainer_name": "Eclaume",
+        "result": "win"
+      }
+    },
+    "2023-05-24T04:01:33.126658+00:00": {
+      "this_amiibo": {
+        "rating": 30.106109782345015,
+        "rating_mu": 33.98925188441092,
+        "rating_sigma": 1.2943807006886339,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "f1fa9b69-b2d0-44fb-8194-b9656651ccaf",
+        "name": "Tengen",
+        "rating": 21.38934510689744,
+        "trainer_id": "e4931ae7-1311-40d6-811c-354742e96bc0",
+        "trainer_name": "atomic_salvy",
+        "result": "loss"
+      }
     }
   }
 }

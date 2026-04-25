@@ -1449,6 +1449,40 @@
         "trainer_name": "SpliceStream",
         "result": "loss"
       }
+    },
+    "2023-05-22T03:08:34.734790+00:00": {
+      "this_amiibo": {
+        "rating": 30.554847947572288,
+        "rating_mu": 35.179619372667375,
+        "rating_sigma": 1.5415904750316953,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "f1fa9b69-b2d0-44fb-8194-b9656651ccaf",
+        "name": "Tengen",
+        "rating": 22.22599615009209,
+        "trainer_id": "e4931ae7-1311-40d6-811c-354742e96bc0",
+        "trainer_name": "atomic_salvy",
+        "result": "loss"
+      }
+    },
+    "2023-05-31T08:12:25.447908+00:00": {
+      "this_amiibo": {
+        "rating": 30.27458234141323,
+        "rating_mu": 34.814624057334754,
+        "rating_sigma": 1.5133472386405085,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "513be94c-eb7a-46cc-a487-dea32aeaa09b",
+        "name": "Gaslight",
+        "rating": 27.417270830828738,
+        "trainer_id": "14df9153-bacf-491b-996d-3bbb6a54f05c",
+        "trainer_name": "cambriacotf",
+        "result": "win"
+      }
     }
   }
 }
