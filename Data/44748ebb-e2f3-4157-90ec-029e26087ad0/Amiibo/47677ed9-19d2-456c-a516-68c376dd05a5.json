@@ -633,6 +633,57 @@
         "trainer_name": "UltraDPG",
         "result": "win"
       }
+    },
+    "2022-06-19T07:27:14.150632+00:00": {
+      "this_amiibo": {
+        "rating": 27.527793217604533,
+        "rating_mu": 31.80486716730887,
+        "rating_sigma": 1.4256913165681129,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "42243e71-aa5e-4f04-a4a8-1ef2e619faeb",
+        "name": "Lucas",
+        "rating": 26.270069726578004,
+        "trainer_id": "ba85af5c-2777-4ebe-af3f-7bbd37453c2b",
+        "trainer_name": "marcoler2807",
+        "result": "win"
+      }
+    },
+    "2022-06-21T06:59:43.801589+00:00": {
+      "this_amiibo": {
+        "rating": 27.714967518680027,
+        "rating_mu": 31.945617116200985,
+        "rating_sigma": 1.4102165325069869,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "d1d18a8d-121f-4ee8-8c00-770a0898be43",
+        "name": "scam",
+        "rating": 23.9733049392943,
+        "trainer_id": "a52a8430-cf55-42e5-bf19-5b02af9f1896",
+        "trainer_name": "Shimedge",
+        "result": "loss"
+      }
+    },
+    "2022-06-21T21:37:24.170907+00:00": {
+      "this_amiibo": {
+        "rating": 27.89740208275959,
+        "rating_mu": 32.08274830028559,
+        "rating_sigma": 1.3951154058419981,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "c1bf01c8-3824-4eb6-9c00-ec66ffa98a8b",
+        "name": "johnson",
+        "rating": 25.233583853172146,
+        "trainer_id": "cee09498-e4cf-4c41-8b9c-118f036e5990",
+        "trainer_name": "Ionggone",
+        "result": "loss"
+      }
     }
   }
 }

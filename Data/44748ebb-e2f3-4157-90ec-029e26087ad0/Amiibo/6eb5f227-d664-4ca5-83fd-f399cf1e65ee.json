@@ -123,6 +123,91 @@
         "trainer_name": "UltraDPG",
         "result": "loss"
       }
+    },
+    "2022-06-06T11:49:31.178461+00:00": {
+      "this_amiibo": {
+        "rating": 15.318777455144122,
+        "rating_mu": 23.683683359299284,
+        "rating_sigma": 2.7883019680517207,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "1ea9e53a-2a62-4a59-9f40-3950e97ee8d3",
+        "name": "El Halcón",
+        "rating": 21.01260349260466,
+        "trainer_id": "d0e3f535-e180-4251-94b6-6c528f278d1e",
+        "trainer_name": "CSharp__",
+        "result": "win"
+      }
+    },
+    "2022-06-08T21:32:25.797710+00:00": {
+      "this_amiibo": {
+        "rating": 16.194314400277303,
+        "rating_mu": 24.296638595268607,
+        "rating_sigma": 2.7007747316637682,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
+        "id": "f9ed08b4-f68e-4eb5-b9f6-b5a43068895e",
+        "name": "DarthPrime",
+        "rating": 5.083658054051789,
+        "trainer_id": "c77a47ee-60f9-487e-abed-a8514fdaeeac",
+        "trainer_name": "trueschavi",
+        "result": "loss"
+      }
+    },
+    "2022-06-09T13:12:11.086450+00:00": {
+      "this_amiibo": {
+        "rating": 15.772056863082165,
+        "rating_mu": 23.59255081141345,
+        "rating_sigma": 2.606831316110428,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "95ca34b0-6cb3-4390-92d0-bbad725cfe8d",
+        "name": "Greyu",
+        "rating": 13.755459834958614,
+        "trainer_id": "f7365f6a-424b-48bb-acd6-85795db13deb",
+        "trainer_name": "TMSweaty",
+        "result": "win"
+      }
+    },
+    "2022-06-12T08:18:35.806442+00:00": {
+      "this_amiibo": {
+        "rating": 16.56502100103022,
+        "rating_mu": 24.078084266675027,
+        "rating_sigma": 2.504354421881602,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "fff2a926-cae7-496e-98d7-560b6090fe3c",
+        "name": "Mr. Fox",
+        "rating": 16.337328101034256,
+        "trainer_id": "1c4294fb-b0ae-40ac-8797-79913cd40162",
+        "trainer_name": "superlamp6",
+        "result": "loss"
+      }
+    },
+    "2022-06-17T09:35:45.532768+00:00": {
+      "this_amiibo": {
+        "rating": 17.243985486182048,
+        "rating_mu": 24.494139569230533,
+        "rating_sigma": 2.4167180276828284,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "fff2a926-cae7-496e-98d7-560b6090fe3c",
+        "name": "Mr. Fox",
+        "rating": 16.39144880762032,
+        "trainer_id": "1c4294fb-b0ae-40ac-8797-79913cd40162",
+        "trainer_name": "superlamp6",
+        "result": "loss"
+      }
     }
   }
 }

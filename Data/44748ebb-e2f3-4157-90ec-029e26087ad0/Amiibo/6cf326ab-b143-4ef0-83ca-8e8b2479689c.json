@@ -259,6 +259,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2022-06-08T17:57:15.013803+00:00": {
+      "this_amiibo": {
+        "rating": 7.586328726480618,
+        "rating_mu": 15.09193761056905,
+        "rating_sigma": 2.501869628029477,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "e0018b96-bbc4-4f85-ab95-727acb59979c",
+        "name": "Canti",
+        "rating": 4.63758000050816,
+        "trainer_id": "43cffe5f-d305-452b-a9de-fdff2396f7c3",
+        "trainer_name": "UltraDPG",
+        "result": "win"
+      }
+    },
+    "2022-06-11T13:09:53.219803+00:00": {
+      "this_amiibo": {
+        "rating": 7.0339825028493745,
+        "rating_mu": 14.191596158009581,
+        "rating_sigma": 2.3858712183867357,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "e789b28e-ab82-4ccd-b34c-b34e5a7886bc",
+        "name": "Rose",
+        "rating": 6.735008072010582,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "win"
+      }
     }
   }
 }

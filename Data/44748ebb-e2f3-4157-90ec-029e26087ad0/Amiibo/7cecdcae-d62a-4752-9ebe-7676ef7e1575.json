@@ -769,6 +769,57 @@
         "trainer_name": "AlexanderAgne",
         "result": "loss"
       }
+    },
+    "2022-06-10T00:34:19.619680+00:00": {
+      "this_amiibo": {
+        "rating": 10.283905709235249,
+        "rating_mu": 16.638361575761866,
+        "rating_sigma": 2.118151955508872,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "4f207457-be82-451e-afd9-c0504771a9bf",
+        "name": "Daedalus",
+        "rating": 10.723610995349343,
+        "trainer_id": "dfdab34f-add4-491c-be02-5cc7109dab00",
+        "trainer_name": "DaVink101",
+        "result": "win"
+      }
+    },
+    "2022-06-15T02:15:04.146152+00:00": {
+      "this_amiibo": {
+        "rating": 9.764056911551716,
+        "rating_mu": 15.883602309429998,
+        "rating_sigma": 2.0398484659594276,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "e789b28e-ab82-4ccd-b34c-b34e5a7886bc",
+        "name": "Rose",
+        "rating": 8.037228798914542,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "win"
+      }
+    },
+    "2022-06-18T14:25:23.588278+00:00": {
+      "this_amiibo": {
+        "rating": 10.33314961321937,
+        "rating_mu": 16.33529813152941,
+        "rating_sigma": 2.0007161727700136,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "09e3e56d-94da-4ff1-8fa9-736358f39ef2",
+        "name": "METALLICA",
+        "rating": -0.25810789135782386,
+        "trainer_id": "9c1cbd48-4561-4fb6-8547-93f63312ead2",
+        "trainer_name": "jammybaddie",
+        "result": "loss"
+      }
     }
   }
 }

@@ -55,6 +55,40 @@
         "trainer_name": "random_fire",
         "result": "win"
       }
+    },
+    "2022-06-10T17:02:33.647231+00:00": {
+      "this_amiibo": {
+        "rating": 9.12536670983067,
+        "rating_mu": 21.979253152841967,
+        "rating_sigma": 4.284628814337099,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "6f370d61-e9b6-4a72-865a-0f703db8a8ec",
+        "name": "Charizard",
+        "rating": 16.486335797910886,
+        "trainer_id": "379a789d-80c9-4bc3-9ad8-ec76c2397303",
+        "trainer_name": "player00010101",
+        "result": "win"
+      }
+    },
+    "2022-06-15T09:34:57.497683+00:00": {
+      "this_amiibo": {
+        "rating": 13.0649809076536,
+        "rating_mu": 24.335628044636497,
+        "rating_sigma": 3.7568823789942987,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
+        "id": "c11c87cc-84e9-4ea5-b739-ee1e1159d001",
+        "name": "Mew2King",
+        "rating": 20.4513339999639,
+        "trainer_id": "0dac8a24-5ed7-4fc9-9c00-5674617b4fab",
+        "trainer_name": "JohnLML123",
+        "result": "loss"
+      }
     }
   }
 }
