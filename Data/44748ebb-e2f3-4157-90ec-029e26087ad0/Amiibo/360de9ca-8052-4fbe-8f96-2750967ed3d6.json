@@ -106,6 +106,40 @@
         "trainer_name": "testiertrack293",
         "result": "win"
       }
+    },
+    "2022-12-21T18:51:29.209734+00:00": {
+      "this_amiibo": {
+        "rating": 12.23730301376429,
+        "rating_mu": 20.946542129326765,
+        "rating_sigma": 2.903079705187492,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "5e5f7600-31c9-4a1f-8ef1-47945b8ae4df",
+        "name": "KSI",
+        "rating": 16.805812373443185,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "average_videogame_user",
+        "result": "win"
+      }
+    },
+    "2022-12-22T11:36:51.345309+00:00": {
+      "this_amiibo": {
+        "rating": 14.295317707235263,
+        "rating_mu": 22.38180522744945,
+        "rating_sigma": 2.695495840071396,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+        "id": "1da8ef1a-63ef-49f5-ad21-76f90341fdff",
+        "name": "Slapperoni",
+        "rating": 20.66196812189325,
+        "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
+        "trainer_name": "raid_boss_09",
+        "result": "loss"
+      }
     }
   }
 }

@@ -21,6 +21,40 @@
         "trainer_name": "qscxz512",
         "result": "loss"
       }
+    },
+    "2022-12-22T00:06:45.106826+00:00": {
+      "this_amiibo": {
+        "rating": 12.076195581819544,
+        "rating_mu": 27.49908016519853,
+        "rating_sigma": 5.140961527792996,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "16308d5e-3032-4b8c-a3a5-7ee528e37afa",
+        "name": "Matador",
+        "rating": 27.745593278266007,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
+    },
+    "2022-12-24T05:54:37.801487+00:00": {
+      "this_amiibo": {
+        "rating": 16.764441001575946,
+        "rating_mu": 30.008406298241166,
+        "rating_sigma": 4.414655098888407,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "a78dd861-3ed6-4f02-ae75-a0af73790824",
+        "name": "Tulip",
+        "rating": 23.576883584966957,
+        "trainer_id": "1efe7dca-5100-46c9-85c4-7925b5186062",
+        "trainer_name": "theasianshovel",
+        "result": "loss"
+      }
     }
   }
 }

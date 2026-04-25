@@ -3421,6 +3421,40 @@
         "trainer_name": "HD_ssbu",
         "result": "loss"
       }
+    },
+    "2022-12-25T14:04:39.978764+00:00": {
+      "this_amiibo": {
+        "rating": 30.06466101867228,
+        "rating_mu": 32.85239245351956,
+        "rating_sigma": 0.9292438116157611,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "2e0a77e0-2f0b-45f8-b69f-4d4a0f1f76a7",
+        "name": "Skyloft",
+        "rating": 30.292612164342433,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HD_ssbu",
+        "result": "win"
+      }
+    },
+    "2023-01-04T18:52:56.717914+00:00": {
+      "this_amiibo": {
+        "rating": 30.184057690864137,
+        "rating_mu": 32.962026118955976,
+        "rating_sigma": 0.9259894760306133,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "321fce90-77fa-415b-9a23-6de9204361cb",
+        "name": "Brisket",
+        "rating": 29.763272903021594,
+        "trainer_id": "0dac8a24-5ed7-4fc9-9c00-5674617b4fab",
+        "trainer_name": "JohnLML123",
+        "result": "loss"
+      }
     }
   }
 }

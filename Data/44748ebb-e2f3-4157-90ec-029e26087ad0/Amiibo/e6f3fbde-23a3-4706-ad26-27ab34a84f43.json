@@ -4050,6 +4050,40 @@
         "trainer_name": "qscxz512",
         "result": "loss"
       }
+    },
+    "2023-01-03T00:53:32.066419+00:00": {
+      "this_amiibo": {
+        "rating": 25.573359502316166,
+        "rating_mu": 28.04158694642267,
+        "rating_sigma": 0.8227424813688351,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "df93b265-4f11-4655-9fbb-8ad3d6f796fa",
+        "name": "Link",
+        "rating": 24.75716916391102,
+        "trainer_id": "9dc48d32-a373-43dc-8f54-666289ff29e8",
+        "trainer_name": "micah_mmg",
+        "result": "win"
+      }
+    },
+    "2023-01-05T02:05:15.343445+00:00": {
+      "this_amiibo": {
+        "rating": 25.663888884086862,
+        "rating_mu": 28.130018562737618,
+        "rating_sigma": 0.8220432262169189,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "2c312143-ba9e-4d95-ae44-f5ddd916d8d0",
+        "name": "BlueKnight",
+        "rating": 24.731751834070078,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "loss"
+      }
     }
   }
 }

@@ -5223,6 +5223,40 @@
         "trainer_name": "WynnThornton",
         "result": "loss"
       }
+    },
+    "2022-12-24T04:25:19.379220+00:00": {
+      "this_amiibo": {
+        "rating": 22.678776834017235,
+        "rating_mu": 25.164637892283462,
+        "rating_sigma": 0.828620352755409,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "2664a3db-c154-4c5b-9c73-ec49966a8f87",
+        "name": "SST3 Lily",
+        "rating": 11.541298053171278,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "win"
+      }
+    },
+    "2022-12-29T02:35:53.893966+00:00": {
+      "this_amiibo": {
+        "rating": 22.765453480784167,
+        "rating_mu": 25.249246112675213,
+        "rating_sigma": 0.8279308772970155,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+        "id": "1da8ef1a-63ef-49f5-ad21-76f90341fdff",
+        "name": "Slapperoni",
+        "rating": 21.215322565183296,
+        "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
+        "trainer_name": "raid_boss_09",
+        "result": "loss"
+      }
     }
   }
 }

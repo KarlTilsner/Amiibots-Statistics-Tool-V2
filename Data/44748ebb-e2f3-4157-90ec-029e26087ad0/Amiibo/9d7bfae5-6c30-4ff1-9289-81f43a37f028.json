@@ -293,6 +293,40 @@
         "trainer_name": "swagginwaggin",
         "result": "loss"
       }
+    },
+    "2022-12-21T14:07:49.038910+00:00": {
+      "this_amiibo": {
+        "rating": 10.923520070353556,
+        "rating_mu": 16.98110418010405,
+        "rating_sigma": 2.019194703250165,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "4721d928-1036-4881-8bea-af6fa80fd5af",
+        "name": "Ash",
+        "rating": 5.739791842390108,
+        "trainer_id": "355eceb6-e464-4838-9baf-60fdea6f4799",
+        "trainer_name": "ihewdo23e9h0",
+        "result": "win"
+      }
+    },
+    "2023-01-02T08:29:02.221684+00:00": {
+      "this_amiibo": {
+        "rating": 11.371217169091594,
+        "rating_mu": 17.321206367709753,
+        "rating_sigma": 1.98332973287272,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "58c94498-9528-4f21-ba1f-086e1b9a8474",
+        "name": "BoxingRing",
+        "rating": -0.36073085233456936,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "TheConceptionist",
+        "result": "loss"
+      }
     }
   }
 }

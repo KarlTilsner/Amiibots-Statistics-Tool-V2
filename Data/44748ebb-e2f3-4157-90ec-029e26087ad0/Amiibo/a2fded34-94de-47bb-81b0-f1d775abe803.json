@@ -4594,6 +4594,40 @@
         "trainer_name": "nonSenseTaco",
         "result": "win"
       }
+    },
+    "2022-12-27T19:09:35.392849+00:00": {
+      "this_amiibo": {
+        "rating": 25.372415012635244,
+        "rating_mu": 27.81736480831916,
+        "rating_sigma": 0.8149832652279722,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "cb670a07-a6ba-434f-ae13-ee9fe591438d",
+        "name": "Ember",
+        "rating": 25.12805774055537,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "loss"
+      }
+    },
+    "2022-12-31T09:15:27.943796+00:00": {
+      "this_amiibo": {
+        "rating": 25.280219529467,
+        "rating_mu": 27.72307853461869,
+        "rating_sigma": 0.8142863350505628,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "cb670a07-a6ba-434f-ae13-ee9fe591438d",
+        "name": "Ember",
+        "rating": 24.497388039314437,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "win"
+      }
     }
   }
 }

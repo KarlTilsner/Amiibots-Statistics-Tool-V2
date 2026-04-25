@@ -2945,6 +2945,57 @@
         "trainer_name": "MiDe1",
         "result": "win"
       }
+    },
+    "2022-12-26T23:02:12.742128+00:00": {
+      "this_amiibo": {
+        "rating": 23.469379705586498,
+        "rating_mu": 26.106424433012272,
+        "rating_sigma": 0.8790149091419251,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "f5c40d71-418b-447b-86d1-3581dd12aa44",
+        "name": "Cortex",
+        "rating": 20.933547797421387,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "loss"
+      }
+    },
+    "2023-01-01T21:54:59.556039+00:00": {
+      "this_amiibo": {
+        "rating": 23.39800604773418,
+        "rating_mu": 26.04037844878979,
+        "rating_sigma": 0.8807908003518703,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "9b02b182-2321-42e4-815b-8f61e4a6171d",
+        "name": "SGNWaluigi",
+        "rating": 12.114587778604541,
+        "trainer_id": "a6c7579c-e47b-44fa-ad4b-bffb12748934",
+        "trainer_name": "SGNAndy",
+        "result": "win"
+      }
+    },
+    "2023-01-04T23:03:38.874761+00:00": {
+      "this_amiibo": {
+        "rating": 23.53365573945736,
+        "rating_mu": 26.167902078473265,
+        "rating_sigma": 0.8780821130053026,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
+        "id": "0e780ede-1cba-47d6-85e4-07429cbed93c",
+        "name": "Pelipper",
+        "rating": 25.059100117293482,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "loss"
+      }
     }
   }
 }

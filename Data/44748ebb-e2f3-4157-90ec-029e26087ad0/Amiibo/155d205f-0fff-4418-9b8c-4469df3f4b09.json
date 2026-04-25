@@ -752,6 +752,74 @@
         "trainer_name": "StaplesTV_",
         "result": "loss"
       }
+    },
+    "2022-12-24T05:33:08.207475+00:00": {
+      "this_amiibo": {
+        "rating": 37.395533751773975,
+        "rating_mu": 41.11927604490267,
+        "rating_sigma": 1.2412474310428991,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "0fb6e52f-ff67-4d68-bba8-d19004a90375",
+        "name": "Mariejois",
+        "rating": 32.73031970147973,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "win"
+      }
+    },
+    "2022-12-24T21:02:33.274859+00:00": {
+      "this_amiibo": {
+        "rating": 37.24725987775879,
+        "rating_mu": 40.93091729212801,
+        "rating_sigma": 1.227885804789738,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "b221f1e1-c865-4b70-a281-d7fde72e7ef7",
+        "name": "Incineroar",
+        "rating": 39.32893993808353,
+        "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
+        "trainer_name": "nozzly",
+        "result": "win"
+      }
+    },
+    "2023-01-02T08:58:40.590779+00:00": {
+      "this_amiibo": {
+        "rating": 37.51803977693647,
+        "rating_mu": 41.158784272400105,
+        "rating_sigma": 1.2135814984878786,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "b221f1e1-c865-4b70-a281-d7fde72e7ef7",
+        "name": "Incineroar",
+        "rating": 39.4789656173194,
+        "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
+        "trainer_name": "nozzly",
+        "result": "loss"
+      }
+    },
+    "2023-01-04T02:47:08.658026+00:00": {
+      "this_amiibo": {
+        "rating": 37.77883326978721,
+        "rating_mu": 41.3787410486783,
+        "rating_sigma": 1.1999692596303648,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "b221f1e1-c865-4b70-a281-d7fde72e7ef7",
+        "name": "Incineroar",
+        "rating": 39.60464635277896,
+        "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
+        "trainer_name": "nozzly",
+        "result": "loss"
+      }
     }
   }
 }

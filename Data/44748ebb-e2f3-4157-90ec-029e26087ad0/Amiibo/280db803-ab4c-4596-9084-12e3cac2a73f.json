@@ -1313,6 +1313,40 @@
         "trainer_name": "HD_ssbu",
         "result": "win"
       }
+    },
+    "2022-12-26T18:20:06.414882+00:00": {
+      "this_amiibo": {
+        "rating": 29.26398151231774,
+        "rating_mu": 32.22064449584201,
+        "rating_sigma": 0.9855543278414225,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "2e0a77e0-2f0b-45f8-b69f-4d4a0f1f76a7",
+        "name": "Skyloft",
+        "rating": 30.20603715519628,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HD_ssbu",
+        "result": "loss"
+      }
+    },
+    "2022-12-31T03:17:27.830962+00:00": {
+      "this_amiibo": {
+        "rating": 29.398377293998195,
+        "rating_mu": 32.340972864327576,
+        "rating_sigma": 0.980865190109793,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "a5d318f2-e2c9-41a2-8be5-7612c4f52724",
+        "name": "MewTube",
+        "rating": 28.85612593135018,
+        "trainer_id": "bb38f34d-4024-4bac-8796-b84083162851",
+        "trainer_name": "TechnoPuff",
+        "result": "loss"
+      }
     }
   }
 }

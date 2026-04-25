@@ -497,6 +497,40 @@
         "trainer_name": "massivmann",
         "result": "loss"
       }
+    },
+    "2022-12-21T14:49:59.093158+00:00": {
+      "this_amiibo": {
+        "rating": 29.24644331598815,
+        "rating_mu": 33.65726628511452,
+        "rating_sigma": 1.4702743230421227,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "1a97b05a-b2fe-4d42-941c-0ded920496e2",
+        "name": "John Cena",
+        "rating": 29.59953673064542,
+        "trainer_id": "4f6f55b1-cf3e-4c7b-a378-2641d72fcf23",
+        "trainer_name": "TheLimpWalrus",
+        "result": "win"
+      }
+    },
+    "2022-12-30T09:21:43.289575+00:00": {
+      "this_amiibo": {
+        "rating": 28.965819024292614,
+        "rating_mu": 33.29623919428083,
+        "rating_sigma": 1.443473389996072,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "0a3e4eca-4ecf-4a78-9b34-b9e5841a5625",
+        "name": "Yuna",
+        "rating": 27.341266176464796,
+        "trainer_id": "53a69838-dfcb-4c1b-8704-fe8d70d56fe0",
+        "trainer_name": "Tsevir",
+        "result": "win"
+      }
     }
   }
 }

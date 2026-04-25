@@ -684,6 +684,57 @@
         "trainer_name": "BCRiparo",
         "result": "loss"
       }
+    },
+    "2022-12-31T13:26:58.258812+00:00": {
+      "this_amiibo": {
+        "rating": 28.05934821154169,
+        "rating_mu": 32.07083079289809,
+        "rating_sigma": 1.3371608604521346,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "1100729c-0687-4e1c-a7e2-a6ada16eb0e1",
+        "name": "Baron Brrr",
+        "rating": 25.85114458457875,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "win"
+      }
+    },
+    "2023-01-01T12:38:37.058746+00:00": {
+      "this_amiibo": {
+        "rating": 28.338969055083815,
+        "rating_mu": 32.29985176081665,
+        "rating_sigma": 1.3202942352442788,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "01af55f4-7c54-440c-9262-184dcaebc265",
+        "name": "Sundowner",
+        "rating": 26.460252756286142,
+        "trainer_id": "95c09948-6452-4ce4-b27f-6c73c294c610",
+        "trainer_name": "2Snowblind",
+        "result": "loss"
+      }
+    },
+    "2023-01-04T23:11:43.722483+00:00": {
+      "this_amiibo": {
+        "rating": 28.154764297116753,
+        "rating_mu": 32.06304009328482,
+        "rating_sigma": 1.3027585987226886,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "853d5054-0143-4702-8b1d-dacf7038410b",
+        "name": "Ravana",
+        "rating": 29.26433125627271,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "win"
+      }
     }
   }
 }

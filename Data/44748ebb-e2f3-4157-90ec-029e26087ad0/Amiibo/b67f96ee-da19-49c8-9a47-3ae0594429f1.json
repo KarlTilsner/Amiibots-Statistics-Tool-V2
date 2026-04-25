@@ -1194,6 +1194,40 @@
         "trainer_name": "deante_ssb",
         "result": "loss"
       }
+    },
+    "2022-12-24T13:27:54.628321+00:00": {
+      "this_amiibo": {
+        "rating": 32.215597308577784,
+        "rating_mu": 35.58318385532672,
+        "rating_sigma": 1.1225288489163119,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "74985502-81b8-41d2-bf2f-9dc3f73d4892",
+        "name": "Rapture",
+        "rating": 32.421334121039386,
+        "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
+        "trainer_name": "LovingStew",
+        "result": "win"
+      }
+    },
+    "2022-12-24T12:04:33.930247+00:00": {
+      "this_amiibo": {
+        "rating": 32.35292280035091,
+        "rating_mu": 35.74849269290521,
+        "rating_sigma": 1.1318566308514326,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "42cfe82a-45b6-4e4d-a879-c3ecbff81a2f",
+        "name": "Socrates",
+        "rating": 32.09837827456879,
+        "trainer_id": "3c6a2558-822c-45dc-9c83-95b524978633",
+        "trainer_name": "0ccactuss0",
+        "result": "loss"
+      }
     }
   }
 }

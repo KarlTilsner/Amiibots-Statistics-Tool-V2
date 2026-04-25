@@ -2282,6 +2282,40 @@
         "trainer_name": "MonoMalard",
         "result": "win"
       }
+    },
+    "2022-12-23T02:24:33.714742+00:00": {
+      "this_amiibo": {
+        "rating": 26.487547585314335,
+        "rating_mu": 29.15512111669202,
+        "rating_sigma": 0.8891911771258943,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 25.17817859673604,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "loss"
+      }
+    },
+    "2022-12-26T17:06:32.647886+00:00": {
+      "this_amiibo": {
+        "rating": 26.59717462257874,
+        "rating_mu": 29.258545210420003,
+        "rating_sigma": 0.8871235292804208,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "df93b265-4f11-4655-9fbb-8ad3d6f796fa",
+        "name": "Link",
+        "rating": 24.02104482099387,
+        "trainer_id": "9dc48d32-a373-43dc-8f54-666289ff29e8",
+        "trainer_name": "micah_mmg",
+        "result": "loss"
+      }
     }
   }
 }

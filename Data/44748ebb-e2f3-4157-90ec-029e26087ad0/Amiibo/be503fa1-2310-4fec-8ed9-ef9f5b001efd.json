@@ -752,6 +752,57 @@
         "trainer_name": "its_alexis_17",
         "result": "loss"
       }
+    },
+    "2022-12-23T01:05:13.776630+00:00": {
+      "this_amiibo": {
+        "rating": 15.367607537423444,
+        "rating_mu": 19.250341749792117,
+        "rating_sigma": 1.2942447374562245,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "198b3233-d426-4df9-ba1c-899d4e17c4d1",
+        "name": "Judgement",
+        "rating": 9.803754370485303,
+        "trainer_id": "65321240-86df-4690-adea-6ddbcb87c5c9",
+        "trainer_name": "RichPandaGG",
+        "result": "win"
+      }
+    },
+    "2022-12-27T10:45:12.272091+00:00": {
+      "this_amiibo": {
+        "rating": 15.559252905684922,
+        "rating_mu": 19.422343681389144,
+        "rating_sigma": 1.2876969252347408,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "f41b4cec-985f-4227-ab53-f3b607387824",
+        "name": "Brawl",
+        "rating": 0.6432042503434339,
+        "trainer_id": "43e9b485-c8e8-4d9a-bf5f-4f51c5cae826",
+        "trainer_name": "tapumasu",
+        "result": "loss"
+      }
+    },
+    "2022-12-29T21:31:02.106492+00:00": {
+      "this_amiibo": {
+        "rating": 15.809568639731943,
+        "rating_mu": 19.633197170045932,
+        "rating_sigma": 1.2745428434379968,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "20639dd5-dd3e-401e-8eae-bfa676bd27fe",
+        "name": "Zodiark",
+        "rating": 10.868908268851452,
+        "trainer_id": "43cffe5f-d305-452b-a9de-fdff2396f7c3",
+        "trainer_name": "UltraDPG",
+        "result": "loss"
+      }
     }
   }
 }

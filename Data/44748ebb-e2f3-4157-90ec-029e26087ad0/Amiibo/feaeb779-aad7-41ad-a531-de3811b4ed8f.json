@@ -123,6 +123,57 @@
         "trainer_name": "not_citrus23",
         "result": "win"
       }
+    },
+    "2022-12-26T16:32:53.705207+00:00": {
+      "this_amiibo": {
+        "rating": 23.295542123720473,
+        "rating_mu": 31.711083517176746,
+        "rating_sigma": 2.805180464485425,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "9b658703-ad0b-4f74-ab79-f2c4baf9158b",
+        "name": "7-Up",
+        "rating": 31.517452493788213,
+        "trainer_id": "ee1d9a05-9070-4b4f-ad6c-768064c23993",
+        "trainer_name": "psythe_",
+        "result": "loss"
+      }
+    },
+    "2022-12-27T09:58:32.955647+00:00": {
+      "this_amiibo": {
+        "rating": 22.79823860279768,
+        "rating_mu": 30.708133826939452,
+        "rating_sigma": 2.63663174138059,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "ba94257a-9223-4210-a542-ffd8a798d74c",
+        "id": "6d3d94d0-9368-4026-923a-b417141d44d6",
+        "name": "potatoe",
+        "rating": 28.25766292532638,
+        "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+        "trainer_name": "fammydamammy",
+        "result": "win"
+      }
+    },
+    "2023-01-02T11:52:14.813670+00:00": {
+      "this_amiibo": {
+        "rating": 23.756245075221642,
+        "rating_mu": 31.31016856428361,
+        "rating_sigma": 2.5179744963539896,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 25.611605789918325,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "loss"
+      }
     }
   }
 }

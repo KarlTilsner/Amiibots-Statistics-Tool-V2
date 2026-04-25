@@ -939,6 +939,57 @@
         "trainer_name": "xennnb",
         "result": "loss"
       }
+    },
+    "2022-12-26T11:30:39.709186+00:00": {
+      "this_amiibo": {
+        "rating": 31.803264522802692,
+        "rating_mu": 35.506148055974116,
+        "rating_sigma": 1.2342945110571408,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "0f54afff-2070-4dc3-b9da-0e9412b5c4dd",
+        "name": "Arya",
+        "rating": 33.78081870188687,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2022-12-28T10:47:29.781331+00:00": {
+      "this_amiibo": {
+        "rating": 31.65421512304558,
+        "rating_mu": 35.31756682258793,
+        "rating_sigma": 1.2211172331807825,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "0f54afff-2070-4dc3-b9da-0e9412b5c4dd",
+        "name": "Arya",
+        "rating": 33.66575237187166,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2023-01-05T09:31:40.836827+00:00": {
+      "this_amiibo": {
+        "rating": 31.500906289096545,
+        "rating_mu": 35.13458089002452,
+        "rating_sigma": 1.2112248669759929,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "9b3a6b9c-c511-485c-b110-aba1257f21a1",
+        "name": "Aerith",
+        "rating": 27.113356153424892,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "average_videogame_user",
+        "result": "win"
+      }
     }
   }
 }

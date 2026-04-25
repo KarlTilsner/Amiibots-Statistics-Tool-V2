@@ -55,6 +55,74 @@
         "trainer_name": "wizard_real",
         "result": "loss"
       }
+    },
+    "2022-12-24T14:53:06.325288+00:00": {
+      "this_amiibo": {
+        "rating": 22.925878137938824,
+        "rating_mu": 34.89104524635956,
+        "rating_sigma": 3.9883890361402448,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "8f45691a-3415-46e6-9640-427c1836af52",
+        "name": "Sam",
+        "rating": 35.131486950367936,
+        "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
+        "trainer_name": "gotelin_",
+        "result": "win"
+      }
+    },
+    "2022-12-26T00:05:14.343624+00:00": {
+      "this_amiibo": {
+        "rating": 25.552354934088093,
+        "rating_mu": 36.37624544677438,
+        "rating_sigma": 3.6079635042287603,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "746f9a14-b229-480b-b51f-8ced1fc1bd86",
+        "name": "LimeV4",
+        "rating": 30.629725733254837,
+        "trainer_id": "05eacb7f-fff7-4c14-ab1d-129195051d66",
+        "trainer_name": "NinObsessed",
+        "result": "loss"
+      }
+    },
+    "2023-01-01T10:59:52.392575+00:00": {
+      "this_amiibo": {
+        "rating": 25.027430224754532,
+        "rating_mu": 34.892452445432056,
+        "rating_sigma": 3.2883407402258413,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "217f9903-d545-49dc-97da-69e35dc7d42d",
+        "name": "Dadidoo",
+        "rating": 33.48632897252192,
+        "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
+        "trainer_name": "YM44",
+        "result": "win"
+      }
+    },
+    "2023-01-05T09:31:40.836827+00:00": {
+      "this_amiibo": {
+        "rating": 27.113356153424892,
+        "rating_mu": 36.2140992518371,
+        "rating_sigma": 3.0335810328040687,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "c737410e-bfd6-4120-94ff-839e41e1030a",
+        "name": "Keturo",
+        "rating": 31.500906289096545,
+        "trainer_id": "04082fa7-2907-4659-8e20-268b35dccc31",
+        "trainer_name": "DemonTamer534",
+        "result": "loss"
+      }
     }
   }
 }

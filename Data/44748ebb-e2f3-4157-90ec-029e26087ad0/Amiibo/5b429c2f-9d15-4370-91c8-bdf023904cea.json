@@ -429,6 +429,91 @@
         "trainer_name": "UltraDPG",
         "result": "loss"
       }
+    },
+    "2022-12-27T01:09:44.999107+00:00": {
+      "this_amiibo": {
+        "rating": 12.399629718424668,
+        "rating_mu": 17.513571559178175,
+        "rating_sigma": 1.704647280251169,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "a8aee18a-745e-435a-a7b5-80f7b0eacb8f",
+        "name": "Robin",
+        "rating": 16.167078384484366,
+        "trainer_id": "a41bf671-2ca9-4e5d-822a-2ae2ed01202e",
+        "trainer_name": "Glaceon808",
+        "result": "win"
+      }
+    },
+    "2022-12-27T07:09:29.917505+00:00": {
+      "this_amiibo": {
+        "rating": 12.206758072724327,
+        "rating_mu": 17.23773831171795,
+        "rating_sigma": 1.676993412997875,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "33a906ba-53d2-4047-bd8c-6085ef0c0c89",
+        "name": "Rufio",
+        "rating": 10.535314043455696,
+        "trainer_id": "989b85c3-4ffc-41c0-8596-2d2c67fd7158",
+        "trainer_name": "tealeevz",
+        "result": "win"
+      }
+    },
+    "2022-12-28T21:50:09.493901+00:00": {
+      "this_amiibo": {
+        "rating": 12.02434348299828,
+        "rating_mu": 16.969858314297042,
+        "rating_sigma": 1.6485049437662538,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "664b9d9c-41e6-4171-87ba-19d966305cd9",
+        "name": "Dairdevil",
+        "rating": 11.962380565159004,
+        "trainer_id": "a5eb3823-a703-4a48-9039-c1142b46ebde",
+        "trainer_name": "False_Justice",
+        "result": "win"
+      }
+    },
+    "2023-01-01T20:47:51.975217+00:00": {
+      "this_amiibo": {
+        "rating": 11.736763988374985,
+        "rating_mu": 16.587172312646793,
+        "rating_sigma": 1.616802774757269,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "cf7e4c7d-a323-4612-9cd8-beaf59bfee45",
+        "name": "Ken Unball",
+        "rating": 8.387401785564693,
+        "trainer_id": "367b7501-7535-4f39-a8ce-2df600b74bef",
+        "trainer_name": "breakdownandrye",
+        "result": "win"
+      }
+    },
+    "2023-01-03T19:02:07.988135+00:00": {
+      "this_amiibo": {
+        "rating": 12.083786507362479,
+        "rating_mu": 16.848910031300882,
+        "rating_sigma": 1.588374507979468,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "b3d41e85-ad18-44f2-b080-195856a76c15",
+        "name": "Unit",
+        "rating": 9.669081602122883,
+        "trainer_id": "820a1cf2-d17a-41ac-a532-92ec30e71e17",
+        "trainer_name": "itchykaeru",
+        "result": "loss"
+      }
     }
   }
 }

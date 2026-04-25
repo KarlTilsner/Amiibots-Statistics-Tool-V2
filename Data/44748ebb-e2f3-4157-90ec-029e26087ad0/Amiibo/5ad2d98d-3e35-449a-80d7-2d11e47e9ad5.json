@@ -140,6 +140,40 @@
         "trainer_name": "connorcgr",
         "result": "loss"
       }
+    },
+    "2022-12-26T04:37:56.142756+00:00": {
+      "this_amiibo": {
+        "rating": 0.9316778993224837,
+        "rating_mu": 9.619122166597847,
+        "rating_sigma": 2.8958147557584546,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "8f4c0353-45df-4aee-88be-250fa46016a5",
+        "name": "DasNotTiki",
+        "rating": 7.901431383314247,
+        "trainer_id": "9891eba0-a578-4f25-97ce-338fb6d4890b",
+        "trainer_name": "STRYDER_49",
+        "result": "win"
+      }
+    },
+    "2022-12-29T03:41:05.969190+00:00": {
+      "this_amiibo": {
+        "rating": 2.470751948507335,
+        "rating_mu": 10.624607349209924,
+        "rating_sigma": 2.7179518002341965,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
+        "id": "f9ed08b4-f68e-4eb5-b9f6-b5a43068895e",
+        "name": "DarthPrime",
+        "rating": 5.766695809592391,
+        "trainer_id": "c77a47ee-60f9-487e-abed-a8514fdaeeac",
+        "trainer_name": "trueschavi",
+        "result": "loss"
+      }
     }
   }
 }
