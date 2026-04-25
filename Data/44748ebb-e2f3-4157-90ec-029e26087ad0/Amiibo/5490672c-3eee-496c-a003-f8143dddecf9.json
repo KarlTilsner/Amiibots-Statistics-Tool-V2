@@ -395,6 +395,40 @@
         "trainer_name": "birbofbirb",
         "result": "win"
       }
+    },
+    "2022-07-09T06:40:17.610778+00:00": {
+      "this_amiibo": {
+        "rating": 15.461937145548244,
+        "rating_mu": 20.656034075501985,
+        "rating_sigma": 1.7313656433179134,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "b84019d0-c58c-43c5-9aae-211d828f25cd",
+        "name": "Stink",
+        "rating": 0.43733440240407795,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "loss"
+      }
+    },
+    "2022-07-10T15:26:48.282672+00:00": {
+      "this_amiibo": {
+        "rating": 15.235299624658298,
+        "rating_mu": 20.311054672325145,
+        "rating_sigma": 1.6919183492222825,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "7e95d489-3a06-4a05-9344-081fe386959a",
+        "name": "Cromulent",
+        "rating": 18.97358004082142,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
     }
   }
 }

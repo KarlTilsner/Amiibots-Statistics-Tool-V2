@@ -1262,6 +1262,40 @@
         "trainer_name": "combine788",
         "result": "loss"
       }
+    },
+    "2022-07-09T19:02:46.155511+00:00": {
+      "this_amiibo": {
+        "rating": 23.71599684979187,
+        "rating_mu": 26.96803859652953,
+        "rating_sigma": 1.0840139155792206,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "6f370d61-e9b6-4a72-865a-0f703db8a8ec",
+        "name": "Charizard",
+        "rating": 22.258879630365193,
+        "trainer_id": "379a789d-80c9-4bc3-9ad8-ec76c2397303",
+        "trainer_name": "player00010101",
+        "result": "loss"
+      }
+    },
+    "2022-07-17T07:27:46.188590+00:00": {
+      "this_amiibo": {
+        "rating": 23.858333983280122,
+        "rating_mu": 27.090108102830634,
+        "rating_sigma": 1.0772580398501703,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "00ad43f8-e125-406e-87a0-49f5f6f647a6",
+        "name": "Dedededede",
+        "rating": 21.986557713855824,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "loss"
+      }
     }
   }
 }

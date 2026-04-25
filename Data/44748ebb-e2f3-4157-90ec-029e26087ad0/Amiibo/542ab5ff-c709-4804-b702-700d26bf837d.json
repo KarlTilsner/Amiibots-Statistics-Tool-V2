@@ -259,6 +259,40 @@
         "trainer_name": "someguy_456",
         "result": "loss"
       }
+    },
+    "2022-07-19T01:19:52.243801+00:00": {
+      "this_amiibo": {
+        "rating": 20.04168381842438,
+        "rating_mu": 26.638657785558706,
+        "rating_sigma": 2.198991322378109,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "e2684419-120c-464b-8d1c-826aaecc5c25",
+        "name": "Marth 2.5",
+        "rating": 27.05292433494121,
+        "trainer_id": "6e7c5192-3b94-41ee-a44c-1476c68bdade",
+        "trainer_name": "frosteefromyt",
+        "result": "win"
+      }
+    },
+    "2022-07-21T06:32:38.007275+00:00": {
+      "this_amiibo": {
+        "rating": 20.45066091440709,
+        "rating_mu": 26.96365319353321,
+        "rating_sigma": 2.1709974263753735,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "e6c4a61f-ab0a-4cdf-8843-28d460792521",
+        "name": "Porkchop",
+        "rating": 0.6986978492461908,
+        "trainer_id": "65321240-86df-4690-adea-6ddbcb87c5c9",
+        "trainer_name": "RichPandaGG",
+        "result": "loss"
+      }
     }
   }
 }
