@@ -110,7 +110,7 @@ async function characterMatchup(selectedOption) {
     //---------------------------------------------------------------------------------------------------------------------------------------------------------
     async function createMatchupChart() {
         // Push specific amiibo data into array for matchup chart
-        const matchups_query = await fetch(`../Data/${window.localStorage.getItem('Global_Ruleset')}/matchups.json`);
+        const matchups_query = await fetch(`./Data/${window.localStorage.getItem('Global_Ruleset')}/matchups.json`);
         const matchups_data = await matchups_query.json();
 
         // Data for amiibo card
@@ -162,11 +162,11 @@ async function characterMatchup(selectedOption) {
         highestRatedHistory = [];
 
         // Push specified amiibo data into array for rating history chart
-        const rating_history_query = await fetch(`../Data/${window.localStorage.getItem('Global_Ruleset')}/Rating_History/${specifiedCharacter_name} Rating History.json`);
+        const rating_history_query = await fetch(`./Data/${window.localStorage.getItem('Global_Ruleset')}/Rating_History/${specifiedCharacter_name} Rating History.json`);
         const rating_history_data = await rating_history_query.json();
 
         // Latest trainer names
-        const trainer_names_query = await fetch(`../Data/${window.localStorage.getItem('Global_Ruleset')}/unique_trainers.json`);
+        const trainer_names_query = await fetch(`./Data/${window.localStorage.getItem('Global_Ruleset')}/unique_trainers.json`);
         const trainer_names = await trainer_names_query.json();
 
         // get highest rating

@@ -1,23 +1,21 @@
+window.onload = function () {
+    main();
+}
+
+
+
 let unique_trainers = [];
-let ruleset_id = '';
-
-
+let ruleset_id = window.localStorage.getItem("Global_Ruleset");
 
 
 
 // GET ALL TRAINERS AND THEIR AMIIBO AND GIVE THEM A SCORE BASED ON AMIIBO RANKS
 //--------------------------------------------------------------------------------------------------------------------------------------------------------- 
 async function main() {
-    ruleset_id = document.getElementById("selectTierDropdown").value;
-
     // get all amiibo
     async function get_all_amiibo() {
-        const url = `https://www.amiibots.com/api/amiibo?per_page=${Number.MAX_SAFE_INTEGER}&ruleset_id=${ruleset_id}`;
-        const query = await fetch(url);
-        const response = await query.json();
-
-        const data = response.data.map(index => index);
-        return data;
+        const query = await fetch(`./Data/${ruleset_id}/leaderboard.json`);
+        return await query.json();
     }
     const all_amiibo = await get_all_amiibo();
 

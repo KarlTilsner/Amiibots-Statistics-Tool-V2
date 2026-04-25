@@ -1,7 +1,7 @@
 // Queries all character names and IDs and loads them into an object
 //---------------------------------------------------------------------------------------------------------------------------------------------------------
 async function get_all_characters_search_history() {
-    const url = `../Data/all_characters.json`;
+    const url = `./Data/all_characters.json`;
     const query = await fetch(url);
     const response = await query.json();
 
@@ -15,7 +15,7 @@ async function get_all_characters_search_history() {
 // Queries all rulesets and load them into an object
 //---------------------------------------------------------------------------------------------------------------------------------------------------------
 async function get_rulesets() {
-    const url = `../Data/rulesets.json`;
+    const url = `./Data/rulesets.json`;
     const query = await fetch(url);
     const response = await query.json();
     const data = response.map(index => index);

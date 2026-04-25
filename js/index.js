@@ -64,7 +64,7 @@ const quaternary_border_colour = 'rgba(255, 170, 0, 1)'          // orange
 //---------------------------------------------------------------------------------------------------------------------------------------------------------
 let all_characters = [];
 async function get_all_characters() {
-    const query = await fetch("../Data/all_characters.json");
+    const query = await fetch("./Data/all_characters.json");
     const response = await query.json();
     Object.entries(response).forEach(([id, name]) => {
         all_characters.push({
@@ -112,14 +112,14 @@ async function amiiboStats() {
     //---------------------------------------------------------------------------------------------------------------------------------------------------------
 
     // Get rulesets
-    const ruleset_file = await fetch("../Data/rulesets.json");
+    const ruleset_file = await fetch("./Data/rulesets.json");
     const rulesets = await ruleset_file.json();
 
     // Fetch all possible files
     let ruleset_id = null;
     const responses = await Promise.all(
         rulesets.map(async (r) => {
-            const res = await fetch(`../Data/${r.id}/Amiibo/${amiibo_id}.json`);
+            const res = await fetch(`./Data/${r.id}/Amiibo/${amiibo_id}.json`);
 
             if (!res.ok) return null;
 

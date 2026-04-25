@@ -9,10 +9,11 @@
 
         <link rel="stylesheet" href="css/styles.css">
         
-        <script defer src="js/trainer_id_search.js"></script>
-        <script defer src="js/versionNumber.js"></script>
-        <script defer src="js/navBarElement.js"></script>
-        <script defer src="js/search_history.js"></script>
+        <script src="js/header.js"></script>
+        <script src="js/ruleset_handler.js"></script>
+        <script src="js/trainer_id_search.js"></script>
+        <script src="js/navBarElement.js"></script>
+        <script src="js/search_history.js"></script>
     </head>
 
 
@@ -20,26 +21,10 @@
 
 
     <body>
-
         <nav class="navbar" id="documentNavbar"></nav>
 
-        
-
         <main>
-            <div class="header">
-                <div>
-                    <h1 class="title">Amiibots Statistics Tool<span class="subtitle"> / ID Search</span></h1>
-
-                    <p class="version" id="versionNo"></p>
-                </div>
-
-                <div class="search_history_button" onclick="toggleVisibility()">
-                    <img class="search_history_icon" src="images/icon_search_history.png">
-                </div>
-
-            </div>
-
-
+            <div id="documentHeader"></div>
 
             <div class="block" id="searchHistoryDropdown" style="display: none;">
                 <div class="container">
@@ -48,22 +33,6 @@
                         <div class="flex_list_container" id="searchHistoryDropdownContent"></div>
                     </div>
                 </div>
-            </div>
-
-
-
-            <div class="block flex_container">
-                <select class="ruleset_dropdownMenu" id="selectTierDropdown" style="padding: 1rem;">
-                    <option class="dropdownMenuOption" value="44748ebb-e2f3-4157-90ec-029e26087ad0">Ruleset: Vanilla</option>
-                    <option class="dropdownMenuOption" value="328d8932-456f-4219-9fa4-c4bafdb55776">Ruleset: Big 5 Ban</option>
-                    <option class="dropdownMenuOption" value="af1df0cd-3251-4b44-ba04-d48de5b73f8b">Ruleset: Anything Goes</option>
-                </select>
-
-                <form>
-                    <div class="search_buttons">
-                        <input type="button" value="Get Trainer IDs" class="generate_graph main_search" id="button" style="padding: calc(1rem + 4px);" onclick="main();" required></form>
-                    </div>
-                </form>
             </div>
 
 
@@ -90,8 +59,7 @@
             </div>
 
 
-
+            
         </main>
-
     </body>
 </html>
