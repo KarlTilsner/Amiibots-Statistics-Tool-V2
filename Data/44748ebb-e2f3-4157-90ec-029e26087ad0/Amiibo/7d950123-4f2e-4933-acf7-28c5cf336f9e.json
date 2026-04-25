@@ -4135,6 +4135,40 @@
         "trainer_name": "forenmagra",
         "result": "win"
       }
+    },
+    "2023-03-23T19:21:00.036995+00:00": {
+      "this_amiibo": {
+        "rating": 39.22678877524515,
+        "rating_mu": 41.67403477254553,
+        "rating_sigma": 0.8157486657667954,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "ff362a97-ccd8-4dbb-95ca-a44df4d1b5ec",
+        "name": "Apophis",
+        "rating": 38.58861165251929,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "loss"
+      }
+    },
+    "2023-03-25T14:06:44.856590+00:00": {
+      "this_amiibo": {
+        "rating": 39.136888087404465,
+        "rating_mu": 41.58210484043432,
+        "rating_sigma": 0.8150722510099505,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "ff362a97-ccd8-4dbb-95ca-a44df4d1b5ec",
+        "name": "Apophis",
+        "rating": 38.814151138091646,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
     }
   }
 }

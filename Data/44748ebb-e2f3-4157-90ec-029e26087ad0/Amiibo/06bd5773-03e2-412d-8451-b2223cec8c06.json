@@ -1228,6 +1228,40 @@
         "trainer_name": "Azend_1",
         "result": "loss"
       }
+    },
+    "2023-03-28T01:30:50.955237+00:00": {
+      "this_amiibo": {
+        "rating": 31.183850108154914,
+        "rating_mu": 34.30475664334461,
+        "rating_sigma": 1.0403021783965656,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "0367a4b2-9343-4f53-8bfe-a658bfabc037",
+        "name": "colgate",
+        "rating": 23.506000823903868,
+        "trainer_id": "3c6a2558-822c-45dc-9c83-95b524978633",
+        "trainer_name": "0ccactuss0",
+        "result": "loss"
+      }
+    },
+    "2023-04-02T07:55:56.996051+00:00": {
+      "this_amiibo": {
+        "rating": 31.06442904240718,
+        "rating_mu": 34.166011071944006,
+        "rating_sigma": 1.0338606765122749,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "4c3adfb7-6348-42e6-b10e-23ef28cc81bc",
+        "name": "Adzuki",
+        "rating": 31.941305379342115,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
     }
   }
 }

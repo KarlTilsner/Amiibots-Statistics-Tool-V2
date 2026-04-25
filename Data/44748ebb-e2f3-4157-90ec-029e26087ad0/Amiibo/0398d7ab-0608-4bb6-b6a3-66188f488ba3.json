@@ -72,6 +72,40 @@
         "trainer_name": "i_i_no",
         "result": "loss"
       }
+    },
+    "2023-03-25T03:05:22.566652+00:00": {
+      "this_amiibo": {
+        "rating": 26.74786033161801,
+        "rating_mu": 37.12010252753388,
+        "rating_sigma": 3.45741406530529,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "afd936c2-249f-4b94-b2e9-c0ba92da1554",
+        "name": "Mr. WiiWii",
+        "rating": 32.09641726234966,
+        "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
+        "trainer_name": "schmorchid",
+        "result": "win"
+      }
+    },
+    "2023-03-25T02:13:42.780355+00:00": {
+      "this_amiibo": {
+        "rating": 27.855497694813486,
+        "rating_mu": 39.56896493182725,
+        "rating_sigma": 3.904489079004589,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "d02fbfc4-b6db-4538-9e46-9ef643ae8627",
+        "name": "Claude",
+        "rating": 30.78666240190686,
+        "trainer_id": "e60803e1-d2e2-4f63-af89-61a4b79fe518",
+        "trainer_name": "Eclaume",
+        "result": "loss"
+      }
     }
   }
 }

@@ -395,6 +395,40 @@
         "trainer_name": "StaplesTV_",
         "result": "loss"
       }
+    },
+    "2023-03-23T05:17:02.639188+00:00": {
+      "this_amiibo": {
+        "rating": 25.234859045087244,
+        "rating_mu": 30.2074622585373,
+        "rating_sigma": 1.6575344044833524,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "30965ef1-45c2-46ab-abe1-ccc518ce782d",
+        "name": "Pwog-Man",
+        "rating": 27.72907927773461,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "win"
+      }
+    },
+    "2023-04-02T09:06:23.180598+00:00": {
+      "this_amiibo": {
+        "rating": 24.973849716815984,
+        "rating_mu": 29.869055530750494,
+        "rating_sigma": 1.6317352713115034,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "56c48cad-f587-4aa6-ab20-651f856432c4",
+        "name": "Slark",
+        "rating": 19.778670193071427,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "win"
+      }
     }
   }
 }

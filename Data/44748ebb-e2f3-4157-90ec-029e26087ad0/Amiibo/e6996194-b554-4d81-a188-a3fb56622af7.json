@@ -1653,6 +1653,57 @@
         "trainer_name": "stormdaveultra2",
         "result": "loss"
       }
+    },
+    "2023-03-22T22:37:35.162066+00:00": {
+      "this_amiibo": {
+        "rating": 19.23227843854503,
+        "rating_mu": 22.09388214431644,
+        "rating_sigma": 0.9538679019238023,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
+        "id": "2c25aa02-f8cc-4a8e-bd28-cfa3116edd1e",
+        "name": "ball",
+        "rating": 20.376840561660803,
+        "trainer_id": "52395cd5-7302-493e-a7a9-c0cf640159cd",
+        "trainer_name": "mafriel",
+        "result": "win"
+      }
+    },
+    "2023-03-23T15:31:29.793099+00:00": {
+      "this_amiibo": {
+        "rating": 19.318327266216077,
+        "rating_mu": 22.18212384703071,
+        "rating_sigma": 0.9545988602715446,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "f5d60d07-e086-4901-8216-ea3b9c9d20e2",
+        "name": "OldManDorf",
+        "rating": -0.08162368173430679,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "22_woah",
+        "result": "loss"
+      }
+    },
+    "2023-03-26T07:51:41.846502+00:00": {
+      "this_amiibo": {
+        "rating": 19.242327818032873,
+        "rating_mu": 22.09787698759537,
+        "rating_sigma": 0.951849723187499,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "0b60e147-79c0-46f8-b562-c7a1643a26ae",
+        "name": "Swoop",
+        "rating": 20.915030789246824,
+        "trainer_id": "0dc4a16f-927f-41d7-bcf5-b338e590b5fa",
+        "trainer_name": "KodinGaming",
+        "result": "win"
+      }
     }
   }
 }

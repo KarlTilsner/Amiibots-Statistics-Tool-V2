@@ -21,6 +21,40 @@
         "trainer_name": "hidari_amiibo",
         "result": "loss"
       }
+    },
+    "2023-03-26T00:10:00.931255+00:00": {
+      "this_amiibo": {
+        "rating": 12.573739846662903,
+        "rating_mu": 28.04000221229407,
+        "rating_sigma": 5.155420788543722,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "be503842-2dea-40ff-af3e-a3c06a2819e4",
+        "name": "Jimmy",
+        "rating": 29.714109920245736,
+        "trainer_id": "1b7fd0cc-6291-4aec-8e38-1c8b460ed1f0",
+        "trainer_name": "thegreatspez",
+        "result": "win"
+      }
+    },
+    "2023-04-01T22:40:20.836357+00:00": {
+      "this_amiibo": {
+        "rating": 18.45576684296408,
+        "rating_mu": 31.408466455784232,
+        "rating_sigma": 4.317566537606717,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "1bfc7cf1-9ef0-4db9-811c-411b0a0914da",
+        "name": "Muncho",
+        "rating": 27.84253768492283,
+        "trainer_id": "7cc55879-788a-46a5-b227-132b263d947f",
+        "trainer_name": "joejoe2188",
+        "result": "loss"
+      }
     }
   }
 }

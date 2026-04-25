@@ -514,6 +514,40 @@
         "trainer_name": "random_fire",
         "result": "loss"
       }
+    },
+    "2023-03-22T18:42:43.135856+00:00": {
+      "this_amiibo": {
+        "rating": 30.049685183088314,
+        "rating_mu": 34.42198645579865,
+        "rating_sigma": 1.4574337575701126,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "059334e4-de59-49e3-99d9-ad1fa3cb7dfe",
+        "name": "lizard",
+        "rating": 30.41190104302687,
+        "trainer_id": "52395cd5-7302-493e-a7a9-c0cf640159cd",
+        "trainer_name": "mafriel",
+        "result": "win"
+      }
+    },
+    "2023-04-01T13:47:02.036672+00:00": {
+      "this_amiibo": {
+        "rating": 30.42222375737665,
+        "rating_mu": 34.719899521037824,
+        "rating_sigma": 1.4325585878870584,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "9bc8555b-4700-4e9c-9a58-8cbd89636f73",
+        "name": "BacUpTerry",
+        "rating": 31.903563698699916,
+        "trainer_id": "d97c2f0d-5c43-4e7d-a8c6-fbfbb918666a",
+        "trainer_name": "Mist04249",
+        "result": "loss"
+      }
     }
   }
 }

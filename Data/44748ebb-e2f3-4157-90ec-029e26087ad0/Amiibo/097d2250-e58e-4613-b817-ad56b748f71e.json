@@ -5529,6 +5529,57 @@
         "trainer_name": "random_fire",
         "result": "loss"
       }
+    },
+    "2023-03-22T18:19:28.655008+00:00": {
+      "this_amiibo": {
+        "rating": 38.96483588336743,
+        "rating_mu": 41.461924449279365,
+        "rating_sigma": 0.8323628553039804,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "ff362a97-ccd8-4dbb-95ca-a44df4d1b5ec",
+        "name": "Apophis",
+        "rating": 38.40401948005388,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
+    },
+    "2023-03-27T06:01:42.052058+00:00": {
+      "this_amiibo": {
+        "rating": 38.89490116077185,
+        "rating_mu": 41.391478095772165,
+        "rating_sigma": 0.8321923116667699,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "d32b6ab3-8f14-4a7e-bbe6-31100d7c83d3",
+        "name": "The Sniper",
+        "rating": 38.33530661882715,
+        "trainer_id": "f346091f-8917-49bc-b479-b0c568026dbf",
+        "trainer_name": "RazorForce21",
+        "result": "win"
+      }
+    },
+    "2023-03-30T22:37:13.028736+00:00": {
+      "this_amiibo": {
+        "rating": 38.82173782583992,
+        "rating_mu": 41.317978206534484,
+        "rating_sigma": 0.8320801268981893,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "f71220bf-4618-477c-8447-25ecda154117",
+        "name": "KAOS",
+        "rating": 36.86869129141121,
+        "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+        "trainer_name": "Competitively2",
+        "result": "win"
+      }
     }
   }
 }

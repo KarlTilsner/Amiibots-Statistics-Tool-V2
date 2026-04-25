@@ -1449,6 +1449,40 @@
         "trainer_name": "MiDe1",
         "result": "win"
       }
+    },
+    "2023-03-21T16:41:09.224326+00:00": {
+      "this_amiibo": {
+        "rating": 20.506354703882664,
+        "rating_mu": 23.553867102568343,
+        "rating_sigma": 1.0158374662285596,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
+        "id": "cabe928d-29e9-476a-9667-16e640c5d0f9",
+        "name": "tink",
+        "rating": 20.336764053746926,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "win"
+      }
+    },
+    "2023-03-24T07:12:51.531553+00:00": {
+      "this_amiibo": {
+        "rating": 20.671760460424487,
+        "rating_mu": 23.700910114145792,
+        "rating_sigma": 1.0097165512404345,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fa1ac3ba-0880-483b-b94e-9b4952e3f999",
+        "id": "1c1c9cb9-3769-438a-b166-9c2968e28446",
+        "name": "Ash",
+        "rating": 21.266130690547804,
+        "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
+        "trainer_name": "Lucina_Nadine",
+        "result": "loss"
+      }
     }
   }
 }

@@ -72,6 +72,40 @@
         "trainer_name": "aggron_ghost",
         "result": "loss"
       }
+    },
+    "2023-03-31T13:57:39.832653+00:00": {
+      "this_amiibo": {
+        "rating": 2.8490948825479965,
+        "rating_mu": 15.119874630773307,
+        "rating_sigma": 4.090259916075103,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "896cd146-2957-480c-89aa-11e8e24d270e",
+        "name": "turtle",
+        "rating": 17.155027027558727,
+        "trainer_id": "e5137c0f-460d-40ff-9140-583259412350",
+        "trainer_name": "amiibrio",
+        "result": "win"
+      }
+    },
+    "2023-04-03T06:09:36.833812+00:00": {
+      "this_amiibo": {
+        "rating": 6.111395249206806,
+        "rating_mu": 17.096313007008373,
+        "rating_sigma": 3.6616392526005224,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "0f3b3b2f-ef43-4f45-9512-5f693cec1c72",
+        "name": "Isekai",
+        "rating": 9.439816917079417,
+        "trainer_id": "a5eb3823-a703-4a48-9039-c1142b46ebde",
+        "trainer_name": "False_Justice",
+        "result": "loss"
+      }
     }
   }
 }

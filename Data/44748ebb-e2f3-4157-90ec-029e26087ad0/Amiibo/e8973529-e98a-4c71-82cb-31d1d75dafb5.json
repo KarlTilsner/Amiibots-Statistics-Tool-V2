@@ -480,6 +480,40 @@
         "trainer_name": "TheConceptionist",
         "result": "win"
       }
+    },
+    "2023-03-24T03:35:04.938485+00:00": {
+      "this_amiibo": {
+        "rating": 16.25667524007914,
+        "rating_mu": 21.065221503358696,
+        "rating_sigma": 1.6028487544265182,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "896cd146-2957-480c-89aa-11e8e24d270e",
+        "name": "turtle",
+        "rating": 16.775398523444203,
+        "trainer_id": "e5137c0f-460d-40ff-9140-583259412350",
+        "trainer_name": "amiibrio",
+        "result": "loss"
+      }
+    },
+    "2023-03-25T05:51:13.367083+00:00": {
+      "this_amiibo": {
+        "rating": 16.035891420798382,
+        "rating_mu": 20.752499023263397,
+        "rating_sigma": 1.5722025341550045,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "367e7a34-ac28-4124-ab02-09a805f6a01a",
+        "name": "Ken",
+        "rating": 17.02561695520401,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "win"
+      }
     }
   }
 }

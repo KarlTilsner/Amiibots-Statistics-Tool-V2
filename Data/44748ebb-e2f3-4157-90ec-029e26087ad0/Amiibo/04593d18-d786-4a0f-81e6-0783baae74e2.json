@@ -1,0 +1,43 @@
+{
+  "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+  "id": "04593d18-d786-4a0f-81e6-0783baae74e2",
+  "name": "Nemo",
+  "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+  "trainer_name": "22_woah",
+  "matches": {
+    "2023-04-01T04:05:09.629010+00:00": {
+      "this_amiibo": {
+        "rating": 0.6460655802085142,
+        "rating_mu": 20.57134038379941,
+        "rating_sigma": 6.641758267863631,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "f2aa2246-db2d-46ab-b51b-4d07bdde1a1d",
+        "name": "Sakura",
+        "rating": 19.132089549546276,
+        "trainer_id": "8611b3c4-4441-4e46-a466-fa1d8dc052e6",
+        "trainer_name": "JosephTPG",
+        "result": "win"
+      }
+    },
+    "2023-04-05T00:23:19.895847+00:00": {
+      "this_amiibo": {
+        "rating": 8.11826103932686,
+        "rating_mu": 24.279986812367603,
+        "rating_sigma": 5.387241924346914,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "f41b4cec-985f-4227-ab53-f3b607387824",
+        "name": "Brawl",
+        "rating": 16.636975487494915,
+        "trainer_id": "43e9b485-c8e8-4d9a-bf5f-4f51c5cae826",
+        "trainer_name": "tapumasu",
+        "result": "loss"
+      }
+    }
+  }
+}

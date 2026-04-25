@@ -2231,6 +2231,40 @@
         "trainer_name": "NytrozypicRL",
         "result": "loss"
       }
+    },
+    "2023-03-27T00:35:08.299674+00:00": {
+      "this_amiibo": {
+        "rating": 26.028810752766503,
+        "rating_mu": 28.657854293892182,
+        "rating_sigma": 0.8763478470418933,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "01a57073-57f8-493c-aa86-98566bddd701",
+        "name": "pokeflash",
+        "rating": 18.814088215472268,
+        "trainer_id": "108c96a4-0d10-462a-9b24-7b6058848679",
+        "trainer_name": "vexvoxel",
+        "result": "loss"
+      }
+    },
+    "2023-03-30T20:18:49.047252+00:00": {
+      "this_amiibo": {
+        "rating": 25.93137321636379,
+        "rating_mu": 28.554138190500726,
+        "rating_sigma": 0.8742549913789778,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 26.226076355766427,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "win"
+      }
     }
   }
 }

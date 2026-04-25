@@ -1,7 +1,7 @@
 {
   "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
   "id": "0366e69e-827c-4f22-aeb6-d496008730ae",
-  "name": "Flaskon",
+  "name": "Frosties",
   "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
   "trainer_name": "wyvernfalcon",
   "matches": {
@@ -666,6 +666,57 @@
         "trainer_id": "78058de3-e8d4-4a0a-a333-11d0a5901cdd",
         "trainer_name": "OnyxLouise",
         "result": "loss"
+      }
+    },
+    "2023-03-21T19:28:50.578225+00:00": {
+      "this_amiibo": {
+        "rating": 26.21324404253103,
+        "rating_mu": 30.238605296152716,
+        "rating_sigma": 1.3417870845405622,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "b59c981c-2eb7-4a9a-b5ed-876afc19ebd8",
+        "name": "Shimy",
+        "rating": 26.551939702208507,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "win"
+      }
+    },
+    "2023-04-01T01:10:22.916268+00:00": {
+      "this_amiibo": {
+        "rating": 22.889359076688216,
+        "rating_mu": 30.909891803454762,
+        "rating_sigma": 2.6735109089221827,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "54ded366-7019-4ea9-b50e-255a814a0d31",
+        "name": "Meow2□",
+        "rating": 10.933878468605105,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "loss"
+      }
+    },
+    "2023-04-04T17:52:19.089646+00:00": {
+      "this_amiibo": {
+        "rating": 22.436034094060272,
+        "rating_mu": 30.23289369732569,
+        "rating_sigma": 2.5989532010884724,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "66b0eaed-b72d-482d-a34c-b22255153815",
+        "name": "Girl Marth",
+        "rating": 17.93234570156374,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "22_woah",
+        "result": "win"
       }
     }
   }

@@ -1058,6 +1058,40 @@
         "trainer_name": "Azend_1",
         "result": "loss"
       }
+    },
+    "2023-03-28T19:24:00.451278+00:00": {
+      "this_amiibo": {
+        "rating": 38.42966005441152,
+        "rating_mu": 41.56084491322419,
+        "rating_sigma": 1.0437282862708896,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "ff362a97-ccd8-4dbb-95ca-a44df4d1b5ec",
+        "name": "Apophis",
+        "rating": 39.532726910834015,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
+    },
+    "2023-04-03T04:52:56.923726+00:00": {
+      "this_amiibo": {
+        "rating": 38.35399708475026,
+        "rating_mu": 41.472456911939275,
+        "rating_sigma": 1.0394866090630046,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "40c58de9-5d31-4c57-aab2-f11a1e457759",
+        "name": "Crash",
+        "rating": 39.867482699629136,
+        "trainer_id": "da950c3e-e43a-47e5-a539-97e5f87fab06",
+        "trainer_name": "redoctane0217",
+        "result": "win"
+      }
     }
   }
 }

@@ -38,6 +38,40 @@
         "trainer_name": "player00010101",
         "result": "loss"
       }
+    },
+    "2023-03-28T15:09:56.610025+00:00": {
+      "this_amiibo": {
+        "rating": 16.91640870914776,
+        "rating_mu": 30.38827792663327,
+        "rating_sigma": 4.49062307249517,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "8c5ceb94-37b7-4c5e-a5b6-7f020f39fd3c",
+        "name": "SaladCombo",
+        "rating": 30.437890882530997,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "win"
+      }
+    },
+    "2023-04-05T00:52:31.082675+00:00": {
+      "this_amiibo": {
+        "rating": 21.58237252888813,
+        "rating_mu": 33.21289467489985,
+        "rating_sigma": 3.87684071533724,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "ae5224d1-1ce0-4c4a-bc83-f331a1bc635b",
+        "name": "Rocket Man",
+        "rating": 29.626558089173106,
+        "trainer_id": "57e4f98b-8ccc-4969-aabf-a583e1955f48",
+        "trainer_name": "buddabas",
+        "result": "loss"
+      }
     }
   }
 }

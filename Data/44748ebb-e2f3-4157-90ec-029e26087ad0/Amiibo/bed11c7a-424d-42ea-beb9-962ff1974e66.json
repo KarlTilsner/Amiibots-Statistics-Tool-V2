@@ -1211,6 +1211,57 @@
         "trainer_name": "eon_ii",
         "result": "loss"
       }
+    },
+    "2023-03-21T20:41:34.942947+00:00": {
+      "this_amiibo": {
+        "rating": 35.838354441534804,
+        "rating_mu": 38.93452363729044,
+        "rating_sigma": 1.032056398585212,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "42adf0a6-e743-4602-ab00-4eee318e6e85",
+        "name": "Rose Tyler",
+        "rating": 34.177468184603484,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      }
+    },
+    "2023-03-25T21:56:37.315607+00:00": {
+      "this_amiibo": {
+        "rating": 35.75840211643886,
+        "rating_mu": 38.84071664062719,
+        "rating_sigma": 1.0274381747294437,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "ff362a97-ccd8-4dbb-95ca-a44df4d1b5ec",
+        "name": "Apophis",
+        "rating": 39.074137515073936,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
+    },
+    "2023-04-01T11:56:42.556112+00:00": {
+      "this_amiibo": {
+        "rating": 35.7044844956992,
+        "rating_mu": 38.77812411290567,
+        "rating_sigma": 1.0245465390688242,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "4ffd800b-dd94-4b05-83e1-98f3e8d3444d",
+        "name": "LooksRawr",
+        "rating": 40.50286109576653,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "win"
+      }
     }
   }
 }

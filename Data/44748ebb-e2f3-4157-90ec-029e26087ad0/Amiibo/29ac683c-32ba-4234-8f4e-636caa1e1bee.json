@@ -55,6 +55,40 @@
         "trainer_name": "brain_dread",
         "result": "loss"
       }
+    },
+    "2023-03-25T13:28:02.098401+00:00": {
+      "this_amiibo": {
+        "rating": 11.242238228242105,
+        "rating_mu": 24.233917719512355,
+        "rating_sigma": 4.330559830423417,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "f2aa2246-db2d-46ab-b51b-4d07bdde1a1d",
+        "name": "Sakura",
+        "rating": 13.1121132432061,
+        "trainer_id": "8611b3c4-4441-4e46-a466-fa1d8dc052e6",
+        "trainer_name": "JosephTPG",
+        "result": "win"
+      }
+    },
+    "2023-04-02T13:45:47.128998+00:00": {
+      "this_amiibo": {
+        "rating": 14.33068971206811,
+        "rating_mu": 25.943074953522444,
+        "rating_sigma": 3.870795080484778,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "dda5f400-b160-4fc9-a0b5-674b801afedb",
+        "name": "Apocalypze",
+        "rating": 18.859717022233212,
+        "trainer_id": "fb6e3742-9119-4426-bf3a-71bba6204b60",
+        "trainer_name": "pokemoncade",
+        "result": "loss"
+      }
     }
   }
 }

@@ -1449,6 +1449,40 @@
         "trainer_name": "toonlinktroll",
         "result": "loss"
       }
+    },
+    "2023-03-22T00:55:05.704470+00:00": {
+      "this_amiibo": {
+        "rating": 25.502477267197214,
+        "rating_mu": 28.522337118917502,
+        "rating_sigma": 1.0066199505734297,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
+        "id": "c80c0419-0f02-438f-b18f-ac275ccadf4f",
+        "name": "Mindy",
+        "rating": 26.786467769619783,
+        "trainer_id": "3fabe039-1087-4290-afb8-fd2ab3a1f5f6",
+        "trainer_name": "SitraSSB",
+        "result": "win"
+      }
+    },
+    "2023-03-30T02:47:37.881622+00:00": {
+      "this_amiibo": {
+        "rating": 25.69295140934039,
+        "rating_mu": 28.69327613167319,
+        "rating_sigma": 1.0001082407775996,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "a5d318f2-e2c9-41a2-8be5-7612c4f52724",
+        "name": "MewTube",
+        "rating": 27.869167669949505,
+        "trainer_id": "bb38f34d-4024-4bac-8796-b84083162851",
+        "trainer_name": "TechnoPuff",
+        "result": "loss"
+      }
     }
   }
 }
