@@ -1,7 +1,7 @@
 {
   "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
   "id": "5bac766b-d66e-4aea-85c2-210106f42043",
-  "name": "8-Ball",
+  "name": "MoonLamp",
   "trainer_id": "743e84aa-4506-44b2-b867-1df78eda22a5",
   "trainer_name": "MrWorld5",
   "matches": {
@@ -71,6 +71,40 @@
         "trainer_id": "e3fdd3c8-2ac3-473e-81c8-0d7a797430cb",
         "trainer_name": "hugrybees",
         "result": "loss"
+      }
+    },
+    "2025-07-23T07:10:32.026572+00:00": {
+      "this_amiibo": {
+        "rating": 19.188033016924106,
+        "rating_mu": 30.02192669258724,
+        "rating_sigma": 3.6112978918877117,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e2531ffe-e834-49ae-b233-56386472a6ed",
+        "id": "f3a9d763-edc5-4ddf-ac24-e527ab7fc957",
+        "name": "owo",
+        "rating": 23.949072630055774,
+        "trainer_id": "d7f44591-9713-4c95-b840-3607f6a73d24",
+        "trainer_name": "luckman21",
+        "result": "loss"
+      }
+    },
+    "2025-09-19T18:38:55.898441+00:00": {
+      "this_amiibo": {
+        "rating": 18.765445682089904,
+        "rating_mu": 28.68181913517065,
+        "rating_sigma": 3.3054578176935814,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "c52aa3b8-b397-4abb-80ec-1e974c948583",
+        "name": "brick",
+        "rating": 28.131448342097094,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HDeez04",
+        "result": "win"
       }
     }
   }

@@ -1,0 +1,43 @@
+{
+  "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+  "id": "06727874-e6ff-4861-b5a2-e56a3e6e2ab8",
+  "name": "Trooper",
+  "trainer_id": "888b9593-05d9-4eef-bdb3-ea92805fb396",
+  "trainer_name": "tutor_for_shock",
+  "matches": {
+    "2022-07-20T13:44:07.356815+00:00": {
+      "this_amiibo": {
+        "rating": -0.2161403900755161,
+        "rating_mu": 18.061010730988713,
+        "rating_sigma": 6.09238370702141,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "6f452857-dcbb-4504-88ba-41b947c13ec6",
+        "name": "Coke",
+        "rating": 19.011696033892463,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
+    },
+    "2022-07-22T06:26:16.767799+00:00": {
+      "this_amiibo": {
+        "rating": -1.535594575134768,
+        "rating_mu": 13.58448250938485,
+        "rating_sigma": 5.040025694839873,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "e75a9799-9363-4e55-b716-e5d48844579c",
+        "name": "Avacado",
+        "rating": 5.066308584441474,
+        "trainer_id": "37e90fcf-59e3-40ef-b7d7-af486b3422d2",
+        "trainer_name": "tolusproductions",
+        "result": "win"
+      }
+    }
+  }
+}
