@@ -1143,6 +1143,40 @@
         "trainer_name": "CJMaster3",
         "result": "loss"
       }
+    },
+    "2022-12-09T10:11:35.783165+00:00": {
+      "this_amiibo": {
+        "rating": 30.30528544154289,
+        "rating_mu": 33.48607028607375,
+        "rating_sigma": 1.0602616148436195,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "e9502a7c-80a0-43e3-88be-2384ca2b5bed",
+        "name": "Adzuki",
+        "rating": 31.697814685537875,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
+    },
+    "2022-12-13T08:51:02.309351+00:00": {
+      "this_amiibo": {
+        "rating": 30.18103550009619,
+        "rating_mu": 33.350026719719104,
+        "rating_sigma": 1.0563304065409709,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "a75fa963-840f-496a-8e07-f795e3911bd6",
+        "name": "Jack Frost",
+        "rating": 22.98124076848284,
+        "trainer_id": "108c96a4-0d10-462a-9b24-7b6058848679",
+        "trainer_name": "shammytheloser",
+        "result": "win"
+      }
     }
   }
 }

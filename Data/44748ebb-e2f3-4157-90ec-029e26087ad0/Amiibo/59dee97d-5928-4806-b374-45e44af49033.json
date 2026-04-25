@@ -616,6 +616,57 @@
         "trainer_name": "BIue_2",
         "result": "loss"
       }
+    },
+    "2022-12-10T23:32:00.829624+00:00": {
+      "this_amiibo": {
+        "rating": 25.79114359125087,
+        "rating_mu": 29.88792218894377,
+        "rating_sigma": 1.3655928658976337,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "7bf16472-e69f-4a20-901a-aa6d932f0131",
+        "name": "He Cooking",
+        "rating": 25.83597712793671,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "win"
+      }
+    },
+    "2022-12-15T20:43:27.775992+00:00": {
+      "this_amiibo": {
+        "rating": 26.013340271047788,
+        "rating_mu": 30.0709995132974,
+        "rating_sigma": 1.3525530807498705,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "d76b25b3-256c-41a8-ac9a-8268c8ae6ca2",
+        "name": "Vulky Zee",
+        "rating": 17.57900620793626,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "loss"
+      }
+    },
+    "2022-12-19T15:36:51.764667+00:00": {
+      "this_amiibo": {
+        "rating": 26.169959436145078,
+        "rating_mu": 30.19244388406742,
+        "rating_sigma": 1.3408281493074474,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "85bcbd21-cd5b-405f-a1b6-0b450f34b0a7",
+        "name": "Giraffe",
+        "rating": 19.57806961452779,
+        "trainer_id": "7f7024c7-e916-4d9e-a5a6-90569aca262a",
+        "trainer_name": "iammartyb",
+        "result": "loss"
+      }
     }
   }
 }

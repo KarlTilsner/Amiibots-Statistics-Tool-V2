@@ -1976,6 +1976,57 @@
         "trainer_name": "Adam2qaz",
         "result": "loss"
       }
+    },
+    "2022-12-15T04:17:02.578538+00:00": {
+      "this_amiibo": {
+        "rating": 23.46219843996382,
+        "rating_mu": 26.191749917952137,
+        "rating_sigma": 0.9098504926627717,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "7a86d078-4f7a-44db-a3ac-0d5309a8a2c8",
+        "name": "PUCK-MAN",
+        "rating": 22.493968373052255,
+        "trainer_id": "07218a86-dd34-412a-911b-f1e33e57b05f",
+        "trainer_name": "palores625",
+        "result": "win"
+      }
+    },
+    "2022-12-17T17:01:26.442323+00:00": {
+      "this_amiibo": {
+        "rating": 23.57250726161042,
+        "rating_mu": 26.294192996758188,
+        "rating_sigma": 0.9072285783825903,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "7a86d078-4f7a-44db-a3ac-0d5309a8a2c8",
+        "name": "PUCK-MAN",
+        "rating": 22.284801306304825,
+        "trainer_id": "07218a86-dd34-412a-911b-f1e33e57b05f",
+        "trainer_name": "palores625",
+        "result": "loss"
+      }
+    },
+    "2022-12-18T19:33:08.497569+00:00": {
+      "this_amiibo": {
+        "rating": 23.62588620792378,
+        "rating_mu": 26.35245225045461,
+        "rating_sigma": 0.9088553475102773,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "831ba099-8176-469c-8fac-09032a5535c0",
+        "name": "Crimson",
+        "rating": 0.7957009266397748,
+        "trainer_id": "786e6e83-75ca-435d-a09c-6cfe64342840",
+        "trainer_name": "Zenntrox",
+        "result": "loss"
+      }
     }
   }
 }

@@ -293,6 +293,57 @@
         "trainer_name": "average_videogame_user",
         "result": "loss"
       }
+    },
+    "2022-12-08T12:42:32.412671+00:00": {
+      "this_amiibo": {
+        "rating": 21.681499535983725,
+        "rating_mu": 27.44960942804518,
+        "rating_sigma": 1.9227032973538172,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "0ce37da2-510a-466b-9627-372e4a3f19bb",
+        "name": "Sleweegis",
+        "rating": 25.12538353678505,
+        "trainer_id": "989b85c3-4ffc-41c0-8596-2d2c67fd7158",
+        "trainer_name": "tealeevz",
+        "result": "win"
+      }
+    },
+    "2022-12-10T13:40:59.097567+00:00": {
+      "this_amiibo": {
+        "rating": 21.393827922802572,
+        "rating_mu": 26.997286944607477,
+        "rating_sigma": 1.8678196739349684,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "0d4cec49-0fcd-494f-9cfb-48a380f41e63",
+        "name": "Murky",
+        "rating": 24.102031821027104,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "win"
+      }
+    },
+    "2022-12-11T10:47:25.490145+00:00": {
+      "this_amiibo": {
+        "rating": 21.242444197183403,
+        "rating_mu": 26.7245046635399,
+        "rating_sigma": 1.8273534887854983,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "39a0c0cc-3e70-4994-923c-b1e9eb98b689",
+        "name": "BeanieKid ",
+        "rating": 27.380183611542726,
+        "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+        "trainer_name": "i_guano",
+        "result": "win"
+      }
     }
   }
 }

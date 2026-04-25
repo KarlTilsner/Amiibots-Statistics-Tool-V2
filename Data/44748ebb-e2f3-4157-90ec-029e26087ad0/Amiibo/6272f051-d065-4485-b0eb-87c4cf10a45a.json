@@ -701,6 +701,57 @@
         "trainer_name": "deante_ssbu",
         "result": "loss"
       }
+    },
+    "2022-12-15T10:36:58.261410+00:00": {
+      "this_amiibo": {
+        "rating": 32.30643973758784,
+        "rating_mu": 36.106972588167935,
+        "rating_sigma": 1.2668442835266982,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "0f54afff-2070-4dc3-b9da-0e9412b5c4dd",
+        "name": "Arya",
+        "rating": 33.726237491548986,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2022-12-17T10:09:18.341541+00:00": {
+      "this_amiibo": {
+        "rating": 32.53470386976739,
+        "rating_mu": 36.296760718673376,
+        "rating_sigma": 1.254018949635329,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "d1ac33bf-0e16-4810-bbac-4e3a3d290dee",
+        "name": "Apothecary",
+        "rating": 28.79197368513464,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "loss"
+      }
+    },
+    "2022-12-19T20:27:16.495308+00:00": {
+      "this_amiibo": {
+        "rating": 32.39361200569464,
+        "rating_mu": 36.11865140221656,
+        "rating_sigma": 1.2416797988406387,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "afd936c2-249f-4b94-b2e9-c0ba92da1554",
+        "name": "Mr. WiiWii",
+        "rating": 31.92616135121272,
+        "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
+        "trainer_name": "schmorchid",
+        "result": "win"
+      }
     }
   }
 }

@@ -344,6 +344,74 @@
         "trainer_name": "HD_ssbu",
         "result": "loss"
       }
+    },
+    "2022-12-12T12:06:13.589141+00:00": {
+      "this_amiibo": {
+        "rating": 27.627755780411537,
+        "rating_mu": 33.102560114746936,
+        "rating_sigma": 1.8249347781117997,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "1fe52d37-355d-4256-a403-3b07eba34900",
+        "name": "VALORANT",
+        "rating": 28.556984176107356,
+        "trainer_id": "6769a5da-b1bb-4563-af5a-4439304198aa",
+        "trainer_name": "Truth_Villager",
+        "result": "win"
+      }
+    },
+    "2022-12-12T21:46:21.117563+00:00": {
+      "this_amiibo": {
+        "rating": 28.196049092511796,
+        "rating_mu": 33.52699963883084,
+        "rating_sigma": 1.7769835154396805,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "164df4bf-9640-406e-b8c5-a67a2a83a1ad",
+        "name": "Long Slong",
+        "rating": 29.380600390880637,
+        "trainer_id": "c59d0a32-cfa2-430d-a0ef-4b4c96b2dfcb",
+        "trainer_name": "gristygecko",
+        "result": "loss"
+      }
+    },
+    "2022-12-16T07:10:34.422788+00:00": {
+      "this_amiibo": {
+        "rating": 27.94722631033319,
+        "rating_mu": 33.162429036570224,
+        "rating_sigma": 1.738400908745678,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "e639fc03-8c1c-4ab0-bda7-6f139fc58d9e",
+        "name": "Valfrey",
+        "rating": 27.57125602399977,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
+    },
+    "2022-12-17T15:32:15.984371+00:00": {
+      "this_amiibo": {
+        "rating": 27.734259263905027,
+        "rating_mu": 32.85648081050464,
+        "rating_sigma": 1.7074071821998715,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "a75fa963-840f-496a-8e07-f795e3911bd6",
+        "name": "Jack Frost",
+        "rating": 26.125845846473,
+        "trainer_id": "108c96a4-0d10-462a-9b24-7b6058848679",
+        "trainer_name": "shammytheloser",
+        "result": "win"
+      }
     }
   }
 }

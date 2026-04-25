@@ -2418,6 +2418,40 @@
         "trainer_name": "BCRiparo",
         "result": "loss"
       }
+    },
+    "2022-12-18T10:56:02.566055+00:00": {
+      "this_amiibo": {
+        "rating": 33.35800674737449,
+        "rating_mu": 35.919032871497905,
+        "rating_sigma": 0.8536753747078042,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "e639fc03-8c1c-4ab0-bda7-6f139fc58d9e",
+        "name": "Valfrey",
+        "rating": 28.706411430186616,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
+    },
+    "2022-12-19T13:19:44.458425+00:00": {
+      "this_amiibo": {
+        "rating": 33.435648344005266,
+        "rating_mu": 35.99812892146751,
+        "rating_sigma": 0.854160192487415,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "cb185a55-a932-4931-af34-dfa65d399ae8",
+        "name": "Draco",
+        "rating": 21.722815591077126,
+        "trainer_id": "b3c93a1e-0aee-4a76-a0ed-36bc7258e629",
+        "trainer_name": "Bananika7",
+        "result": "loss"
+      }
     }
   }
 }

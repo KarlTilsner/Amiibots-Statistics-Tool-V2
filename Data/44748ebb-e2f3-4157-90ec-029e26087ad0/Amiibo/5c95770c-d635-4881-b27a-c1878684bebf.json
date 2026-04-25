@@ -55,6 +55,40 @@
         "trainer_name": "MiDe1",
         "result": "win"
       }
+    },
+    "2022-12-15T16:25:25.571914+00:00": {
+      "this_amiibo": {
+        "rating": 11.40900725486274,
+        "rating_mu": 23.34979664056604,
+        "rating_sigma": 3.980263128567767,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "6c31e4a4-945b-4364-a715-10343db97a3b",
+        "name": "$15",
+        "rating": 17.84164670442292,
+        "trainer_id": "9f081e0c-1317-4179-b93f-a0180990f77e",
+        "trainer_name": "cmdpromptcat",
+        "result": "loss"
+      }
+    },
+    "2022-12-17T19:22:41.317984+00:00": {
+      "this_amiibo": {
+        "rating": 13.393562376139652,
+        "rating_mu": 24.39032300484259,
+        "rating_sigma": 3.665586876234312,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "92bb8a9f-9b96-4686-beb8-1fee7fe61901",
+        "name": "Blooper",
+        "rating": 16.65495609211272,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
     }
   }
 }

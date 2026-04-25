@@ -1211,6 +1211,40 @@
         "trainer_name": "sst_link",
         "result": "loss"
       }
+    },
+    "2022-12-11T00:01:47.517554+00:00": {
+      "this_amiibo": {
+        "rating": 23.04381299928138,
+        "rating_mu": 26.420971955941013,
+        "rating_sigma": 1.125719652219879,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "f151d781-447a-4875-a705-77c09028c69c",
+        "name": "B.E.N.",
+        "rating": 23.633549450812243,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      }
+    },
+    "2022-12-15T11:50:52.109557+00:00": {
+      "this_amiibo": {
+        "rating": 23.240213436032832,
+        "rating_mu": 26.589711580100506,
+        "rating_sigma": 1.1164993813558914,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "2477a45c-51eb-4d9b-b604-fe38757380ae",
+        "name": "SANTAMERDA",
+        "rating": 22.444279135185724,
+        "trainer_id": "1a40b865-6138-4324-b2d6-f23b1fb07270",
+        "trainer_name": "guyssbu",
+        "result": "loss"
+      }
     }
   }
 }

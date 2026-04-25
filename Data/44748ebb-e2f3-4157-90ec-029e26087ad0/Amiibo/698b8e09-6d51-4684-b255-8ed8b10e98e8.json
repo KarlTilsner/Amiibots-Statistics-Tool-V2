@@ -1,0 +1,43 @@
+{
+  "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+  "id": "698b8e09-6d51-4684-b255-8ed8b10e98e8",
+  "name": "Puppy Dog",
+  "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+  "trainer_name": "average_videogame_user",
+  "matches": {
+    "2022-12-15T17:14:18.479044+00:00": {
+      "this_amiibo": {
+        "rating": 1.2145120236746614,
+        "rating_mu": 21.45808086175733,
+        "rating_sigma": 6.74785627936089,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+        "id": "4a6e08e9-7017-4b7d-92fd-c3de27620cda",
+        "name": "Tiddy Dong",
+        "rating": 27.104586936308152,
+        "trainer_id": "483fb9bd-575a-446b-90ee-b81fa0b8e69d",
+        "trainer_name": "nonSenseTaco",
+        "result": "win"
+      }
+    },
+    "2022-12-21T07:15:10.896131+00:00": {
+      "this_amiibo": {
+        "rating": 10.945310692702,
+        "rating_mu": 26.684358645777742,
+        "rating_sigma": 5.246349317691914,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "7d2b8d14-4e30-413a-bafb-c9e30dd1f3f1",
+        "name": "FAE",
+        "rating": 21.456627891114803,
+        "trainer_id": "37df81b9-e5cd-431d-8561-7314e26d3d6c",
+        "trainer_name": "Dahtin",
+        "result": "loss"
+      }
+    }
+  }
+}

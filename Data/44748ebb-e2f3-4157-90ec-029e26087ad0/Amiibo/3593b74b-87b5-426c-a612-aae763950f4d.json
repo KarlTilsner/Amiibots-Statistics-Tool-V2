@@ -684,6 +684,57 @@
         "trainer_name": "tegtegthe5",
         "result": "loss"
       }
+    },
+    "2022-12-06T20:38:02.089693+00:00": {
+      "this_amiibo": {
+        "rating": 19.627413681243887,
+        "rating_mu": 23.633100483557214,
+        "rating_sigma": 1.3352289341044428,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "7d2b8d14-4e30-413a-bafb-c9e30dd1f3f1",
+        "name": "FAE",
+        "rating": 20.3683052904288,
+        "trainer_id": "37df81b9-e5cd-431d-8561-7314e26d3d6c",
+        "trainer_name": "Dahtin",
+        "result": "win"
+      }
+    },
+    "2022-12-07T10:30:02.950874+00:00": {
+      "this_amiibo": {
+        "rating": 19.78837582209362,
+        "rating_mu": 23.762338053609927,
+        "rating_sigma": 1.324654077172102,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "34d8015b-2892-41e0-ac27-93e9816408d2",
+        "name": "MineRL",
+        "rating": 10.562788163685635,
+        "trainer_id": "e7d28466-7c45-4255-bbed-736c63dc4c4e",
+        "trainer_name": "Infinity1831",
+        "result": "loss"
+      }
+    },
+    "2022-12-16T16:24:10.781318+00:00": {
+      "this_amiibo": {
+        "rating": 19.598179620721215,
+        "rating_mu": 23.52134277168315,
+        "rating_sigma": 1.3077210503206442,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "dda5f400-b160-4fc9-a0b5-674b801afedb",
+        "name": "Apocalypze",
+        "rating": 18.42398324975221,
+        "trainer_id": "fb6e3742-9119-4426-bf3a-71bba6204b60",
+        "trainer_name": "pokemoncade",
+        "result": "win"
+      }
     }
   }
 }
