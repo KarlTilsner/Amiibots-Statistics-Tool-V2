@@ -1517,6 +1517,40 @@
         "trainer_name": "2atssbu",
         "result": "loss"
       }
+    },
+    "2024-03-02T01:04:43.267386+00:00": {
+      "this_amiibo": {
+        "rating": 28.61366607793743,
+        "rating_mu": 31.527663006184824,
+        "rating_sigma": 0.9713323094157976,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7",
+        "id": "e1319799-5f87-448e-9112-d7c69584ffd9",
+        "name": "Victor",
+        "rating": 19.502442643132063,
+        "trainer_id": "7f7024c7-e916-4d9e-a5a6-90569aca262a",
+        "trainer_name": "iammartyb",
+        "result": "win"
+      }
+    },
+    "2024-03-05T05:12:16.557493+00:00": {
+      "this_amiibo": {
+        "rating": 28.722501659080926,
+        "rating_mu": 31.62545734875321,
+        "rating_sigma": 0.9676518965574279,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "7df352f4-1e18-4cf7-97bc-9219146dcef3",
+        "name": "Dedededede",
+        "rating": 27.0898519170321,
+        "trainer_id": "1efe7dca-5100-46c9-85c4-7925b5186062",
+        "trainer_name": "theasianshovel",
+        "result": "loss"
+      }
     }
   }
 }

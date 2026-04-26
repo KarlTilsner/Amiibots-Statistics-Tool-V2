@@ -1143,6 +1143,74 @@
         "trainer_name": "Salty_Smash_NB",
         "result": "loss"
       }
+    },
+    "2024-02-23T02:10:02.173409+00:00": {
+      "this_amiibo": {
+        "rating": 30.916789086453754,
+        "rating_mu": 33.95624313450398,
+        "rating_sigma": 1.0131513493500741,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "c8bad89b-a597-41c2-bba8-791e4b123cb9",
+        "name": "πνεύμα",
+        "rating": 31.71743754329313,
+        "trainer_id": "553de26c-8e57-426d-8c04-8b081f6032f6",
+        "trainer_name": "Storm1014",
+        "result": "win"
+      }
+    },
+    "2024-02-26T07:41:10.926967+00:00": {
+      "this_amiibo": {
+        "rating": 31.066286866123917,
+        "rating_mu": 34.088741519901674,
+        "rating_sigma": 1.0074848845925855,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "3c0286b1-07b1-41c1-9f11-dc87a79fa0b5",
+        "name": "Chesburger",
+        "rating": 31.08609789635352,
+        "trainer_id": "fb659a93-73d7-4f74-aebf-881bd7829482",
+        "trainer_name": "DustBuckit",
+        "result": "loss"
+      }
+    },
+    "2024-02-26T16:02:49.237398+00:00": {
+      "this_amiibo": {
+        "rating": 31.206426153383703,
+        "rating_mu": 34.213381804682626,
+        "rating_sigma": 1.002318550432975,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "1571cc3e-f411-4192-8171-b6cb6560536b",
+        "name": "Turncoat",
+        "rating": 29.787417323348695,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "loss"
+      }
+    },
+    "2024-02-27T00:04:21.693713+00:00": {
+      "this_amiibo": {
+        "rating": 31.339398593963956,
+        "rating_mu": 34.33175175545965,
+        "rating_sigma": 0.9974510538318982,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "1571cc3e-f411-4192-8171-b6cb6560536b",
+        "name": "Turncoat",
+        "rating": 29.652362057721476,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "loss"
+      }
     }
   }
 }

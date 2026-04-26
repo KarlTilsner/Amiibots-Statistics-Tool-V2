@@ -582,6 +582,40 @@
         "trainer_name": "hidari_amiibo",
         "result": "win"
       }
+    },
+    "2024-02-23T06:03:10.645863+00:00": {
+      "this_amiibo": {
+        "rating": 22.966152589545246,
+        "rating_mu": 27.10775708152495,
+        "rating_sigma": 1.3805348306599015,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "90de89e6-e389-451b-8ad7-355eb5c5ca38",
+        "name": "Puyo Puyo",
+        "rating": 24.2771531008847,
+        "trainer_id": "f15712ec-1029-4da4-b09b-8c5e7f335f7b",
+        "trainer_name": "0underscore",
+        "result": "win"
+      }
+    },
+    "2024-02-29T16:39:35.162305+00:00": {
+      "this_amiibo": {
+        "rating": 22.812184453934716,
+        "rating_mu": 26.898271962532608,
+        "rating_sigma": 1.3620291695326303,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "4214d612-d390-4d25-9da6-160912265116",
+        "name": "Doom Guy",
+        "rating": 26.03215625593668,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "win"
+      }
     }
   }
 }
