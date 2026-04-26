@@ -6022,6 +6022,40 @@
         "trainer_name": "0underscore",
         "result": "win"
       }
+    },
+    "2023-08-11T05:16:52.970310+00:00": {
+      "this_amiibo": {
+        "rating": 26.570323766537605,
+        "rating_mu": 29.009454417170804,
+        "rating_sigma": 0.8130435502110668,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "02062a76-5968-4a94-9257-d14b1e0fa099",
+        "name": "Big George",
+        "rating": 24.58063137094897,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "win"
+      }
+    },
+    "2023-08-14T09:04:34.380574+00:00": {
+      "this_amiibo": {
+        "rating": 26.626824983691492,
+        "rating_mu": 29.071961255274704,
+        "rating_sigma": 0.8150454238610713,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "a53575c7-dbb0-41c0-8e20-ca6e7936c2a2",
+        "name": "Flare",
+        "rating": 9.618804350766357,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HD_ssbu",
+        "result": "loss"
+      }
     }
   }
 }

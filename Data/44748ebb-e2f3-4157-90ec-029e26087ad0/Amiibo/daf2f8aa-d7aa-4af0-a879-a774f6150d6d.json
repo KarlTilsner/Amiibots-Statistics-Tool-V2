@@ -429,6 +429,40 @@
         "trainer_name": "random_fire",
         "result": "loss"
       }
+    },
+    "2023-08-04T15:38:24.793280+00:00": {
+      "this_amiibo": {
+        "rating": 24.21812994881842,
+        "rating_mu": 28.886806318863353,
+        "rating_sigma": 1.5562254566816447,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "f877e5f0-2bf4-4856-838d-07b2acb9f26d",
+        "name": "Highlian",
+        "rating": 25.812180813929604,
+        "trainer_id": "229cc080-eb7b-4fa0-856d-af16574a0979",
+        "trainer_name": "ggfan52",
+        "result": "win"
+      }
+    },
+    "2023-08-18T17:51:46.650688+00:00": {
+      "this_amiibo": {
+        "rating": 24.58759987679251,
+        "rating_mu": 29.176871328559372,
+        "rating_sigma": 1.5297571505889533,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "4791a70c-5ccb-49dd-b05e-cb7d1ba9e384",
+        "name": "Zoe",
+        "rating": 21.849060081058525,
+        "trainer_id": "c8b851c2-d185-4108-9254-a81296e3f107",
+        "trainer_name": "yourpaloscar",
+        "result": "loss"
+      }
     }
   }
 }

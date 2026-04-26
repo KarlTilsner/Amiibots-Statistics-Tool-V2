@@ -633,6 +633,57 @@
         "trainer_name": "Klerpy",
         "result": "loss"
       }
+    },
+    "2023-08-06T14:48:16.793783+00:00": {
+      "this_amiibo": {
+        "rating": 22.738047979762037,
+        "rating_mu": 26.80421761230847,
+        "rating_sigma": 1.3553898775154782,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "333169a7-c6a1-474c-b1d1-fb51025b2858",
+        "name": "Everest",
+        "rating": 21.132791574798656,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "win"
+      }
+    },
+    "2023-08-10T09:55:20.098322+00:00": {
+      "this_amiibo": {
+        "rating": 22.534731103130902,
+        "rating_mu": 26.54153011265688,
+        "rating_sigma": 1.3355996698419932,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "83f14565-1770-4997-b7a5-4fa85e516a7f",
+        "name": "Jacob",
+        "rating": 23.698242545338502,
+        "trainer_id": "4f6f55b1-cf3e-4c7b-a378-2641d72fcf23",
+        "trainer_name": "TheLimpWalrus",
+        "result": "win"
+      }
+    },
+    "2023-08-16T05:43:48.619698+00:00": {
+      "this_amiibo": {
+        "rating": 22.856705853680587,
+        "rating_mu": 26.806964816365177,
+        "rating_sigma": 1.31675298756153,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "7fa30b85-6b9d-4f61-a0a0-ce5e81ab344d",
+        "name": "Bonk",
+        "rating": 23.90987457672005,
+        "trainer_id": "5557ab09-f049-4753-9b0e-97781ec49b53",
+        "trainer_name": "iamgoomb",
+        "result": "loss"
+      }
     }
   }
 }

@@ -480,6 +480,57 @@
         "trainer_name": "track8regret",
         "result": "loss"
       }
+    },
+    "2023-08-11T14:22:15.553873+00:00": {
+      "this_amiibo": {
+        "rating": 19.175867524001433,
+        "rating_mu": 23.884782723928147,
+        "rating_sigma": 1.5696383999755714,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "7e4eb1c1-55a4-4c07-953a-40a51522c474",
+        "name": "torta",
+        "rating": 15.186435715228928,
+        "trainer_id": "79127d18-8a5d-4b78-b8e9-ad09b1d225c2",
+        "trainer_name": "halloweenpeachy",
+        "result": "loss"
+      }
+    },
+    "2023-08-11T21:16:35.092596+00:00": {
+      "this_amiibo": {
+        "rating": 19.028052278815895,
+        "rating_mu": 23.71002724940579,
+        "rating_sigma": 1.560658323529965,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "b618eb0d-3664-4a7d-9422-68305ba1ba2e",
+        "name": ":skull:",
+        "rating": 10.527560655484045,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "win"
+      }
+    },
+    "2023-08-14T05:28:19.119265+00:00": {
+      "this_amiibo": {
+        "rating": 19.265081689089385,
+        "rating_mu": 23.91798323819997,
+        "rating_sigma": 1.550967183036861,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "d373658a-6009-471a-af8a-fa25758f73e5",
+        "name": "Eden",
+        "rating": 0.24246081611880754,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "loss"
+      }
     }
   }
 }

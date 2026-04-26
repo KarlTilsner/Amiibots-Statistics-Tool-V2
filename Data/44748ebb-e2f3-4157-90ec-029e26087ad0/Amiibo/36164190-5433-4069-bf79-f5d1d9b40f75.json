@@ -1092,6 +1092,57 @@
         "trainer_name": "rengaza",
         "result": "loss"
       }
+    },
+    "2023-08-05T17:03:40.875405+00:00": {
+      "this_amiibo": {
+        "rating": 33.39038617352646,
+        "rating_mu": 36.72410740890829,
+        "rating_sigma": 1.1112404117939432,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "cf92828d-f40c-4e73-a7fe-912b0b682c78",
+        "name": "Bob Burger",
+        "rating": 31.209938825272665,
+        "trainer_id": "14df9153-bacf-491b-996d-3bbb6a54f05c",
+        "trainer_name": "cambriacotf",
+        "result": "win"
+      }
+    },
+    "2023-08-15T07:37:58.631881+00:00": {
+      "this_amiibo": {
+        "rating": 33.56980808169365,
+        "rating_mu": 36.87763040338367,
+        "rating_sigma": 1.1026074405633395,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "ebd936b3-c40a-430b-89d3-e51fc5fe4d47",
+        "name": "Super NES",
+        "rating": 33.71716580661655,
+        "trainer_id": "345febd3-6433-4ed8-addb-b0ead57bf565",
+        "trainer_name": "cloudnine987",
+        "result": "loss"
+      }
+    },
+    "2023-08-18T21:03:49.523034+00:00": {
+      "this_amiibo": {
+        "rating": 33.743955208909156,
+        "rating_mu": 37.031613839192204,
+        "rating_sigma": 1.0958862100943494,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "e2308269-1f58-4aff-a638-dfcf46e2ad46",
+        "name": "Abby",
+        "rating": 27.872915116983172,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
+        "result": "loss"
+      }
     }
   }
 }

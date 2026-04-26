@@ -1449,6 +1449,40 @@
         "trainer_name": "Azend_1",
         "result": "win"
       }
+    },
+    "2023-08-10T18:48:45.655793+00:00": {
+      "this_amiibo": {
+        "rating": 29.627905584018276,
+        "rating_mu": 32.66332106657666,
+        "rating_sigma": 1.0118051608527934,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "da443ff6-d4e6-4214-a5d4-6c05b3b8ebe6",
+        "name": "Nightmare",
+        "rating": 23.583199657060508,
+        "trainer_id": "26a79307-74a7-4d40-8f4c-d74a38878187",
+        "trainer_name": "Nightmare5135",
+        "result": "loss"
+      }
+    },
+    "2023-08-16T03:01:33.363466+00:00": {
+      "this_amiibo": {
+        "rating": 29.503663873213583,
+        "rating_mu": 32.521347381159174,
+        "rating_sigma": 1.005894502648531,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "b7d015c5-78a6-4a8d-b10d-d00db20a1a33",
+        "name": "REX",
+        "rating": 29.898637959073532,
+        "trainer_id": "617a242b-ff29-4568-a5b4-ec41e1ce80d2",
+        "trainer_name": "Xedge14",
+        "result": "win"
+      }
     }
   }
 }

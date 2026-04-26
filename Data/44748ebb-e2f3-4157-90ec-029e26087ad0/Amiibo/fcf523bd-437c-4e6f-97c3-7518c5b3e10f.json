@@ -1840,6 +1840,40 @@
         "trainer_name": "ltvonda",
         "result": "loss"
       }
+    },
+    "2023-08-08T06:21:47.601920+00:00": {
+      "this_amiibo": {
+        "rating": 28.663149424111786,
+        "rating_mu": 31.406057613228533,
+        "rating_sigma": 0.9143027297055817,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "d36f37c9-c958-41ba-beff-fff717474905",
+        "name": "Waluigi?",
+        "rating": 28.79948770429318,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "win"
+      }
+    },
+    "2023-08-11T14:47:51.210295+00:00": {
+      "this_amiibo": {
+        "rating": 28.582483589819553,
+        "rating_mu": 31.326688593452225,
+        "rating_sigma": 0.9147350012108912,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "3ec95e92-15cd-4dc7-a618-b4dff99eab88",
+        "name": "VGC2019",
+        "rating": 19.673619773112016,
+        "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+        "trainer_name": "Competitively2",
+        "result": "win"
+      }
     }
   }
 }

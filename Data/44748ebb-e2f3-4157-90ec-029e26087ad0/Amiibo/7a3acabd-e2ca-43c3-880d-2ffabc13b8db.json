@@ -106,6 +106,40 @@
         "trainer_name": "gavgameplay9078",
         "result": "loss"
       }
+    },
+    "2023-08-14T02:59:49.824070+00:00": {
+      "this_amiibo": {
+        "rating": 8.460722267234551,
+        "rating_mu": 17.638882081132028,
+        "rating_sigma": 3.059386604632492,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "0a47fedf-6517-432f-82a7-c6c0b4a1df8c",
+        "name": "Hylia",
+        "rating": 9.209763965295462,
+        "trainer_id": "7f8b523d-feed-49f6-a608-88bf508984f0",
+        "trainer_name": "SepiksComposite",
+        "result": "win"
+      }
+    },
+    "2023-08-17T21:15:24.376329+00:00": {
+      "this_amiibo": {
+        "rating": 10.392064668600907,
+        "rating_mu": 19.003557624919477,
+        "rating_sigma": 2.87049765210619,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "f67bbe26-aecd-475f-b1ce-feaee2d24f52",
+        "name": "Agent 3",
+        "rating": 9.575433707007466,
+        "trainer_id": "f49db56d-a19a-4f4b-845b-a024a9d7717b",
+        "trainer_name": "Giratina645",
+        "result": "loss"
+      }
     }
   }
 }

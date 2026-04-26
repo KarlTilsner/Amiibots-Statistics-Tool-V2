@@ -6719,6 +6719,40 @@
         "trainer_name": "bluerunner0",
         "result": "loss"
       }
+    },
+    "2023-08-12T23:01:57.365257+00:00": {
+      "this_amiibo": {
+        "rating": 30.619004558977956,
+        "rating_mu": 33.26435244916034,
+        "rating_sigma": 0.8817826300607947,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "594d9336-1512-4305-a184-2a5385f43303",
+        "name": "Greg's Mom",
+        "rating": 31.20036780730676,
+        "trainer_id": "a9ec9d87-61e1-4c87-be6d-3442cf3a59d4",
+        "trainer_name": "bluerunner0",
+        "result": "win"
+      }
+    },
+    "2023-08-16T13:29:03.474226+00:00": {
+      "this_amiibo": {
+        "rating": 30.709276297645225,
+        "rating_mu": 33.35341551237185,
+        "rating_sigma": 0.8813797382422095,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "3ecf1d3d-cba1-4127-8c06-ff7587e1768e",
+        "name": "braindamæg",
+        "rating": 20.850876902565744,
+        "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
+        "trainer_name": "soysauce881",
+        "result": "loss"
+      }
     }
   }
 }

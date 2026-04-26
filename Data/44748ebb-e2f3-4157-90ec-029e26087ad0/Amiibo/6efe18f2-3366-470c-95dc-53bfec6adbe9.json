@@ -412,6 +412,40 @@
         "trainer_name": "sst_bearslayer",
         "result": "loss"
       }
+    },
+    "2023-08-05T19:51:15.684675+00:00": {
+      "this_amiibo": {
+        "rating": 28.951389609242234,
+        "rating_mu": 33.70847444531705,
+        "rating_sigma": 1.5856949453582732,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "a5ba64ae-29dd-426d-a874-1a9cc8a20909",
+        "name": "Mew2.0",
+        "rating": 28.220941342939014,
+        "trainer_id": "2b57d49d-984b-4875-8542-795b943d18ec",
+        "trainer_name": "royalldarkness",
+        "result": "win"
+      }
+    },
+    "2023-08-07T07:14:49.142109+00:00": {
+      "this_amiibo": {
+        "rating": 29.290370656182354,
+        "rating_mu": 33.96814266243594,
+        "rating_sigma": 1.5592573354178607,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "14c6161d-2898-4cfb-9084-4d56a9add19d",
+        "name": "Sparg0",
+        "rating": 25.992473176370268,
+        "trainer_id": "e4931ae7-1311-40d6-811c-354742e96bc0",
+        "trainer_name": "atomic_salvy",
+        "result": "loss"
+      }
     }
   }
 }

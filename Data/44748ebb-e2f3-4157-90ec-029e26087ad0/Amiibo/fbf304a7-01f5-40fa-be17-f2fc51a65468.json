@@ -310,6 +310,40 @@
         "trainer_name": "fake_l3af",
         "result": "win"
       }
+    },
+    "2023-08-05T11:12:21.556639+00:00": {
+      "this_amiibo": {
+        "rating": 9.120886836436515,
+        "rating_mu": 14.994631339551457,
+        "rating_sigma": 1.9579148343716477,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "2bb9e785-2f9a-47fc-9673-12d6723f6fe7",
+        "name": "Mewtiny",
+        "rating": 4.880186019792772,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "win"
+      }
+    },
+    "2023-08-09T10:40:07.247408+00:00": {
+      "this_amiibo": {
+        "rating": 9.74569830689364,
+        "rating_mu": 15.446619674565595,
+        "rating_sigma": 1.9003071225573183,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
+        "id": "9dddc7b3-e3ab-493d-8664-5a21f96e80a6",
+        "name": "Rob Skunt",
+        "rating": 11.172238992098272,
+        "trainer_id": "2449752e-dba5-4319-82a0-3463ed6750fd",
+        "trainer_name": "the_definitive_mick",
+        "result": "loss"
+      }
     }
   }
 }
