@@ -4866,6 +4866,23 @@
         "trainer_name": "track8regret",
         "result": "loss"
       }
+    },
+    "2023-12-30T21:18:41.031931+00:00": {
+      "this_amiibo": {
+        "rating": 24.88053555395243,
+        "rating_mu": 27.349418397029602,
+        "rating_sigma": 0.8229609476923906,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "29932c7d-97f3-4a18-8fda-7440470ff63d",
+        "name": "Puka",
+        "rating": 24.524026725239057,
+        "trainer_id": "dfd7eda0-b0a3-45b8-baf9-764cb4a0283a",
+        "trainer_name": "Inverse_e",
+        "result": "win"
+      }
     }
   }
 }

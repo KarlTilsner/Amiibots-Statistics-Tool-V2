@@ -293,6 +293,57 @@
         "trainer_name": "0underscore",
         "result": "loss"
       }
+    },
+    "2023-12-21T19:51:15.161536+00:00": {
+      "this_amiibo": {
+        "rating": 14.053519470775953,
+        "rating_mu": 20.24946147725933,
+        "rating_sigma": 2.0653140021611263,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "037e3a2a-5903-429d-8270-03121b0a60f6",
+        "name": "Chomp",
+        "rating": 7.8243316300924945,
+        "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
+        "trainer_name": "raid_boss_09",
+        "result": "win"
+      }
+    },
+    "2023-12-23T06:18:35.322749+00:00": {
+      "this_amiibo": {
+        "rating": 13.698497951273739,
+        "rating_mu": 19.68204172806067,
+        "rating_sigma": 1.9945145922623109,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "e6168646-fd24-475f-9bcb-06d1146451a9",
+        "name": "Exalt",
+        "rating": 16.4216933972703,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "win"
+      }
+    },
+    "2023-12-24T17:36:21.343864+00:00": {
+      "this_amiibo": {
+        "rating": 14.27553468304608,
+        "rating_mu": 20.103348431760427,
+        "rating_sigma": 1.942604582904782,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "061d2668-218a-4bb5-9fd7-9ced69fbb0bd",
+        "name": ":nerd:",
+        "rating": 10.568625495720948,
+        "trainer_id": "8e7a7b23-d3d2-49e6-9b0c-dcb86ce95cf2",
+        "trainer_name": "Crunchy567",
+        "result": "loss"
+      }
     }
   }
 }

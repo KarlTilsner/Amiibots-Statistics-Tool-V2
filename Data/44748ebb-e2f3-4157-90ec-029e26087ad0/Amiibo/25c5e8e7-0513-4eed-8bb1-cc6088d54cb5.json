@@ -1024,6 +1024,40 @@
         "trainer_name": "Salty_Smash_NB",
         "result": "loss"
       }
+    },
+    "2023-12-29T23:09:34.576678+00:00": {
+      "this_amiibo": {
+        "rating": 30.01025638487912,
+        "rating_mu": 33.733528485997624,
+        "rating_sigma": 1.241090700372835,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "4fbe54ce-2a66-461f-8a9b-ae01ad3a388b",
+        "name": "Frank",
+        "rating": 31.049536302113037,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "win"
+      }
+    },
+    "2024-01-04T02:19:51.352545+00:00": {
+      "this_amiibo": {
+        "rating": 29.85604509290642,
+        "rating_mu": 33.540621227113206,
+        "rating_sigma": 1.2281920447355958,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "bc91deea-dcfa-40a4-b1b8-bf5c548262c9",
+        "name": "Waymire",
+        "rating": 29.553342656808177,
+        "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
+        "trainer_name": "RailCanyonn",
+        "result": "win"
+      }
     }
   }
 }

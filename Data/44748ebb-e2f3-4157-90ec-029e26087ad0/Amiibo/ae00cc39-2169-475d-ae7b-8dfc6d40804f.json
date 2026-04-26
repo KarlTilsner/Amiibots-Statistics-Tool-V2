@@ -922,6 +922,40 @@
         "trainer_name": "improv_195",
         "result": "loss"
       }
+    },
+    "2023-12-24T14:58:27.651439+00:00": {
+      "this_amiibo": {
+        "rating": 35.76550951109002,
+        "rating_mu": 39.07121004410264,
+        "rating_sigma": 1.1019001776708732,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
+        "id": "378a1181-3fef-46dc-bfcd-b0f1546078c6",
+        "name": "Gomu",
+        "rating": 33.90651316758716,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "win"
+      }
+    },
+    "2023-12-25T06:05:52.359805+00:00": {
+      "this_amiibo": {
+        "rating": 35.94082110130217,
+        "rating_mu": 39.22162265179448,
+        "rating_sigma": 1.09360051683077,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "b3330d37-1e13-4498-a6e8-6cbf4d7652c2",
+        "name": "Orgalorg",
+        "rating": 36.03685662795094,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "loss"
+      }
     }
   }
 }

@@ -633,6 +633,40 @@
         "trainer_name": "improv_195",
         "result": "loss"
       }
+    },
+    "2024-01-01T02:30:44.423442+00:00": {
+      "this_amiibo": {
+        "rating": 25.015640793368984,
+        "rating_mu": 29.11786552215707,
+        "rating_sigma": 1.3674082429293626,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "77638bb3-95b1-4068-8748-20d2cac649b9",
+        "name": "Emotional",
+        "rating": 23.866202901793713,
+        "trainer_id": "cb5cced9-727c-4ad1-bdeb-ac6923a965d5",
+        "trainer_name": "youtix3",
+        "result": "win"
+      }
+    },
+    "2024-01-04T08:30:46.625134+00:00": {
+      "this_amiibo": {
+        "rating": 24.70084042289398,
+        "rating_mu": 28.73771611301002,
+        "rating_sigma": 1.3456252300386802,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "c6c0340a-a55c-4639-a394-f9bae3d5a7e8",
+        "name": "Kick",
+        "rating": 19.662692773147754,
+        "trainer_id": "884cb5c3-bfa9-465a-afc3-dadf89fe30b4",
+        "trainer_name": "drsalt16",
+        "result": "win"
+      }
     }
   }
 }

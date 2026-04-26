@@ -1704,6 +1704,57 @@
         "trainer_name": "PD_Dominator",
         "result": "win"
       }
+    },
+    "2023-12-24T04:45:20.539910+00:00": {
+      "this_amiibo": {
+        "rating": 21.279836526018183,
+        "rating_mu": 24.100385121379748,
+        "rating_sigma": 0.9401828651205216,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "74eee2c1-fa04-4215-a038-89a625cd8472",
+        "name": "Luci",
+        "rating": 19.243818220127988,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "loss"
+      }
+    },
+    "2023-12-24T16:37:53.836546+00:00": {
+      "this_amiibo": {
+        "rating": 21.13167593642725,
+        "rating_mu": 23.938708287891895,
+        "rating_sigma": 0.935677450488215,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+        "id": "4a5b1f04-2ef9-407b-af63-a66389f7c587",
+        "name": "Aria",
+        "rating": 17.757988289922324,
+        "trainer_id": "2befebf3-b874-420b-bed5-10a372e8bab2",
+        "trainer_name": "toxicmantis259",
+        "result": "win"
+      }
+    },
+    "2024-01-02T04:18:39.062206+00:00": {
+      "this_amiibo": {
+        "rating": 21.02171710683405,
+        "rating_mu": 23.818199566484854,
+        "rating_sigma": 0.9321608198836016,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "e60d72cb-d9f9-4589-9b64-352981a1568d",
+        "name": "Pibu",
+        "rating": 19.869015777807316,
+        "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
+        "trainer_name": "bubs_yt",
+        "result": "win"
+      }
     }
   }
 }

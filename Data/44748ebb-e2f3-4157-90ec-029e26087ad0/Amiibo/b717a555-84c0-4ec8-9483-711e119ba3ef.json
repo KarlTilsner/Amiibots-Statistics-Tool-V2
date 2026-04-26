@@ -2520,6 +2520,40 @@
         "trainer_name": "testiertrack293",
         "result": "loss"
       }
+    },
+    "2023-12-23T05:55:02.549016+00:00": {
+      "this_amiibo": {
+        "rating": 35.07053216012372,
+        "rating_mu": 37.60062787765276,
+        "rating_sigma": 0.8433652391763471,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "0f54afff-2070-4dc3-b9da-0e9412b5c4dd",
+        "name": "Arya",
+        "rating": 35.567173638280664,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2023-12-28T06:35:48.550491+00:00": {
+      "this_amiibo": {
+        "rating": 35.189618909163734,
+        "rating_mu": 37.7150763134854,
+        "rating_sigma": 0.8418191347738881,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "f3a15bcc-48e2-4097-b5bb-45a1bcb29940",
+        "name": "Duck",
+        "rating": 34.923478884542526,
+        "trainer_id": "6bce0734-9060-43d2-8db3-673554eeb60c",
+        "trainer_name": "ven_1234",
+        "result": "loss"
+      }
     }
   }
 }

@@ -276,6 +276,57 @@
         "trainer_name": "Adam2qaz",
         "result": "loss"
       }
+    },
+    "2023-12-22T21:31:44.756733+00:00": {
+      "this_amiibo": {
+        "rating": 14.939057106970138,
+        "rating_mu": 21.316811406665735,
+        "rating_sigma": 2.1259180998985325,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "721457cd-dbc3-46ca-9942-ae99703188c6",
+        "name": "Tetris",
+        "rating": 17.12057711900706,
+        "trainer_id": "f15712ec-1029-4da4-b09b-8c5e7f335f7b",
+        "trainer_name": "0underscore",
+        "result": "win"
+      }
+    },
+    "2023-12-27T22:59:26.777647+00:00": {
+      "this_amiibo": {
+        "rating": 15.479219720602881,
+        "rating_mu": 21.727082726574583,
+        "rating_sigma": 2.0826210019905673,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "2e9a6487-1ebc-422a-b9fc-e97810db929b",
+        "name": "Marinara",
+        "rating": 4.488987551631869,
+        "trainer_id": "d946d180-9096-4798-971a-4c3afcd6a3df",
+        "trainer_name": "card100rac5",
+        "result": "loss"
+      }
+    },
+    "2024-01-03T17:57:48.504450+00:00": {
+      "this_amiibo": {
+        "rating": 15.03663814196338,
+        "rating_mu": 21.055015355535552,
+        "rating_sigma": 2.006125737857391,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "ee1794ce-d228-4d19-a2de-4dd4e276d7c1",
+        "name": "Marf",
+        "rating": 16.050203542624562,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "win"
+      }
     }
   }
 }

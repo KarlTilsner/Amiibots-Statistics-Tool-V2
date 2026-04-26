@@ -1194,6 +1194,40 @@
         "trainer_name": "improv_195",
         "result": "loss"
       }
+    },
+    "2024-01-01T07:10:41.164641+00:00": {
+      "this_amiibo": {
+        "rating": 35.6899816922855,
+        "rating_mu": 38.68457276192663,
+        "rating_sigma": 0.9981970232137114,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "e3cc1fee-35a0-4706-8751-62befbca134a",
+        "name": "DrgnBalz69",
+        "rating": 35.97131647590273,
+        "trainer_id": "44a3e1fa-be93-4238-bc49-3a245d7077d0",
+        "trainer_name": "14jmaster",
+        "result": "win"
+      }
+    },
+    "2024-01-01T03:37:11.586103+00:00": {
+      "this_amiibo": {
+        "rating": 35.804217016120134,
+        "rating_mu": 38.81473888855349,
+        "rating_sigma": 1.0035072908111182,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "06f81440-5645-41dd-bc18-261a2c1f2665",
+        "name": "Oni Link",
+        "rating": 33.79563699652914,
+        "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+        "trainer_name": "Competitively2",
+        "result": "loss"
+      }
     }
   }
 }

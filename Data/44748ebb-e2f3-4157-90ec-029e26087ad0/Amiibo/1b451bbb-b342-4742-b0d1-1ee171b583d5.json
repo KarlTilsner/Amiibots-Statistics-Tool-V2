@@ -1,0 +1,43 @@
+{
+  "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+  "id": "1b451bbb-b342-4742-b0d1-1ee171b583d5",
+  "name": "Good ai",
+  "trainer_id": "e3fdd3c8-2ac3-473e-81c8-0d7a797430cb",
+  "trainer_name": "hugrybees",
+  "matches": {
+    "2024-01-02T07:51:59.843651+00:00": {
+      "this_amiibo": {
+        "rating": 0.9215787169368248,
+        "rating_mu": 20.44123103910087,
+        "rating_sigma": 6.5065507740546815,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "e0dfa88f-7a41-4977-93b8-d1ce2ab73663",
+        "name": "Raijin",
+        "rating": 24.639036917223287,
+        "trainer_id": "05eacb7f-fff7-4c14-ab1d-129195051d66",
+        "trainer_name": "NinObsessed",
+        "result": "win"
+      }
+    },
+    "2024-01-03T15:12:31.895479+00:00": {
+      "this_amiibo": {
+        "rating": 6.719981795727406,
+        "rating_mu": 24.12154924795194,
+        "rating_sigma": 5.800522484074844,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "377b51bb-f4ec-4871-9fd0-04186b33c7a6",
+        "name": "Onion",
+        "rating": -1.3958696298363193,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "loss"
+      }
+    }
+  }
+}

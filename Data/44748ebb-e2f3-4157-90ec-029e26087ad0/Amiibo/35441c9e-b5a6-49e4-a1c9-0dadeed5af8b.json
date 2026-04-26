@@ -208,6 +208,57 @@
         "trainer_name": "dirty_meme1",
         "result": "win"
       }
+    },
+    "2023-12-21T06:52:46.067451+00:00": {
+      "this_amiibo": {
+        "rating": 24.84529509038605,
+        "rating_mu": 31.584038357411792,
+        "rating_sigma": 2.2462477556752476,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "50716ded-4294-4a04-bc92-c747446b03f4",
+        "name": "Angela",
+        "rating": 27.811017092546766,
+        "trainer_id": "24cb89b6-cc33-48ac-89c6-efbaa138f42e",
+        "trainer_name": "hidari_amiibo",
+        "result": "loss"
+      }
+    },
+    "2023-12-21T19:29:57.574281+00:00": {
+      "this_amiibo": {
+        "rating": 24.542016467596657,
+        "rating_mu": 31.031431761701793,
+        "rating_sigma": 2.1631384313683784,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
+        "id": "ba0c6e1a-ec86-429d-a517-0557abc713f8",
+        "name": "Agnea",
+        "rating": 29.310510597519553,
+        "trainer_id": "f346091f-8917-49bc-b479-b0c568026dbf",
+        "trainer_name": "RazorForce21",
+        "result": "win"
+      }
+    },
+    "2023-12-22T19:14:53.038006+00:00": {
+      "this_amiibo": {
+        "rating": 24.196382530075162,
+        "rating_mu": 30.445523021415717,
+        "rating_sigma": 2.0830468304468517,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "3074cf1e-9bcf-431b-b53b-98bd7ac31586",
+        "name": "Azazel",
+        "rating": 28.586171414131236,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "win"
+      }
     }
   }
 }

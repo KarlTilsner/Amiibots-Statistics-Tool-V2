@@ -429,6 +429,40 @@
         "trainer_name": "dittowog",
         "result": "loss"
       }
+    },
+    "2023-12-21T10:08:20.182329+00:00": {
+      "this_amiibo": {
+        "rating": 22.24093448769944,
+        "rating_mu": 27.373661542244253,
+        "rating_sigma": 1.7109090181816038,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "083f2868-213c-4fa4-81ee-d0281f3a9079",
+        "name": "Zombo",
+        "rating": 25.292067179067818,
+        "trainer_id": "784ef333-6732-4a34-9cd8-d876fe8c1eee",
+        "trainer_name": "Heccsicle",
+        "result": "win"
+      }
+    },
+    "2023-12-25T15:43:14.036824+00:00": {
+      "this_amiibo": {
+        "rating": 22.77100627307612,
+        "rating_mu": 27.77921948474346,
+        "rating_sigma": 1.669404403889113,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "574d8c4d-d50e-4d46-a592-8b6fd0ccdfa3",
+        "name": "shelf",
+        "rating": 25.370157875415,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HDeez04",
+        "result": "loss"
+      }
     }
   }
 }

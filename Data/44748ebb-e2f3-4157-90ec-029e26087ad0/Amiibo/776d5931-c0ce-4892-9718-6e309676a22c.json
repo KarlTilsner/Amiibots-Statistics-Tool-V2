@@ -293,6 +293,74 @@
         "trainer_name": "iguanope",
         "result": "loss"
       }
+    },
+    "2023-12-25T01:23:45.952097+00:00": {
+      "this_amiibo": {
+        "rating": 19.743264987556955,
+        "rating_mu": 25.875629052763355,
+        "rating_sigma": 2.0441213550688,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "ee7f6d75-c754-472f-98de-d636d61de486",
+        "name": "Short King",
+        "rating": 15.372797716150084,
+        "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
+        "trainer_name": "soysauce881",
+        "result": "win"
+      }
+    },
+    "2023-12-25T16:31:18.803188+00:00": {
+      "this_amiibo": {
+        "rating": 20.111440421787453,
+        "rating_mu": 26.175219104800547,
+        "rating_sigma": 2.021259561004365,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "2e8b35b8-4209-452b-9b63-7bc7c3e42f6d",
+        "name": "Short King",
+        "rating": 0.5986625085995776,
+        "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
+        "trainer_name": "soysauce881",
+        "result": "loss"
+      }
+    },
+    "2023-12-30T06:10:41.977581+00:00": {
+      "this_amiibo": {
+        "rating": 20.59410333723592,
+        "rating_mu": 26.50218894419494,
+        "rating_sigma": 1.9693618689863401,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "8a8c8f57-dd50-4b41-9603-a9f8d1fcb033",
+        "name": "The end",
+        "rating": 19.547109721209793,
+        "trainer_id": "35db2c79-b749-40c1-8d4f-4f92067f64d3",
+        "trainer_name": "Gottrouble13",
+        "result": "loss"
+      }
+    },
+    "2024-01-03T11:21:35.683179+00:00": {
+      "this_amiibo": {
+        "rating": 21.03823368360605,
+        "rating_mu": 26.806596960078895,
+        "rating_sigma": 1.922787758824281,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "adab560d-ef74-46ca-8859-02ddf82fcea8",
+        "name": "Fire Alarm",
+        "rating": 18.59316075299943,
+        "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
+        "trainer_name": "bubs_yt",
+        "result": "loss"
+      }
     }
   }
 }

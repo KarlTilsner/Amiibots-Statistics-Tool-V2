@@ -5835,6 +5835,40 @@
         "trainer_name": "redoctane0217",
         "result": "loss"
       }
+    },
+    "2023-12-23T08:38:57.017484+00:00": {
+      "this_amiibo": {
+        "rating": 40.79171156826275,
+        "rating_mu": 43.203960809162595,
+        "rating_sigma": 0.8040830802999481,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "58bb7a84-e7e1-4625-8c0a-13175c18daa2",
+        "name": "1/4096",
+        "rating": 38.79125671178582,
+        "trainer_id": "737b125c-6dc9-418e-80cf-0dc6b78049cd",
+        "trainer_name": "FlaminJolt",
+        "result": "win"
+      }
+    },
+    "2024-01-02T21:22:38.102264+00:00": {
+      "this_amiibo": {
+        "rating": 40.866202656857126,
+        "rating_mu": 43.278280094300676,
+        "rating_sigma": 0.8040258124811833,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "5c7a6f83-a271-4ce1-b557-15e6453731dd",
+        "name": "Scar",
+        "rating": 39.57161228722885,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "loss"
+      }
     }
   }
 }

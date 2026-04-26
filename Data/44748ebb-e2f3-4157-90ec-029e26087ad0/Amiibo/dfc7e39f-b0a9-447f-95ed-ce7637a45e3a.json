@@ -497,6 +497,40 @@
         "trainer_name": "iamgoomb",
         "result": "loss"
       }
+    },
+    "2023-12-22T03:45:40.045280+00:00": {
+      "this_amiibo": {
+        "rating": 22.029139271048145,
+        "rating_mu": 26.556110506226833,
+        "rating_sigma": 1.50899041172623,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "7fa30b85-6b9d-4f61-a0a0-ce5e81ab344d",
+        "name": "Bonk",
+        "rating": 24.629872109540127,
+        "trainer_id": "5557ab09-f049-4753-9b0e-97781ec49b53",
+        "trainer_name": "iamgoomb",
+        "result": "win"
+      }
+    },
+    "2023-12-24T18:12:20.339818+00:00": {
+      "this_amiibo": {
+        "rating": 21.831348583468923,
+        "rating_mu": 26.31257563906278,
+        "rating_sigma": 1.4937423518646178,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fa1ac3ba-0880-483b-b94e-9b4952e3f999",
+        "id": "38ab8ce9-e609-4f2c-b055-b81f743c2620",
+        "name": "smithster",
+        "rating": 15.332195271385576,
+        "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+        "trainer_name": "iguanope",
+        "result": "win"
+      }
     }
   }
 }
