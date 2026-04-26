@@ -12448,6 +12448,57 @@
         "trainer_name": "UltraDPG",
         "result": "loss"
       }
+    },
+    "2023-06-15T08:40:06.211702+00:00": {
+      "this_amiibo": {
+        "rating": 19.630240339968566,
+        "rating_mu": 22.25258540571008,
+        "rating_sigma": 0.8741150219138373,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "0073fe0a-6c51-4280-8c74-ef5f29cbbefb",
+        "name": "WiFi Zelda",
+        "rating": 24.10056516642898,
+        "trainer_id": "a10c714c-abce-49d5-89ad-62210c8bafd3",
+        "trainer_name": "karatat2",
+        "result": "win"
+      }
+    },
+    "2023-06-15T16:53:27.732258+00:00": {
+      "this_amiibo": {
+        "rating": 19.578106706017454,
+        "rating_mu": 22.200205901912412,
+        "rating_sigma": 0.874033065298319,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "3394ff40-6727-40f3-bc4b-86a2056d4079",
+        "name": "Goombario",
+        "rating": 21.14390551399569,
+        "trainer_id": "28640173-1e3d-46fe-9d0c-50fe94bee266",
+        "trainer_name": "Kaze_Aze",
+        "result": "win"
+      }
+    },
+    "2023-06-16T03:06:33.852274+00:00": {
+      "this_amiibo": {
+        "rating": 19.500687662744085,
+        "rating_mu": 22.11872701659539,
+        "rating_sigma": 0.8726797846171015,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "3f732ecc-9bfe-4f0b-bcbc-cae2ec5323e8",
+        "name": "Morgana",
+        "rating": 20.493375562842367,
+        "trainer_id": "6ee0c731-9ca7-4ddf-af78-94905294d761",
+        "trainer_name": "PKMN_Master99",
+        "result": "win"
+      }
     }
   }
 }

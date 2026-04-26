@@ -1,0 +1,43 @@
+{
+  "character_id": "fa1ac3ba-0880-483b-b94e-9b4952e3f999",
+  "id": "80b3aec4-8753-46d1-9ee6-4e372a62bf88",
+  "name": "John Smith",
+  "trainer_id": "790bfdd9-7935-4d8a-a2ef-e98e39633f80",
+  "trainer_name": "wizard_real",
+  "matches": {
+    "2023-01-20T05:05:10.583806+00:00": {
+      "this_amiibo": {
+        "rating": 0.048027616553650176,
+        "rating_mu": 19.577554368794356,
+        "rating_sigma": 6.509842250746901,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "68a23ca3-bb92-4121-8d48-ecff2026f8de",
+        "name": "Awakening",
+        "rating": 15.248485105577565,
+        "trainer_id": "a5eb3823-a703-4a48-9039-c1142b46ebde",
+        "trainer_name": "False_Justice",
+        "result": "win"
+      }
+    },
+    "2023-01-20T14:26:15.647056+00:00": {
+      "this_amiibo": {
+        "rating": 0.09951192836171785,
+        "rating_mu": 16.255325193664415,
+        "rating_sigma": 5.385271088434232,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "dd9dc7d1-1be9-498e-b7f9-572b41ff297c",
+        "name": "AgentSeven",
+        "rating": 15.467659634371877,
+        "trainer_id": "84666a30-0314-432b-80e8-d4e0f627cde4",
+        "trainer_name": "aidanman3106",
+        "result": "win"
+      }
+    }
+  }
+}

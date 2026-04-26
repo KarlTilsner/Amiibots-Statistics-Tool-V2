@@ -3523,6 +3523,40 @@
         "trainer_name": "Zizogod",
         "result": "loss"
       }
+    },
+    "2023-02-19T16:32:03.294978+00:00": {
+      "this_amiibo": {
+        "rating": 23.367605923904726,
+        "rating_mu": 25.878073531963548,
+        "rating_sigma": 0.8368225360196069,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "389598d4-06b5-4be1-9e39-30369b0965cd",
+        "name": "Grellow",
+        "rating": 21.949880384687024,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "win"
+      }
+    },
+    "2023-05-22T05:39:22.641512+00:00": {
+      "this_amiibo": {
+        "rating": 23.529877945977553,
+        "rating_mu": 26.034349230381,
+        "rating_sigma": 0.8348237614678163,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "a4382349-8419-4d23-bb52-57368dfd77f9",
+        "name": "Jade",
+        "rating": 25.859557936174973,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "loss"
+      }
     }
   }
 }

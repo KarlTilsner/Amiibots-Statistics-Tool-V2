@@ -1,7 +1,7 @@
 {
   "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
   "id": "4d9c3f04-545d-4b8c-848d-1e8211b9fc18",
-  "name": "TORTUS",
+  "name": "Tortus",
   "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
   "trainer_name": "leCharade",
   "matches": {
@@ -156,6 +156,40 @@
         "trainer_id": "db478eb2-7e39-43c5-9dca-2fe9358ad69a",
         "trainer_name": "thatbupguy",
         "result": "win"
+      }
+    },
+    "2022-11-02T02:26:41.713205+00:00": {
+      "this_amiibo": {
+        "rating": 0.8375936657095178,
+        "rating_mu": 12.120259788068811,
+        "rating_sigma": 3.760888707453098,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "e98660e7-a4f9-4350-9c5a-9b7028384433",
+        "name": "where am i",
+        "rating": 8.028501822605007,
+        "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
+        "trainer_name": "schmorchid",
+        "result": "win"
+      }
+    },
+    "2022-11-25T19:01:07.182138+00:00": {
+      "this_amiibo": {
+        "rating": 3.2342203769382003,
+        "rating_mu": 13.71039739232864,
+        "rating_sigma": 3.4920590051301463,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "cd1cf6d6-8b41-43b5-b95b-6e13e15990bf",
+        "name": "bob",
+        "rating": -0.6429709106521511,
+        "trainer_id": "52b63083-13ae-45fe-b9e5-5bae4561d112",
+        "trainer_name": "goldenwarrior20yt",
+        "result": "loss"
       }
     }
   }

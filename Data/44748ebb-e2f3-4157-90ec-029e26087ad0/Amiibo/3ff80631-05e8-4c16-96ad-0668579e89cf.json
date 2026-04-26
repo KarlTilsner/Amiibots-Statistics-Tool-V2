@@ -701,6 +701,57 @@
         "trainer_name": "random_fire",
         "result": "loss"
       }
+    },
+    "2022-11-25T16:46:40.243798+00:00": {
+      "this_amiibo": {
+        "rating": 30.946361589769545,
+        "rating_mu": 35.384248409616,
+        "rating_sigma": 1.4792956066154845,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "6272f051-d065-4485-b0eb-87c4cf10a45a",
+        "name": "FukMe2wice",
+        "rating": 32.494690750873495,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "win"
+      }
+    },
+    "2023-03-15T12:14:22.378404+00:00": {
+      "this_amiibo": {
+        "rating": 31.25745934017128,
+        "rating_mu": 35.63670130193317,
+        "rating_sigma": 1.4597473205872966,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "a9d13b68-767c-4e4e-98f6-bc4d4fe5d520",
+        "name": "Rose Tyler",
+        "rating": 25.064570480387502,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "loss"
+      }
+    },
+    "2023-04-05T17:20:03.783261+00:00": {
+      "this_amiibo": {
+        "rating": 31.548662843901692,
+        "rating_mu": 35.875028772440764,
+        "rating_sigma": 1.4421219761796904,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "f4e1f443-f282-4d67-b363-db7aef872d17",
+        "name": "Malthael",
+        "rating": 24.213222073808982,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "loss"
+      }
     }
   }
 }

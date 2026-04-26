@@ -1,0 +1,43 @@
+{
+  "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+  "id": "397e59f2-f98e-41a2-b738-d3dbe6f35d71",
+  "name": "Darkling",
+  "trainer_id": "fb6e3742-9119-4426-bf3a-71bba6204b60",
+  "trainer_name": "pokemoncade",
+  "matches": {
+    "2023-05-25T08:16:37.385190+00:00": {
+      "this_amiibo": {
+        "rating": 0.11134450846706301,
+        "rating_mu": 18.697509174511755,
+        "rating_sigma": 6.1953882220148975,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "6fde3e02-8524-409c-99c3-fc5401167c67",
+        "name": "Dark Link",
+        "rating": 19.79771660526653,
+        "trainer_id": "c119db0c-0ae3-401e-978a-53518930d17b",
+        "trainer_name": "RogueBlade",
+        "result": "win"
+      }
+    },
+    "2023-05-27T01:32:53.586686+00:00": {
+      "this_amiibo": {
+        "rating": -0.46005376383271823,
+        "rating_mu": 16.1310827892803,
+        "rating_sigma": 5.530378851037672,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
+        "id": "98ae8528-12eb-4c3f-8d9e-19869b1b9f34",
+        "name": "LinkedIn®",
+        "rating": 5.820434960699981,
+        "trainer_id": "558d6371-ada9-4c14-b300-5eecf975ef68",
+        "trainer_name": "deante_ssb",
+        "result": "win"
+      }
+    }
+  }
+}

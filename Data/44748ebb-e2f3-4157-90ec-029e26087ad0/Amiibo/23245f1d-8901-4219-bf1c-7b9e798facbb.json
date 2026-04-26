@@ -310,6 +310,74 @@
         "trainer_name": "selfallegedjapanamiiborep",
         "result": "loss"
       }
+    },
+    "2022-11-02T10:46:17.086575+00:00": {
+      "this_amiibo": {
+        "rating": 22.565057591815624,
+        "rating_mu": 28.801671743807702,
+        "rating_sigma": 2.07887138399736,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "34ae051b-24a7-4f2d-b680-4bb1685c8ac1",
+        "name": "1 PunchMan",
+        "rating": 23.98353881452566,
+        "trainer_id": "7c20e90f-67fe-43c5-a623-83c60ef05858",
+        "trainer_name": "Zizogod",
+        "result": "win"
+      }
+    },
+    "2022-11-04T13:56:51.592857+00:00": {
+      "this_amiibo": {
+        "rating": 23.171080655265197,
+        "rating_mu": 29.218639441298762,
+        "rating_sigma": 2.0158529286778553,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "34ae051b-24a7-4f2d-b680-4bb1685c8ac1",
+        "name": "1 PunchMan",
+        "rating": 24.31521174545677,
+        "trainer_id": "7c20e90f-67fe-43c5-a623-83c60ef05858",
+        "trainer_name": "Zizogod",
+        "result": "loss"
+      }
+    },
+    "2022-11-06T00:21:56.151036+00:00": {
+      "this_amiibo": {
+        "rating": 22.82823552129628,
+        "rating_mu": 28.79895302835026,
+        "rating_sigma": 1.9902391690179937,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
+        "id": "b7d2b517-d790-4c44-8b55-b36b87bbcb6b",
+        "name": "Fluke",
+        "rating": 13.77479444083285,
+        "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
+        "trainer_name": "gotelin_",
+        "result": "win"
+      }
+    },
+    "2022-11-06T20:48:20.616254+00:00": {
+      "this_amiibo": {
+        "rating": 22.4776438564319,
+        "rating_mu": 28.2520219962535,
+        "rating_sigma": 1.9247927132738665,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 25.719015073853885,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "win"
+      }
     }
   }
 }

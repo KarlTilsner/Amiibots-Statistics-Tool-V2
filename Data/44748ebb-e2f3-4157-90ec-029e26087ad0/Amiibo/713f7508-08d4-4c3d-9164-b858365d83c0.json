@@ -1602,6 +1602,57 @@
         "trainer_name": "average_videogame_user",
         "result": "loss"
       }
+    },
+    "2022-10-27T02:04:39.993070+00:00": {
+      "this_amiibo": {
+        "rating": 22.062379254996493,
+        "rating_mu": 25.15840297999726,
+        "rating_sigma": 1.032007908333588,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "39a0c0cc-3e70-4994-923c-b1e9eb98b689",
+        "name": "BeanieKid ",
+        "rating": 26.06078779242376,
+        "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+        "trainer_name": "i_guano",
+        "result": "win"
+      }
+    },
+    "2022-10-29T17:46:48.983010+00:00": {
+      "this_amiibo": {
+        "rating": 22.193696355442384,
+        "rating_mu": 25.280209987116155,
+        "rating_sigma": 1.0288378772245903,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "3a35e9f2-0011-4c58-8f69-c9dfb688c033",
+        "name": "Tax Evader",
+        "rating": 11.758910294018317,
+        "trainer_id": "572ea3a2-7f62-4814-9089-dd5e78bb246f",
+        "trainer_name": "Strange_Fate",
+        "result": "loss"
+      }
+    },
+    "2023-04-20T21:27:21.926152+00:00": {
+      "this_amiibo": {
+        "rating": 22.082123364631663,
+        "rating_mu": 25.15224743413377,
+        "rating_sigma": 1.0233746898340363,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "f2bb9c3f-54a6-416e-9cf6-2514eb514fe7",
+        "name": "GangPlank",
+        "rating": 21.155627584760076,
+        "trainer_id": "892c0fef-6425-415c-a5ba-9520ca6ea65b",
+        "trainer_name": "Theorpo",
+        "result": "win"
+      }
     }
   }
 }

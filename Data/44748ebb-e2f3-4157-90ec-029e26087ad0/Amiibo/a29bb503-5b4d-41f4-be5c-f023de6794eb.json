@@ -276,6 +276,57 @@
         "trainer_name": "leCharade",
         "result": "loss"
       }
+    },
+    "2022-11-03T01:05:43.055526+00:00": {
+      "this_amiibo": {
+        "rating": 18.211684988028225,
+        "rating_mu": 24.27372364861191,
+        "rating_sigma": 2.0206795535278954,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "db905cbb-9eda-4bc3-85bf-a1f562afa41f",
+        "name": "Cheeto Man",
+        "rating": 19.038322944807785,
+        "trainer_id": "a3fa8592-cc43-4769-b360-57911517c725",
+        "trainer_name": "itspseudonotpsuedo",
+        "result": "win"
+      }
+    },
+    "2022-12-20T06:16:41.577060+00:00": {
+      "this_amiibo": {
+        "rating": 17.996755502421188,
+        "rating_mu": 23.88725448691392,
+        "rating_sigma": 1.9634996614975784,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
+        "id": "0e780ede-1cba-47d6-85e4-07429cbed93c",
+        "name": "Pelipper",
+        "rating": 23.81255862844479,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "win"
+      }
+    },
+    "2022-12-23T08:42:04.729625+00:00": {
+      "this_amiibo": {
+        "rating": 17.5508753377182,
+        "rating_mu": 23.248876548907884,
+        "rating_sigma": 1.8993337370632282,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "9ffa5be7-7e68-4893-bf05-b63d729c8e20",
+        "name": "ChunkyDunk",
+        "rating": 16.566919728669767,
+        "trainer_id": "a783d150-bd51-4b0c-9379-b32e55643dac",
+        "trainer_name": "iguyw",
+        "result": "win"
+      }
     }
   }
 }

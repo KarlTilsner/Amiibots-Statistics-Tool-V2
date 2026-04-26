@@ -514,6 +514,40 @@
         "trainer_name": "cabbage1010101",
         "result": "win"
       }
+    },
+    "2023-01-14T21:15:39.934691+00:00": {
+      "this_amiibo": {
+        "rating": 21.965699908996015,
+        "rating_mu": 26.45199878592155,
+        "rating_sigma": 1.4954329589751783,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "fb26c738-9fe9-492f-9816-6414957c04ef",
+        "name": "Astraea",
+        "rating": 0.7397051975433087,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "loss"
+      }
+    },
+    "2023-01-27T17:45:54.089284+00:00": {
+      "this_amiibo": {
+        "rating": 21.74887166431335,
+        "rating_mu": 26.167007171502156,
+        "rating_sigma": 1.472711835729603,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
+        "id": "4909cd1c-5b0d-4ccc-93ab-885cd4dfc26d",
+        "name": "Valencia",
+        "rating": 19.30921550477022,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
     }
   }
 }

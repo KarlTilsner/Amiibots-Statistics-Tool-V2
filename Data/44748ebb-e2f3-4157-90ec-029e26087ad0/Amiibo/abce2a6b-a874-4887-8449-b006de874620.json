@@ -1,0 +1,43 @@
+{
+  "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+  "id": "abce2a6b-a874-4887-8449-b006de874620",
+  "name": "Nacho",
+  "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+  "trainer_name": "sst_link",
+  "matches": {
+    "2022-11-03T08:14:18.827214+00:00": {
+      "this_amiibo": {
+        "rating": 0.9269699815998287,
+        "rating_mu": 20.457701571635685,
+        "rating_sigma": 6.510243863345285,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "e4552ffd-55c5-42ba-8360-2879e898bb24",
+        "name": "GANDALF",
+        "rating": 24.660738251599476,
+        "trainer_id": "52cf741b-9181-4229-8440-532cd6b5e0e7",
+        "trainer_name": "pgxmew2",
+        "result": "win"
+      }
+    },
+    "2022-11-04T15:06:41.363411+00:00": {
+      "this_amiibo": {
+        "rating": -0.29770972464328693,
+        "rating_mu": 16.346537941812826,
+        "rating_sigma": 5.548082555485371,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "60e86ba9-6c1b-46fc-918e-7bf547825d98",
+        "name": "Sprite",
+        "rating": 5.219396714406756,
+        "trainer_id": "0fb55565-9a16-4eaf-9ae8-e089b432d6f0",
+        "trainer_name": "sdm_ranch",
+        "result": "win"
+      }
+    }
+  }
+}
