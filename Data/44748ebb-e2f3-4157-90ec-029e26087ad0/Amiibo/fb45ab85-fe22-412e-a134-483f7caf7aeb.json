@@ -531,6 +531,40 @@
         "trainer_name": "TechnoPuff",
         "result": "loss"
       }
+    },
+    "2023-10-21T16:47:12.474147+00:00": {
+      "this_amiibo": {
+        "rating": 24.419318164331102,
+        "rating_mu": 28.60327247323516,
+        "rating_sigma": 1.3946514363013534,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "d22d5256-9ab7-42d9-86e2-a21bfd096c02",
+        "name": "Kris",
+        "rating": 25.37719485922929,
+        "trainer_id": "888b9593-05d9-4eef-bdb3-ea92805fb396",
+        "trainer_name": "tutor_for_shock",
+        "result": "win"
+      }
+    },
+    "2023-10-26T18:35:37.211773+00:00": {
+      "this_amiibo": {
+        "rating": 24.656005130406854,
+        "rating_mu": 28.79737878108217,
+        "rating_sigma": 1.3804578835584387,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "75fdd946-9de7-4c06-b617-6f21615c7663",
+        "name": "Champion",
+        "rating": 16.389717037354163,
+        "trainer_id": "a03324ae-7a0c-4a4a-a608-046e54c99664",
+        "trainer_name": "picvity",
+        "result": "loss"
+      }
     }
   }
 }

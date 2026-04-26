@@ -106,6 +106,57 @@
         "trainer_name": "patspatchgaming",
         "result": "loss"
       }
+    },
+    "2023-10-21T10:09:10.338309+00:00": {
+      "this_amiibo": {
+        "rating": 21.125282035753933,
+        "rating_mu": 30.197761877948743,
+        "rating_sigma": 3.02415994739827,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "786d680e-cef8-4b9e-b74b-52d9dbeab8ea",
+        "name": "testnum1",
+        "rating": 28.16201976106111,
+        "trainer_id": "62d4eb7f-d418-42f0-97a1-aac0a5f968c0",
+        "trainer_name": "yvvire",
+        "result": "win"
+      }
+    },
+    "2023-10-23T17:49:54.597362+00:00": {
+      "this_amiibo": {
+        "rating": 22.971385426048958,
+        "rating_mu": 31.40615914412484,
+        "rating_sigma": 2.811591239358627,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "fb02caf4-3f33-4941-808e-8d383b2b2d6a",
+        "name": "Bruh",
+        "rating": 28.48070872873547,
+        "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
+        "trainer_name": "Pi_Boy_314",
+        "result": "loss"
+      }
+    },
+    "2023-10-31T00:49:22.283180+00:00": {
+      "this_amiibo": {
+        "rating": 24.60321775967896,
+        "rating_mu": 32.508414190219945,
+        "rating_sigma": 2.635065476846995,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
+        "id": "987de7ea-59d0-42fe-8dfd-7fbd4c9a5c48",
+        "name": "Lajoa",
+        "rating": 29.49138036322498,
+        "trainer_id": "80f98683-a318-47dd-bcf2-93f67d0878d4",
+        "trainer_name": "Sir_Dragonite",
+        "result": "loss"
+      }
     }
   }
 }

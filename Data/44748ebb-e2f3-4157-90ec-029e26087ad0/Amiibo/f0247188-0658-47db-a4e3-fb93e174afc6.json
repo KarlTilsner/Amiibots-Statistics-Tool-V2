@@ -1109,6 +1109,57 @@
         "trainer_name": "gamerparsnip",
         "result": "win"
       }
+    },
+    "2023-10-25T00:03:38.876268+00:00": {
+      "this_amiibo": {
+        "rating": 10.611125238132255,
+        "rating_mu": 13.958595227382808,
+        "rating_sigma": 1.1158233297501847,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "bd3a5cbb-896f-4b69-947d-188b0f82a5b6",
+        "name": "SCP-46",
+        "rating": 11.904516690756171,
+        "trainer_id": "8806a0a9-04df-48a0-9b3e-357f8177411c",
+        "trainer_name": "fake_l3af",
+        "result": "win"
+      }
+    },
+    "2023-10-29T04:59:17.507780+00:00": {
+      "this_amiibo": {
+        "rating": 10.550856903168944,
+        "rating_mu": 13.883120649613094,
+        "rating_sigma": 1.11075458214805,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "06727874-e6ff-4861-b5a2-e56a3e6e2ab8",
+        "name": "Trooper",
+        "rating": 16.196039417656944,
+        "trainer_id": "888b9593-05d9-4eef-bdb3-ea92805fb396",
+        "trainer_name": "tutor_for_shock",
+        "result": "win"
+      }
+    },
+    "2023-11-03T12:54:11.594905+00:00": {
+      "this_amiibo": {
+        "rating": 10.719320259938193,
+        "rating_mu": 14.02778448253303,
+        "rating_sigma": 1.1028214075316123,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
+        "id": "c305cc36-7780-40e0-ae5c-d4eab8e3d031",
+        "name": "SCP-38",
+        "rating": 8.401734332370532,
+        "trainer_id": "8806a0a9-04df-48a0-9b3e-357f8177411c",
+        "trainer_name": "fake_l3af",
+        "result": "loss"
+      }
     }
   }
 }

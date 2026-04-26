@@ -497,6 +497,40 @@
         "trainer_name": "emdc03",
         "result": "win"
       }
+    },
+    "2023-10-30T21:08:02.597373+00:00": {
+      "this_amiibo": {
+        "rating": 15.265602211777354,
+        "rating_mu": 20.345283368040903,
+        "rating_sigma": 1.6932270520878494,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "4a37940d-9453-4d7f-9c00-5c87d78bf5ff",
+        "name": "PICKLES",
+        "rating": 13.581308043668546,
+        "trainer_id": "c6f5fd84-0a87-420e-90ff-433c37a3fb3a",
+        "trainer_name": "gamerparsnip",
+        "result": "loss"
+      }
+    },
+    "2023-10-31T08:26:33.973349+00:00": {
+      "this_amiibo": {
+        "rating": 15.032216006789348,
+        "rating_mu": 20.054488606416747,
+        "rating_sigma": 1.674090866542466,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "e3d99386-04d5-4938-bf03-49fe51140a31",
+        "name": "Batedtech",
+        "rating": 7.824943865340007,
+        "trainer_id": "8b58def7-f142-4a59-b1d1-322b89f76a74",
+        "trainer_name": "t_newcomer",
+        "result": "win"
+      }
     }
   }
 }

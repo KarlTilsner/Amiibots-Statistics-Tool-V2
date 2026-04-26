@@ -1,0 +1,43 @@
+{
+  "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+  "id": "9e4ea8a5-3ee6-470b-82ed-8f23713a2612",
+  "name": "Libre",
+  "trainer_id": "a03324ae-7a0c-4a4a-a608-046e54c99664",
+  "trainer_name": "picvity",
+  "matches": {
+    "2023-10-24T22:48:22.736457+00:00": {
+      "this_amiibo": {
+        "rating": 0.013439154365073591,
+        "rating_mu": 18.499281813270578,
+        "rating_sigma": 6.161947552968501,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "802d260d-0efb-4a54-a8de-aebec43bf9ec",
+        "name": "Yo-Yo",
+        "rating": 19.565968428523387,
+        "trainer_id": "690ab18e-fdac-4267-84c7-b624388b4692",
+        "trainer_name": "yoyoshi22",
+        "result": "win"
+      }
+    },
+    "2023-10-31T22:31:46.936193+00:00": {
+      "this_amiibo": {
+        "rating": -1.4269748954898755,
+        "rating_mu": 13.963620400432093,
+        "rating_sigma": 5.13019843197399,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "26201468-5b73-45d5-817a-6572824e09a4",
+        "name": "Hard Hat",
+        "rating": 4.263977251988258,
+        "trainer_id": "0f97eeae-9a05-49b1-9741-b5719c922fd3",
+        "trainer_name": "AmiiboTrainerLukas",
+        "result": "win"
+      }
+    }
+  }
+}

@@ -1194,6 +1194,40 @@
         "trainer_name": "AlexanderAgne",
         "result": "loss"
       }
+    },
+    "2023-11-01T06:10:58.365748+00:00": {
+      "this_amiibo": {
+        "rating": 28.39745399581867,
+        "rating_mu": 31.45115059725562,
+        "rating_sigma": 1.0178988671456501,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "aa9da09b-2bfe-4680-b55d-a03cad5f5e6a",
+        "name": "Rikko",
+        "rating": 29.474122191241662,
+        "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
+        "trainer_name": "RockMyRole",
+        "result": "win"
+      }
+    },
+    "2023-11-05T02:14:49.407637+00:00": {
+      "this_amiibo": {
+        "rating": 28.51778671124619,
+        "rating_mu": 31.55693153519018,
+        "rating_sigma": 1.013048274647997,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "091c4f6e-fd04-4b8e-b21f-63b2dc3e502c",
+        "name": "atticade",
+        "rating": 26.864701873158687,
+        "trainer_id": "214ca91f-e336-4365-a4ef-5e6c284c8025",
+        "trainer_name": "AveryDDD",
+        "result": "loss"
+      }
     }
   }
 }

@@ -361,6 +361,57 @@
         "trainer_name": "fake_l3af",
         "result": "win"
       }
+    },
+    "2023-10-24T07:49:06.544535+00:00": {
+      "this_amiibo": {
+        "rating": 7.421069629588575,
+        "rating_mu": 12.837749391590505,
+        "rating_sigma": 1.8055599206673099,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "1ea3ebe6-22a6-4aae-83eb-a150fd5414d8",
+        "name": "Beat",
+        "rating": 3.082902669589325,
+        "trainer_id": "53896979-5101-45ab-a6e5-c7aff20e0f12",
+        "trainer_name": "Grapeist",
+        "result": "loss"
+      }
+    },
+    "2023-10-27T22:40:44.862469+00:00": {
+      "this_amiibo": {
+        "rating": 8.090914290522015,
+        "rating_mu": 13.353023509296056,
+        "rating_sigma": 1.7540364062580134,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "324f1147-6e7c-402a-87d7-7b41d1e2651d",
+        "name": "agent 007",
+        "rating": 11.673580364430792,
+        "trainer_id": "2dc27fd0-46aa-452d-87bf-a07832523ee5",
+        "trainer_name": "me_694",
+        "result": "loss"
+      }
+    },
+    "2023-11-01T07:58:22.645833+00:00": {
+      "this_amiibo": {
+        "rating": 7.819458469849488,
+        "rating_mu": 12.991767821644661,
+        "rating_sigma": 1.7241031172650576,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "c8e891b5-aef7-478f-976f-87335f92de33",
+        "name": "Mang0",
+        "rating": 3.0437251859757506,
+        "trainer_id": "7f8b523d-feed-49f6-a608-88bf508984f0",
+        "trainer_name": "SepiksComposite",
+        "result": "win"
+      }
     }
   }
 }

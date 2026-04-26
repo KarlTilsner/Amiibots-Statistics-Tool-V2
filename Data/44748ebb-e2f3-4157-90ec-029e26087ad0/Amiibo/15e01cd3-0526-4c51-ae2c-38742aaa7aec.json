@@ -242,6 +242,91 @@
         "trainer_name": "0underscore",
         "result": "loss"
       }
+    },
+    "2023-10-23T22:00:50.266372+00:00": {
+      "this_amiibo": {
+        "rating": 19.433637907759305,
+        "rating_mu": 25.869699039076302,
+        "rating_sigma": 2.1453537104389984,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "751ffaf5-903d-4f87-b8d5-a611376e9112",
+        "name": "The Exalt",
+        "rating": 23.339732132475472,
+        "trainer_id": "014cbd7d-3976-48c6-929d-d64677762669",
+        "trainer_name": "Illialidur",
+        "result": "win"
+      }
+    },
+    "2023-10-24T16:55:37.800174+00:00": {
+      "this_amiibo": {
+        "rating": 19.163917195284235,
+        "rating_mu": 25.391491097801502,
+        "rating_sigma": 2.0758579675057556,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "6a7ed56b-aab2-4796-8073-665b4ee5c68b",
+        "name": "Johnathan",
+        "rating": 22.98517129429385,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "joah_22",
+        "result": "win"
+      }
+    },
+    "2023-10-27T15:37:32.431539+00:00": {
+      "this_amiibo": {
+        "rating": 20.02273300632224,
+        "rating_mu": 26.023652716594547,
+        "rating_sigma": 2.0003065700907694,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "751ffaf5-903d-4f87-b8d5-a611376e9112",
+        "name": "The Exalt",
+        "rating": 23.472157372431553,
+        "trainer_id": "014cbd7d-3976-48c6-929d-d64677762669",
+        "trainer_name": "Illialidur",
+        "result": "loss"
+      }
+    },
+    "2023-10-31T03:44:57.959090+00:00": {
+      "this_amiibo": {
+        "rating": 20.783903486198327,
+        "rating_mu": 26.588115044183684,
+        "rating_sigma": 1.93473718599512,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "6a7ed56b-aab2-4796-8073-665b4ee5c68b",
+        "name": "Johnathan",
+        "rating": 22.783509233401524,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "joah_22",
+        "result": "loss"
+      }
+    },
+    "2023-10-31T21:12:05.957256+00:00": {
+      "this_amiibo": {
+        "rating": 21.09344138423074,
+        "rating_mu": 26.841954061536725,
+        "rating_sigma": 1.9161708924353287,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "7f479b09-f74e-4e3f-a216-735a80ac2b8f",
+        "name": "Annoying",
+        "rating": 0.7304170579243703,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "loss"
+      }
     }
   }
 }

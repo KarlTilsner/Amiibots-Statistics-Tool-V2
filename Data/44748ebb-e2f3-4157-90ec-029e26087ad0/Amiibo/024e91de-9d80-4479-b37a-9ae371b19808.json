@@ -157,6 +157,40 @@
         "trainer_name": "UmbraSSBU",
         "result": "loss"
       }
+    },
+    "2023-10-30T12:06:22.632043+00:00": {
+      "this_amiibo": {
+        "rating": 27.506934658928685,
+        "rating_mu": 35.173966413780406,
+        "rating_sigma": 2.55567725161724,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "ce61489d-6ed8-4db1-aedb-102a33b1fbc8",
+        "name": "CPU Lv 10",
+        "rating": 29.923014810680485,
+        "trainer_id": "cb46a453-dbf5-40d7-b749-4e649f1dc419",
+        "trainer_name": "bkaeo18",
+        "result": "win"
+      }
+    },
+    "2023-11-01T04:05:37.477406+00:00": {
+      "this_amiibo": {
+        "rating": 28.331769389864707,
+        "rating_mu": 35.68887210382356,
+        "rating_sigma": 2.452367571319619,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "3221b318-bed4-4581-a4d1-f7b47ffd172b",
+        "name": "Ride The L",
+        "rating": 29.45294689879815,
+        "trainer_id": "2378ad65-e527-4455-9cf7-a16bcd9709a9",
+        "trainer_name": "1stawesomeman",
+        "result": "loss"
+      }
     }
   }
 }

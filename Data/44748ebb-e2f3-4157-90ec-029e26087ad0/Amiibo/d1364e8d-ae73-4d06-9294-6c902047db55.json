@@ -871,6 +871,40 @@
         "trainer_name": "Salty_Smash_NB",
         "result": "loss"
       }
+    },
+    "2023-10-23T09:30:59.439169+00:00": {
+      "this_amiibo": {
+        "rating": 32.17190595945095,
+        "rating_mu": 35.60068816828098,
+        "rating_sigma": 1.1429274029433418,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "f9c17083-9ea7-4a60-b670-417e2f5cee2e",
+        "name": "Metatron",
+        "rating": 32.51361940369563,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2023-10-31T04:19:58.133654+00:00": {
+      "this_amiibo": {
+        "rating": 32.352473734247226,
+        "rating_mu": 35.75589791185186,
+        "rating_sigma": 1.1344747258682104,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "52932adc-d37b-4ebd-aaed-7d5b48ac076c",
+        "name": "StressBall",
+        "rating": 28.2008517409882,
+        "trainer_id": "14df9153-bacf-491b-996d-3bbb6a54f05c",
+        "trainer_name": "cambriacotf",
+        "result": "loss"
+      }
     }
   }
 }
