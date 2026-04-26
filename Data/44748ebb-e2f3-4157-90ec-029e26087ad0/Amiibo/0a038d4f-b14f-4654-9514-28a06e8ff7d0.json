@@ -1347,6 +1347,40 @@
         "trainer_name": "YM44",
         "result": "loss"
       }
+    },
+    "2024-06-02T02:00:45.702739+00:00": {
+      "this_amiibo": {
+        "rating": 26.15079417039594,
+        "rating_mu": 29.163763702369796,
+        "rating_sigma": 1.0043231773246188,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "e25cada1-b280-4f6c-a8de-a2e1d3d8c413",
+        "name": "Kenpaichi",
+        "rating": 25.387217590266314,
+        "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
+        "trainer_name": "spike2the9th",
+        "result": "win"
+      }
+    },
+    "2024-06-04T17:43:42.787766+00:00": {
+      "this_amiibo": {
+        "rating": 26.305667681558408,
+        "rating_mu": 29.301754251832183,
+        "rating_sigma": 0.9986955234245921,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "bbe4cb60-6da7-4dda-b8dd-82700b9ce4c9",
+        "name": "Pluto",
+        "rating": 26.707257589752537,
+        "trainer_id": "95c09948-6452-4ce4-b27f-6c73c294c610",
+        "trainer_name": "2Snowblind",
+        "result": "loss"
+      }
     }
   }
 }

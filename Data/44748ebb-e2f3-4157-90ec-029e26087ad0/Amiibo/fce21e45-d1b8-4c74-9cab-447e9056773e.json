@@ -327,6 +327,40 @@
         "trainer_name": "SepiksComposite",
         "result": "loss"
       }
+    },
+    "2024-05-31T08:05:40.680308+00:00": {
+      "this_amiibo": {
+        "rating": 7.011716019281891,
+        "rating_mu": 12.720569200805004,
+        "rating_sigma": 1.9029510605077045,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "1278d665-28d7-4712-9ad9-36f69598fa81",
+        "name": "Doge□",
+        "rating": 9.527385496022287,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "win"
+      }
+    },
+    "2024-06-02T06:45:25.047723+00:00": {
+      "this_amiibo": {
+        "rating": 7.46930168682306,
+        "rating_mu": 13.069807357093032,
+        "rating_sigma": 1.8668352234233236,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "77507142-2549-45de-a548-42cdd83f0277",
+        "name": "Pikachu",
+        "rating": -1.2352489197449117,
+        "trainer_id": "3fd8383d-5b56-4dbd-a550-4d1b902dbb48",
+        "trainer_name": "onillusions",
+        "result": "loss"
+      }
     }
   }
 }

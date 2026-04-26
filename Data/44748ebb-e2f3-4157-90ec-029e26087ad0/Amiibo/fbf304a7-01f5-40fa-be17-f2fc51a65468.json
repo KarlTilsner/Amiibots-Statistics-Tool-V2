@@ -735,6 +735,40 @@
         "trainer_name": "TwilightTrader",
         "result": "loss"
       }
+    },
+    "2024-05-22T18:37:02.080582+00:00": {
+      "this_amiibo": {
+        "rating": 12.673961722323547,
+        "rating_mu": 16.51312986740686,
+        "rating_sigma": 1.279722715027771,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "6f76085d-6e75-4fa4-9a2a-9d63c92ebc16",
+        "name": "Lord Gorb",
+        "rating": -0.17211566194920103,
+        "trainer_id": "3fd8383d-5b56-4dbd-a550-4d1b902dbb48",
+        "trainer_name": "onillusions",
+        "result": "loss"
+      }
+    },
+    "2024-05-22T15:31:56.117350+00:00": {
+      "this_amiibo": {
+        "rating": 12.538482981394473,
+        "rating_mu": 16.399931984744352,
+        "rating_sigma": 1.2871496677832928,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "d89a2a84-362a-4a3d-ae69-3ddbb37e84ff",
+        "name": "Echo NEO",
+        "rating": 16.677431110114146,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "win"
+      }
     }
   }
 }

@@ -922,6 +922,40 @@
         "trainer_name": "pixel_gunners",
         "result": "loss"
       }
+    },
+    "2024-05-24T11:46:57.639732+00:00": {
+      "this_amiibo": {
+        "rating": 6.862026964068901,
+        "rating_mu": 10.430878211500467,
+        "rating_sigma": 1.1896170824771886,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "203e78c5-7c82-4129-a80d-2de7a14705ff",
+        "name": "Anakin",
+        "rating": 12.54188596930296,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
+    },
+    "2024-06-04T10:42:34.590368+00:00": {
+      "this_amiibo": {
+        "rating": 7.038777510946226,
+        "rating_mu": 10.584636979204998,
+        "rating_sigma": 1.181953156086257,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "77507142-2549-45de-a548-42cdd83f0277",
+        "name": "Pikachu",
+        "rating": -1.7276801847801746,
+        "trainer_id": "3fd8383d-5b56-4dbd-a550-4d1b902dbb48",
+        "trainer_name": "onillusions",
+        "result": "loss"
+      }
     }
   }
 }

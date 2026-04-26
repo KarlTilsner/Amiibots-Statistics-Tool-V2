@@ -446,6 +446,40 @@
         "trainer_name": "dittowog",
         "result": "loss"
       }
+    },
+    "2024-05-24T02:09:01.774868+00:00": {
+      "this_amiibo": {
+        "rating": 27.581851439317912,
+        "rating_mu": 32.1961572654823,
+        "rating_sigma": 1.538101942054796,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "5a9f36a6-8a90-4659-a3ab-74a442528774",
+        "name": "Boney",
+        "rating": 29.781351363537258,
+        "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
+        "trainer_name": "YM44",
+        "result": "win"
+      }
+    },
+    "2024-05-25T13:11:26.407900+00:00": {
+      "this_amiibo": {
+        "rating": 27.894592178450214,
+        "rating_mu": 32.433240528497834,
+        "rating_sigma": 1.5128827833492065,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "159ff857-92e8-494e-9a4a-6289f11f6c00",
+        "name": "Radiance",
+        "rating": 27.50270977138016,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "loss"
+      }
     }
   }
 }

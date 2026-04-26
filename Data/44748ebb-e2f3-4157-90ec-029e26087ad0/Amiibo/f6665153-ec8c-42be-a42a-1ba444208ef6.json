@@ -1806,6 +1806,40 @@
         "trainer_name": "eon_ii",
         "result": "loss"
       }
+    },
+    "2024-05-30T08:19:19.536409+00:00": {
+      "this_amiibo": {
+        "rating": 30.80669224659959,
+        "rating_mu": 33.5083110467984,
+        "rating_sigma": 0.9005396000662692,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "7af1b427-c0c3-4ce3-a474-82bb58fec556",
+        "name": "cardigan",
+        "rating": 27.888050694882025,
+        "trainer_id": "7ae72c01-0479-4b54-8c47-7a7e7ed61902",
+        "trainer_name": "dittowog",
+        "result": "win"
+      }
+    },
+    "2024-05-30T18:38:34.691795+00:00": {
+      "this_amiibo": {
+        "rating": 30.69826437010952,
+        "rating_mu": 33.39118572918428,
+        "rating_sigma": 0.8976404530249196,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "2c5f67b7-1850-4cc7-a0c9-300e2d5957f8",
+        "name": "Tenko",
+        "rating": 30.631541707833364,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
     }
   }
 }

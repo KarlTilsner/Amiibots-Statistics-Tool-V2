@@ -2061,6 +2061,40 @@
         "trainer_name": "RockMyRole",
         "result": "loss"
       }
+    },
+    "2024-06-01T07:08:45.969565+00:00": {
+      "this_amiibo": {
+        "rating": 21.519287732599633,
+        "rating_mu": 24.22263623350633,
+        "rating_sigma": 0.9011161669688988,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "736270b9-5f9c-4477-ae7c-d16f8f820229",
+        "name": "Gunner",
+        "rating": 16.393975683947275,
+        "trainer_id": "aa43658e-5b76-465a-8e40-88525da0addb",
+        "trainer_name": "flounder_ssbu",
+        "result": "win"
+      }
+    },
+    "2024-06-04T23:17:50.774852+00:00": {
+      "this_amiibo": {
+        "rating": 21.418630984349605,
+        "rating_mu": 24.114747591891565,
+        "rating_sigma": 0.8987055358473195,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
+        "id": "63c9daed-f178-4d87-aa3c-794f6b1190b5",
+        "name": "Parasite",
+        "rating": 19.66484151620225,
+        "trainer_id": "aa43658e-5b76-465a-8e40-88525da0addb",
+        "trainer_name": "flounder_ssbu",
+        "result": "win"
+      }
     }
   }
 }

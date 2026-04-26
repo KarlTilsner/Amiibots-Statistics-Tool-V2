@@ -225,6 +225,40 @@
         "trainer_name": "unoptimalprime",
         "result": "win"
       }
+    },
+    "2024-05-23T12:22:09.656531+00:00": {
+      "this_amiibo": {
+        "rating": 11.319045217515736,
+        "rating_mu": 17.94526665320352,
+        "rating_sigma": 2.208740478562595,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "ee1794ce-d228-4d19-a2de-4dd4e276d7c1",
+        "name": "Marf",
+        "rating": 15.57737439422068,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "win"
+      }
+    },
+    "2024-05-30T11:18:13.214346+00:00": {
+      "this_amiibo": {
+        "rating": 10.89971947056435,
+        "rating_mu": 17.270116758605944,
+        "rating_sigma": 2.1234657626805316,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "4be6a18d-791d-4610-9039-ec7dc8dacb62",
+        "name": "Retro Chex",
+        "rating": 12.370944865945916,
+        "trainer_id": "faa68904-0e4b-476e-aa51-b3196f9dac5a",
+        "trainer_name": "daxien13",
+        "result": "win"
+      }
     }
   }
 }
