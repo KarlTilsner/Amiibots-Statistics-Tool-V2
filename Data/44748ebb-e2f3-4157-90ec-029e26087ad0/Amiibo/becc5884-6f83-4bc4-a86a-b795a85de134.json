@@ -1160,6 +1160,40 @@
         "trainer_name": "Azend_1",
         "result": "loss"
       }
+    },
+    "2023-07-11T10:09:04.911340+00:00": {
+      "this_amiibo": {
+        "rating": 33.02612991881569,
+        "rating_mu": 36.2188802741389,
+        "rating_sigma": 1.0642501184410678,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "5a2e614e-afea-41de-a33a-f7d0ec51e7c0",
+        "name": "Space Man",
+        "rating": 32.57241669376344,
+        "trainer_id": "c3fe3b7f-7e85-43c1-9749-435494d5d429",
+        "trainer_name": "CJMaster3",
+        "result": "win"
+      }
+    },
+    "2023-07-17T00:50:43.673647+00:00": {
+      "this_amiibo": {
+        "rating": 32.94152502096558,
+        "rating_mu": 36.11784917120232,
+        "rating_sigma": 1.0587747167455808,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "488068b7-6f9d-47f9-8b96-beb0f08bf866",
+        "name": "$$ Machine",
+        "rating": 35.80256364975063,
+        "trainer_id": "14df9153-bacf-491b-996d-3bbb6a54f05c",
+        "trainer_name": "cambriacotf",
+        "result": "win"
+      }
     }
   }
 }

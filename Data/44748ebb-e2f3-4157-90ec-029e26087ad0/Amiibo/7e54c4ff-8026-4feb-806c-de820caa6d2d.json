@@ -89,6 +89,40 @@
         "trainer_name": "eon_ii",
         "result": "loss"
       }
+    },
+    "2023-07-18T10:39:18.338194+00:00": {
+      "this_amiibo": {
+        "rating": 14.623499570323956,
+        "rating_mu": 24.51488753491207,
+        "rating_sigma": 3.2971293215293715,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "11199e45-62ad-4cff-8e80-98a88ca5b345",
+        "name": "fwoom",
+        "rating": 20.26523611413626,
+        "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+        "trainer_name": "i_guano",
+        "result": "win"
+      }
+    },
+    "2023-07-19T00:26:09.952484+00:00": {
+      "this_amiibo": {
+        "rating": 16.20327720955841,
+        "rating_mu": 25.52057356885658,
+        "rating_sigma": 3.1057654530993895,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "cd00a815-1a66-4add-b078-3ee3b0c7852b",
+        "name": "Blockie",
+        "rating": 12.43326637818205,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "loss"
+      }
     }
   }
 }

@@ -191,6 +191,40 @@
         "trainer_name": "ltvonda",
         "result": "win"
       }
+    },
+    "2023-07-10T05:17:09.117382+00:00": {
+      "this_amiibo": {
+        "rating": 18.44731047535912,
+        "rating_mu": 25.580476588098293,
+        "rating_sigma": 2.3777220375797237,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "fa3be09a-b179-4f88-9ece-f0a76d746cba",
+        "name": "Hydra",
+        "rating": 23.203711768641355,
+        "trainer_id": "fdef585b-96e2-4ebe-93c3-82641f2cefd3",
+        "trainer_name": "yendekai",
+        "result": "loss"
+      }
+    },
+    "2023-07-16T09:59:45.553833+00:00": {
+      "this_amiibo": {
+        "rating": 18.288761953956325,
+        "rating_mu": 25.200677955186784,
+        "rating_sigma": 2.3039720004101536,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "58aabb71-ccd7-4031-b6a1-33359fa7c0f4",
+        "name": "Zelda",
+        "rating": 24.92044737029168,
+        "trainer_id": "7f8b523d-feed-49f6-a608-88bf508984f0",
+        "trainer_name": "SepiksComposite",
+        "result": "win"
+      }
     }
   }
 }

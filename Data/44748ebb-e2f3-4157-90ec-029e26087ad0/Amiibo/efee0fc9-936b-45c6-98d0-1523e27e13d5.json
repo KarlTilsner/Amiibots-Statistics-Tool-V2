@@ -3676,6 +3676,40 @@
         "trainer_name": "van_healsing2",
         "result": "loss"
       }
+    },
+    "2023-07-12T05:51:57.609361+00:00": {
+      "this_amiibo": {
+        "rating": 29.044827753184165,
+        "rating_mu": 31.523693776109518,
+        "rating_sigma": 0.8262886743084508,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "764ee8c0-4a34-48b7-a879-3e3c3513b696",
+        "name": "Thane",
+        "rating": 29.081195062555548,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "win"
+      }
+    },
+    "2023-07-17T00:35:29.346537+00:00": {
+      "this_amiibo": {
+        "rating": 29.134548414871098,
+        "rating_mu": 31.611142721907736,
+        "rating_sigma": 0.8255314356788788,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "d36f37c9-c958-41ba-beff-fff717474905",
+        "name": "Waluigi?",
+        "rating": 28.36253256956179,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "loss"
+      }
     }
   }
 }

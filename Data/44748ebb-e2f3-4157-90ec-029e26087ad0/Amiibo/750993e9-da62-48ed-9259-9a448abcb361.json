@@ -174,6 +174,40 @@
         "trainer_name": "vx_pm3",
         "result": "loss"
       }
+    },
+    "2023-07-12T20:24:52.906041+00:00": {
+      "this_amiibo": {
+        "rating": 15.437384304351859,
+        "rating_mu": 23.396400858907366,
+        "rating_sigma": 2.6530055181851693,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "a6126edc-3e31-4a0c-a404-9180a7de2a83",
+        "name": "Arrodes",
+        "rating": 18.83859941980647,
+        "trainer_id": "dd0f3778-cdcb-4c39-9401-8c35d4116745",
+        "trainer_name": "ZEgg87",
+        "result": "win"
+      }
+    },
+    "2023-07-18T09:39:09.656534+00:00": {
+      "this_amiibo": {
+        "rating": 16.77762929532551,
+        "rating_mu": 24.29969687991675,
+        "rating_sigma": 2.5073558615304132,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "4af7ee13-4713-4ee6-90fc-1f3329590b59",
+        "name": "Red Pepper",
+        "rating": 21.161861445069263,
+        "trainer_id": "4f6f55b1-cf3e-4c7b-a378-2641d72fcf23",
+        "trainer_name": "TheLimpWalrus",
+        "result": "loss"
+      }
     }
   }
 }

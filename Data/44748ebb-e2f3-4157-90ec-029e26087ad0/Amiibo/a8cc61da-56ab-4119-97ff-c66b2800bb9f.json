@@ -55,6 +55,23 @@
         "trainer_name": "cmdpromptcat",
         "result": "loss"
       }
+    },
+    "2023-07-15T08:35:20.314185+00:00": {
+      "this_amiibo": {
+        "rating": 12.345497400867012,
+        "rating_mu": 24.173154650129714,
+        "rating_sigma": 3.9425524164209005,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "e0959e28-937b-4276-b57b-3a018ae97449",
+        "name": "MegaMewtwo",
+        "rating": 22.008026502116714,
+        "trainer_id": "e819f7ca-4d21-4e94-8e30-7edff2b94fc5",
+        "trainer_name": "DogBoyton",
+        "result": "win"
+      }
     }
   }
 }

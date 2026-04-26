@@ -1500,6 +1500,40 @@
         "trainer_name": "Salty_Smash_NB",
         "result": "loss"
       }
+    },
+    "2023-07-06T01:38:08.218105+00:00": {
+      "this_amiibo": {
+        "rating": 25.48544207596767,
+        "rating_mu": 28.376616338145986,
+        "rating_sigma": 0.9637247540594392,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "08b9597f-9ecf-4e87-abec-89f2bed084fb",
+        "name": "Le Pain",
+        "rating": 26.3206444043106,
+        "trainer_id": "1b7fd0cc-6291-4aec-8e38-1c8b460ed1f0",
+        "trainer_name": "thegreatspez",
+        "result": "win"
+      }
+    },
+    "2023-07-16T21:55:45.402703+00:00": {
+      "this_amiibo": {
+        "rating": 25.601209937676824,
+        "rating_mu": 28.485213529633114,
+        "rating_sigma": 0.961334530652097,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "5eb1830e-f592-4244-a3bb-35e5cc3edb3e",
+        "name": "Fromaj",
+        "rating": 17.182512658400157,
+        "trainer_id": "6dc742b4-3fe4-4c3a-8d77-81dde5ea3025",
+        "trainer_name": "ShiiroNekowo",
+        "result": "loss"
+      }
     }
   }
 }

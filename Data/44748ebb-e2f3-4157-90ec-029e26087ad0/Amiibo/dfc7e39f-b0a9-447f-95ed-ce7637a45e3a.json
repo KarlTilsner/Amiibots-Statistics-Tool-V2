@@ -191,6 +191,40 @@
         "trainer_name": "eripai",
         "result": "win"
       }
+    },
+    "2023-07-14T22:30:45.129410+00:00": {
+      "this_amiibo": {
+        "rating": 19.946045119179693,
+        "rating_mu": 26.928228618804134,
+        "rating_sigma": 2.327394499874813,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "90de89e6-e389-451b-8ad7-355eb5c5ca38",
+        "name": "Puyo Puyo",
+        "rating": 23.00947389647404,
+        "trainer_id": "f15712ec-1029-4da4-b09b-8c5e7f335f7b",
+        "trainer_name": "0underscore",
+        "result": "win"
+      }
+    },
+    "2023-07-16T17:10:42.018435+00:00": {
+      "this_amiibo": {
+        "rating": 19.582851439359718,
+        "rating_mu": 26.296240929917904,
+        "rating_sigma": 2.2377964968527286,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "bb5925b8-c28d-4ae4-a00a-aa57ae180129",
+        "name": "side b",
+        "rating": 21.57680385500762,
+        "trainer_id": "8e290d89-5484-46ab-b222-914c45b7b11c",
+        "trainer_name": "pixel_gunners",
+        "result": "win"
+      }
     }
   }
 }

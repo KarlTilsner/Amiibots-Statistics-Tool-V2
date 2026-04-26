@@ -1,7 +1,7 @@
 {
   "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
   "id": "287ff9e7-22de-431c-a90c-3e4a97150a61",
-  "name": "Lemonboy",
+  "name": "Raito",
   "trainer_id": "bfad19fb-da3c-4e8d-9a7e-2c1ccc84bbcc",
   "trainer_name": "tmiibo",
   "matches": {
@@ -20,6 +20,40 @@
         "trainer_id": "b544d815-0b43-4e1d-9cc5-10064d77c3e7",
         "trainer_name": "qt1ppy",
         "result": "win"
+      }
+    },
+    "2023-07-12T04:52:42.723697+00:00": {
+      "this_amiibo": {
+        "rating": 13.876436402877733,
+        "rating_mu": 28.65193548792907,
+        "rating_sigma": 4.925166361683779,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+        "id": "3ec524b0-202d-45b1-935f-e0f4841316af",
+        "name": "LaVidaLoca",
+        "rating": 0.1191071078045276,
+        "trainer_id": "4fb503b0-bb7e-4351-a746-e2b49845f49a",
+        "trainer_name": "dabuffalo457",
+        "result": "loss"
+      }
+    },
+    "2023-07-12T03:44:00.488640+00:00": {
+      "this_amiibo": {
+        "rating": 11.182768981424019,
+        "rating_mu": 26.981997716862757,
+        "rating_sigma": 5.266409578479579,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "57f91612-cbae-4bf3-af80-0dde19980f42",
+        "name": "Flacker",
+        "rating": 21.517602371229675,
+        "trainer_id": "c5656c48-9de7-4566-91a6-45c834e63cf9",
+        "trainer_name": "netsyyy",
+        "result": "loss"
       }
     }
   }

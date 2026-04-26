@@ -871,6 +871,40 @@
         "trainer_name": "deante_ssb",
         "result": "loss"
       }
+    },
+    "2023-07-07T22:34:48.880544+00:00": {
+      "this_amiibo": {
+        "rating": 27.75495873582087,
+        "rating_mu": 31.25944325274627,
+        "rating_sigma": 1.1681615056417993,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "a09b7921-0df6-42dc-afc8-1d30a9b1c509",
+        "name": "Hal",
+        "rating": 28.115267504895762,
+        "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
+        "trainer_name": "schmorchid",
+        "result": "win"
+      }
+    },
+    "2023-07-13T06:10:54.899121+00:00": {
+      "this_amiibo": {
+        "rating": 27.962939599727836,
+        "rating_mu": 31.434939763439832,
+        "rating_sigma": 1.1573333879039989,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "242d1f19-e6b3-4be8-9d8c-a4b28d6e614e",
+        "name": "Mike Hunt",
+        "rating": 28.37217951411714,
+        "trainer_id": "001c3b1a-bb0b-4c08-b8a9-5abd62c7cef7",
+        "trainer_name": "joeyfaphone",
+        "result": "loss"
+      }
     }
   }
 }

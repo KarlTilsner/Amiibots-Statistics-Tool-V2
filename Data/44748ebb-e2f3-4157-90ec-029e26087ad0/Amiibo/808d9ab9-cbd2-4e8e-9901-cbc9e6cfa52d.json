@@ -242,6 +242,40 @@
         "trainer_name": "fake_l3af",
         "result": "loss"
       }
+    },
+    "2023-07-07T17:09:10.404646+00:00": {
+      "this_amiibo": {
+        "rating": 10.162208343419778,
+        "rating_mu": 16.69291038121475,
+        "rating_sigma": 2.1769006792649916,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "1074b055-0966-4cc8-bed4-d97434b3dfe6",
+        "name": "Smooth man",
+        "rating": 8.070686318874792,
+        "trainer_id": "2449752e-dba5-4319-82a0-3463ed6750fd",
+        "trainer_name": "the_definitive_mick",
+        "result": "loss"
+      }
+    },
+    "2023-07-11T02:24:37.059748+00:00": {
+      "this_amiibo": {
+        "rating": 9.668920596917163,
+        "rating_mu": 15.929095179257429,
+        "rating_sigma": 2.086724860780089,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "324f1147-6e7c-402a-87d7-7b41d1e2651d",
+        "name": "agent 007",
+        "rating": 11.710441308263562,
+        "trainer_id": "2dc27fd0-46aa-452d-87bf-a07832523ee5",
+        "trainer_name": "me_694",
+        "result": "win"
+      }
     }
   }
 }

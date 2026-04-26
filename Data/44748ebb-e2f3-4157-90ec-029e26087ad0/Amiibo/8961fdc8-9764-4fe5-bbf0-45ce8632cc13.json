@@ -123,6 +123,40 @@
         "trainer_name": "fake_l3af",
         "result": "loss"
       }
+    },
+    "2023-07-07T11:58:52.854867+00:00": {
+      "this_amiibo": {
+        "rating": 6.697090763041242,
+        "rating_mu": 15.88424309608715,
+        "rating_sigma": 3.062384111015303,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "6836f710-281d-4f87-a7ca-96682bf33a2c",
+        "name": "Tonberry",
+        "rating": 14.715025237884298,
+        "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
+        "trainer_name": "Murbert_AM",
+        "result": "win"
+      }
+    },
+    "2023-07-17T03:48:47.254258+00:00": {
+      "this_amiibo": {
+        "rating": 8.359597930088777,
+        "rating_mu": 16.956744991537953,
+        "rating_sigma": 2.8657156871497254,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+        "id": "c45e4cda-9ef3-47a2-b69c-b4a3741d4bea",
+        "name": "GoldFreddy",
+        "rating": 9.940574800464029,
+        "trainer_id": "16484274-0bf1-42ca-8003-5797b387bdc5",
+        "trainer_name": "Denneylaw83",
+        "result": "loss"
+      }
     }
   }
 }
