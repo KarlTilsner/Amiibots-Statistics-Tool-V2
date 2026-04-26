@@ -667,6 +667,57 @@
         "trainer_name": "mafriel",
         "result": "win"
       }
+    },
+    "2023-09-08T02:45:42.210024+00:00": {
+      "this_amiibo": {
+        "rating": 33.24142142140316,
+        "rating_mu": 37.14679625062386,
+        "rating_sigma": 1.3017916097402322,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "d02fbfc4-b6db-4538-9e46-9ef643ae8627",
+        "name": "Claude",
+        "rating": 32.72126450543902,
+        "trainer_id": "e60803e1-d2e2-4f63-af89-61a4b79fe518",
+        "trainer_name": "Eclaume",
+        "result": "loss"
+      }
+    },
+    "2023-09-08T22:09:49.179338+00:00": {
+      "this_amiibo": {
+        "rating": 33.07226287215809,
+        "rating_mu": 36.928598559226884,
+        "rating_sigma": 1.2854452290229301,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "32b28ce9-d423-4482-9270-8b7c25945648",
+        "name": "Yzeria",
+        "rating": 34.954343075866625,
+        "trainer_id": "57b78886-3962-42ea-9e7d-7091b402d1e6",
+        "trainer_name": "HexLunare",
+        "result": "win"
+      }
+    },
+    "2023-09-19T10:53:41.024999+00:00": {
+      "this_amiibo": {
+        "rating": 33.315249942352146,
+        "rating_mu": 37.13273183054975,
+        "rating_sigma": 1.2724939627325347,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "0eaaeb75-84fb-4f5a-895a-3842a7979a20",
+        "name": "G.Wolf",
+        "rating": 28.274788363956272,
+        "trainer_id": "80f98683-a318-47dd-bcf2-93f67d0878d4",
+        "trainer_name": "Sir_Dragonite",
+        "result": "loss"
+      }
     }
   }
 }

@@ -1398,6 +1398,57 @@
         "trainer_name": "MiDe1",
         "result": "win"
       }
+    },
+    "2023-09-06T13:52:10.153104+00:00": {
+      "this_amiibo": {
+        "rating": 23.33788428062062,
+        "rating_mu": 26.40945608642761,
+        "rating_sigma": 1.0238572686023302,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "5cbdfa78-ab41-4bca-9446-5421c9af38e9",
+        "name": "over truth",
+        "rating": 0.793425521417852,
+        "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+        "trainer_name": "i_guano",
+        "result": "loss"
+      }
+    },
+    "2023-09-12T03:19:36.581950+00:00": {
+      "this_amiibo": {
+        "rating": 23.21962516937767,
+        "rating_mu": 26.27787573868253,
+        "rating_sigma": 1.0194168564349522,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "95e14055-fa1e-46ea-8d94-a2d6dd3c84d1",
+        "name": "Duhbuffalo",
+        "rating": 18.60239859054107,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "joah_22",
+        "result": "win"
+      }
+    },
+    "2023-09-14T08:46:40.027260+00:00": {
+      "this_amiibo": {
+        "rating": 23.129921278309965,
+        "rating_mu": 26.188244401724944,
+        "rating_sigma": 1.0194410411383261,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "a6f6f414-6392-4a2b-ab7f-07313bd1ecfc",
+        "name": "over truth",
+        "rating": 12.200237773619186,
+        "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+        "trainer_name": "i_guano",
+        "result": "win"
+      }
     }
   }
 }

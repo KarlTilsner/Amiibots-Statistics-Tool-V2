@@ -1687,6 +1687,57 @@
         "trainer_name": "early_mp",
         "result": "loss"
       }
+    },
+    "2023-09-05T20:39:07.512180+00:00": {
+      "this_amiibo": {
+        "rating": 27.521495508025247,
+        "rating_mu": 30.41567068379765,
+        "rating_sigma": 0.9647250585908005,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "99b9953a-1624-46e2-870d-312592836dc5",
+        "name": "Lily XI□",
+        "rating": 23.356424170698396,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "win"
+      }
+    },
+    "2023-09-07T01:47:05.977021+00:00": {
+      "this_amiibo": {
+        "rating": 27.419907967190735,
+        "rating_mu": 30.303977403724343,
+        "rating_sigma": 0.9613564788445357,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
+        "id": "12328ccf-8fa3-4a01-ac4e-2a1258b74fb5",
+        "name": "AmandaQuin",
+        "rating": 24.862740998037083,
+        "trainer_id": "05d732e5-ae03-4388-bb8a-ab18b609327e",
+        "trainer_name": "eriikuun",
+        "result": "win"
+      }
+    },
+    "2023-09-13T06:09:15.123473+00:00": {
+      "this_amiibo": {
+        "rating": 27.532669764419975,
+        "rating_mu": 30.405878549616766,
+        "rating_sigma": 0.9577362617322636,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "1bcc6d87-5661-40e1-a223-74a68fba6abc",
+        "name": "dαηει",
+        "rating": 26.092128723544544,
+        "trainer_id": "777d12f5-fc42-4921-adbb-e0038cb093e2",
+        "trainer_name": "Halyaran",
+        "result": "loss"
+      }
     }
   }
 }

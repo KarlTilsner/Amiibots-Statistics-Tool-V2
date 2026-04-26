@@ -157,6 +157,40 @@
         "trainer_name": "HyperKritical",
         "result": "loss"
       }
+    },
+    "2023-09-12T01:23:06.875047+00:00": {
+      "this_amiibo": {
+        "rating": 27.62615709728299,
+        "rating_mu": 36.05154124586484,
+        "rating_sigma": 2.808461382860617,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "91a59a3a-a97f-4b0f-bb86-6bc8bd9694ca",
+        "name": "\"Queen\"",
+        "rating": 29.383495533569608,
+        "trainer_id": "e09adf1e-56b7-4943-891c-141f18d440fc",
+        "trainer_name": "gold_dxj",
+        "result": "loss"
+      }
+    },
+    "2023-09-19T23:25:59.637111+00:00": {
+      "this_amiibo": {
+        "rating": 27.2135038043199,
+        "rating_mu": 35.15461626055802,
+        "rating_sigma": 2.647037485412708,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "8589ec1d-cbcc-4838-b4a7-c894a845cc9b",
+        "name": "Shrek",
+        "rating": 33.874352452144855,
+        "trainer_id": "8a479357-a5de-4f56-8700-0d1a85c3d46b",
+        "trainer_name": "OmenApproaching",
+        "result": "win"
+      }
     }
   }
 }

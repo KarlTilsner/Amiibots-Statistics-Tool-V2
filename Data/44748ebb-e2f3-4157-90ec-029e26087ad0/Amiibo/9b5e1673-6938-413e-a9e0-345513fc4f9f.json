@@ -854,6 +854,74 @@
         "trainer_name": "R_OfAzure_7",
         "result": "loss"
       }
+    },
+    "2023-09-06T11:54:11.225059+00:00": {
+      "this_amiibo": {
+        "rating": 21.88823989167792,
+        "rating_mu": 25.69554491801029,
+        "rating_sigma": 1.2691016754441236,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "40c02828-b0b7-4370-b5ce-afd5d6eb6908",
+        "name": "Ivysaur",
+        "rating": 18.96084826566605,
+        "trainer_id": "48c90d50-5b56-408c-a5c4-4c038ceeb83b",
+        "trainer_name": "kame707",
+        "result": "win"
+      }
+    },
+    "2023-09-08T20:21:04.304012+00:00": {
+      "this_amiibo": {
+        "rating": 22.23041641925158,
+        "rating_mu": 25.985619567672064,
+        "rating_sigma": 1.2517343828068284,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "574d8c4d-d50e-4d46-a592-8b6fd0ccdfa3",
+        "name": "shelf",
+        "rating": 25.481424261776944,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HD_ssbu",
+        "result": "loss"
+      }
+    },
+    "2023-09-09T21:06:53.401589+00:00": {
+      "this_amiibo": {
+        "rating": 22.352946874043358,
+        "rating_mu": 26.08719194812902,
+        "rating_sigma": 1.244748358028554,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "a538af45-24e3-4cd5-b466-6d77b5c8f95c",
+        "name": "inky",
+        "rating": 10.877360743249483,
+        "trainer_id": "e08d6faa-72d0-4877-8f90-059f5bf2b788",
+        "trainer_name": "epicblobinator",
+        "result": "loss"
+      }
+    },
+    "2023-09-19T06:10:32.110638+00:00": {
+      "this_amiibo": {
+        "rating": 22.612993891690575,
+        "rating_mu": 26.304835467991353,
+        "rating_sigma": 1.2306138587669258,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "917a1b99-27c1-4179-838b-deff492c1319",
+        "name": "Neglected",
+        "rating": 22.59506640092254,
+        "trainer_id": "d7ccdd97-5fb5-4c6f-bc15-02ef79e769ef",
+        "trainer_name": "DEADSKULLZ31",
+        "result": "loss"
+      }
     }
   }
 }

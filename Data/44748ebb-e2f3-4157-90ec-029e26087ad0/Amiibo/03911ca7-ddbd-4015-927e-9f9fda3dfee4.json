@@ -2435,6 +2435,40 @@
         "trainer_name": "deante_ssb",
         "result": "loss"
       }
+    },
+    "2023-09-08T07:03:03.673583+00:00": {
+      "this_amiibo": {
+        "rating": 22.703488094770172,
+        "rating_mu": 25.41333143395015,
+        "rating_sigma": 0.9032811130599928,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "1693265a-1ede-402b-85ee-05cb5960260b",
+        "name": "Ninten",
+        "rating": 20.71453131732821,
+        "trainer_id": "333ada9d-112d-469a-8a26-320358969432",
+        "trainer_name": "smashssf2_ita",
+        "result": "win"
+      }
+    },
+    "2023-09-10T15:54:16.108483+00:00": {
+      "this_amiibo": {
+        "rating": 22.797591340212282,
+        "rating_mu": 25.50264292780051,
+        "rating_sigma": 0.9016838625294088,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "1dfca577-e062-42df-ba63-f90a074e2717",
+        "name": "Ganondorf",
+        "rating": 16.840264528685655,
+        "trainer_id": "d9bb833a-51cc-4f70-8990-d4d829feaf76",
+        "trainer_name": "coolio123",
+        "result": "loss"
+      }
     }
   }
 }

@@ -973,6 +973,40 @@
         "trainer_name": "0underscore",
         "result": "win"
       }
+    },
+    "2023-09-14T10:10:22.506595+00:00": {
+      "this_amiibo": {
+        "rating": 27.209172011735543,
+        "rating_mu": 30.665895221938985,
+        "rating_sigma": 1.152241070067814,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "18f50b51-9760-4f59-954a-809a13386b84",
+        "name": "Kouga",
+        "rating": 26.68825119009918,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2023-09-19T10:03:03.659342+00:00": {
+      "this_amiibo": {
+        "rating": 27.088372406706736,
+        "rating_mu": 30.526302070640117,
+        "rating_sigma": 1.1459765546444607,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "541ea847-828c-46f1-85f2-540e374ea05c",
+        "name": "I♥Pyra",
+        "rating": 22.106033618986306,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "win"
+      }
     }
   }
 }

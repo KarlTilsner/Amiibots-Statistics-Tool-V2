@@ -2214,6 +2214,40 @@
         "trainer_name": "brain_dread",
         "result": "win"
       }
+    },
+    "2023-09-10T04:45:45.563613+00:00": {
+      "this_amiibo": {
+        "rating": 23.343390955485074,
+        "rating_mu": 26.008601308236297,
+        "rating_sigma": 0.8884034509170742,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "333169a7-c6a1-474c-b1d1-fb51025b2858",
+        "name": "Everest",
+        "rating": 23.26326202148529,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "loss"
+      }
+    },
+    "2023-09-14T04:06:52.947679+00:00": {
+      "this_amiibo": {
+        "rating": 23.244118242500335,
+        "rating_mu": 25.902858303488163,
+        "rating_sigma": 0.886246686995943,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "d72989f9-9129-41e1-bc83-a8c706f9a588",
+        "name": "Raye",
+        "rating": 21.64755338015063,
+        "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
+        "trainer_name": "CikadaKing",
+        "result": "win"
+      }
     }
   }
 }

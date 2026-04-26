@@ -616,6 +616,57 @@
         "trainer_name": "netsyyy",
         "result": "win"
       }
+    },
+    "2023-09-07T08:35:19.022304+00:00": {
+      "this_amiibo": {
+        "rating": 19.49297548015858,
+        "rating_mu": 24.092591970517628,
+        "rating_sigma": 1.5332054967863489,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "084650b7-5b3d-4350-97c0-42366fdd5817",
+        "name": "AgentBOMBS",
+        "rating": 19.494828834180144,
+        "trainer_id": "3c2659e1-5fee-4b6b-98e3-594aec223a09",
+        "trainer_name": "brain_dread",
+        "result": "loss"
+      }
+    },
+    "2023-09-11T23:30:10.882098+00:00": {
+      "this_amiibo": {
+        "rating": 19.348077767650977,
+        "rating_mu": 23.922924566672602,
+        "rating_sigma": 1.5249489330072088,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "78233e9d-8961-40b1-aa37-e7b73d74c4c5",
+        "name": "CHERRYBOMB",
+        "rating": 10.668478947053757,
+        "trainer_id": "05d732e5-ae03-4388-bb8a-ab18b609327e",
+        "trainer_name": "eriikuun",
+        "result": "win"
+      }
+    },
+    "2023-09-13T08:24:28.099913+00:00": {
+      "this_amiibo": {
+        "rating": 19.20653711916897,
+        "rating_mu": 23.757340776672844,
+        "rating_sigma": 1.5169345525012912,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
+        "id": "7ebf9663-9a9a-4bce-8e4b-59491681ef21",
+        "name": "Seraphim",
+        "rating": 10.562830993268864,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "win"
+      }
     }
   }
 }

@@ -2299,6 +2299,40 @@
         "trainer_name": "Azend_1",
         "result": "loss"
       }
+    },
+    "2023-09-05T06:54:19.619922+00:00": {
+      "this_amiibo": {
+        "rating": 29.78001221276042,
+        "rating_mu": 32.35375374910764,
+        "rating_sigma": 0.8579138454490742,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "f677e717-4b4a-4797-bfeb-7e813b23fb55",
+        "name": "Karate Kid",
+        "rating": 29.669650308009746,
+        "trainer_id": "8e8afc6d-1590-4f28-b835-2f4617b43e85",
+        "trainer_name": "ben_boy07",
+        "result": "win"
+      }
+    },
+    "2023-09-12T23:50:53.431616+00:00": {
+      "this_amiibo": {
+        "rating": 29.880907655540295,
+        "rating_mu": 32.45004991400956,
+        "rating_sigma": 0.856380752823089,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "d825a857-8b4c-435a-ab84-e3551a3c899f",
+        "name": "IKEA",
+        "rating": 29.21936195348975,
+        "trainer_id": "64dcc1aa-182c-41a1-b9a4-98ea5dcffefb",
+        "trainer_name": "5chl4uch",
+        "result": "loss"
+      }
     }
   }
 }

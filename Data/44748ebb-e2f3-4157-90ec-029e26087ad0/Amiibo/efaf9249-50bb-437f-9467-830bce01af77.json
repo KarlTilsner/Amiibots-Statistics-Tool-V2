@@ -922,6 +922,40 @@
         "trainer_name": "random_fire",
         "result": "loss"
       }
+    },
+    "2023-09-06T18:27:32.568127+00:00": {
+      "this_amiibo": {
+        "rating": 34.381344211032406,
+        "rating_mu": 37.78083656317074,
+        "rating_sigma": 1.1331641173794433,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "9f8adcf5-2935-4c28-b680-5e154573cacc",
+        "name": "Power",
+        "rating": 35.885247620086034,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "win"
+      }
+    },
+    "2023-09-16T02:13:48.281945+00:00": {
+      "this_amiibo": {
+        "rating": 34.57362635892156,
+        "rating_mu": 37.94537395967778,
+        "rating_sigma": 1.1239158669187417,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "30fe0592-c0b3-42c1-a34e-28c4c55261ff",
+        "name": "Stouffer's",
+        "rating": 33.40167777340662,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "loss"
+      }
     }
   }
 }

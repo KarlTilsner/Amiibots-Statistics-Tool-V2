@@ -446,6 +446,40 @@
         "trainer_name": "doopfizzle",
         "result": "win"
       }
+    },
+    "2023-09-07T04:17:44.459515+00:00": {
+      "this_amiibo": {
+        "rating": 26.58392435075779,
+        "rating_mu": 31.29158344791204,
+        "rating_sigma": 1.5692196990514162,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "064a55a6-6e1e-49b5-8890-2ab2eb84646c",
+        "name": "SterGameX",
+        "rating": 28.279492411425146,
+        "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
+        "trainer_name": "YM44",
+        "result": "loss"
+      }
+    },
+    "2023-09-15T02:39:32.471733+00:00": {
+      "this_amiibo": {
+        "rating": 26.34717596653513,
+        "rating_mu": 30.962414074831766,
+        "rating_sigma": 1.5384127027655454,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "d31c4ca2-a473-4451-bfda-714b65abe98c",
+        "name": "Pauly Tina",
+        "rating": 27.969038322984034,
+        "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
+        "trainer_name": "YM44",
+        "result": "win"
+      }
     }
   }
 }

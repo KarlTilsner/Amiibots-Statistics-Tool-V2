@@ -55,6 +55,40 @@
         "trainer_name": "pfpickles",
         "result": "loss"
       }
+    },
+    "2023-09-10T23:59:23.594897+00:00": {
+      "this_amiibo": {
+        "rating": 5.808123118808542,
+        "rating_mu": 19.81568203503343,
+        "rating_sigma": 4.669186305408296,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "4f1092cd-5611-4024-8ab6-b5e423526c00",
+        "name": "Paarthunax",
+        "rating": 7.787532304370128,
+        "trainer_id": "29f4ae36-929e-45ee-8656-f69c6f6ed635",
+        "trainer_name": "ThatHouseFace",
+        "result": "win"
+      }
+    },
+    "2023-09-13T10:09:29.286806+00:00": {
+      "this_amiibo": {
+        "rating": 9.919812016772884,
+        "rating_mu": 22.117437429972654,
+        "rating_sigma": 4.065875137733257,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "d89a2a84-362a-4a3d-ae69-3ddbb37e84ff",
+        "name": "Echo NEO",
+        "rating": 16.896658064757048,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "loss"
+      }
     }
   }
 }
