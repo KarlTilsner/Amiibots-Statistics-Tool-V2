@@ -1738,6 +1738,40 @@
         "trainer_name": "g01n4br0k3",
         "result": "loss"
       }
+    },
+    "2024-03-10T03:17:27.328114+00:00": {
+      "this_amiibo": {
+        "rating": 30.569979285944807,
+        "rating_mu": 33.37219920253517,
+        "rating_sigma": 0.9340733055301215,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7",
+        "id": "7ec47638-7c89-44a3-9eb4-310411aee910",
+        "name": "SB Willie",
+        "rating": 28.358181489369876,
+        "trainer_id": "8e8afc6d-1590-4f28-b835-2f4617b43e85",
+        "trainer_name": "PD_Dominator",
+        "result": "loss"
+      }
+    },
+    "2024-03-16T09:27:20.364468+00:00": {
+      "this_amiibo": {
+        "rating": 30.480753370448184,
+        "rating_mu": 33.281622059424876,
+        "rating_sigma": 0.9336228963255637,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7",
+        "id": "e848965a-7463-433d-9f3f-51d322a7c511",
+        "name": "OpenAI",
+        "rating": 22.44443405920362,
+        "trainer_id": "3fae9fa9-ab8c-4d57-b705-2b88e9d7aed7",
+        "trainer_name": "burnt_cumpy",
+        "result": "win"
+      }
     }
   }
 }

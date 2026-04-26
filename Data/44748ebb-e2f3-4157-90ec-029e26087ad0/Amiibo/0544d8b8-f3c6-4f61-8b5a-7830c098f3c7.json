@@ -2180,6 +2180,40 @@
         "trainer_name": "smashssf2_ita",
         "result": "loss"
       }
+    },
+    "2024-03-06T21:22:42.942266+00:00": {
+      "this_amiibo": {
+        "rating": 32.56472710154693,
+        "rating_mu": 35.09792099903434,
+        "rating_sigma": 0.844397965829139,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "f2f228c0-0c93-4f96-8523-b9822a4645fc",
+        "name": "Zeruda",
+        "rating": 28.676352545292776,
+        "trainer_id": "4cbdf68d-3ad0-4927-b0d8-a003b43a7033",
+        "trainer_name": "YM44",
+        "result": "loss"
+      }
+    },
+    "2024-03-06T19:52:48.109819+00:00": {
+      "this_amiibo": {
+        "rating": 32.50318636849911,
+        "rating_mu": 35.037003705976794,
+        "rating_sigma": 0.8446057791592275,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "402affe7-6953-4500-9353-38931d7fa52e",
+        "name": "Peaches",
+        "rating": 34.28409088785099,
+        "trainer_id": "53896979-5101-45ab-a6e5-c7aff20e0f12",
+        "trainer_name": "Grapeist",
+        "result": "win"
+      }
     }
   }
 }

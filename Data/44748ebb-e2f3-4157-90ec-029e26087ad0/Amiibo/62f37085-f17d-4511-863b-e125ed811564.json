@@ -4713,6 +4713,40 @@
         "trainer_name": "PD_Dominator",
         "result": "loss"
       }
+    },
+    "2024-03-08T10:10:58.513350+00:00": {
+      "this_amiibo": {
+        "rating": 28.74189453130576,
+        "rating_mu": 31.189602915754968,
+        "rating_sigma": 0.8159027948164028,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7",
+        "id": "5d022fb1-6ddb-4676-8e2f-6a121f376c0b",
+        "name": "Rogier",
+        "rating": 32.12626121327348,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "win"
+      }
+    },
+    "2024-03-10T15:00:41.389359+00:00": {
+      "this_amiibo": {
+        "rating": 28.65992804179753,
+        "rating_mu": 31.106271622749183,
+        "rating_sigma": 0.8154478603172175,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "9d83eb09-ee04-459a-9201-4d42ebcc6dfd",
+        "name": "Dr.Livesey",
+        "rating": 28.780711052616766,
+        "trainer_id": "259c6c07-f590-4aba-8069-85a64f78c6f3",
+        "trainer_name": "massivmann",
+        "result": "win"
+      }
     }
   }
 }

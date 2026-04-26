@@ -1993,6 +1993,57 @@
         "trainer_name": "bluerunner0",
         "result": "loss"
       }
+    },
+    "2024-03-08T08:27:42.449002+00:00": {
+      "this_amiibo": {
+        "rating": 30.57887132663594,
+        "rating_mu": 33.20570659955507,
+        "rating_sigma": 0.87561175763971,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+        "id": "7d4737e2-7e18-4295-afc1-5c6e27854ccc",
+        "name": "Bonjo",
+        "rating": 30.17119263615195,
+        "trainer_id": "1fe74399-3119-43e4-82c7-8b574e5a5ace",
+        "trainer_name": "Esvee",
+        "result": "win"
+      }
+    },
+    "2024-03-11T04:18:05.950075+00:00": {
+      "this_amiibo": {
+        "rating": 30.68622937624187,
+        "rating_mu": 33.307005884833885,
+        "rating_sigma": 0.8735921695306725,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "bc8c0ec7-f7ab-426e-866e-58e55d49a83f",
+        "name": "Dyne-t-rex",
+        "rating": 30.588013986038504,
+        "trainer_id": "2f91b438-99d4-4966-b002-9a9b4dbfaf92",
+        "trainer_name": "Klerpy",
+        "result": "loss"
+      }
+    },
+    "2024-03-11T18:35:50.803666+00:00": {
+      "this_amiibo": {
+        "rating": 30.596588263281603,
+        "rating_mu": 33.21271286253906,
+        "rating_sigma": 0.8720415330858181,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "a37a5178-580c-47f9-a748-3e24b5e642f3",
+        "name": "Neosys",
+        "rating": 29.18468741898328,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
     }
   }
 }

@@ -769,6 +769,40 @@
         "trainer_name": "sst_bearslayer",
         "result": "loss"
       }
+    },
+    "2024-03-08T12:23:44.023886+00:00": {
+      "this_amiibo": {
+        "rating": 32.03122625637591,
+        "rating_mu": 35.56706775546672,
+        "rating_sigma": 1.1786138330302696,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "6aede22c-2ffa-45a3-a332-98b3f9a2091b",
+        "name": "Malboro",
+        "rating": 32.53839798793444,
+        "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
+        "trainer_name": "Murbert_AM",
+        "result": "loss"
+      }
+    },
+    "2024-03-08T18:49:24.748485+00:00": {
+      "this_amiibo": {
+        "rating": 31.868362221740785,
+        "rating_mu": 35.36849277145994,
+        "rating_sigma": 1.166710183239719,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "6aede22c-2ffa-45a3-a332-98b3f9a2091b",
+        "name": "Malboro",
+        "rating": 32.63366311882201,
+        "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
+        "trainer_name": "Murbert_AM",
+        "result": "win"
+      }
     }
   }
 }

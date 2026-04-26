@@ -1126,6 +1126,40 @@
         "trainer_name": "leCharade",
         "result": "loss"
       }
+    },
+    "2024-03-08T07:42:17.613602+00:00": {
+      "this_amiibo": {
+        "rating": 18.23499443652786,
+        "rating_mu": 21.462167973360835,
+        "rating_sigma": 1.0757245122776586,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
+        "id": "b8aaefc6-34e3-4ac4-984d-6a95da65b43a",
+        "name": "C.Sinclair",
+        "rating": 9.13882426006355,
+        "trainer_id": "f37e5d44-4a88-41c0-a6e5-46864400c9e3",
+        "trainer_name": "ltvonda",
+        "result": "win"
+      }
+    },
+    "2024-03-13T05:09:05.933419+00:00": {
+      "this_amiibo": {
+        "rating": 18.153827507382974,
+        "rating_mu": 21.364082963165536,
+        "rating_sigma": 1.070085151927521,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "3ae8cc21-7cff-4ddd-9862-9e7fb320e4d7",
+        "name": "Aegislash",
+        "rating": 22.058165160381844,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
     }
   }
 }

@@ -242,6 +242,74 @@
         "trainer_name": "track8regret",
         "result": "win"
       }
+    },
+    "2024-03-06T15:39:16.232946+00:00": {
+      "this_amiibo": {
+        "rating": 13.253184529714215,
+        "rating_mu": 19.775743315568118,
+        "rating_sigma": 2.174186261951301,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "eac62453-ebfc-4e40-a486-9cdea665e132",
+        "name": "Colby",
+        "rating": 14.072129766980579,
+        "trainer_id": "479b93ff-1d93-4e65-88c9-8cbfff7e08fc",
+        "trainer_name": "SquallDBC",
+        "result": "loss"
+      }
+    },
+    "2024-03-15T11:12:55.215943+00:00": {
+      "this_amiibo": {
+        "rating": 13.387070649773193,
+        "rating_mu": 19.627268660957395,
+        "rating_sigma": 2.080066003728067,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "e1d1dd56-f7fd-4275-8810-35c17dbed3c2",
+        "name": "Kawaguchi",
+        "rating": 8.608174108475875,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "win"
+      }
+    },
+    "2024-03-15T08:02:46.824792+00:00": {
+      "this_amiibo": {
+        "rating": 13.799356643976537,
+        "rating_mu": 20.203122704297893,
+        "rating_sigma": 2.1345886867737853,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "e1d1dd56-f7fd-4275-8810-35c17dbed3c2",
+        "name": "Kawaguchi",
+        "rating": 0.3969528631910144,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "loss"
+      }
+    },
+    "2024-03-16T04:09:43.058309+00:00": {
+      "this_amiibo": {
+        "rating": 12.96974716011292,
+        "rating_mu": 19.009703616740868,
+        "rating_sigma": 2.0133188188759825,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "e7265a2f-871e-4811-a197-7fbcf10060ed",
+        "name": "RoboRiddle",
+        "rating": 11.327189296002182,
+        "trainer_id": "a6dca736-6554-4aaa-ad48-3cba91aa92bb",
+        "trainer_name": "unskilledplayer0192",
+        "result": "win"
+      }
     }
   }
 }

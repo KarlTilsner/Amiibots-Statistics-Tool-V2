@@ -1160,6 +1160,57 @@
         "trainer_name": "onillusions",
         "result": "loss"
       }
+    },
+    "2024-03-07T23:06:34.843019+00:00": {
+      "this_amiibo": {
+        "rating": 16.758317745438475,
+        "rating_mu": 20.06171601311607,
+        "rating_sigma": 1.1011327558925306,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "2e2e39a3-66e8-45a5-8f20-226a4df0e4e4",
+        "name": "Marthilous",
+        "rating": 15.365353595311687,
+        "trainer_id": "5f193754-19cc-4e88-a09f-cd36122614ca",
+        "trainer_name": "unoptimalprime",
+        "result": "win"
+      }
+    },
+    "2024-03-12T08:52:30.535335+00:00": {
+      "this_amiibo": {
+        "rating": 16.697188779583612,
+        "rating_mu": 20.000072749590224,
+        "rating_sigma": 1.100961323335537,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "adf305e3-37cf-4e67-a27b-084defcf7264",
+        "name": "Crocodile",
+        "rating": 8.23010706247933,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "win"
+      }
+    },
+    "2024-03-20T14:33:36.471404+00:00": {
+      "this_amiibo": {
+        "rating": 16.51835558340445,
+        "rating_mu": 19.791493583860145,
+        "rating_sigma": 1.091046000151898,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "2e2e39a3-66e8-45a5-8f20-226a4df0e4e4",
+        "name": "Marthilous",
+        "rating": 15.547120502144535,
+        "trainer_id": "5f193754-19cc-4e88-a09f-cd36122614ca",
+        "trainer_name": "unoptimalprime",
+        "result": "win"
+      }
     }
   }
 }

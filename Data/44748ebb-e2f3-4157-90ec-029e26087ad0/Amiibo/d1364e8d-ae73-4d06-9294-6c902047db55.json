@@ -1245,6 +1245,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2024-03-08T09:04:57.302116+00:00": {
+      "this_amiibo": {
+        "rating": 33.16533532502707,
+        "rating_mu": 36.15706416009571,
+        "rating_sigma": 0.9972429450228789,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7",
+        "id": "62f2cdc9-17ae-422a-a49c-705ddb80f453",
+        "name": "Mage□",
+        "rating": 29.270581984082263,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "win"
+      }
+    },
+    "2024-03-16T22:10:05.806098+00:00": {
+      "this_amiibo": {
+        "rating": 33.30786475850209,
+        "rating_mu": 36.284489704018384,
+        "rating_sigma": 0.9922083151720971,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "f89bd7b5-1aa1-47ec-9ed6-05adc63d2b0d",
+        "name": "Dabusiness",
+        "rating": 32.167054080409905,
+        "trainer_id": "4fb503b0-bb7e-4351-a746-e2b49845f49a",
+        "trainer_name": "dabuffalo457",
+        "result": "loss"
+      }
     }
   }
 }
