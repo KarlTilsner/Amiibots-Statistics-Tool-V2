@@ -55,6 +55,40 @@
         "trainer_name": "yvvire",
         "result": "loss"
       }
+    },
+    "2023-10-09T18:04:34.275701+00:00": {
+      "this_amiibo": {
+        "rating": 16.181105260768568,
+        "rating_mu": 27.63798947782658,
+        "rating_sigma": 3.8189614056860037,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "9df2eb65-7d70-4d78-8814-454666850e0b",
+        "name": "Bell",
+        "rating": 21.220666959162948,
+        "trainer_id": "7da5e70d-2171-4fba-9f1d-e23e8484d223",
+        "trainer_name": "DoDakBoong",
+        "result": "win"
+      }
+    },
+    "2023-10-15T20:02:40.284248+00:00": {
+      "this_amiibo": {
+        "rating": 19.282225010631308,
+        "rating_mu": 29.548202516518547,
+        "rating_sigma": 3.421992501962413,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "8fd1ee5c-86fe-4a56-a2f1-d2a3bf73ebf5",
+        "name": "Dog",
+        "rating": 26.4183079370381,
+        "trainer_id": "1cb3f0d5-67aa-48ac-b98f-207ad3aed9b0",
+        "trainer_name": "homolanderr",
+        "result": "loss"
+      }
     }
   }
 }

@@ -140,6 +140,57 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2023-10-06T02:04:48.675673+00:00": {
+      "this_amiibo": {
+        "rating": 27.315523940469944,
+        "rating_mu": 35.41685863830181,
+        "rating_sigma": 2.7004448992772883,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "3ef9f557-dd0a-4a99-b801-734c2c550c05",
+        "name": "Alice",
+        "rating": 30.78961930235344,
+        "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
+        "trainer_name": "RockMyRole",
+        "result": "loss"
+      }
+    },
+    "2023-10-12T00:40:20.460715+00:00": {
+      "this_amiibo": {
+        "rating": 27.154547911857083,
+        "rating_mu": 34.93568721952929,
+        "rating_sigma": 2.593713102557403,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "7a5f185d-4b67-40c7-a732-745777e1e97b",
+        "name": "KITTY□",
+        "rating": 35.51462484749538,
+        "trainer_id": "b9bf03e5-6104-4a75-8c64-cc3ea10ca0a2",
+        "trainer_name": "pxyfan20",
+        "result": "win"
+      }
+    },
+    "2023-10-14T01:21:24.296952+00:00": {
+      "this_amiibo": {
+        "rating": 26.72304081855232,
+        "rating_mu": 34.100905426656446,
+        "rating_sigma": 2.459288202701375,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "a14d999c-7bca-4159-9f01-d4b1cea61641",
+        "name": "Gwynbleidd",
+        "rating": 32.29526999444951,
+        "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
+        "trainer_name": "LovingStew",
+        "result": "win"
+      }
     }
   }
 }

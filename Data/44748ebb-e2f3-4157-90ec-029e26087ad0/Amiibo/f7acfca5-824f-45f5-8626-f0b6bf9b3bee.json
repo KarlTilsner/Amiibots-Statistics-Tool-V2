@@ -1,0 +1,43 @@
+{
+  "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+  "id": "f7acfca5-824f-45f5-8626-f0b6bf9b3bee",
+  "name": "Tennis",
+  "trainer_id": "a03324ae-7a0c-4a4a-a608-046e54c99664",
+  "trainer_name": "picvity",
+  "matches": {
+    "2023-10-15T11:48:03.951730+00:00": {
+      "this_amiibo": {
+        "rating": 0.6990961382359515,
+        "rating_mu": 19.917420980060736,
+        "rating_sigma": 6.406108280608262,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "0340998a-e519-483b-9032-f500f0abd472",
+        "name": "Riggi",
+        "rating": 22.753895727889923,
+        "trainer_id": "0dc4a16f-927f-41d7-bcf5-b338e590b5fa",
+        "trainer_name": "KodinGaming",
+        "result": "win"
+      }
+    },
+    "2023-10-19T09:46:28.160563+00:00": {
+      "this_amiibo": {
+        "rating": -0.052866303155440164,
+        "rating_mu": 16.146373321022526,
+        "rating_sigma": 5.3997465413926555,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+        "id": "11bf00fd-d715-4ea3-9199-573788341eb7",
+        "name": "Sussy Baka",
+        "rating": 8.104046331937127,
+        "trainer_id": "6dc742b4-3fe4-4c3a-8d77-81dde5ea3025",
+        "trainer_name": "ShiiroNekowo",
+        "result": "win"
+      }
+    }
+  }
+}

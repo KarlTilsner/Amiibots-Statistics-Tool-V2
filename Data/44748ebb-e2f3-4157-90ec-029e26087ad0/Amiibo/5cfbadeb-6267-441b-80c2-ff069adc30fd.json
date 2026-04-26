@@ -3302,6 +3302,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2023-10-05T15:30:47.942553+00:00": {
+      "this_amiibo": {
+        "rating": 23.512572475846078,
+        "rating_mu": 26.096907746369855,
+        "rating_sigma": 0.8614450901745926,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "92472abd-93df-490b-893b-3417f32c278b",
+        "name": "Scorpion",
+        "rating": 22.855913162822574,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "loss"
+      }
+    },
+    "2023-10-08T19:28:56.648913+00:00": {
+      "this_amiibo": {
+        "rating": 23.445184057807644,
+        "rating_mu": 26.029264075254392,
+        "rating_sigma": 0.8613600058155821,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
+        "id": "d129b9b5-45e5-43c9-ab09-9cc95bcfbc31",
+        "name": "Death",
+        "rating": 20.721273527303893,
+        "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
+        "trainer_name": "LovingStew",
+        "result": "win"
+      }
     }
   }
 }

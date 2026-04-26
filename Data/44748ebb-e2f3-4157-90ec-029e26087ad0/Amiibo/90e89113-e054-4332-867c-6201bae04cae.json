@@ -616,6 +616,40 @@
         "trainer_name": "eon_ii",
         "result": "loss"
       }
+    },
+    "2023-10-06T09:05:26.240606+00:00": {
+      "this_amiibo": {
+        "rating": 26.907362782640824,
+        "rating_mu": 30.910304627112836,
+        "rating_sigma": 1.334313948157337,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "eaee7015-10b8-455c-8a5f-2789a4f4eda0",
+        "name": "Lightyear",
+        "rating": 19.322692034706385,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
+        "result": "win"
+      }
+    },
+    "2023-10-14T01:46:39.063180+00:00": {
+      "this_amiibo": {
+        "rating": 27.181226185922572,
+        "rating_mu": 31.13284695975425,
+        "rating_sigma": 1.317206924610559,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "6d2deb0c-9ab8-4c94-a2d7-f28f73cdfe90",
+        "name": "Mythia",
+        "rating": 26.464348802072923,
+        "trainer_id": "fdef585b-96e2-4ebe-93c3-82641f2cefd3",
+        "trainer_name": "yendekai",
+        "result": "loss"
+      }
     }
   }
 }

@@ -106,6 +106,40 @@
         "trainer_name": "secondname3600",
         "result": "loss"
       }
+    },
+    "2023-10-05T10:36:51.306628+00:00": {
+      "this_amiibo": {
+        "rating": 21.835427346720188,
+        "rating_mu": 30.68642694500246,
+        "rating_sigma": 2.950333199427423,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "02062a76-5968-4a94-9257-d14b1e0fa099",
+        "name": "Big George",
+        "rating": 26.976425507007843,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "win"
+      }
+    },
+    "2023-10-20T07:08:45.742890+00:00": {
+      "this_amiibo": {
+        "rating": 21.37304049131309,
+        "rating_mu": 29.657062843875455,
+        "rating_sigma": 2.761340784187455,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "151c8b31-f8c8-455a-a718-b91d9d604e9d",
+        "name": "The Plunge",
+        "rating": 28.35201165428259,
+        "trainer_id": "26cad4d1-9d7d-457c-b6e3-6a285e74f071",
+        "trainer_name": "toonlinktroll",
+        "result": "win"
+      }
     }
   }
 }

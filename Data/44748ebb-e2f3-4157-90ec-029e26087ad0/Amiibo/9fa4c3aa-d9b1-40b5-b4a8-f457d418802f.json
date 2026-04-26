@@ -2163,6 +2163,57 @@
         "trainer_name": "i_guano",
         "result": "loss"
       }
+    },
+    "2023-10-11T07:42:16.931908+00:00": {
+      "this_amiibo": {
+        "rating": 32.36267457319564,
+        "rating_mu": 35.04615090139835,
+        "rating_sigma": 0.894492109400903,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "e615e361-f795-4a80-9f8c-972a2b232706",
+        "name": "CPU□",
+        "rating": 30.942217526707328,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "win"
+      }
+    },
+    "2023-10-11T13:43:36.059811+00:00": {
+      "this_amiibo": {
+        "rating": 32.505972025706036,
+        "rating_mu": 35.18004368915387,
+        "rating_sigma": 0.8913572211492775,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "1bd3b33c-4eae-4a3d-935f-113350287e56",
+        "name": "Beats",
+        "rating": 34.32331400467651,
+        "trainer_id": "0ac2b0e7-cbd5-445b-bdd2-88b26c5d1f4e",
+        "trainer_name": "brandnewtwitchgotnokeys",
+        "result": "loss"
+      }
+    },
+    "2023-10-13T14:03:59.109501+00:00": {
+      "this_amiibo": {
+        "rating": 32.62713682385307,
+        "rating_mu": 35.29346223494302,
+        "rating_sigma": 0.8887751370299831,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "5834f04d-c6bb-453c-803c-586ae974060f",
+        "name": "ripper",
+        "rating": 32.67564418408831,
+        "trainer_id": "9e039111-18ec-44c2-9980-483bc1429d0d",
+        "trainer_name": "cheeseman58",
+        "result": "loss"
+      }
     }
   }
 }

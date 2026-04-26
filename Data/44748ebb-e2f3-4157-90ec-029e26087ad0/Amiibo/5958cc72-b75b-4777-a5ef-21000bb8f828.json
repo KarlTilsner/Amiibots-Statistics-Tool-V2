@@ -701,6 +701,40 @@
         "trainer_name": "Azend_1",
         "result": "loss"
       }
+    },
+    "2023-10-06T02:44:35.120149+00:00": {
+      "this_amiibo": {
+        "rating": 31.179129271098407,
+        "rating_mu": 34.94188769759343,
+        "rating_sigma": 1.254252808831674,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "33ed2c0e-fd03-40a8-8ebb-2a57435d303b",
+        "name": "Sandalphon",
+        "rating": 28.926446465730695,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "joah_22",
+        "result": "win"
+      }
+    },
+    "2023-10-12T16:51:01.758321+00:00": {
+      "this_amiibo": {
+        "rating": 31.482160524570464,
+        "rating_mu": 35.19700266937189,
+        "rating_sigma": 1.2382807149338086,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "4610d001-c818-498a-862a-3e8f426ddc94",
+        "name": "God Slayer",
+        "rating": 34.05884535263632,
+        "trainer_id": "790bfdd9-7935-4d8a-a2ef-e98e39633f80",
+        "trainer_name": "wizard_real",
+        "result": "loss"
+      }
     }
   }
 }

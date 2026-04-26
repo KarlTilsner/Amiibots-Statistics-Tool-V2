@@ -140,6 +140,40 @@
         "trainer_name": "gold_dxj",
         "result": "loss"
       }
+    },
+    "2023-10-05T15:44:58.924487+00:00": {
+      "this_amiibo": {
+        "rating": 22.490204311073057,
+        "rating_mu": 30.35951006339789,
+        "rating_sigma": 2.623101917441612,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "dfd36c08-4fb1-4435-b7a4-4f3d23434676",
+        "name": "Gryfenfer",
+        "rating": 27.186379996110134,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "win"
+      }
+    },
+    "2023-10-16T19:32:38.564663+00:00": {
+      "this_amiibo": {
+        "rating": 22.308728611949533,
+        "rating_mu": 29.858461190817344,
+        "rating_sigma": 2.51657752628927,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "8e65e0b8-9e54-4bd2-b808-86740aec3a25",
+        "name": "Mori",
+        "rating": 31.674049159328945,
+        "trainer_id": "007f0154-70c5-4781-87aa-e020b2fd5452",
+        "trainer_name": "dirty_meme1",
+        "result": "win"
+      }
     }
   }
 }

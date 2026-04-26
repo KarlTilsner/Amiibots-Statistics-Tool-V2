@@ -1517,6 +1517,40 @@
         "trainer_name": "rapjm14",
         "result": "loss"
       }
+    },
+    "2023-10-05T16:51:29.997878+00:00": {
+      "this_amiibo": {
+        "rating": 34.2577056779123,
+        "rating_mu": 37.082436884844086,
+        "rating_sigma": 0.9415770689772623,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "d661fe43-f243-4c03-be07-8a4fd6c937a2",
+        "name": "Kiryu",
+        "rating": 33.68165618067631,
+        "trainer_id": "852ef88e-55c4-485c-8f33-8fdabc0565c4",
+        "trainer_name": "blainear",
+        "result": "win"
+      }
+    },
+    "2023-10-05T23:52:36.150458+00:00": {
+      "this_amiibo": {
+        "rating": 34.37759492232746,
+        "rating_mu": 37.19188810799984,
+        "rating_sigma": 0.9380977285574588,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "a8cbab6c-51b7-4bab-8b5d-c76c8166442e",
+        "name": "slays kids",
+        "rating": 33.67587945261476,
+        "trainer_id": "14df9153-bacf-491b-996d-3bbb6a54f05c",
+        "trainer_name": "cambriacotf",
+        "result": "loss"
+      }
     }
   }
 }

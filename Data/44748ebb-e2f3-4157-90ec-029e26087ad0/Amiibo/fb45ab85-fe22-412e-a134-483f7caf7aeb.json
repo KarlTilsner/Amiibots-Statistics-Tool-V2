@@ -497,6 +497,40 @@
         "trainer_name": "DogBoyton",
         "result": "loss"
       }
+    },
+    "2023-10-05T22:40:07.917004+00:00": {
+      "this_amiibo": {
+        "rating": 24.296237669530075,
+        "rating_mu": 28.6088426448548,
+        "rating_sigma": 1.437534991774908,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "8e2ef2a7-aadf-4e03-ad7b-a526770f2569",
+        "name": "i'm far",
+        "rating": 22.78983193325429,
+        "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+        "trainer_name": "i_guano",
+        "result": "win"
+      }
+    },
+    "2023-10-07T21:51:05.952138+00:00": {
+      "this_amiibo": {
+        "rating": 24.640728184754387,
+        "rating_mu": 28.893860963411882,
+        "rating_sigma": 1.4177109262191647,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "0d760208-16eb-4897-8e1a-2d329a0dcc34",
+        "name": "Iron Tager",
+        "rating": 20.309591742503642,
+        "trainer_id": "bb38f34d-4024-4bac-8796-b84083162851",
+        "trainer_name": "TechnoPuff",
+        "result": "loss"
+      }
     }
   }
 }

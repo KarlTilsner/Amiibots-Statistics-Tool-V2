@@ -2452,6 +2452,40 @@
         "trainer_name": "AmiiboDoctor",
         "result": "loss"
       }
+    },
+    "2023-10-09T11:43:30.134002+00:00": {
+      "this_amiibo": {
+        "rating": 22.85258602505201,
+        "rating_mu": 25.438582894610597,
+        "rating_sigma": 0.86199895651953,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "ed701895-af03-415d-8325-355dfc15ab62",
+        "name": "/gamemode1",
+        "rating": 20.98853070128026,
+        "trainer_id": "a5eb3823-a703-4a48-9039-c1142b46ebde",
+        "trainer_name": "False_Justice",
+        "result": "win"
+      }
+    },
+    "2023-10-19T14:38:33.773453+00:00": {
+      "this_amiibo": {
+        "rating": 22.927604626127984,
+        "rating_mu": 25.51563668119685,
+        "rating_sigma": 0.8626773516896218,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "f9803fc5-b1a2-47a6-b313-0ade05736288",
+        "name": "Waterboy",
+        "rating": 9.585145894048313,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "loss"
+      }
     }
   }
 }

@@ -55,6 +55,57 @@
         "trainer_name": "namebts",
         "result": "win"
       }
+    },
+    "2023-10-12T20:42:28.724322+00:00": {
+      "this_amiibo": {
+        "rating": 1.444437172657418,
+        "rating_mu": 13.776774142936537,
+        "rating_sigma": 4.110778990093039,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
+        "id": "f2bdec3e-e6e5-4080-a570-bed6e69151e3",
+        "name": "Tanna",
+        "rating": 4.55689999617453,
+        "trainer_id": "0fb55565-9a16-4eaf-9ae8-e089b432d6f0",
+        "trainer_name": "ranchDK",
+        "result": "loss"
+      }
+    },
+    "2023-10-14T13:42:19.640324+00:00": {
+      "this_amiibo": {
+        "rating": 1.2557560933215122,
+        "rating_mu": 12.47280949823044,
+        "rating_sigma": 3.7390178016363094,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+        "id": "79f34155-ced3-4b12-8964-59fd880e6b23",
+        "name": "Beyo",
+        "rating": 13.677428513419025,
+        "trainer_id": "1454cbc5-0d91-4538-a0f1-4c365b049d06",
+        "trainer_name": "hono1",
+        "result": "win"
+      }
+    },
+    "2023-10-19T06:09:48.472087+00:00": {
+      "this_amiibo": {
+        "rating": 0.7724407418615495,
+        "rating_mu": 11.196137124100012,
+        "rating_sigma": 3.4745654607461542,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "1ea3ebe6-22a6-4aae-83eb-a150fd5414d8",
+        "name": "Beat",
+        "rating": 4.438680284947514,
+        "trainer_id": "53896979-5101-45ab-a6e5-c7aff20e0f12",
+        "trainer_name": "Grapeist",
+        "result": "win"
+      }
     }
   }
 }

@@ -242,6 +242,57 @@
         "trainer_name": "random_fire",
         "result": "win"
       }
+    },
+    "2023-10-06T19:31:22.194349+00:00": {
+      "this_amiibo": {
+        "rating": 26.813826201621424,
+        "rating_mu": 33.0642260611817,
+        "rating_sigma": 2.0834666198534246,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "18f50b51-9760-4f59-954a-809a13386b84",
+        "name": "Kouga",
+        "rating": 29.5837141494823,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2023-10-14T20:40:07.037958+00:00": {
+      "this_amiibo": {
+        "rating": 27.382695918209528,
+        "rating_mu": 33.50541538251067,
+        "rating_sigma": 2.04090648810038,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
+        "id": "75c2d4d9-3777-4ebb-abf5-c8ef554b9edf",
+        "name": "ExcuuseME!",
+        "rating": 17.07904472733169,
+        "trainer_id": "74fb0249-4b7d-4ef4-9aa9-3fdf35fe351c",
+        "trainer_name": "FGFrost_",
+        "result": "loss"
+      }
+    },
+    "2023-10-14T22:54:59.909727+00:00": {
+      "this_amiibo": {
+        "rating": 27.06222579382668,
+        "rating_mu": 33.002768787351556,
+        "rating_sigma": 1.980180997841625,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+        "id": "6e4017f6-ee97-4fe1-b1bf-e87aa113d6f4",
+        "name": "womp womp",
+        "rating": 27.470874748333177,
+        "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+        "trainer_name": "fammydamammy",
+        "result": "win"
+      }
     }
   }
 }

@@ -72,6 +72,40 @@
         "trainer_name": "pixel_gunners",
         "result": "loss"
       }
+    },
+    "2023-10-06T15:52:05.631727+00:00": {
+      "this_amiibo": {
+        "rating": 18.93152035977446,
+        "rating_mu": 29.60334847439411,
+        "rating_sigma": 3.5572760382065494,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "97d24240-321c-406e-a926-a87ec0e5dc5f",
+        "name": "Thalia",
+        "rating": 29.718762246726484,
+        "trainer_id": "8a479357-a5de-4f56-8700-0d1a85c3d46b",
+        "trainer_name": "OmenApproaching",
+        "result": "win"
+      }
+    },
+    "2023-10-12T00:22:36.161917+00:00": {
+      "this_amiibo": {
+        "rating": 21.33227143578656,
+        "rating_mu": 31.072198838101684,
+        "rating_sigma": 3.2466424674383743,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "07f9ce1f-035a-45f6-8264-011baa0b4b6a",
+        "name": "MC Hammer",
+        "rating": 26.648609427937625,
+        "trainer_id": "ba8e343a-f566-473d-8a43-a6059cf773f7",
+        "trainer_name": "bananspit",
+        "result": "loss"
+      }
     }
   }
 }

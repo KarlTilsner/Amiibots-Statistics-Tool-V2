@@ -1874,6 +1874,40 @@
         "trainer_name": "HyperKritical",
         "result": "loss"
       }
+    },
+    "2023-10-07T00:41:26.539198+00:00": {
+      "this_amiibo": {
+        "rating": 29.233704846082517,
+        "rating_mu": 31.929541689271872,
+        "rating_sigma": 0.8986122810631189,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "52cb47ef-4f25-4db1-ab07-f07521fe896a",
+        "name": "Beer Belly",
+        "rating": 29.79031148119071,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "win"
+      }
+    },
+    "2023-10-20T20:47:18.546417+00:00": {
+      "this_amiibo": {
+        "rating": 29.3506079874223,
+        "rating_mu": 32.039212963199226,
+        "rating_sigma": 0.8962016585923089,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "5df6c0f3-ae17-45be-830d-2a2592c928d3",
+        "name": "Deadrunner",
+        "rating": 27.181435569988206,
+        "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
+        "trainer_name": "spike2the9th",
+        "result": "loss"
+      }
     }
   }
 }

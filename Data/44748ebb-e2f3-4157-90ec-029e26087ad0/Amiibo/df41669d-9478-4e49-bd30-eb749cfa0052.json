@@ -1398,6 +1398,40 @@
         "trainer_name": "dreamy_jay_d3",
         "result": "loss"
       }
+    },
+    "2023-10-09T16:46:37.858143+00:00": {
+      "this_amiibo": {
+        "rating": 23.57008569143174,
+        "rating_mu": 26.677721314053368,
+        "rating_sigma": 1.035878540873876,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
+        "id": "ffddad5f-dd18-4ff7-9d5a-e4daeb0abf8e",
+        "name": "A Smol Boy",
+        "rating": 23.408988311413044,
+        "trainer_id": "36eb0a93-8620-44e0-8795-beb1c3061ca9",
+        "trainer_name": "Salty_Smash_NB",
+        "result": "win"
+      }
+    },
+    "2023-10-20T18:46:28.276126+00:00": {
+      "this_amiibo": {
+        "rating": 23.734383923483776,
+        "rating_mu": 26.82335223953292,
+        "rating_sigma": 1.029656105349714,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "f199c6b4-fb8f-4065-b9c0-6081a2c60259",
+        "name": "Rose Tyler",
+        "rating": 22.13726785871055,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "loss"
+      }
     }
   }
 }
