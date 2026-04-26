@@ -1568,6 +1568,40 @@
         "trainer_name": "smashssf2_ita",
         "result": "loss"
       }
+    },
+    "2024-01-05T08:29:41.220059+00:00": {
+      "this_amiibo": {
+        "rating": 31.963479242828598,
+        "rating_mu": 34.84162195967233,
+        "rating_sigma": 0.9593809056145771,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "6aede22c-2ffa-45a3-a332-98b3f9a2091b",
+        "name": "Malboro",
+        "rating": 32.627900735334364,
+        "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
+        "trainer_name": "Murbert_AM",
+        "result": "win"
+      }
+    },
+    "2024-01-09T14:42:03.801403+00:00": {
+      "this_amiibo": {
+        "rating": 32.105107608218006,
+        "rating_mu": 34.97007642467615,
+        "rating_sigma": 0.9549896054860476,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "df5ce75d-ceb5-407b-83fa-6951499132ad",
+        "name": "Jackal",
+        "rating": 32.57300988065928,
+        "trainer_id": "0c727e8c-96ac-48e4-8547-7f00c0eba250",
+        "trainer_name": "1RubyG59",
+        "result": "loss"
+      }
     }
   }
 }

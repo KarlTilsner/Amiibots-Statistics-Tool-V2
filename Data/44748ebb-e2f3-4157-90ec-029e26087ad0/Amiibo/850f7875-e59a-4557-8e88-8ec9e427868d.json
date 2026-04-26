@@ -225,6 +225,40 @@
         "trainer_name": "colfon_",
         "result": "loss"
       }
+    },
+    "2024-01-12T04:38:34.092077+00:00": {
+      "this_amiibo": {
+        "rating": 31.320186532298486,
+        "rating_mu": 37.811980634881486,
+        "rating_sigma": 2.1639313675276672,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "a8437536-066b-432c-a4b1-a668a57b5968",
+        "name": "sakura",
+        "rating": 36.71646952854499,
+        "trainer_id": "14fad0a9-3b5f-4f0e-ba09-0926e5e731fe",
+        "trainer_name": "UmbraSSBU",
+        "result": "win"
+      }
+    },
+    "2024-01-13T01:11:53.775750+00:00": {
+      "this_amiibo": {
+        "rating": 30.943716721238168,
+        "rating_mu": 37.18794498663015,
+        "rating_sigma": 2.081409421797328,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "059334e4-de59-49e3-99d9-ad1fa3cb7dfe",
+        "name": "lizard",
+        "rating": 34.98400088815232,
+        "trainer_id": "52395cd5-7302-493e-a7a9-c0cf640159cd",
+        "trainer_name": "mafriel",
+        "result": "win"
+      }
     }
   }
 }

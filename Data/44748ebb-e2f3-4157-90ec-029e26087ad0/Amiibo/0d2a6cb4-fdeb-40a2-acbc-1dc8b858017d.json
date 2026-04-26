@@ -2724,6 +2724,57 @@
         "trainer_name": "14jmaster",
         "result": "loss"
       }
+    },
+    "2024-01-08T01:00:16.046252+00:00": {
+      "this_amiibo": {
+        "rating": 26.312690247210565,
+        "rating_mu": 28.81288782297985,
+        "rating_sigma": 0.8333991919230945,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "b8430450-5756-4008-b866-9e8ca2ecbe5e",
+        "name": "Remus",
+        "rating": 26.011263398383264,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "win"
+      }
+    },
+    "2024-01-08T14:44:10.461544+00:00": {
+      "this_amiibo": {
+        "rating": 26.40626672094328,
+        "rating_mu": 28.90449151057496,
+        "rating_sigma": 0.8327415965438945,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "42da19b1-8752-4dd9-b911-96494f4d3c29",
+        "name": "Fïné",
+        "rating": 22.70952127209212,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "loss"
+      }
+    },
+    "2024-01-08T16:39:17.123785+00:00": {
+      "this_amiibo": {
+        "rating": 26.500799385174695,
+        "rating_mu": 28.99617551258806,
+        "rating_sigma": 0.8317920424711216,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "4280455e-891b-4525-928f-17ac28272546",
+        "name": "Toxicity",
+        "rating": 25.622152989549885,
+        "trainer_id": "28daad9a-e3cb-4d65-931c-76e79bd8ba09",
+        "trainer_name": "OntosHere",
+        "result": "loss"
+      }
     }
   }
 }
