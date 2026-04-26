@@ -1993,6 +1993,57 @@
         "trainer_name": "nerf__260",
         "result": "loss"
       }
+    },
+    "2023-09-21T15:16:13.224480+00:00": {
+      "this_amiibo": {
+        "rating": 30.349800976402587,
+        "rating_mu": 32.96362644142469,
+        "rating_sigma": 0.8712751550073663,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "fbc02c23-5bd5-4ea4-a990-19624dbf1039",
+        "name": "Zeb",
+        "rating": 30.25494140522301,
+        "trainer_id": "1332142b-404c-4c00-acf0-1e1620282799",
+        "trainer_name": "yellow84nana",
+        "result": "win"
+      }
+    },
+    "2023-09-23T16:29:55.129060+00:00": {
+      "this_amiibo": {
+        "rating": 30.45546324108671,
+        "rating_mu": 33.063594690309635,
+        "rating_sigma": 0.8693771497409749,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "98f65c3b-3e38-4544-a826-3c20098aca9a",
+        "name": "Adzuki",
+        "rating": 30.226293855489576,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "loss"
+      }
+    },
+    "2023-10-01T01:18:47.156358+00:00": {
+      "this_amiibo": {
+        "rating": 30.533412515098657,
+        "rating_mu": 33.14001157230419,
+        "rating_sigma": 0.868866352401844,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "c8c1b88e-9289-494d-9b29-dce9a5897362",
+        "name": "Emerald",
+        "rating": 22.793692481771636,
+        "trainer_id": "b4ded674-d14a-4e96-a0c7-5dc00906f8f7",
+        "trainer_name": "aggron_ghost",
+        "result": "loss"
+      }
     }
   }
 }

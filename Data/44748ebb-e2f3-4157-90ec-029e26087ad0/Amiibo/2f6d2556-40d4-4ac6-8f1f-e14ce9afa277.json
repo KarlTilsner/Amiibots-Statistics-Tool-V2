@@ -1704,6 +1704,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2023-09-20T06:45:07.424873+00:00": {
+      "this_amiibo": {
+        "rating": 37.50420431418384,
+        "rating_mu": 40.235749281268724,
+        "rating_sigma": 0.9105149890282964,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "f32e1d86-9360-4f66-9d95-4b8f2045fc3b",
+        "name": "`●",
+        "rating": 36.88796589484942,
+        "trainer_id": "14df9153-bacf-491b-996d-3bbb6a54f05c",
+        "trainer_name": "cambriacotf",
+        "result": "win"
+      }
+    },
+    "2023-09-23T05:42:02.598139+00:00": {
+      "this_amiibo": {
+        "rating": 37.40598521268173,
+        "rating_mu": 40.12923877524803,
+        "rating_sigma": 0.9077511875220993,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "f32e1d86-9360-4f66-9d95-4b8f2045fc3b",
+        "name": "`●",
+        "rating": 37.561635329030345,
+        "trainer_id": "14df9153-bacf-491b-996d-3bbb6a54f05c",
+        "trainer_name": "cambriacotf",
+        "result": "win"
+      }
     }
   }
 }

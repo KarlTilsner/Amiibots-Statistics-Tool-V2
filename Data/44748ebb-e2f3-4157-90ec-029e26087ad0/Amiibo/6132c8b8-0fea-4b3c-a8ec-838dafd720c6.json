@@ -242,6 +242,40 @@
         "trainer_name": "i_guano",
         "result": "loss"
       }
+    },
+    "2023-09-28T08:36:30.067615+00:00": {
+      "this_amiibo": {
+        "rating": 32.53401032278738,
+        "rating_mu": 38.71589359527106,
+        "rating_sigma": 2.0606277574945597,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "b7d6f724-0980-44ad-973c-da24bc55e7ba",
+        "name": "verstappen",
+        "rating": 35.095029017382764,
+        "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+        "trainer_name": "i_guano",
+        "result": "win"
+      }
+    },
+    "2023-10-03T00:05:38.816463+00:00": {
+      "this_amiibo": {
+        "rating": 33.16010838696242,
+        "rating_mu": 39.1521062167712,
+        "rating_sigma": 1.9973326099362607,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "ac7df6a9-ac73-4764-a173-e333ef3dc161",
+        "name": "GripperZ",
+        "rating": 34.564128185230906,
+        "trainer_id": "a75dc37b-b294-420c-84be-89a6fe4d8b54",
+        "trainer_name": "MMBaCheese",
+        "result": "loss"
+      }
     }
   }
 }

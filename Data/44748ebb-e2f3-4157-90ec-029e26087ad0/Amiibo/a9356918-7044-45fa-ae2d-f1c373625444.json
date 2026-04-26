@@ -293,6 +293,57 @@
         "trainer_name": "Azend_1",
         "result": "win"
       }
+    },
+    "2023-09-24T17:27:28.182180+00:00": {
+      "this_amiibo": {
+        "rating": 26.08183421001919,
+        "rating_mu": 31.80119054861057,
+        "rating_sigma": 1.9064521128637943,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "f0babc09-b07a-4c63-a479-ab8fb2cacb04",
+        "name": "Momochi",
+        "rating": 28.01052194719391,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "loss"
+      }
+    },
+    "2023-10-01T22:13:15.916350+00:00": {
+      "this_amiibo": {
+        "rating": 26.57876543674319,
+        "rating_mu": 32.15237166663968,
+        "rating_sigma": 1.8578687432988308,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "13010aa5-6050-4d92-838c-5e4c052e9e7f",
+        "name": "HAM",
+        "rating": 27.131241469640408,
+        "trainer_id": "f15712ec-1029-4da4-b09b-8c5e7f335f7b",
+        "trainer_name": "0underscore",
+        "result": "loss"
+      }
+    },
+    "2023-10-03T16:23:15.441408+00:00": {
+      "this_amiibo": {
+        "rating": 26.174602420131745,
+        "rating_mu": 31.575477766283356,
+        "rating_sigma": 1.800291782050537,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "13010aa5-6050-4d92-838c-5e4c052e9e7f",
+        "name": "HAM",
+        "rating": 27.476245418301588,
+        "trainer_id": "f15712ec-1029-4da4-b09b-8c5e7f335f7b",
+        "trainer_name": "0underscore",
+        "result": "win"
+      }
     }
   }
 }

@@ -310,6 +310,40 @@
         "trainer_name": "random_fire",
         "result": "loss"
       }
+    },
+    "2023-09-22T05:00:53.557252+00:00": {
+      "this_amiibo": {
+        "rating": 34.775112193630584,
+        "rating_mu": 40.0708210583063,
+        "rating_sigma": 1.7652362882252384,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
+        "id": "94ff92a5-cbd9-4a92-be58-cefedf241056",
+        "name": "Lo Mein",
+        "rating": 34.71329568591377,
+        "trainer_id": "80f98683-a318-47dd-bcf2-93f67d0878d4",
+        "trainer_name": "Sir_Dragonite",
+        "result": "win"
+      }
+    },
+    "2023-09-23T11:36:34.642374+00:00": {
+      "this_amiibo": {
+        "rating": 34.53689956603944,
+        "rating_mu": 39.70621317854923,
+        "rating_sigma": 1.7231045375032636,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "0dd98f01-be6c-40b2-973c-abc841ea328d",
+        "name": "Todo",
+        "rating": 38.11434208810377,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "win"
+      }
     }
   }
 }

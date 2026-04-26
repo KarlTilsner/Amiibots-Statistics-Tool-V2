@@ -2707,6 +2707,40 @@
         "trainer_name": "s4n1t1z3d_toxins",
         "result": "loss"
       }
+    },
+    "2023-09-20T17:50:37.987785+00:00": {
+      "this_amiibo": {
+        "rating": 29.05758224261352,
+        "rating_mu": 31.594181607154745,
+        "rating_sigma": 0.8455331215137414,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "18f50b51-9760-4f59-954a-809a13386b84",
+        "name": "Kouga",
+        "rating": 27.956516984767035,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2023-10-02T07:41:55.980665+00:00": {
+      "this_amiibo": {
+        "rating": 29.146011214103723,
+        "rating_mu": 31.679897864115443,
+        "rating_sigma": 0.84462888333724,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "a2e0d1ca-ded0-4744-aa16-437ade494f72",
+        "name": "Dandori",
+        "rating": 26.31151638184537,
+        "trainer_id": "3e1642f4-3a61-4225-bd2d-d551616be0fa",
+        "trainer_name": "doopfizzle",
+        "result": "loss"
+      }
     }
   }
 }

@@ -225,6 +225,57 @@
         "trainer_name": "Azend_1",
         "result": "loss"
       }
+    },
+    "2023-09-26T10:55:27.777588+00:00": {
+      "this_amiibo": {
+        "rating": 36.51076493473232,
+        "rating_mu": 42.901230905882166,
+        "rating_sigma": 2.130155323716614,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "2c2a4952-c66d-4580-b801-152c2ecded95",
+        "name": "Gatsby",
+        "rating": 38.67014943010187,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "win"
+      }
+    },
+    "2023-09-27T14:48:25.796728+00:00": {
+      "this_amiibo": {
+        "rating": 36.26578625677791,
+        "rating_mu": 42.45774225707555,
+        "rating_sigma": 2.063985333432549,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "2c2a4952-c66d-4580-b801-152c2ecded95",
+        "name": "Gatsby",
+        "rating": 40.54910850670018,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "win"
+      }
+    },
+    "2023-09-29T11:16:54.216105+00:00": {
+      "this_amiibo": {
+        "rating": 37.277028980288485,
+        "rating_mu": 43.229138342013364,
+        "rating_sigma": 1.9840364539082924,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "2c2a4952-c66d-4580-b801-152c2ecded95",
+        "name": "Gatsby",
+        "rating": 41.95224093148188,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "loss"
+      }
     }
   }
 }

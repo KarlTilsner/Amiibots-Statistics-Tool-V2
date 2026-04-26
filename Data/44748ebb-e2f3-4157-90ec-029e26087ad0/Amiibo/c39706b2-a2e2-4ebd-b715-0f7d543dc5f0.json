@@ -310,6 +310,57 @@
         "trainer_name": "Competitively2",
         "result": "loss"
       }
+    },
+    "2023-09-24T21:23:54.554178+00:00": {
+      "this_amiibo": {
+        "rating": 18.867608034241325,
+        "rating_mu": 24.979987398447758,
+        "rating_sigma": 2.037459788068811,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "74ceb210-4cfa-475d-8e11-95cbcf2c9db1",
+        "name": "Autopilot",
+        "rating": 11.278103194948457,
+        "trainer_id": "c5656c48-9de7-4566-91a6-45c834e63cf9",
+        "trainer_name": "netsyyy",
+        "result": "win"
+      }
+    },
+    "2023-09-25T21:56:12.499177+00:00": {
+      "this_amiibo": {
+        "rating": 18.619380586426963,
+        "rating_mu": 24.661715132007423,
+        "rating_sigma": 2.014111515193487,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "e174fc03-debe-4e2d-8da3-602b6433e0cd",
+        "name": "Gaping",
+        "rating": 11.077395525738822,
+        "trainer_id": "6ed773f0-1e4b-4e80-bfc1-375be9362a27",
+        "trainer_name": "schmorchid",
+        "result": "win"
+      }
+    },
+    "2023-09-26T02:33:12.486183+00:00": {
+      "this_amiibo": {
+        "rating": 19.007501968926576,
+        "rating_mu": 24.981491142882472,
+        "rating_sigma": 1.9913297246519661,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+        "id": "52db5745-6a98-47be-b567-5e17e2cc8c2e",
+        "name": "kidding",
+        "rating": 0.3797658250368521,
+        "trainer_id": "1c7b0134-2f85-4e7a-a4e0-f93145be0cf8",
+        "trainer_name": "rougew2",
+        "result": "loss"
+      }
     }
   }
 }

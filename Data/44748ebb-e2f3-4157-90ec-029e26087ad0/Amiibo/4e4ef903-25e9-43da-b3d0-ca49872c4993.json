@@ -1908,6 +1908,40 @@
         "trainer_name": "MiDe1",
         "result": "loss"
       }
+    },
+    "2023-09-20T14:05:08.745804+00:00": {
+      "this_amiibo": {
+        "rating": 22.1075299194606,
+        "rating_mu": 24.966438808993242,
+        "rating_sigma": 0.9529696298442142,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fa1ac3ba-0880-483b-b94e-9b4952e3f999",
+        "id": "4db5d44c-0afe-4bef-8b18-2fa167e02fae",
+        "name": "Simone",
+        "rating": 15.700092077773565,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "joah_22",
+        "result": "win"
+      }
+    },
+    "2023-09-25T08:32:27.744003+00:00": {
+      "this_amiibo": {
+        "rating": 22.27869872587987,
+        "rating_mu": 25.123224520212453,
+        "rating_sigma": 0.9481752647775273,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "c741a5b8-d22c-41f4-b439-509ab699ee6d",
+        "name": "bork",
+        "rating": 23.594536661155672,
+        "trainer_id": "690ab18e-fdac-4267-84c7-b624388b4692",
+        "trainer_name": "yoyoshi22",
+        "result": "loss"
+      }
     }
   }
 }

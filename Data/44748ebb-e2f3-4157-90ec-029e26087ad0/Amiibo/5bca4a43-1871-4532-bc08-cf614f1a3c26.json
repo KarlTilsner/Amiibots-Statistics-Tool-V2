@@ -38,6 +38,40 @@
         "trainer_name": "deante_ssb",
         "result": "loss"
       }
+    },
+    "2023-09-23T10:52:21.531630+00:00": {
+      "this_amiibo": {
+        "rating": 10.81079183761516,
+        "rating_mu": 24.231709065824376,
+        "rating_sigma": 4.473639076069738,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "0c366a1b-97a1-4c39-8b98-43fa757a463c",
+        "name": "Crescendo",
+        "rating": 23.812944194276117,
+        "trainer_id": "2449752e-dba5-4319-82a0-3463ed6750fd",
+        "trainer_name": "the_definitive_mick",
+        "result": "win"
+      }
+    },
+    "2023-10-04T23:21:28.640495+00:00": {
+      "this_amiibo": {
+        "rating": 15.020169943583173,
+        "rating_mu": 26.69777679861625,
+        "rating_sigma": 3.892535618344359,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "a5d04300-b0c4-4644-a3c0-087a4222cfd2",
+        "name": "BajaSquirt",
+        "rating": 22.833357775384417,
+        "trainer_id": "23cc62ed-8d92-471d-b8a4-3545d8bf5b53",
+        "trainer_name": "Winchesteroni",
+        "result": "loss"
+      }
     }
   }
 }
