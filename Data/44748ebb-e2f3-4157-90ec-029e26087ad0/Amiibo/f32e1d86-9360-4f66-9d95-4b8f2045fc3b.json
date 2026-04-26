@@ -1585,6 +1585,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2023-12-10T12:04:46.067408+00:00": {
+      "this_amiibo": {
+        "rating": 38.32591099910576,
+        "rating_mu": 41.0829689527706,
+        "rating_sigma": 0.9190193178882811,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "5c7a6f83-a271-4ce1-b557-15e6453731dd",
+        "name": "Scar",
+        "rating": 38.6102929781739,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "win"
+      }
+    },
+    "2023-12-15T02:01:16.736356+00:00": {
+      "this_amiibo": {
+        "rating": 38.23307565660673,
+        "rating_mu": 40.98162713247282,
+        "rating_sigma": 0.9161838252886985,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "d17d047a-42b3-4ab5-9b34-abf47d7ea385",
+        "name": "XTC Albert",
+        "rating": 39.521594947617416,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "win"
+      }
     }
   }
 }

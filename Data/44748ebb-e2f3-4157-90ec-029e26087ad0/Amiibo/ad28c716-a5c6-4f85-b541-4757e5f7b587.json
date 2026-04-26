@@ -225,6 +225,40 @@
         "trainer_name": "rapjm14",
         "result": "win"
       }
+    },
+    "2023-12-10T01:37:03.102199+00:00": {
+      "this_amiibo": {
+        "rating": 34.33537284822458,
+        "rating_mu": 40.78156116387524,
+        "rating_sigma": 2.148729438550219,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "d17d047a-42b3-4ab5-9b34-abf47d7ea385",
+        "name": "XTC Albert",
+        "rating": 39.58262248301163,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "loss"
+      }
+    },
+    "2023-12-16T21:08:00.009131+00:00": {
+      "this_amiibo": {
+        "rating": 34.05817634107645,
+        "rating_mu": 40.28428041596042,
+        "rating_sigma": 2.075368024961323,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "d17d047a-42b3-4ab5-9b34-abf47d7ea385",
+        "name": "XTC Albert",
+        "rating": 39.63553876314531,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "win"
+      }
     }
   }
 }

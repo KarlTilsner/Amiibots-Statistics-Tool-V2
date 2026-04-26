@@ -1619,6 +1619,40 @@
         "trainer_name": "twrecks64",
         "result": "loss"
       }
+    },
+    "2023-12-07T10:03:49.762648+00:00": {
+      "this_amiibo": {
+        "rating": 17.410246187395025,
+        "rating_mu": 20.424117166907916,
+        "rating_sigma": 1.004623659837631,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "b32f9f27-8672-45e2-a1f7-6f8a66327e64",
+        "name": "Rat",
+        "rating": 14.684495959078527,
+        "trainer_id": "3fabe039-1087-4290-afb8-fd2ab3a1f5f6",
+        "trainer_name": "sitra67",
+        "result": "win"
+      }
+    },
+    "2023-12-16T14:47:35.989400+00:00": {
+      "this_amiibo": {
+        "rating": 17.55192205314239,
+        "rating_mu": 20.55021936888648,
+        "rating_sigma": 0.9994324385813637,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "721457cd-dbc3-46ca-9942-ae99703188c6",
+        "name": "Tetris",
+        "rating": 16.531206825479785,
+        "trainer_id": "f15712ec-1029-4da4-b09b-8c5e7f335f7b",
+        "trainer_name": "0underscore",
+        "result": "loss"
+      }
     }
   }
 }

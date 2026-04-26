@@ -1,0 +1,43 @@
+{
+  "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+  "id": "9e4e7def-bb23-4d1a-8501-314e6b1a57f7",
+  "name": "GoJo",
+  "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+  "trainer_name": "sst_bearslayer",
+  "matches": {
+    "2023-12-15T04:39:59.704090+00:00": {
+      "this_amiibo": {
+        "rating": 0.01812216131151345,
+        "rating_mu": 18.575518821829917,
+        "rating_sigma": 6.185798886839468,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "ff62da0e-13a2-4938-94e0-511ced4748df",
+        "name": "Morse",
+        "rating": 18.927416831277867,
+        "trainer_id": "46a95889-6568-4424-886f-86a60b829425",
+        "trainer_name": "thatMAGICstore",
+        "result": "win"
+      }
+    },
+    "2023-12-15T05:15:21.890885+00:00": {
+      "this_amiibo": {
+        "rating": -0.046663312580593086,
+        "rating_mu": 15.30488591802001,
+        "rating_sigma": 5.117183076866868,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "e6168646-fd24-475f-9bcb-06d1146451a9",
+        "name": "Exalt",
+        "rating": 15.806459441321163,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "win"
+      }
+    }
+  }
+}
