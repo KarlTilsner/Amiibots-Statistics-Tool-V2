@@ -2333,6 +2333,74 @@
         "trainer_name": "rougew2",
         "result": "loss"
       }
+    },
+    "2024-01-23T15:32:51.679170+00:00": {
+      "this_amiibo": {
+        "rating": 21.23040371768056,
+        "rating_mu": 23.92515149169637,
+        "rating_sigma": 0.8982492580052693,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "8e76cc0c-4b3b-456c-b9d4-500c9a98d122",
+        "name": "retarb",
+        "rating": 19.895424469031383,
+        "trainer_id": "8d4a1839-4a29-4630-9f6f-25ad5642f9f3",
+        "trainer_name": "Dizenn_SSB",
+        "result": "win"
+      }
+    },
+    "2024-01-23T12:59:01.034635+00:00": {
+      "this_amiibo": {
+        "rating": 21.313054048404183,
+        "rating_mu": 24.01285500994631,
+        "rating_sigma": 0.8999336538473754,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "c9aafbff-2055-42bd-8c1d-4d53992d83a1",
+        "name": "スプーン V2",
+        "rating": 8.834460644165391,
+        "trainer_id": "88381722-5c6e-46ed-9b7c-444896ad8a81",
+        "trainer_name": "TwilightTrader",
+        "result": "loss"
+      }
+    },
+    "2024-01-27T16:23:39.629730+00:00": {
+      "this_amiibo": {
+        "rating": 21.277268993139824,
+        "rating_mu": 23.975963401545886,
+        "rating_sigma": 0.8995648028020212,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "049daea7-7644-476d-ab88-7e20f18db0c7",
+        "name": "SlurpJuice",
+        "rating": 1.24920504436378,
+        "trainer_id": "4912f925-622e-46a3-88cf-5de49dbb407e",
+        "trainer_name": "colfon_",
+        "result": "loss"
+      }
+    },
+    "2024-01-28T18:09:45.258384+00:00": {
+      "this_amiibo": {
+        "rating": 21.34136043483723,
+        "rating_mu": 24.044671016746797,
+        "rating_sigma": 0.9011035273031891,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
+        "id": "77d93ad2-25d7-4705-b2d8-8732f32a44ac",
+        "name": "Placebo□",
+        "rating": 0.3634983527305131,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "loss"
+      }
     }
   }
 }

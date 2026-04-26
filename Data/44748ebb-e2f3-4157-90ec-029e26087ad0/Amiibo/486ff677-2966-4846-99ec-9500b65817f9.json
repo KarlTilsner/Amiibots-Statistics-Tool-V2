@@ -2435,6 +2435,57 @@
         "trainer_name": "MiDe1",
         "result": "loss"
       }
+    },
+    "2024-01-27T05:01:25.917010+00:00": {
+      "this_amiibo": {
+        "rating": 35.4925547576535,
+        "rating_mu": 38.08129837692053,
+        "rating_sigma": 0.8629145397556752,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "e56c7feb-1a4f-47ac-a3e2-fdedd4c43f6f",
+        "name": "B'st",
+        "rating": 34.55576819589129,
+        "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
+        "trainer_name": "CikadaKing",
+        "result": "win"
+      }
+    },
+    "2024-01-30T05:26:39.430518+00:00": {
+      "this_amiibo": {
+        "rating": 35.39066606834864,
+        "rating_mu": 37.97360395314704,
+        "rating_sigma": 0.8609792949328011,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "f9c17083-9ea7-4a60-b670-417e2f5cee2e",
+        "name": "Metatron",
+        "rating": 35.18871614130668,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2024-02-01T22:46:45.410478+00:00": {
+      "this_amiibo": {
+        "rating": 35.49269995996082,
+        "rating_mu": 38.07071324490239,
+        "rating_sigma": 0.8593377616471924,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "7ef60568-c859-4e0a-a8d2-5703960dacd8",
+        "name": "Reference",
+        "rating": 35.289473350287906,
+        "trainer_id": "43e9b485-c8e8-4d9a-bf5f-4f51c5cae826",
+        "trainer_name": "tapumasu",
+        "result": "loss"
+      }
     }
   }
 }

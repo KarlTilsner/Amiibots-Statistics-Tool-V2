@@ -1687,6 +1687,40 @@
         "trainer_name": "MiDe1",
         "result": "win"
       }
+    },
+    "2024-01-23T16:31:43.767119+00:00": {
+      "this_amiibo": {
+        "rating": 29.17767354994019,
+        "rating_mu": 31.900019837834517,
+        "rating_sigma": 0.9074487626314413,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "201154b2-8b43-4590-9bbc-d79c6ea21068",
+        "name": "ShellShock",
+        "rating": 27.596947738879763,
+        "trainer_id": "7da5e70d-2171-4fba-9f1d-e23e8484d223",
+        "trainer_name": "DoDakBoong",
+        "result": "win"
+      }
+    },
+    "2024-01-29T21:08:38.417202+00:00": {
+      "this_amiibo": {
+        "rating": 29.07350836558455,
+        "rating_mu": 31.78871074141528,
+        "rating_sigma": 0.9050674586102431,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "04e7fde4-8264-4a4d-b07c-c1ca2129fafb",
+        "name": "Ruby",
+        "rating": 25.91710791575361,
+        "trainer_id": "88381722-5c6e-46ed-9b7c-444896ad8a81",
+        "trainer_name": "TwilightTrader",
+        "result": "win"
+      }
     }
   }
 }

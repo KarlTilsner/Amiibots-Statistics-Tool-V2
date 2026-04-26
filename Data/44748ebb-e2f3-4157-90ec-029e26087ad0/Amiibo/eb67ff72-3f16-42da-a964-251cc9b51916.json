@@ -735,6 +735,40 @@
         "trainer_name": "drsalt16",
         "result": "loss"
       }
+    },
+    "2024-01-30T10:57:50.267499+00:00": {
+      "this_amiibo": {
+        "rating": 14.38044451479836,
+        "rating_mu": 18.42586120773559,
+        "rating_sigma": 1.3484722309790766,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
+        "id": "ac45e014-0e38-46e9-b2fa-b9908c5aa755",
+        "name": "igel",
+        "rating": 13.751947420535885,
+        "trainer_id": "1c7b0134-2f85-4e7a-a4e0-f93145be0cf8",
+        "trainer_name": "rougew2",
+        "result": "win"
+      }
+    },
+    "2024-02-02T02:37:49.445500+00:00": {
+      "this_amiibo": {
+        "rating": 14.563736332845451,
+        "rating_mu": 18.582854272466406,
+        "rating_sigma": 1.3397059798736513,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "720b7b72-b7c9-4dc1-b627-c42b4d63976c",
+        "name": "Hard Work",
+        "rating": 0.7805555183285886,
+        "trainer_id": "60ed898c-4a3a-4ae3-b28b-8027ec2f60bc",
+        "trainer_name": "EBReggie",
+        "result": "loss"
+      }
     }
   }
 }

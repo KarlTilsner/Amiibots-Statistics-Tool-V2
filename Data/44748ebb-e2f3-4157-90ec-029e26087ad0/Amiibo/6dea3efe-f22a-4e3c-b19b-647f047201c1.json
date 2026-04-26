@@ -446,6 +446,40 @@
         "trainer_name": "nogmix",
         "result": "loss"
       }
+    },
+    "2024-01-21T01:37:58.939361+00:00": {
+      "this_amiibo": {
+        "rating": 10.879358894207089,
+        "rating_mu": 15.901995792273377,
+        "rating_sigma": 1.6742122993554296,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "f91f2269-0893-493f-b8cf-9cdc30865de9",
+        "name": "hiya melee",
+        "rating": 11.074832509204313,
+        "trainer_id": "d10a1a53-4977-4227-a545-40d116f5b796",
+        "trainer_name": "combine788",
+        "result": "loss"
+      }
+    },
+    "2024-02-01T00:40:37.060348+00:00": {
+      "this_amiibo": {
+        "rating": 11.166275350621229,
+        "rating_mu": 16.12758643163538,
+        "rating_sigma": 1.6537703603380502,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "656a27bb-2315-4467-acbe-438b160fda95",
+        "name": "chain",
+        "rating": -0.7239141700460845,
+        "trainer_id": "5bbdd0ed-bab2-465a-97ab-46b2192286d6",
+        "trainer_name": "nothingxl",
+        "result": "loss"
+      }
     }
   }
 }

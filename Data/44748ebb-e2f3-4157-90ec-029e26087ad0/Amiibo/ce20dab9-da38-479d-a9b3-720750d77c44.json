@@ -1942,6 +1942,40 @@
         "trainer_name": "improv_195",
         "result": "win"
       }
+    },
+    "2024-01-26T08:26:24.319836+00:00": {
+      "this_amiibo": {
+        "rating": 26.40115054295127,
+        "rating_mu": 29.05059910657081,
+        "rating_sigma": 0.8831495212065131,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "ee1fd166-5f4e-44c6-8cf5-edaf45747315",
+        "name": "BKi",
+        "rating": 25.83327092590341,
+        "trainer_id": "718fd8e8-9eae-4c3b-a973-5526de990dba",
+        "trainer_name": "2atssbu",
+        "result": "win"
+      }
+    },
+    "2024-01-29T05:59:48.592040+00:00": {
+      "this_amiibo": {
+        "rating": 26.50715982888962,
+        "rating_mu": 29.150393283367446,
+        "rating_sigma": 0.8810778181592759,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "ee1fd166-5f4e-44c6-8cf5-edaf45747315",
+        "name": "BKi",
+        "rating": 25.580027719638423,
+        "trainer_id": "718fd8e8-9eae-4c3b-a973-5526de990dba",
+        "trainer_name": "2atssbu",
+        "result": "loss"
+      }
     }
   }
 }

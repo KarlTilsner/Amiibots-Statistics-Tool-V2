@@ -38,6 +38,57 @@
         "trainer_name": "PD_Dominator",
         "result": "loss"
       }
+    },
+    "2024-01-29T00:50:22.083099+00:00": {
+      "this_amiibo": {
+        "rating": 14.197289292472625,
+        "rating_mu": 28.33021827731359,
+        "rating_sigma": 4.710976328280322,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "6d2deb0c-9ab8-4c94-a2d7-f28f73cdfe90",
+        "name": "Mythia",
+        "rating": 28.813141200935785,
+        "trainer_id": "fdef585b-96e2-4ebe-93c3-82641f2cefd3",
+        "trainer_name": "yendekai",
+        "result": "win"
+      }
+    },
+    "2024-01-29T07:18:41.255994+00:00": {
+      "this_amiibo": {
+        "rating": 17.502882355293345,
+        "rating_mu": 30.053435943952046,
+        "rating_sigma": 4.183517862886234,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "7422653a-d6e2-4c37-aaad-61dc9cf0c3c4",
+        "name": "LIMIT-ed",
+        "rating": 22.239888607759646,
+        "trainer_id": "8e8afc6d-1590-4f28-b835-2f4617b43e85",
+        "trainer_name": "PD_Dominator",
+        "result": "loss"
+      }
+    },
+    "2024-01-30T07:33:53.045302+00:00": {
+      "this_amiibo": {
+        "rating": 16.566619483704788,
+        "rating_mu": 28.153257376012974,
+        "rating_sigma": 3.8622126307693954,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e2531ffe-e834-49ae-b233-56386472a6ed",
+        "id": "10076c61-30ac-4fb8-9363-bc663e430d5c",
+        "name": "Elphelt",
+        "rating": 16.621147764074518,
+        "trainer_id": "0f4afff3-2316-4892-9590-32c86df6fbdc",
+        "trainer_name": "splatdude96",
+        "result": "win"
+      }
     }
   }
 }

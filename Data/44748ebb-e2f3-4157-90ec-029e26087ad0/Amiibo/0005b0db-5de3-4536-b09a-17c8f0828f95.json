@@ -1636,6 +1636,40 @@
         "trainer_name": "sst_bearslayer",
         "result": "loss"
       }
+    },
+    "2024-01-26T15:22:22.981736+00:00": {
+      "this_amiibo": {
+        "rating": 22.67645920963944,
+        "rating_mu": 25.622581597474632,
+        "rating_sigma": 0.9820407959450642,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "64de2cb0-8ae1-4f48-a9e1-a79610da41d9",
+        "name": "D. Dragon",
+        "rating": 11.830603500924688,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "win"
+      }
+    },
+    "2024-01-27T00:58:08.581790+00:00": {
+      "this_amiibo": {
+        "rating": 22.832120371873984,
+        "rating_mu": 25.763110698156424,
+        "rating_sigma": 0.9769967754274809,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3a80cdac-93bb-4a75-8e38-f69f37d10ec6",
+        "id": "c3d0112c-8679-4cdf-82b7-96d45154c0c4",
+        "name": "Sophist",
+        "rating": 22.515839186963433,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "loss"
+      }
     }
   }
 }
