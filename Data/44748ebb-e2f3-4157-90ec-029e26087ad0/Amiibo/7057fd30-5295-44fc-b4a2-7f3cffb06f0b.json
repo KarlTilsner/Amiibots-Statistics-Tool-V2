@@ -344,6 +344,40 @@
         "trainer_name": "onillusions",
         "result": "win"
       }
+    },
+    "2024-04-06T00:38:35.303060+00:00": {
+      "this_amiibo": {
+        "rating": 0.009955665216490495,
+        "rating_mu": 5.9278360977460665,
+        "rating_sigma": 1.972626810843192,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "4b1da720-5fde-4575-8d1d-952fadf9801b",
+        "name": "Δανθε",
+        "rating": 0.6124176397478598,
+        "trainer_id": "b9f75440-e3f7-4c8e-8a3f-8dc09b8327ae",
+        "trainer_name": "blackstargem11",
+        "result": "loss"
+      }
+    },
+    "2024-04-06T11:13:23.474257+00:00": {
+      "this_amiibo": {
+        "rating": -0.12004873049044917,
+        "rating_mu": 5.686578668343134,
+        "rating_sigma": 1.9355424662778609,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e2531ffe-e834-49ae-b233-56386472a6ed",
+        "id": "35b95a3e-98ae-4bc8-bd30-e9b70278f9c0",
+        "name": "Trick/Star",
+        "rating": 2.9839505305479133,
+        "trainer_id": "884cb5c3-bfa9-465a-afc3-dadf89fe30b4",
+        "trainer_name": "drsalt16",
+        "result": "win"
+      }
     }
   }
 }

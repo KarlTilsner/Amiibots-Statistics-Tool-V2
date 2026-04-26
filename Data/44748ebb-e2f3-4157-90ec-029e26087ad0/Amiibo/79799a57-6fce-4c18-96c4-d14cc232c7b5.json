@@ -1024,6 +1024,40 @@
         "trainer_name": "bleeding_azalea",
         "result": "loss"
       }
+    },
+    "2024-04-05T21:34:21.407942+00:00": {
+      "this_amiibo": {
+        "rating": 27.169508850403325,
+        "rating_mu": 30.40560954432452,
+        "rating_sigma": 1.0787002313070653,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "442f8379-1d03-405e-b1cd-61425f6a1eae",
+        "name": "Valkyrja",
+        "rating": 27.623636251236302,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "win"
+      }
+    },
+    "2024-04-08T16:27:57.440577+00:00": {
+      "this_amiibo": {
+        "rating": 27.297621277274807,
+        "rating_mu": 30.52356843844487,
+        "rating_sigma": 1.0753157203900203,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "ba21451e-48cc-46fe-ad87-9f24907f35af",
+        "name": "Shoka",
+        "rating": 14.838191832178136,
+        "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
+        "trainer_name": "phantomvoltia",
+        "result": "loss"
+      }
     }
   }
 }

@@ -3489,6 +3489,40 @@
         "trainer_name": "mf_dimi",
         "result": "loss"
       }
+    },
+    "2024-04-13T06:33:09.590691+00:00": {
+      "this_amiibo": {
+        "rating": 33.68742427693644,
+        "rating_mu": 36.13219405666667,
+        "rating_sigma": 0.8149232599100756,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "bf1e59b0-abce-4548-af46-5752153e10bc",
+        "name": "Smack",
+        "rating": 33.52306449582896,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "win"
+      }
+    },
+    "2024-04-18T11:49:55.212138+00:00": {
+      "this_amiibo": {
+        "rating": 33.782626316533275,
+        "rating_mu": 36.22527380890516,
+        "rating_sigma": 0.8142158307906279,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "99101fb0-e098-4ef5-b8b0-87f74dfe9cd9",
+        "name": "Sr.Sanders",
+        "rating": 33.94073230208158,
+        "trainer_id": "5dabe73b-a5b8-4de1-a221-70f871aa60d8",
+        "trainer_name": "mf_dimi",
+        "result": "loss"
+      }
     }
   }
 }

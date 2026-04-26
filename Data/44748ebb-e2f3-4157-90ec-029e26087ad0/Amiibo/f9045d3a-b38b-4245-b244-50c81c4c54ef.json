@@ -123,6 +123,57 @@
         "trainer_name": "booomeeth",
         "result": "loss"
       }
+    },
+    "2024-04-10T00:11:28.083458+00:00": {
+      "this_amiibo": {
+        "rating": 23.638144285736487,
+        "rating_mu": 32.711092562414315,
+        "rating_sigma": 3.024316092225942,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "021e456d-5e19-417b-82b5-6ec44e1c071f",
+        "name": "2 Stack",
+        "rating": 31.303956197988168,
+        "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+        "trainer_name": "iguanope",
+        "result": "win"
+      }
+    },
+    "2024-04-12T11:53:36.629180+00:00": {
+      "this_amiibo": {
+        "rating": 24.547813774261645,
+        "rating_mu": 33.34160963193584,
+        "rating_sigma": 2.9312652858913983,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "f799a7d4-5e56-4187-b5a3-3c52130f32f5",
+        "name": "Banquo",
+        "rating": 10.891298803731672,
+        "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+        "trainer_name": "iguanope",
+        "result": "loss"
+      }
+    },
+    "2024-04-14T22:58:54.540769+00:00": {
+      "this_amiibo": {
+        "rating": 26.580841429960834,
+        "rating_mu": 34.738326438302614,
+        "rating_sigma": 2.7191616694472605,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "5834f04d-c6bb-453c-803c-586ae974060f",
+        "name": "ripper",
+        "rating": 33.56615445073518,
+        "trainer_id": "9e039111-18ec-44c2-9980-483bc1429d0d",
+        "trainer_name": "cheeseman58",
+        "result": "loss"
+      }
     }
   }
 }

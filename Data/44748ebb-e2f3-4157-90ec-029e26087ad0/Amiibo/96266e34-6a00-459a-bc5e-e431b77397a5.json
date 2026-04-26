@@ -2282,6 +2282,40 @@
         "trainer_name": "mf_dimi",
         "result": "loss"
       }
+    },
+    "2024-04-14T17:41:59.113842+00:00": {
+      "this_amiibo": {
+        "rating": 33.38258894311374,
+        "rating_mu": 35.9279555651814,
+        "rating_sigma": 0.8484555406892214,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "2d9b4dcf-be31-4c43-aec1-a53658c095ea",
+        "name": "hush",
+        "rating": 26.35629454453721,
+        "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+        "trainer_name": "iguanope",
+        "result": "win"
+      }
+    },
+    "2024-04-15T00:58:07.351123+00:00": {
+      "this_amiibo": {
+        "rating": 33.45796455489192,
+        "rating_mu": 36.005008290307266,
+        "rating_sigma": 0.8490145784717803,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "30c080f0-72c1-453d-8599-d0aa91464c0b",
+        "name": "The Savior",
+        "rating": 21.799744843581312,
+        "trainer_id": "26942317-1919-4c5c-8072-7bc3e0bc2838",
+        "trainer_name": "NurfboyU",
+        "result": "loss"
+      }
     }
   }
 }

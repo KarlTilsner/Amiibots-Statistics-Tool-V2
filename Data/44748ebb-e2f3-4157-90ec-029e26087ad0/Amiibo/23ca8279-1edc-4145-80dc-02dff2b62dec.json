@@ -395,6 +395,40 @@
         "trainer_name": "Pure_YGO",
         "result": "loss"
       }
+    },
+    "2024-04-09T10:50:36.062604+00:00": {
+      "this_amiibo": {
+        "rating": 17.616829740682217,
+        "rating_mu": 22.901464068888046,
+        "rating_sigma": 1.7615447760686098,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "60c5ec75-50ba-4dba-8666-d4ff2700777f",
+        "name": "Amory",
+        "rating": 22.720951022051615,
+        "trainer_id": "00bf2308-cc89-4d7d-9a21-4bc5b08c8077",
+        "trainer_name": "SSEpyon",
+        "result": "win"
+      }
+    },
+    "2024-04-09T21:50:48.613187+00:00": {
+      "this_amiibo": {
+        "rating": 17.425413616998334,
+        "rating_mu": 22.60021880492698,
+        "rating_sigma": 1.7249350626428817,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "6067c66d-b8bb-44e2-94fc-86f2c892e289",
+        "name": "sheik",
+        "rating": 20.097456778400712,
+        "trainer_id": "fc22fb75-de25-447b-9eef-edb405e7449e",
+        "trainer_name": "g0ld79",
+        "result": "win"
+      }
     }
   }
 }

@@ -310,6 +310,74 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2024-04-05T13:48:02.271672+00:00": {
+      "this_amiibo": {
+        "rating": 19.091343641588022,
+        "rating_mu": 25.684241510855415,
+        "rating_sigma": 2.197632623089131,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "b7cb588c-a370-40f5-a52a-260f23eb4586",
+        "name": "Ignition",
+        "rating": 11.703113298864466,
+        "trainer_id": "c5656c48-9de7-4566-91a6-45c834e63cf9",
+        "trainer_name": "netsyyy",
+        "result": "win"
+      }
+    },
+    "2024-04-12T00:27:49.250169+00:00": {
+      "this_amiibo": {
+        "rating": 19.52879241055276,
+        "rating_mu": 26.034742201887962,
+        "rating_sigma": 2.168649930445067,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "bbcba744-4f9c-476a-87bc-1932b77ca00d",
+        "name": "Orphans",
+        "rating": 0.5419947777479344,
+        "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
+        "trainer_name": "phantomvoltia",
+        "result": "loss"
+      }
+    },
+    "2024-04-16T06:43:52.767549+00:00": {
+      "this_amiibo": {
+        "rating": 21.079917156121727,
+        "rating_mu": 27.135989897606894,
+        "rating_sigma": 2.018690913828389,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "90de89e6-e389-451b-8ad7-355eb5c5ca38",
+        "name": "Puyo Puyo",
+        "rating": 23.999477608455415,
+        "trainer_id": "f15712ec-1029-4da4-b09b-8c5e7f335f7b",
+        "trainer_name": "0underscore",
+        "result": "loss"
+      }
+    },
+    "2024-04-16T04:48:23.352470+00:00": {
+      "this_amiibo": {
+        "rating": 20.30653815846761,
+        "rating_mu": 26.581727904365756,
+        "rating_sigma": 2.091729915299382,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "4d7faff0-bdd6-4f9f-9ceb-485df66e932b",
+        "name": "Omegamar",
+        "rating": 21.707708042148646,
+        "trainer_id": "de35a2a9-c617-492f-b4ef-0816d9a65a7c",
+        "trainer_name": "bunillasmile",
+        "result": "loss"
+      }
     }
   }
 }
