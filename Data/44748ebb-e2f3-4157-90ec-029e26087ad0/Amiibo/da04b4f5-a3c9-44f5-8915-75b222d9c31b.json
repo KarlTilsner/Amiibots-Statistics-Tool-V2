@@ -225,6 +225,40 @@
         "trainer_name": "burnt_cumpy",
         "result": "win"
       }
+    },
+    "2024-03-25T00:39:00.747266+00:00": {
+      "this_amiibo": {
+        "rating": 6.31919359987342,
+        "rating_mu": 13.362503397865648,
+        "rating_sigma": 2.347769932664076,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "c20653d1-baa6-4797-bacc-d9f4ac912a5c",
+        "name": "Ambition",
+        "rating": 10.32148284080592,
+        "trainer_id": "a03324ae-7a0c-4a4a-a608-046e54c99664",
+        "trainer_name": "picvity",
+        "result": "win"
+      }
+    },
+    "2024-03-31T11:35:25.959064+00:00": {
+      "this_amiibo": {
+        "rating": 7.270552300140579,
+        "rating_mu": 14.023915094671064,
+        "rating_sigma": 2.2511209315101617,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "58c94498-9528-4f21-ba1f-086e1b9a8474",
+        "name": "BoxingRing",
+        "rating": 8.405983573708703,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "loss"
+      }
     }
   }
 }

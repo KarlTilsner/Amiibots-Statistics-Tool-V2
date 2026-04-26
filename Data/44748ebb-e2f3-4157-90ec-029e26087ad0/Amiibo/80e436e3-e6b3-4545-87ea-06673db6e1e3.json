@@ -701,6 +701,40 @@
         "trainer_name": "MMMMMMMMTTYYY_",
         "result": "loss"
       }
+    },
+    "2024-03-29T19:50:53.029297+00:00": {
+      "this_amiibo": {
+        "rating": 22.12508168202362,
+        "rating_mu": 25.948508825346263,
+        "rating_sigma": 1.2744757144408814,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "f5ac672a-0991-493b-a1e2-4d0717291821",
+        "name": "Mares",
+        "rating": 12.01575287111531,
+        "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+        "trainer_name": "iguanope",
+        "result": "win"
+      }
+    },
+    "2024-04-01T21:45:45.611119+00:00": {
+      "this_amiibo": {
+        "rating": 22.252529669364876,
+        "rating_mu": 26.065882565029572,
+        "rating_sigma": 1.2711176318882322,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "906374a8-f0fc-40f2-a275-7b620aaba2dd",
+        "name": "Imposter F",
+        "rating": 0.7074797923008056,
+        "trainer_id": "3fd8383d-5b56-4dbd-a550-4d1b902dbb48",
+        "trainer_name": "onillusions",
+        "result": "loss"
+      }
     }
   }
 }

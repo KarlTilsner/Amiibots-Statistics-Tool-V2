@@ -497,6 +497,40 @@
         "trainer_name": "EBReggie",
         "result": "win"
       }
+    },
+    "2024-03-20T21:31:31.474951+00:00": {
+      "this_amiibo": {
+        "rating": 28.887015950874755,
+        "rating_mu": 33.32474112009447,
+        "rating_sigma": 1.4792417230732389,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "4c3adfb7-6348-42e6-b10e-23ef28cc81bc",
+        "name": "Adzuki",
+        "rating": 31.038302749254818,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
+    },
+    "2024-03-27T05:00:22.367044+00:00": {
+      "this_amiibo": {
+        "rating": 29.25665845010312,
+        "rating_mu": 33.61915711966013,
+        "rating_sigma": 1.4541662231856696,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7",
+        "id": "d9d01007-29ab-4534-bbe0-8baf032dbef9",
+        "name": "Archimedes",
+        "rating": 29.309853747600133,
+        "trainer_id": "c1461260-903f-4aae-ad42-af21e07e1e98",
+        "trainer_name": "MoonBeanBie",
+        "result": "loss"
+      }
     }
   }
 }

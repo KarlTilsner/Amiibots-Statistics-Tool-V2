@@ -446,6 +446,57 @@
         "trainer_name": "MiDe1",
         "result": "loss"
       }
+    },
+    "2024-03-26T08:07:02.901871+00:00": {
+      "this_amiibo": {
+        "rating": 39.07158440721139,
+        "rating_mu": 43.742939083907245,
+        "rating_sigma": 1.557118225565286,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "dedbce26-b86a-46f7-a7e7-c90f824438bf",
+        "name": "grrrrrrrrr",
+        "rating": 40.427961222818844,
+        "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+        "trainer_name": "iguanope",
+        "result": "win"
+      }
+    },
+    "2024-03-28T07:05:53.126935+00:00": {
+      "this_amiibo": {
+        "rating": 39.48783796080087,
+        "rating_mu": 44.06877666100794,
+        "rating_sigma": 1.5269795667356894,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "dedbce26-b86a-46f7-a7e7-c90f824438bf",
+        "name": "grrrrrrrrr",
+        "rating": 40.70615744481621,
+        "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+        "trainer_name": "iguanope",
+        "result": "loss"
+      }
+    },
+    "2024-03-29T12:44:57.076171+00:00": {
+      "this_amiibo": {
+        "rating": 39.841207769083645,
+        "rating_mu": 44.342298853238816,
+        "rating_sigma": 1.5003636947183896,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "dedbce26-b86a-46f7-a7e7-c90f824438bf",
+        "name": "grrrrrrrrr",
+        "rating": 40.222453451272465,
+        "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+        "trainer_name": "iguanope",
+        "result": "loss"
+      }
     }
   }
 }
