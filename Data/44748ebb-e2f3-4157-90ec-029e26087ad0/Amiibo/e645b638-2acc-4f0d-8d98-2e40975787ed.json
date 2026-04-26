@@ -225,6 +225,40 @@
         "trainer_name": "swiftsg_official",
         "result": "loss"
       }
+    },
+    "2023-06-11T10:19:23.919587+00:00": {
+      "this_amiibo": {
+        "rating": 23.29184289070623,
+        "rating_mu": 30.34783497723358,
+        "rating_sigma": 2.351997362175782,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "5104603d-0cf0-4b9d-a1b2-41cec43892c1",
+        "name": "WAHOO",
+        "rating": 26.282047374609817,
+        "trainer_id": "dcb98c31-7906-4c19-a96b-02013f8ddccd",
+        "trainer_name": "boeufman21",
+        "result": "win"
+      }
+    },
+    "2023-06-14T19:24:13.641271+00:00": {
+      "this_amiibo": {
+        "rating": 23.95490801795004,
+        "rating_mu": 30.805206977234015,
+        "rating_sigma": 2.2834329864279925,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "3a15cf89-4d39-41a2-b74a-9a19145f3ce2",
+        "name": "goodnessme",
+        "rating": 17.04308702826144,
+        "trainer_id": "f3f91bf9-c7ea-452b-8a31-fee34533b967",
+        "trainer_name": "imeanhonestly1",
+        "result": "loss"
+      }
     }
   }
 }

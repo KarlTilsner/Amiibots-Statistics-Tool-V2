@@ -1602,6 +1602,57 @@
         "trainer_name": "SharingEagle",
         "result": "loss"
       }
+    },
+    "2023-06-17T04:00:15.002570+00:00": {
+      "this_amiibo": {
+        "rating": 23.902938908170675,
+        "rating_mu": 26.94647642779221,
+        "rating_sigma": 1.0145125065405116,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "60625ae4-e0ec-4632-a6b5-6f668fe4031a",
+        "name": "Momochi",
+        "rating": 22.616897143934374,
+        "trainer_id": "b64b2c5c-83b6-42ad-8f0c-9e786d45a56b",
+        "trainer_name": "BCRiparo",
+        "result": "win"
+      }
+    },
+    "2023-06-17T16:15:15.751186+00:00": {
+      "this_amiibo": {
+        "rating": 23.75541884097692,
+        "rating_mu": 26.784395413926458,
+        "rating_sigma": 1.0096588576498458,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "a453d1ff-729a-400d-be6c-b237f8238cc5",
+        "name": "come here",
+        "rating": 17.856601432359327,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
+        "result": "win"
+      }
+    },
+    "2023-06-17T16:06:41.617813+00:00": {
+      "this_amiibo": {
+        "rating": 23.81219274348672,
+        "rating_mu": 26.84140166186461,
+        "rating_sigma": 1.0097363061259634,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "f1be1518-b257-489d-be2b-15aeeb6d9b30",
+        "name": "LasagnaMan",
+        "rating": 26.412113199277144,
+        "trainer_id": "4f6f55b1-cf3e-4c7b-a378-2641d72fcf23",
+        "trainer_name": "TheLimpWalrus",
+        "result": "win"
+      }
     }
   }
 }

@@ -3574,6 +3574,40 @@
         "trainer_name": "Salty_Smash_NB",
         "result": "loss"
       }
+    },
+    "2023-06-05T14:12:39.796339+00:00": {
+      "this_amiibo": {
+        "rating": 34.40825971054118,
+        "rating_mu": 36.957122363694076,
+        "rating_sigma": 0.8496208843842973,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "92055502-b89b-49d2-a1c2-cfa054696073",
+        "name": "Grundy",
+        "rating": 28.720373850895143,
+        "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
+        "trainer_name": "LovingStew",
+        "result": "win"
+      }
+    },
+    "2023-06-15T14:24:10.059591+00:00": {
+      "this_amiibo": {
+        "rating": 34.49642984801762,
+        "rating_mu": 37.04204962603585,
+        "rating_sigma": 0.8485399260060768,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "1fee4af3-aa1c-45ee-85e2-464fa8c817da",
+        "name": "Demon King",
+        "rating": 32.99949452437593,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "loss"
+      }
     }
   }
 }

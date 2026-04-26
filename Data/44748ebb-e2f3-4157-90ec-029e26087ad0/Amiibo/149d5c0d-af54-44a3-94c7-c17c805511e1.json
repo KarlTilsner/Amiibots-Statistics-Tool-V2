@@ -4118,6 +4118,40 @@
         "trainer_name": "apple_beebs",
         "result": "loss"
       }
+    },
+    "2023-06-15T12:14:54.069730+00:00": {
+      "this_amiibo": {
+        "rating": 21.837622377198894,
+        "rating_mu": 24.45802351976104,
+        "rating_sigma": 0.8734670475207145,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "0783bc66-2d81-46cc-968f-3185caeffdce",
+        "name": "Nami",
+        "rating": 25.296857334621627,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "win"
+      }
+    },
+    "2023-06-17T14:52:54.899846+00:00": {
+      "this_amiibo": {
+        "rating": 21.90958951550057,
+        "rating_mu": 24.527222167876175,
+        "rating_sigma": 0.872544217458535,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "15881384-5179-4b74-9a09-938a53ff47c0",
+        "name": "W + chozo",
+        "rating": 18.192894840746725,
+        "trainer_id": "e8c6f727-e895-4e54-846a-ddcacdcac925",
+        "trainer_name": "INTERPUNCT_",
+        "result": "loss"
+      }
     }
   }
 }

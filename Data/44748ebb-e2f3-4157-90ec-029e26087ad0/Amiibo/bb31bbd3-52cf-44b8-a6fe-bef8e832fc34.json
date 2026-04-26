@@ -123,6 +123,57 @@
         "trainer_name": "sst_bearslayer",
         "result": "loss"
       }
+    },
+    "2023-06-06T09:32:16.494588+00:00": {
+      "this_amiibo": {
+        "rating": 11.161924846618602,
+        "rating_mu": 19.766926882126572,
+        "rating_sigma": 2.8683340118359903,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "5bb356cd-becc-441d-96b3-48fb3ec2bfd9",
+        "name": "Inkblot",
+        "rating": 15.64746819441758,
+        "trainer_id": "2f9c8c00-fa6a-404d-8718-68edf85cb21f",
+        "trainer_name": "irongelatin",
+        "result": "win"
+      }
+    },
+    "2023-06-10T13:59:42.162079+00:00": {
+      "this_amiibo": {
+        "rating": 12.607383106583775,
+        "rating_mu": 20.700455810444176,
+        "rating_sigma": 2.6976909012868,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "b5b2524b-2ec2-40df-ab24-585304891425",
+        "name": "Legiana",
+        "rating": 16.184743643778873,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    },
+    "2023-06-12T16:45:17.217898+00:00": {
+      "this_amiibo": {
+        "rating": 13.747644292205221,
+        "rating_mu": 21.43322982827726,
+        "rating_sigma": 2.561861845357346,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
+        "id": "95fc5255-0fb3-47b5-b127-ef8e19f921f5",
+        "name": "Axl Low",
+        "rating": 16.17067318041637,
+        "trainer_id": "0d8f63de-0fcb-409c-b4bf-68a366083ee9",
+        "trainer_name": "ValerianFlame",
+        "result": "loss"
+      }
     }
   }
 }

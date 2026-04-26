@@ -242,6 +242,57 @@
         "trainer_name": "Zizogod",
         "result": "loss"
       }
+    },
+    "2023-06-07T09:04:44.339341+00:00": {
+      "this_amiibo": {
+        "rating": 16.89106257853298,
+        "rating_mu": 23.411859509906936,
+        "rating_sigma": 2.173598977124651,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 24.99100349960269,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "win"
+      }
+    },
+    "2023-06-08T07:20:22.136426+00:00": {
+      "this_amiibo": {
+        "rating": 17.91331652004133,
+        "rating_mu": 24.20498499901415,
+        "rating_sigma": 2.0972228263242734,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
+        "id": "56437f8e-af22-4887-8dc0-5f255962f3f8",
+        "name": "TerreRiche",
+        "rating": 16.745079668193487,
+        "trainer_id": "6dc742b4-3fe4-4c3a-8d77-81dde5ea3025",
+        "trainer_name": "ShiiroNekowo",
+        "result": "loss"
+      }
+    },
+    "2023-06-13T06:25:35.370752+00:00": {
+      "this_amiibo": {
+        "rating": 17.496460943774593,
+        "rating_mu": 23.552945921422445,
+        "rating_sigma": 2.0188283258826174,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "e5b03ad3-51f8-4663-9665-dbacd2efd351",
+        "name": "The Glue",
+        "rating": 20.174721263300803,
+        "trainer_id": "2449752e-dba5-4319-82a0-3463ed6750fd",
+        "trainer_name": "the_definitive_mick",
+        "result": "win"
+      }
     }
   }
 }

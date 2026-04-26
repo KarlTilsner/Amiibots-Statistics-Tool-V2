@@ -106,6 +106,57 @@
         "trainer_name": "calamarus_",
         "result": "loss"
       }
+    },
+    "2023-06-14T19:00:44.862824+00:00": {
+      "this_amiibo": {
+        "rating": 17.921453912095526,
+        "rating_mu": 27.178824039282176,
+        "rating_sigma": 3.08579004239555,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "ae5152be-17fc-4a90-b4e6-502bb7ef97e3",
+        "name": "Arianna",
+        "rating": 22.28482585770896,
+        "trainer_id": "52395cd5-7302-493e-a7a9-c0cf640159cd",
+        "trainer_name": "mafriel",
+        "result": "win"
+      }
+    },
+    "2023-06-15T05:06:43.758675+00:00": {
+      "this_amiibo": {
+        "rating": 19.394498625696173,
+        "rating_mu": 28.07654960736662,
+        "rating_sigma": 2.894016993890148,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "40a3f482-9bd6-4313-b441-14e8844a81e4",
+        "name": "Bungee",
+        "rating": 22.536715888664617,
+        "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
+        "trainer_name": "Lucina_Nadine",
+        "result": "loss"
+      }
+    },
+    "2023-06-17T22:02:53.161252+00:00": {
+      "this_amiibo": {
+        "rating": 18.881114843087314,
+        "rating_mu": 27.00688730119583,
+        "rating_sigma": 2.7085908193695056,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "222801f4-db5d-442a-9d36-49326f7f86a6",
+        "name": "WholeGrain",
+        "rating": 25.172342494933915,
+        "trainer_id": "ab7ba0e4-b4fc-4450-9b33-75fec3fb63fc",
+        "trainer_name": "Vintro_K",
+        "result": "win"
+      }
     }
   }
 }

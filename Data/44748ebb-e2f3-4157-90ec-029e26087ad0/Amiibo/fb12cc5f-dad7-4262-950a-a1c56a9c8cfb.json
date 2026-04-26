@@ -89,6 +89,57 @@
         "trainer_name": "Murbert_AM",
         "result": "loss"
       }
+    },
+    "2023-06-10T22:55:57.321510+00:00": {
+      "this_amiibo": {
+        "rating": 24.243032701019487,
+        "rating_mu": 33.51696946123883,
+        "rating_sigma": 3.0913122534064468,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "4f9aa3db-0207-4089-8db4-26b53629780d",
+        "name": "--Matt--",
+        "rating": 31.660328505259006,
+        "trainer_id": "c3fe3b7f-7e85-43c1-9749-435494d5d429",
+        "trainer_name": "CJMaster3",
+        "result": "win"
+      }
+    },
+    "2023-06-10T16:59:25.824760+00:00": {
+      "this_amiibo": {
+        "rating": 24.841334015943136,
+        "rating_mu": 34.9559007246054,
+        "rating_sigma": 3.371522236220754,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "13a2b865-9164-40e7-b4b9-9b3320c6cffc",
+        "name": "Jörmngandr",
+        "rating": 22.050230969224547,
+        "trainer_id": "3c2659e1-5fee-4b6b-98e3-594aec223a09",
+        "trainer_name": "brain_dread",
+        "result": "loss"
+      }
+    },
+    "2023-06-11T04:50:18.745360+00:00": {
+      "this_amiibo": {
+        "rating": 23.7198465519767,
+        "rating_mu": 32.33466127336048,
+        "rating_sigma": 2.871604907127926,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "8f5450f6-eac2-493f-b4c6-fe63c1936c69",
+        "name": "frogcake",
+        "rating": 30.891521298123607,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "win"
+      }
     }
   }
 }

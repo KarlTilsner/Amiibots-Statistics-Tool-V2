@@ -1653,6 +1653,40 @@
         "trainer_name": "mafriel",
         "result": "loss"
       }
+    },
+    "2023-06-11T14:25:52.272464+00:00": {
+      "this_amiibo": {
+        "rating": 32.994994375331764,
+        "rating_mu": 35.72730197563813,
+        "rating_sigma": 0.910769200102122,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "693b8f29-ede7-4662-9a72-e7c8df322f5a",
+        "name": "Vash",
+        "rating": 30.50214891947206,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "win"
+      }
+    },
+    "2023-06-14T10:40:55.859614+00:00": {
+      "this_amiibo": {
+        "rating": 33.11525436030372,
+        "rating_mu": 35.83931373518026,
+        "rating_sigma": 0.9080197916255133,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "fead1dca-78d9-4e9e-b114-dddd8cfb298a",
+        "name": "Vulture",
+        "rating": 31.279766455190007,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "loss"
+      }
     }
   }
 }

@@ -72,6 +72,40 @@
         "trainer_name": "eon_ii",
         "result": "win"
       }
+    },
+    "2023-06-12T03:16:47.683782+00:00": {
+      "this_amiibo": {
+        "rating": 12.91162654428134,
+        "rating_mu": 22.67130917432652,
+        "rating_sigma": 3.2532275433483937,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "f7278322-7f8a-4540-86d9-26d156cb6669",
+        "name": "A Child",
+        "rating": 12.37963106898439,
+        "trainer_id": "014cbd7d-3976-48c6-929d-d64677762669",
+        "trainer_name": "Illialidur",
+        "result": "loss"
+      }
+    },
+    "2023-06-12T02:46:10.485267+00:00": {
+      "this_amiibo": {
+        "rating": 10.984594296245866,
+        "rating_mu": 21.493778109716857,
+        "rating_sigma": 3.503061271156997,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "a334dc85-177a-41f1-b935-bec06b58f94c",
+        "name": "CHRONOS",
+        "rating": 18.35549618643115,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
     }
   }
 }

@@ -1568,6 +1568,74 @@
         "trainer_name": "AlexanderAgne",
         "result": "win"
       }
+    },
+    "2023-06-06T13:35:48.437939+00:00": {
+      "this_amiibo": {
+        "rating": 22.66054833913921,
+        "rating_mu": 25.67707008759812,
+        "rating_sigma": 1.0055072494863029,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "c49dd4d1-5515-4029-afc2-5d95d76c468e",
+        "name": "The Lemon",
+        "rating": 26.487988394748978,
+        "trainer_id": "57e4f98b-8ccc-4969-aabf-a583e1955f48",
+        "trainer_name": "buddabas",
+        "result": "win"
+      }
+    },
+    "2023-06-07T02:59:15.708786+00:00": {
+      "this_amiibo": {
+        "rating": 22.565337573944035,
+        "rating_mu": 25.56993502859718,
+        "rating_sigma": 1.001532484884381,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "751ffaf5-903d-4f87-b8d5-a611376e9112",
+        "name": "The Exalt",
+        "rating": 20.91527986971042,
+        "trainer_id": "014cbd7d-3976-48c6-929d-d64677762669",
+        "trainer_name": "Illialidur",
+        "result": "win"
+      }
+    },
+    "2023-06-12T03:47:53.496508+00:00": {
+      "this_amiibo": {
+        "rating": 22.698374676824393,
+        "rating_mu": 25.688953346715135,
+        "rating_sigma": 0.9968595566302476,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "7a305295-4a88-45b1-a4ef-b9a7a8703c84",
+        "name": "Mark",
+        "rating": 19.83222021866136,
+        "trainer_id": "014cbd7d-3976-48c6-929d-d64677762669",
+        "trainer_name": "Illialidur",
+        "result": "loss"
+      }
+    },
+    "2023-06-13T22:22:08.806371+00:00": {
+      "this_amiibo": {
+        "rating": 22.60874951477434,
+        "rating_mu": 25.58628601026903,
+        "rating_sigma": 0.9925121651648977,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "56182d39-e3f2-457f-a187-bc0cecc1d701",
+        "name": "Pablo",
+        "rating": 25.079941615970814,
+        "trainer_id": "3cbcee26-5d55-4a02-8027-c374b0853871",
+        "trainer_name": "NytrozypicRL",
+        "result": "win"
+      }
     }
   }
 }

@@ -157,6 +157,40 @@
         "trainer_name": "cloverlime",
         "result": "loss"
       }
+    },
+    "2023-06-13T13:30:56.702122+00:00": {
+      "this_amiibo": {
+        "rating": 24.233731579385132,
+        "rating_mu": 32.07678875818735,
+        "rating_sigma": 2.614352392934072,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "2d80c906-61c4-4284-9e0c-0108aec1e988",
+        "name": "WillNE",
+        "rating": 31.965376109613192,
+        "trainer_id": "60da30bf-e5b0-4412-9074-ff7938d147ea",
+        "trainer_name": "SniperJenko",
+        "result": "win"
+      }
+    },
+    "2023-06-13T20:52:09.591356+00:00": {
+      "this_amiibo": {
+        "rating": 25.16847285091704,
+        "rating_mu": 32.68467421336667,
+        "rating_sigma": 2.5054004541498753,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "60e92cb2-10e9-4382-a204-fe25095bf29b",
+        "name": "Amiibo Dr.",
+        "rating": 22.989458956634795,
+        "trainer_id": "0fb55565-9a16-4eaf-9ae8-e089b432d6f0",
+        "trainer_name": "ranchDK",
+        "result": "loss"
+      }
     }
   }
 }

@@ -242,6 +242,40 @@
         "trainer_name": "MiDe1",
         "result": "win"
       }
+    },
+    "2023-06-14T06:05:37.129421+00:00": {
+      "this_amiibo": {
+        "rating": 19.708117440375645,
+        "rating_mu": 26.302406335285475,
+        "rating_sigma": 2.1980962983032764,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "b3c19ca8-384c-4871-85b6-40900c1b1919",
+        "name": "Lumina",
+        "rating": 0.5828545835804668,
+        "trainer_id": "14fad0a9-3b5f-4f0e-ba09-0926e5e731fe",
+        "trainer_name": "UmbraSSBU",
+        "result": "loss"
+      }
+    },
+    "2023-06-17T18:45:18.809629+00:00": {
+      "this_amiibo": {
+        "rating": 19.345786244841797,
+        "rating_mu": 25.78086583044014,
+        "rating_sigma": 2.145026528532781,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "04330f41-2281-4c90-955b-014b9c84d5eb",
+        "name": "Soul Edge",
+        "rating": 15.114209348361264,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
     }
   }
 }

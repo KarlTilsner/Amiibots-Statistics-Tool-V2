@@ -548,6 +548,23 @@
         "trainer_name": "Zoom__",
         "result": "loss"
       }
+    },
+    "2023-06-15T13:19:43.713020+00:00": {
+      "this_amiibo": {
+        "rating": 23.93266847250085,
+        "rating_mu": 28.25060165841708,
+        "rating_sigma": 1.4393110619720764,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "33c971f1-4110-488a-a53e-1c29be87ee03",
+        "name": "Terry Ren",
+        "rating": 28.052699848435086,
+        "trainer_id": "7e0c5589-f8ae-4cc3-89dc-f8363d2d2a83",
+        "trainer_name": "agent_gforce",
+        "result": "win"
+      }
     }
   }
 }

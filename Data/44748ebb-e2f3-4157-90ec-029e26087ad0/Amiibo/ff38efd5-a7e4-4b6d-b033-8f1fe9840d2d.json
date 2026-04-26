@@ -191,6 +191,40 @@
         "trainer_name": "sp_staples",
         "result": "loss"
       }
+    },
+    "2023-06-16T22:55:49.548645+00:00": {
+      "this_amiibo": {
+        "rating": 24.905978954423354,
+        "rating_mu": 32.283063017655245,
+        "rating_sigma": 2.4590280210772977,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "3c1f5e8a-5ae7-4deb-a735-7f532516367b",
+        "name": "Shepard",
+        "rating": 28.019390502525024,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "win"
+      }
+    },
+    "2023-06-17T12:26:39.356508+00:00": {
+      "this_amiibo": {
+        "rating": 25.91715100614366,
+        "rating_mu": 33.00115656809571,
+        "rating_sigma": 2.36133518731735,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "84f75b9f-505f-448f-a1a0-f1022d890959",
+        "name": "BonnyTyler",
+        "rating": 23.16318955086355,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "22_woah",
+        "result": "loss"
+      }
     }
   }
 }

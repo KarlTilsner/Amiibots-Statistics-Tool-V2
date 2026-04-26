@@ -1109,6 +1109,40 @@
         "trainer_name": "forenmagra",
         "result": "loss"
       }
+    },
+    "2023-06-09T13:23:48.908033+00:00": {
+      "this_amiibo": {
+        "rating": 31.15130834714036,
+        "rating_mu": 34.27842214901122,
+        "rating_sigma": 1.042371267290286,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "0f715683-d1b8-498a-9176-d5eab3d838a9",
+        "name": "片翼の天使",
+        "rating": 31.469174660821732,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "win"
+      }
+    },
+    "2023-06-19T10:41:12.606301+00:00": {
+      "this_amiibo": {
+        "rating": 31.247709009196484,
+        "rating_mu": 34.36192668199319,
+        "rating_sigma": 1.0380725575989014,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "129f4aa8-f9e3-4beb-a571-afe2ef9abec9",
+        "name": "IGuyW",
+        "rating": 27.708882623496113,
+        "trainer_id": "a783d150-bd51-4b0c-9379-b32e55643dac",
+        "trainer_name": "iguyw",
+        "result": "loss"
+      }
     }
   }
 }

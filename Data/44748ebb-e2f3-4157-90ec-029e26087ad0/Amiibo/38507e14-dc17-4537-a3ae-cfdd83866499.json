@@ -276,6 +276,40 @@
         "trainer_name": "aidanman3106",
         "result": "loss"
       }
+    },
+    "2023-06-05T14:24:50.582429+00:00": {
+      "this_amiibo": {
+        "rating": 29.40957151158986,
+        "rating_mu": 35.319050447576124,
+        "rating_sigma": 1.9698263119954216,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "a03225d5-32d1-4ef4-b9e5-4545629909f4",
+        "name": "King Bro",
+        "rating": 34.097637003183685,
+        "trainer_id": "84666a30-0314-432b-80e8-d4e0f627cde4",
+        "trainer_name": "aidanman3106",
+        "result": "win"
+      }
+    },
+    "2023-06-11T23:00:57.253792+00:00": {
+      "this_amiibo": {
+        "rating": 30.065547147586553,
+        "rating_mu": 35.795009474018066,
+        "rating_sigma": 1.9098207754771708,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "795b0fdd-85e0-46fa-a510-cce31dc36208",
+        "name": "Kira",
+        "rating": 32.11777586631453,
+        "trainer_id": "0ef948e8-8ead-4690-85d5-1a6b46d0aa45",
+        "trainer_name": "Losinik",
+        "result": "loss"
+      }
     }
   }
 }

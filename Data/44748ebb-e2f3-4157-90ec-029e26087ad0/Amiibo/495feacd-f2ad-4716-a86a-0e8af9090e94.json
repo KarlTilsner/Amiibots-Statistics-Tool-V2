@@ -242,6 +242,40 @@
         "trainer_name": "track8regret",
         "result": "win"
       }
+    },
+    "2023-06-11T07:39:04.747703+00:00": {
+      "this_amiibo": {
+        "rating": 9.220420977495447,
+        "rating_mu": 15.874836112548778,
+        "rating_sigma": 2.21813837835111,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
+        "id": "c305cc36-7780-40e0-ae5c-d4eab8e3d031",
+        "name": "SCP-38",
+        "rating": 3.7015506391776416,
+        "trainer_id": "8806a0a9-04df-48a0-9b3e-357f8177411c",
+        "trainer_name": "fake_l3af",
+        "result": "loss"
+      }
+    },
+    "2023-06-12T01:42:24.107109+00:00": {
+      "this_amiibo": {
+        "rating": 9.689421316673213,
+        "rating_mu": 16.173399061322815,
+        "rating_sigma": 2.1613259148832005,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "eb8f0f89-419e-4609-b5fa-01f97af6b5bf",
+        "name": "Toamii",
+        "rating": 5.9578027554322155,
+        "trainer_id": "247b5ff9-4879-4821-bdeb-d49601798188",
+        "trainer_name": "mixling_",
+        "result": "loss"
+      }
     }
   }
 }
