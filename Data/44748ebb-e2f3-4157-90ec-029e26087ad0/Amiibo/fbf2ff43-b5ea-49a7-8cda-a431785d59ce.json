@@ -1874,6 +1874,40 @@
         "trainer_name": "Adam2qaz",
         "result": "loss"
       }
+    },
+    "2023-08-25T08:43:49.488736+00:00": {
+      "this_amiibo": {
+        "rating": 29.192926508461692,
+        "rating_mu": 31.885589557629572,
+        "rating_sigma": 0.8975543497226263,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "50ac18d1-eca7-4c5a-82b0-13dd7495b100",
+        "name": "Luigi",
+        "rating": 29.083568706492883,
+        "trainer_id": "e819f7ca-4d21-4e94-8e30-7edff2b94fc5",
+        "trainer_name": "DogBoyton",
+        "result": "win"
+      }
+    },
+    "2023-09-01T11:04:54.144206+00:00": {
+      "this_amiibo": {
+        "rating": 29.30639233537104,
+        "rating_mu": 31.991481247534495,
+        "rating_sigma": 0.8950296373878178,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "13010aa5-6050-4d92-838c-5e4c052e9e7f",
+        "name": "HAM",
+        "rating": 28.86569014921117,
+        "trainer_id": "f15712ec-1029-4da4-b09b-8c5e7f335f7b",
+        "trainer_name": "0underscore",
+        "result": "loss"
+      }
     }
   }
 }

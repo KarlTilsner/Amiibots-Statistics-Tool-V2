@@ -2520,6 +2520,40 @@
         "trainer_name": "ancuki",
         "result": "loss"
       }
+    },
+    "2023-08-24T09:32:39.489558+00:00": {
+      "this_amiibo": {
+        "rating": 23.949628052159756,
+        "rating_mu": 26.520213646619332,
+        "rating_sigma": 0.8568618648198583,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "4a7a2482-437d-40fb-9a74-83b385dc7da1",
+        "name": "Kagari",
+        "rating": 19.92484313398888,
+        "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
+        "trainer_name": "CikadaKing",
+        "result": "win"
+      }
+    },
+    "2023-08-24T23:13:33.951517+00:00": {
+      "this_amiibo": {
+        "rating": 24.036891758420282,
+        "rating_mu": 26.604857587607306,
+        "rating_sigma": 0.8559886097290075,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "d246fd84-7188-4eb5-8f49-8a566f39e214",
+        "name": "Silhouette",
+        "rating": 19.37231680620961,
+        "trainer_id": "a3fa8592-cc43-4769-b360-57911517c725",
+        "trainer_name": "itspseudonotpsuedo",
+        "result": "loss"
+      }
     }
   }
 }

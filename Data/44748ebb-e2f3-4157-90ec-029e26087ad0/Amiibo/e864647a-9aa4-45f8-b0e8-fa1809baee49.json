@@ -531,6 +531,40 @@
         "trainer_name": "AmiiboDoctor",
         "result": "loss"
       }
+    },
+    "2023-08-21T07:42:10.097094+00:00": {
+      "this_amiibo": {
+        "rating": 22.593417682739037,
+        "rating_mu": 26.894666847491855,
+        "rating_sigma": 1.4337497215842723,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "deeb6fe7-2606-4c5a-a3b9-4bb2bf77ccbf",
+        "name": "Selde",
+        "rating": 21.542688259500917,
+        "trainer_id": "7f8b523d-feed-49f6-a608-88bf508984f0",
+        "trainer_name": "SepiksComposite",
+        "result": "win"
+      }
+    },
+    "2023-08-28T22:23:18.229231+00:00": {
+      "this_amiibo": {
+        "rating": 22.920996632288084,
+        "rating_mu": 27.157486860784054,
+        "rating_sigma": 1.4121634094986566,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "2790cb90-ebcb-49b1-86f2-641b601ba7e3",
+        "name": "U.I. Kenny",
+        "rating": 21.556108946004937,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "loss"
+      }
     }
   }
 }

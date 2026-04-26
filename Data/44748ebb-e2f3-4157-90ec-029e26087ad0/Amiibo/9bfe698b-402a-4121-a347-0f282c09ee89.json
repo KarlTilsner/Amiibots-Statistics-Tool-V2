@@ -1245,6 +1245,40 @@
         "trainer_name": "leeya310",
         "result": "loss"
       }
+    },
+    "2023-08-30T17:34:03.036334+00:00": {
+      "this_amiibo": {
+        "rating": 38.57685476966294,
+        "rating_mu": 41.53065334736827,
+        "rating_sigma": 0.9845995259017789,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "ad8e4188-fbd6-43c8-aed1-22dd52b66ab4",
+        "name": "Radahn",
+        "rating": 36.12880302989632,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "win"
+      }
+    },
+    "2023-09-04T16:33:26.887939+00:00": {
+      "this_amiibo": {
+        "rating": 38.712431953893166,
+        "rating_mu": 41.65285573709635,
+        "rating_sigma": 0.9801412610677296,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "ad8e4188-fbd6-43c8-aed1-22dd52b66ab4",
+        "name": "Radahn",
+        "rating": 36.413905136871435,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "loss"
+      }
     }
   }
 }

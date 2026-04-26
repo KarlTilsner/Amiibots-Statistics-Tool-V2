@@ -38,6 +38,40 @@
         "trainer_name": "AstrobeatSaturn",
         "result": "loss"
       }
+    },
+    "2023-08-31T21:03:39.338339+00:00": {
+      "this_amiibo": {
+        "rating": 17.94166372733792,
+        "rating_mu": 31.131986437183958,
+        "rating_sigma": 4.396774236615346,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "e9502a7c-80a0-43e3-88be-2384ca2b5bed",
+        "name": "Adzuki",
+        "rating": 31.10081649627651,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
+    },
+    "2023-09-01T10:33:55.570538+00:00": {
+      "this_amiibo": {
+        "rating": 21.532809765970498,
+        "rating_mu": 33.18515296700028,
+        "rating_sigma": 3.88411440034326,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "bae7c788-281d-4c0f-97cb-6967fab62e71",
+        "name": "mk pig",
+        "rating": 26.90964610297695,
+        "trainer_id": "8e290d89-5484-46ab-b222-914c45b7b11c",
+        "trainer_name": "pixel_gunners",
+        "result": "loss"
+      }
     }
   }
 }

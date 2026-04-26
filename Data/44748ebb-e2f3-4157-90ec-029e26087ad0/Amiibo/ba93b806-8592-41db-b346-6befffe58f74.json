@@ -242,6 +242,40 @@
         "trainer_name": "bluerunner0",
         "result": "loss"
       }
+    },
+    "2023-08-22T17:01:13.633256+00:00": {
+      "this_amiibo": {
+        "rating": 26.924010473579017,
+        "rating_mu": 33.04444932103428,
+        "rating_sigma": 2.0401462824850873,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "87c8ea7d-e67c-4cf5-b949-6ee2fb897ffe",
+        "name": "Gladius",
+        "rating": 29.83608886569969,
+        "trainer_id": "23a473d9-4806-4cd3-ad7b-8f41dbff3415",
+        "trainer_name": "vx_pm3",
+        "result": "win"
+      }
+    },
+    "2023-09-03T13:03:29.015938+00:00": {
+      "this_amiibo": {
+        "rating": 26.641315890403735,
+        "rating_mu": 32.57089658538006,
+        "rating_sigma": 1.9765268983254423,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "87c8ea7d-e67c-4cf5-b949-6ee2fb897ffe",
+        "name": "Gladius",
+        "rating": 30.435498375054447,
+        "trainer_id": "23a473d9-4806-4cd3-ad7b-8f41dbff3415",
+        "trainer_name": "vx_pm3",
+        "result": "win"
+      }
     }
   }
 }

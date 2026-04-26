@@ -140,6 +140,57 @@
         "trainer_name": "brain_dread",
         "result": "loss"
       }
+    },
+    "2023-08-25T22:22:01.736952+00:00": {
+      "this_amiibo": {
+        "rating": 24.86053533512394,
+        "rating_mu": 32.92904895235677,
+        "rating_sigma": 2.689504539077611,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "7b28c3f3-212f-404b-80c8-4a39bebab75a",
+        "name": "Boris",
+        "rating": 31.821768507018817,
+        "trainer_id": "896ea818-2f47-4338-b4da-9509b314cdbe",
+        "trainer_name": "mechatr0ns",
+        "result": "win"
+      }
+    },
+    "2023-08-28T12:54:58.827243+00:00": {
+      "this_amiibo": {
+        "rating": 25.69170993257141,
+        "rating_mu": 33.44813541548906,
+        "rating_sigma": 2.585475160972551,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "13a2b865-9164-40e7-b4b9-9b3320c6cffc",
+        "name": "Jörmngandr",
+        "rating": 21.855347480882916,
+        "trainer_id": "3c2659e1-5fee-4b6b-98e3-594aec223a09",
+        "trainer_name": "brain_dread",
+        "result": "loss"
+      }
+    },
+    "2023-08-30T10:35:24.790774+00:00": {
+      "this_amiibo": {
+        "rating": 27.064491380029907,
+        "rating_mu": 34.39666908682359,
+        "rating_sigma": 2.444059235597895,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "89b30bb0-28b9-406e-a6eb-c69058f18e30",
+        "name": "The Reset",
+        "rating": 32.10184090619025,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "loss"
+      }
     }
   }
 }

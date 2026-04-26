@@ -667,6 +667,40 @@
         "trainer_name": "pfpickles",
         "result": "loss"
       }
+    },
+    "2023-09-02T16:19:28.127987+00:00": {
+      "this_amiibo": {
+        "rating": 18.796156580849267,
+        "rating_mu": 22.939476929908224,
+        "rating_sigma": 1.3811067830196526,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "34ca5abc-f04c-4624-b402-c3dce52b4750",
+        "name": "Polaris",
+        "rating": 21.091071488012364,
+        "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
+        "trainer_name": "Lucina_Nadine",
+        "result": "win"
+      }
+    },
+    "2023-09-04T19:59:11.687290+00:00": {
+      "this_amiibo": {
+        "rating": 19.124792739219252,
+        "rating_mu": 23.2070576445692,
+        "rating_sigma": 1.3607549684499822,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "5cbfe770-562a-4684-8bcc-57555044d274",
+        "name": "linkhole",
+        "rating": 19.301697900524097,
+        "trainer_id": "16d95116-717b-4033-929d-85d20482f869",
+        "trainer_name": "aarsters",
+        "result": "loss"
+      }
     }
   }
 }

@@ -1024,6 +1024,57 @@
         "trainer_name": "improv_195",
         "result": "loss"
       }
+    },
+    "2023-08-21T13:56:43.913621+00:00": {
+      "this_amiibo": {
+        "rating": 27.158865162932905,
+        "rating_mu": 30.48135506469155,
+        "rating_sigma": 1.1074966339195476,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "6385d055-407c-4f05-a89b-bfc0cc83a03b",
+        "name": "MonkeyKing",
+        "rating": 21.24426096638514,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "win"
+      }
+    },
+    "2023-09-03T13:14:13.765475+00:00": {
+      "this_amiibo": {
+        "rating": 27.30536937346942,
+        "rating_mu": 30.6078691424627,
+        "rating_sigma": 1.1008332563310927,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "797c3e9b-906f-40bc-88c4-811ac57cc31d",
+        "name": "Trick Shot",
+        "rating": 22.019997130953975,
+        "trainer_id": "147dbdd6-0e08-4d4a-b7eb-0146fb5735f6",
+        "trainer_name": "Adam2qaz",
+        "result": "loss"
+      }
+    },
+    "2023-09-03T21:18:51.507165+00:00": {
+      "this_amiibo": {
+        "rating": 27.432279074288893,
+        "rating_mu": 30.715165573793843,
+        "rating_sigma": 1.0942954998349839,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
+        "id": "63149986-de45-44b9-8e1c-bdaf40d50bbd",
+        "name": "High Krawl",
+        "rating": 25.1663224391154,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "loss"
+      }
     }
   }
 }

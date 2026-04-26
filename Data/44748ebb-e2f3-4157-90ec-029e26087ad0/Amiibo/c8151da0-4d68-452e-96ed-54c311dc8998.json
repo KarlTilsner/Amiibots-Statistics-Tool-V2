@@ -38,6 +38,40 @@
         "trainer_name": "HD_ssbu",
         "result": "loss"
       }
+    },
+    "2023-08-19T12:18:34.907613+00:00": {
+      "this_amiibo": {
+        "rating": 19.248550149334683,
+        "rating_mu": 30.784117891015025,
+        "rating_sigma": 3.8451892472267812,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "89b30bb0-28b9-406e-a6eb-c69058f18e30",
+        "name": "The Reset",
+        "rating": 32.358609977431236,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "win"
+      }
+    },
+    "2023-08-19T11:02:10.106846+00:00": {
+      "this_amiibo": {
+        "rating": 19.45749206219891,
+        "rating_mu": 32.26425421415053,
+        "rating_sigma": 4.268920717317208,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "1e0e055f-cab3-4662-8a37-986c2c5aab39",
+        "name": "Aww Man",
+        "rating": 30.935536187910046,
+        "trainer_id": "bd4dae24-8e9d-4665-9e4c-e39b115b825a",
+        "trainer_name": "WoopalotlSSBU",
+        "result": "win"
+      }
     }
   }
 }

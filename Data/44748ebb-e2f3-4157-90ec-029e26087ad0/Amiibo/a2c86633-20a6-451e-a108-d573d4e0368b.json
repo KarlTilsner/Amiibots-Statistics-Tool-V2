@@ -106,6 +106,74 @@
         "trainer_name": "fake_l3af",
         "result": "loss"
       }
+    },
+    "2023-08-22T05:20:05.749257+00:00": {
+      "this_amiibo": {
+        "rating": 8.35831663955782,
+        "rating_mu": 17.668683355607786,
+        "rating_sigma": 3.1034555720166557,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "3c758a1c-7e2b-4a5d-b2ed-f6b7cba0bd32",
+        "name": "young link",
+        "rating": 6.624143363840986,
+        "trainer_id": "a5eb3823-a703-4a48-9039-c1142b46ebde",
+        "trainer_name": "False_Justice",
+        "result": "loss"
+      }
+    },
+    "2023-08-22T03:23:05.910268+00:00": {
+      "this_amiibo": {
+        "rating": 7.206288443292005,
+        "rating_mu": 17.025661916422965,
+        "rating_sigma": 3.2731244910436534,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
+        "id": "11dc62dd-dd35-4727-aa75-25324e0c8778",
+        "name": "YourToSlow",
+        "rating": -1.2834004482834427,
+        "trainer_id": "3c2659e1-5fee-4b6b-98e3-594aec223a09",
+        "trainer_name": "brain_dread",
+        "result": "loss"
+      }
+    },
+    "2023-08-30T00:58:34.178698+00:00": {
+      "this_amiibo": {
+        "rating": 9.56183463702177,
+        "rating_mu": 18.525698849753226,
+        "rating_sigma": 2.987954737577152,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "6c6512d0-895b-4152-a092-c8be2b6a7228",
+        "name": "Ms. Stink",
+        "rating": -1.377248014110231,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "loss"
+      }
+    },
+    "2023-08-31T08:00:29.138690+00:00": {
+      "this_amiibo": {
+        "rating": 9.174948190690994,
+        "rating_mu": 17.69073261941787,
+        "rating_sigma": 2.838594809575625,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "73a63927-46c0-4ce9-9863-59a5885995b5",
+        "name": "No King□",
+        "rating": 11.647480689235135,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "win"
+      }
     }
   }
 }

@@ -1211,6 +1211,57 @@
         "trainer_name": "0underscore",
         "result": "loss"
       }
+    },
+    "2023-08-23T09:01:12.532729+00:00": {
+      "this_amiibo": {
+        "rating": 25.76725181740919,
+        "rating_mu": 28.88198414797225,
+        "rating_sigma": 1.0382441101876871,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "8ccfd582-1b11-46cd-86f6-32bb365ec997",
+        "name": "Saturn",
+        "rating": 24.486176872605142,
+        "trainer_id": "cbea8289-f383-4cad-8950-3fa18407df3a",
+        "trainer_name": "s4n1t1z3d_toxins",
+        "result": "win"
+      }
+    },
+    "2023-08-25T02:59:23.378270+00:00": {
+      "this_amiibo": {
+        "rating": 25.91760843958123,
+        "rating_mu": 29.01381108722569,
+        "rating_sigma": 1.0320675492148197,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
+        "id": "8fe5ce0c-8e14-4d9f-b586-6680fd3dead0",
+        "name": "boxed[ ]",
+        "rating": 25.450868936320816,
+        "trainer_id": "bb1d50a1-b1f1-4301-b807-b166dcc9ce62",
+        "trainer_name": "CraigUK37",
+        "result": "loss"
+      }
+    },
+    "2023-09-03T06:02:15.440566+00:00": {
+      "this_amiibo": {
+        "rating": 26.08511847040505,
+        "rating_mu": 29.16226366660119,
+        "rating_sigma": 1.0257150653987142,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "aacb87b8-96ca-49fc-98ac-d3821d6ce048",
+        "name": "Blaster",
+        "rating": 25.380959381354803,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "loss"
+      }
     }
   }
 }
