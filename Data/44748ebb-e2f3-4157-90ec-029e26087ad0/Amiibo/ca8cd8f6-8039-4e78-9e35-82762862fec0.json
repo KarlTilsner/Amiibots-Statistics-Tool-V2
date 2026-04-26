@@ -1653,6 +1653,40 @@
         "trainer_name": "smashssf2_ita",
         "result": "win"
       }
+    },
+    "2023-07-23T14:59:01.335058+00:00": {
+      "this_amiibo": {
+        "rating": 29.757598025174406,
+        "rating_mu": 32.838449670088146,
+        "rating_sigma": 1.02695054830458,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "dd22c132-afd4-4472-beb5-8f2a23911c86",
+        "name": "Anti Virus",
+        "rating": 29.96217169179746,
+        "trainer_id": "d0e3f535-e180-4251-94b6-6c528f278d1e",
+        "trainer_name": "CSharp__",
+        "result": "loss"
+      }
+    },
+    "2023-07-31T19:23:56.645795+00:00": {
+      "this_amiibo": {
+        "rating": 29.636259045190002,
+        "rating_mu": 32.69846347813692,
+        "rating_sigma": 1.020734810982307,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "2e26188e-a242-403e-ac4f-d65290c4a0d0",
+        "name": "I'm Cereal",
+        "rating": 30.544225738157788,
+        "trainer_id": "26cad4d1-9d7d-457c-b6e3-6a285e74f071",
+        "trainer_name": "toonlinktroll",
+        "result": "win"
+      }
     }
   }
 }

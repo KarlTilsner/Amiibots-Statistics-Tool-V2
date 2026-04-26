@@ -888,6 +888,91 @@
         "trainer_name": "the_definitive_mick",
         "result": "loss"
       }
+    },
+    "2023-07-29T02:20:34.359089+00:00": {
+      "this_amiibo": {
+        "rating": 23.08564553248183,
+        "rating_mu": 26.68603389583198,
+        "rating_sigma": 1.2001294544500498,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "90de89e6-e389-451b-8ad7-355eb5c5ca38",
+        "name": "Puyo Puyo",
+        "rating": 23.92507331162001,
+        "trainer_id": "f15712ec-1029-4da4-b09b-8c5e7f335f7b",
+        "trainer_name": "0underscore",
+        "result": "win"
+      }
+    },
+    "2023-07-29T17:10:49.936455+00:00": {
+      "this_amiibo": {
+        "rating": 23.322026343267723,
+        "rating_mu": 26.885315353758862,
+        "rating_sigma": 1.1877630034970466,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "90de89e6-e389-451b-8ad7-355eb5c5ca38",
+        "name": "Puyo Puyo",
+        "rating": 23.64111174306641,
+        "trainer_id": "f15712ec-1029-4da4-b09b-8c5e7f335f7b",
+        "trainer_name": "0underscore",
+        "result": "loss"
+      }
+    },
+    "2023-07-30T15:22:46.063975+00:00": {
+      "this_amiibo": {
+        "rating": 23.608398219746466,
+        "rating_mu": 27.134773478284988,
+        "rating_sigma": 1.1754584195128404,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "2a7f0f3c-4618-48bd-bf96-6c8bc232ce11",
+        "name": "UwUsowarm",
+        "rating": 23.061583660520817,
+        "trainer_id": "9e039111-18ec-44c2-9980-483bc1429d0d",
+        "trainer_name": "cheeseman58",
+        "result": "loss"
+      }
+    },
+    "2023-08-01T07:01:28.758996+00:00": {
+      "this_amiibo": {
+        "rating": 23.526303790548273,
+        "rating_mu": 27.03968485898921,
+        "rating_sigma": 1.1711270228136463,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "8911f65e-9ec4-43cf-95da-de585fdd8557",
+        "name": "Sisirinah",
+        "rating": 19.504345866857452,
+        "trainer_id": "1912fb44-c0c9-4dc5-bf4c-643a74d7ae42",
+        "trainer_name": "Sirffuzzylogik",
+        "result": "win"
+      }
+    },
+    "2023-08-03T03:16:13.871419+00:00": {
+      "this_amiibo": {
+        "rating": 23.378752583225218,
+        "rating_mu": 26.860042147539815,
+        "rating_sigma": 1.1604298547715324,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "da07e260-82e9-4691-8ded-ea600ba11183",
+        "name": "Inquisitor",
+        "rating": 23.10292571008929,
+        "trainer_id": "559b97d3-faa3-4aa1-9697-8e87271c7b16",
+        "trainer_name": "ammoknight208",
+        "result": "win"
+      }
     }
   }
 }

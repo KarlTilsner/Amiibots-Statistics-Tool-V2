@@ -2605,6 +2605,40 @@
         "trainer_name": "weedmakesyoughey",
         "result": "loss"
       }
+    },
+    "2023-07-20T23:31:40.129396+00:00": {
+      "this_amiibo": {
+        "rating": 28.1469286871726,
+        "rating_mu": 30.717599166869558,
+        "rating_sigma": 0.8568901598989861,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "e547d186-f3db-4270-ab8b-b3a0da73fe2c",
+        "name": "Arcturus",
+        "rating": 22.72739840886031,
+        "trainer_id": "c71a9e21-aa8a-4f61-b82d-b81e717e4c5d",
+        "trainer_name": "stardust_3_14159265358979",
+        "result": "win"
+      }
+    },
+    "2023-07-25T08:08:41.029968+00:00": {
+      "this_amiibo": {
+        "rating": 28.22466911136883,
+        "rating_mu": 30.793589280869103,
+        "rating_sigma": 0.8563067231667583,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "285565cd-ca94-456a-82d9-adf2d58def26",
+        "name": "AntiChrist",
+        "rating": 22.44668432019808,
+        "trainer_id": "cbea8289-f383-4cad-8950-3fa18407df3a",
+        "trainer_name": "s4n1t1z3d_toxins",
+        "result": "loss"
+      }
     }
   }
 }

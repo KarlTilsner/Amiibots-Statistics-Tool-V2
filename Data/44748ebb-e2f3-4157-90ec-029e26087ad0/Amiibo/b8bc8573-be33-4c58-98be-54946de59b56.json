@@ -89,6 +89,57 @@
         "trainer_name": "bluerunner0",
         "result": "loss"
       }
+    },
+    "2023-07-22T15:50:35.638260+00:00": {
+      "this_amiibo": {
+        "rating": 22.60840539979045,
+        "rating_mu": 32.7609827304926,
+        "rating_sigma": 3.384192443567384,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "32a67534-89d5-4b4b-9c6a-a9b364ab0204",
+        "name": "Akira",
+        "rating": 29.781265352510363,
+        "trainer_id": "54945eec-889e-4276-a0bb-9aa276ecde84",
+        "trainer_name": "firepuma14214",
+        "result": "win"
+      }
+    },
+    "2023-07-24T03:32:55.682929+00:00": {
+      "this_amiibo": {
+        "rating": 23.801128084500583,
+        "rating_mu": 33.42708115955735,
+        "rating_sigma": 3.208651025018924,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "ce5a658c-9ad6-4dc0-b4da-3d46d9de7620",
+        "name": "jojos",
+        "rating": 20.297785990500035,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HD_ssbu",
+        "result": "loss"
+      }
+    },
+    "2023-07-29T18:54:46.141784+00:00": {
+      "this_amiibo": {
+        "rating": 25.322798656441606,
+        "rating_mu": 34.33124364052049,
+        "rating_sigma": 3.0028149946929616,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "1afaf955-ac59-4cef-8c20-ae6efdab16d1",
+        "name": "Sothis",
+        "rating": 28.25487843929671,
+        "trainer_id": "db273810-d707-4c26-9fc5-5f04718f25c7",
+        "trainer_name": "NoltraYT",
+        "result": "loss"
+      }
     }
   }
 }

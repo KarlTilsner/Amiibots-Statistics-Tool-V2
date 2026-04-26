@@ -1381,6 +1381,57 @@
         "trainer_name": "yendekai",
         "result": "loss"
       }
+    },
+    "2023-07-22T01:57:34.657651+00:00": {
+      "this_amiibo": {
+        "rating": 22.15271923269068,
+        "rating_mu": 25.426552224579744,
+        "rating_sigma": 1.0912776639630215,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "78b83bf0-3af4-4932-8064-572fa146bc7e",
+        "name": "Psych",
+        "rating": 15.817805683017557,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "win"
+      }
+    },
+    "2023-07-22T11:49:05.783046+00:00": {
+      "this_amiibo": {
+        "rating": 22.24495861564081,
+        "rating_mu": 25.5165924853834,
+        "rating_sigma": 1.0905446232475293,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "9394a494-6e6f-4315-82a9-0bd5bc014552",
+        "name": "ヒカリ",
+        "rating": 0.633670321820361,
+        "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
+        "trainer_name": "Pi_Boy_314",
+        "result": "loss"
+      }
+    },
+    "2023-07-25T04:19:10.528318+00:00": {
+      "this_amiibo": {
+        "rating": 22.336371616021797,
+        "rating_mu": 25.605872522346385,
+        "rating_sigma": 1.0898336354415297,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "5f89db5c-a374-4bb8-8350-6c184b782b6f",
+        "name": "Mystery",
+        "rating": 0.6498529034582816,
+        "trainer_id": "884cb5c3-bfa9-465a-afc3-dadf89fe30b4",
+        "trainer_name": "amiiboman16",
+        "result": "loss"
+      }
     }
   }
 }

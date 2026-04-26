@@ -990,6 +990,74 @@
         "trainer_name": "MiDe1",
         "result": "loss"
       }
+    },
+    "2023-07-21T22:21:33.372148+00:00": {
+      "this_amiibo": {
+        "rating": 31.07164948409747,
+        "rating_mu": 34.34500706515776,
+        "rating_sigma": 1.0911191936867624,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "21ebd5aa-4231-44b0-89c9-de5efefe7f03",
+        "name": "Hama",
+        "rating": 31.30595324366093,
+        "trainer_id": "a6a195f1-d799-4023-8cf9-3bc02d3055cb",
+        "trainer_name": "Chancellorus",
+        "result": "win"
+      }
+    },
+    "2023-07-22T17:04:15.544064+00:00": {
+      "this_amiibo": {
+        "rating": 31.250153354458973,
+        "rating_mu": 34.49909860732842,
+        "rating_sigma": 1.0829817509564827,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "4fe6380c-c4e6-4bce-9867-9b9e622b148e",
+        "name": "The Blade",
+        "rating": 31.470154183820526,
+        "trainer_id": "b13c42a0-c638-4703-87c4-875e5ec0bf94",
+        "trainer_name": "MMMMMMMMTTYYY_",
+        "result": "loss"
+      }
+    },
+    "2023-07-25T11:00:50.911463+00:00": {
+      "this_amiibo": {
+        "rating": 31.416188592162438,
+        "rating_mu": 34.64533042697923,
+        "rating_sigma": 1.0763806116055965,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "1cbe815b-9dbb-4847-838d-90b264a1139a",
+        "name": "LesbianMom",
+        "rating": 26.79696864811848,
+        "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+        "trainer_name": "fammydamammy",
+        "result": "loss"
+      }
+    },
+    "2023-07-26T19:59:42.637624+00:00": {
+      "this_amiibo": {
+        "rating": 31.291166216386387,
+        "rating_mu": 34.49926789570981,
+        "rating_sigma": 1.0693672264411398,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "1cbe815b-9dbb-4847-838d-90b264a1139a",
+        "name": "LesbianMom",
+        "rating": 30.032308354520303,
+        "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+        "trainer_name": "fammydamammy",
+        "result": "win"
+      }
     }
   }
 }

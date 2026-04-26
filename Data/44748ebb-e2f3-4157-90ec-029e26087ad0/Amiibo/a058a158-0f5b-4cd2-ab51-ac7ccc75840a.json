@@ -4458,6 +4458,57 @@
         "trainer_name": "person_who_likes_games",
         "result": "loss"
       }
+    },
+    "2023-07-28T12:57:06.530392+00:00": {
+      "this_amiibo": {
+        "rating": 21.6175664532965,
+        "rating_mu": 24.105165107724105,
+        "rating_sigma": 0.8291995514758675,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "2bf5fb80-13fd-49f5-a299-38a9a1a36364",
+        "name": "Sakurai",
+        "rating": 10.84789774743598,
+        "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+        "trainer_name": "Competitively2",
+        "result": "win"
+      }
+    },
+    "2023-08-03T05:27:35.018217+00:00": {
+      "this_amiibo": {
+        "rating": 21.61016106341835,
+        "rating_mu": 24.112186834296093,
+        "rating_sigma": 0.8340085902925816,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "b358f6d3-7a9d-498a-ac24-a78233764abc",
+        "name": "Mirage",
+        "rating": 10.852167557442918,
+        "trainer_id": "13b7a54b-104c-4718-9ba1-886046130b4a",
+        "trainer_name": "Vulkyz_",
+        "result": "win"
+      }
+    },
+    "2023-08-03T03:11:15.357856+00:00": {
+      "this_amiibo": {
+        "rating": 21.668407348167342,
+        "rating_mu": 24.163106270136538,
+        "rating_sigma": 0.8315663073230657,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "c8be3888-8683-4b8b-9d1c-e57c6b3e048b",
+        "name": "monday man",
+        "rating": 0.3957613892802705,
+        "trainer_id": "42007fba-8f4a-48f9-909a-4b2c00a450a8",
+        "trainer_name": "HD_ssbu",
+        "result": "loss"
+      }
     }
   }
 }

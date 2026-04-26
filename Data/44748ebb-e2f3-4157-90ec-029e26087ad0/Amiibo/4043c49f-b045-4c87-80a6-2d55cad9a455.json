@@ -1534,6 +1534,40 @@
         "trainer_name": "nozomup",
         "result": "loss"
       }
+    },
+    "2023-07-20T22:05:57.903516+00:00": {
+      "this_amiibo": {
+        "rating": 30.378193340064353,
+        "rating_mu": 33.19207606108473,
+        "rating_sigma": 0.9379609070067909,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "8cf06705-5c63-4bdd-a153-6f817020d31e",
+        "name": "Dizzier",
+        "rating": 24.610682448717217,
+        "trainer_id": "14df9153-bacf-491b-996d-3bbb6a54f05c",
+        "trainer_name": "cambriacotf",
+        "result": "win"
+      }
+    },
+    "2023-07-30T10:04:50.962325+00:00": {
+      "this_amiibo": {
+        "rating": 30.505916531953027,
+        "rating_mu": 33.30992050430125,
+        "rating_sigma": 0.9346679907827418,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "11813765-f262-4295-96aa-594209386acf",
+        "name": "Musashi",
+        "rating": 27.863461150380736,
+        "trainer_id": "416215c7-5547-4adb-a772-9aec5f98ba73",
+        "trainer_name": "traumatizedbaconbits",
+        "result": "loss"
+      }
     }
   }
 }

@@ -89,6 +89,40 @@
         "trainer_name": "aggron_ghost",
         "result": "win"
       }
+    },
+    "2023-07-26T12:41:07.323852+00:00": {
+      "this_amiibo": {
+        "rating": 12.79952156751743,
+        "rating_mu": 24.787539878172918,
+        "rating_sigma": 3.9960061035518293,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
+        "id": "f2de75c3-4e86-43c1-9d59-b0b4ec77cfe1",
+        "name": "Netherland",
+        "rating": -0.3079039934112835,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "loss"
+      }
+    },
+    "2023-08-01T14:56:00.535335+00:00": {
+      "this_amiibo": {
+        "rating": 12.111209309812178,
+        "rating_mu": 22.874487240289398,
+        "rating_sigma": 3.587759310159073,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "333169a7-c6a1-474c-b1d1-fb51025b2858",
+        "name": "Everest",
+        "rating": 18.423301686896483,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "win"
+      }
     }
   }
 }

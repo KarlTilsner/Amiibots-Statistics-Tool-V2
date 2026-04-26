@@ -89,6 +89,40 @@
         "trainer_name": "0underscore",
         "result": "loss"
       }
+    },
+    "2023-07-30T07:57:01.344997+00:00": {
+      "this_amiibo": {
+        "rating": 15.985391995608058,
+        "rating_mu": 26.08928506684785,
+        "rating_sigma": 3.3679643570799307,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "4663f12a-2471-4130-8cc9-50393179e2de",
+        "name": "Worie",
+        "rating": 22.27171976187905,
+        "trainer_id": "eb2d22ba-9a62-40dc-bf3c-3d3338d21a38",
+        "trainer_name": "tuxedo_momkey",
+        "result": "win"
+      }
+    },
+    "2023-07-31T04:23:16.970013+00:00": {
+      "this_amiibo": {
+        "rating": 17.067501241424132,
+        "rating_mu": 26.86492475186433,
+        "rating_sigma": 3.2658078368133983,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "f507c29d-605c-4cdd-adb6-cbd24c9fd875",
+        "name": "PK Thunder",
+        "rating": 0.39542719328247244,
+        "trainer_id": "7f8b523d-feed-49f6-a608-88bf508984f0",
+        "trainer_name": "SepiksComposite",
+        "result": "loss"
+      }
     }
   }
 }

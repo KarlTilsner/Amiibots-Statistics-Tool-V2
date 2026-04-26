@@ -17242,6 +17242,40 @@
         "trainer_name": "nozomup",
         "result": "loss"
       }
+    },
+    "2023-07-25T13:39:30.645494+00:00": {
+      "this_amiibo": {
+        "rating": 31.278386870867212,
+        "rating_mu": 33.68795168683579,
+        "rating_sigma": 0.8031882719895254,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "8f5450f6-eac2-493f-b4c6-fe63c1936c69",
+        "name": "frogcake",
+        "rating": 30.749661269841503,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "win"
+      }
+    },
+    "2023-07-30T19:42:54.284640+00:00": {
+      "this_amiibo": {
+        "rating": 31.359432524323264,
+        "rating_mu": 33.76838635439538,
+        "rating_sigma": 0.8029846100240394,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "8f5450f6-eac2-493f-b4c6-fe63c1936c69",
+        "name": "frogcake",
+        "rating": 30.64758226575528,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "loss"
+      }
     }
   }
 }
