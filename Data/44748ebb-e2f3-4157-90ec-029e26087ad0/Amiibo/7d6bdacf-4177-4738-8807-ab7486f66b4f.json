@@ -2894,6 +2894,40 @@
         "trainer_name": "sst_bearslayer",
         "result": "loss"
       }
+    },
+    "2023-06-23T05:23:42.080289+00:00": {
+      "this_amiibo": {
+        "rating": 38.602637775575936,
+        "rating_mu": 41.0650383436765,
+        "rating_sigma": 0.8208001893668547,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "d17d047a-42b3-4ab5-9b34-abf47d7ea385",
+        "name": "XTC Albert",
+        "rating": 38.04706969111433,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "win"
+      }
+    },
+    "2023-06-28T00:33:07.513794+00:00": {
+      "this_amiibo": {
+        "rating": 38.67790992436356,
+        "rating_mu": 41.13932461005903,
+        "rating_sigma": 0.8204715618984889,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "6684048c-f691-4b4d-aab3-8db79b087c06",
+        "name": "UltraChad!",
+        "rating": 37.15577537867504,
+        "trainer_id": "e76937f1-9ccd-4a5c-8744-65f792776a1b",
+        "trainer_name": "bubs_yt",
+        "result": "loss"
+      }
     }
   }
 }

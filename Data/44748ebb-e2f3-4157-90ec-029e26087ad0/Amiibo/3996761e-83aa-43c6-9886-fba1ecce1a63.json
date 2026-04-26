@@ -89,6 +89,57 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2023-06-27T06:58:24.330437+00:00": {
+      "this_amiibo": {
+        "rating": 28.57621455600232,
+        "rating_mu": 38.69257452260535,
+        "rating_sigma": 3.3721199888676763,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "d17d047a-42b3-4ab5-9b34-abf47d7ea385",
+        "name": "XTC Albert",
+        "rating": 38.1924660270182,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "win"
+      }
+    },
+    "2023-07-01T00:18:13.607823+00:00": {
+      "this_amiibo": {
+        "rating": 28.214378884330397,
+        "rating_mu": 37.70503261879652,
+        "rating_sigma": 3.1635512448220418,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "00626aae-b6ac-4a79-a056-c8f90f86301f",
+        "name": "Cremator",
+        "rating": 33.052657859862784,
+        "trainer_id": "ed890131-078f-4922-833d-184e448e3e9f",
+        "trainer_name": "rengaza",
+        "result": "win"
+      }
+    },
+    "2023-07-02T15:24:11.718843+00:00": {
+      "this_amiibo": {
+        "rating": 27.82591924150601,
+        "rating_mu": 36.69896359946805,
+        "rating_sigma": 2.9576814526540134,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "488068b7-6f9d-47f9-8b96-beb0f08bf866",
+        "name": "$$ Machine",
+        "rating": 34.470510863054145,
+        "trainer_id": "14df9153-bacf-491b-996d-3bbb6a54f05c",
+        "trainer_name": "cambriacotf",
+        "result": "win"
+      }
     }
   }
 }

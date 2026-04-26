@@ -1585,6 +1585,40 @@
         "trainer_name": "CJMaster3",
         "result": "loss"
       }
+    },
+    "2023-07-01T21:04:23.978074+00:00": {
+      "this_amiibo": {
+        "rating": 28.89138586791704,
+        "rating_mu": 31.732865904451533,
+        "rating_sigma": 0.9471600121781644,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
+        "id": "27956c12-d385-40d4-b645-14eeb5e0bb88",
+        "name": "Covenant",
+        "rating": 28.661562014021985,
+        "trainer_id": "52cf741b-9181-4229-8440-532cd6b5e0e7",
+        "trainer_name": "PGXmew2",
+        "result": "win"
+      }
+    },
+    "2023-07-02T13:17:16.593932+00:00": {
+      "this_amiibo": {
+        "rating": 29.02462530374969,
+        "rating_mu": 31.85447285104142,
+        "rating_sigma": 0.9432825157639104,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
+        "id": "27956c12-d385-40d4-b645-14eeb5e0bb88",
+        "name": "Covenant",
+        "rating": 28.527367710423977,
+        "trainer_id": "52cf741b-9181-4229-8440-532cd6b5e0e7",
+        "trainer_name": "PGXmew2",
+        "result": "loss"
+      }
     }
   }
 }

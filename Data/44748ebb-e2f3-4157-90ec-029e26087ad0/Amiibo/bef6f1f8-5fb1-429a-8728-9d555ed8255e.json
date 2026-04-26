@@ -174,6 +174,57 @@
         "trainer_name": "VertixSSB",
         "result": "loss"
       }
+    },
+    "2023-06-26T06:47:26.722460+00:00": {
+      "this_amiibo": {
+        "rating": 19.312494679507836,
+        "rating_mu": 26.55570113555348,
+        "rating_sigma": 2.4144021520152146,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "f1fa9b69-b2d0-44fb-8194-b9656651ccaf",
+        "name": "Tengen",
+        "rating": 22.64143493807415,
+        "trainer_id": "e4931ae7-1311-40d6-811c-354742e96bc0",
+        "trainer_name": "atomic_salvy",
+        "result": "win"
+      }
+    },
+    "2023-06-27T23:39:41.267004+00:00": {
+      "this_amiibo": {
+        "rating": 18.936584758378043,
+        "rating_mu": 25.8547214268026,
+        "rating_sigma": 2.3060455561415196,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "34ae051b-24a7-4f2d-b680-4bb1685c8ac1",
+        "name": "1 PunchMan",
+        "rating": 24.493894554312384,
+        "trainer_id": "7c20e90f-67fe-43c5-a623-83c60ef05858",
+        "trainer_name": "Zizogod",
+        "result": "win"
+      }
+    },
+    "2023-06-30T23:37:23.249307+00:00": {
+      "this_amiibo": {
+        "rating": 19.416884600987643,
+        "rating_mu": 26.234647617156366,
+        "rating_sigma": 2.2725876720562415,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "5cd27d83-74d1-416c-8b8f-60f271d851ef",
+        "name": "Spectre",
+        "rating": 0.5540632155625929,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "loss"
+      }
     }
   }
 }

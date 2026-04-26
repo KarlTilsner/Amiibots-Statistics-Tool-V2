@@ -1415,6 +1415,57 @@
         "trainer_name": "FearOCE",
         "result": "win"
       }
+    },
+    "2023-06-20T23:22:06.584291+00:00": {
+      "this_amiibo": {
+        "rating": 20.596909090548408,
+        "rating_mu": 23.531372723222937,
+        "rating_sigma": 0.9781545442248423,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "ba5c6780-786e-4d2c-9ee5-aff1794a4075",
+        "name": "Genwunner",
+        "rating": 21.648202825907738,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "loss"
+      }
+    },
+    "2023-06-23T03:03:14.964888+00:00": {
+      "this_amiibo": {
+        "rating": 20.506095546426216,
+        "rating_mu": 23.42863426825241,
+        "rating_sigma": 0.9741795739420647,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "c8b1c620-a13f-4c02-a121-6b5aafbb78ba",
+        "name": "Arcana XXI",
+        "rating": 22.468730811770197,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "win"
+      }
+    },
+    "2023-07-01T20:59:26.288950+00:00": {
+      "this_amiibo": {
+        "rating": 20.38775518413738,
+        "rating_mu": 23.29676353471148,
+        "rating_sigma": 0.9696694501913673,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e2531ffe-e834-49ae-b233-56386472a6ed",
+        "id": "13eb4dbd-1bf6-4000-9e0e-d2cba07c3b42",
+        "name": "Rosalina",
+        "rating": 18.724916815260208,
+        "trainer_id": "e819f7ca-4d21-4e94-8e30-7edff2b94fc5",
+        "trainer_name": "DogBoyton",
+        "result": "win"
+      }
     }
   }
 }

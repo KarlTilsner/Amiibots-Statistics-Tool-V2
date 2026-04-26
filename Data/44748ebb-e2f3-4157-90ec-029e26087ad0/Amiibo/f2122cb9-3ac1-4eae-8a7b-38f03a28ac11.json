@@ -1653,6 +1653,40 @@
         "trainer_name": "smoothcriminalishere",
         "result": "loss"
       }
+    },
+    "2023-07-03T00:40:18.921955+00:00": {
+      "this_amiibo": {
+        "rating": 18.31024203302399,
+        "rating_mu": 21.21312925743115,
+        "rating_sigma": 0.9676290748023861,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "105b1411-7d8a-4a3d-b6ac-7f0d59759e85",
+        "name": "Forg",
+        "rating": 8.966218443578509,
+        "trainer_id": "65321240-86df-4690-adea-6ddbcb87c5c9",
+        "trainer_name": "RichPandaGG",
+        "result": "win"
+      }
+    },
+    "2023-07-04T01:15:22.133132+00:00": {
+      "this_amiibo": {
+        "rating": 18.395067118029484,
+        "rating_mu": 21.29234153456836,
+        "rating_sigma": 0.9657581388462928,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "ef3a3155-fcc6-4f68-9ea9-986aba71bbdb",
+        "name": "Gabe Licks",
+        "rating": 8.78330892188246,
+        "trainer_id": "23cc62ed-8d92-471d-b8a4-3545d8bf5b53",
+        "trainer_name": "Winchesteroni",
+        "result": "loss"
+      }
     }
   }
 }

@@ -786,6 +786,40 @@
         "trainer_name": "eon_ii",
         "result": "loss"
       }
+    },
+    "2023-06-20T20:41:52.958427+00:00": {
+      "this_amiibo": {
+        "rating": 30.96224907935301,
+        "rating_mu": 34.55597189501191,
+        "rating_sigma": 1.1979076052196318,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "0f715683-d1b8-498a-9176-d5eab3d838a9",
+        "name": "片翼の天使",
+        "rating": 32.31833261434508,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "win"
+      }
+    },
+    "2023-06-29T22:35:55.507002+00:00": {
+      "this_amiibo": {
+        "rating": 31.205967381271407,
+        "rating_mu": 34.76725166154852,
+        "rating_sigma": 1.1870947600923718,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "6c265ef3-b4ef-4ac2-b492-3ba4cedb7fbc",
+        "name": "Hot Pocket",
+        "rating": 27.386974350181685,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "22_woah",
+        "result": "loss"
+      }
     }
   }
 }

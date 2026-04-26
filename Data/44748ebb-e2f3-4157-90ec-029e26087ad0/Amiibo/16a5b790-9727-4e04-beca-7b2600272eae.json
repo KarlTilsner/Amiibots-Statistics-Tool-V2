@@ -1806,6 +1806,57 @@
         "trainer_name": "nozomup",
         "result": "loss"
       }
+    },
+    "2023-06-21T02:04:41.241102+00:00": {
+      "this_amiibo": {
+        "rating": 29.96826473757799,
+        "rating_mu": 32.703324527237136,
+        "rating_sigma": 0.9116865965530495,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "2e26188e-a242-403e-ac4f-d65290c4a0d0",
+        "name": "I'm Cereal",
+        "rating": 30.234309243431234,
+        "trainer_id": "26cad4d1-9d7d-457c-b6e3-6a285e74f071",
+        "trainer_name": "toonlinktroll",
+        "result": "win"
+      }
+    },
+    "2023-06-28T15:47:11.165240+00:00": {
+      "this_amiibo": {
+        "rating": 30.072792250028435,
+        "rating_mu": 32.8044185749327,
+        "rating_sigma": 0.9105421083014206,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "fb9d3b03-e172-427c-8d17-70ca3758ff42",
+        "name": "Sandstorm",
+        "rating": 20.938013753159737,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "loss"
+      }
+    },
+    "2023-07-03T18:00:49.728212+00:00": {
+      "this_amiibo": {
+        "rating": 29.989226531961062,
+        "rating_mu": 32.721944644495906,
+        "rating_sigma": 0.9109060375116143,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "ee2281b7-598b-4004-a230-54002150a44b",
+        "name": "Malthael",
+        "rating": 21.00004847356694,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "win"
+      }
     }
   }
 }

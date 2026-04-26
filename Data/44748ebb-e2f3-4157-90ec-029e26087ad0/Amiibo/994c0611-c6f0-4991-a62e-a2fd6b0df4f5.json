@@ -1330,6 +1330,57 @@
         "trainer_name": "sst_bearslayer",
         "result": "loss"
       }
+    },
+    "2023-06-20T07:04:01.862597+00:00": {
+      "this_amiibo": {
+        "rating": 23.884184996768642,
+        "rating_mu": 27.230066032138662,
+        "rating_sigma": 1.115293678456673,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "89d4d495-f5fd-4d0e-aced-94dc01664665",
+        "name": "Jerry",
+        "rating": 0.9071026130626372,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "loss"
+      }
+    },
+    "2023-06-27T16:19:56.022717+00:00": {
+      "this_amiibo": {
+        "rating": 23.773799233484592,
+        "rating_mu": 27.115419250606973,
+        "rating_sigma": 1.113873339040793,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "aa784486-717b-433a-a3f6-6a7ef464b218",
+        "name": "Mercenary",
+        "rating": 12.804162632845102,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
+    },
+    "2023-07-01T10:33:19.703378+00:00": {
+      "this_amiibo": {
+        "rating": 23.659333191573655,
+        "rating_mu": 26.99013068087912,
+        "rating_sigma": 1.1102658297684884,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "ec0c7c1e-95af-47bb-83e8-79b9b4f2e1b6",
+        "name": "Nocturnal",
+        "rating": 15.918739141690196,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "win"
+      }
     }
   }
 }

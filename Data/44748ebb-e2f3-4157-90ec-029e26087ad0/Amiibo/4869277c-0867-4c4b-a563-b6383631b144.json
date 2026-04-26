@@ -2520,6 +2520,57 @@
         "trainer_name": "viktex",
         "result": "loss"
       }
+    },
+    "2023-06-21T11:14:51.527398+00:00": {
+      "this_amiibo": {
+        "rating": 28.819778973972202,
+        "rating_mu": 31.369213802615224,
+        "rating_sigma": 0.8498116095476742,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "0135fa8f-38b3-4562-8bf8-2633dc52680a",
+        "name": "Zidane",
+        "rating": 27.950278778974265,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      }
+    },
+    "2023-06-23T22:19:10.331559+00:00": {
+      "this_amiibo": {
+        "rating": 28.72813426133327,
+        "rating_mu": 31.273444679525998,
+        "rating_sigma": 0.8484368060642425,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "c59ed452-d883-4e65-b09e-599236aa2411",
+        "name": "Doc",
+        "rating": 28.71216831894765,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "win"
+      }
+    },
+    "2023-06-28T05:33:00.678661+00:00": {
+      "this_amiibo": {
+        "rating": 28.825939986404194,
+        "rating_mu": 31.367330148360075,
+        "rating_sigma": 0.8471300539852937,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "3c1f5e8a-5ae7-4deb-a735-7f532516367b",
+        "name": "Shepard",
+        "rating": 28.191875150864217,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "loss"
+      }
     }
   }
 }
