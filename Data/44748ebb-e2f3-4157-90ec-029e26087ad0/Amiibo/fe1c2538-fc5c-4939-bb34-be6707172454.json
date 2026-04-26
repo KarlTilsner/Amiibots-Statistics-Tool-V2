@@ -225,6 +225,40 @@
         "trainer_name": "deante_ssb",
         "result": "loss"
       }
+    },
+    "2024-04-27T06:03:25.900261+00:00": {
+      "this_amiibo": {
+        "rating": 25.484197201676658,
+        "rating_mu": 31.69161472587148,
+        "rating_sigma": 2.0691391747316086,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "bc8c0ec7-f7ab-426e-866e-58e55d49a83f",
+        "name": "Dyne-t-rex",
+        "rating": 30.88254001183035,
+        "trainer_id": "2f91b438-99d4-4966-b002-9a9b4dbfaf92",
+        "trainer_name": "Klerpy",
+        "result": "win"
+      }
+    },
+    "2024-04-27T10:16:36.978702+00:00": {
+      "this_amiibo": {
+        "rating": 25.23052891211814,
+        "rating_mu": 31.266064912797614,
+        "rating_sigma": 2.0118453335598248,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7",
+        "id": "e848965a-7463-433d-9f3f-51d322a7c511",
+        "name": "OpenAI",
+        "rating": 26.802364561312075,
+        "trainer_id": "3fae9fa9-ab8c-4d57-b705-2b88e9d7aed7",
+        "trainer_name": "burnt_cumpy",
+        "result": "win"
+      }
     }
   }
 }

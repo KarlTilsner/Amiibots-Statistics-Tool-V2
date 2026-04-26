@@ -1007,6 +1007,40 @@
         "trainer_name": "pixel_gunners",
         "result": "loss"
       }
+    },
+    "2024-04-30T04:08:16.682681+00:00": {
+      "this_amiibo": {
+        "rating": 33.174930693323,
+        "rating_mu": 36.418118259539135,
+        "rating_sigma": 1.0810625220720447,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+        "id": "40c7e736-ae6f-452a-ad8d-d53344256741",
+        "name": "dumb buck",
+        "rating": 31.497696257963167,
+        "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+        "trainer_name": "iguanope",
+        "result": "win"
+      }
+    },
+    "2024-04-30T18:59:13.798908+00:00": {
+      "this_amiibo": {
+        "rating": 33.33679930422723,
+        "rating_mu": 36.56043567491569,
+        "rating_sigma": 1.074545456896154,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "2b42d898-3a25-4dc2-abc1-3897ef9ccd23",
+        "name": "Stomping U",
+        "rating": 28.763123857226546,
+        "trainer_id": "4912f925-622e-46a3-88cf-5de49dbb407e",
+        "trainer_name": "colfon_",
+        "result": "loss"
+      }
     }
   }
 }

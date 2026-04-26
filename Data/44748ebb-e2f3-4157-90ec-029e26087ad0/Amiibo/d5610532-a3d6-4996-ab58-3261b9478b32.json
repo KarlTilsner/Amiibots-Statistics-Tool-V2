@@ -1160,6 +1160,40 @@
         "trainer_name": "flounder_ssbu",
         "result": "loss"
       }
+    },
+    "2024-05-04T00:16:08.685289+00:00": {
+      "this_amiibo": {
+        "rating": 29.93230343880481,
+        "rating_mu": 32.992355891337155,
+        "rating_sigma": 1.0200174841774492,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "df5ce75d-ceb5-407b-83fa-6951499132ad",
+        "name": "Jackal",
+        "rating": 31.03575311663574,
+        "trainer_id": "0c727e8c-96ac-48e4-8547-7f00c0eba250",
+        "trainer_name": "bleeding_azalea",
+        "result": "win"
+      }
+    },
+    "2024-05-04T13:28:14.741972+00:00": {
+      "this_amiibo": {
+        "rating": 30.081152479080522,
+        "rating_mu": 33.1242194736662,
+        "rating_sigma": 1.0143556648618925,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3a80cdac-93bb-4a75-8e38-f69f37d10ec6",
+        "id": "b7d7512d-c650-4486-bbe6-c4160a7cd750",
+        "name": "Buttguster",
+        "rating": 28.9731811774954,
+        "trainer_id": "4581f763-87c3-4a74-99dc-82dba8b9bb6a",
+        "trainer_name": "ActualMamaLuigi",
+        "result": "loss"
+      }
     }
   }
 }

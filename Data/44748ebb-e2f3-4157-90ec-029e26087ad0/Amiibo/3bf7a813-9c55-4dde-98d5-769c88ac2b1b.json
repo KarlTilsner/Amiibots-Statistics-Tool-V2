@@ -72,6 +72,74 @@
         "trainer_name": "Pure_YGO",
         "result": "loss"
       }
+    },
+    "2024-04-21T17:09:40.719676+00:00": {
+      "this_amiibo": {
+        "rating": 14.100086138064428,
+        "rating_mu": 25.00199948892115,
+        "rating_sigma": 3.6339711169522406,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "ab654dd1-6d93-4ebc-b0db-e09d0fbeeac9",
+        "name": "Volpe",
+        "rating": 17.345467434665096,
+        "trainer_id": "e53a023e-9ca9-4a47-98dd-0b0e28130b56",
+        "trainer_name": "dk71896",
+        "result": "loss"
+      }
+    },
+    "2024-04-30T10:01:44.749687+00:00": {
+      "this_amiibo": {
+        "rating": 16.33492610246136,
+        "rating_mu": 26.321163546546277,
+        "rating_sigma": 3.3287458146949724,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "f489e520-00dd-4d15-ac33-837bb6de1d56",
+        "name": "Kicks",
+        "rating": 20.430702974481022,
+        "trainer_id": "71a13158-2491-4805-ab71-01094a714e46",
+        "trainer_name": "DansOtherClone",
+        "result": "loss"
+      }
+    },
+    "2024-05-01T07:11:47.796943+00:00": {
+      "this_amiibo": {
+        "rating": 15.91052666417731,
+        "rating_mu": 25.234101590356918,
+        "rating_sigma": 3.107858308726536,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
+        "id": "506f6456-5be1-48da-81f6-218e0854b8d4",
+        "name": "Sprout",
+        "rating": 20.84482663284725,
+        "trainer_id": "3fabe039-1087-4290-afb8-fd2ab3a1f5f6",
+        "trainer_name": "sitra67",
+        "result": "win"
+      }
+    },
+    "2024-05-03T11:15:56.739263+00:00": {
+      "this_amiibo": {
+        "rating": 15.753890187231146,
+        "rating_mu": 24.592134212879294,
+        "rating_sigma": 2.9460813418827163,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "8d33a6fb-6a45-4007-8e59-e745bf3ff54d",
+        "name": "Reggie",
+        "rating": 26.457819236821834,
+        "trainer_id": "7f5aabf8-00db-49a7-abc4-99523c45bb4a",
+        "trainer_name": "DaPurpleDuck",
+        "result": "win"
+      }
     }
   }
 }

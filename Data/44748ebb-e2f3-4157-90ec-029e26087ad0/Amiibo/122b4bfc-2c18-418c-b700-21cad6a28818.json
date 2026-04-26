@@ -2197,6 +2197,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2024-04-20T10:06:30.837901+00:00": {
+      "this_amiibo": {
+        "rating": 25.181649477635354,
+        "rating_mu": 27.833166948676286,
+        "rating_sigma": 0.8838391570136439,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "d31ca32f-17cd-4809-8820-9aee0f59ec34",
+        "name": "Furina",
+        "rating": 24.734598043741613,
+        "trainer_id": "9ab00719-f6c9-4b32-94fe-fa00b3bcf87a",
+        "trainer_name": "ZuupMummy",
+        "result": "win"
+      }
+    },
+    "2024-04-23T01:14:55.123958+00:00": {
+      "this_amiibo": {
+        "rating": 25.277766843357195,
+        "rating_mu": 27.925139742779763,
+        "rating_sigma": 0.8824576331408553,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
+        "id": "b49f19d4-3a77-42ff-b302-3db4bb379a1b",
+        "name": "Enzo",
+        "rating": 19.985184022297663,
+        "trainer_id": "b3c93a1e-0aee-4a76-a0ed-36bc7258e629",
+        "trainer_name": "Bananika7",
+        "result": "loss"
+      }
     }
   }
 }

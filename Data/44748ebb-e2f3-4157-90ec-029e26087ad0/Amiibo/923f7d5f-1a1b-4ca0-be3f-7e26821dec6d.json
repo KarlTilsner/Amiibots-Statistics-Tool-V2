@@ -327,6 +327,40 @@
         "trainer_name": "Adam2qaz",
         "result": "loss"
       }
+    },
+    "2024-05-02T12:12:23.272359+00:00": {
+      "this_amiibo": {
+        "rating": 21.742985815700187,
+        "rating_mu": 27.993745275372778,
+        "rating_sigma": 2.0835864865575298,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "b303b9d3-708d-45be-b491-941c06a3f520",
+        "name": "Legacy",
+        "rating": 16.65948334667857,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "win"
+      }
+    },
+    "2024-05-03T12:22:45.380254+00:00": {
+      "this_amiibo": {
+        "rating": 22.714332225345046,
+        "rating_mu": 28.72419246508061,
+        "rating_sigma": 2.0032867465785205,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "00e99460-b6ef-4b16-b7cc-35b5e66e0121",
+        "name": "Deora",
+        "rating": 27.026112092587994,
+        "trainer_id": "b73cffef-c9fc-4a4d-9c1e-2ba84a63d775",
+        "trainer_name": "Precision_Rhythm",
+        "result": "loss"
+      }
     }
   }
 }

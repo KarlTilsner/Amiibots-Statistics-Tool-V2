@@ -633,6 +633,40 @@
         "trainer_name": "unoptimalprime",
         "result": "loss"
       }
+    },
+    "2024-04-28T22:13:16.572255+00:00": {
+      "this_amiibo": {
+        "rating": 13.294381038294274,
+        "rating_mu": 17.336522165832683,
+        "rating_sigma": 1.3473803758461362,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "2e2e39a3-66e8-45a5-8f20-226a4df0e4e4",
+        "name": "Marthilous",
+        "rating": 15.617393841115543,
+        "trainer_id": "5f193754-19cc-4e88-a09f-cd36122614ca",
+        "trainer_name": "unoptimalprime",
+        "result": "win"
+      }
+    },
+    "2024-05-01T00:41:21.931847+00:00": {
+      "this_amiibo": {
+        "rating": 13.562168117886547,
+        "rating_mu": 17.556296431457145,
+        "rating_sigma": 1.3313761045235326,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "1681ed5b-cd32-4b71-81e0-220665415124",
+        "name": "Robin",
+        "rating": 9.749438957515785,
+        "trainer_id": "e60a7cb7-112c-4f72-9470-7cd8762a6e2a",
+        "trainer_name": "PortalScout2004",
+        "result": "loss"
+      }
     }
   }
 }

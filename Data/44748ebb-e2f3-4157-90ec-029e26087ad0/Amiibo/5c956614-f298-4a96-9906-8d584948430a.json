@@ -3948,6 +3948,57 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2024-04-20T07:38:16.365548+00:00": {
+      "this_amiibo": {
+        "rating": 32.99165763079357,
+        "rating_mu": 35.416645008125656,
+        "rating_sigma": 0.8083291257773625,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "4eb1182f-acb3-4b0d-97bc-16371e7ddee4",
+        "name": "aqua",
+        "rating": 32.50810915797557,
+        "trainer_id": "14fad0a9-3b5f-4f0e-ba09-0926e5e731fe",
+        "trainer_name": "UmbraSSBU",
+        "result": "win"
+      }
+    },
+    "2024-04-21T15:33:45.447155+00:00": {
+      "this_amiibo": {
+        "rating": 33.075076871442654,
+        "rating_mu": 35.49904473395711,
+        "rating_sigma": 0.8079892875048188,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "6aede22c-2ffa-45a3-a332-98b3f9a2091b",
+        "name": "Malboro",
+        "rating": 32.45203571290688,
+        "trainer_id": "188d3669-16b5-48f6-90f4-6e473385395b",
+        "trainer_name": "Murbert_AM",
+        "result": "loss"
+      }
+    },
+    "2024-04-29T01:29:20.329343+00:00": {
+      "this_amiibo": {
+        "rating": 33.16596561778706,
+        "rating_mu": 35.5896778802961,
+        "rating_sigma": 0.8079040875030137,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "c29253f0-4d96-46f4-b415-18ca05d92ae2",
+        "name": "Vulky Bee",
+        "rating": 28.927750407195433,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "loss"
+      }
     }
   }
 }

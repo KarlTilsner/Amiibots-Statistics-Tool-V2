@@ -1041,6 +1041,40 @@
         "trainer_name": "ghoul2089",
         "result": "loss"
       }
+    },
+    "2024-04-21T07:33:47.231636+00:00": {
+      "this_amiibo": {
+        "rating": 25.4010544201063,
+        "rating_mu": 28.640041495585308,
+        "rating_sigma": 1.0796623584930036,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "f877e5f0-2bf4-4856-838d-07b2acb9f26d",
+        "name": "Highlian",
+        "rating": 25.85535946542968,
+        "trainer_id": "229cc080-eb7b-4fa0-856d-af16574a0979",
+        "trainer_name": "cff53",
+        "result": "win"
+      }
+    },
+    "2024-04-21T16:45:01.591747+00:00": {
+      "this_amiibo": {
+        "rating": 25.561306239258787,
+        "rating_mu": 28.778447506941983,
+        "rating_sigma": 1.0723804225610651,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "0a47fedf-6517-432f-82a7-c6c0b4a1df8c",
+        "name": "Hylia",
+        "rating": 24.701940069527176,
+        "trainer_id": "7f8b523d-feed-49f6-a608-88bf508984f0",
+        "trainer_name": "SepiksComposite",
+        "result": "loss"
+      }
     }
   }
 }

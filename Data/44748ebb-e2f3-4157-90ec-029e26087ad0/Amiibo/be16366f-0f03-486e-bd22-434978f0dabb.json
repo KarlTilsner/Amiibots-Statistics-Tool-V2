@@ -2758,6 +2758,40 @@
         "trainer_name": "Pure_YGO",
         "result": "loss"
       }
+    },
+    "2024-04-20T16:07:40.477407+00:00": {
+      "this_amiibo": {
+        "rating": 27.700146127261732,
+        "rating_mu": 30.231706176700943,
+        "rating_sigma": 0.8438533498130696,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "aa1b0038-7b5c-43bf-9c31-c6a8508707fc",
+        "name": "Mysterio",
+        "rating": 26.75449875162449,
+        "trainer_id": "ed890131-078f-4922-833d-184e448e3e9f",
+        "trainer_name": "rengaza",
+        "result": "win"
+      }
+    },
+    "2024-05-04T01:49:02.500072+00:00": {
+      "this_amiibo": {
+        "rating": 27.77249373034018,
+        "rating_mu": 30.30229917345772,
+        "rating_sigma": 0.8432684810391794,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "3fa077e3-b79d-4021-b5f4-30fb5c0be1ac",
+        "name": "Acecalibur",
+        "rating": 25.659901311193497,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "loss"
+      }
     }
   }
 }
