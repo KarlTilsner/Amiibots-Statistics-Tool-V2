@@ -1636,6 +1636,40 @@
         "trainer_name": "sst_bearslayer",
         "result": "win"
       }
+    },
+    "2023-11-21T21:24:22.394772+00:00": {
+      "this_amiibo": {
+        "rating": 28.032746901036383,
+        "rating_mu": 31.04995644473742,
+        "rating_sigma": 1.0057365145670114,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "06924640-c3c9-4036-9752-8116c308f195",
+        "name": "Dissociate",
+        "rating": 27.515553038964345,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "loss"
+      }
+    },
+    "2023-11-28T05:41:53.712830+00:00": {
+      "this_amiibo": {
+        "rating": 27.90673934969443,
+        "rating_mu": 30.907213882448545,
+        "rating_sigma": 1.0001581775847055,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "feb36709-15f1-4015-9f64-27723f7410cc",
+        "name": "Jaller",
+        "rating": 26.741368015004067,
+        "trainer_id": "95c09948-6452-4ce4-b27f-6c73c294c610",
+        "trainer_name": "2Snowblind",
+        "result": "win"
+      }
     }
   }
 }

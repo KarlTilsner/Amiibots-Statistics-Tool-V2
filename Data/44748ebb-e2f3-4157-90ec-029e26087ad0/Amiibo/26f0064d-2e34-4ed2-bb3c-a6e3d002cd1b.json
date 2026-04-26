@@ -514,6 +514,40 @@
         "trainer_name": "improv_195",
         "result": "loss"
       }
+    },
+    "2023-11-21T07:21:52.130428+00:00": {
+      "this_amiibo": {
+        "rating": 33.98385525987142,
+        "rating_mu": 38.37157752753552,
+        "rating_sigma": 1.462574089221367,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "d8213b02-64d7-44d4-8f46-06990d432362",
+        "name": "Revenant",
+        "rating": 32.009561271445925,
+        "trainer_id": "ed890131-078f-4922-833d-184e448e3e9f",
+        "trainer_name": "rengaza",
+        "result": "win"
+      }
+    },
+    "2023-11-25T18:59:44.576535+00:00": {
+      "this_amiibo": {
+        "rating": 33.81622772054938,
+        "rating_mu": 38.138316576185666,
+        "rating_sigma": 1.4406962852120953,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "9a607dee-8052-4487-99c9-57f19e6be735",
+        "name": "Marss",
+        "rating": 35.879106421177966,
+        "trainer_id": "259c6c07-f590-4aba-8069-85a64f78c6f3",
+        "trainer_name": "massivmann",
+        "result": "win"
+      }
     }
   }
 }

@@ -4152,6 +4152,40 @@
         "trainer_name": "random_fire",
         "result": "loss"
       }
+    },
+    "2023-11-23T21:23:48.927181+00:00": {
+      "this_amiibo": {
+        "rating": 24.98058896495677,
+        "rating_mu": 27.42876459458786,
+        "rating_sigma": 0.8160585432103636,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "a970580a-54d2-4668-906f-71122bd1d317",
+        "name": "Red Magnus",
+        "rating": 24.873596458938877,
+        "trainer_id": "646208e7-3449-4b3b-916a-8f8498bbf62a",
+        "trainer_name": "OverlordCrispyCool",
+        "result": "win"
+      }
+    },
+    "2023-11-26T15:56:23.607575+00:00": {
+      "this_amiibo": {
+        "rating": 25.071058730930115,
+        "rating_mu": 27.517476962493618,
+        "rating_sigma": 0.8154727438545005,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "b87291d5-7f7c-4072-be40-2649162a78bf",
+        "name": "Corrillya",
+        "rating": 24.219776352877698,
+        "trainer_id": "014cbd7d-3976-48c6-929d-d64677762669",
+        "trainer_name": "Illialidur",
+        "result": "loss"
+      }
     }
   }
 }

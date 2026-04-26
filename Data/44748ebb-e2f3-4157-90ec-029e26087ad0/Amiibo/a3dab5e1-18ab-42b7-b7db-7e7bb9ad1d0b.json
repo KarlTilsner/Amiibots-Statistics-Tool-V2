@@ -718,6 +718,40 @@
         "trainer_name": "the_definitive_mick",
         "result": "loss"
       }
+    },
+    "2023-11-22T02:18:45.559556+00:00": {
+      "this_amiibo": {
+        "rating": 13.167137433465676,
+        "rating_mu": 17.127868816467036,
+        "rating_sigma": 1.3202437943337866,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "1ea3ebe6-22a6-4aae-83eb-a150fd5414d8",
+        "name": "Beat",
+        "rating": 11.224314592972483,
+        "trainer_id": "53896979-5101-45ab-a6e5-c7aff20e0f12",
+        "trainer_name": "Grapeist",
+        "result": "win"
+      }
+    },
+    "2023-11-28T09:47:08.825482+00:00": {
+      "this_amiibo": {
+        "rating": 12.97141148673292,
+        "rating_mu": 16.88270916530025,
+        "rating_sigma": 1.303765892855776,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "5dd836b8-8afb-4dce-ab7e-4ddd23922157",
+        "name": "Starry",
+        "rating": 10.807857804130666,
+        "trainer_id": "10ea0467-670d-466e-8968-b344d740aaac",
+        "trainer_name": "remmum",
+        "result": "win"
+      }
     }
   }
 }

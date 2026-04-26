@@ -1,0 +1,43 @@
+{
+  "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+  "id": "94aa6c60-b17b-4e65-be90-dd8acfe6d496",
+  "name": "sword",
+  "trainer_id": "d946d180-9096-4798-971a-4c3afcd6a3df",
+  "trainer_name": "card100rac5",
+  "matches": {
+    "2023-11-30T01:35:59.467477+00:00": {
+      "this_amiibo": {
+        "rating": 0.9418956035495363,
+        "rating_mu": 21.2090256175899,
+        "rating_sigma": 6.755710004680122,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "54b62524-6234-4359-adb0-59d583bba51c",
+        "name": "celestial",
+        "rating": 21.79376920285675,
+        "trainer_id": "14fad0a9-3b5f-4f0e-ba09-0926e5e731fe",
+        "trainer_name": "UmbraSSBU",
+        "result": "win"
+      }
+    },
+    "2023-12-05T09:26:05.751874+00:00": {
+      "this_amiibo": {
+        "rating": 6.337649144089024,
+        "rating_mu": 24.144546687357682,
+        "rating_sigma": 5.935632514422886,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "d422b5d2-6026-4178-8d23-3699e15e3a1d",
+        "name": "Nimbus",
+        "rating": -0.024516541825207128,
+        "trainer_id": "eb3aad9b-b89f-4b96-8e69-1aeef7477028",
+        "trainer_name": "RGBarrios",
+        "result": "loss"
+      }
+    }
+  }
+}

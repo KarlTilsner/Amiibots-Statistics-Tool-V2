@@ -786,6 +786,40 @@
         "trainer_name": "Salty_Smash_NB",
         "result": "loss"
       }
+    },
+    "2023-11-20T10:01:21.190227+00:00": {
+      "this_amiibo": {
+        "rating": 36.62098139118693,
+        "rating_mu": 40.34576778777395,
+        "rating_sigma": 1.2415954655290076,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "ab1e1e69-d687-49e0-8ac7-321280635740",
+        "name": "BLAZE NYAH",
+        "rating": 40.359757806230746,
+        "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+        "trainer_name": "marble_787",
+        "result": "win"
+      }
+    },
+    "2023-11-24T20:43:23.573826+00:00": {
+      "this_amiibo": {
+        "rating": 36.46831933944585,
+        "rating_mu": 40.15281349682337,
+        "rating_sigma": 1.2281647191258411,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "22b2cf3d-95e9-4208-bbf7-54942c66bfc6",
+        "name": "TheTixMan",
+        "rating": 37.85128060192339,
+        "trainer_id": "737b125c-6dc9-418e-80cf-0dc6b78049cd",
+        "trainer_name": "FlaminJolt",
+        "result": "win"
+      }
     }
   }
 }

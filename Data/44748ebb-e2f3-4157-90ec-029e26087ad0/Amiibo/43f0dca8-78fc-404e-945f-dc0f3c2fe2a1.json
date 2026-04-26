@@ -1942,6 +1942,57 @@
         "trainer_name": "SepiksComposite",
         "result": "loss"
       }
+    },
+    "2023-11-28T12:18:03.481418+00:00": {
+      "this_amiibo": {
+        "rating": 23.71363165216055,
+        "rating_mu": 26.43717453908061,
+        "rating_sigma": 0.9078476289733522,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
+        "id": "55a3bc61-cd2a-44a8-8971-0fbfe76a1065",
+        "name": "SSRACING",
+        "rating": 24.11489081196685,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "joah_22",
+        "result": "win"
+      }
+    },
+    "2023-12-01T23:55:06.184981+00:00": {
+      "this_amiibo": {
+        "rating": 23.805940942191594,
+        "rating_mu": 26.530970787704348,
+        "rating_sigma": 0.9083432818375843,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
+        "id": "01219911-d9ba-4295-a1f5-fd6759bb9a60",
+        "name": "Dark",
+        "rating": 8.615217552783596,
+        "trainer_id": "a03324ae-7a0c-4a4a-a608-046e54c99664",
+        "trainer_name": "picvity",
+        "result": "loss"
+      }
+    },
+    "2023-12-02T09:24:18.786435+00:00": {
+      "this_amiibo": {
+        "rating": 23.921062627108753,
+        "rating_mu": 26.64606652570858,
+        "rating_sigma": 0.9083346328666093,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "6f49c45e-73b7-4595-91c1-005b69f48612",
+        "name": "▽▼Hilda▼▽",
+        "rating": 11.53416478309657,
+        "trainer_id": "dfd7eda0-b0a3-45b8-baf9-764cb4a0283a",
+        "trainer_name": "Inverse_e",
+        "result": "loss"
+      }
     }
   }
 }
