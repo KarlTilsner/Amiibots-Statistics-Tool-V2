@@ -667,6 +667,74 @@
         "trainer_name": "Azend_1",
         "result": "loss"
       }
+    },
+    "2024-02-05T01:08:22.033290+00:00": {
+      "this_amiibo": {
+        "rating": 36.340707128727445,
+        "rating_mu": 40.155550549742195,
+        "rating_sigma": 1.271614473671584,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "166a0b5c-f99d-4c3e-ab8c-01455711bdd9",
+        "name": "la faim",
+        "rating": 36.46036454541658,
+        "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+        "trainer_name": "iguanope",
+        "result": "win"
+      }
+    },
+    "2024-02-05T11:39:21.269933+00:00": {
+      "this_amiibo": {
+        "rating": 36.60514551519738,
+        "rating_mu": 40.37502978046559,
+        "rating_sigma": 1.256628088422736,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "166a0b5c-f99d-4c3e-ab8c-01455711bdd9",
+        "name": "la faim",
+        "rating": 36.26881122842157,
+        "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+        "trainer_name": "iguanope",
+        "result": "loss"
+      }
+    },
+    "2024-02-06T14:53:11.106566+00:00": {
+      "this_amiibo": {
+        "rating": 36.84884569293853,
+        "rating_mu": 40.57794519216419,
+        "rating_sigma": 1.2430331664085523,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "c53c1f51-cf23-428a-8153-fc84fc12bd6b",
+        "name": "Ace",
+        "rating": 35.0604397026204,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "loss"
+      }
+    },
+    "2024-02-17T05:26:23.637581+00:00": {
+      "this_amiibo": {
+        "rating": 36.71288808741299,
+        "rating_mu": 40.40566563144127,
+        "rating_sigma": 1.2309258480094272,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c170220c-ca18-40ef-93df-31a978f74fa9",
+        "name": "Cold Stone",
+        "rating": 37.04485670696541,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "win"
+      }
     }
   }
 }

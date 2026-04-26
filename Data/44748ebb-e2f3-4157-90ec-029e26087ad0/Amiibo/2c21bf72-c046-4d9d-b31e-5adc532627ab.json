@@ -769,6 +769,40 @@
         "trainer_name": "t_newcomer",
         "result": "loss"
       }
+    },
+    "2024-02-04T21:38:47.715002+00:00": {
+      "this_amiibo": {
+        "rating": 20.69023967292152,
+        "rating_mu": 24.640776491292982,
+        "rating_sigma": 1.3168456061238203,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "35b5c8ee-3fb7-4eb7-833b-4ce085c1780b",
+        "name": "TheReaper",
+        "rating": 21.850291621972477,
+        "trainer_id": "ec666794-0f36-4be6-b576-5c836f00e8ec",
+        "trainer_name": "PhantomRanch103",
+        "result": "win"
+      }
+    },
+    "2024-02-11T04:39:57.739297+00:00": {
+      "this_amiibo": {
+        "rating": 20.953301422858267,
+        "rating_mu": 24.854248849576827,
+        "rating_sigma": 1.300315808906186,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "33e09e33-b467-44df-b0e6-17b24ef0e768",
+        "name": "QuackKills",
+        "rating": 21.15930742944911,
+        "trainer_id": "26cad4d1-9d7d-457c-b6e3-6a285e74f071",
+        "trainer_name": "toonlinktroll",
+        "result": "loss"
+      }
     }
   }
 }

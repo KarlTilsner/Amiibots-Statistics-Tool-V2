@@ -293,6 +293,40 @@
         "trainer_name": "RazorForce21",
         "result": "loss"
       }
+    },
+    "2024-02-08T06:50:26.899408+00:00": {
+      "this_amiibo": {
+        "rating": 29.86370325594311,
+        "rating_mu": 35.493238099167456,
+        "rating_sigma": 1.8765116144081153,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "8038564c-5665-4769-86e9-6972999a587c",
+        "name": "Gluttony",
+        "rating": 29.09352857122619,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
+    },
+    "2024-02-11T00:11:46.806989+00:00": {
+      "this_amiibo": {
+        "rating": 30.568165598840366,
+        "rating_mu": 36.02710181471504,
+        "rating_sigma": 1.8196454052915578,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "c73e2c80-e97b-497a-9c90-79fc1b9ea9a5",
+        "name": "Hero Shade",
+        "rating": 33.945113898205165,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "loss"
+      }
     }
   }
 }
