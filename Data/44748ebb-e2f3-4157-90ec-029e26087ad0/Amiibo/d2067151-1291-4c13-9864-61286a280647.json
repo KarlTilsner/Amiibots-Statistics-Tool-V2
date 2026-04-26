@@ -1364,6 +1364,40 @@
         "trainer_name": "not_citrus23",
         "result": "loss"
       }
+    },
+    "2023-11-11T10:37:23.923484+00:00": {
+      "this_amiibo": {
+        "rating": 28.465527696872545,
+        "rating_mu": 31.489391297033876,
+        "rating_sigma": 1.0079545333871107,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "9753d54a-e46e-4c26-adb7-d148c5282dd6",
+        "name": "Zorgo",
+        "rating": 29.006630551257988,
+        "trainer_id": "c8b851c2-d185-4108-9254-a81296e3f107",
+        "trainer_name": "yourpaloscar",
+        "result": "win"
+      }
+    },
+    "2023-11-15T08:51:37.033885+00:00": {
+      "this_amiibo": {
+        "rating": 28.56656548966665,
+        "rating_mu": 31.579023703155208,
+        "rating_sigma": 1.0041527378295192,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "4dfd573c-bd91-407a-bd3c-88e1ef9b8d72",
+        "name": "The End",
+        "rating": 24.165346224732016,
+        "trainer_id": "52f01d9e-90d0-44d3-9846-d969ad5f091f",
+        "trainer_name": "spike2the9th",
+        "result": "loss"
+      }
     }
   }
 }

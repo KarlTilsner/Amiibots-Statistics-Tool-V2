@@ -1024,6 +1024,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2023-11-10T04:16:09.005820+00:00": {
+      "this_amiibo": {
+        "rating": 22.492505366589487,
+        "rating_mu": 26.353954268160873,
+        "rating_sigma": 1.2871496338571289,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "90de89e6-e389-451b-8ad7-355eb5c5ca38",
+        "name": "Puyo Puyo",
+        "rating": 24.05315051657039,
+        "trainer_id": "f15712ec-1029-4da4-b09b-8c5e7f335f7b",
+        "trainer_name": "0underscore",
+        "result": "win"
+      }
+    },
+    "2023-11-11T23:13:53.344379+00:00": {
+      "this_amiibo": {
+        "rating": 22.779291259394306,
+        "rating_mu": 26.59112888933258,
+        "rating_sigma": 1.2706125433127575,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "333169a7-c6a1-474c-b1d1-fb51025b2858",
+        "name": "Everest",
+        "rating": 24.44562226940182,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "loss"
+      }
     }
   }
 }

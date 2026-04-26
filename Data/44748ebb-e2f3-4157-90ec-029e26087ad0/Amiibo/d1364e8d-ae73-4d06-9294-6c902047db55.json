@@ -905,6 +905,40 @@
         "trainer_name": "cambriacotf",
         "result": "loss"
       }
+    },
+    "2023-11-15T08:30:36.325580+00:00": {
+      "this_amiibo": {
+        "rating": 32.2042833732152,
+        "rating_mu": 35.57776214276012,
+        "rating_sigma": 1.124492923181642,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "f9c17083-9ea7-4a60-b670-417e2f5cee2e",
+        "name": "Metatron",
+        "rating": 32.77785784125241,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2023-11-18T16:39:00.385026+00:00": {
+      "this_amiibo": {
+        "rating": 32.3487422719986,
+        "rating_mu": 35.70874328099422,
+        "rating_sigma": 1.1200003363318736,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+        "id": "28ef1cd4-f7f9-4f76-92da-cb9197c751a9",
+        "name": "Angel Free",
+        "rating": 20.291732792796452,
+        "trainer_id": "280c4d25-34f7-4e2f-a2a4-b085faf86b60",
+        "trainer_name": "gsus22",
+        "result": "loss"
+      }
     }
   }
 }

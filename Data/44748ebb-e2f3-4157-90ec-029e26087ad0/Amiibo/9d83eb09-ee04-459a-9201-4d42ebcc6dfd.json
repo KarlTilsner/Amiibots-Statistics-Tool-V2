@@ -1024,6 +1024,40 @@
         "trainer_name": "hidari_amiibo",
         "result": "loss"
       }
+    },
+    "2023-11-15T03:24:29.893731+00:00": {
+      "this_amiibo": {
+        "rating": 27.399034037026894,
+        "rating_mu": 30.838707894388307,
+        "rating_sigma": 1.1465579524538039,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "55c41609-d79e-43e8-8c6c-11a90bbce9c9",
+        "name": "An Elf Boi",
+        "rating": 22.763795292554995,
+        "trainer_id": "36eb0a93-8620-44e0-8795-beb1c3061ca9",
+        "trainer_name": "Salty_Smash_NB",
+        "result": "win"
+      }
+    },
+    "2023-11-16T05:41:26.317776+00:00": {
+      "this_amiibo": {
+        "rating": 27.25857928553217,
+        "rating_mu": 30.670737802354925,
+        "rating_sigma": 1.1373861722742513,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "4fbe54ce-2a66-461f-8a9b-ae01ad3a388b",
+        "name": "Frank",
+        "rating": 25.515536376747086,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "win"
+      }
     }
   }
 }

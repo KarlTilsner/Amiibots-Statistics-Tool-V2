@@ -276,6 +276,40 @@
         "trainer_name": "mrdoor1234",
         "result": "win"
       }
+    },
+    "2023-11-12T15:08:43.209365+00:00": {
+      "this_amiibo": {
+        "rating": 15.366794249194582,
+        "rating_mu": 21.91968926472527,
+        "rating_sigma": 2.1842983385102297,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "d48d49b7-f63e-45e8-8ce7-51b5e188b33a",
+        "name": "Revenge",
+        "rating": 16.354798699314383,
+        "trainer_id": "53896979-5101-45ab-a6e5-c7aff20e0f12",
+        "trainer_name": "Grapeist",
+        "result": "loss"
+      }
+    },
+    "2023-11-18T02:51:08.605115+00:00": {
+      "this_amiibo": {
+        "rating": 15.213387361235165,
+        "rating_mu": 21.582443332061807,
+        "rating_sigma": 2.123018656942214,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
+        "id": "4d3592fa-c13c-43ad-891d-b42cbe0308ad",
+        "name": "SANIC",
+        "rating": 22.962512674515498,
+        "trainer_id": "558891ae-9986-4661-b588-c4f0e8702b39",
+        "trainer_name": "ButoMatsuta",
+        "result": "win"
+      }
     }
   }
 }

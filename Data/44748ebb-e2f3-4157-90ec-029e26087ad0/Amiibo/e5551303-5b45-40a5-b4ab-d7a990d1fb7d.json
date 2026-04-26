@@ -1228,6 +1228,40 @@
         "trainer_name": "sst_bearslayer",
         "result": "loss"
       }
+    },
+    "2023-11-09T18:38:23.460062+00:00": {
+      "this_amiibo": {
+        "rating": 32.99753398089952,
+        "rating_mu": 36.02790762092661,
+        "rating_sigma": 1.0101245466756983,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "f9c17083-9ea7-4a60-b670-417e2f5cee2e",
+        "name": "Metatron",
+        "rating": 33.011236448661656,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2023-11-13T08:59:18.255889+00:00": {
+      "this_amiibo": {
+        "rating": 32.92077741654646,
+        "rating_mu": 35.94088870480033,
+        "rating_sigma": 1.0067037627512898,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "f3a15bcc-48e2-4097-b5bb-45a1bcb29940",
+        "name": "Duck",
+        "rating": 33.03928448379873,
+        "trainer_id": "6bce0734-9060-43d2-8db3-673554eeb60c",
+        "trainer_name": "ven_1234",
+        "result": "win"
+      }
     }
   }
 }

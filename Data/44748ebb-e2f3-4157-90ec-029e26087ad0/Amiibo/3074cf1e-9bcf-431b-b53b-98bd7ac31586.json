@@ -1993,6 +1993,40 @@
         "trainer_name": "qt1ppy",
         "result": "loss"
       }
+    },
+    "2023-11-06T06:31:39.378726+00:00": {
+      "this_amiibo": {
+        "rating": 28.435065553895924,
+        "rating_mu": 31.056822999019943,
+        "rating_sigma": 0.8739191483746722,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "796d70d0-0f19-4efd-a0fc-95a5380c3514",
+        "name": "Luci",
+        "rating": 28.920260068191137,
+        "trainer_id": "b3c93a1e-0aee-4a76-a0ed-36bc7258e629",
+        "trainer_name": "Bananika7",
+        "result": "win"
+      }
+    },
+    "2023-11-18T23:05:10.414507+00:00": {
+      "this_amiibo": {
+        "rating": 28.55129077790768,
+        "rating_mu": 31.16657466867785,
+        "rating_sigma": 0.871761296923389,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "14c6161d-2898-4cfb-9084-4d56a9add19d",
+        "name": "Sparg0",
+        "rating": 28.63041739994242,
+        "trainer_id": "e4931ae7-1311-40d6-811c-354742e96bc0",
+        "trainer_name": "atomic_salvy",
+        "result": "loss"
+      }
     }
   }
 }

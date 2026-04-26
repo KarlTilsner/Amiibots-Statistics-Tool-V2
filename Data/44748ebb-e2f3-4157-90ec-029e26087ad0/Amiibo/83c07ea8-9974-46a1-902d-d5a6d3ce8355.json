@@ -1364,6 +1364,74 @@
         "trainer_name": "MMMMMMMMTTYYY_",
         "result": "loss"
       }
+    },
+    "2023-11-06T05:20:47.947113+00:00": {
+      "this_amiibo": {
+        "rating": 29.592585840450944,
+        "rating_mu": 32.46912115892416,
+        "rating_sigma": 0.9588451061577381,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "2da455ca-9386-40dd-8ec2-d076cc2edbc5",
+        "name": "Outskilled",
+        "rating": 28.92340884803276,
+        "trainer_id": "014cbd7d-3976-48c6-929d-d64677762669",
+        "trainer_name": "Illialidur",
+        "result": "win"
+      }
+    },
+    "2023-11-17T04:45:19.996077+00:00": {
+      "this_amiibo": {
+        "rating": 29.806920411225025,
+        "rating_mu": 32.670666592787015,
+        "rating_sigma": 0.9545820605206631,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "c49dab51-b40e-4a99-8651-27ed75f3dad3",
+        "name": "Joy",
+        "rating": 29.20799351645429,
+        "trainer_id": "95c09948-6452-4ce4-b27f-6c73c294c610",
+        "trainer_name": "2Snowblind",
+        "result": "loss"
+      }
+    },
+    "2023-11-17T02:54:59.629513+00:00": {
+      "this_amiibo": {
+        "rating": 29.675405496796408,
+        "rating_mu": 32.55136584346293,
+        "rating_sigma": 0.9586534488888414,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+        "id": "cc10e601-8c75-4fe8-8d24-2508666d70c7",
+        "name": "log",
+        "rating": 13.466976401315675,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "loss"
+      }
+    },
+    "2023-11-17T15:31:49.493417+00:00": {
+      "this_amiibo": {
+        "rating": 29.93524741056145,
+        "rating_mu": 32.78712137805518,
+        "rating_sigma": 0.9506246558312446,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "f677e717-4b4a-4797-bfeb-7e813b23fb55",
+        "name": "Karate Kid",
+        "rating": 29.69043179526005,
+        "trainer_id": "8e8afc6d-1590-4f28-b835-2f4617b43e85",
+        "trainer_name": "PD_Dominator",
+        "result": "loss"
+      }
     }
   }
 }

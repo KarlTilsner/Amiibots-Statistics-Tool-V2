@@ -1466,6 +1466,57 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2023-11-08T13:18:09.123083+00:00": {
+      "this_amiibo": {
+        "rating": 29.95035124618103,
+        "rating_mu": 32.85394825377451,
+        "rating_sigma": 0.9678656691978269,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "957f7063-8a38-4f73-8fc9-947836c8d6cf",
+        "name": "/",
+        "rating": 28.82477211960481,
+        "trainer_id": "8e290d89-5484-46ab-b222-914c45b7b11c",
+        "trainer_name": "pixel_gunners",
+        "result": "win"
+      }
+    },
+    "2023-11-09T22:32:34.799241+00:00": {
+      "this_amiibo": {
+        "rating": 30.054600882881964,
+        "rating_mu": 32.95020298715364,
+        "rating_sigma": 0.9652007014238908,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "6f7b8d18-7214-4a99-ad67-43e1264d139a",
+        "name": "No :pray:",
+        "rating": 22.819842976103434,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "joah_22",
+        "result": "loss"
+      }
+    },
+    "2023-11-13T22:27:06.187813+00:00": {
+      "this_amiibo": {
+        "rating": 29.94510022437242,
+        "rating_mu": 32.82887035195408,
+        "rating_sigma": 0.9612567091938864,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "390d3d96-914f-4a5f-a13d-a7c0ff9782ff",
+        "name": "AyanoAishi",
+        "rating": 28.190727682709937,
+        "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
+        "trainer_name": "soysauce881",
+        "result": "win"
+      }
     }
   }
 }
