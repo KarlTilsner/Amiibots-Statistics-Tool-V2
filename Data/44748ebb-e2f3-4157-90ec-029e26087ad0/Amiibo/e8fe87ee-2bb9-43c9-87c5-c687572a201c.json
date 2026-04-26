@@ -1891,6 +1891,57 @@
         "trainer_name": "joah_22",
         "result": "loss"
       }
+    },
+    "2024-05-07T23:01:10.763374+00:00": {
+      "this_amiibo": {
+        "rating": 31.203725347493226,
+        "rating_mu": 33.81437746091467,
+        "rating_sigma": 0.870217371140482,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "56185709-8c0e-4436-86bd-03b6ee83dc46",
+        "name": "NightSlash",
+        "rating": 28.209098330410757,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "win"
+      }
+    },
+    "2024-05-11T15:22:35.033667+00:00": {
+      "this_amiibo": {
+        "rating": 31.304167678471362,
+        "rating_mu": 33.91071307927277,
+        "rating_sigma": 0.8688484669338021,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "6aff98a7-1e30-438d-b884-e5ca6194f94c",
+        "name": "Rebis",
+        "rating": 27.21902693764238,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "loss"
+      }
+    },
+    "2024-05-20T04:13:03.146680+00:00": {
+      "this_amiibo": {
+        "rating": 31.20367464182966,
+        "rating_mu": 33.80474593469932,
+        "rating_sigma": 0.8670237642898865,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "6aff98a7-1e30-438d-b884-e5ca6194f94c",
+        "name": "Rebis",
+        "rating": 29.420090363538883,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "win"
+      }
     }
   }
 }

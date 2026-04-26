@@ -1653,6 +1653,40 @@
         "trainer_name": "SepiksComposite",
         "result": "loss"
       }
+    },
+    "2024-05-06T04:47:48.343080+00:00": {
+      "this_amiibo": {
+        "rating": 26.047690078113995,
+        "rating_mu": 28.87703253163919,
+        "rating_sigma": 0.9431141511750658,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "b2da1753-fe38-40fa-be09-92bf72d56de8",
+        "name": "Shard",
+        "rating": 26.46639790180186,
+        "trainer_id": "553de26c-8e57-426d-8c04-8b081f6032f6",
+        "trainer_name": "Storm1014",
+        "result": "win"
+      }
+    },
+    "2024-05-14T10:05:15.230266+00:00": {
+      "this_amiibo": {
+        "rating": 26.159280345182037,
+        "rating_mu": 28.97950427816954,
+        "rating_sigma": 0.9400746443291675,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+        "id": "a024d8e2-b773-42a9-ac35-f78410c208cf",
+        "name": "Banjotaro",
+        "rating": 22.875435023666302,
+        "trainer_id": "aa43658e-5b76-465a-8e40-88525da0addb",
+        "trainer_name": "flounder_ssbu",
+        "result": "loss"
+      }
     }
   }
 }

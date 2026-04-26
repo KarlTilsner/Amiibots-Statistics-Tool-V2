@@ -89,6 +89,40 @@
         "trainer_name": "burnt_cumpy",
         "result": "loss"
       }
+    },
+    "2024-05-14T19:59:06.260826+00:00": {
+      "this_amiibo": {
+        "rating": 12.112524943273973,
+        "rating_mu": 21.997257666480813,
+        "rating_sigma": 3.294910907735613,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "fac2f792-716c-4e3c-8e87-1ccf7eb9523d",
+        "name": "EnemySquid",
+        "rating": 20.248057101386028,
+        "trainer_id": "6a92a875-ad10-4927-9ac9-43f4cea3e878",
+        "trainer_name": "ArkansasAFC",
+        "result": "win"
+      }
+    },
+    "2024-05-18T13:56:01.073506+00:00": {
+      "this_amiibo": {
+        "rating": 11.67770635052363,
+        "rating_mu": 20.827024382097118,
+        "rating_sigma": 3.0497726771911626,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "ba5223fc-4d33-4593-babb-52bab9ec8958",
+        "name": "Snowink",
+        "rating": 20.183505559820844,
+        "trainer_id": "0ec15dfd-6aea-441a-b701-9443c99e9c54",
+        "trainer_name": "inazumi1",
+        "result": "win"
+      }
     }
   }
 }
