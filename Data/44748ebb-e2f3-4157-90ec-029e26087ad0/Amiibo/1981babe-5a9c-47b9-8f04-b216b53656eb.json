@@ -820,6 +820,57 @@
         "trainer_name": "traumatizedbaconbits",
         "result": "loss"
       }
+    },
+    "2024-07-12T17:06:35.126653+00:00": {
+      "this_amiibo": {
+        "rating": 18.058597726426434,
+        "rating_mu": 21.7430341946047,
+        "rating_sigma": 1.2281454893927555,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "f49d1b0a-f55e-4466-843b-f1008304a330",
+        "name": "Skip",
+        "rating": 8.844886256886914,
+        "trainer_id": "7b989e5d-484c-4055-9234-dc14946d7fef",
+        "trainer_name": "kilian_da_cookie",
+        "result": "win"
+      }
+    },
+    "2024-07-15T19:42:50.697142+00:00": {
+      "this_amiibo": {
+        "rating": 18.25525682419271,
+        "rating_mu": 21.904161929448257,
+        "rating_sigma": 1.2163017017518492,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "721457cd-dbc3-46ca-9942-ae99703188c6",
+        "name": "Tetris",
+        "rating": 17.470523140589787,
+        "trainer_id": "f15712ec-1029-4da4-b09b-8c5e7f335f7b",
+        "trainer_name": "0underscore",
+        "result": "loss"
+      }
+    },
+    "2024-07-22T08:52:03.444325+00:00": {
+      "this_amiibo": {
+        "rating": 18.477452899884387,
+        "rating_mu": 22.09032484499293,
+        "rating_sigma": 1.2042906483695148,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "ce07084a-8f49-48f2-95de-7369ab86df3c",
+        "name": "Tekken E",
+        "rating": 16.830440325509006,
+        "trainer_id": "2885b919-f9cf-4fa9-8de0-b1c7a32293d9",
+        "trainer_name": "GMNPrime",
+        "result": "loss"
+      }
     }
   }
 }

@@ -650,6 +650,40 @@
         "trainer_name": "eon_ii",
         "result": "loss"
       }
+    },
+    "2024-07-11T20:29:26.694581+00:00": {
+      "this_amiibo": {
+        "rating": 22.0642913992569,
+        "rating_mu": 26.410770936665376,
+        "rating_sigma": 1.4488265124694923,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "d17e5da3-0fc0-454f-9564-9b985f78a52f",
+        "name": "OllieLang",
+        "rating": 0.7399705550527713,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "loss"
+      }
+    },
+    "2024-07-23T14:16:18.217427+00:00": {
+      "this_amiibo": {
+        "rating": 21.904701335980306,
+        "rating_mu": 26.2295677311565,
+        "rating_sigma": 1.4416221317253974,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "0c4b95c0-aaa5-4e87-8b68-f4943d65b37a",
+        "name": "Golden Gal",
+        "rating": 12.179835902075183,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "win"
+      }
     }
   }
 }

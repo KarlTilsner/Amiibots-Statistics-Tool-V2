@@ -259,6 +259,57 @@
         "trainer_name": "leCharade",
         "result": "loss"
       }
+    },
+    "2024-07-11T04:05:43.565410+00:00": {
+      "this_amiibo": {
+        "rating": 9.078292820368297,
+        "rating_mu": 15.541775258928558,
+        "rating_sigma": 2.1544941461867535,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "fde7c4bb-f90d-4736-b97d-8c1b318f8d7d",
+        "name": "birth bOy",
+        "rating": -0.18629722760512557,
+        "trainer_id": "db379875-e587-43da-b058-26692228e5fd",
+        "trainer_name": "fennecorn",
+        "result": "loss"
+      }
+    },
+    "2024-07-15T07:29:31.513933+00:00": {
+      "this_amiibo": {
+        "rating": 8.841042315326817,
+        "rating_mu": 15.12767228643167,
+        "rating_sigma": 2.0955433237016177,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "b9381215-0a78-4283-b7fb-87bc91328116",
+        "name": "Larry",
+        "rating": 10.303991203226117,
+        "trainer_id": "c5cc2d25-2550-4577-8299-9430ca309ca2",
+        "trainer_name": "tucbyt",
+        "result": "win"
+      }
+    },
+    "2024-07-21T04:47:52.283046+00:00": {
+      "this_amiibo": {
+        "rating": 8.618349438786591,
+        "rating_mu": 14.747503163129496,
+        "rating_sigma": 2.0430512414476345,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "13f34a10-4cdb-4874-93d4-c17e0605a14a",
+        "name": "Blueberry",
+        "rating": 9.663694547327562,
+        "trainer_id": "5381b617-c239-43ee-8c76-6f8c03eef9bf",
+        "trainer_name": "DuckTris",
+        "result": "win"
+      }
     }
   }
 }

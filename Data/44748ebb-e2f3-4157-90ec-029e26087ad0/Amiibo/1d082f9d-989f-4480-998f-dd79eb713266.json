@@ -1670,6 +1670,57 @@
         "trainer_name": "joah_22",
         "result": "loss"
       }
+    },
+    "2024-07-11T01:21:21.632800+00:00": {
+      "this_amiibo": {
+        "rating": 37.523613293362374,
+        "rating_mu": 40.25596248812006,
+        "rating_sigma": 0.9107830649192289,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "30efa99f-2b6a-4862-ba06-acec3de0449c",
+        "name": "ShortRound",
+        "rating": 37.974550202906435,
+        "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+        "trainer_name": "fammydamammy",
+        "result": "win"
+      }
+    },
+    "2024-07-16T00:04:34.659979+00:00": {
+      "this_amiibo": {
+        "rating": 37.643537066556064,
+        "rating_mu": 40.3671135046075,
+        "rating_sigma": 0.9078588126838132,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "30efa99f-2b6a-4862-ba06-acec3de0449c",
+        "name": "ShortRound",
+        "rating": 37.45122216020506,
+        "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+        "trainer_name": "fammydamammy",
+        "result": "loss"
+      }
+    },
+    "2024-07-16T20:05:07.543342+00:00": {
+      "this_amiibo": {
+        "rating": 37.79094968282287,
+        "rating_mu": 40.50408632573358,
+        "rating_sigma": 0.9043788809702378,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "58bb7a84-e7e1-4625-8c0a-13175c18daa2",
+        "name": "1/4096",
+        "rating": 39.522713466109835,
+        "trainer_id": "737b125c-6dc9-418e-80cf-0dc6b78049cd",
+        "trainer_name": "FlaminJolt",
+        "result": "loss"
+      }
     }
   }
 }

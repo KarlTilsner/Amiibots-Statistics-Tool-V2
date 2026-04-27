@@ -990,6 +990,40 @@
         "trainer_name": "spike2the9th",
         "result": "loss"
       }
+    },
+    "2024-07-12T01:06:40.567890+00:00": {
+      "this_amiibo": {
+        "rating": 29.484150859374815,
+        "rating_mu": 32.71344181951096,
+        "rating_sigma": 1.0764303200453822,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "49e8e357-382e-48ca-8a5f-78617c4836cc",
+        "name": "Murciélago",
+        "rating": 23.313688447770065,
+        "trainer_id": "be70cc79-9ffd-48a9-8fb9-298a2124f477",
+        "trainer_name": "bfan90133",
+        "result": "win"
+      }
+    },
+    "2024-07-22T19:51:45.638487+00:00": {
+      "this_amiibo": {
+        "rating": 29.356410926473863,
+        "rating_mu": 32.56348698457178,
+        "rating_sigma": 1.0690253526993068,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7",
+        "id": "e848965a-7463-433d-9f3f-51d322a7c511",
+        "name": "OpenAI",
+        "rating": 29.018476644914934,
+        "trainer_id": "3fae9fa9-ab8c-4d57-b705-2b88e9d7aed7",
+        "trainer_name": "burnt_cumpy",
+        "result": "win"
+      }
     }
   }
 }

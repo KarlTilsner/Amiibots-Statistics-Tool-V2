@@ -939,6 +939,40 @@
         "trainer_name": "Azend_1",
         "result": "loss"
       }
+    },
+    "2024-07-12T17:18:32.353482+00:00": {
+      "this_amiibo": {
+        "rating": 32.45370677862618,
+        "rating_mu": 35.753075818474436,
+        "rating_sigma": 1.0997896799494191,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "65ed9ae7-f299-4893-af9b-8ca0ef52491e",
+        "name": "Angry Tim",
+        "rating": 28.49398999311299,
+        "trainer_id": "6fcd9113-8cc8-48cd-b29b-46b2ccb55f27",
+        "trainer_name": "traderwaver",
+        "result": "win"
+      }
+    },
+    "2024-07-17T09:25:49.439428+00:00": {
+      "this_amiibo": {
+        "rating": 32.59095870648778,
+        "rating_mu": 35.87045160332533,
+        "rating_sigma": 1.0931642989458479,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "bbbc4c70-1695-4a99-b242-4348a0a924ba",
+        "name": "Sleeper",
+        "rating": 28.80415371331685,
+        "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
+        "trainer_name": "CikadaKing",
+        "result": "loss"
+      }
     }
   }
 }

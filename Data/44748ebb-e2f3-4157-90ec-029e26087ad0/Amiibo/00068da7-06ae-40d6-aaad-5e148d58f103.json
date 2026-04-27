@@ -1126,6 +1126,57 @@
         "trainer_name": "improv_195",
         "result": "loss"
       }
+    },
+    "2024-07-10T11:57:00.803341+00:00": {
+      "this_amiibo": {
+        "rating": 30.281847508137282,
+        "rating_mu": 33.39327480675411,
+        "rating_sigma": 1.0371424328722743,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "ce27f928-98d3-467b-8267-055ef89ce3f2",
+        "name": "Damnondorf",
+        "rating": 30.552144540002992,
+        "trainer_id": "5f193754-19cc-4e88-a09f-cd36122614ca",
+        "trainer_name": "unoptimalprime",
+        "result": "loss"
+      }
+    },
+    "2024-07-10T20:42:42.606936+00:00": {
+      "this_amiibo": {
+        "rating": 30.152807536198253,
+        "rating_mu": 33.24409131356413,
+        "rating_sigma": 1.030427925788624,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "b7a42a67-3c5c-46e5-84bf-34f1f5030e13",
+        "name": "Sun Tzu",
+        "rating": 30.726628283970935,
+        "trainer_id": "229cc080-eb7b-4fa0-856d-af16574a0979",
+        "trainer_name": "cff53",
+        "result": "win"
+      }
+    },
+    "2024-07-20T02:57:44.370839+00:00": {
+      "this_amiibo": {
+        "rating": 30.309248328205012,
+        "rating_mu": 33.38306287625964,
+        "rating_sigma": 1.0246048493515436,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "c4eac290-cf92-41b7-94ee-ca1933e0cb69",
+        "name": "Flinch",
+        "rating": 28.005949208249746,
+        "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
+        "trainer_name": "LovingStew",
+        "result": "loss"
+      }
     }
   }
 }

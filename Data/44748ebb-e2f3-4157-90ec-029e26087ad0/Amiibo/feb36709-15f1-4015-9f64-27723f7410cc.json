@@ -667,6 +667,23 @@
         "trainer_name": "random_fire",
         "result": "loss"
       }
+    },
+    "2024-07-22T20:20:20.007746+00:00": {
+      "this_amiibo": {
+        "rating": 26.584136666583046,
+        "rating_mu": 30.518714313020304,
+        "rating_sigma": 1.3115258821457527,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "58aabb71-ccd7-4031-b6a1-33359fa7c0f4",
+        "name": "Zelda",
+        "rating": 29.135265835358112,
+        "trainer_id": "7f8b523d-feed-49f6-a608-88bf508984f0",
+        "trainer_name": "SepiksComposite",
+        "result": "win"
+      }
     }
   }
 }
