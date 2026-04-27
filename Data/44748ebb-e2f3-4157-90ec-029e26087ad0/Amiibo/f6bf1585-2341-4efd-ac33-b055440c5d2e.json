@@ -21,6 +21,40 @@
         "trainer_name": "MiDe1",
         "result": "loss"
       }
+    },
+    "2025-04-16T00:14:03.225309+00:00": {
+      "this_amiibo": {
+        "rating": 11.068909846703018,
+        "rating_mu": 26.744508534977356,
+        "rating_sigma": 5.225199562758113,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "d097c75b-240d-4706-8393-fefd6265ed24",
+        "name": "Witcher",
+        "rating": 24.264820271076253,
+        "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
+        "trainer_name": "LovingStew",
+        "result": "win"
+      }
+    },
+    "2025-05-13T17:43:11.743359+00:00": {
+      "this_amiibo": {
+        "rating": 16.973484462721597,
+        "rating_mu": 30.09075109438936,
+        "rating_sigma": 4.372422210555921,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "0a47fedf-6517-432f-82a7-c6c0b4a1df8c",
+        "name": "Hylia",
+        "rating": 26.130719351888434,
+        "trainer_id": "7f8b523d-feed-49f6-a608-88bf508984f0",
+        "trainer_name": "SepiksComposite",
+        "result": "loss"
+      }
     }
   }
 }

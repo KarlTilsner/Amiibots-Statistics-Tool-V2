@@ -667,6 +667,40 @@
         "trainer_name": "AceTempest172",
         "result": "loss"
       }
+    },
+    "2025-05-10T19:06:11.144726+00:00": {
+      "this_amiibo": {
+        "rating": 26.843321246793824,
+        "rating_mu": 30.87685134621325,
+        "rating_sigma": 1.3445100331398085,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "513455c2-b04b-4638-b910-e91c1f57a1ae",
+        "name": "garp",
+        "rating": 19.017430503722775,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "win"
+      }
+    },
+    "2025-05-12T09:58:52.606515+00:00": {
+      "this_amiibo": {
+        "rating": 27.110661144266167,
+        "rating_mu": 31.091507046061235,
+        "rating_sigma": 1.3269486339316887,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "2d846a86-4c1b-4bb2-9931-e5758b6ec951",
+        "name": "Mr. Grinch",
+        "rating": 27.53761466642637,
+        "trainer_id": "9d2e0e79-39fd-4936-8270-f43cb65749cb",
+        "trainer_name": "SpliceStream",
+        "result": "loss"
+      }
     }
   }
 }

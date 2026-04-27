@@ -55,6 +55,40 @@
         "trainer_name": "cgr146",
         "result": "loss"
       }
+    },
+    "2025-05-07T15:08:21.951929+00:00": {
+      "this_amiibo": {
+        "rating": 12.65171804352406,
+        "rating_mu": 24.158679164694327,
+        "rating_sigma": 3.835653707056756,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "cc48b472-55a5-4bfe-bc21-f69b8ff6b81f",
+        "name": "THERIDDLER",
+        "rating": 20.64360144955528,
+        "trainer_id": "76fd745b-3034-4acc-9bd4-a6c11810af03",
+        "trainer_name": "mentallysquared",
+        "result": "win"
+      }
+    },
+    "2025-05-15T02:28:10.819560+00:00": {
+      "this_amiibo": {
+        "rating": 15.646065940902163,
+        "rating_mu": 25.98772781507361,
+        "rating_sigma": 3.447220624723816,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
+        "id": "ac45e014-0e38-46e9-b2fa-b9908c5aa755",
+        "name": "igel",
+        "rating": 21.480567552636384,
+        "trainer_id": "1c7b0134-2f85-4e7a-a4e0-f93145be0cf8",
+        "trainer_name": "rougew2",
+        "result": "loss"
+      }
     }
   }
 }

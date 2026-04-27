@@ -1415,6 +1415,40 @@
         "trainer_name": "amiibofight",
         "result": "win"
       }
+    },
+    "2025-05-07T15:36:14.816821+00:00": {
+      "this_amiibo": {
+        "rating": 28.19265408279462,
+        "rating_mu": 31.093728281521972,
+        "rating_sigma": 0.9670247329091181,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "184c2c0e-aa49-4473-bf46-4f58598681bd",
+        "name": "Wack-o",
+        "rating": 28.627110423356203,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "win"
+      }
+    },
+    "2025-05-10T18:13:30.555578+00:00": {
+      "this_amiibo": {
+        "rating": 28.325661470871342,
+        "rating_mu": 31.21374983060646,
+        "rating_sigma": 0.962696119911706,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "184c2c0e-aa49-4473-bf46-4f58598681bd",
+        "name": "Wack-o",
+        "rating": 28.296971074086592,
+        "trainer_id": "b10876b5-7251-465f-9881-c964cde57340",
+        "trainer_name": "nozomup",
+        "result": "loss"
+      }
     }
   }
 }
