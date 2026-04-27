@@ -106,6 +106,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2024-08-01T22:37:54.112085+00:00": {
+      "this_amiibo": {
+        "rating": 21.529665531608373,
+        "rating_mu": 30.43824120244,
+        "rating_sigma": 2.969525223610543,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "9c73d3fc-2ed2-4903-8e36-3fb6a847283e",
+        "name": "Errol",
+        "rating": 30.647911706460242,
+        "trainer_id": "2b57d49d-984b-4875-8542-795b943d18ec",
+        "trainer_name": "royalldarkness",
+        "result": "win"
+      }
+    },
+    "2024-08-06T05:48:38.144606+00:00": {
+      "this_amiibo": {
+        "rating": 23.00105505580083,
+        "rating_mu": 31.37468736345236,
+        "rating_sigma": 2.7912107692171766,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "d5666fc0-fa56-4396-80e3-993ae31fbdc8",
+        "name": "Orb Eater3",
+        "rating": 24.938269300194392,
+        "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
+        "trainer_name": "soysauce881",
+        "result": "loss"
+      }
     }
   }
 }

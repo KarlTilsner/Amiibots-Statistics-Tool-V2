@@ -1942,6 +1942,40 @@
         "trainer_name": "piper_jamie",
         "result": "loss"
       }
+    },
+    "2024-08-02T22:51:04.339662+00:00": {
+      "this_amiibo": {
+        "rating": 19.153681734623976,
+        "rating_mu": 21.943793842950807,
+        "rating_sigma": 0.9300373694422771,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "74eee2c1-fa04-4215-a038-89a625cd8472",
+        "name": "Luci",
+        "rating": 18.106968553908402,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "win"
+      }
+    },
+    "2024-08-04T14:01:00.339665+00:00": {
+      "this_amiibo": {
+        "rating": 19.301924488901157,
+        "rating_mu": 22.080855878729004,
+        "rating_sigma": 0.9263104632759485,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "49bfa69c-4c78-4fb4-987c-75c8588ef5c1",
+        "name": "Rose",
+        "rating": 18.85723233292009,
+        "trainer_id": "d0819553-207b-4eee-966e-58b6d2294437",
+        "trainer_name": "Avramax98",
+        "result": "loss"
+      }
     }
   }
 }

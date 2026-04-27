@@ -1585,6 +1585,40 @@
         "trainer_name": "track8regret",
         "result": "loss"
       }
+    },
+    "2024-07-26T02:37:56.689174+00:00": {
+      "this_amiibo": {
+        "rating": 24.56964515957978,
+        "rating_mu": 27.589319656151556,
+        "rating_sigma": 1.0065581655239255,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "cea3b0bd-2941-446b-b1fa-4de7b725656e",
+        "name": "Chugga",
+        "rating": 25.30766725144465,
+        "trainer_id": "0dac8a24-5ed7-4fc9-9c00-5674617b4fab",
+        "trainer_name": "JohnLML123",
+        "result": "win"
+      }
+    },
+    "2024-07-30T03:51:49.256368+00:00": {
+      "this_amiibo": {
+        "rating": 24.694080616070263,
+        "rating_mu": 27.705877751542193,
+        "rating_sigma": 1.0039323784906438,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "57564338-c989-4ff0-980f-8c6075e4cd1a",
+        "name": "Beat",
+        "rating": 14.205876347435321,
+        "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
+        "trainer_name": "prowervolt",
+        "result": "loss"
+      }
     }
   }
 }
