@@ -1,10 +1,9 @@
 # Amiibots Statistics Tool V2
 
 A data-driven web application that processes and analyzes large-scale competitive match data to generate real-time statistics, rankings, and matchup insights.
+Also designed to be mobile-friendly 
 
 🔗 Live Demo: https://amiibots-stats-tool.com/
-
-🔗 Repository: https://github.com/KarlTilsner/Amiibots-Statistics-Tool-V2
 
 ---
 
@@ -46,23 +45,11 @@ This introduces a small delay in data freshness (typically a few hours), but res
 
 ## Architecture
 
-External API (slow, large dataset)
-
-        ↓
-
-GitHub Actions (scheduled job)
-
-        ↓
-
-Data ingestion + preprocessing
-
-        ↓
-
-Optimized JSON datasets
-
-        ↓
-
-Frontend (fast, cached)
+1. External API (slow, large dataset)
+2. GitHub Actions (scheduled job)
+3. Data ingestion + preprocessing
+4. Optimized JSON datasets
+5. Frontend
 
 ---
 
@@ -115,50 +102,44 @@ Data Source: External REST API
 
 ## Key Features
 ### Amiibo Statistics
-- Rating history and trends
-- Win/loss records and streaks
-- Leaderboard rankings (global and category-based)
-- Matchup performance
-- Full match history
+Displays a full rundown of your amiibo, including rating history, hidden rating stats, win streaks, leaderboard position (overall and character based), character matchups, potential opponents, and a full match history.
 
 ![Alt Text](/Screenshots/amiibo%20stats%201.png)
 ![Alt Text](/Screenshots/amiibo%20stats%202.png)
 ![Alt Text](/Screenshots/amiibo%20stats%203.png)
 ![Alt Text](/Screenshots/amiibo%20stats%204.png)
 
+---
+
 ### Rating History
-- Historical performance tracking
-- Top performers over time
-- Duration of dominance
-- Matchup distributions
-- Supports multiple data rulesets
+Displays the entire history of a selected character, which trainers had the highest rating at the time, who was the highest rated for the longest, basic stats of the character, and a full matchup chart of the selected character.
 
 ![Alt Text](/Screenshots/rating%20history%201.png)
-![Alt Text](/Screenshots/rating%20history%202.png)
+
+---
 
 ### Trainer Leaderboard
-- Custom ranking system based on performance
-- Points-based system
-- Multi-entity aggregation
+This is my interpretation on a ranking system for Amiibots, it scores each trainer on their current status for each amiibo. Each amiibo a trainer has in the top 10 will award points. If a trainer has multiple amiibo in the top 10, the highest will be awarded full points and the subsequent will earn 1 point each. Clicking on a character icon will open up the amiibots leaderboard, and clicking on a trainer name will redirect to the trainer stats tab.
 
 ![Alt Text](/Screenshots/leaderboard.png)
 
+---
+
 ### Trainer Statistics
-- Win rate and performance metrics
-- Matchups across multiple dimensions
-- Full dataset of associated entities
+Displays a ton of misc stats about a selected trainer such as their most used character, win/loss streaks, winrate, leaderboard position, matchups against other trainers/characters/amiibo, and all their amiibo with basic stats.
 
 ![Alt Text](/Screenshots/trainer%20stats%201.png)
 
+---
+
 ### Amiibo Search
-- View all amiibo currently on Amiibots
-- Fast navigation using preprocessed data
-- Filtering and lookup
+Amiibo Search does exactly that, searches all amiibo currently on amiibots, clicking on any of these amiibo will redirect to the amiibo stats tab to view detailed stats about it.
 
 ![Alt Text](/Screenshots/amiibo%20search.png)
 
+---
+
 ### Tierlist
-- Ranking based on aggregated performance metrics
-- High-level overview of dataset strength distribution
+The Tierlist is my interpretation of an Amiibots tierlist, the positions are based on the global average rating of all amiibo on amiibots, all characters are scaled based off of this value.
 
 ![Alt Text](/Screenshots/tierlist.png)
