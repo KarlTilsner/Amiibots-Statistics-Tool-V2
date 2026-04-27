@@ -21,6 +21,40 @@
         "trainer_name": "track8regret",
         "result": "loss"
       }
+    },
+    "2024-06-14T05:01:48.029966+00:00": {
+      "this_amiibo": {
+        "rating": 19.186971346046114,
+        "rating_mu": 34.48813448297824,
+        "rating_sigma": 5.100387712310709,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "3958d233-76c6-4c3b-af42-b7b043eb3093",
+        "name": "Rulon",
+        "rating": 28.781566901987254,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "loss"
+      }
+    },
+    "2024-06-15T23:47:24.592379+00:00": {
+      "this_amiibo": {
+        "rating": 18.787591606048334,
+        "rating_mu": 31.881484285552524,
+        "rating_sigma": 4.364630893168063,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "89b30bb0-28b9-406e-a6eb-c69058f18e30",
+        "name": "The Reset",
+        "rating": 32.2873009842312,
+        "trainer_id": "c1d49fb5-9703-4d9f-b725-3db960f78a89",
+        "trainer_name": "AmiiboDoctor",
+        "result": "win"
+      }
     }
   }
 }

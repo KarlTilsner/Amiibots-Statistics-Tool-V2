@@ -667,6 +667,40 @@
         "trainer_name": "orcanepk",
         "result": "loss"
       }
+    },
+    "2024-06-06T13:24:53.134387+00:00": {
+      "this_amiibo": {
+        "rating": 21.574973994367067,
+        "rating_mu": 25.501618685610506,
+        "rating_sigma": 1.3088815637478133,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "6c7bdb79-230f-4d27-8a71-d5f1028a4ff4",
+        "name": "Minecraft",
+        "rating": 25.05227723178982,
+        "trainer_id": "3fae9fa9-ab8c-4d57-b705-2b88e9d7aed7",
+        "trainer_name": "burnt_cumpy",
+        "result": "win"
+      }
+    },
+    "2024-06-12T22:37:42.628583+00:00": {
+      "this_amiibo": {
+        "rating": 21.680716317954086,
+        "rating_mu": 25.59459687205093,
+        "rating_sigma": 1.3046268513656134,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "78361124-7f14-4a48-9336-00e53cf74df3",
+        "name": "SpeedBall",
+        "rating": 0.8714394197183992,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "loss"
+      }
     }
   }
 }
