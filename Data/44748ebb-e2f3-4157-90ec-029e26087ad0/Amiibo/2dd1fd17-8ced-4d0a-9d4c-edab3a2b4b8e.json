@@ -89,6 +89,40 @@
         "trainer_name": "rougew2",
         "result": "loss"
       }
+    },
+    "2025-05-26T03:46:03.031535+00:00": {
+      "this_amiibo": {
+        "rating": 15.175803168660721,
+        "rating_mu": 24.87228055624761,
+        "rating_sigma": 3.2321591291956295,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "bc93e75c-7761-47e1-a508-e1d398c51ab1",
+        "name": "Lizardon",
+        "rating": 17.988711190623647,
+        "trainer_id": "dd9a6045-44a2-4ce5-875b-fa98e43ac9b7",
+        "trainer_name": "charizard744",
+        "result": "win"
+      }
+    },
+    "2025-06-06T04:02:48.203921+00:00": {
+      "this_amiibo": {
+        "rating": 17.08291491682783,
+        "rating_mu": 26.067174444442863,
+        "rating_sigma": 2.9947531758716783,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "49bfa69c-4c78-4fb4-987c-75c8588ef5c1",
+        "name": "Rose",
+        "rating": 21.322927565078608,
+        "trainer_id": "d0819553-207b-4eee-966e-58b6d2294437",
+        "trainer_name": "Avramax98",
+        "result": "loss"
+      }
     }
   }
 }

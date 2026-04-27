@@ -1007,6 +1007,40 @@
         "trainer_name": "MBuuda",
         "result": "loss"
       }
+    },
+    "2025-05-30T05:24:05.281025+00:00": {
+      "this_amiibo": {
+        "rating": 29.31842723498581,
+        "rating_mu": 32.519314122994196,
+        "rating_sigma": 1.0669622960027954,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "82dd6ce1-e2d9-4563-923b-8747ae7dad23",
+        "name": "LinkInPark",
+        "rating": 28.40728663064283,
+        "trainer_id": "8811e988-2217-44d5-9aca-40c10f270fdc",
+        "trainer_name": "GooigiLH",
+        "result": "win"
+      }
+    },
+    "2025-05-30T20:43:13.870568+00:00": {
+      "this_amiibo": {
+        "rating": 29.57064318023102,
+        "rating_mu": 32.74379083106794,
+        "rating_sigma": 1.0577158836123066,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "067e0f8f-b87e-4cbe-84ad-6507e8fabfcb",
+        "name": "The Cure",
+        "rating": 33.28880073792777,
+        "trainer_id": "8d74ac34-1a78-44a3-a73c-7e8d0afb5afe",
+        "trainer_name": "smoothie_kohi",
+        "result": "loss"
+      }
     }
   }
 }

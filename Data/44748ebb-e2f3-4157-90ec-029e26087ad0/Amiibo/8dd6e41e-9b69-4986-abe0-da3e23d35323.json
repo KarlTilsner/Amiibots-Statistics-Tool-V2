@@ -191,6 +191,40 @@
         "trainer_name": "rougew2",
         "result": "loss"
       }
+    },
+    "2025-06-15T20:24:09.429702+00:00": {
+      "this_amiibo": {
+        "rating": 34.9439984319197,
+        "rating_mu": 42.16096550345065,
+        "rating_sigma": 2.4056556905103146,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c170220c-ca18-40ef-93df-31a978f74fa9",
+        "name": "Cold Stone",
+        "rating": 43.61169106136158,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "win"
+      }
+    },
+    "2025-06-20T09:50:29.542229+00:00": {
+      "this_amiibo": {
+        "rating": 34.216049024720846,
+        "rating_mu": 41.04483132565467,
+        "rating_sigma": 2.276260766977942,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "0f54afff-2070-4dc3-b9da-0e9412b5c4dd",
+        "name": "Arya",
+        "rating": 35.839406034547025,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
     }
   }
 }

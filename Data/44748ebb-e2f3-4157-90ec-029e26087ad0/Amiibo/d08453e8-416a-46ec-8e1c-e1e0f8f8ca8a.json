@@ -1092,6 +1092,57 @@
         "trainer_name": "Hazy_Fforest",
         "result": "loss"
       }
+    },
+    "2025-05-23T03:33:39.960370+00:00": {
+      "this_amiibo": {
+        "rating": 32.501197422072735,
+        "rating_mu": 35.633874213085534,
+        "rating_sigma": 1.0442255970042673,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "6b13060c-25da-4623-8647-5cbbe688d5bd",
+        "name": "koby",
+        "rating": 28.201455845544267,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "win"
+      }
+    },
+    "2025-05-25T20:11:10.492652+00:00": {
+      "this_amiibo": {
+        "rating": 32.66756861740416,
+        "rating_mu": 35.780553817410336,
+        "rating_sigma": 1.0376617333353917,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "0fc7874c-57dd-444c-beff-a8239fbd5a68",
+        "name": "Aegis",
+        "rating": 31.627658249060925,
+        "trainer_id": "617a242b-ff29-4568-a5b4-ec41e1ce80d2",
+        "trainer_name": "Xedge14",
+        "result": "loss"
+      }
+    },
+    "2025-06-02T20:38:28.191796+00:00": {
+      "this_amiibo": {
+        "rating": 32.83441202869945,
+        "rating_mu": 35.927410668318046,
+        "rating_sigma": 1.0309995465395336,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "9f54c632-ffe9-4567-a643-90b221dc1999",
+        "name": "Amilus",
+        "rating": 33.46776128433176,
+        "trainer_id": "aeea6f87-4d03-4666-8192-9f9edbc67090",
+        "trainer_name": "Lumen0220",
+        "result": "loss"
+      }
     }
   }
 }

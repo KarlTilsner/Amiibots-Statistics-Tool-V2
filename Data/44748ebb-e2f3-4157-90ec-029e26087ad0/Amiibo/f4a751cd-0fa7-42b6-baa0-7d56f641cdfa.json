@@ -21,6 +21,40 @@
         "trainer_name": "SquallDBC",
         "result": "win"
       }
+    },
+    "2025-05-23T08:14:32.185499+00:00": {
+      "this_amiibo": {
+        "rating": 0.2816289478004794,
+        "rating_mu": 15.642771600071052,
+        "rating_sigma": 5.120380884090191,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "be503fa1-2310-4fec-8ed9-ef9f5b001efd",
+        "name": "Pika",
+        "rating": 15.682238482623047,
+        "trainer_id": "b8ad4a59-f6c3-4437-ab04-725be686970d",
+        "trainer_name": "Pi_Boy_314",
+        "result": "win"
+      }
+    },
+    "2025-05-24T15:30:39.940293+00:00": {
+      "this_amiibo": {
+        "rating": 5.024892477696632,
+        "rating_mu": 18.241211714871852,
+        "rating_sigma": 4.405439745725073,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "13f34a10-4cdb-4874-93d4-c17e0605a14a",
+        "name": "Blueberry",
+        "rating": 10.066484973854013,
+        "trainer_id": "5381b617-c239-43ee-8c76-6f8c03eef9bf",
+        "trainer_name": "DuckTris",
+        "result": "loss"
+      }
     }
   }
 }
