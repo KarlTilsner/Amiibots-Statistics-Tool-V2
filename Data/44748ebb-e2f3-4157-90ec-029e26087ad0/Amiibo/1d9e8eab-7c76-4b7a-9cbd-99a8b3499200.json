@@ -1075,6 +1075,40 @@
         "trainer_name": "SwiftSG_Official",
         "result": "loss"
       }
+    },
+    "2024-08-29T05:52:57.109078+00:00": {
+      "this_amiibo": {
+        "rating": 34.7004830354567,
+        "rating_mu": 37.82514561395332,
+        "rating_sigma": 1.0415541928322067,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "f9c17083-9ea7-4a60-b670-417e2f5cee2e",
+        "name": "Metatron",
+        "rating": 36.084710282446125,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2024-10-18T01:52:57.559349+00:00": {
+      "this_amiibo": {
+        "rating": 34.582185096138325,
+        "rating_mu": 37.69126603665146,
+        "rating_sigma": 1.0363603135043784,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "7e7fafe6-5184-49a9-99fd-4cd8ecfaed0a",
+        "name": "Sigurd",
+        "rating": 31.0841319554865,
+        "trainer_id": "f346091f-8917-49bc-b479-b0c568026dbf",
+        "trainer_name": "RazorForce21",
+        "result": "win"
+      }
     }
   }
 }

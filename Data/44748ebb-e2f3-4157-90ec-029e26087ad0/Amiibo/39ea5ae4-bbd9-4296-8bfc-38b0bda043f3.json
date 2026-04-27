@@ -17242,6 +17242,40 @@
         "trainer_name": "Hazy_Fforest",
         "result": "loss"
       }
+    },
+    "2024-08-28T09:04:16.397835+00:00": {
+      "this_amiibo": {
+        "rating": 32.548237433023516,
+        "rating_mu": 34.93173684630745,
+        "rating_sigma": 0.7944998044279793,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "55e484e8-cd27-4fe1-bb21-8fc5e075183f",
+        "name": "Fundies",
+        "rating": 32.084017246880315,
+        "trainer_id": "333ada9d-112d-469a-8a26-320358969432",
+        "trainer_name": "smashssf2_ita",
+        "result": "win"
+      }
+    },
+    "2024-08-28T19:21:24.737764+00:00": {
+      "this_amiibo": {
+        "rating": 32.613155649447855,
+        "rating_mu": 34.997664631939394,
+        "rating_sigma": 0.79483632749718,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "795b0fdd-85e0-46fa-a510-cce31dc36208",
+        "name": "Kira",
+        "rating": 30.594878889145797,
+        "trainer_id": "0ef948e8-8ead-4690-85d5-1a6b46d0aa45",
+        "trainer_name": "Losinik",
+        "result": "loss"
+      }
     }
   }
 }

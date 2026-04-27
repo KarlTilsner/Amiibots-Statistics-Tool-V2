@@ -837,6 +837,40 @@
         "trainer_name": "improv_195",
         "result": "loss"
       }
+    },
+    "2024-08-27T02:17:54.527875+00:00": {
+      "this_amiibo": {
+        "rating": 34.93315359682464,
+        "rating_mu": 38.412773553372986,
+        "rating_sigma": 1.1598733188494486,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "f9c17083-9ea7-4a60-b670-417e2f5cee2e",
+        "name": "Metatron",
+        "rating": 36.08134373545518,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2024-10-27T07:07:23.622339+00:00": {
+      "this_amiibo": {
+        "rating": 35.131153402749355,
+        "rating_mu": 38.579807711714906,
+        "rating_sigma": 1.1495514363218509,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "4ce94488-28d1-432c-92f9-c938c7440d48",
+        "name": "BigChungus",
+        "rating": 35.32330297421499,
+        "trainer_id": "36eb0a93-8620-44e0-8795-beb1c3061ca9",
+        "trainer_name": "Salty_Smash_NB",
+        "result": "loss"
+      }
     }
   }
 }

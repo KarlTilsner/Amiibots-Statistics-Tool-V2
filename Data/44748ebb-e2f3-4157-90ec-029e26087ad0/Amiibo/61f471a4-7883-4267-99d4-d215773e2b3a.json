@@ -412,6 +412,40 @@
         "trainer_name": "123hyden",
         "result": "win"
       }
+    },
+    "2024-10-17T01:47:05.075624+00:00": {
+      "this_amiibo": {
+        "rating": 19.21985926848007,
+        "rating_mu": 25.235181924127602,
+        "rating_sigma": 2.0051075518825106,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "a13802da-cdd2-42f6-983d-a2d1300cffe7",
+        "name": "Mile High",
+        "rating": 0.4273931636062649,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "loss"
+      }
+    },
+    "2024-10-17T21:53:31.078970+00:00": {
+      "this_amiibo": {
+        "rating": 18.97246385016134,
+        "rating_mu": 24.920665321784842,
+        "rating_sigma": 1.9827338238745,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "dbf5c93a-f5fb-4d66-9933-914e4729b95b",
+        "name": "ZweiWing",
+        "rating": 11.248829436251839,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
     }
   }
 }

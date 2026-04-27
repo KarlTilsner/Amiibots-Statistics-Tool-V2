@@ -310,6 +310,40 @@
         "trainer_name": "pfpickles",
         "result": "loss"
       }
+    },
+    "2024-08-26T14:08:13.022983+00:00": {
+      "this_amiibo": {
+        "rating": 12.692166803476535,
+        "rating_mu": 18.506595160446135,
+        "rating_sigma": 1.938142785656533,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "0b6b3edf-be81-4654-8293-321e0a3c64c2",
+        "name": "Robo",
+        "rating": 10.877274557791472,
+        "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
+        "trainer_name": "leCharade",
+        "result": "win"
+      }
+    },
+    "2024-08-30T10:40:51.871672+00:00": {
+      "this_amiibo": {
+        "rating": 13.198914483190471,
+        "rating_mu": 18.864103916661687,
+        "rating_sigma": 1.888396477823739,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "f230590a-b1ea-4ae4-9074-8f29458e2c34",
+        "name": "PUCK-MAN",
+        "rating": 12.457645784312735,
+        "trainer_id": "07218a86-dd34-412a-911b-f1e33e57b05f",
+        "trainer_name": "palores625",
+        "result": "loss"
+      }
     }
   }
 }
