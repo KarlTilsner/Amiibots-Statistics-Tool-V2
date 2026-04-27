@@ -837,6 +837,40 @@
         "trainer_name": "MiDe1",
         "result": "loss"
       }
+    },
+    "2024-07-01T16:19:55.449345+00:00": {
+      "this_amiibo": {
+        "rating": 40.835469470176704,
+        "rating_mu": 44.381941828461365,
+        "rating_sigma": 1.1821574527615526,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "ace20d0a-c201-4648-999d-74b09118319d",
+        "name": "Sahad",
+        "rating": 41.75454738659804,
+        "trainer_id": "7f7024c7-e916-4d9e-a5a6-90569aca262a",
+        "trainer_name": "iammartyb",
+        "result": "win"
+      }
+    },
+    "2024-07-05T02:21:38.851540+00:00": {
+      "this_amiibo": {
+        "rating": 41.076315522583876,
+        "rating_mu": 44.586232979414795,
+        "rating_sigma": 1.1699724856103073,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c170220c-ca18-40ef-93df-31a978f74fa9",
+        "name": "Cold Stone",
+        "rating": 42.66393263538744,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "loss"
+      }
     }
   }
 }

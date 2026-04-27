@@ -89,6 +89,40 @@
         "trainer_name": "SepiksComposite",
         "result": "loss"
       }
+    },
+    "2024-07-07T02:27:22.254197+00:00": {
+      "this_amiibo": {
+        "rating": 21.386813362915316,
+        "rating_mu": 30.28252708643919,
+        "rating_sigma": 2.965237907841291,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7",
+        "id": "0f5adb76-5110-4b13-960e-3f484c81cc25",
+        "name": "Red Mage",
+        "rating": 26.855807851096614,
+        "trainer_id": "6a92a875-ad10-4927-9ac9-43f4cea3e878",
+        "trainer_name": "ArkansasAFC",
+        "result": "win"
+      }
+    },
+    "2024-07-07T00:05:25.634334+00:00": {
+      "this_amiibo": {
+        "rating": 21.964187643265518,
+        "rating_mu": 31.571996855502807,
+        "rating_sigma": 3.2026030707457633,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "9ead9b7f-9332-4d7d-9f3e-3409c3d7f79e",
+        "name": "Undeserved",
+        "rating": 26.45378199390864,
+        "trainer_id": "d7ccdd97-5fb5-4c6f-bc15-02ef79e769ef",
+        "trainer_name": "DEADSKULLZ31",
+        "result": "loss"
+      }
     }
   }
 }

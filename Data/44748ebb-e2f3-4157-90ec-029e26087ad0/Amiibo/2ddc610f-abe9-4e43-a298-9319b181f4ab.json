@@ -3761,6 +3761,40 @@
         "trainer_name": "SwiftSG_Official",
         "result": "loss"
       }
+    },
+    "2024-07-01T14:30:02.504111+00:00": {
+      "this_amiibo": {
+        "rating": 28.531429663278185,
+        "rating_mu": 30.988409576237096,
+        "rating_sigma": 0.8189933043196367,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "52c61649-dd0f-4241-aa41-0190dfb17a1c",
+        "name": "Luz",
+        "rating": 19.058042444143798,
+        "trainer_id": "be70cc79-9ffd-48a9-8fb9-298a2124f477",
+        "trainer_name": "bfan90133",
+        "result": "win"
+      }
+    },
+    "2024-07-09T11:17:38.792648+00:00": {
+      "this_amiibo": {
+        "rating": 28.62513845836716,
+        "rating_mu": 31.07994507761578,
+        "rating_sigma": 0.8182688730828721,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "0bc24f2b-bee8-4bef-94e5-b6a6e9fc71dc",
+        "name": "Brassius",
+        "rating": 28.264093543011434,
+        "trainer_id": "e08d6faa-72d0-4877-8f90-059f5bf2b788",
+        "trainer_name": "epicblobinator",
+        "result": "loss"
+      }
     }
   }
 }
