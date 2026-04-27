@@ -565,6 +565,40 @@
         "trainer_name": "Epsilon080",
         "result": "win"
       }
+    },
+    "2025-02-12T01:35:14.480834+00:00": {
+      "this_amiibo": {
+        "rating": 33.62525866300308,
+        "rating_mu": 37.70914760595156,
+        "rating_sigma": 1.3612963143161598,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "59354951-f11a-4e05-9ff0-da7b339c3242",
+        "name": "80085",
+        "rating": 31.99451246100814,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "loss"
+      }
+    },
+    "2025-03-02T13:46:18.258884+00:00": {
+      "this_amiibo": {
+        "rating": 33.89165216855476,
+        "rating_mu": 37.92430919501459,
+        "rating_sigma": 1.3442190088199422,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "7e7fafe6-5184-49a9-99fd-4cd8ecfaed0a",
+        "name": "Sigurd",
+        "rating": 31.34963134729662,
+        "trainer_id": "f346091f-8917-49bc-b479-b0c568026dbf",
+        "trainer_name": "RazorForce21",
+        "result": "loss"
+      }
     }
   }
 }

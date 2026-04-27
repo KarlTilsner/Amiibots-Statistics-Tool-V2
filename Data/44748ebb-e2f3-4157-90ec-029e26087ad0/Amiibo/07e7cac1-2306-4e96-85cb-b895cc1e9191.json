@@ -633,6 +633,40 @@
         "trainer_name": "drsalt16",
         "result": "loss"
       }
+    },
+    "2025-03-01T12:40:12.064653+00:00": {
+      "this_amiibo": {
+        "rating": 22.436099453158157,
+        "rating_mu": 26.54230035953923,
+        "rating_sigma": 1.3687336354603572,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "12029522-f6bf-4629-90bd-02b1745c442a",
+        "name": "Slicer",
+        "rating": 15.87140109109296,
+        "trainer_id": "f931fce3-9c34-44f6-89d1-6113f8895a2d",
+        "trainer_name": "sodium_c3",
+        "result": "win"
+      }
+    },
+    "2025-03-03T19:55:03.369270+00:00": {
+      "this_amiibo": {
+        "rating": 22.57927220522262,
+        "rating_mu": 26.671037561326838,
+        "rating_sigma": 1.363921785368073,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "149403af-7f37-4513-8c62-15ace3702e7f",
+        "name": "Tan Chulo",
+        "rating": 0.7936064532194251,
+        "trainer_id": "be70cc79-9ffd-48a9-8fb9-298a2124f477",
+        "trainer_name": "bfan90133",
+        "result": "loss"
+      }
     }
   }
 }

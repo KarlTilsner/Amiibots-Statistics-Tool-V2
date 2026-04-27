@@ -225,6 +225,57 @@
         "trainer_name": "Azend_1",
         "result": "loss"
       }
+    },
+    "2025-02-13T09:31:17.571143+00:00": {
+      "this_amiibo": {
+        "rating": 23.910140707500094,
+        "rating_mu": 30.30459936146787,
+        "rating_sigma": 2.1314862179892584,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "cb840d93-d422-44de-9a18-d2ce11a11b25",
+        "name": "SprayPaint",
+        "rating": 28.335923516809913,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "win"
+      }
+    },
+    "2025-02-17T15:04:29.831723+00:00": {
+      "this_amiibo": {
+        "rating": 24.62966105785105,
+        "rating_mu": 30.80823253419659,
+        "rating_sigma": 2.059523825448514,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "1d47e286-0328-4353-ae46-cd52552c0025",
+        "name": "Kirbicum",
+        "rating": 26.048527974837878,
+        "trainer_id": "23cc62ed-8d92-471d-b8a4-3545d8bf5b53",
+        "trainer_name": "Winchesteroni",
+        "result": "loss"
+      }
+    },
+    "2025-03-13T02:19:24.541010+00:00": {
+      "this_amiibo": {
+        "rating": 24.287941556025675,
+        "rating_mu": 30.25736535166399,
+        "rating_sigma": 1.9898079318794375,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "35b43676-3971-4086-ad9b-284f7c2afe0e",
+        "name": "Lyn",
+        "rating": 27.37525709339226,
+        "trainer_id": "0ef948e8-8ead-4690-85d5-1a6b46d0aa45",
+        "trainer_name": "Losinik",
+        "result": "win"
+      }
     }
   }
 }

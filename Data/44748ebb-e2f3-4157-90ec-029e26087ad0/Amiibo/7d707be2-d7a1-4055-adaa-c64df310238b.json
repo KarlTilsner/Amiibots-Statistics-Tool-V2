@@ -1109,6 +1109,40 @@
         "trainer_name": "MiDe1",
         "result": "win"
       }
+    },
+    "2025-03-01T23:34:27.985322+00:00": {
+      "this_amiibo": {
+        "rating": 22.717581819710624,
+        "rating_mu": 26.040985839060475,
+        "rating_sigma": 1.1078013397832844,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0be3828e-571c-44dc-9fc4-cf947b60aad5",
+        "id": "b51f7bd7-3353-415d-a3e8-467247d1836c",
+        "name": "KuroNinger",
+        "rating": 21.704252200276045,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "loss"
+      }
+    },
+    "2025-03-08T11:17:32.840458+00:00": {
+      "this_amiibo": {
+        "rating": 22.617252250997264,
+        "rating_mu": 25.937180176610482,
+        "rating_sigma": 1.106642641871073,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "80efe94c-571e-48f5-9e6a-5c0ec27d4716",
+        "name": "Chloe",
+        "rating": 12.026230217549209,
+        "trainer_id": "7ae72c01-0479-4b54-8c47-7a7e7ed61902",
+        "trainer_name": "dittowog",
+        "result": "win"
+      }
     }
   }
 }

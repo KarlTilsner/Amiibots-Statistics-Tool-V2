@@ -174,6 +174,40 @@
         "trainer_name": "RockMyRole",
         "result": "loss"
       }
+    },
+    "2025-02-18T01:01:12.621728+00:00": {
+      "this_amiibo": {
+        "rating": 26.100201137992293,
+        "rating_mu": 33.26157046633849,
+        "rating_sigma": 2.3871231094487326,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "bbbc4c70-1695-4a99-b242-4348a0a924ba",
+        "name": "Sleeper",
+        "rating": 31.26866155272568,
+        "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
+        "trainer_name": "CikadaKing",
+        "result": "win"
+      }
+    },
+    "2025-02-23T13:30:50.454992+00:00": {
+      "this_amiibo": {
+        "rating": 25.903777572878038,
+        "rating_mu": 32.854655900631265,
+        "rating_sigma": 2.316959442584409,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "125b0e89-a20a-48db-8481-0cbe254b8bc7",
+        "name": "Comp",
+        "rating": 29.058037984876165,
+        "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+        "trainer_name": "Competitively2",
+        "result": "win"
+      }
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
   "id": "36d6f696-3bcc-453b-b478-0293b47d378e",
-  "name": "Mada",
+  "name": "Tyrant",
   "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
   "trainer_name": "RockMyRole",
   "matches": {
@@ -377,6 +377,57 @@
         "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
         "trainer_name": "joah_22",
         "result": "loss"
+      }
+    },
+    "2025-03-05T06:29:38.544018+00:00": {
+      "this_amiibo": {
+        "rating": 33.64291218322572,
+        "rating_mu": 38.642449275272405,
+        "rating_sigma": 1.666512364015562,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "d8ad9b12-66e7-4a4e-8b68-df2b346cda9d",
+        "name": "Daft Punk",
+        "rating": 38.030492567681485,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "joah_22",
+        "result": "loss"
+      }
+    },
+    "2025-03-08T12:15:51.607709+00:00": {
+      "this_amiibo": {
+        "rating": 33.52670474890448,
+        "rating_mu": 38.44699457270429,
+        "rating_sigma": 1.64009660793327,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "547a958e-46cb-4c15-91bf-1eaf62098828",
+        "name": "Khonsu",
+        "rating": 39.158229717600804,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "win"
+      }
+    },
+    "2025-03-10T06:19:40.728217+00:00": {
+      "this_amiibo": {
+        "rating": 33.42689533087303,
+        "rating_mu": 38.27519069504413,
+        "rating_sigma": 1.6160984547236998,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "3d42c462-1e33-495c-88a6-3a3bde1fed93",
+        "name": "Jace",
+        "rating": 40.51593074500693,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "win"
       }
     }
   }
