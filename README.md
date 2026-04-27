@@ -13,6 +13,16 @@ This project was originally built as a frontend tool relying on a third-party AP
 
 As the dataset grew and the API became increasingly slow and unreliable for this project, the system was redesigned into a **preprocessed, cached data platform**. The new architecture eliminates real-time API dependency and delivers fast, consistent performance regardless of upstream limitations.
 
+### Before vs After
+
+| Metric              | Before (API-driven) | After (Pipeline) |
+|--------------------|-------------------|------------------|
+| Data Source         | Live API           | Preprocessed JSON, fully eliminated API usage on frontend|
+| Data Size           | Some API endpoints sorted through ~7GB of raw data per request           | <1MB per request (most requests are low KBs)  |
+| Load Time           | 30+ seconds, some endpoints failed depending on the search      | ~1 second         |
+| Reliability         | Inconsistent       | Stable            |
+| Processing Location | Frontend           | Hybrid during automation step and frontend for easily managed files|
+
 ---
 
 ## Problem
