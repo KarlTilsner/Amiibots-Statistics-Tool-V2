@@ -871,6 +871,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2025-01-15T03:30:02.843230+00:00": {
+      "this_amiibo": {
+        "rating": 33.82854478932873,
+        "rating_mu": 37.2438547613572,
+        "rating_sigma": 1.1384366573428235,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "5263b36a-4ee7-4f83-a332-bb60e5d44fdd",
+        "name": "HIM",
+        "rating": 35.76203608639953,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "joah_22",
+        "result": "win"
+      }
+    },
+    "2025-01-22T01:07:09.604339+00:00": {
+      "this_amiibo": {
+        "rating": 33.6900153824395,
+        "rating_mu": 37.07841054138453,
+        "rating_sigma": 1.129465052981678,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "1da23337-0bb6-4ba3-b4d6-ea4955e52444",
+        "name": "Eir",
+        "rating": 32.15513562797805,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
     }
   }
 }

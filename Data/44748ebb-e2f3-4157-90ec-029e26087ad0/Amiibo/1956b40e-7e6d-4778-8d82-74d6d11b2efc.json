@@ -1007,6 +1007,57 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2025-01-29T04:38:20.878197+00:00": {
+      "this_amiibo": {
+        "rating": 26.457568772430754,
+        "rating_mu": 29.93516585505085,
+        "rating_sigma": 1.1591990275400321,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "72ee6881-c132-475b-8f02-62ce71c014f4",
+        "name": "Nagi",
+        "rating": 25.33176362045822,
+        "trainer_id": "147dbdd6-0e08-4d4a-b7eb-0146fb5735f6",
+        "trainer_name": "Adam2qaz",
+        "result": "win"
+      }
+    },
+    "2025-02-03T10:59:43.578468+00:00": {
+      "this_amiibo": {
+        "rating": 26.665598888803817,
+        "rating_mu": 30.113203278843457,
+        "rating_sigma": 1.1492014633465464,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
+        "id": "58d4bfc5-bd03-45d8-95f1-5edcc5481487",
+        "name": "Primavera",
+        "rating": 24.578594852979812,
+        "trainer_id": "0f4afff3-2316-4892-9590-32c86df6fbdc",
+        "trainer_name": "splatdude96",
+        "result": "loss"
+      }
+    },
+    "2025-02-05T02:40:49.369124+00:00": {
+      "this_amiibo": {
+        "rating": 26.541452830886392,
+        "rating_mu": 29.964665684505746,
+        "rating_sigma": 1.1410709512064507,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "cded106d-d2f4-463a-93e1-d0ba081418e6",
+        "name": "Sir",
+        "rating": 24.487802690580565,
+        "trainer_id": "23cc62ed-8d92-471d-b8a4-3545d8bf5b53",
+        "trainer_name": "Winchesteroni",
+        "result": "win"
+      }
     }
   }
 }

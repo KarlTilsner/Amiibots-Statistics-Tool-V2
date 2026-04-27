@@ -1959,6 +1959,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2025-01-22T04:07:16.113167+00:00": {
+      "this_amiibo": {
+        "rating": 41.552483312693155,
+        "rating_mu": 44.16659524817819,
+        "rating_sigma": 0.8713706451616776,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c170220c-ca18-40ef-93df-31a978f74fa9",
+        "name": "Cold Stone",
+        "rating": 43.96293848370642,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "win"
+      }
+    },
+    "2025-01-29T16:42:00.909058+00:00": {
+      "this_amiibo": {
+        "rating": 41.69046467764045,
+        "rating_mu": 44.29686357746791,
+        "rating_sigma": 0.8687996332758209,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c170220c-ca18-40ef-93df-31a978f74fa9",
+        "name": "Cold Stone",
+        "rating": 43.63238102609289,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "loss"
+      }
     }
   }
 }

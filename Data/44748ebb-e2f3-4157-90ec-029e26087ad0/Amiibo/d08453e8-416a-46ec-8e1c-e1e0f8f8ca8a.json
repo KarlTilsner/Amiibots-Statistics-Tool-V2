@@ -990,6 +990,40 @@
         "trainer_name": "bleeding_azalea",
         "result": "loss"
       }
+    },
+    "2025-01-15T00:17:10.464364+00:00": {
+      "this_amiibo": {
+        "rating": 32.667831493858664,
+        "rating_mu": 35.92291817810945,
+        "rating_sigma": 1.0850288947502609,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "0e509188-2888-46ac-8a46-54a7151e7b25",
+        "name": "Golden Gal",
+        "rating": 31.91575758970606,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "win"
+      }
+    },
+    "2025-01-30T10:50:59.160502+00:00": {
+      "this_amiibo": {
+        "rating": 32.84657241065428,
+        "rating_mu": 36.07757107258766,
+        "rating_sigma": 1.0769995539777928,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "829336f8-03fd-46e8-8cdb-7a3fac88f9b0",
+        "name": "Cry2Admin",
+        "rating": 33.322496432907144,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "joah_22",
+        "result": "loss"
+      }
     }
   }
 }

@@ -140,6 +140,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2025-01-14T22:51:11.822050+00:00": {
+      "this_amiibo": {
+        "rating": 25.288865071972886,
+        "rating_mu": 33.2402237595295,
+        "rating_sigma": 2.650452895852204,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "4c71ae99-7720-4f4b-a65f-7dd1bf1352cb",
+        "name": "Charkole",
+        "rating": 32.32688865596962,
+        "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
+        "trainer_name": "rurpking22",
+        "result": "win"
+      }
+    },
+    "2025-01-23T08:47:15.168994+00:00": {
+      "this_amiibo": {
+        "rating": 26.529583066402722,
+        "rating_mu": 34.06255665884459,
+        "rating_sigma": 2.510991197480624,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "3ef9f557-dd0a-4a99-b801-734c2c550c05",
+        "name": "Alice",
+        "rating": 30.28637565305872,
+        "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
+        "trainer_name": "RockMyRole",
+        "result": "loss"
+      }
     }
   }
 }
