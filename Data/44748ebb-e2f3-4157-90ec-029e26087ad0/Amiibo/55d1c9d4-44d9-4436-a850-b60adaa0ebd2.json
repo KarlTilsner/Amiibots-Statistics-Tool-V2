@@ -2843,6 +2843,40 @@
         "trainer_name": "SwiftSG_Official",
         "result": "loss"
       }
+    },
+    "2025-07-08T16:31:05.062221+00:00": {
+      "this_amiibo": {
+        "rating": 29.260572271218905,
+        "rating_mu": 31.79128968052962,
+        "rating_sigma": 0.8435724697702386,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "cf378049-2bab-41e4-a6a9-a60b8a8fdd27",
+        "name": "DaCrispy",
+        "rating": 30.50425292437193,
+        "trainer_id": "083d6234-b29b-45ba-a968-e87ab3d6b443",
+        "trainer_name": "SwiftSG_Official",
+        "result": "win"
+      }
+    },
+    "2025-07-22T07:59:44.492127+00:00": {
+      "this_amiibo": {
+        "rating": 29.33640184428437,
+        "rating_mu": 31.868138290194594,
+        "rating_sigma": 0.8439121486367406,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "0ff0d057-4fe1-476d-aeef-8b1c61c3d372",
+        "name": "Terminal 7",
+        "rating": 19.244170560508884,
+        "trainer_id": "6fcd9113-8cc8-48cd-b29b-46b2ccb55f27",
+        "trainer_name": "traderwaver",
+        "result": "loss"
+      }
     }
   }
 }

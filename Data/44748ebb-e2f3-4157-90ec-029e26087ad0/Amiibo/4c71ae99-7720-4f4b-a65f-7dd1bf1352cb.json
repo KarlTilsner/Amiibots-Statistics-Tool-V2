@@ -871,6 +871,40 @@
         "trainer_name": "Epsilon080",
         "result": "loss"
       }
+    },
+    "2025-07-10T16:33:59.349624+00:00": {
+      "this_amiibo": {
+        "rating": 35.40257694538745,
+        "rating_mu": 38.79209956615781,
+        "rating_sigma": 1.1298408735901184,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7",
+        "id": "52055e3b-917c-4625-9da7-f2157b7901ca",
+        "name": "○²",
+        "rating": 35.65397599352895,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "win"
+      }
+    },
+    "2025-07-20T16:34:47.752619+00:00": {
+      "this_amiibo": {
+        "rating": 35.571560914853436,
+        "rating_mu": 38.93627982210668,
+        "rating_sigma": 1.1215729690844138,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "85f4c710-2151-4a24-bbae-51ac47a2ed12",
+        "name": "God&Anime",
+        "rating": 32.687628462903454,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "loss"
+      }
     }
   }
 }

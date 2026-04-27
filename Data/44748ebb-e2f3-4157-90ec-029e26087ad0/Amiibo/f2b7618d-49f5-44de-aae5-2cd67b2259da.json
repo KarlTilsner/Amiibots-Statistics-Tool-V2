@@ -1126,6 +1126,40 @@
         "trainer_name": "zornchist",
         "result": "loss"
       }
+    },
+    "2025-06-28T12:52:28.685257+00:00": {
+      "this_amiibo": {
+        "rating": 24.608320255145653,
+        "rating_mu": 27.725762071170553,
+        "rating_sigma": 1.0391472720082997,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "dbf5c93a-f5fb-4d66-9933-914e4729b95b",
+        "name": "ZweiWing",
+        "rating": 24.706896359617115,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2025-07-03T07:43:58.589815+00:00": {
+      "this_amiibo": {
+        "rating": 24.759670015500348,
+        "rating_mu": 27.859996663312472,
+        "rating_sigma": 1.0334422159373753,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
+        "id": "27867874-e8a6-4049-acd6-f6cea9a25138",
+        "name": "Dark John",
+        "rating": 21.380364596702314,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "loss"
+      }
     }
   }
 }

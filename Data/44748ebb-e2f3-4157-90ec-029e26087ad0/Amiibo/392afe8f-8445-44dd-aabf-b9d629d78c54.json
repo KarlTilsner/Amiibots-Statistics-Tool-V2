@@ -3115,6 +3115,40 @@
         "trainer_name": "Murbert_AM",
         "result": "loss"
       }
+    },
+    "2025-07-05T08:06:41.808923+00:00": {
+      "this_amiibo": {
+        "rating": 20.432405150231165,
+        "rating_mu": 22.923773707727193,
+        "rating_sigma": 0.8304561858320091,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "85056ae3-d279-4d8a-9ff3-7132ef1383ef",
+        "name": "Eisenhower",
+        "rating": 19.64256574275309,
+        "trainer_id": "acf5ba5f-23f9-471b-a1c7-ba5119b73cdc",
+        "trainer_name": "SirXyonder",
+        "result": "win"
+      }
+    },
+    "2025-07-09T10:37:44.493042+00:00": {
+      "this_amiibo": {
+        "rating": 20.515578918740744,
+        "rating_mu": 23.00497364589056,
+        "rating_sigma": 0.8297982423832716,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "084650b7-5b3d-4350-97c0-42366fdd5817",
+        "name": "AgentBOMBS",
+        "rating": 19.04473654864972,
+        "trainer_id": "3c2659e1-5fee-4b6b-98e3-594aec223a09",
+        "trainer_name": "brain_dread",
+        "result": "loss"
+      }
     }
   }
 }
