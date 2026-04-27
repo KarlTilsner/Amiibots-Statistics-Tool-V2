@@ -395,6 +395,40 @@
         "trainer_name": "AceTempest172",
         "result": "loss"
       }
+    },
+    "2024-08-12T21:35:53.587425+00:00": {
+      "this_amiibo": {
+        "rating": 23.091425040795958,
+        "rating_mu": 28.003555790969394,
+        "rating_sigma": 1.637376916724479,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "65c04130-b326-46d5-a6ca-e98ba3e4abb2",
+        "name": "Obi-Wan",
+        "rating": 25.290613996274693,
+        "trainer_id": "f346091f-8917-49bc-b479-b0c568026dbf",
+        "trainer_name": "RazorForce21",
+        "result": "win"
+      }
+    },
+    "2024-08-13T08:35:56.129071+00:00": {
+      "this_amiibo": {
+        "rating": 23.764305434350973,
+        "rating_mu": 28.549978435737266,
+        "rating_sigma": 1.5952243337954317,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "61a4b700-1895-47c0-b9de-3acc493ced6d",
+        "name": "Mr Blanko",
+        "rating": 29.415327711095248,
+        "trainer_id": "4a6a4a22-8617-4166-9586-22495d4a1135",
+        "trainer_name": "EpicBidoof",
+        "result": "loss"
+      }
     }
   }
 }

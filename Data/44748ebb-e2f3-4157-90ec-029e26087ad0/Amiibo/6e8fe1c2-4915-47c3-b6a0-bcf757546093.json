@@ -565,6 +565,57 @@
         "trainer_name": "gold_dxj",
         "result": "loss"
       }
+    },
+    "2024-08-13T12:41:50.461392+00:00": {
+      "this_amiibo": {
+        "rating": 20.240150668908335,
+        "rating_mu": 24.636034363472195,
+        "rating_sigma": 1.46529456485462,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "490c2d4b-6097-4ce9-8076-abf3f06a28c4",
+        "name": "Carl",
+        "rating": 21.127856896928463,
+        "trainer_id": "0fc06d87-9443-4639-8baa-0464e7cc8042",
+        "trainer_name": "littletealeif",
+        "result": "win"
+      }
+    },
+    "2024-08-15T05:40:36.552374+00:00": {
+      "this_amiibo": {
+        "rating": 20.082424242071568,
+        "rating_mu": 24.442374425600292,
+        "rating_sigma": 1.4533167278429076,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "f3bee69d-bb33-4332-b49e-6c560565e9e0",
+        "name": "Irin",
+        "rating": 13.947951861245482,
+        "trainer_id": "62d4eb7f-d418-42f0-97a1-aac0a5f968c0",
+        "trainer_name": "yvvire",
+        "result": "win"
+      }
+    },
+    "2024-08-22T00:54:19.291102+00:00": {
+      "this_amiibo": {
+        "rating": 19.962750131795648,
+        "rating_mu": 24.276130401852644,
+        "rating_sigma": 1.437793423352332,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "8c49469e-dadc-4421-b294-b93e22c06e01",
+        "name": "Mr. Kimura",
+        "rating": 19.900294941940857,
+        "trainer_id": "37bc93ec-1583-49cf-b6a7-fa3097253bc1",
+        "trainer_name": "soysauce881",
+        "result": "win"
+      }
     }
   }
 }

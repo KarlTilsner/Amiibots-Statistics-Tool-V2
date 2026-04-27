@@ -191,6 +191,57 @@
         "trainer_name": "twrecks64",
         "result": "loss"
       }
+    },
+    "2024-08-10T18:24:50.942598+00:00": {
+      "this_amiibo": {
+        "rating": 12.4320197530567,
+        "rating_mu": 20.01921286726585,
+        "rating_sigma": 2.52906437140305,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "1f473081-d753-4db1-8c00-c01c2ff0d1a3",
+        "name": "Lakitu",
+        "rating": 13.06721409448066,
+        "trainer_id": "bbe2aead-8c04-4e45-b589-32277dbb287a",
+        "trainer_name": "Cherioka",
+        "result": "win"
+      }
+    },
+    "2024-08-12T13:00:39.397225+00:00": {
+      "this_amiibo": {
+        "rating": 13.117401225229518,
+        "rating_mu": 20.44406590711869,
+        "rating_sigma": 2.4422215606297244,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "d0ece92d-f04b-4c17-b9ea-5ef3553a554d",
+        "name": "Driplord",
+        "rating": 10.094463630371466,
+        "trainer_id": "03427146-e296-40d6-92a7-dc84c8732131",
+        "trainer_name": "BenGangbanger2000",
+        "result": "loss"
+      }
+    },
+    "2024-08-17T21:18:29.501694+00:00": {
+      "this_amiibo": {
+        "rating": 13.927805439356433,
+        "rating_mu": 20.993627658432178,
+        "rating_sigma": 2.355274073025248,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+        "id": "713a5aa5-7d19-4eb8-8331-542c85d618f3",
+        "name": "Yasuho",
+        "rating": 9.960262854844975,
+        "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
+        "trainer_name": "leCharade",
+        "result": "loss"
+      }
     }
   }
 }

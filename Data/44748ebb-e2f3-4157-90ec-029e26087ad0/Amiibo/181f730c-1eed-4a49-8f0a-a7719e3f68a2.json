@@ -2129,6 +2129,57 @@
         "trainer_name": "cff53",
         "result": "loss"
       }
+    },
+    "2024-08-09T14:29:19.554793+00:00": {
+      "this_amiibo": {
+        "rating": 29.78728346709511,
+        "rating_mu": 32.41456895098322,
+        "rating_sigma": 0.8757618279627014,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "cf378049-2bab-41e4-a6a9-a60b8a8fdd27",
+        "name": "DaCrispy",
+        "rating": 29.340196304797175,
+        "trainer_id": "083d6234-b29b-45ba-a968-e87ab3d6b443",
+        "trainer_name": "SwiftSG_Official",
+        "result": "win"
+      }
+    },
+    "2024-08-22T21:11:14.186688+00:00": {
+      "this_amiibo": {
+        "rating": 29.879766003612737,
+        "rating_mu": 32.5034015545333,
+        "rating_sigma": 0.8745451836401864,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7b423052-3d6a-49a7-805b-f4e818792a5c",
+        "id": "550fa2a7-5d91-483f-af2c-b3f72d1918da",
+        "name": "Red Velvet",
+        "rating": 24.76368250393449,
+        "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
+        "trainer_name": "prowervolt",
+        "result": "loss"
+      }
+    },
+    "2024-08-23T12:22:44.172883+00:00": {
+      "this_amiibo": {
+        "rating": 29.979191193710427,
+        "rating_mu": 32.59740275117113,
+        "rating_sigma": 0.8727371858202343,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "cf378049-2bab-41e4-a6a9-a60b8a8fdd27",
+        "name": "DaCrispy",
+        "rating": 29.388197271627085,
+        "trainer_id": "083d6234-b29b-45ba-a968-e87ab3d6b443",
+        "trainer_name": "SwiftSG_Official",
+        "result": "loss"
+      }
     }
   }
 }
