@@ -2384,6 +2384,40 @@
         "trainer_name": "card100rac5",
         "result": "loss"
       }
+    },
+    "2024-11-14T20:24:08.746725+00:00": {
+      "this_amiibo": {
+        "rating": 29.165591498801895,
+        "rating_mu": 31.69593318860074,
+        "rating_sigma": 0.8434472299329479,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "1da23337-0bb6-4ba3-b4d6-ea4955e52444",
+        "name": "Eir",
+        "rating": 21.588729167275915,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2024-12-04T10:02:11.418166+00:00": {
+      "this_amiibo": {
+        "rating": 29.24309427180647,
+        "rating_mu": 31.77304964020555,
+        "rating_sigma": 0.8433184561330263,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "310beab6-234d-4e12-94cd-3102e7f56bd0",
+        "name": "rasputin",
+        "rating": 21.84326569150702,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "loss"
+      }
     }
   }
 }

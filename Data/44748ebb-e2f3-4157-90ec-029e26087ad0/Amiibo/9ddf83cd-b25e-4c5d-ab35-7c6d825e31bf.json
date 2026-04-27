@@ -1636,6 +1636,40 @@
         "trainer_name": "improv_195",
         "result": "loss"
       }
+    },
+    "2024-11-21T13:44:24.023481+00:00": {
+      "this_amiibo": {
+        "rating": 30.278747801589457,
+        "rating_mu": 33.069530343801766,
+        "rating_sigma": 0.9302608474041028,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "de5feada-78fd-4701-b063-a731532545b1",
+        "name": "Imposter",
+        "rating": 25.143104741277437,
+        "trainer_id": "259c6c07-f590-4aba-8069-85a64f78c6f3",
+        "trainer_name": "massivmann",
+        "result": "win"
+      }
+    },
+    "2024-11-25T02:02:19.417006+00:00": {
+      "this_amiibo": {
+        "rating": 30.387757383788035,
+        "rating_mu": 33.17107318823929,
+        "rating_sigma": 0.9277719348170853,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "551dd1a6-0548-4d20-86c3-c4775592e9e7",
+        "name": "Ocean Man",
+        "rating": 25.497329034297252,
+        "trainer_id": "76092551-3aba-4182-923a-848b2d279e4c",
+        "trainer_name": "bleachyboi_426",
+        "result": "loss"
+      }
     }
   }
 }

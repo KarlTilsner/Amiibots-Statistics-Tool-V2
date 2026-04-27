@@ -480,6 +480,74 @@
         "trainer_name": "SwiftSG_Official",
         "result": "loss"
       }
+    },
+    "2024-11-03T14:48:21.021216+00:00": {
+      "this_amiibo": {
+        "rating": 21.154896008648354,
+        "rating_mu": 26.095678768868567,
+        "rating_sigma": 1.6469275867400706,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7",
+        "id": "11b53048-7549-4281-8fb8-b4d1a88a3f68",
+        "name": "Mouse Boy",
+        "rating": 12.063311525876763,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "win"
+      }
+    },
+    "2024-11-08T00:32:12.510157+00:00": {
+      "this_amiibo": {
+        "rating": 20.901269362263847,
+        "rating_mu": 25.76446793524123,
+        "rating_sigma": 1.6210661909924606,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "2f728785-44ac-4547-8719-4568c7fdb5e6",
+        "name": "Construct",
+        "rating": 16.13389795566153,
+        "trainer_id": "147dbdd6-0e08-4d4a-b7eb-0146fb5735f6",
+        "trainer_name": "Adam2qaz",
+        "result": "win"
+      }
+    },
+    "2024-11-17T18:45:30.269338+00:00": {
+      "this_amiibo": {
+        "rating": 20.718621267964693,
+        "rating_mu": 25.548895417465324,
+        "rating_sigma": 1.6100913831668777,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "202d1df7-1861-4591-b3d5-5a64cea384fe",
+        "name": "Smauggin",
+        "rating": 11.711635783086209,
+        "trainer_id": "ab1f76a6-17bb-4125-aafe-261bbce07ff1",
+        "trainer_name": "Scuttlerrr",
+        "result": "win"
+      }
+    },
+    "2024-11-23T18:47:19.084631+00:00": {
+      "this_amiibo": {
+        "rating": 21.131484439257154,
+        "rating_mu": 25.869479751381235,
+        "rating_sigma": 1.579331770708027,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "07d039b6-9170-465a-9ab9-b09acb74bb47",
+        "name": "Zero",
+        "rating": 19.653159275403425,
+        "trainer_id": "4d675008-f2a3-4447-a6e3-7f72ab475382",
+        "trainer_name": "ghtoten",
+        "result": "loss"
+      }
     }
   }
 }

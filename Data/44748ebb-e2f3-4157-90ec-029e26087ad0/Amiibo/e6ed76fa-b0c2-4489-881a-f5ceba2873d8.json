@@ -718,6 +718,57 @@
         "trainer_name": "bigfr0a",
         "result": "loss"
       }
+    },
+    "2024-11-09T13:47:31.882736+00:00": {
+      "this_amiibo": {
+        "rating": 21.144622366438675,
+        "rating_mu": 25.007527288796393,
+        "rating_sigma": 1.2876349741192392,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "7357a4b4-f11e-44e9-ba88-9edc55d8c189",
+        "name": "Ogrim",
+        "rating": 20.534083971236214,
+        "trainer_id": "511b6aca-944a-41b4-bd7e-b02fa23b1d18",
+        "trainer_name": "Falon18",
+        "result": "win"
+      }
+    },
+    "2024-11-13T04:54:07.202243+00:00": {
+      "this_amiibo": {
+        "rating": 21.423836048987464,
+        "rating_mu": 25.237783300716103,
+        "rating_sigma": 1.2713157505762132,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "ddee189d-011b-42d9-bbda-e65a43d3376c",
+        "name": "Macho",
+        "rating": 22.869233729454084,
+        "trainer_id": "bd4dae24-8e9d-4665-9e4c-e39b115b825a",
+        "trainer_name": "WoopalotlSSBU",
+        "result": "loss"
+      }
+    },
+    "2024-12-02T11:29:49.640198+00:00": {
+      "this_amiibo": {
+        "rating": 21.694655615467717,
+        "rating_mu": 25.472243586837106,
+        "rating_sigma": 1.2591959904564625,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "cc40acab-c611-4c06-ab51-e83112fe535b",
+        "name": "Rain",
+        "rating": 15.95912902802732,
+        "trainer_id": "1332142b-404c-4c00-acf0-1e1620282799",
+        "trainer_name": "yellow84nana",
+        "result": "loss"
+      }
     }
   }
 }

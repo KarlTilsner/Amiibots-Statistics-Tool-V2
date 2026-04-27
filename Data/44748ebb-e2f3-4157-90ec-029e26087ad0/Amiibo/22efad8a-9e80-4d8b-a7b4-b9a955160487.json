@@ -1602,6 +1602,40 @@
         "trainer_name": "SwiftSG_Official",
         "result": "loss"
       }
+    },
+    "2024-11-19T00:14:00.072277+00:00": {
+      "this_amiibo": {
+        "rating": 37.16547434543092,
+        "rating_mu": 39.902764768343914,
+        "rating_sigma": 0.9124301409709984,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "c9cf3dc7-da02-4867-92ba-f97620dac5dc",
+        "name": "Aerith",
+        "rating": 35.17105773122957,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "joah_22",
+        "result": "win"
+      }
+    },
+    "2024-11-23T17:40:08.772259+00:00": {
+      "this_amiibo": {
+        "rating": 37.05402266384387,
+        "rating_mu": 39.78180430230761,
+        "rating_sigma": 0.9092605461545817,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "7f301c2a-a08e-41eb-baf8-7eee029267f6",
+        "name": "Raiden",
+        "rating": 36.32247830503721,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "win"
+      }
     }
   }
 }

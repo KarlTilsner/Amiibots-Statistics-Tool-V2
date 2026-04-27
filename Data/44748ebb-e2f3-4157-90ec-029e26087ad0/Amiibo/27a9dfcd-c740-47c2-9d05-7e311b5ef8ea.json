@@ -3659,6 +3659,40 @@
         "trainer_name": "SwiftSG_Official",
         "result": "loss"
       }
+    },
+    "2024-11-11T15:04:54.812038+00:00": {
+      "this_amiibo": {
+        "rating": 37.41639373925667,
+        "rating_mu": 39.833115594347056,
+        "rating_sigma": 0.8055739516967961,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "de73b9c9-75d4-4160-ac7b-02d149065b4f",
+        "name": "Pedro",
+        "rating": 37.64947507959794,
+        "trainer_id": "083d6234-b29b-45ba-a968-e87ab3d6b443",
+        "trainer_name": "SwiftSG_Official",
+        "result": "win"
+      }
+    },
+    "2024-12-02T19:34:42.309939+00:00": {
+      "this_amiibo": {
+        "rating": 37.33173552646348,
+        "rating_mu": 39.74732954858564,
+        "rating_sigma": 0.805198007374052,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "de73b9c9-75d4-4160-ac7b-02d149065b4f",
+        "name": "Pedro",
+        "rating": 37.648886713855475,
+        "trainer_id": "083d6234-b29b-45ba-a968-e87ab3d6b443",
+        "trainer_name": "SwiftSG_Official",
+        "result": "win"
+      }
     }
   }
 }
