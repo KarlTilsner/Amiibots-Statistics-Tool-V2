@@ -599,6 +599,57 @@
         "trainer_name": "RazorForce21",
         "result": "loss"
       }
+    },
+    "2025-03-23T14:19:03.209532+00:00": {
+      "this_amiibo": {
+        "rating": 33.706780387081565,
+        "rating_mu": 37.683551369922604,
+        "rating_sigma": 1.3255903276136787,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "f9c17083-9ea7-4a60-b670-417e2f5cee2e",
+        "name": "Metatron",
+        "rating": 35.50563522862863,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2025-04-13T06:03:10.704337+00:00": {
+      "this_amiibo": {
+        "rating": 33.93593955734406,
+        "rating_mu": 37.87354922870386,
+        "rating_sigma": 1.3125365571199339,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "cd0105a5-82a2-4b96-b29c-42bf475eaa50",
+        "name": ":no_mouth:",
+        "rating": 27.247853000409467,
+        "trainer_id": "450132c7-0d61-4fae-893b-cb656d3dea88",
+        "trainer_name": "joah_22",
+        "result": "loss"
+      }
+    },
+    "2025-04-13T22:04:10.461322+00:00": {
+      "this_amiibo": {
+        "rating": 34.17854351120731,
+        "rating_mu": 38.07576561115828,
+        "rating_sigma": 1.29907403331699,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "142a8e2d-bfb6-4e3e-94be-e2c2b773bf84",
+        "name": "Dr. Doctor",
+        "rating": 28.558274264032473,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "loss"
+      }
     }
   }
 }

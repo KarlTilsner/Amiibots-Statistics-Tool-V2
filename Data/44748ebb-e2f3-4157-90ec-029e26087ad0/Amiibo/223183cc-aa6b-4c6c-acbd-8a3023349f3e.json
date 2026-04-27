@@ -7042,6 +7042,40 @@
         "trainer_name": "SwiftSG_Official",
         "result": "loss"
       }
+    },
+    "2025-03-26T22:34:37.307313+00:00": {
+      "this_amiibo": {
+        "rating": 38.29708931162625,
+        "rating_mu": 40.70563288839066,
+        "rating_sigma": 0.8028478589214696,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "de73b9c9-75d4-4160-ac7b-02d149065b4f",
+        "name": "Pedro",
+        "rating": 38.111697747553876,
+        "trainer_id": "083d6234-b29b-45ba-a968-e87ab3d6b443",
+        "trainer_name": "SwiftSG_Official",
+        "result": "win"
+      }
+    },
+    "2025-04-05T17:19:35.559279+00:00": {
+      "this_amiibo": {
+        "rating": 38.378927396780625,
+        "rating_mu": 40.786819293672146,
+        "rating_sigma": 0.8026306322971738,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "dee4644b-e4b7-4417-a241-43ec4e9fc297",
+        "name": "Molag Bal",
+        "rating": 37.74866104222948,
+        "trainer_id": "060e12dd-a8a9-4e3d-a6e1-bd34c23446db",
+        "trainer_name": "ShadyZenith",
+        "result": "loss"
+      }
     }
   }
 }

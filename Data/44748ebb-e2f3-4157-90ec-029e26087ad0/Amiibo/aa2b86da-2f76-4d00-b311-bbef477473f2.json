@@ -2792,6 +2792,40 @@
         "trainer_name": "SwiftSG_Official",
         "result": "loss"
       }
+    },
+    "2025-03-14T01:09:25.551912+00:00": {
+      "this_amiibo": {
+        "rating": 29.743850095695592,
+        "rating_mu": 32.27413807261254,
+        "rating_sigma": 0.8434293256389818,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "58aabb71-ccd7-4031-b6a1-33359fa7c0f4",
+        "name": "Zelda",
+        "rating": 28.89958650476779,
+        "trainer_id": "7f8b523d-feed-49f6-a608-88bf508984f0",
+        "trainer_name": "SepiksComposite",
+        "result": "loss"
+      }
+    },
+    "2025-03-30T06:35:22.710964+00:00": {
+      "this_amiibo": {
+        "rating": 29.667422618869963,
+        "rating_mu": 32.20184529661724,
+        "rating_sigma": 0.844807559249093,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "ca3c19d3-85a0-48d3-97bb-58b2cb39fe2d",
+        "name": "VGC 2019",
+        "rating": 20.21379123146415,
+        "trainer_id": "41ff11b4-e874-44fd-bcb3-8e4e9d7cf5ca",
+        "trainer_name": "Competitively2",
+        "result": "win"
+      }
     }
   }
 }
