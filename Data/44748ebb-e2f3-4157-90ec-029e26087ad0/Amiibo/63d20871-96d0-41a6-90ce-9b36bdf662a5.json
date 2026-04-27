@@ -72,6 +72,57 @@
         "trainer_name": "mixling_",
         "result": "loss"
       }
+    },
+    "2023-07-22T16:54:26.216257+00:00": {
+      "this_amiibo": {
+        "rating": 2.9328149309767717,
+        "rating_mu": 14.232636359859722,
+        "rating_sigma": 3.766607142960983,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "4c7a3c43-1d52-4c1c-aee8-8ce916425bf6",
+        "name": "null-0",
+        "rating": 4.472978292903937,
+        "trainer_id": "355eceb6-e464-4838-9baf-60fdea6f4799",
+        "trainer_name": "ihewdo23e9h0",
+        "result": "win"
+      }
+    },
+    "2023-07-30T21:24:41.485922+00:00": {
+      "this_amiibo": {
+        "rating": 4.712039897053465,
+        "rating_mu": 15.30194237121149,
+        "rating_sigma": 3.5299674913860084,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "68db0e7a-5587-432c-ba99-f3fa59362721",
+        "name": "Sarah",
+        "rating": -0.8245018621303917,
+        "trainer_id": "7d0252c6-1ac0-49a4-ad80-94add3decdec",
+        "trainer_name": "angelo_gaming_64",
+        "result": "loss"
+      }
+    },
+    "2023-08-08T20:00:59.490024+00:00": {
+      "this_amiibo": {
+        "rating": 6.80788451259785,
+        "rating_mu": 16.579354583750874,
+        "rating_sigma": 3.2571566903843414,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
+        "id": "c305cc36-7780-40e0-ae5c-d4eab8e3d031",
+        "name": "SCP-38",
+        "rating": 8.192152615662035,
+        "trainer_id": "8806a0a9-04df-48a0-9b3e-357f8177411c",
+        "trainer_name": "fake_l3af",
+        "result": "loss"
+      }
     }
   }
 }

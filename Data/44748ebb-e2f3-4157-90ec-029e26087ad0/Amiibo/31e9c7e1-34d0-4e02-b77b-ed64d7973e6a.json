@@ -174,6 +174,57 @@
         "trainer_name": "RockMyRole",
         "result": "win"
       }
+    },
+    "2023-09-08T21:25:41.737755+00:00": {
+      "this_amiibo": {
+        "rating": 11.379180086892728,
+        "rating_mu": 19.76815201393784,
+        "rating_sigma": 2.796323975681704,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "cf6adba7-1bb9-4f12-8ce1-e6388c914f6a",
+        "name": "1",
+        "rating": 8.013724462357942,
+        "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
+        "trainer_name": "RockMyRole",
+        "result": "win"
+      }
+    },
+    "2023-09-15T01:17:59.810720+00:00": {
+      "this_amiibo": {
+        "rating": 12.25002239373869,
+        "rating_mu": 20.391876526031627,
+        "rating_sigma": 2.7139513774309796,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "5e37efc9-cc66-4b4e-9fcd-45bfa3620354",
+        "name": "i'm sorry",
+        "rating": -0.09588178681551796,
+        "trainer_id": "52395cd5-7302-493e-a7a9-c0cf640159cd",
+        "trainer_name": "mafriel",
+        "result": "loss"
+      }
+    },
+    "2023-09-18T15:35:26.815149+00:00": {
+      "this_amiibo": {
+        "rating": 11.47243548845329,
+        "rating_mu": 19.08485907136912,
+        "rating_sigma": 2.5374745276386106,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "2e2e39a3-66e8-45a5-8f20-226a4df0e4e4",
+        "name": "Marthilous",
+        "rating": 14.525184450023232,
+        "trainer_id": "5f193754-19cc-4e88-a09f-cd36122614ca",
+        "trainer_name": "twrecks64",
+        "result": "win"
+      }
     }
   }
 }

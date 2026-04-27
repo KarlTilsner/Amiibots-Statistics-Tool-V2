@@ -1,0 +1,43 @@
+{
+  "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+  "id": "39f65728-4131-4b1c-965a-8b9c63a5d28b",
+  "name": "beat em",
+  "trainer_id": "4c7c96ac-4f8c-4380-bdac-fd90877c66d8",
+  "trainer_name": "iguanope",
+  "matches": {
+    "2024-06-19T02:29:41.422756+00:00": {
+      "this_amiibo": {
+        "rating": 11.029556000527382,
+        "rating_mu": 30.21726808629746,
+        "rating_sigma": 6.395904028590025,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "43bfb838-c080-4241-88b8-8707f227ab1c",
+        "name": "Starkoopa",
+        "rating": 20.238457255445134,
+        "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
+        "trainer_name": "RockMyRole",
+        "result": "loss"
+      }
+    },
+    "2024-06-19T15:12:04.420538+00:00": {
+      "this_amiibo": {
+        "rating": 11.30341311613114,
+        "rating_mu": 27.30507011251538,
+        "rating_sigma": 5.3338856654614135,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "0f3052f4-84ac-4157-b021-944a7c6a23b2",
+        "name": "Lil' Molag",
+        "rating": 30.37359194726188,
+        "trainer_id": "060e12dd-a8a9-4e3d-a6e1-bd34c23446db",
+        "trainer_name": "ShadyZenith",
+        "result": "win"
+      }
+    }
+  }
+}

@@ -1602,6 +1602,40 @@
         "trainer_name": "swiftsg_official",
         "result": "loss"
       }
+    },
+    "2023-10-26T11:58:26.625859+00:00": {
+      "this_amiibo": {
+        "rating": 31.464348848688115,
+        "rating_mu": 34.19062621844304,
+        "rating_sigma": 0.9087591232516427,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "1e0e055f-cab3-4662-8a37-986c2c5aab39",
+        "name": "Aww Man",
+        "rating": 32.28134686661634,
+        "trainer_id": "bd4dae24-8e9d-4665-9e4c-e39b115b825a",
+        "trainer_name": "WoopalotlSSBU",
+        "result": "win"
+      }
+    },
+    "2024-07-27T11:41:10.689068+00:00": {
+      "this_amiibo": {
+        "rating": 31.55861705712514,
+        "rating_mu": 34.282243086920346,
+        "rating_sigma": 0.9078753432650686,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "ede2c52b-7bfc-42d0-8ede-fca3d6f84b8a",
+        "name": "Spook□",
+        "rating": 21.637690671207235,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "loss"
+      }
     }
   }
 }

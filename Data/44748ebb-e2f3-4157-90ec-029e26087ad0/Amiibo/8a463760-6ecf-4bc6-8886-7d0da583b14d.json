@@ -55,6 +55,40 @@
         "trainer_name": "SharingEagle",
         "result": "loss"
       }
+    },
+    "2023-07-07T10:00:22.305227+00:00": {
+      "this_amiibo": {
+        "rating": 4.249443703509627,
+        "rating_mu": 16.78743061174984,
+        "rating_sigma": 4.179328969413405,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "d3b73256-992b-45e3-88f7-cffe7bbe5ab9",
+        "name": "parker",
+        "rating": 10.907585633795218,
+        "trainer_id": "aa43658e-5b76-465a-8e40-88525da0addb",
+        "trainer_name": "flounder_ssbu",
+        "result": "win"
+      }
+    },
+    "2023-07-09T03:02:03.723823+00:00": {
+      "this_amiibo": {
+        "rating": 7.759998192651764,
+        "rating_mu": 18.891099182976518,
+        "rating_sigma": 3.710366996774918,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "253b87d6-cb95-4ffb-859d-53db371f8d22",
+        "name": "Commerse",
+        "rating": 12.645187882026992,
+        "trainer_id": "23cc62ed-8d92-471d-b8a4-3545d8bf5b53",
+        "trainer_name": "Winchesteroni",
+        "result": "loss"
+      }
     }
   }
 }

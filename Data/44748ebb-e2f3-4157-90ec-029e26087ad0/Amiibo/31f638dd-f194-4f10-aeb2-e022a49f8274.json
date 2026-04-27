@@ -89,6 +89,57 @@
         "trainer_name": "track8regret",
         "result": "loss"
       }
+    },
+    "2024-04-11T03:05:58.520992+00:00": {
+      "this_amiibo": {
+        "rating": 6.12362097871465,
+        "rating_mu": 16.061298479923188,
+        "rating_sigma": 3.3125591670695127,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "aa080e21-47ba-4b41-80f6-0fcfd5620f85",
+        "name": "Kirby",
+        "rating": 13.419795442777014,
+        "trainer_id": "03a8e279-c099-451b-a821-5869a95c2222",
+        "trainer_name": "cameron_h_03",
+        "result": "loss"
+      }
+    },
+    "2024-05-08T15:02:01.963264+00:00": {
+      "this_amiibo": {
+        "rating": 5.584020594137709,
+        "rating_mu": 14.734968918331978,
+        "rating_sigma": 3.0503161080647563,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "aa080e21-47ba-4b41-80f6-0fcfd5620f85",
+        "name": "Kirby",
+        "rating": 13.363806037809598,
+        "trainer_id": "03a8e279-c099-451b-a821-5869a95c2222",
+        "trainer_name": "cameron_h_03",
+        "result": "win"
+      }
+    },
+    "2024-05-26T06:36:47.442576+00:00": {
+      "this_amiibo": {
+        "rating": 7.064310538597427,
+        "rating_mu": 15.655961005545135,
+        "rating_sigma": 2.8638834889825695,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "5c053746-5884-4a12-abb8-8919369b69c4",
+        "name": "They/Them",
+        "rating": 8.94567066867049,
+        "trainer_id": "4854ad47-52b9-45f9-b469-f41170830e0a",
+        "trainer_name": "n0llz3p",
+        "result": "loss"
+      }
     }
   }
 }

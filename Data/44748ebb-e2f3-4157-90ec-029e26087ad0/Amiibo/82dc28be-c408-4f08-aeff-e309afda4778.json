@@ -1177,6 +1177,57 @@
         "trainer_name": "youtix3",
         "result": "loss"
       }
+    },
+    "2023-08-08T20:59:55.583593+00:00": {
+      "this_amiibo": {
+        "rating": 20.949621127462738,
+        "rating_mu": 24.324958744785267,
+        "rating_sigma": 1.12511253910751,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "a05a2872-5a8e-4ee7-b97d-e5f5a137fd8a",
+        "name": "KawayaKami",
+        "rating": 21.187826151370917,
+        "trainer_id": "989b85c3-4ffc-41c0-8596-2d2c67fd7158",
+        "trainer_name": "tealeevz",
+        "result": "win"
+      }
+    },
+    "2023-08-20T22:30:21.219712+00:00": {
+      "this_amiibo": {
+        "rating": 20.819259494425484,
+        "rating_mu": 24.171516815128737,
+        "rating_sigma": 1.1174191069010844,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "2ef3f0f6-fb9a-40ad-a1f0-cad5840ebe84",
+        "name": "Pandora",
+        "rating": 18.05511208255536,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "win"
+      }
+    },
+    "2023-10-04T23:47:43.640407+00:00": {
+      "this_amiibo": {
+        "rating": 21.006250246440224,
+        "rating_mu": 24.332921378155344,
+        "rating_sigma": 1.1088903772383731,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "adf3b95d-274f-4bd8-88f4-b3121a21fb03",
+        "name": "Twonk",
+        "rating": 18.958288969018618,
+        "trainer_id": "784ef333-6732-4a34-9cd8-d876fe8c1eee",
+        "trainer_name": "Heccsicle",
+        "result": "loss"
+      }
     }
   }
 }
