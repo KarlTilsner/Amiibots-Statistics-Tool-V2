@@ -939,6 +939,57 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2024-12-09T00:56:01.406184+00:00": {
+      "this_amiibo": {
+        "rating": 24.16259606589552,
+        "rating_mu": 27.534080857896036,
+        "rating_sigma": 1.1238282640001718,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "cc40acab-c611-4c06-ab51-e83112fe535b",
+        "name": "Rain",
+        "rating": 19.60071584939317,
+        "trainer_id": "1332142b-404c-4c00-acf0-1e1620282799",
+        "trainer_name": "yellow84nana",
+        "result": "win"
+      }
+    },
+    "2024-12-15T12:40:28.766700+00:00": {
+      "this_amiibo": {
+        "rating": 24.357415027482677,
+        "rating_mu": 27.70132468058612,
+        "rating_sigma": 1.1146365510344807,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "9f6ac98e-ae56-4256-b5d8-3984e149b182",
+        "name": "Japan Only",
+        "rating": 23.814305540490444,
+        "trainer_id": "aa43658e-5b76-465a-8e40-88525da0addb",
+        "trainer_name": "flounder_ssbu",
+        "result": "loss"
+      }
+    },
+    "2024-12-22T18:25:53.738778+00:00": {
+      "this_amiibo": {
+        "rating": 24.23428459856845,
+        "rating_mu": 27.563721025131922,
+        "rating_sigma": 1.109812142187824,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "9e0010c6-e229-47cd-a2e1-2c91a7eac6b7",
+        "name": "Galapagos",
+        "rating": 17.567562368935913,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "win"
+      }
     }
   }
 }

@@ -1279,6 +1279,57 @@
         "trainer_name": "marble_787",
         "result": "loss"
       }
+    },
+    "2024-12-06T13:26:53.142108+00:00": {
+      "this_amiibo": {
+        "rating": 30.20163770641443,
+        "rating_mu": 33.16003133327109,
+        "rating_sigma": 0.9861312089522203,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "cbdb0d0f-2eb4-4edb-b025-d6b2486fb718",
+        "name": "Golden Gal",
+        "rating": 24.649631982134117,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "win"
+      }
+    },
+    "2024-12-14T10:58:58.212615+00:00": {
+      "this_amiibo": {
+        "rating": 30.339611047918638,
+        "rating_mu": 33.28457717728408,
+        "rating_sigma": 0.981655376455147,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "7ea2d6f8-56e8-4967-a198-1b66b6a2d775",
+        "name": "Stryker",
+        "rating": 27.726809227131582,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "loss"
+      }
+    },
+    "2024-12-22T17:16:23.038908+00:00": {
+      "this_amiibo": {
+        "rating": 30.477832831719383,
+        "rating_mu": 33.40854212331912,
+        "rating_sigma": 0.9769030971999129,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "cf378049-2bab-41e4-a6a9-a60b8a8fdd27",
+        "name": "DaCrispy",
+        "rating": 30.544380174764235,
+        "trainer_id": "083d6234-b29b-45ba-a968-e87ab3d6b443",
+        "trainer_name": "SwiftSG_Official",
+        "result": "loss"
+      }
     }
   }
 }

@@ -480,6 +480,57 @@
         "trainer_name": "Adam2qaz",
         "result": "loss"
       }
+    },
+    "2024-12-06T15:12:13.541057+00:00": {
+      "this_amiibo": {
+        "rating": 19.41479085487856,
+        "rating_mu": 24.188749130271834,
+        "rating_sigma": 1.591319425131091,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "560f7e8a-8f88-47ae-85be-55d4e90a56b0",
+        "name": "Blank",
+        "rating": 19.227685422639002,
+        "trainer_id": "0dac8a24-5ed7-4fc9-9c00-5674617b4fab",
+        "trainer_name": "JohnLML123",
+        "result": "win"
+      }
+    },
+    "2024-12-29T18:12:21.540575+00:00": {
+      "this_amiibo": {
+        "rating": 19.89116842522335,
+        "rating_mu": 24.563941918167128,
+        "rating_sigma": 1.5575911643145939,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "43c4d073-cbec-4c39-b65e-2a580777bdc9",
+        "name": "Stan",
+        "rating": 21.96036808254393,
+        "trainer_id": "c1fb6ce6-79fa-4a7e-b142-7370deb56035",
+        "trainer_name": "Lucina_Nadine",
+        "result": "loss"
+      }
+    },
+    "2025-01-02T12:29:07.170257+00:00": {
+      "this_amiibo": {
+        "rating": 20.374151748570295,
+        "rating_mu": 24.951324527011277,
+        "rating_sigma": 1.525724259480327,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "90c28766-414e-4d95-8b8b-022461f0ddff",
+        "name": "SNAMS",
+        "rating": 21.900523368870715,
+        "trainer_id": "37df81b9-e5cd-431d-8561-7314e26d3d6c",
+        "trainer_name": "Dahtin",
+        "result": "loss"
+      }
     }
   }
 }

@@ -293,6 +293,40 @@
         "trainer_name": "amiibofight",
         "result": "win"
       }
+    },
+    "2024-12-16T01:05:16.845833+00:00": {
+      "this_amiibo": {
+        "rating": 31.73384305530248,
+        "rating_mu": 37.60582863243324,
+        "rating_sigma": 1.9573285257102528,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "8dd7e3bb-7b81-4648-8c98-41b215c26377",
+        "name": "Ms. Emma",
+        "rating": 34.97534420421406,
+        "trainer_id": "a0059ec8-ffe2-402f-a00a-f0b8356afdfe",
+        "trainer_name": "raid_boss_09",
+        "result": "win"
+      }
+    },
+    "2024-12-16T13:13:21.301531+00:00": {
+      "this_amiibo": {
+        "rating": 32.5192636261447,
+        "rating_mu": 38.19989741029964,
+        "rating_sigma": 1.8935445947183134,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "fdacbaee-931a-4cfd-9357-260eea0cd796",
+        "name": "MiivaGunna",
+        "rating": 35.06274308774425,
+        "trainer_id": "8811e988-2217-44d5-9aca-40c10f270fdc",
+        "trainer_name": "GooigiLH",
+        "result": "loss"
+      }
     }
   }
 }

@@ -1364,6 +1364,23 @@
         "trainer_name": "random_fire",
         "result": "win"
       }
+    },
+    "2024-12-21T10:04:05.305397+00:00": {
+      "this_amiibo": {
+        "rating": 18.171898519303447,
+        "rating_mu": 21.783543228726927,
+        "rating_sigma": 1.203881569807826,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "74eee2c1-fa04-4215-a038-89a625cd8472",
+        "name": "Luci",
+        "rating": 18.711730083418004,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "win"
+      }
     }
   }
 }

@@ -378,6 +378,40 @@
         "trainer_name": "speakerbox08",
         "result": "loss"
       }
+    },
+    "2024-12-19T03:17:25.039618+00:00": {
+      "this_amiibo": {
+        "rating": 13.523002649931371,
+        "rating_mu": 18.92747421628924,
+        "rating_sigma": 1.8014905221192903,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "0fb77df5-eaac-477d-bbff-de2e63c4b232",
+        "name": "Flailure",
+        "rating": 15.422961754504016,
+        "trainer_id": "d28e52a9-b60d-4b16-8bf3-ce9556461353",
+        "trainer_name": "FailexSSB",
+        "result": "win"
+      }
+    },
+    "2025-01-01T21:37:34.686800+00:00": {
+      "this_amiibo": {
+        "rating": 13.304261970509463,
+        "rating_mu": 18.64287070619956,
+        "rating_sigma": 1.779536245230032,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "47b16488-d397-446b-a634-dfc5d44980cf",
+        "name": "Gekkouga",
+        "rating": 7.212056656464387,
+        "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
+        "trainer_name": "RockMyRole",
+        "result": "win"
+      }
     }
   }
 }

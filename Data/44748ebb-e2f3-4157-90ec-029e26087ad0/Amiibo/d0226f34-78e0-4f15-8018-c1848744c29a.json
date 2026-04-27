@@ -1075,6 +1075,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2024-12-09T02:13:24.082466+00:00": {
+      "this_amiibo": {
+        "rating": 27.089681987518578,
+        "rating_mu": 30.349487439854215,
+        "rating_sigma": 1.0866018174452123,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e9128698-7812-4636-9074-127f1983bf1b",
+        "id": "ecee9586-a6a9-4c93-9288-03a6a761d7f6",
+        "name": "Jehuty",
+        "rating": 28.404192615191768,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2024-12-26T15:12:29.495502+00:00": {
+      "this_amiibo": {
+        "rating": 26.988322632242582,
+        "rating_mu": 30.241462179183646,
+        "rating_sigma": 1.0843798489803544,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "80a41227-d494-49ac-9907-784aa67a32e2",
+        "name": "Sasageyo!",
+        "rating": 18.558240876796606,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "win"
+      }
     }
   }
 }

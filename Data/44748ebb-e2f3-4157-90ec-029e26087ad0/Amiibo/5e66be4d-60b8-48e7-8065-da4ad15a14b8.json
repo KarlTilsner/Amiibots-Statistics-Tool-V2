@@ -395,6 +395,40 @@
         "trainer_name": "colfon_",
         "result": "loss"
       }
+    },
+    "2024-12-22T19:58:15.798836+00:00": {
+      "this_amiibo": {
+        "rating": 29.310953218169786,
+        "rating_mu": 34.45311969730397,
+        "rating_sigma": 1.714055493044727,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "58aabb71-ccd7-4031-b6a1-33359fa7c0f4",
+        "name": "Zelda",
+        "rating": 29.50736231804069,
+        "trainer_id": "7f8b523d-feed-49f6-a608-88bf508984f0",
+        "trainer_name": "SepiksComposite",
+        "result": "loss"
+      }
+    },
+    "2024-12-23T13:16:05.320421+00:00": {
+      "this_amiibo": {
+        "rating": 29.023394719525367,
+        "rating_mu": 34.04724483914721,
+        "rating_sigma": 1.674616706540615,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "bdd6b046-f5ca-4a07-894e-f774ce4837b3",
+        "name": "Improv",
+        "rating": 28.788859573628233,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
     }
   }
 }

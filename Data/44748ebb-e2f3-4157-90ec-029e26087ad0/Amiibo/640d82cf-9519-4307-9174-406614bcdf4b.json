@@ -344,6 +344,40 @@
         "trainer_name": "2Snowblind",
         "result": "loss"
       }
+    },
+    "2024-12-30T21:50:10.057643+00:00": {
+      "this_amiibo": {
+        "rating": 30.0436769281431,
+        "rating_mu": 35.34582304499205,
+        "rating_sigma": 1.767382038949651,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "51fca823-b93b-424a-9dfd-be7d26c2cb9c",
+        "name": "Red Baron!",
+        "rating": 32.87683167493153,
+        "trainer_id": "7ae72c01-0479-4b54-8c47-7a7e7ed61902",
+        "trainer_name": "dittowog",
+        "result": "win"
+      }
+    },
+    "2024-12-31T18:46:32.498359+00:00": {
+      "this_amiibo": {
+        "rating": 30.39804562018606,
+        "rating_mu": 35.59570166977195,
+        "rating_sigma": 1.7325520165286288,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "58aabb71-ccd7-4031-b6a1-33359fa7c0f4",
+        "name": "Zelda",
+        "rating": 29.570368658420364,
+        "trainer_id": "7f8b523d-feed-49f6-a608-88bf508984f0",
+        "trainer_name": "SepiksComposite",
+        "result": "loss"
+      }
     }
   }
 }

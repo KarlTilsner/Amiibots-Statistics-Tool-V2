@@ -2418,6 +2418,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2024-12-16T07:43:49.452335+00:00": {
+      "this_amiibo": {
+        "rating": 29.439003984242486,
+        "rating_mu": 32.02704908863376,
+        "rating_sigma": 0.8626817014637578,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "cf378049-2bab-41e4-a6a9-a60b8a8fdd27",
+        "name": "DaCrispy",
+        "rating": 30.168123474914672,
+        "trainer_id": "083d6234-b29b-45ba-a968-e87ab3d6b443",
+        "trainer_name": "SwiftSG_Official",
+        "result": "win"
+      }
+    },
+    "2024-12-24T00:15:09.466289+00:00": {
+      "this_amiibo": {
+        "rating": 29.537689795060082,
+        "rating_mu": 32.12230784604906,
+        "rating_sigma": 0.8615393503296597,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "49cf2090-a1b8-4853-81dc-cbccc7940cef",
+        "name": "punishment",
+        "rating": 25.03203255814292,
+        "trainer_id": "aa43658e-5b76-465a-8e40-88525da0addb",
+        "trainer_name": "flounder_ssbu",
+        "result": "loss"
+      }
     }
   }
 }

@@ -1891,6 +1891,57 @@
         "trainer_name": "onillusions",
         "result": "loss"
       }
+    },
+    "2024-12-08T01:25:18.047491+00:00": {
+      "this_amiibo": {
+        "rating": 7.678510574994252,
+        "rating_mu": 10.506767275369421,
+        "rating_sigma": 0.9427522334583899,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
+        "id": "f9ed08b4-f68e-4eb5-b9f6-b5a43068895e",
+        "name": "DarthPrime",
+        "rating": 6.491813338894212,
+        "trainer_id": "c77a47ee-60f9-487e-abed-a8514fdaeeac",
+        "trainer_name": "trueschavi",
+        "result": "win"
+      }
+    },
+    "2024-12-31T13:34:09.153144+00:00": {
+      "this_amiibo": {
+        "rating": 7.768966636000207,
+        "rating_mu": 10.592268123613014,
+        "rating_sigma": 0.9411004958709357,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1",
+        "id": "a6b51b5d-c961-476f-a12a-2f4bd5a4e508",
+        "name": "Toon Stink",
+        "rating": -1.2884247185263638,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "loss"
+      }
+    },
+    "2025-01-03T08:54:58.525619+00:00": {
+      "this_amiibo": {
+        "rating": 7.668705460552897,
+        "rating_mu": 10.485680367183301,
+        "rating_sigma": 0.9389916355434679,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "d8570d5e-ef02-4835-9aaa-42497e9d5e7a",
+        "name": "Hero",
+        "rating": 2.426469875342846,
+        "trainer_id": "fcaf7e81-1d7f-4ce8-a121-d0e2f5b83b8a",
+        "trainer_name": "xmeepist",
+        "result": "win"
+      }
     }
   }
 }

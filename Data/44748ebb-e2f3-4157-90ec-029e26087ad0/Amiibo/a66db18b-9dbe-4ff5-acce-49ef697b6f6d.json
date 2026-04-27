@@ -2061,6 +2061,57 @@
         "trainer_name": "rapjm14",
         "result": "loss"
       }
+    },
+    "2024-12-16T05:33:03.079756+00:00": {
+      "this_amiibo": {
+        "rating": 39.27093274852317,
+        "rating_mu": 41.85460614593906,
+        "rating_sigma": 0.8612244658052944,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "3d42c462-1e33-495c-88a6-3a3bde1fed93",
+        "name": "Jace",
+        "rating": 39.06790927535851,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "win"
+      }
+    },
+    "2024-12-26T23:05:38.522183+00:00": {
+      "this_amiibo": {
+        "rating": 39.17306439057295,
+        "rating_mu": 41.75134114278698,
+        "rating_sigma": 0.8594255840713443,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "5775d87c-4d6d-4192-8bcd-5ddceadc5724",
+        "name": "Sullivan",
+        "rating": 39.244590448414,
+        "trainer_id": "07d2f639-d1d3-41af-ad56-9e9032a5d786",
+        "trainer_name": "seremor108",
+        "result": "win"
+      }
+    },
+    "2024-12-30T11:37:45.462320+00:00": {
+      "this_amiibo": {
+        "rating": 39.278274159848046,
+        "rating_mu": 41.85148206800455,
+        "rating_sigma": 0.857735969385501,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "5775d87c-4d6d-4192-8bcd-5ddceadc5724",
+        "name": "Sullivan",
+        "rating": 39.34177858509279,
+        "trainer_id": "07d2f639-d1d3-41af-ad56-9e9032a5d786",
+        "trainer_name": "seremor108",
+        "result": "loss"
+      }
     }
   }
 }

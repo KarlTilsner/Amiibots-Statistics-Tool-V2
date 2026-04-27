@@ -7212,6 +7212,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2024-12-06T23:11:46.196879+00:00": {
+      "this_amiibo": {
+        "rating": 35.255674364944575,
+        "rating_mu": 37.66046258098296,
+        "rating_sigma": 0.8015960720127939,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "fe995f08-d261-47ba-ac69-81bbd272f8ce",
+        "id": "1470e3bd-c14b-493a-b06a-759259ec1f54",
+        "name": "Gremlin",
+        "rating": 34.452777332768875,
+        "trainer_id": "749f6066-6d79-4aea-89e8-231db5b44963",
+        "trainer_name": "potato_one_two_three_four",
+        "result": "win"
+      }
+    },
+    "2024-12-31T10:54:37.977096+00:00": {
+      "this_amiibo": {
+        "rating": 35.346337212561835,
+        "rating_mu": 37.75007068396665,
+        "rating_sigma": 0.8012444904682708,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "b9c28266-0dfe-4f4e-9ab5-b71eae7e9c02",
+        "name": "Amaterasu",
+        "rating": 34.79396762617257,
+        "trainer_id": "f78bcac5-01eb-46ca-9c57-eb6d3e9c242b",
+        "trainer_name": "Epsilon080",
+        "result": "loss"
+      }
     }
   }
 }

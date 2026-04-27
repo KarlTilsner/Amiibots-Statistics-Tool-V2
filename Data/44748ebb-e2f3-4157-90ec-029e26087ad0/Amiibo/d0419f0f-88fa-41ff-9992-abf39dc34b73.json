@@ -633,6 +633,40 @@
         "trainer_name": "track8regret",
         "result": "win"
       }
+    },
+    "2024-12-13T00:27:35.359274+00:00": {
+      "this_amiibo": {
+        "rating": 14.331176948095457,
+        "rating_mu": 18.56936051272738,
+        "rating_sigma": 1.4127278548773072,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "ac88641a-fab6-4ebf-aeec-ababd1f96245",
+        "name": "SPAMMERMAN",
+        "rating": 7.156019154442715,
+        "trainer_id": "4f638e3f-411d-46dc-bf87-3d26dfe43e6c",
+        "trainer_name": "padarera",
+        "result": "win"
+      }
+    },
+    "2024-12-28T08:54:04.905786+00:00": {
+      "this_amiibo": {
+        "rating": 14.548280677406588,
+        "rating_mu": 18.757384251637212,
+        "rating_sigma": 1.4030345247435412,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "6ebca9e0-a9ec-470f-84a9-abcdd79d98d6",
+        "name": "SlickTrick",
+        "rating": -0.07559550560076467,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte245",
+        "result": "loss"
+      }
     }
   }
 }
