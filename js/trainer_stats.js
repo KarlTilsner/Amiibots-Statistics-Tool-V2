@@ -2,9 +2,10 @@ window.onload = function () {
     trainerStats();
 }
 
+
+
 async function updateTrainerID() {
     const trainerID = document.getElementById('trainer_id').value;
-    const ruleset_id = document.getElementById("selectTierDropdown").value;
 
     function isValidUUID(uuid) {
         const uuidRegex = /^[0-9a-f]{8}-[0-9a-f]{4}-4[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
@@ -13,7 +14,6 @@ async function updateTrainerID() {
 
     if (trainerID != '' && trainerID != null && isValidUUID(trainerID) == true || trainerID == 'None') {
         localStorage.setItem('trainer_stats_trainer_id', trainerID);
-        localStorage.setItem('trainer_stats_ruleset_id', ruleset_id)
         location.reload();
     } else {
         alert("trainer_id can not be blank and must be a valid uuid string");
@@ -22,20 +22,23 @@ async function updateTrainerID() {
 
 
 
-const ruleset_names = {
-    '44748ebb-e2f3-4157-90ec-029e26087ad0': 'Vanilla',
-    '328d8932-456f-4219-9fa4-c4bafdb55776': 'Big 5 Ban',
-    'af1df0cd-3251-4b44-ba04-d48de5b73f8b': 'Anything Goes'
-};
+async function getRulesets() {
+    const res = await fetch('Data/rulesets.json');
+    const data = await res.json();
+    const nameById = Object.fromEntries(
+        data.map(item => [item.id, item.name])
+    );
+    return nameById;
+}
 
 
 
 async function trainerStats() {
+    const ruleset_names = await getRulesets();
+
     // Get ruleset_id to search for
     const ruleset_id = window.localStorage.getItem("Global_Ruleset");
-    console.log('Ruleset: ', ruleset_id);
-    document.getElementById('status_ruleset_id').innerText = "test";
-
+    document.getElementById('status_ruleset_id').innerText = ruleset_names[ruleset_id];
 
     // Get trainer_id to search for
     async function getTrainerID() {
@@ -47,14 +50,8 @@ async function trainerStats() {
     }
     const trainerID = await getTrainerID();
     document.getElementById('status_trainer_id').innerText = trainerID;
-    console.log('Trainer: ', trainerID);
 
-    // spin up new workers
-    const worker_trainer_matches = new Worker('./js/worker_trainer_stats_trainer_matches.js');
-    worker_trainer_matches.postMessage(`https://www.amiibots.com/api/singles_matches?per_page=${Number.MAX_SAFE_INTEGER}&created_at_start=2018-11-10T00%3A00%3A00Z&ruleset_id=${ruleset_id}&user_id=${trainerID}`);
-    document.getElementById('status_trainer_data').innerText = 'Searching';
-
-    let all_characters = [];
+    let all_characters = {};
 
     // Chart Theme Colours
     const primary_background_colour = 'rgba(255, 99, 132, 0.2)';      // red
@@ -71,30 +68,22 @@ async function trainerStats() {
         let all_trainer_data = [];
 
         // get all character names and ids
-        async function get_all_characters() {
-            console.log("Getting all character names and ids");
-            const url = `https://www.amiibots.com/api/utility/get_all_characters`;
-            const query = await fetch(url);
-            const response = await query.json();
-            const data = response.data.map(index => index);
-
-            console.log("Got all character names and ids");
-            return data;
+        async function getCharacters() {
+            const query = await fetch(`./Data/all_characters.json`);
+            return await query.json();
         }
-        all_characters = await get_all_characters();
-        console.log(all_characters);
+
+        all_characters = await getCharacters();
 
         // get all amiibo
         async function get_all_amiibo() {
-            console.log("Getting all amiibo");
             document.getElementById('status_all_amiibo').innerText = 'Searching';
-            const url = `https://www.amiibots.com/api/amiibo?per_page=${Number.MAX_SAFE_INTEGER}&ruleset_id=${ruleset_id}`;
-            const query = await fetch(url);
+            const query = await fetch(`./Data/${ruleset_id}/leaderboard.json`);
             const response = await query.json();
 
             // Filter all amiibo
             const all_amiibo_data = [];
-            response.data.map(index => {
+            response.map(index => {
                 if (index.match_selection_status != "INACTIVE") {
                     all_amiibo_data.push(index)
                 }
@@ -102,22 +91,15 @@ async function trainerStats() {
 
             // Filter trainer amiibo
             const trainer_amiibo_data = [];
-            response.data.map(index => {
+            response.map(index => {
                 if (index.user.id == trainerID) {
                     trainer_amiibo_data.push(index);
                 }
             });
 
-            const data = { all: all_amiibo_data, trainer: trainer_amiibo_data };
-
-            console.log(`Got all amiibo`);
-            return data;
+            return [all_amiibo_data, trainer_amiibo_data];
         }
-        const all_amiibo_raw = await get_all_amiibo();
-        const all_amiibo = all_amiibo_raw.all;
-        console.log("All Amiibo: ", all_amiibo);
-        const trainer_amiibo = all_amiibo_raw.trainer;
-        console.log("Trainer Amiibo: ", trainer_amiibo);
+        const [all_amiibo, trainer_amiibo] = await get_all_amiibo();
 
         if (trainer_amiibo.length == 0) {
             console.log(`Trainer '${trainerID}' has no valid Amiibo in '${ruleset_names[ruleset_id]}'`);
@@ -128,15 +110,15 @@ async function trainerStats() {
         } else document.getElementById('status_all_amiibo').innerText = 'Loading';
 
         // rank each amiibo
-        for (let i = 0; i < all_characters.length; i++) {
+        Object.entries(all_characters).forEach(([id, name]) => {
             let rank = 1;
-            for (let x = 0; x < all_amiibo.length; x++) {
-                if (all_characters[i].id == all_amiibo[x].playable_character_id) {
-                    all_amiibo[x].character_rank = rank;
-                    rank++;
+            all_amiibo.forEach(amiibo => {
+                if (id == amiibo.playable_character_id) {
+                    amiibo.character_rank = rank;
+                    rank++
                 }
-            }
-        }
+            });
+        });
 
         // get all unique trainers
         const unique_trainers = [];
@@ -192,11 +174,8 @@ async function trainerStats() {
 
         // Get the points assigned to each place
         async function get_points() {
-            const url = `./json/points_system.json`;
-            const query = await fetch(url);
+            const query = await fetch(`./points_system.json`);
             const data = await query.json();
-
-            console.log("Got points system");
             return data;
         }
         const points_system = await get_points();
@@ -234,10 +213,6 @@ async function trainerStats() {
             }
         });
 
-        console.log("🚀 ~ main ~ all_trainer_data:", all_trainer_data);
-
-
-
 
 
         // DISPLAY ALL TRAINERS WITH A SCORE ONTO THE DOM
@@ -247,33 +222,28 @@ async function trainerStats() {
             let content = document.getElementById('trainer_rank_stats');
             let list = '<div class="list_item_container">';
 
-            for (let i = 0; i < all_trainer_data.length; i++) {
-
-                if (all_trainer_data[i].amiibo.length > 0 && all_trainer_data[i].id == trainerID) {
+            all_trainer_data.forEach(trainer => {
+                if (trainer.amiibo.length > 0 && trainer.id == trainerID) {
                     // display character icons with their rank
                     let dropdown_list = '<div class="tier_list_container" style="gap: 0px;">';
-                    for (let x = 0; x < all_trainer_data[i].amiibo.length; x++) {
-
-                        all_characters.map(character => {
-                            if (character.id == all_trainer_data[i].amiibo[x].character && all_trainer_data[i].amiibo[x].highest == true) {
-
+                    trainer.amiibo.forEach(amiibo => {
+                        Object.entries(all_characters).forEach(([id, name]) => {
+                            if (id == amiibo.character && amiibo.highest == true) {
                                 dropdown_list += (
-                                    `<div class="tier_list_item" onclick="clickListItem('${character.id}', '${ruleset_id}')">
-                                        <img src="images/${character.name}.png" class="tier_list_image">
+                                    `<div class="tier_list_item" onclick="clickListItem('${id}', '${ruleset_id}')">
+                                        <img src="images/${name}.png" class="tier_list_image">
                                         <div class="tier_list_text_box">
-                                            <p class="tier_list_text">${all_trainer_data[i].amiibo[x].character_rank}</p>
+                                            <p class="tier_list_text">${amiibo.character_rank}</p>
                                         </div>
                                     </div>`
                                 );
-
                             }
                         });
-                    }
-                    dropdown_list += "</div>";
+                    });
 
                     // display trainer name and relavent info
                     let uniqueAmiibo = 0;
-                    all_trainer_data[i].amiibo.map(amiibo => {
+                    trainer.amiibo.map(amiibo => {
                         if (amiibo.highest == true) {
                             uniqueAmiibo++;
                         }
@@ -284,17 +254,17 @@ async function trainerStats() {
                         <div class="trainer_list_item" id="list_item_searchable">
                             <div class="list_stats_container">
                                 <div class="list_stats">
-                                    <h1>${all_trainer_data[i].rank}. ${all_trainer_data[i].name}</h1>
+                                    <h1>${trainer.rank}. ${trainer.name}</h1>
                                 </div>
 
                                 <div class="list_stats">
                                     <h2>Score:</h2>
-                                    <h1>${all_trainer_data[i].trainer_score} pts</h1>
+                                    <h1>${trainer.trainer_score} pts</h1>
                                 </div>
 
                                 <div class="list_stats">
                                     <h2>Leaderboard Amiibo:</h2>
-                                    <h1>${all_trainer_data[i].amiibo.length}</h1>
+                                    <h1>${trainer.amiibo.length}</h1>
                                 </div>
                             </div>
                         </div>
@@ -305,8 +275,9 @@ async function trainerStats() {
                         </div>
                     </div>`
                     );
+
                 }
-            }
+            });
 
             list += "</div>";
             content.innerHTML = list;
@@ -318,8 +289,6 @@ async function trainerStats() {
 
 
 
-
-
         // DISPLAY ALL OF A TRAINERS VALID AMIIBO
         //---------------------------------------------------------------------------------------------------------------------------------------------------------
         async function printValidTrainerAmiibo() {
@@ -328,10 +297,8 @@ async function trainerStats() {
             let status = 'no status';
             let characterIcon = 'no icon';
 
-
             trainer_amiibo.map(index => {
                 status = 'reset';
-                characterIcon = 'reset';
 
                 if (index.match_selection_status == 'ACTIVE') { status = 'ACTIVE'; }
                 if (index.match_selection_status == 'STANDBY') { status = 'STANDBY'; }
@@ -340,18 +307,11 @@ async function trainerStats() {
                     index.character_rank = 'None';
                 }
 
-                // Match current character with icon
-                for (let i = 0; i < all_characters.length; i++) {
-                    if (all_characters[i].id == index.playable_character_id) {
-                        characterIcon = (`${all_characters[i].name}.png`)
-                    }
-                }
-
                 // Put image onto the listed item when amiibots is fixed
                 list += (
                     `<div class="list_item ${status}" id="list_item_searchable" onclick="updateStatsSearch('${index.id}'), addAmiiboToSearchHistory('${index.user.twitch_user_name}', '${index.name}', '${index.id}', '${index.playable_character_id}', '${window.localStorage.getItem("Global_Ruleset")}', '${new Date()}')">
 
-                    <img src="./images/${characterIcon}" class="list_image">
+                    <img src="./images/${all_characters[index.playable_character_id]}.png" class="list_image">
 
                     <div class="list_stats_grid_container">
                         <div class="list_stats amiibo_trainer_name_title">
@@ -367,7 +327,7 @@ async function trainerStats() {
 
                         <div class="list_stats">
                             <h2>Win Rate:</h2>
-                            <h1>${((index.wins / index.total_matches) * 100).toFixed(2)}%</h1>
+                            <h1>${((index.wins / (index.wins + index.losses)) * 100).toFixed(2)}%</h1>
                         </div>
 
                         <div class="list_stats mobile_remove">
@@ -389,8 +349,6 @@ async function trainerStats() {
 
                 </div>`
                 );
-
-
             });
 
             list += "</div>";
@@ -399,8 +357,6 @@ async function trainerStats() {
         }
 
         await printValidTrainerAmiibo();
-
-
 
 
 
@@ -413,7 +369,6 @@ async function trainerStats() {
                 average_rating_all += index.rating;
             });
             average_rating_all = average_rating_all / trainer_amiibo.length;
-            console.log(average_rating_all);
 
             document.getElementById('trainer_average_rating_all').innerText = `Average Rating (All): ${average_rating_all.toFixed(2)}`;
 
@@ -427,7 +382,6 @@ async function trainerStats() {
                 }
             });
             average_rating_active_standby = average_rating_active_standby / active_counter;
-            console.log(average_rating_active_standby);
 
             document.getElementById('trainer_average_rating_active_standby').innerText = `Average Rating (Active/Standby): ${average_rating_active_standby.toFixed(2)}`;
         }
@@ -437,60 +391,105 @@ async function trainerStats() {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     // ALL DATA CORRESPONDING TO THE /SINGLES_MATCHES ENDPOINT
     //---------------------------------------------------------------------------------------------------------------------------------------------------------
-    worker_trainer_matches.onmessage = function (responseMessage) {
-        const all_matches_data = responseMessage.data;
+    async function allMatchesStatistics() {
+        document.getElementById('status_trainer_data').innerText = 'Loading';
 
+        // Load all amiibo matches into an object
+        async function getAllAmiiboMatches() {
+            // Get list of all trainer amiibo
+            async function getAmiiboList() {
+                const query = await fetch(`./Data/${ruleset_id}/Trainers/${trainerID}.json`);
+                // Error if trainer has no matches
+                if (!query.ok) {
+                    console.log(`Trainer '${trainerID}' has no data in '${ruleset_names[ruleset_id]}'`);
+                    document.getElementById('status_trainer_data').innerText = `Failed: Trainer '${trainerID} ' has no data in '${ruleset_names[ruleset_id]}'`;
+                    alert(`Trainer '${trainerID}' has no data in '${ruleset_names[ruleset_id]}'`);
+                }
+                return await query.json();
+            }
+            const all_amiibo = await getAmiiboList();
+
+            // Load all amiibo files and store them
+            const data = {};
+
+
+            let latest_match_date = null;
+            let first_match_date = null;
+            async function dates(matchKeys) {
+                // ISO strings → string comparison works
+                const latest_match = matchKeys.reduce((max, key) =>
+                    key > max ? key : max
+                );
+
+                const first_match = matchKeys.reduce((min, key) =>
+                    key < min ? key : min
+                );
+
+                if (!latest_match_date || latest_match > latest_match_date) {
+                    latest_match_date = latest_match;
+                }
+
+                if (!first_match_date || first_match < first_match_date) {
+                    first_match_date = first_match;
+                }
+            }
+
+            let wins = 0;
+            let losses = 0;
+            function matchesAndWinrate(amiiboMatches) {
+                // Get winrate
+                Object.values(amiiboMatches.matches).forEach(match => {
+                    if (match.this_amiibo.result == "win") {
+                        wins++;
+                    } else losses++
+                });
+
+
+                const winrate = (wins / (wins + losses)) * 100;
+                document.getElementById('trainer_winrate').innerText = `Win Rate: ${winrate.toFixed(2)}%`;
+
+                // Display total matches
+                document.getElementById('trainer_matches').innerText = `Matches: ${wins + losses}`;
+            }
+
+
+
+            for (const id of Object.keys(all_amiibo.amiibo)) {
+                const res = await fetch(`./Data/${ruleset_id}/Amiibo/${id}.json`);
+                if (!res.ok) continue;
+                const AmiiboJSON = await res.json();
+                const matchKeys = Object.keys(AmiiboJSON.matches || {});
+                if (matchKeys.length === 0) continue;
+
+                await dates(matchKeys);
+                await matchesAndWinrate(AmiiboJSON);
+
+
+
+                data[id] = AmiiboJSON;
+            }
+
+            return [data, latest_match_date, first_match_date];
+        }
+        const [all_matches_data, latest_match_date, first_match_date] = await getAllAmiiboMatches();
         document.getElementById('status_trainer_data').innerText = 'Processing';
 
-        console.log("Worker message recieved", all_matches_data);
-
-        if (all_matches_data.length == 0) {
-            console.log(`Trainer '${trainerID}' has no data in '${ruleset_names[ruleset_id]}'`);
-            document.getElementById('status_trainer_data').innerText = `Failed: Trainer '${trainerID} ' has no data in '${ruleset_names[ruleset_id]}'`;
-            alert(`Trainer '${trainerID}' has no data in '${ruleset_names[ruleset_id]}'`);
-        }
-
         // Get trainer name
-        function getTrainerName() {
-            if (trainerID == all_matches_data[0].fp1.trainer_id) {
-                return all_matches_data[0].fp1.trainer_name;
-            }
-
-            if (trainerID == all_matches_data[0].fp2.trainer_id) {
-                return all_matches_data[0].fp2.trainer_name;
-            }
+        async function getTrainerNames() {
+            const query = await fetch(`./Data/${ruleset_id}/unique_trainers.json`);
+            return await query.json();
         }
-        const trainerName = getTrainerName();
-
-
+        const allTrainerNames = await getTrainerNames();
+        const trainerName = allTrainerNames[trainerID];
 
         // GENERAL STATISTICS TAB
         //---------------------------------------------------------------------------------------------------------------------------------------------------------
         function generalStatistics() {
 
             // First match date
-            function firstMatch() {
-                let dateString = all_matches_data[all_matches_data.length - 1].created_at;
+            function getDateSince(dateString) {
                 let date = new Date(dateString);
 
                 // Define an array of month names
@@ -502,52 +501,10 @@ async function trainerStats() {
                 let year = date.getFullYear();
 
                 // Format the date
-                const formattedDate = `${day} ${month} ${year}`;
-
-                document.getElementById('trainer_first_match').innerText = `First Match: ${formattedDate}`;
+                return `${day} ${month} ${year}`;
             }
-            firstMatch();
-
-
-
-            // Last match date
-            function lastMatch() {
-                let dateString = all_matches_data[0].created_at;
-                let date = new Date(dateString);
-
-                // Define an array of month names
-                let months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-
-                // Get the day, month, and year
-                let day = date.getDate();
-                let month = months[date.getMonth()];
-                let year = date.getFullYear();
-
-                // Format the date
-                const formattedDate = `${day} ${month} ${year}`;
-
-                document.getElementById('trainer_last_match').innerText = `Last Match: ${formattedDate}`;
-            }
-            lastMatch();
-
-
-
-            // Get winrate and total matches played
-            function matchesAndWinrate() {
-                // Get winrate
-                let wins = 0;
-                all_matches_data.map(index => {
-                    if (trainerID == index.winner_info.trainer_id) {
-                        wins++;
-                    }
-                });
-                const winrate = (wins / all_matches_data.length) * 100;
-                document.getElementById('trainer_winrate').innerText = `Win Rate: ${winrate.toFixed(2)}%`;
-
-                // Display total matches
-                document.getElementById('trainer_matches').innerText = `Matches: ${all_matches_data.length}`;
-            }
-            matchesAndWinrate();
+            document.getElementById('trainer_first_match').innerText = `First Match: ${getDateSince(first_match_date)}`;
+            document.getElementById('trainer_last_match').innerText = `Last Match: ${getDateSince(latest_match_date)}`;
 
 
 
@@ -556,19 +513,15 @@ async function trainerStats() {
                 const characterTally = {};
 
                 // Create an empty tally with all character IDs
-                all_characters.map(character => {
-                    characterTally[character.id] = 0;
+                Object.keys(all_characters).forEach(id => {
+                    characterTally[id] = 0;
                 });
 
                 // Add to the tally
-                all_matches_data.map(index => {
-                    if (index.fp1.trainer_id == trainerID) {
-                        characterTally[index.fp1.character_id]++;
-                    }
+                Object.entries(all_matches_data).forEach(([amiibo_id, amiibo_data]) => {
+                    const amiiboMatches = Object.entries(amiibo_data.matches).length;
 
-                    if (index.fp2.trainer_id == trainerID) {
-                        characterTally[index.fp2.character_id]++;
-                    }
+                    characterTally[amiibo_data.character_id] += amiiboMatches;
                 });
 
                 // Convert the object to an array of [key, value] pairs
@@ -583,16 +536,14 @@ async function trainerStats() {
                 // Extract the first 5 elements
                 const top5Array = sortedArray.slice(0, 5);
 
-                console.log(top5Array);
-
                 let list = '<div class="tier_list_container" style="gap: 0px;">';
                 top5Array.map(index => {
-                    all_characters.map(character => {
-                        if (index.id == character.id) {
+                    Object.entries(all_characters).forEach(([id, name]) => {
+                        if (index.id == id) {
 
                             list += (
                                 `<div class="tier_list_item">
-                                    <img src="images/${character.name}.png" class="tier_list_image">
+                                    <img src="images/${name}.png" class="tier_list_image">
                                     <div class="tier_list_text_box">
                                         <p class="tier_list_text">${index.count}</p>
                                     </div>
@@ -613,74 +564,49 @@ async function trainerStats() {
             function trainerMostFacedOpponents() {
                 const opponentTally = {};
 
-                // Create empty tally of all trainers faced
-                all_matches_data.map(index => {
-                    if (index.winner_info.trainer_id != trainerID) {
-                        opponentTally[index.winner_info.trainer_id] = {
-                            trainer_id: index.winner_info.trainer_id,
-                            win: 0,
-                            lose: 0
-                        };
-                    }
+                Object.values(all_matches_data).forEach(amiibo => {
+                    Object.values(amiibo.matches).forEach(match => {
+                        if (!opponentTally[match.opponent.trainer_id]) {
+                            opponentTally[match.opponent.trainer_id] = {
+                                trainer_id: match.opponent.trainer_id,
+                                win: 0,
+                                loss: 0
+                            }
+                        }
 
-                    if (index.loser_info.trainer_id != trainerID) {
-                        opponentTally[index.loser_info.trainer_id] = {
-                            trainer_id: index.loser_info.trainer_id,
-                            win: 0,
-                            lose: 0
-                        };
-                    }
+                        if (match.this_amiibo.result == "win") {
+                            opponentTally[match.opponent.trainer_id].win++;
+                        }
+
+                        if (match.this_amiibo.result == "loss") {
+                            opponentTally[match.opponent.trainer_id].loss++;
+                        }
+                    });
                 });
-
-                // Add to the tally
-                all_matches_data.map(index => {
-                    if (index.winner_info.trainer_id != trainerID) {
-                        opponentTally[index.winner_info.trainer_id].trainer_id = index.winner_info.trainer_id;
-                        opponentTally[index.winner_info.trainer_id].lose++;
-                    }
-
-                    if (index.loser_info.trainer_id != trainerID) {
-                        opponentTally[index.loser_info.trainer_id].trainer_id = index.loser_info.trainer_id;
-                        opponentTally[index.loser_info.trainer_id].win++;
-                    }
-                });
-
-                console.log(opponentTally);
 
                 // Convert the object to an array of entries
                 let dataArray = Object.entries(opponentTally);
 
                 // Sort the array based on the total of wins and losses
                 dataArray.sort((a, b) => {
-                    let totalA = a[1].win + a[1].lose;
-                    let totalB = b[1].win + b[1].lose;
+                    let totalA = a[1].win + a[1].loss;
+                    let totalB = b[1].win + b[1].loss;
                     return totalB - totalA;
                 });
 
                 // Transform the sorted array into an array of objects
                 let sortedArray = dataArray.map(([id, stats]) => ({
                     win: stats.win,
-                    lose: stats.lose,
+                    loss: stats.loss,
                     trainer_id: stats.trainer_id
                 }));
 
                 // Extract the first 5 elements
                 const top5Array = sortedArray.slice(0, 5);
 
-                console.log(top5Array);
-
-                const temp = all_matches_data.slice().reverse();
-                console.log(temp);
-                top5Array.map(trainer => {
-                    temp.map(index => {
-                        if (index.winner_info.trainer_id == trainer.trainer_id) {
-                            trainer.trainer_name = index.winner_info.trainer_name;
-                        }
-
-                        if (index.loser_info.trainer_id == trainer.trainer_id) {
-                            trainer.trainer_name = index.loser_info.trainer_name;
-                        }
-                    });
+                // Get trainer names
+                top5Array.forEach(trainer => {
+                    trainer.trainer_name = allTrainerNames[trainer.trainer_id];
                 });
 
                 let list = '<div class="tier_list_container" style="gap: 2rem;">';
@@ -688,7 +614,7 @@ async function trainerStats() {
                     list += (
                         `<div>
                             <h2 style="margin: 0;">${index.trainer_name}</h2>
-                            <p style="margin: 0;">Win/Loss: ${index.win}/${index.lose}</p>
+                            <p style="margin: 0;">Win/Loss: ${index.win}/${index.loss}</p>
                         </div>`
                     );
                 });
@@ -701,37 +627,16 @@ async function trainerStats() {
 
             // Get win and lose streaks
             function trainerStreaks() {
-                // Get all unique amiibo
-                const trainerUniqueAmiibo = [];
-
-                all_matches_data.map(index => {
-                    if (index.winner_info.trainer_id == trainerID && !trainerUniqueAmiibo.some(amiibo => amiibo.id == index.winner_info.id)) {
-                        trainerUniqueAmiibo.push({
-                            name: index.winner_info.name,
-                            id: index.winner_info.id,
-                            character_id: index.winner_info.character_id
-                        });
-                    }
-
-                    if (index.loser_info.trainer_id == trainerID && !trainerUniqueAmiibo.some(amiibo => amiibo.id == index.loser_info.id)) {
-                        trainerUniqueAmiibo.push({
-                            name: index.loser_info.name,
-                            id: index.loser_info.id,
-                            character_id: index.loser_info.character_id
-                        });
-                    }
-                });
-
                 // Search through every amiibo and collect their streaks
-                trainerUniqueAmiibo.map(amiibo => {
+                Object.entries(all_matches_data).forEach(([amiibo_id, amiibo_data]) => {
                     let LongestWinstreak = 0;
                     let currentWinstreak = 0;
 
                     let LongestLosestreak = 0;
                     let currentLosestreak = 0;
 
-                    all_matches_data.map(match => {
-                        if (match.winner_info.id == amiibo.id) {
+                    Object.values(amiibo_data.matches).forEach(match => {
+                        if (match.this_amiibo.result == "win") {
                             currentWinstreak++;
                             currentLosestreak = 0;
                             if (currentWinstreak > LongestWinstreak) {
@@ -739,39 +644,30 @@ async function trainerStats() {
                             }
                         }
 
-                        if (match.loser_info.id == amiibo.id) {
+                        if (match.this_amiibo.result == "loss") {
                             currentLosestreak++;
                             currentWinstreak = 0;
                             if (currentLosestreak > LongestLosestreak) {
                                 LongestLosestreak = currentLosestreak;
                             }
                         }
+
                     });
 
-                    amiibo.winstreak = LongestWinstreak;
-                    amiibo.losestreak = LongestLosestreak;
+                    all_matches_data[amiibo_id].winstreak = LongestWinstreak;
+                    all_matches_data[amiibo_id].losestreak = LongestLosestreak;
                 });
 
-                let winstreak = trainerUniqueAmiibo.reduce((max, amiibo) => (amiibo.winstreak > max.winstreak ? amiibo : max), trainerUniqueAmiibo[0]);
-                let losestreak = trainerUniqueAmiibo.reduce((max, amiibo) => (amiibo.losestreak > max.losestreak ? amiibo : max), trainerUniqueAmiibo[0]);
-
-                console.log(trainerUniqueAmiibo);
-
-
+                let winstreak = Object.values(all_matches_data).reduce((max, amiibo) => (amiibo.winstreak > max.winstreak ? amiibo : max), Object.values(all_matches_data)[0]);
+                let losestreak = Object.values(all_matches_data).reduce((max, amiibo) => (amiibo.losestreak > max.losestreak ? amiibo : max), Object.values(all_matches_data)[0]);
 
                 // Match winstreak character with icon
-                let winstreakIcon = "???"
-                for (let i = 0; i < all_characters.length; i++) {
-                    if (all_characters[i].id == winstreak.character_id) {
-                        winstreakIcon = (`${all_characters[i].name}.png`)
-                    }
-                }
-
+                let winstreakIcon = all_characters[winstreak.character_id];
                 const list_winstreak =
                     `<div class="flex_list_container" style="padding: 0 1rem;">
                     <div class="list_item">
 
-                        <img src="./images/${winstreakIcon}" class="list_image">
+                        <img src="./images/${winstreakIcon}.png" class="list_image">
 
                         <div>
                             <div style="padding-left: 1rem;">
@@ -782,24 +678,15 @@ async function trainerStats() {
 
                     </div>
                 </div>`;
-
                 document.getElementById('trainer_longest_winstreak').innerHTML = list_winstreak;
 
-
-
                 // Match losestreak character with icon
-                let losestreakIcon = "???"
-                for (let i = 0; i < all_characters.length; i++) {
-                    if (all_characters[i].id == losestreak.character_id) {
-                        losestreakIcon = (`${all_characters[i].name}.png`)
-                    }
-                }
-
+                let losestreakIcon = all_characters[losestreak.character_id];
                 const list_losestreak =
                     `<div class="flex_list_container" style="padding: 0 1rem;">
                     <div class="list_item">
 
-                        <img src="./images/${losestreakIcon}" class="list_image">
+                        <img src="./images/${losestreakIcon}.png" class="list_image">
 
                         <div>
                             <div style="padding-left: 1rem;">
@@ -810,7 +697,6 @@ async function trainerStats() {
 
                     </div>
                 </div>`;
-
                 document.getElementById('trainer_longest_losestreak').innerHTML = list_losestreak;
             }
             trainerStreaks();
@@ -820,59 +706,15 @@ async function trainerStats() {
 
 
 
-
-
         // ALL AMIIBO RUNS CHART
         //---------------------------------------------------------------------------------------------------------------------------------------------------------
         function allAmiiboRuns() {
-
-            // Get all unique amiibo
-            const trainerUniqueAmiibo = [];
-            const all_matches_data_reverse = all_matches_data.slice().reverse();
-
-            // Array is reversed to start at the beginning mof match history instead of the present
-            all_matches_data_reverse.map(index => {
-                if (index.winner_info.trainer_id == trainerID && !trainerUniqueAmiibo.some(amiibo => amiibo.id == index.winner_info.id)) {
-                    trainerUniqueAmiibo.push({
-                        name: index.winner_info.name,
-                        id: index.winner_info.id,
-                        character_id: index.winner_info.character_id,
-                        first_match: index.created_at,
-                        rating_history: ['0.00']
-                    });
-                }
-
-                if (index.loser_info.trainer_id == trainerID && !trainerUniqueAmiibo.some(amiibo => amiibo.id == index.loser_info.id)) {
-                    trainerUniqueAmiibo.push({
-                        name: index.loser_info.name,
-                        id: index.loser_info.id,
-                        character_id: index.loser_info.character_id,
-                        first_match: index.created_at,
-                        rating_history: ['0.00']
-                    });
-                }
-            });
-
-            // Get rating history of each amiibo
-            trainerUniqueAmiibo.map(amiibo => {
-                all_matches_data_reverse.map(match => {
-                    if (amiibo.id == match.winner_info.id) {
-                        amiibo.rating_history.push(match.winner_info.rating.toFixed(2));
-                    }
-
-                    if (amiibo.id == match.loser_info.id) {
-                        amiibo.rating_history.push(match.loser_info.rating.toFixed(2));
-                    }
-                });
-            });
-
-            console.log(trainerUniqueAmiibo);
-
             // Determine which amiibo has the most games
             let highest = 0;
-            trainerUniqueAmiibo.map(amiibo => {
-                if (amiibo.rating_history.length > highest) {
-                    highest = amiibo.rating_history.length;
+            Object.values(all_matches_data).forEach(amiibo => {
+                const matchCount = Object.entries(amiibo.matches).length;
+                if (matchCount > highest) {
+                    highest = matchCount;
                 }
             });
 
@@ -886,22 +728,17 @@ async function trainerStats() {
             const datasets = [];
             let z = 0;
 
-            trainerUniqueAmiibo.map(index => {
-                // Push rating history
-                const rating_history = index.rating_history.map(rating => rating);
-
-                // Get character name
-                all_characters.map(character => {
-                    if (character.id == index.character_id) {
-                        index.character_name = character.name;
-                    }
+            Object.values(all_matches_data).forEach(amiibo => {
+                const rating_history = [0]
+                Object.values(amiibo.matches).forEach(match => {
+                    rating_history.push(match.this_amiibo.rating);
                 });
 
                 // Create and push datasets
                 datasets.push({
-                    label: `${index.name} (${index.character_name})`,
+                    label: `${amiibo.name} (${all_characters[amiibo.character_id]})`,
                     data: rating_history,
-                    borderColor: `rgba(${Math.min(255, z * (255 / trainerUniqueAmiibo.length))}, ${Math.max(0, 255 - z * (255 / trainerUniqueAmiibo.length))}, 255, 1)`,
+                    borderColor: `rgba(${Math.min(255, z * (255 / Object.values(all_matches_data).length))}, ${Math.max(0, 255 - z * (255 / Object.values(all_matches_data).length))}, 255, 1)`,
                     fill: false,
                     borderWidth: 0.5,
                     pointRadius: 0.5,
@@ -910,8 +747,6 @@ async function trainerStats() {
 
                 z++;
             });
-
-            console.log(datasets);
 
             //Draw chart onto a canvas
             function RatingHistoryChart() {
@@ -963,59 +798,43 @@ async function trainerStats() {
 
 
 
-
         // TRAINER VS TRAINER MATCHUPS
         //---------------------------------------------------------------------------------------------------------------------------------------------------------
         function trainerMatchups() {
-
             // Get all unique trainers
-            const opponents = [];
-            all_matches_data.map(index => {
-                if (!opponents.some(opponent => opponent.trainer_id == index.winner_info.trainer_id) && trainerID != index.winner_info.trainer_id) {
-                    opponents.push({
-                        trainer_id: index.winner_info.trainer_id,
-                        trainer_name: index.winner_info.trainer_name,
-                        wins: 0,
-                        losses: 0
-                    });
-                }
-
-                if (!opponents.some(opponent => opponent.trainer_id == index.loser_info.trainer_id) && trainerID != index.loser_info.trainer_id) {
-                    opponents.push({
-                        trainer_id: index.loser_info.trainer_id,
-                        trainer_name: index.loser_info.trainer_name,
-                        wins: 0,
-                        losses: 0
-                    });
-                }
-            });
-
-            // Get wins and losses
-            opponents.map(opponent => {
-                all_matches_data.map(match => {
-                    if (opponent.trainer_id == match.winner_info.trainer_id) {
-                        opponent.losses++;
+            const opponents = {};
+            Object.values(all_matches_data).forEach(amiibo => {
+                Object.values(amiibo.matches).forEach(match => {
+                    if (!opponents[match.opponent.trainer_id]) {
+                        opponents[match.opponent.trainer_id] = {
+                            trainer_id: match.opponent.trainer_id,
+                            win: 0,
+                            loss: 0
+                        }
                     }
 
-                    if (opponent.trainer_id == match.loser_info.trainer_id) {
-                        opponent.wins++;
+                    if (match.this_amiibo.result == "win") {
+                        opponents[match.opponent.trainer_id].win++;
+                    }
+
+                    if (match.this_amiibo.result == "loss") {
+                        opponents[match.opponent.trainer_id].loss++;
                     }
                 });
             });
 
             // Sort the array based on the total of wins and losses
-            opponents.sort((a, b) => {
-                let totalA = a.wins + a.losses;
-                let totalB = b.wins + b.losses;
-                return totalB - totalA;
+            const sortedOpponents = Object.values(opponents).sort((a, b) => {
+                const totalA = a.win + a.loss;
+                const totalB = b.win + b.loss;
+
+                return totalB - totalA; // highest → lowest
             });
 
             // Calculate winrates
-            opponents.map(opponent => {
-                opponent.winrate = ((opponent.wins / (opponent.wins + opponent.losses)) * 100).toFixed(2);
+            sortedOpponents.map(opponent => {
+                opponent.winrate = ((opponent.win / (opponent.win + opponent.loss)) * 100).toFixed(2);
             });
-
-            console.log(opponents);
 
             const wins = [];
             const losses = [];
@@ -1024,24 +843,22 @@ async function trainerStats() {
             let graph_height_multiplier = 0;
 
             // Create data for the chart
-            if (opponents.length > 50) {
+            if (sortedOpponents.length > 50) {
                 for (let i = 0; i < 50; i++) {
-                    wins.push(opponents[i].wins);
-                    losses.push(opponents[i].losses);
-                    labels.push(`${opponents[i].trainer_name} (${opponents[i].winrate}%)`);
+                    wins.push(sortedOpponents[i].win);
+                    losses.push(sortedOpponents[i].loss);
+                    labels.push(`${allTrainerNames[sortedOpponents[i].trainer_id]} (${sortedOpponents[i].winrate}%)`);
                 }
                 graph_height_multiplier = 50;
 
             } else {
-                for (let i = 0; i < opponents.length; i++) {
-                    wins.push(opponents[i].wins);
-                    losses.push(opponents[i].losses);
-                    labels.push(`${opponents[i].trainer_name} (${opponents[i].winrate}%)`);
+                for (let i = 0; i < sortedOpponents.length; i++) {
+                    wins.push(sortedOpponents[i].wins);
+                    losses.push(sortedOpponents[i].losses);
+                    labels.push(`${sortedOpponents[i].trainer_name} (${sortedOpponents[i].winrate}%)`);
                 }
-                graph_height_multiplier = opponents.length;
+                graph_height_multiplier = sortedOpponents.length;
             }
-
-            console.log(labels);
 
             const graph_height = ((graph_height_multiplier * 20) + 200);
             document.getElementById('trainer_matchups').setAttribute("style", `height:${graph_height}px`);
@@ -1105,33 +922,32 @@ async function trainerStats() {
 
 
 
-
-
         // TRAINER VS CHARACTER MATCHUPS
         //---------------------------------------------------------------------------------------------------------------------------------------------------------
         function characterMatchups() {
-
             // Get all unique characters
             const opponents = [];
-            all_characters.map(character => {
+            Object.entries(all_characters).forEach(([id, name]) => {
                 opponents.push({
-                    character_id: character.id,
-                    character_name: character.name,
+                    character_id: id,
+                    character_name: name,
                     wins: 0,
                     losses: 0
                 });
             });
 
             // Get wins and losses
-            opponents.map(opponent => {
-                all_matches_data.map(match => {
-                    if (opponent.character_id == match.winner_info.character_id && trainerID != match.winner_info.trainer_id) {
-                        opponent.losses++;
-                    }
+            opponents.forEach(opponent => {
+                Object.values(all_matches_data).map(amiibo_data => {
+                    Object.values(amiibo_data.matches).map(match => {
+                        if (match.opponent.character_id == opponent.character_id && match.this_amiibo.result == "win") {
+                            opponent.wins++;
+                        }
+                        if (match.opponent.character_id == opponent.character_id && match.this_amiibo.result == "loss") {
+                            opponent.losses++;
+                        }
+                    });
 
-                    if (opponent.character_id == match.loser_info.character_id && trainerID != match.loser_info.trainer_id) {
-                        opponent.wins++;
-                    }
                 });
             });
 
@@ -1147,8 +963,6 @@ async function trainerStats() {
                 opponent.winrate = ((opponent.wins / (opponent.wins + opponent.losses)) * 100).toFixed(2);
             });
 
-            console.log(opponents);
-
             const wins = [];
             const losses = [];
             const labels = [];
@@ -1162,8 +976,6 @@ async function trainerStats() {
                 labels.push(`${opponents[i].character_name} (${opponents[i].winrate}%)`);
             }
             graph_height_multiplier = opponents.length;
-
-            console.log(labels);
 
             const graph_height = ((graph_height_multiplier * 20) + 200);
             document.getElementById('character_matchups').setAttribute("style", `height:${graph_height}px`);
@@ -1227,44 +1039,39 @@ async function trainerStats() {
 
 
 
-
-
         // TRAINER VS CHARACTER MATCHUPS
         //---------------------------------------------------------------------------------------------------------------------------------------------------------
         function amiiboMatchups() {
 
             // Get all unique trainers
             const opponents = [];
-            all_matches_data.map(index => {
-                if (!opponents.some(opponent => opponent.id == index.winner_info.id) && trainerID != index.winner_info.trainer_id) {
-                    opponents.push({
-                        id: index.winner_info.id,
-                        name: index.winner_info.name,
-                        wins: 0,
-                        losses: 0
-                    });
-                }
+            Object.values(all_matches_data).forEach(amiibo_data => {
+                Object.values(amiibo_data.matches).map(index => {
+                    if (!opponents.some(opponent => opponent.id == index.opponent.id)) {
+                        opponents.push({
+                            id: index.opponent.id,
+                            name: index.opponent.name,
+                            wins: 0,
+                            losses: 0
+                        });
+                    }
+                });
 
-                if (!opponents.some(opponent => opponent.id == index.loser_info.id) && trainerID != index.loser_info.trainer_id) {
-                    opponents.push({
-                        trainer_id: index.loser_info.id,
-                        trainer_name: index.loser_info.name,
-                        wins: 0,
-                        losses: 0
-                    });
-                }
             });
 
             // Get wins and losses
-            opponents.map(opponent => {
-                all_matches_data.map(match => {
-                    if (opponent.id == match.winner_info.id) {
-                        opponent.losses++;
-                    }
+            opponents.forEach(opponent => {
+                Object.values(all_matches_data).forEach(amiibo_data => {
+                    Object.values(amiibo_data.matches).map(match => {
+                        if (opponent.id == match.opponent.id && match.this_amiibo.result == "loss") {
+                            opponent.losses++;
+                        }
 
-                    if (opponent.id == match.loser_info.id) {
-                        opponent.wins++;
-                    }
+                        if (opponent.id == match.opponent.id && match.this_amiibo.result == "win") {
+                            opponent.wins++;
+                        }
+                    });
+
                 });
             });
 
@@ -1279,8 +1086,6 @@ async function trainerStats() {
             opponents.map(opponent => {
                 opponent.winrate = ((opponent.wins / (opponent.wins + opponent.losses)) * 100).toFixed(2);
             });
-
-            console.log(opponents);
 
             const wins = [];
             const losses = [];
@@ -1305,8 +1110,6 @@ async function trainerStats() {
                 }
                 graph_height_multiplier = opponents.length;
             }
-
-            console.log(labels);
 
             const graph_height = ((graph_height_multiplier * 20) + 200);
             document.getElementById('amiibo_matchups').setAttribute("style", `height:${graph_height}px`);
@@ -1370,113 +1173,38 @@ async function trainerStats() {
 
 
 
-
-
         // FULL MATCH HISTORY
         //---------------------------------------------------------------------------------------------------------------------------------------------------------
         function matchHistory() {
             console.log("Printing match history");
             // Sort match data for the match card
             const full_match_history = [];
-            for (let i = 0; i < all_matches_data.length; i++) {
 
-                if (trainerID == all_matches_data[i].fp1.trainer_id && trainerID == all_matches_data[i].winner_info.trainer_id) {
+            Object.values(all_matches_data).forEach(amiibo_data => {
+                Object.entries(amiibo_data.matches).forEach(([date, match]) => {
+                    let result = false
+                    if (match.this_amiibo.result == "win") { result = true }
                     full_match_history.push({
-                        'character_id': all_matches_data[i].fp2.character_id,
-                        'opponent_id': all_matches_data[i].fp2.id,
-                        'name': all_matches_data[i].fp2.name,
-                        'trainer_name': all_matches_data[i].fp2.trainer_name,
+                        'character_id': match.opponent.character_id,
+                        'opponent_id': match.opponent.id,
+                        'name': match.opponent.name,
+                        'trainer_name': match.opponent.trainer_name,
 
-                        'opponent_rating': all_matches_data[i].fp2.rating,
-                        'your_rating': all_matches_data[i].fp1.rating,
-                        'your_current_rating': all_matches_data[i].winner_info.rating,
-                        'rating_change': all_matches_data[i].winner_info.rating_change,
+                        'opponent_rating': match.opponent.rating,
+                        'your_rating': match.this_amiibo.rating,
+                        // 'your_current_rating': match.this_amiibo.rating,
+                        // 'rating_change': all_matches_data[i].winner_info.rating_change,
 
-                        'your_trainer_name': all_matches_data[i].fp1.trainer_name,
-                        'your_amiibo_name': all_matches_data[i].fp1.name,
-                        'your_character_id': all_matches_data[i].fp1.character_id,
+                        'your_trainer_name': amiibo_data.trainer_name,
+                        'your_amiibo_name': amiibo_data.name,
+                        'your_character_id': amiibo_data.character_id,
 
-                        'match_number': all_matches_data.length - i,
-                        'match_selection': all_matches_data[i].match_metadata.fp1_selection,
-                        'match_win': true
+                        // 'match_number': all_matches_data.length - i,
+                        // 'match_selection': all_matches_data[i].match_metadata.fp1_selection,
+                        'match_win': result
                     });
-                }
-
-                if (trainerID == all_matches_data[i].fp1.trainer_id && trainerID == all_matches_data[i].loser_info.trainer_id) {
-                    full_match_history.push({
-                        'character_id': all_matches_data[i].fp2.character_id,
-                        'opponent_id': all_matches_data[i].fp2.id,
-                        'name': all_matches_data[i].fp2.name,
-                        'trainer_name': all_matches_data[i].fp2.trainer_name,
-
-                        'opponent_rating': all_matches_data[i].fp2.rating,
-                        'your_rating': all_matches_data[i].fp1.rating,
-                        'your_current_rating': all_matches_data[i].loser_info.rating,
-                        'rating_change': all_matches_data[i].loser_info.rating_change,
-
-                        'your_trainer_name': all_matches_data[i].fp1.trainer_name,
-                        'your_amiibo_name': all_matches_data[i].fp1.name,
-                        'your_character_id': all_matches_data[i].fp1.character_id,
-
-                        'match_number': all_matches_data.length - i,
-                        'match_selection': all_matches_data[i].match_metadata.fp1_selection,
-                        'match_win': false
-                    });
-                }
-
-                if (trainerID == all_matches_data[i].fp2.trainer_id && trainerID == all_matches_data[i].winner_info.trainer_id) {
-                    full_match_history.push({
-                        'character_id': all_matches_data[i].fp1.character_id,
-                        'opponent_id': all_matches_data[i].fp1.id,
-                        'name': all_matches_data[i].fp1.name,
-                        'trainer_name': all_matches_data[i].fp1.trainer_name,
-
-                        'opponent_rating': all_matches_data[i].fp1.rating,
-                        'your_rating': all_matches_data[i].fp2.rating,
-                        'your_current_rating': all_matches_data[i].winner_info.rating,
-                        'rating_change': all_matches_data[i].winner_info.rating_change,
-
-                        'your_trainer_name': all_matches_data[i].fp2.trainer_name,
-                        'your_amiibo_name': all_matches_data[i].fp2.name,
-                        'your_character_id': all_matches_data[i].fp2.character_id,
-
-                        'match_number': all_matches_data.length - i,
-                        'match_selection': all_matches_data[i].match_metadata.fp2_selection,
-                        'match_win': true
-                    });
-                }
-
-                if (trainerID == all_matches_data[i].fp2.trainer_id && trainerID == all_matches_data[i].loser_info.trainer_id) {
-                    full_match_history.push({
-                        'character_id': all_matches_data[i].fp1.character_id,
-                        'opponent_id': all_matches_data[i].fp1.id,
-                        'name': all_matches_data[i].fp1.name,
-                        'trainer_name': all_matches_data[i].fp1.trainer_name,
-
-                        'opponent_rating': all_matches_data[i].fp1.rating,
-                        'your_rating': all_matches_data[i].fp2.rating,
-                        'your_current_rating': all_matches_data[i].loser_info.rating,
-                        'rating_change': all_matches_data[i].loser_info.rating_change,
-
-                        'your_trainer_name': all_matches_data[i].fp2.trainer_name,
-                        'your_amiibo_name': all_matches_data[i].fp2.name,
-                        'your_character_id': all_matches_data[i].fp2.character_id,
-
-                        'match_number': all_matches_data.length - i,
-                        'match_selection': all_matches_data[i].match_metadata.fp2_selection,
-                        'match_win': false
-                    });
-                }
-            }
-
-            // Add + sign to rating increases
-            for (let i = 0; i < full_match_history.length; i++) {
-                if (full_match_history[i].rating_change > 0) {
-                    full_match_history[i].rating_change = `+${full_match_history[i].rating_change.toFixed(2)}`;
-                } else {
-                    full_match_history[i].rating_change = full_match_history[i].rating_change.toFixed(2);
-                }
-            }
+                });
+            });
 
             // Fix any null values
             for (let i = 0; i < full_match_history.length; i++) {
@@ -1525,7 +1253,7 @@ async function trainerStats() {
 
                             <div class="list_stats">
                                 <h2>Rating:</h2>
-                                <h1>${full_match_history[i].your_current_rating.toFixed(2)}</h1>
+                                <h1>${full_match_history[i].your_rating.toFixed(2)}</h1>
                             </div>
 
                             <div class="list_stats_vs">
@@ -1553,17 +1281,15 @@ async function trainerStats() {
             list += "</div>";
             content.innerHTML = list;
         }
-        matchHistory();
+        // matchHistory();
 
         document.getElementById('status_trainer_data').innerText = 'Done';
         removeStatusTab();
     }
 
     await trainerRankStats();
-
+    await allMatchesStatistics();
 }
-
-
 
 
 
@@ -1572,8 +1298,6 @@ async function trainerStats() {
 async function clickListItem(id, ruleset_id) {
     window.open(`https://www.amiibots.com/leaderboard?characterId=${id}&rulesetId=${ruleset_id}`);
 };
-
-
 
 
 
