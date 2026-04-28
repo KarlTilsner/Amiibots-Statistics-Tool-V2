@@ -72,6 +72,40 @@
         "trainer_name": "techmode5",
         "result": "loss"
       }
+    },
+    "2026-03-06T08:43:01.621677+00:00": {
+      "this_amiibo": {
+        "rating": 12.34412211039865,
+        "rating_mu": 23.1049959113682,
+        "rating_sigma": 3.586957933656516,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
+        "id": "0f896764-b828-4b21-9d31-834c30098760",
+        "name": "Core Coach",
+        "rating": 21.97624812509177,
+        "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
+        "trainer_name": "RockMyRole",
+        "result": "win"
+      }
+    },
+    "2026-03-12T05:48:26.113833+00:00": {
+      "this_amiibo": {
+        "rating": 14.668635436568604,
+        "rating_mu": 24.501726340637546,
+        "rating_sigma": 3.2776969680229806,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "ccef9c37-7720-434b-9b95-e135b023dc4c",
+        "name": "TommyInnit",
+        "rating": 19.972356781202414,
+        "trainer_id": "fff1df31-fc68-4fba-8d11-7e4016df1268",
+        "trainer_name": "patspatch",
+        "result": "loss"
+      }
     }
   }
 }

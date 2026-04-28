@@ -735,6 +735,40 @@
         "trainer_name": "MiDe1",
         "result": "loss"
       }
+    },
+    "2026-02-20T02:36:02.828455+00:00": {
+      "this_amiibo": {
+        "rating": 39.50839548906602,
+        "rating_mu": 43.09757217719918,
+        "rating_sigma": 1.1963922293777207,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c170220c-ca18-40ef-93df-31a978f74fa9",
+        "name": "Cold Stone",
+        "rating": 42.141472081597996,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "win"
+      }
+    },
+    "2026-02-19T20:43:59.166937+00:00": {
+      "this_amiibo": {
+        "rating": 39.63704027617591,
+        "rating_mu": 43.26053423601447,
+        "rating_sigma": 1.2078313199461868,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "4ffd800b-dd94-4b05-83e1-98f3e8d3444d",
+        "name": "LooksRawr",
+        "rating": 41.8889471698037,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "loss"
+      }
     }
   }
 }

@@ -582,6 +582,40 @@
         "trainer_name": "smashssf2_ita",
         "result": "win"
       }
+    },
+    "2026-02-20T16:32:13.357391+00:00": {
+      "this_amiibo": {
+        "rating": 28.59357966820877,
+        "rating_mu": 32.639347068344776,
+        "rating_sigma": 1.3485891333786697,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "3ef9f557-dd0a-4a99-b801-734c2c550c05",
+        "name": "Alice",
+        "rating": 29.334503361771503,
+        "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
+        "trainer_name": "RockMyRole",
+        "result": "loss"
+      }
+    },
+    "2026-02-20T08:24:59.333893+00:00": {
+      "this_amiibo": {
+        "rating": 28.30813760190787,
+        "rating_mu": 32.41067871140853,
+        "rating_sigma": 1.3675137031668867,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "efa1b91f-7fe9-4585-802b-80ef50668be3",
+        "name": "Adachi",
+        "rating": 27.74365240200764,
+        "trainer_id": "400d6ab2-b7c2-481e-ae66-f0bb66631e3c",
+        "trainer_name": "saikr0w",
+        "result": "loss"
+      }
     }
   }
 }

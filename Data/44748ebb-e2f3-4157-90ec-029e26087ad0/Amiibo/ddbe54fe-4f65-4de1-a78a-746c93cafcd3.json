@@ -429,6 +429,57 @@
         "trainer_name": "1_1_hero_token",
         "result": "win"
       }
+    },
+    "2026-02-12T03:13:13.421948+00:00": {
+      "this_amiibo": {
+        "rating": 36.81611991901657,
+        "rating_mu": 41.47562726872456,
+        "rating_sigma": 1.5531691165693302,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "d17d047a-42b3-4ab5-9b34-abf47d7ea385",
+        "name": "XTC Albert",
+        "rating": 39.3289407994117,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "win"
+      }
+    },
+    "2026-02-12T23:11:26.328362+00:00": {
+      "this_amiibo": {
+        "rating": 37.225671644982434,
+        "rating_mu": 41.79509448059856,
+        "rating_sigma": 1.5231409452053737,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "d17d047a-42b3-4ab5-9b34-abf47d7ea385",
+        "name": "XTC Albert",
+        "rating": 39.11350753415564,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "loss"
+      }
+    },
+    "2026-02-19T06:01:19.474062+00:00": {
+      "this_amiibo": {
+        "rating": 37.667124930070756,
+        "rating_mu": 42.14675291713249,
+        "rating_sigma": 1.4932093290205788,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "35ab5569-f37d-49ce-b20f-0a300179e40c",
+        "name": "KevinOwens",
+        "rating": 40.43963053485542,
+        "trainer_id": "6fcd9113-8cc8-48cd-b29b-46b2ccb55f27",
+        "trainer_name": "traderwaver",
+        "result": "loss"
+      }
     }
   }
 }

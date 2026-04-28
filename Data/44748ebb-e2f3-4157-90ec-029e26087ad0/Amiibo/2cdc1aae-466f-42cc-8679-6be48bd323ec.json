@@ -1194,6 +1194,91 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2026-02-09T03:17:13.820697+00:00": {
+      "this_amiibo": {
+        "rating": 41.2878497337533,
+        "rating_mu": 44.34591486330467,
+        "rating_sigma": 1.0193550431837906,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
+        "id": "e567a908-0a1b-48bf-977f-4002acb4a77d",
+        "name": "No Fun Fun",
+        "rating": 38.690423703503654,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "win"
+      }
+    },
+    "2026-02-10T07:18:22.563521+00:00": {
+      "this_amiibo": {
+        "rating": 41.414292114109045,
+        "rating_mu": 44.45961462819866,
+        "rating_sigma": 1.015107504696538,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "975c5d8f-04a7-4d98-b8d6-36fd68ed4d9b",
+        "name": "The Dealer",
+        "rating": 35.3377673163914,
+        "trainer_id": "d7805111-3127-4140-80fc-a8788cbe9976",
+        "trainer_name": "techmode5",
+        "result": "loss"
+      }
+    },
+    "2026-02-11T15:36:41.919759+00:00": {
+      "this_amiibo": {
+        "rating": 41.54003928982365,
+        "rating_mu": 44.57038486584696,
+        "rating_sigma": 1.0101151920077698,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
+        "id": "b4f08ea4-16ea-429d-93a0-0877fbb9901c",
+        "name": "Dragonrot",
+        "rating": 40.32376147355792,
+        "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
+        "trainer_name": "CikadaKing",
+        "result": "loss"
+      }
+    },
+    "2026-03-05T06:11:43.695892+00:00": {
+      "this_amiibo": {
+        "rating": 41.41617734120772,
+        "rating_mu": 44.42892455674026,
+        "rating_sigma": 1.0042490718441808,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "4ffd800b-dd94-4b05-83e1-98f3e8d3444d",
+        "name": "LooksRawr",
+        "rating": 41.877295927409726,
+        "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+        "trainer_name": "sst_bearslayer",
+        "result": "win"
+      }
+    },
+    "2026-03-06T02:24:27.706721+00:00": {
+      "this_amiibo": {
+        "rating": 41.30513461325615,
+        "rating_mu": 44.30316263899927,
+        "rating_sigma": 0.9993426752477059,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "e4945cd7-b636-4c4a-904d-3666e163babb",
+        "name": "Minister",
+        "rating": 40.18637797831056,
+        "trainer_id": "d7805111-3127-4140-80fc-a8788cbe9976",
+        "trainer_name": "techmode5",
+        "result": "win"
+      }
     }
   }
 }

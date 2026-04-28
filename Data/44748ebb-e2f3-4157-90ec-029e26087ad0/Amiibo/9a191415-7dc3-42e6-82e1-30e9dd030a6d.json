@@ -2112,6 +2112,40 @@
         "trainer_name": "drsalt16",
         "result": "loss"
       }
+    },
+    "2026-02-25T02:06:19.649993+00:00": {
+      "this_amiibo": {
+        "rating": 28.42564569162961,
+        "rating_mu": 31.08836071214997,
+        "rating_sigma": 0.8875716735067859,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "904e1209-e74e-4585-b3f4-cd7e7fbdc617",
+        "name": "Megumi",
+        "rating": 30.81865765306916,
+        "trainer_id": "259c6c07-f590-4aba-8069-85a64f78c6f3",
+        "trainer_name": "massivmann",
+        "result": "win"
+      }
+    },
+    "2026-03-05T07:59:47.435434+00:00": {
+      "this_amiibo": {
+        "rating": 28.567218512948667,
+        "rating_mu": 31.221057560347155,
+        "rating_sigma": 0.8846130157994959,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9",
+        "id": "148062bc-d4fb-4baa-9f52-4b94ed396994",
+        "name": "Astraeus",
+        "rating": 30.368109027257688,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "loss"
+      }
     }
   }
 }

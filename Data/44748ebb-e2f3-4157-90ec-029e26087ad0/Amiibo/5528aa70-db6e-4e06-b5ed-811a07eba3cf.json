@@ -225,6 +225,40 @@
         "trainer_name": "RockMyRole",
         "result": "loss"
       }
+    },
+    "2026-03-01T04:24:29.262012+00:00": {
+      "this_amiibo": {
+        "rating": 6.853764855618949,
+        "rating_mu": 13.591650715474822,
+        "rating_sigma": 2.245961953285291,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "0cd37c59-6189-4b50-84f3-863bdf6265f7",
+        "name": "test1",
+        "rating": 13.39113794177936,
+        "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
+        "trainer_name": "rurpking22",
+        "result": "win"
+      }
+    },
+    "2026-03-11T10:44:03.773722+00:00": {
+      "this_amiibo": {
+        "rating": 6.60088412456859,
+        "rating_mu": 13.100659608184328,
+        "rating_sigma": 2.1665918278719127,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "0cd37c59-6189-4b50-84f3-863bdf6265f7",
+        "name": "test1",
+        "rating": 13.04292799964433,
+        "trainer_id": "78c43ad8-a6ad-4132-a9ff-7e156da1901e",
+        "trainer_name": "rurpking22",
+        "result": "win"
+      }
     }
   }
 }
