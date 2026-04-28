@@ -650,6 +650,57 @@
         "trainer_name": "bluerunner0",
         "result": "loss"
       }
+    },
+    "2026-03-15T10:11:36.629167+00:00": {
+      "this_amiibo": {
+        "rating": 27.45672675060063,
+        "rating_mu": 31.427251134698817,
+        "rating_sigma": 1.3235081280327294,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "8c4aaad4-8efc-4cd1-b003-4f36a7b95d06",
+        "name": "ExAid",
+        "rating": 29.21995518405387,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2026-03-18T02:26:47.063070+00:00": {
+      "this_amiibo": {
+        "rating": 27.732401463179837,
+        "rating_mu": 31.651084831174387,
+        "rating_sigma": 1.3062277893315168,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "d78914da-a05b-413d-a2f7-161be3b3296a",
+        "name": "Tatsu",
+        "rating": 28.73704855708931,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "loss"
+      }
+    },
+    "2026-04-02T07:44:00.173731+00:00": {
+      "this_amiibo": {
+        "rating": 27.993116577891243,
+        "rating_mu": 31.86303796321579,
+        "rating_sigma": 1.2899737951081822,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "42da19b1-8752-4dd9-b911-96494f4d3c29",
+        "name": "Fïné",
+        "rating": 28.740203342011306,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "loss"
+      }
     }
   }
 }

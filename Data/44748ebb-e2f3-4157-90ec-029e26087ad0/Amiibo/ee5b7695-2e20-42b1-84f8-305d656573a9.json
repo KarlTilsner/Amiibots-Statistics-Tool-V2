@@ -769,6 +769,40 @@
         "trainer_name": "track8regret",
         "result": "win"
       }
+    },
+    "2026-03-27T04:54:55.834857+00:00": {
+      "this_amiibo": {
+        "rating": 15.003187856882533,
+        "rating_mu": 18.898917368554194,
+        "rating_sigma": 1.2985765038905537,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "7895dca1-f85a-42da-95de-8eb6c8c11753",
+        "name": "dumbo",
+        "rating": 16.517521044322166,
+        "trainer_id": "55169433-4fc5-4de1-b484-ab7096cc92c6",
+        "trainer_name": "TheChispin",
+        "result": "win"
+      }
+    },
+    "2026-04-10T01:00:18.500907+00:00": {
+      "this_amiibo": {
+        "rating": 15.183946429461013,
+        "rating_mu": 19.05966416924997,
+        "rating_sigma": 1.2919059132629853,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3a80cdac-93bb-4a75-8e38-f69f37d10ec6",
+        "id": "9cae9e06-a75f-4d66-8c55-7f656b667f37",
+        "name": "Shart□",
+        "rating": 0.07059659561673293,
+        "trainer_id": "47259976-75b0-4806-96ff-af13ee9a7977",
+        "trainer_name": "Uyodai",
+        "result": "loss"
+      }
     }
   }
 }

@@ -15576,6 +15576,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2026-03-30T09:48:49.260089+00:00": {
+      "this_amiibo": {
+        "rating": 34.18252857397496,
+        "rating_mu": 36.632024416913275,
+        "rating_sigma": 0.8164986143127699,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "9fe6a07b-f5c5-4dcd-b10b-422de4213cca",
+        "name": "Marksman",
+        "rating": 26.914795545498315,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte356",
+        "result": "win"
+      }
+    },
+    "2026-04-17T09:32:22.091317+00:00": {
+      "this_amiibo": {
+        "rating": 34.271884448581254,
+        "rating_mu": 36.71955466251201,
+        "rating_sigma": 0.8158900713102528,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "fc773afa-9e38-49c9-8e89-b11fd704892d",
+        "name": "Hydrangea",
+        "rating": 33.98824613427146,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "BreezyWisp",
+        "result": "loss"
+      }
     }
   }
 }

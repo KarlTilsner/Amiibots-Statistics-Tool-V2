@@ -106,6 +106,40 @@
         "trainer_name": "SquallDBC",
         "result": "loss"
       }
+    },
+    "2026-03-18T02:44:40.490711+00:00": {
+      "this_amiibo": {
+        "rating": 31.974893932123074,
+        "rating_mu": 40.94897501222759,
+        "rating_sigma": 2.991360360034839,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "204fd27f-27ef-433c-8fda-2609e533c151",
+        "name": "Bradford",
+        "rating": 39.198996330594944,
+        "trainer_id": "7ae72c01-0479-4b54-8c47-7a7e7ed61902",
+        "trainer_name": "dittowog",
+        "result": "win"
+      }
+    },
+    "2026-03-30T16:04:14.779494+00:00": {
+      "this_amiibo": {
+        "rating": 33.277579998117105,
+        "rating_mu": 41.74011704238989,
+        "rating_sigma": 2.820845681424262,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "2a00936c-8b11-4819-9c30-b79b3da2f797",
+        "name": "Dee",
+        "rating": 35.89335575530363,
+        "trainer_id": "016f1e8d-7c98-4b0d-b846-adaacacaa0ec",
+        "trainer_name": "ianavenger",
+        "result": "loss"
+      }
     }
   }
 }

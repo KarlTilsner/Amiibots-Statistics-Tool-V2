@@ -1,7 +1,7 @@
 {
   "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
   "id": "17e26d95-071b-44cb-b187-ea74cff95332",
-  "name": "Πνεύμα",
+  "name": "80085",
   "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
   "trainer_name": "beta_dude",
   "matches": {
@@ -921,6 +921,57 @@
         "trainer_id": "0d645a11-0945-4d5d-ab52-ae7a8e5a43a3",
         "trainer_name": "greenmidoriverde",
         "result": "win"
+      }
+    },
+    "2026-03-18T10:16:59.178485+00:00": {
+      "this_amiibo": {
+        "rating": 34.285886946712445,
+        "rating_mu": 37.57718398354957,
+        "rating_sigma": 1.09709901227904,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "2db55a16-143a-4651-beac-eb1108f33bab",
+        "name": "Freyja",
+        "rating": 30.76672046227521,
+        "trainer_id": "490605ad-ad19-4406-9bbb-e988d0c03685",
+        "trainer_name": "Frandy0412",
+        "result": "win"
+      }
+    },
+    "2026-03-25T12:37:06.694316+00:00": {
+      "this_amiibo": {
+        "rating": 34.327074732967596,
+        "rating_mu": 37.57278810744491,
+        "rating_sigma": 1.0819044581591035,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "bf0aea28-382a-4a49-bec2-7eb06b56e573",
+        "name": "Arsenal",
+        "rating": 35.215232317044574,
+        "trainer_id": "3e2f0f90-d00d-455c-ad34-8009c3fd1f71",
+        "trainer_name": "BindyCot",
+        "result": "win"
+      }
+    },
+    "2026-03-25T06:34:30.524493+00:00": {
+      "this_amiibo": {
+        "rating": 34.45322259434329,
+        "rating_mu": 37.722673829187684,
+        "rating_sigma": 1.0898170782814651,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c",
+        "id": "28f7c55e-ba63-4d8b-8820-3a863eaa5c4d",
+        "name": "Apparition",
+        "rating": 30.904919394676355,
+        "trainer_id": "d7805111-3127-4140-80fc-a8788cbe9976",
+        "trainer_name": "techmode5",
+        "result": "loss"
       }
     }
   }

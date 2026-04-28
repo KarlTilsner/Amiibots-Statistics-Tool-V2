@@ -888,6 +888,40 @@
         "trainer_name": "iguanope",
         "result": "loss"
       }
+    },
+    "2026-03-26T08:16:05.362113+00:00": {
+      "this_amiibo": {
+        "rating": 27.66061698405617,
+        "rating_mu": 31.01361941755336,
+        "rating_sigma": 1.1176674778323967,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+        "id": "d3e0342c-6a0c-48ac-856a-3467f2eb4680",
+        "name": "Spectre",
+        "rating": 27.89800762846626,
+        "trainer_id": "6fcd9113-8cc8-48cd-b29b-46b2ccb55f27",
+        "trainer_name": "traderwaver",
+        "result": "win"
+      }
+    },
+    "2026-03-27T22:59:31.326377+00:00": {
+      "this_amiibo": {
+        "rating": 27.923235395967893,
+        "rating_mu": 31.243650619499896,
+        "rating_sigma": 1.1068050745106677,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "104fa75e-f46f-4413-9da0-4751144987e9",
+        "name": "Tonka!",
+        "rating": 31.031525992912513,
+        "trainer_id": "ed890131-078f-4922-833d-184e448e3e9f",
+        "trainer_name": "Cardinix",
+        "result": "loss"
+      }
     }
   }
 }

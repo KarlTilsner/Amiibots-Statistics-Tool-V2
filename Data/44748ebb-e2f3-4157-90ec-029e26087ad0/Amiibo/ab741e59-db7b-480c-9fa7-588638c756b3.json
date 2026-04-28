@@ -123,6 +123,40 @@
         "trainer_name": "kirbysinger",
         "result": "loss"
       }
+    },
+    "2026-03-14T11:52:09.747243+00:00": {
+      "this_amiibo": {
+        "rating": 18.58688406424145,
+        "rating_mu": 27.257446078881827,
+        "rating_sigma": 2.890187338213459,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "0b4647eb-c69f-4860-9d01-6e7e6f76a146",
+        "name": "Jeff",
+        "rating": 22.095249049408928,
+        "trainer_id": "3e2f0f90-d00d-455c-ad34-8009c3fd1f71",
+        "trainer_name": "BindyCot",
+        "result": "win"
+      }
+    },
+    "2026-04-08T00:15:25.720247+00:00": {
+      "this_amiibo": {
+        "rating": 20.296327569245115,
+        "rating_mu": 28.397275017408624,
+        "rating_sigma": 2.7003158160545033,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "fd264bc3-a141-400f-9e55-adabc783322d",
+        "id": "215f59f6-a215-467f-b969-1fe5c3dfe589",
+        "name": "mow",
+        "rating": 25.628036949660576,
+        "trainer_id": "d10a1a53-4977-4227-a545-40d116f5b796",
+        "trainer_name": "combine788",
+        "result": "loss"
+      }
     }
   }
 }
