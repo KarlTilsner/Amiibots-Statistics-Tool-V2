@@ -145,9 +145,8 @@ def main(ruleset):
     ruleset_id = ruleset
     data_to_store = []
 
-    for _ in range(50):  # Loop to fetch multiple pages of matches
-        print(f"Fetching {num_matches} matches: {_ + 1}/50")
-        start_fetching()
+    print(f"Fetching {num_matches} matches: {_ + 1}/1")
+    start_fetching()
 
     print(f"Reached {skipcounter} matches that have already been scraped.")
     print(f"Found {corruptcounter} corrupt matches")
