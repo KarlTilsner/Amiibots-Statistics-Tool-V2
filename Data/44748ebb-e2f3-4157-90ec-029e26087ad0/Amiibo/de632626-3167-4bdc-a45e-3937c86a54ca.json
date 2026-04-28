@@ -599,6 +599,74 @@
         "trainer_name": "rapjm14",
         "result": "loss"
       }
+    },
+    "2025-12-18T06:09:18.437829+00:00": {
+      "this_amiibo": {
+        "rating": 41.21446296548665,
+        "rating_mu": 45.224816484234175,
+        "rating_sigma": 1.3367845062491743,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "335dd78b-a494-4d00-84db-f9846d8d8c12",
+        "name": "Chess Rook",
+        "rating": 37.35355962722164,
+        "trainer_id": "d7805111-3127-4140-80fc-a8788cbe9976",
+        "trainer_name": "techmode5",
+        "result": "win"
+      }
+    },
+    "2025-12-20T19:06:19.493749+00:00": {
+      "this_amiibo": {
+        "rating": 41.478776478664884,
+        "rating_mu": 45.43826696051511,
+        "rating_sigma": 1.3198301606167424,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "b3d5d5be-aea3-4f06-a698-175e53eda74e",
+        "name": "Apple",
+        "rating": 40.83057119873721,
+        "trainer_id": "d7805111-3127-4140-80fc-a8788cbe9976",
+        "trainer_name": "techmode5",
+        "result": "loss"
+      }
+    },
+    "2025-12-26T04:04:50.587409+00:00": {
+      "this_amiibo": {
+        "rating": 41.780427608357435,
+        "rating_mu": 45.688835271059425,
+        "rating_sigma": 1.302802554233996,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "335dd78b-a494-4d00-84db-f9846d8d8c12",
+        "name": "Chess Rook",
+        "rating": 40.72444387655449,
+        "trainer_id": "d7805111-3127-4140-80fc-a8788cbe9976",
+        "trainer_name": "techmode5",
+        "result": "loss"
+      }
+    },
+    "2025-12-28T21:33:42.860540+00:00": {
+      "this_amiibo": {
+        "rating": 41.58443967738056,
+        "rating_mu": 45.44047185828917,
+        "rating_sigma": 1.2853440603028707,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c170220c-ca18-40ef-93df-31a978f74fa9",
+        "name": "Cold Stone",
+        "rating": 42.538148908848115,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "win"
+      }
     }
   }
 }
