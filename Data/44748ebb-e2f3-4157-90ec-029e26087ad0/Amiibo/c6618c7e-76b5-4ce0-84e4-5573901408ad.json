@@ -412,6 +412,40 @@
         "trainer_name": "netsyyy",
         "result": "loss"
       }
+    },
+    "2025-07-30T04:38:53.483694+00:00": {
+      "this_amiibo": {
+        "rating": 28.244677842316992,
+        "rating_mu": 32.99356888224948,
+        "rating_sigma": 1.5829636799774944,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "d7df8646-aff5-42cf-8a0e-a2508ecc8287",
+        "name": "Tilted",
+        "rating": 25.353763177382604,
+        "trainer_id": "c5656c48-9de7-4566-91a6-45c834e63cf9",
+        "trainer_name": "netsyyy",
+        "result": "win"
+      }
+    },
+    "2025-08-26T19:38:11.804212+00:00": {
+      "this_amiibo": {
+        "rating": 28.65254133893709,
+        "rating_mu": 33.30827585341001,
+        "rating_sigma": 1.5519115048243062,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7",
+        "id": "680ef185-6f69-44a5-98db-1f0d78405103",
+        "name": "4cGameTall",
+        "rating": 30.046116414914948,
+        "trainer_id": "559b97d3-faa3-4aa1-9697-8e87271c7b16",
+        "trainer_name": "ammoknight208",
+        "result": "loss"
+      }
     }
   }
 }

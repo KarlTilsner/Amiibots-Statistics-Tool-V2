@@ -429,6 +429,57 @@
         "trainer_name": "xmeepist",
         "result": "win"
       }
+    },
+    "2025-08-07T19:21:59.520444+00:00": {
+      "this_amiibo": {
+        "rating": -0.1389717744075245,
+        "rating_mu": 4.901967974351214,
+        "rating_sigma": 1.6803132495862463,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "d8570d5e-ef02-4835-9aaa-42497e9d5e7a",
+        "name": "Hero",
+        "rating": 4.812502853334841,
+        "trainer_id": "fcaf7e81-1d7f-4ce8-a121-d0e2f5b83b8a",
+        "trainer_name": "xmeepist",
+        "result": "win"
+      }
+    },
+    "2025-08-13T22:45:38.731892+00:00": {
+      "this_amiibo": {
+        "rating": 0.44651225488769164,
+        "rating_mu": 5.361540762206363,
+        "rating_sigma": 1.6383428357728904,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "d8570d5e-ef02-4835-9aaa-42497e9d5e7a",
+        "name": "Hero",
+        "rating": 4.174168144164265,
+        "trainer_id": "fcaf7e81-1d7f-4ce8-a121-d0e2f5b83b8a",
+        "trainer_name": "xmeepist",
+        "result": "loss"
+      }
+    },
+    "2025-08-18T21:33:46.170060+00:00": {
+      "this_amiibo": {
+        "rating": 0.2994094563333398,
+        "rating_mu": 5.128475056026104,
+        "rating_sigma": 1.6096885332309212,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7",
+        "id": "04cd5131-abf6-4213-9c1e-03e6f97a85ea",
+        "name": "Soarin'",
+        "rating": 5.602415226607395,
+        "trainer_id": "fcaf7e81-1d7f-4ce8-a121-d0e2f5b83b8a",
+        "trainer_name": "xmeepist",
+        "result": "win"
+      }
     }
   }
 }

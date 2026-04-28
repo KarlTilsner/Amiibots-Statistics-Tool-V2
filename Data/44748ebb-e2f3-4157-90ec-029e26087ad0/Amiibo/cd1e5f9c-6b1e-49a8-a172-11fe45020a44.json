@@ -1959,6 +1959,40 @@
         "trainer_name": "Salty_Smash_NB",
         "result": "loss"
       }
+    },
+    "2025-08-09T10:58:17.013636+00:00": {
+      "this_amiibo": {
+        "rating": 28.218020312367933,
+        "rating_mu": 30.928728862054427,
+        "rating_sigma": 0.9035695165621642,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "4b8172a3-a083-43f3-b90e-2eafddb99cbf",
+        "name": "Chompy",
+        "rating": 25.154239320744463,
+        "trainer_id": "36eb0a93-8620-44e0-8795-beb1c3061ca9",
+        "trainer_name": "Salty_Smash_NB",
+        "result": "win"
+      }
+    },
+    "2025-08-11T17:32:15.853449+00:00": {
+      "this_amiibo": {
+        "rating": 28.13356692756157,
+        "rating_mu": 30.841664846173455,
+        "rating_sigma": 0.9026993062039615,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+        "id": "f80fce6a-b268-4284-b633-047c8d7c4225",
+        "name": "El Perro",
+        "rating": 22.950564308709794,
+        "trainer_id": "3e2f0f90-d00d-455c-ad34-8009c3fd1f71",
+        "trainer_name": "BindyCot",
+        "result": "win"
+      }
     }
   }
 }
