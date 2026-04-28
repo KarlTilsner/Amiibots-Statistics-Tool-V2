@@ -1551,6 +1551,40 @@
         "trainer_name": "picvity",
         "result": "loss"
       }
+    },
+    "2026-01-11T21:59:17.140642+00:00": {
+      "this_amiibo": {
+        "rating": 30.93777902880478,
+        "rating_mu": 33.75371287916054,
+        "rating_sigma": 0.9386446167852529,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "41880667-0398-4d68-9278-f7d5e1fc878c",
+        "name": "Jon Hunter",
+        "rating": 29.558896649419662,
+        "trainer_id": "e09adf1e-56b7-4943-891c-141f18d440fc",
+        "trainer_name": "gold_dxj",
+        "result": "win"
+      }
+    },
+    "2026-02-03T12:20:59.122506+00:00": {
+      "this_amiibo": {
+        "rating": 31.063532049029877,
+        "rating_mu": 33.86866610213695,
+        "rating_sigma": 0.9350446843690242,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "390bdc72-c8f0-4940-8487-fdea68ff54a4",
+        "name": "water",
+        "rating": 30.988996658713642,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "loss"
+      }
     }
   }
 }

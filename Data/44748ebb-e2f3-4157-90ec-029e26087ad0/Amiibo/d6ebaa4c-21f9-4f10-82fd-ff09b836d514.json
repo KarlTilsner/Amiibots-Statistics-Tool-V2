@@ -752,6 +752,40 @@
         "trainer_name": "1_1_hero_token",
         "result": "loss"
       }
+    },
+    "2026-01-30T12:13:13.151444+00:00": {
+      "this_amiibo": {
+        "rating": 36.98676318064639,
+        "rating_mu": 40.584635386204944,
+        "rating_sigma": 1.1992907351861837,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "0a2cdd4c-4d5c-4554-85d3-fc30d55deced",
+        "name": "Guardian",
+        "rating": 37.21297987472668,
+        "trainer_id": "2b57d49d-984b-4875-8542-795b943d18ec",
+        "trainer_name": "royalldarkness",
+        "result": "loss"
+      }
+    },
+    "2026-02-02T05:39:46.163149+00:00": {
+      "this_amiibo": {
+        "rating": 37.154759692585834,
+        "rating_mu": 40.72271486388796,
+        "rating_sigma": 1.189318390434041,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "2de0dbb0-3e0f-4a0f-a699-41ab71ff560e",
+        "name": "Claude",
+        "rating": 34.940121517360446,
+        "trainer_id": "f1f1bf34-1c1e-489a-a249-eb0d996af8a8",
+        "trainer_name": "Lime_Charlie",
+        "result": "loss"
+      }
     }
   }
 }

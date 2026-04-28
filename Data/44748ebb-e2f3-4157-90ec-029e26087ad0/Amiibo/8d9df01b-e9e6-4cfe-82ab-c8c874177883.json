@@ -2231,6 +2231,40 @@
         "trainer_name": "redoctane0217",
         "result": "loss"
       }
+    },
+    "2026-01-10T11:15:55.613009+00:00": {
+      "this_amiibo": {
+        "rating": 41.815372103557955,
+        "rating_mu": 44.3587836174889,
+        "rating_sigma": 0.8478038379769834,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c170220c-ca18-40ef-93df-31a978f74fa9",
+        "name": "Cold Stone",
+        "rating": 42.452755911059114,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "win"
+      }
+    },
+    "2026-01-15T03:23:41.612086+00:00": {
+      "this_amiibo": {
+        "rating": 41.92527227567754,
+        "rating_mu": 44.463922210973564,
+        "rating_sigma": 0.8462166450986726,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c170220c-ca18-40ef-93df-31a978f74fa9",
+        "name": "Cold Stone",
+        "rating": 42.52947631887311,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "loss"
+      }
     }
   }
 }

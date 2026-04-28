@@ -3166,6 +3166,40 @@
         "trainer_name": "super_lucky_ducks",
         "result": "loss"
       }
+    },
+    "2026-01-23T19:28:55.764700+00:00": {
+      "this_amiibo": {
+        "rating": 13.069657096794034,
+        "rating_mu": 15.636163609903164,
+        "rating_sigma": 0.8555021710363769,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "c6eef380-23a2-4836-9168-2824a9b27130",
+        "name": "MY BOY",
+        "rating": 14.505611368293614,
+        "trainer_id": "d98ac797-6c24-4459-8490-47c0330452c4",
+        "trainer_name": "agentlittleturd",
+        "result": "win"
+      }
+    },
+    "2026-01-24T17:18:40.229826+00:00": {
+      "this_amiibo": {
+        "rating": 13.137103006077334,
+        "rating_mu": 15.704036171534735,
+        "rating_sigma": 0.8556443884858004,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "fb65d90d-0af6-45ea-819e-9a1a7e42d1e3",
+        "name": "ChatGPT",
+        "rating": 3.4463128330425175,
+        "trainer_id": "45006141-8a2e-4c73-aa74-cf10730d8cfe",
+        "trainer_name": "wow782",
+        "result": "loss"
+      }
     }
   }
 }

@@ -1517,6 +1517,40 @@
         "trainer_name": "carbon_show",
         "result": "win"
       }
+    },
+    "2026-01-07T23:37:03.828256+00:00": {
+      "this_amiibo": {
+        "rating": 21.817876601412298,
+        "rating_mu": 24.814202745017994,
+        "rating_sigma": 0.9987753812018983,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "35b47e86-2346-486b-ae2d-8b2345aa1c23",
+        "name": "Mile High",
+        "rating": 24.158724680648678,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "loss"
+      }
+    },
+    "2026-01-09T15:12:22.804372+00:00": {
+      "this_amiibo": {
+        "rating": 21.764186029322012,
+        "rating_mu": 24.753139410959054,
+        "rating_sigma": 0.9963177938790139,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3c6e1beb-0d2a-4387-adad-fa833bf6e3fd",
+        "id": "beb3a3d1-230f-4936-bec8-f9ba1e4e2265",
+        "name": "Cecilia",
+        "rating": 26.999751468620993,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
     }
   }
 }

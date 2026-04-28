@@ -1126,6 +1126,40 @@
         "trainer_name": "beta_dude",
         "result": "loss"
       }
+    },
+    "2026-01-17T03:32:29.470299+00:00": {
+      "this_amiibo": {
+        "rating": 38.64813302675933,
+        "rating_mu": 41.741017621874974,
+        "rating_sigma": 1.0309615317052143,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e8962383-ad1a-49ea-ab7a-2c2bf6aabfc1",
+        "id": "b4f08ea4-16ea-429d-93a0-0877fbb9901c",
+        "name": "Dragonrot",
+        "rating": 40.122149326896555,
+        "trainer_id": "dd231100-5e28-459e-8c7a-d2ce4b9b21f8",
+        "trainer_name": "CikadaKing",
+        "result": "win"
+      }
+    },
+    "2026-02-05T23:40:11.393897+00:00": {
+      "this_amiibo": {
+        "rating": 38.80703160780565,
+        "rating_mu": 41.88099971447122,
+        "rating_sigma": 1.0246560355551906,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "d17d047a-42b3-4ab5-9b34-abf47d7ea385",
+        "name": "XTC Albert",
+        "rating": 39.167902151404135,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "loss"
+      }
     }
   }
 }

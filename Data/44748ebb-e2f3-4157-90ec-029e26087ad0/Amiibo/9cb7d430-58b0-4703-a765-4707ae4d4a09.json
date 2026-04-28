@@ -191,6 +191,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2026-01-09T11:04:43.258920+00:00": {
+      "this_amiibo": {
+        "rating": 25.151123462382316,
+        "rating_mu": 32.34633066065218,
+        "rating_sigma": 2.3984023994232873,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "a844f05d-7976-489c-a3a5-ae2a0584d537",
+        "name": "Meeble",
+        "rating": 28.534813717866196,
+        "trainer_id": "95291e4b-31f0-4572-b233-457df5bc1a82",
+        "trainer_name": "1_1_hero_token",
+        "result": "win"
+      }
+    },
+    "2026-01-10T06:21:46.929109+00:00": {
+      "this_amiibo": {
+        "rating": 24.816492880459318,
+        "rating_mu": 31.71358446907622,
+        "rating_sigma": 2.2990305295389675,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d4c8535-fc65-4ebd-9c13-4a96ecd3e94d",
+        "id": "41880667-0398-4d68-9278-f7d5e1fc878c",
+        "name": "Jon Hunter",
+        "rating": 29.222312739552077,
+        "trainer_id": "e09adf1e-56b7-4943-891c-141f18d440fc",
+        "trainer_name": "gold_dxj",
+        "result": "win"
+      }
     }
   }
 }

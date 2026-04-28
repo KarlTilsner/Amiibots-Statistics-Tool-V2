@@ -3846,6 +3846,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2026-01-29T17:43:52.681453+00:00": {
+      "this_amiibo": {
+        "rating": 33.704668814853726,
+        "rating_mu": 36.13758334919651,
+        "rating_sigma": 0.810971511447596,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "fe7788e8-2af9-4cd2-ba90-f09fe4f59f15",
+        "name": "Aerosmith",
+        "rating": 33.849804987772416,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "win"
+      }
+    },
+    "2026-02-04T18:59:09.846807+00:00": {
+      "this_amiibo": {
+        "rating": 33.7976773338062,
+        "rating_mu": 36.22881670270419,
+        "rating_sigma": 0.8103797896326618,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "1da23337-0bb6-4ba3-b4d6-ea4955e52444",
+        "name": "Eir",
+        "rating": 33.811156839303486,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "loss"
+      }
     }
   }
 }
