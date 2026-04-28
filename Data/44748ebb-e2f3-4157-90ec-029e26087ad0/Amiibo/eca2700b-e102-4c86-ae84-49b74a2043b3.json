@@ -1,7 +1,7 @@
 {
   "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
   "id": "eca2700b-e102-4c86-ae84-49b74a2043b3",
-  "name": "Old Man",
+  "name": "Blackjack",
   "trainer_id": "45006141-8a2e-4c73-aa74-cf10730d8cfe",
   "trainer_name": "wow782",
   "matches": {
@@ -88,6 +88,23 @@
         "trainer_id": "d7f44591-9713-4c95-b840-3607f6a73d24",
         "trainer_name": "luckman21",
         "result": "loss"
+      }
+    },
+    "2026-04-20T03:20:53.189522+00:00": {
+      "this_amiibo": {
+        "rating": 9.93317852443718,
+        "rating_mu": 21.000404628118943,
+        "rating_sigma": 3.689075367893921,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "7ade7add-f952-442a-9a0a-c2f5ecc15108",
+        "name": "KARMA",
+        "rating": 19.834257950747148,
+        "trainer_id": "774d305c-b943-408d-8e37-946694dd7b3e",
+        "trainer_name": "lil_buck1",
+        "result": "win"
       }
     }
   }

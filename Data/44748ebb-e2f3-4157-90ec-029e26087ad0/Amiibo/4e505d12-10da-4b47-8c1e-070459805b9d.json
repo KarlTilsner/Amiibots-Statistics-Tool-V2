@@ -429,6 +429,40 @@
         "trainer_name": "Uyodai",
         "result": "loss"
       }
+    },
+    "2026-04-25T22:06:53.273155+00:00": {
+      "this_amiibo": {
+        "rating": 1.2555728208641064,
+        "rating_mu": 5.978665868774682,
+        "rating_sigma": 1.5743643493035253,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "50b266cf-f420-49fd-9736-8219deb78f66",
+        "name": "Tony Tiger",
+        "rating": -0.9588244737601972,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "win"
+      }
+    },
+    "2026-04-25T10:16:29.566014+00:00": {
+      "this_amiibo": {
+        "rating": 1.5620730550474802,
+        "rating_mu": 6.385362612070915,
+        "rating_sigma": 1.607763185674478,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
+        "id": "a3ff6b33-c455-4499-9284-6fe84e4e2b40",
+        "name": "Lullaby□",
+        "rating": -2.226299882633242,
+        "trainer_id": "47259976-75b0-4806-96ff-af13ee9a7977",
+        "trainer_name": "Uyodai",
+        "result": "loss"
+      }
     }
   }
 }

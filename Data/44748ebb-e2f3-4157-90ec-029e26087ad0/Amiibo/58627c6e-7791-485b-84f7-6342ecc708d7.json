@@ -2554,6 +2554,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2026-04-24T12:08:34.971456+00:00": {
+      "this_amiibo": {
+        "rating": 29.413774075225323,
+        "rating_mu": 31.915136777414233,
+        "rating_sigma": 0.8337875673963031,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "4095f1a6-f2ce-4428-8861-4bb05808a06d",
+        "name": "Alakazam",
+        "rating": 25.073462105800107,
+        "trainer_id": "8b58def7-f142-4a59-b1d1-322b89f76a74",
+        "trainer_name": "ja9k_was_taken",
+        "result": "win"
+      }
+    },
+    "2026-04-27T03:03:34.123898+00:00": {
+      "this_amiibo": {
+        "rating": 29.502479809595286,
+        "rating_mu": 32.00122003551937,
+        "rating_sigma": 0.8329134086413604,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "d78914da-a05b-413d-a2f7-161be3b3296a",
+        "name": "Tatsu",
+        "rating": 28.855588070935166,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "loss"
+      }
     }
   }
 }

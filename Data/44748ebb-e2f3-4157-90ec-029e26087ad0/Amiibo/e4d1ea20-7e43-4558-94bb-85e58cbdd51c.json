@@ -1313,6 +1313,40 @@
         "trainer_name": "commicallylargetophat",
         "result": "loss"
       }
+    },
+    "2026-04-18T03:01:03.648031+00:00": {
+      "this_amiibo": {
+        "rating": 21.135623797391315,
+        "rating_mu": 24.108843305963674,
+        "rating_sigma": 0.9910731695241195,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "8ba060b4-6c0b-4d12-af6b-62c8cdcc3ca2",
+        "name": "↑↑↓↓←→←→BA",
+        "rating": 22.232254678766797,
+        "trainer_id": "6bce0734-9060-43d2-8db3-673554eeb60c",
+        "trainer_name": "ven_1234",
+        "result": "win"
+      }
+    },
+    "2026-04-23T08:12:04.737124+00:00": {
+      "this_amiibo": {
+        "rating": 21.294176203921435,
+        "rating_mu": 24.252132697659096,
+        "rating_sigma": 0.9859854979125541,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "9d10feee-7335-46f6-8521-50c77dfc5e95",
+        "name": "Fang",
+        "rating": 19.782332267034526,
+        "trainer_id": "4d675008-f2a3-4447-a6e3-7f72ab475382",
+        "trainer_name": "ghtoten",
+        "result": "loss"
+      }
     }
   }
 }

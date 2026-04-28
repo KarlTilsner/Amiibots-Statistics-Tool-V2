@@ -157,6 +157,40 @@
         "trainer_name": "Cardinix",
         "result": "loss"
       }
+    },
+    "2026-04-21T22:01:56.114222+00:00": {
+      "this_amiibo": {
+        "rating": 22.290368390734926,
+        "rating_mu": 29.774360169158523,
+        "rating_sigma": 2.4946639261412,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "c32a1e52-b3ee-43e2-9654-133107c7e534",
+        "name": "/j",
+        "rating": 25.967070303278557,
+        "trainer_id": "1dbad9b6-c3fe-42c6-958e-e4bf6e70f9f0",
+        "trainer_name": "Bunswe",
+        "result": "win"
+      }
+    },
+    "2026-04-25T19:47:00.876796+00:00": {
+      "this_amiibo": {
+        "rating": 23.83774017632633,
+        "rating_mu": 30.900919383612127,
+        "rating_sigma": 2.3543930690952655,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "d73076c0-cb84-4887-977c-285353bbdfec",
+        "name": "Lobotomy",
+        "rating": 30.624463183076614,
+        "trainer_id": "3fae9fa9-ab8c-4d57-b705-2b88e9d7aed7",
+        "trainer_name": "burnt_cumpy",
+        "result": "loss"
+      }
     }
   }
 }

@@ -2112,6 +2112,57 @@
         "trainer_name": "improv_195",
         "result": "loss"
       }
+    },
+    "2026-04-18T16:39:40.202659+00:00": {
+      "this_amiibo": {
+        "rating": 23.167859410976085,
+        "rating_mu": 25.88438052749138,
+        "rating_sigma": 0.9055070388384319,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "dee80a64-c642-4b7c-ac62-a9c3e43bcba9",
+        "name": "Geats",
+        "rating": 22.371382712458576,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2026-04-21T11:51:04.252790+00:00": {
+      "this_amiibo": {
+        "rating": 23.25204963829283,
+        "rating_mu": 25.967142384415048,
+        "rating_sigma": 0.9050309153740728,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3e8519a2-faa6-4bcc-98b9-bff3ac95b504",
+        "id": "a1f4f3c3-1a4f-40e6-ae71-85f4c87b71fc",
+        "name": "NightWing",
+        "rating": 11.91965357986378,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte356",
+        "result": "loss"
+      }
+    },
+    "2026-04-26T00:52:53.762471+00:00": {
+      "this_amiibo": {
+        "rating": 23.198411027746552,
+        "rating_mu": 25.917395080191795,
+        "rating_sigma": 0.9063280174817481,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+        "id": "311b58e7-927a-4e57-b3a2-ec1eb61015d7",
+        "name": "Baphomet",
+        "rating": 16.029982364199896,
+        "trainer_id": "3e2f0f90-d00d-455c-ad34-8009c3fd1f71",
+        "trainer_name": "BindyCot",
+        "result": "win"
+      }
     }
   }
 }
