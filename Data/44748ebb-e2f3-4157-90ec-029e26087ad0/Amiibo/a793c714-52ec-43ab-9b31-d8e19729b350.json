@@ -531,6 +531,57 @@
         "trainer_name": "sodium_c3",
         "result": "loss"
       }
+    },
+    "2025-09-08T07:17:44.510507+00:00": {
+      "this_amiibo": {
+        "rating": 20.982558215564097,
+        "rating_mu": 25.83806373753165,
+        "rating_sigma": 1.6185018406558511,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+        "id": "46bc58eb-8e06-485b-bbd3-7ca4e0ac43d3",
+        "name": "Ruby",
+        "rating": 7.69307520457968,
+        "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
+        "trainer_name": "RockMyRole",
+        "result": "loss"
+      }
+    },
+    "2025-09-18T03:52:02.468339+00:00": {
+      "this_amiibo": {
+        "rating": 20.799296363550855,
+        "rating_mu": 25.621981068925038,
+        "rating_sigma": 1.6075615684580606,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "9f065246-28ce-47f1-b379-ad964c02bc3e",
+        "name": "GraveStone",
+        "rating": 11.75964167808825,
+        "trainer_id": "d7805111-3127-4140-80fc-a8788cbe9976",
+        "trainer_name": "techmode5",
+        "result": "win"
+      }
+    },
+    "2025-09-30T21:16:58.726465+00:00": {
+      "this_amiibo": {
+        "rating": 20.62123641014485,
+        "rating_mu": 25.412181224108497,
+        "rating_sigma": 1.5969816046545493,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b89763e0-222e-472b-a5f8-2de3dba550a7",
+        "id": "1451ddb1-b8e8-48a6-8c8d-81a3e7c3aa1b",
+        "name": "Champion",
+        "rating": 11.624351606817005,
+        "trainer_id": "de92b06b-dab2-4ae0-8d3c-87d86aabf074",
+        "trainer_name": "Planetarrr",
+        "result": "win"
+      }
     }
   }
 }

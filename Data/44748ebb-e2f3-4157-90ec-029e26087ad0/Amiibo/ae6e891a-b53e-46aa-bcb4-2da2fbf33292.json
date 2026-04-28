@@ -463,6 +463,57 @@
         "trainer_name": "xmeepist",
         "result": "loss"
       }
+    },
+    "2025-09-14T01:58:12.206918+00:00": {
+      "this_amiibo": {
+        "rating": 10.923258596895076,
+        "rating_mu": 15.674536435669937,
+        "rating_sigma": 1.5837592795916204,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "0fc635b7-7033-42ed-8820-3b1d8784afef",
+        "name": "Rat",
+        "rating": 12.193854640952688,
+        "trainer_id": "eedc6f7c-3a3b-4174-b8be-8c236ae98236",
+        "trainer_name": "Pawmow",
+        "result": "win"
+      }
+    },
+    "2025-09-24T13:50:22.887331+00:00": {
+      "this_amiibo": {
+        "rating": 10.768282259082756,
+        "rating_mu": 15.439454805536664,
+        "rating_sigma": 1.5570575154846358,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "d123f600-1d8e-4976-bff2-9abe151ca49f",
+        "name": "Loogy",
+        "rating": 15.177823520601708,
+        "trainer_id": "45ce6d4d-fb0e-434c-817d-96a98bf2c35d",
+        "trainer_name": "petrosasteraki",
+        "result": "win"
+      }
+    },
+    "2025-09-27T06:24:11.691751+00:00": {
+      "this_amiibo": {
+        "rating": 11.286930314928306,
+        "rating_mu": 15.858999048682861,
+        "rating_sigma": 1.524022911251519,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "0fc635b7-7033-42ed-8820-3b1d8784afef",
+        "name": "Rat",
+        "rating": 13.71963213485649,
+        "trainer_id": "eedc6f7c-3a3b-4174-b8be-8c236ae98236",
+        "trainer_name": "Pawmow",
+        "result": "loss"
+      }
     }
   }
 }

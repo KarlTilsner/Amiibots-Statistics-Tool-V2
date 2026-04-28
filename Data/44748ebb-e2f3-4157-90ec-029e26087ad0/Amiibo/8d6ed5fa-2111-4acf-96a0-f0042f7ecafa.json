@@ -667,6 +667,57 @@
         "trainer_name": "massivmann",
         "result": "loss"
       }
+    },
+    "2025-09-06T10:29:21.021333+00:00": {
+      "this_amiibo": {
+        "rating": 32.94137296906479,
+        "rating_mu": 36.75555916295262,
+        "rating_sigma": 1.2713953979626107,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "fc773afa-9e38-49c9-8e89-b11fd704892d",
+        "name": "Hydrangea",
+        "rating": 34.85703735403759,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2025-09-11T13:35:46.080602+00:00": {
+      "this_amiibo": {
+        "rating": 33.235680062590525,
+        "rating_mu": 37.00117990494405,
+        "rating_sigma": 1.2551666141178417,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "fc773afa-9e38-49c9-8e89-b11fd704892d",
+        "name": "Hydrangea",
+        "rating": 35.12281253847705,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "loss"
+      }
+    },
+    "2025-09-20T17:59:02.947065+00:00": {
+      "this_amiibo": {
+        "rating": 33.07594567643328,
+        "rating_mu": 36.79848004192858,
+        "rating_sigma": 1.2408447884984322,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "18f50b51-9760-4f59-954a-809a13386b84",
+        "name": "Kouga",
+        "rating": 34.87717145903262,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
     }
   }
 }

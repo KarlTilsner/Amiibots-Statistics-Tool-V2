@@ -786,6 +786,40 @@
         "trainer_name": "rapjm14",
         "result": "loss"
       }
+    },
+    "2025-09-15T21:14:06.114167+00:00": {
+      "this_amiibo": {
+        "rating": 38.49308673954228,
+        "rating_mu": 42.0856840886771,
+        "rating_sigma": 1.1975324497116067,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "3d42c462-1e33-495c-88a6-3a3bde1fed93",
+        "name": "Jace",
+        "rating": 40.494561339022376,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jozz024",
+        "result": "win"
+      }
+    },
+    "2025-10-01T14:55:55.551925+00:00": {
+      "this_amiibo": {
+        "rating": 38.73680696317141,
+        "rating_mu": 42.29137288388356,
+        "rating_sigma": 1.1848553069040504,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "42429425-2844-427c-a30a-6c6d00a5b548",
+        "name": "Veldora",
+        "rating": 40.17607800899731,
+        "trainer_id": "eb3aad9b-b89f-4b96-8e69-1aeef7477028",
+        "trainer_name": "RGBarrios",
+        "result": "loss"
+      }
     }
   }
 }
