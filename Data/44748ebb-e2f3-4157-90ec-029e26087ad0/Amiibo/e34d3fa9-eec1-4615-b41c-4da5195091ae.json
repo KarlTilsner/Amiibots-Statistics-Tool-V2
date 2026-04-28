@@ -72,6 +72,57 @@
         "trainer_name": "smashssf2_ita",
         "result": "loss"
       }
+    },
+    "2025-11-05T00:19:14.051945+00:00": {
+      "this_amiibo": {
+        "rating": 20.250682009053314,
+        "rating_mu": 30.79442134581232,
+        "rating_sigma": 3.514579778919668,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "2bac8afc-78b8-4b97-9965-111e3c5e5df4",
+        "name": "your mom",
+        "rating": 29.306452017643004,
+        "trainer_id": "acf5ba5f-23f9-471b-a1c7-ba5119b73cdc",
+        "trainer_name": "SirXyonder",
+        "result": "win"
+      }
+    },
+    "2025-11-06T13:09:41.608522+00:00": {
+      "this_amiibo": {
+        "rating": 22.47456141403522,
+        "rating_mu": 32.13857497557305,
+        "rating_sigma": 3.221337853845942,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "4f69a03f-7120-4424-8c7a-7e7c888018c9",
+        "name": "Mister Rat",
+        "rating": 27.665068357759168,
+        "trainer_id": "71eb3456-8f8a-4723-879b-57439190b086",
+        "trainer_name": "snevy_ssb",
+        "result": "loss"
+      }
+    },
+    "2025-11-30T16:03:11.503538+00:00": {
+      "this_amiibo": {
+        "rating": 24.375122934371355,
+        "rating_mu": 33.32728625596124,
+        "rating_sigma": 2.9840544405299623,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "cb77c762-8806-443a-b7ba-fb57440d6e9b",
+        "name": "Genshin",
+        "rating": 29.293645952704154,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "loss"
+      }
     }
   }
 }

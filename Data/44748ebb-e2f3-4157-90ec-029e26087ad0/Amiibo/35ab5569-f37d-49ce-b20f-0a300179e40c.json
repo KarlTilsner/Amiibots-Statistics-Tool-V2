@@ -2877,6 +2877,57 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2025-11-16T15:35:33.181188+00:00": {
+      "this_amiibo": {
+        "rating": 40.46472644500076,
+        "rating_mu": 42.93950407671357,
+        "rating_sigma": 0.8249258772376037,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "0b2cdcb0-e0b6-4f1d-893e-cc5361f8009d",
+        "name": "Luna",
+        "rating": 42.0668900588579,
+        "trainer_id": "68d166a5-c256-4482-b7ba-fce46a9b9a24",
+        "trainer_name": "itsecho14",
+        "result": "win"
+      }
+    },
+    "2025-11-16T08:01:53.268461+00:00": {
+      "this_amiibo": {
+        "rating": 40.530776392896165,
+        "rating_mu": 43.00587124018686,
+        "rating_sigma": 0.8250316157635671,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "599edd14-687c-4264-812e-bc246f562f31",
+        "id": "928c689a-8f21-428d-8a75-c693e775fa60",
+        "name": "Three Pac",
+        "rating": 33.040346444615,
+        "trainer_id": "8e7a7b23-d3d2-49e6-9b0c-dcb86ce95cf2",
+        "trainer_name": "Crunchy567",
+        "result": "loss"
+      }
+    },
+    "2025-11-28T11:10:58.872787+00:00": {
+      "this_amiibo": {
+        "rating": 40.54064178311611,
+        "rating_mu": 43.014196853969075,
+        "rating_sigma": 0.8245183569509892,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "aad00eed-3102-40d8-85be-b060f911ec8c",
+        "name": "Super NES",
+        "rating": 39.00066758841987,
+        "trainer_id": "345febd3-6433-4ed8-addb-b0ead57bf565",
+        "trainer_name": "ethanexion",
+        "result": "loss"
+      }
     }
   }
 }

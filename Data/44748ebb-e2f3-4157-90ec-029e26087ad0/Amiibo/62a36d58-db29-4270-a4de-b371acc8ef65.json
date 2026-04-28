@@ -820,6 +820,40 @@
         "trainer_name": "flounder_ssbu",
         "result": "loss"
       }
+    },
+    "2025-11-05T02:28:06.292177+00:00": {
+      "this_amiibo": {
+        "rating": 20.17131568346263,
+        "rating_mu": 23.85246877371259,
+        "rating_sigma": 1.2270510300833206,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "5e089717-e0ff-46aa-ba9f-caf406763e56",
+        "name": "Nemona",
+        "rating": 14.057629447582677,
+        "trainer_id": "e8358aff-7791-4753-acec-a1b705fa1b0c",
+        "trainer_name": "HolyWarsEnd2",
+        "result": "win"
+      }
+    },
+    "2025-11-25T08:30:21.159998+00:00": {
+      "this_amiibo": {
+        "rating": 20.410913056763782,
+        "rating_mu": 24.056243551149105,
+        "rating_sigma": 1.2151101647951081,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "8f1bce92-e223-42ec-aeb7-3e6e71357f62",
+        "name": "Dentist",
+        "rating": 17.034717208911225,
+        "trainer_id": "20fcb5ec-82d7-4741-8b3e-5d94919b13e0",
+        "trainer_name": "ZestZauce",
+        "result": "loss"
+      }
     }
   }
 }
