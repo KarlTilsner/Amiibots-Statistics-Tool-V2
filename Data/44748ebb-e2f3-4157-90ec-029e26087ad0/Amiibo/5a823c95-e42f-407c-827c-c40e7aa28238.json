@@ -378,6 +378,57 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2025-10-05T20:23:50.240244+00:00": {
+      "this_amiibo": {
+        "rating": 31.042222050322803,
+        "rating_mu": 35.88880350156307,
+        "rating_sigma": 1.615527150413422,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+        "id": "eea5685d-a36c-4cac-bdfb-151e7941d264",
+        "name": "Bam",
+        "rating": 33.07135837832527,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "win"
+      }
+    },
+    "2025-10-15T00:06:06.427906+00:00": {
+      "this_amiibo": {
+        "rating": 31.451284406955786,
+        "rating_mu": 36.20276982497253,
+        "rating_sigma": 1.5838284726722471,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29",
+        "id": "bce6d9c7-6a23-415c-a2dc-fbb78e9290d6",
+        "name": "Telemus",
+        "rating": 31.184596843265375,
+        "trainer_id": "bddf1b3d-ee41-4ed1-9346-ac4157e5d8aa",
+        "trainer_name": "eon_ii",
+        "result": "loss"
+      }
+    },
+    "2025-10-26T12:12:00.107523+00:00": {
+      "this_amiibo": {
+        "rating": 31.88819220378185,
+        "rating_mu": 36.54276001056449,
+        "rating_sigma": 1.551522602260882,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "fc773afa-9e38-49c9-8e89-b11fd704892d",
+        "name": "Hydrangea",
+        "rating": 34.04454292417961,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "loss"
+      }
     }
   }
 }

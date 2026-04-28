@@ -123,6 +123,40 @@
         "trainer_name": "commicallylargetophat",
         "result": "loss"
       }
+    },
+    "2025-10-05T10:22:25.824196+00:00": {
+      "this_amiibo": {
+        "rating": 28.211226685535316,
+        "rating_mu": 36.62014195038114,
+        "rating_sigma": 2.802971754948608,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "aec10e8d-aec3-493e-8afa-da1538666984",
+        "name": "Garp",
+        "rating": 34.859895951536856,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "win"
+      }
+    },
+    "2025-10-14T10:05:49.196100+00:00": {
+      "this_amiibo": {
+        "rating": 29.787306800852136,
+        "rating_mu": 37.67571924020818,
+        "rating_sigma": 2.6294708131186826,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "b9c28266-0dfe-4f4e-9ab5-b71eae7e9c02",
+        "name": "Amaterasu",
+        "rating": 34.955899434588744,
+        "trainer_id": "f78bcac5-01eb-46ca-9c57-eb6d3e9c242b",
+        "trainer_name": "Epsilon080",
+        "result": "loss"
+      }
     }
   }
 }

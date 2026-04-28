@@ -1,0 +1,43 @@
+{
+  "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+  "id": "444772cb-a42f-4e3d-a064-b8b945fa6b02",
+  "name": "Bob",
+  "trainer_id": "2378ad65-e527-4455-9cf7-a16bcd9709a9",
+  "trainer_name": "1stawesomeman",
+  "matches": {
+    "2025-10-12T11:21:43.010247+00:00": {
+      "this_amiibo": {
+        "rating": 0.6561837817879734,
+        "rating_mu": 20.006279028392473,
+        "rating_sigma": 6.450031748868167,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "fbd10419-5279-4aad-8922-2e336e72672a",
+        "name": "Yo, Slime!",
+        "rating": 21.168028309240135,
+        "trainer_id": "e53a023e-9ca9-4a47-98dd-0b0e28130b56",
+        "trainer_name": "dk71896",
+        "result": "win"
+      }
+    },
+    "2025-10-28T04:32:27.621414+00:00": {
+      "this_amiibo": {
+        "rating": 5.628734030652751,
+        "rating_mu": 22.382772589565274,
+        "rating_sigma": 5.584679519637508,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "1cb319ac-3d56-4263-a174-807494d3a1c1",
+        "name": "Fredrick",
+        "rating": 5.447930398623713,
+        "trainer_id": "acf5ba5f-23f9-471b-a1c7-ba5119b73cdc",
+        "trainer_name": "SirXyonder",
+        "result": "loss"
+      }
+    }
+  }
+}

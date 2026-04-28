@@ -2809,6 +2809,40 @@
         "trainer_name": "massivmann",
         "result": "loss"
       }
+    },
+    "2025-10-16T19:32:41.780010+00:00": {
+      "this_amiibo": {
+        "rating": 33.88099375592386,
+        "rating_mu": 36.43362721458954,
+        "rating_sigma": 0.8508778195552277,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c70d1757-20c1-4a87-9a26-610ff6f22684",
+        "name": "Mario",
+        "rating": 28.591825774257345,
+        "trainer_id": "d7805111-3127-4140-80fc-a8788cbe9976",
+        "trainer_name": "techmode5",
+        "result": "win"
+      }
+    },
+    "2025-10-16T14:59:19.150871+00:00": {
+      "this_amiibo": {
+        "rating": 33.96800366643437,
+        "rating_mu": 36.52155843204058,
+        "rating_sigma": 0.8511849218687366,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "0691eb5c-6ec7-4a35-9b6d-d124f1341960",
+        "name": "Rei",
+        "rating": 22.441289557589595,
+        "trainer_id": "8e7a7b23-d3d2-49e6-9b0c-dcb86ce95cf2",
+        "trainer_name": "Crunchy567",
+        "result": "loss"
+      }
     }
   }
 }

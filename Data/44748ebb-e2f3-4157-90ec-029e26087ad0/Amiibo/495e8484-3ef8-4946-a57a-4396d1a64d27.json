@@ -21,6 +21,57 @@
         "trainer_name": "SpliceStream",
         "result": "loss"
       }
+    },
+    "2025-10-31T15:04:22.073500+00:00": {
+      "this_amiibo": {
+        "rating": 22.69772274791991,
+        "rating_mu": 35.33439332321477,
+        "rating_sigma": 4.212223525098286,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "a1b05af0-4c55-4961-bdb1-88c14afefb66",
+        "name": "GriffeyJr.",
+        "rating": 36.6566746334573,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "win"
+      }
+    },
+    "2025-10-31T13:04:12.597644+00:00": {
+      "this_amiibo": {
+        "rating": 22.89109254420629,
+        "rating_mu": 37.250588332873974,
+        "rating_sigma": 4.786498596222561,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "fc773afa-9e38-49c9-8e89-b11fd704892d",
+        "name": "Hydrangea",
+        "rating": 34.37224824987824,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "loss"
+      }
+    },
+    "2025-11-03T07:22:02.243328+00:00": {
+      "this_amiibo": {
+        "rating": 26.50836883428465,
+        "rating_mu": 37.6183411103456,
+        "rating_sigma": 3.703324092020316,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "fc773afa-9e38-49c9-8e89-b11fd704892d",
+        "name": "Hydrangea",
+        "rating": 34.39635425871025,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "loss"
+      }
     }
   }
 }

@@ -650,6 +650,40 @@
         "trainer_name": "1_1_hero_token",
         "result": "loss"
       }
+    },
+    "2025-10-07T02:24:30.121033+00:00": {
+      "this_amiibo": {
+        "rating": 24.03601656788668,
+        "rating_mu": 28.012910472953198,
+        "rating_sigma": 1.3256313016888397,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "b5a331a8-b567-43d9-bec1-67c243a66c80",
+        "name": "Chromosome",
+        "rating": 26.583596572862657,
+        "trainer_id": "559b97d3-faa3-4aa1-9697-8e87271c7b16",
+        "trainer_name": "ammoknight208",
+        "result": "win"
+      }
+    },
+    "2025-10-10T12:40:21.051326+00:00": {
+      "this_amiibo": {
+        "rating": 24.276202163580983,
+        "rating_mu": 28.20805608968249,
+        "rating_sigma": 1.3106179753671694,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+        "id": "506d2a5f-c267-48c4-b9a6-aa613b48edc9",
+        "name": "Lady",
+        "rating": 20.971787975990274,
+        "trainer_id": "86912f99-fb6b-4c7d-af81-8700867a6f46",
+        "trainer_name": "viktex",
+        "result": "loss"
+      }
     }
   }
 }

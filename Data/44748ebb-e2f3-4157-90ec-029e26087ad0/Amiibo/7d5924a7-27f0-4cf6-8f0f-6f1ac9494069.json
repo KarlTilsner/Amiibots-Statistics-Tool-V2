@@ -667,6 +667,40 @@
         "trainer_name": "BindyCot",
         "result": "loss"
       }
+    },
+    "2025-10-26T01:02:40.864727+00:00": {
+      "this_amiibo": {
+        "rating": 22.747244417228274,
+        "rating_mu": 26.597924949200987,
+        "rating_sigma": 1.2835601773242384,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "551dd1a6-0548-4d20-86c3-c4775592e9e7",
+        "name": "Ocean Man",
+        "rating": 25.98511667042344,
+        "trainer_id": "76092551-3aba-4182-923a-848b2d279e4c",
+        "trainer_name": "BuzzyButts",
+        "result": "win"
+      }
+    },
+    "2025-10-28T15:52:35.368900+00:00": {
+      "this_amiibo": {
+        "rating": 22.974239962832,
+        "rating_mu": 26.781811250848676,
+        "rating_sigma": 1.2691904293388914,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "2bc1dc27-fc14-44bc-9dde-40bd17a68bc1",
+        "name": "Dr.Salt",
+        "rating": 22.751835550718468,
+        "trainer_id": "884cb5c3-bfa9-465a-afc3-dadf89fe30b4",
+        "trainer_name": "drsalt16",
+        "result": "loss"
+      }
     }
   }
 }
