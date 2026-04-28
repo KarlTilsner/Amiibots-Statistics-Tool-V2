@@ -1,0 +1,43 @@
+{
+  "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+  "id": "ee759d97-0978-4c48-8d7a-48b45fe564d9",
+  "name": "Smash 4",
+  "trainer_id": "e3fdd3c8-2ac3-473e-81c8-0d7a797430cb",
+  "trainer_name": "hugrybees",
+  "matches": {
+    "2025-11-10T07:17:23.847013+00:00": {
+      "this_amiibo": {
+        "rating": 0.4761070178104312,
+        "rating_mu": 19.51407950571868,
+        "rating_sigma": 6.34599082930275,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "ccf11b1a-ef95-4a22-b4d2-02b96322c863",
+        "name": "Jørgen",
+        "rating": 20.73687553406115,
+        "trainer_id": "5381b617-c239-43ee-8c76-6f8c03eef9bf",
+        "trainer_name": "DuckTris",
+        "result": "win"
+      }
+    },
+    "2025-11-18T00:45:01.055147+00:00": {
+      "this_amiibo": {
+        "rating": -0.8478117087219506,
+        "rating_mu": 14.447330441401624,
+        "rating_sigma": 5.098380716707858,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "f928dca1-a22d-4724-872f-99f540f91e65",
+        "name": "inky",
+        "rating": 7.610636823852605,
+        "trainer_id": "3428e779-5b1d-49be-85ea-2802f6cdf201",
+        "trainer_name": "deathachh",
+        "result": "win"
+      }
+    }
+  }
+}

@@ -123,6 +123,40 @@
         "trainer_name": "rougew2",
         "result": "loss"
       }
+    },
+    "2025-11-13T16:29:44.498516+00:00": {
+      "this_amiibo": {
+        "rating": 3.347648750102227,
+        "rating_mu": 12.072097566255174,
+        "rating_sigma": 2.9081496053843154,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6537aebc-7b92-4b1c-94ca-50ab350a7c46",
+        "id": "b4fa6208-2958-4901-99a8-f609050a185b",
+        "name": "Home Depot",
+        "rating": 5.889682150380364,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "xxxxFrostBytexxxx",
+        "result": "win"
+      }
+    },
+    "2025-12-23T22:00:32.647066+00:00": {
+      "this_amiibo": {
+        "rating": 5.259569949891484,
+        "rating_mu": 13.379880164922737,
+        "rating_sigma": 2.7067700716770844,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "58c94498-9528-4f21-ba1f-086e1b9a8474",
+        "name": "BoxingRing",
+        "rating": 10.913673218908658,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "loss"
+      }
     }
   }
 }

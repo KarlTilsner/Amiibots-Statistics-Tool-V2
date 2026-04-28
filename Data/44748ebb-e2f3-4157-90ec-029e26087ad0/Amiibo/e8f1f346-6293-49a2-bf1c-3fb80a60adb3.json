@@ -616,6 +616,40 @@
         "trainer_name": "MiDe1",
         "result": "loss"
       }
+    },
+    "2025-12-24T14:27:22.201470+00:00": {
+      "this_amiibo": {
+        "rating": 41.32651659682378,
+        "rating_mu": 45.33946639794414,
+        "rating_sigma": 1.3376499337067884,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "335dd78b-a494-4d00-84db-f9846d8d8c12",
+        "name": "Chess Rook",
+        "rating": 40.19526726355804,
+        "trainer_id": "d7805111-3127-4140-80fc-a8788cbe9976",
+        "trainer_name": "techmode5",
+        "result": "win"
+      }
+    },
+    "2025-12-26T08:42:35.690018+00:00": {
+      "this_amiibo": {
+        "rating": 41.62596146903007,
+        "rating_mu": 45.586197979815424,
+        "rating_sigma": 1.320078836928453,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "335dd78b-a494-4d00-84db-f9846d8d8c12",
+        "name": "Chess Rook",
+        "rating": 40.4318324506839,
+        "trainer_id": "d7805111-3127-4140-80fc-a8788cbe9976",
+        "trainer_name": "techmode5",
+        "result": "loss"
+      }
     }
   }
 }

@@ -72,6 +72,40 @@
         "trainer_name": "MiDe1",
         "result": "win"
       }
+    },
+    "2025-12-12T08:04:53.302830+00:00": {
+      "this_amiibo": {
+        "rating": 7.660055501706422,
+        "rating_mu": 18.481143386279598,
+        "rating_sigma": 3.607029294857725,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "54f73f9e-c6e4-4f20-8241-14701311cc51",
+        "name": "Guardian",
+        "rating": 16.465604969872395,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "win"
+      }
+    },
+    "2025-12-24T12:37:43.894119+00:00": {
+      "this_amiibo": {
+        "rating": 7.350666487375417,
+        "rating_mu": 17.313203995435725,
+        "rating_sigma": 3.3208458360201023,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "a02477c8-9a04-4b7f-bb2f-703e8b86867a",
+        "name": "Pepper",
+        "rating": 17.931219788495213,
+        "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
+        "trainer_name": "RockMyRole",
+        "result": "win"
+      }
     }
   }
 }

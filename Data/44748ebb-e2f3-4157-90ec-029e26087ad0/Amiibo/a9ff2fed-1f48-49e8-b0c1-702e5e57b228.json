@@ -1279,6 +1279,57 @@
         "trainer_name": "SquallDBC",
         "result": "loss"
       }
+    },
+    "2025-11-22T18:23:33.765667+00:00": {
+      "this_amiibo": {
+        "rating": 33.71840171692244,
+        "rating_mu": 36.72166461071088,
+        "rating_sigma": 1.0010876312628132,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "fc773afa-9e38-49c9-8e89-b11fd704892d",
+        "name": "Hydrangea",
+        "rating": 34.229524569939,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2025-12-01T16:02:39.906163+00:00": {
+      "this_amiibo": {
+        "rating": 33.85616942465874,
+        "rating_mu": 36.844310220137636,
+        "rating_sigma": 0.9960469318262984,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7c869bdb-0101-4aa7-9ea8-82f1d7420928",
+        "id": "d6e7ca7d-8c3f-4926-9b1f-5d38c9d4d3ae",
+        "name": "910",
+        "rating": 32.907123002912506,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "loss"
+      }
+    },
+    "2025-12-19T14:41:19.462030+00:00": {
+      "this_amiibo": {
+        "rating": 33.74490014182337,
+        "rating_mu": 36.71860127953513,
+        "rating_sigma": 0.991233712570586,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "5500c2e8-ccd6-479f-8a2c-9f2d2f58affb",
+        "name": "Sit On You",
+        "rating": 32.88193236913025,
+        "trainer_id": "3e2f0f90-d00d-455c-ad34-8009c3fd1f71",
+        "trainer_name": "BindyCot",
+        "result": "win"
+      }
     }
   }
 }

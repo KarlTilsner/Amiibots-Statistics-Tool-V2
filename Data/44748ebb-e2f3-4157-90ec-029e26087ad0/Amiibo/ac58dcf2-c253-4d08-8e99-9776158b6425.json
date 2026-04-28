@@ -429,6 +429,40 @@
         "trainer_name": "amiibofight",
         "result": "win"
       }
+    },
+    "2025-11-06T07:14:34.209627+00:00": {
+      "this_amiibo": {
+        "rating": 32.686107144188725,
+        "rating_mu": 37.47210892743195,
+        "rating_sigma": 1.5953339277477412,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "fc773afa-9e38-49c9-8e89-b11fd704892d",
+        "name": "Hydrangea",
+        "rating": 34.373021824198304,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "loss"
+      }
+    },
+    "2025-11-08T02:23:56.835981+00:00": {
+      "this_amiibo": {
+        "rating": 32.306307382903526,
+        "rating_mu": 36.97754056523193,
+        "rating_sigma": 1.557077727442801,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "bc8c0ec7-f7ab-426e-866e-58e55d49a83f",
+        "name": "Dyne-t-rex",
+        "rating": 31.664028487270144,
+        "trainer_id": "2f91b438-99d4-4966-b002-9a9b4dbfaf92",
+        "trainer_name": "Klerpy",
+        "result": "win"
+      }
     }
   }
 }
