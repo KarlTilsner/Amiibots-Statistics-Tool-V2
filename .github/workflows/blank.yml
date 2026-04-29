@@ -2,7 +2,7 @@ name: Scrape Amiibots
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "20 */6 * * *"
   workflow_dispatch:
 
 permissions:
