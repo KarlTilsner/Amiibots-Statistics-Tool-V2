@@ -145,7 +145,7 @@ def main(ruleset):
     ruleset_id = ruleset
     data_to_store = []
 
-    print(f"Fetching {num_matches} matches: {_ + 1}/1")
+    print(f"Fetching {num_matches}")
     start_fetching()
 
     print(f"Reached {skipcounter} matches that have already been scraped.")
