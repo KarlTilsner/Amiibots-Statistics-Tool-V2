@@ -1,0 +1,43 @@
+{
+  "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
+  "id": "8ddd18bf-75b6-4ae1-a73e-bf1891ab5596",
+  "name": "STARBUCKS",
+  "trainer_id": "37df81b9-e5cd-431d-8561-7314e26d3d6c",
+  "trainer_name": "Dahtin",
+  "matches": {
+    "2021-08-12T09:23:04.226082+00:00": {
+      "this_amiibo": {
+        "rating": 1.1964257868704102,
+        "rating_mu": 21.413907828620122,
+        "rating_sigma": 6.739160680583237,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "61b96d03-5590-4e3e-a078-085d83227a32",
+        "name": "Kennedy",
+        "rating": 26.73463512474508,
+        "trainer_id": "b39d720a-e63b-4866-88ec-4ed97d92a0cc",
+        "trainer_name": "karmakittyy",
+        "result": "win"
+      }
+    },
+    "2021-08-12T16:21:12.956790+00:00": {
+      "this_amiibo": {
+        "rating": 1.8510681722660571,
+        "rating_mu": 20.499739284645386,
+        "rating_sigma": 6.216223704126443,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9e7024ec-4a72-4887-bdad-4adbb9b0e3a9",
+        "id": "57014b8e-902a-4d49-a17a-15a63498c7f8",
+        "name": "Kardashian",
+        "rating": 27.433127329194978,
+        "trainer_id": "1c1dbcb7-19b0-4ad2-9afb-143abfb19fec",
+        "trainer_name": "random_fire",
+        "result": "win"
+      }
+    }
+  }
+}

@@ -23,20 +23,37 @@ def process_files(ruleset_id):
 
     last_processed_file = state.get(ruleset_id, {}).get("last_processed_file")
 
-    # Load all caches at once
+    # Check how many files can be processed
+    files_to_process = [
+        f for f in files
+        if not last_processed_file or f > last_processed_file
+    ]
+
+    # Exit early if no files can be processed
+    if not files_to_process:
+        print("No new files to process — skipping cache load")
+        return
+
+    print(f"{len(files_to_process)} new file(s) to process")
+
+    # Load caches
+    print("Loading all_trainers cache")
     trainer_cache = all_trainers.load(ruleset_id)
-    amiibo_cache = all_amiibo.load(ruleset_id)
+    
+    print("Loading all_amiibo cache")
+    amiibo_cache, ratings_cache = all_amiibo.load_parallel(ruleset_id)
+
+    print("Loading matchups cache")
     matchup_cache = matchups.load(ruleset_id)
-    rating_cache, current_best = rating_history.load(ruleset_id)
+
+    print("Loading rating_history cache")
+    rating_cache = rating_history.load(ruleset_id)
 
     with open("Data/all_characters.json", "r", encoding="utf-8") as f:
         all_characters = json.load(f)
 
-    # Call processor fuctions
-    for filename in files:
-        if last_processed_file and filename <= last_processed_file:
-            continue
-
+    # Process files
+    for filename in files_to_process:
         print(f"Processing {filename}")
 
         with open(os.path.join(folder, filename), "r", encoding="utf-8") as file:
@@ -48,11 +65,12 @@ def process_files(ruleset_id):
             all_trainers.update(match, trainer_cache)
             all_amiibo.update(match, amiibo_cache)
             matchups.update(match, matchup_cache, all_characters)
-            rating_history.update(match, rating_cache, all_characters, current_best)
+            rating_history.update(match, rating_cache, all_characters, ratings_cache)
 
         last_processed_file = filename
 
-    # Save data
+    # Save
+    print("Saving...")
     all_trainers.save(trainer_cache, ruleset_id)
     all_amiibo.save(amiibo_cache, ruleset_id)
     matchups.save(matchup_cache, ruleset_id)

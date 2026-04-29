@@ -1,0 +1,43 @@
+{
+  "character_id": "facf1100-a53c-4f9c-bdf3-8612b0df2330",
+  "id": "ab4d5f6c-37f7-4c94-b171-e7804d6320ea",
+  "name": "taco bell",
+  "trainer_id": "b4ded674-d14a-4e96-a0c7-5dc00906f8f7",
+  "trainer_name": "aggron_ghost",
+  "matches": {
+    "2024-08-07T12:29:41.637819+00:00": {
+      "this_amiibo": {
+        "rating": 10.787736186953975,
+        "rating_mu": 30.042737531051564,
+        "rating_sigma": 6.418333781365863,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
+        "id": "d015233c-c668-47f6-b817-faf162e8c016",
+        "name": "Zoom",
+        "rating": 20.582266891022876,
+        "trainer_id": "cd152bd9-6b92-486d-9ae7-68d51ca105a4",
+        "trainer_name": "Zoom__",
+        "result": "loss"
+      }
+    },
+    "2024-10-28T06:35:20.013351+00:00": {
+      "this_amiibo": {
+        "rating": 10.814322313641775,
+        "rating_mu": 26.573445490685728,
+        "rating_sigma": 5.2530410590146515,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "8d33a6fb-6a45-4007-8e59-e745bf3ff54d",
+        "name": "Reggie",
+        "rating": 28.261080986582368,
+        "trainer_id": "7f5aabf8-00db-49a7-abc4-99523c45bb4a",
+        "trainer_name": "DaPurpleDuck",
+        "result": "win"
+      }
+    }
+  }
+}

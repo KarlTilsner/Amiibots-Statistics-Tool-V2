@@ -1,0 +1,43 @@
+{
+  "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+  "id": "ec2b8558-6d6a-4e34-81fe-00a046a3218f",
+  "name": "Pollo",
+  "trainer_id": "f040f240-4873-42f3-b827-3b68c48da023",
+  "trainer_name": "karpholmes",
+  "matches": {
+    "2022-05-07T06:36:34.794197+00:00": {
+      "this_amiibo": {
+        "rating": 0.5920305034327633,
+        "rating_mu": 19.789511029946333,
+        "rating_sigma": 6.399160175504523,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "1b0ac90f-bf59-493a-8a3f-a4dce486a7b4",
+        "name": "Kennedy",
+        "rating": 21.209583188200348,
+        "trainer_id": "b39d720a-e63b-4866-88ec-4ed97d92a0cc",
+        "trainer_name": "karmakittyy",
+        "result": "win"
+      }
+    },
+    "2022-05-07T16:23:44.580609+00:00": {
+      "this_amiibo": {
+        "rating": 6.421287143686445,
+        "rating_mu": 22.60191598000353,
+        "rating_sigma": 5.3935429454390285,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "249464b2-1744-4cfb-9fde-eb3449092444",
+        "name": "furry",
+        "rating": 10.77426208004163,
+        "trainer_id": "164e464c-e5d1-47f9-9d16-713d4fb4eaea",
+        "trainer_name": "k9_ghouly12",
+        "result": "loss"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "character_id": "1aedb3f5-e352-4ebf-b701-7502bbf62366",
+  "id": "8edca2b6-1561-4068-ba8b-80d24b8523c5",
+  "name": "Soldier",
+  "trainer_id": "61a38f4c-afd3-4c84-9d7f-f5b41faeff3a",
+  "trainer_name": "Renegade_Marbles",
+  "matches": {
+    "2021-01-10T04:46:52.074502+00:00": {
+      "this_amiibo": {
+        "rating": 1.2094951924687152,
+        "rating_mu": 18.298916788389064,
+        "rating_sigma": 5.696473865306783,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "739acf39-b038-4fe1-a69a-998456282f28",
+        "name": "Titanium",
+        "rating": 17.663449097444182,
+        "trainer_id": "95c09948-6452-4ce4-b27f-6c73c294c610",
+        "trainer_name": "2Snowblind",
+        "result": "win"
+      }
+    },
+    "2021-01-10T02:59:40.505060+00:00": {
+      "this_amiibo": {
+        "rating": 0.8521495074773355,
+        "rating_mu": 20.972901750371914,
+        "rating_sigma": 6.706917414298193,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "99981935-6da0-4ff2-a2f6-013e2c14515d",
+        "name": "SpaceJamus",
+        "rating": 21.01610973187233,
+        "trainer_id": "9d2e0e79-39fd-4936-8270-f43cb65749cb",
+        "trainer_name": "SpliceStream",
+        "result": "win"
+      }
+    }
+  }
+}

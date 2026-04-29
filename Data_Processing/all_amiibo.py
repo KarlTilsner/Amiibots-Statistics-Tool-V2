@@ -1,22 +1,53 @@
-import os
-import json
+from concurrent.futures import ThreadPoolExecutor
+import json, os
 
 
 
-def load(ruleset_id):
+def load_file(path):
+    with open(path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    # ensure dirty flag exists (if this is set to true the file has been changed)
+    data["_dirty"] = False
+    return data
+
+
+
+def load_parallel(ruleset_id):
     base_dir = f"Data/{ruleset_id}/Amiibo"
     os.makedirs(base_dir, exist_ok=True)
 
-    cache = {}
+    files = [
+        os.path.join(base_dir, f)
+        for f in os.listdir(base_dir)
+        if f.endswith(".json")
+    ]
 
-    for file in os.listdir(base_dir):
-        if file.endswith(".json"):
-            path = os.path.join(base_dir, file)
-            with open(path, "r", encoding="utf-8") as f:
-                data = json.load(f)
-                cache[data["id"]] = data
+    all_amiibo_cache = {}
+    rating_history_cache = {}
 
-    return cache
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        for data in executor.map(load_file, files):
+            amiibo_id = data["id"]
+            char_id = data["character_id"]
+
+            all_amiibo_cache[amiibo_id] = data
+
+            matches = data.get("matches")
+            if not matches:
+                continue
+
+            latest_key = next(reversed(matches))
+            latest = matches[latest_key]
+
+            rating_history_cache.setdefault(char_id, {})[amiibo_id] = {
+                "trainer_name": data["trainer_name"],
+                "trainer_id": data["trainer_id"],
+                "amiibo_name": data["name"],
+                "rating": latest["this_amiibo"]["rating"]
+            }
+
+    return all_amiibo_cache, rating_history_cache
 
 
 
@@ -37,7 +68,8 @@ def update(match, cache):
                 "name": p["name"],
                 "trainer_id": p["trainer_id"],
                 "trainer_name": p["trainer_name"],
-                "matches": {}
+                "matches": {},
+                "_dirty": True  # NEW
             }
 
         amiibo_data = cache[amiibo_id]
@@ -76,18 +108,46 @@ def update(match, cache):
 
         # Store match
         amiibo_data["matches"][created_at] = match_result
+        amiibo_data["_dirty"] = True
 
         # Update name if changed
         if amiibo_data["name"] != p["name"]:
             amiibo_data["name"] = p["name"]
+            amiibo_data["_dirty"] = True
+
+
+
+def _write_file(args):
+    path, data = args
+
+    # remove internal field before saving
+    data_to_save = {k: v for k, v in data.items() if k != "_dirty"}
+
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data_to_save, f, indent=2, ensure_ascii=False)
 
 
 
 def save(cache, ruleset_id):
     base_dir = f"Data/{ruleset_id}/Amiibo"
+    os.makedirs(base_dir, exist_ok=True)
 
-    for amiibo_id, data in cache.items():
-        path = f"{base_dir}/{amiibo_id}.json"
+    tasks = [
+        (f"{base_dir}/{amiibo_id}.json", data)
+        for amiibo_id, data in cache.items()
+        if data.get("_dirty")
+    ]
 
-        with open(path, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
+    if not tasks:
+        print("No amiibo changes to save")
+        return
+
+    print(f"Saving {len(tasks)} updated amiibo...")
+
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        executor.map(_write_file, tasks)
+
+    # reset dirty flags
+    for _, data in cache.items():
+        if data.get("_dirty"):
+            data["_dirty"] = False

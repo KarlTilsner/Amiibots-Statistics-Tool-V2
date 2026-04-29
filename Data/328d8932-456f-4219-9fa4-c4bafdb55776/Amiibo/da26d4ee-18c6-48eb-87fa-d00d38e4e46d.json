@@ -1,0 +1,43 @@
+{
+  "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+  "id": "da26d4ee-18c6-48eb-87fa-d00d38e4e46d",
+  "name": "Speedrun",
+  "trainer_id": "130d14e0-8ba1-407c-8c69-6c2544843b8f",
+  "trainer_name": "bertolupin",
+  "matches": {
+    "2022-01-16T20:01:48.743626+00:00": {
+      "this_amiibo": {
+        "rating": 1.3191602534822202,
+        "rating_mu": 23.099369659634537,
+        "rating_sigma": 7.260069802050772,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da0c84d7-9c43-4e74-92e7-113194694b25",
+        "id": "13511eda-deef-4d5c-81a9-719300d4dee6",
+        "name": "Hero",
+        "rating": 32.77231822149704,
+        "trainer_id": "4539dd7d-7207-426c-889b-f519b44e753d",
+        "trainer_name": "nozzly",
+        "result": "win"
+      }
+    },
+    "2022-01-17T04:01:14.966853+00:00": {
+      "this_amiibo": {
+        "rating": 1.246016877998649,
+        "rating_mu": 18.18332750193114,
+        "rating_sigma": 5.645770207977497,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "dc74f4b5-35cd-4f67-9886-b6f5653dabd7",
+        "name": "JstAPhazon",
+        "rating": 19.370799855167945,
+        "trainer_id": "6bf29b87-d415-4be4-a384-198d70a63eaf",
+        "trainer_name": "WynnThornton",
+        "result": "win"
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+  "id": "e5dd6f86-b7c0-44a4-bf6d-5e33a4695d60",
+  "name": "Dog",
+  "trainer_id": "8d6a769d-19d4-4644-b439-6e87cd8a8b20",
+  "trainer_name": "someguy_456",
+  "matches": {
+    "2021-06-13T20:30:23.483743+00:00": {
+      "this_amiibo": {
+        "rating": 0.9380632923268273,
+        "rating_mu": 20.92650806540096,
+        "rating_sigma": 6.662814924358044,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "506f6ac8-5f4e-42f6-9895-bb2dc40a0e5c",
+        "name": "Fennec",
+        "rating": 22.456954627934,
+        "trainer_id": "32eabbd4-f0f0-45e1-a435-0b87f831f892",
+        "trainer_name": "LovingStew",
+        "result": "win"
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "character_id": "f40fdcb7-a785-4681-8c04-c66cc84edcac",
+  "id": "059c39a0-175b-468d-abaf-064464158d8f",
+  "name": "Trixie",
+  "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+  "trainer_name": "carbon_show",
+  "matches": {
+    "2023-06-26T09:47:10.016371+00:00": {
+      "this_amiibo": {
+        "rating": -0.7899217551096172,
+        "rating_mu": 20.79452709502615,
+        "rating_sigma": 7.194816283378589,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "19c93467-96a0-451f-b2d4-22a5c60a56ec",
+        "name": "goober",
+        "rating": 7.621024054838067,
+        "trainer_id": "6eb3b4b1-1ae6-4b85-bfaa-76633297d3fb",
+        "trainer_name": "nerf__260",
+        "result": "win"
+      }
+    },
+    "2023-06-26T18:50:59.332274+00:00": {
+      "this_amiibo": {
+        "rating": 7.7926395407917965,
+        "rating_mu": 24.971656773753576,
+        "rating_sigma": 5.726339077653926,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "76f1e105-49a3-4334-802b-e9276ac2c9b0",
+        "name": "Agent 24",
+        "rating": 16.631772554128545,
+        "trainer_id": "e27cb64a-7c65-402e-813b-9e2c9c3fa7ea",
+        "trainer_name": "Hikiko10",
+        "result": "loss"
+      }
+    }
+  }
+}

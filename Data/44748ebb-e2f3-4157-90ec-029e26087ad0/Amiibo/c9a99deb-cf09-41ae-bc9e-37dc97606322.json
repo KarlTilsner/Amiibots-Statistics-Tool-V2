@@ -1,0 +1,43 @@
+{
+  "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+  "id": "c9a99deb-cf09-41ae-bc9e-37dc97606322",
+  "name": "Test",
+  "trainer_id": "2d52ff42-7120-44b0-bf6d-8cc52b63b948",
+  "trainer_name": "KeeBeeper1",
+  "matches": {
+    "2023-07-15T09:27:02.260390+00:00": {
+      "this_amiibo": {
+        "rating": -0.0313411349649968,
+        "rating_mu": 18.40465450247613,
+        "rating_sigma": 6.145331879147043,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "65b431e9-84ec-4b85-8a5c-a225e9d40934",
+        "id": "03d02b1c-c8ec-479e-9a47-893978135d5b",
+        "name": "Gertrude",
+        "rating": 19.53596777085939,
+        "trainer_id": "dd2fb133-18ea-44bc-8a89-27adc7617d8e",
+        "trainer_name": "SharingEagle",
+        "result": "win"
+      }
+    },
+    "2023-07-16T19:13:00.694014+00:00": {
+      "this_amiibo": {
+        "rating": 6.486062995838385,
+        "rating_mu": 21.76071519334385,
+        "rating_sigma": 5.091550732501822,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "55a87831-1e12-4161-9529-da06823e9667",
+        "name": "Bark&Kwak",
+        "rating": 12.565401463749891,
+        "trainer_id": "25044182-00e3-4581-b13c-f01eb4e5f385",
+        "trainer_name": "leCharade",
+        "result": "loss"
+      }
+    }
+  }
+}

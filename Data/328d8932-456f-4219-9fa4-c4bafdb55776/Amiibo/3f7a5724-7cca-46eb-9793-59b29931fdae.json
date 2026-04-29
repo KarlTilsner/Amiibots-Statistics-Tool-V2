@@ -1,0 +1,43 @@
+{
+  "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+  "id": "3f7a5724-7cca-46eb-9793-59b29931fdae",
+  "name": "fighter",
+  "trainer_id": "63e7d701-18a6-40dc-bb8a-b812790fde3c",
+  "trainer_name": "JoeX_44",
+  "matches": {
+    "2023-06-18T02:22:02.009039+00:00": {
+      "this_amiibo": {
+        "rating": 0.25352834361440557,
+        "rating_mu": 16.604328372283106,
+        "rating_sigma": 5.450266676222901,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "4d4749e8-ceba-4f71-9d36-015884114533",
+        "name": "Fister",
+        "rating": 18.931138404869074,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot_The_Great",
+        "result": "win"
+      }
+    },
+    "2023-06-17T17:58:31.510788+00:00": {
+      "this_amiibo": {
+        "rating": 0.08450599842020523,
+        "rating_mu": 20.219734342151717,
+        "rating_sigma": 6.711742781243838,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "21c5ccdd-d157-42bb-92ac-b99fd07dd247",
+        "id": "dd9e62f4-cdb7-4b8d-b819-7e847b23014b",
+        "name": "No Comment",
+        "rating": 14.368157930272702,
+        "trainer_id": "c1a8adfd-561e-4b61-9870-5e000224d33f",
+        "trainer_name": "MarioDude35",
+        "result": "win"
+      }
+    }
+  }
+}

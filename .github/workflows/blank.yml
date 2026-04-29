@@ -33,6 +33,9 @@ jobs:
       - name: Run data processing
         run: python Data_Processing/main_processing.py
 
+      - name: Run compress used data
+        run: python Data_Processing/cleanup.py
+
       - name: Commit all changes
         run: |
           git config user.name "github-actions"

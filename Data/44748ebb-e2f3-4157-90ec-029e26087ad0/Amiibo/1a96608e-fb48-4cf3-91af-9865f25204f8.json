@@ -1,0 +1,43 @@
+{
+  "character_id": "bf83ce13-5c43-462b-8baa-c7d1336508ba",
+  "id": "1a96608e-fb48-4cf3-91af-9865f25204f8",
+  "name": "KFC",
+  "trainer_id": "3356a8c1-d363-4d61-bcae-046cffd1b341",
+  "trainer_name": "foamtray",
+  "matches": {
+    "2020-07-08T11:53:22.545468+00:00": {
+      "this_amiibo": {
+        "rating": 11.07717381174431,
+        "rating_mu": 30.592475327686586,
+        "rating_sigma": 6.505100505314092,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047",
+        "id": "6fecbdc0-dfc1-469d-b7ea-2d8d9a1b08c5",
+        "name": "One, Two",
+        "rating": 14.56954394727718,
+        "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
+        "trainer_name": "apple_beebs",
+        "result": "loss"
+      }
+    },
+    "2020-07-09T01:32:51.938798+00:00": {
+      "this_amiibo": {
+        "rating": 15.870294189353508,
+        "rating_mu": 32.829240253449406,
+        "rating_sigma": 5.652982021365299,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "02ac690c-b943-4efb-9016-07edb8084223",
+        "name": "Makyo",
+        "rating": 15.667546277485858,
+        "trainer_id": "a63d40e7-55a1-4ce0-8d8c-76de524810cf",
+        "trainer_name": "apple_beebs",
+        "result": "loss"
+      }
+    }
+  }
+}

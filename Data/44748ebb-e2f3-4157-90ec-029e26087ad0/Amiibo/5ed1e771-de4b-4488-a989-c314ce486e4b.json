@@ -1,0 +1,43 @@
+{
+  "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+  "id": "5ed1e771-de4b-4488-a989-c314ce486e4b",
+  "name": "Perry",
+  "trainer_id": "e62eb845-b99d-4757-8618-7fc43f3cf72e",
+  "trainer_name": "sst_link",
+  "matches": {
+    "2022-10-09T13:11:41.754915+00:00": {
+      "this_amiibo": {
+        "rating": 0.7781086796794057,
+        "rating_mu": 20.079326814857474,
+        "rating_sigma": 6.433739378392689,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d444e8eb-0140-4e51-9203-b374d9a4431d",
+        "id": "aac75dae-bdaf-47cf-b9d3-48bd998459cd",
+        "name": "pleasefail",
+        "rating": 23.536482220222933,
+        "trainer_id": "8e290d89-5484-46ab-b222-914c45b7b11c",
+        "trainer_name": "pixel_gunners",
+        "result": "win"
+      }
+    },
+    "2022-10-10T07:25:27.869388+00:00": {
+      "this_amiibo": {
+        "rating": 0.6959634480484489,
+        "rating_mu": 17.863069202048262,
+        "rating_sigma": 5.722368584666604,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "c75e2ecf-fd4c-4f44-a3d1-6da3e6a6d010",
+        "name": "Orm",
+        "rating": 10.892152650684618,
+        "trainer_id": "dd2fb133-18ea-44bc-8a89-27adc7617d8e",
+        "trainer_name": "SharingEagle",
+        "result": "win"
+      }
+    }
+  }
+}

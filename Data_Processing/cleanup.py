@@ -1,53 +1,73 @@
 import gzip
 import json
 import os
-import sys
 
-
-# Compress all raw match files and place them into a archive folder
 
 
 def compress(ruleset_id):
-    # Get filenames of all raw match jsons
-    folder = f"Raw_Matches/{ruleset_id}"
-    files = [f for f in os.listdir(folder) if f.endswith(".json")]
+    raw_folder = f"Raw_Matches/{ruleset_id}"
+    archive_folder = f"Archive/{ruleset_id}"
 
-    # Check for a state file and load the date of the last processed match, if it exists
+    os.makedirs(archive_folder, exist_ok=True)
+
+    files = sorted(f for f in os.listdir(raw_folder) if f.endswith(".json"))
+
+    # Load state
     if os.path.exists('Data_Processing/state.json'):
         with open('Data_Processing/state.json', "r", encoding="utf-8") as f:
             state = json.load(f)
+
             last_processed_file = state.get(ruleset_id, {}).get("last_processed_file")
+
+            if not last_processed_file:
+                print("No matches processed for this ruleset")
+                return
     else:
         print("No state file!")
         return
-    
-    files_to_compress = []
-    # Start with the earliest date in the list, check the state file for the last date that was processed
+
     for filename in files:
-        # If we have a last processed file, skip older/equal files
+        # Only compress files that are already processed
         if last_processed_file and filename >= last_processed_file:
             continue
-        files_to_compress.append(filename)
 
-    # Write
-    with gzip.open("matches.jsonl.gz", "at", encoding="utf-8") as f:
-        for file in files_to_compress:
-            f.write(json.dumps(file) + "\n")
+        input_path = os.path.join(raw_folder, filename)
+
+        # Change extension: file.json → file.jsonl.gz
+        output_name = filename.replace(".json", ".jsonl.gz")
+        output_path = os.path.join(archive_folder, output_name)
+
+        # Skip if already compressed
+        if os.path.exists(output_path):
+            continue
+
+        print(f"Compressing {filename}")
+
+        with open(input_path, "r", encoding="utf-8") as infile, \
+             gzip.open(output_path, "wt", encoding="utf-8") as outfile:
+
+            data = json.load(infile)
+
+            # Write as JSONL (one match per line)
+            for match in data:
+                outfile.write(json.dumps(match) + "\n")
+
+        # Delete file after compressing
+        os.remove(input_path)
 
 
 
 def main():
-    print("\nStarting data processing...")
+    print("\nStarting compression...")
 
     with open('Data/rulesets.json', "r", encoding="utf-8") as f:
         rulesets = json.load(f)
-        
+
     for ruleset in rulesets:
-        print(f"Processing data for ruleset: {ruleset['name']}")
+        print(f"Compressing data for ruleset: {ruleset['name']}")
         compress(ruleset["id"])
 
-    print("All data processing complete. \n")
-
+    print("Compression complete.\n")
 
 
 if __name__ == "__main__":

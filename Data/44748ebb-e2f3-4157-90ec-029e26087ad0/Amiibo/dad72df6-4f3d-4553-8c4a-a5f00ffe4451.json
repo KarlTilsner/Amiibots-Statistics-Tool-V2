@@ -1,0 +1,43 @@
+{
+  "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+  "id": "dad72df6-4f3d-4553-8c4a-a5f00ffe4451",
+  "name": "Sam",
+  "trainer_id": "0b8c365c-f938-47cd-a44f-acad601daf15",
+  "trainer_name": "gotelin_",
+  "matches": {
+    "2021-06-30T10:42:25.379715+00:00": {
+      "this_amiibo": {
+        "rating": 13.50169738199613,
+        "rating_mu": 28.850357539900408,
+        "rating_sigma": 5.116220052634759,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "11d7c49d-8677-4f87-876b-6db94fae00ef",
+        "id": "3c0286b1-07b1-41c1-9f11-dc87a79fa0b5",
+        "name": "Chesburger",
+        "rating": 31.07455166273793,
+        "trainer_id": "fb659a93-73d7-4f74-aebf-881bd7829482",
+        "trainer_name": "DustBuckit",
+        "result": "win"
+      }
+    },
+    "2021-06-30T09:51:58.524459+00:00": {
+      "this_amiibo": {
+        "rating": 13.419546031695972,
+        "rating_mu": 31.80444540457034,
+        "rating_sigma": 6.128299790958123,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "e7d9e195-f86e-4ac8-8bd2-7302889147eb",
+        "id": "3b602cf0-4a3f-4d2d-8f3c-94de99de38fc",
+        "name": "Krismo",
+        "rating": 24.232377036538608,
+        "trainer_id": "842fd55b-5c9f-4914-820e-99639a5ccf96",
+        "trainer_name": "littlefang__",
+        "result": "loss"
+      }
+    }
+  }
+}

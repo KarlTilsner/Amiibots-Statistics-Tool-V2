@@ -1,0 +1,43 @@
+{
+  "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+  "id": "4b4cf416-ab5d-401e-8a4f-9035a0adc811",
+  "name": "Cherry",
+  "trainer_id": "b85e8371-ba5f-4ba7-8a48-8f21c1056c76",
+  "trainer_name": "amiiboaction",
+  "matches": {
+    "2020-04-26T06:05:06.845402+00:00": {
+      "this_amiibo": {
+        "rating": 0.38596988503880425,
+        "rating_mu": 19.350427142976972,
+        "rating_sigma": 6.321485752646056,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "55e75a8b-0bad-4129-a9fd-84d87af57f98",
+        "name": "Bianca",
+        "rating": 20.183648879396035,
+        "trainer_id": "2378ad65-e527-4455-9cf7-a16bcd9709a9",
+        "trainer_name": "1stawesomeman",
+        "result": "win"
+      }
+    },
+    "2020-04-26T16:04:03.715436+00:00": {
+      "this_amiibo": {
+        "rating": 1.004237088264837,
+        "rating_mu": 17.77380669755741,
+        "rating_sigma": 5.589856536430858,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "9f3caa1b-1dbd-49da-b3fd-28dfadd18828",
+        "id": "ca7cacd4-1232-40f4-ae28-87c5e7de9411",
+        "name": "KingSlayer",
+        "rating": 24.357579406674994,
+        "trainer_id": "0517d10b-015e-4440-af34-de4fcb2cbb59",
+        "trainer_name": "Eliot The Great",
+        "result": "win"
+      }
+    }
+  }
+}

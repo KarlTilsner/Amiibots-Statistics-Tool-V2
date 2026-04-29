@@ -1,0 +1,43 @@
+{
+  "character_id": "e6f9ab43-8434-48bb-a765-ebbb97f66fae",
+  "id": "4fb7e199-425d-4f3e-b10a-61f7384d3d12",
+  "name": "Crossfit",
+  "trainer_id": "ab1f76a6-17bb-4125-aafe-261bbce07ff1",
+  "trainer_name": "the_scuttler",
+  "matches": {
+    "2020-11-21T05:45:12.168180+00:00": {
+      "this_amiibo": {
+        "rating": 0.7975691209881255,
+        "rating_mu": 20.198366253799545,
+        "rating_sigma": 6.466932377603806,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "fce17283-9445-43ea-a9d5-9db46585449d",
+        "name": "Arya",
+        "rating": 23.082512293953737,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "AceTempest172",
+        "result": "win"
+      }
+    },
+    "2020-11-22T11:41:43.836827+00:00": {
+      "this_amiibo": {
+        "rating": 12.144223093680854,
+        "rating_mu": 27.11229836524527,
+        "rating_sigma": 4.989358423854806,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "2ad2dcb6-5552-4ed4-8095-ddd37fc33791",
+        "name": "Kuvira",
+        "rating": 20.928264182709384,
+        "trainer_id": "842fd55b-5c9f-4914-820e-99639a5ccf96",
+        "trainer_name": "littlefang__",
+        "result": "loss"
+      }
+    }
+  }
+}

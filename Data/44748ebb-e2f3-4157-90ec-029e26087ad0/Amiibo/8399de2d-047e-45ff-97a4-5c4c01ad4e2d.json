@@ -1,0 +1,43 @@
+{
+  "character_id": "5c63c8cc-6afa-4bd5-ad30-815856cb845d",
+  "id": "8399de2d-047e-45ff-97a4-5c4c01ad4e2d",
+  "name": "Lima",
+  "trainer_id": "280c4d25-34f7-4e2f-a2a4-b085faf86b60",
+  "trainer_name": "gsus22",
+  "matches": {
+    "2022-06-25T14:05:38.227725+00:00": {
+      "this_amiibo": {
+        "rating": 0.2944747096420741,
+        "rating_mu": 19.414642996849366,
+        "rating_sigma": 6.373389429069098,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "4fafa279-1701-49ed-afed-06f33ff0ab90",
+        "name": "Red Sonic",
+        "rating": 18.3533683894688,
+        "trainer_id": "a40ed5e4-3d2a-4657-b175-226bd6b729f9",
+        "trainer_name": "Charcoalizard",
+        "result": "win"
+      }
+    },
+    "2022-06-28T00:32:16.390568+00:00": {
+      "this_amiibo": {
+        "rating": -0.23848622997115498,
+        "rating_mu": 16.229197280842293,
+        "rating_sigma": 5.489227836937816,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "85c1dc46-460c-453e-ba7a-123ba8e19128",
+        "id": "a96f7767-f07f-4500-89f7-610204cb6bf6",
+        "name": "Agent Lea",
+        "rating": 8.058420456485461,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "win"
+      }
+    }
+  }
+}
