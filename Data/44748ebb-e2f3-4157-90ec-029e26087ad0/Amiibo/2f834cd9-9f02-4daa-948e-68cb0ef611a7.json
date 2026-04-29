@@ -2010,6 +2010,57 @@
         "trainer_name": "picvity",
         "result": "loss"
       }
+    },
+    "2026-04-28T19:25:40.769430+00:00": {
+      "this_amiibo": {
+        "rating": 31.11533933084023,
+        "rating_mu": 33.73604018735937,
+        "rating_sigma": 0.8735669521730476,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "7bc88b33-7a96-4792-8a9c-0150b1104723",
+        "name": "Agni",
+        "rating": 34.300352231474825,
+        "trainer_id": "259c6c07-f590-4aba-8069-85a64f78c6f3",
+        "trainer_name": "massivmann",
+        "result": "win"
+      }
+    },
+    "2026-04-28T15:14:32.145478+00:00": {
+      "this_amiibo": {
+        "rating": 31.179714428312572,
+        "rating_mu": 33.803239497460446,
+        "rating_sigma": 0.8745083563826241,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7eb55c9b-4109-4064-a643-cdc809672d7c",
+        "id": "10bec94d-73a0-425d-83aa-450898ac8a52",
+        "name": "Atom Eve",
+        "rating": 31.23177546409806,
+        "trainer_id": "181065d9-39d8-44b1-8e13-4f0d0e1b9345",
+        "trainer_name": "carbon_show",
+        "result": "loss"
+      }
+    },
+    "2026-04-28T11:50:02.477002+00:00": {
+      "this_amiibo": {
+        "rating": 31.070385097511203,
+        "rating_mu": 33.70016736747497,
+        "rating_sigma": 0.8765940899879222,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "ca5235a9-94bc-48a3-bae7-f0a472d4ac7a",
+        "name": "Pelontxu",
+        "rating": 28.142777007933752,
+        "trainer_id": "b33a40ac-e62b-467b-81ec-be3703cc9004",
+        "trainer_name": "driker9620",
+        "result": "loss"
+      }
     }
   }
 }
