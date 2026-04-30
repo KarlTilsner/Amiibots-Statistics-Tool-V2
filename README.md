@@ -18,7 +18,7 @@ As the dataset grew and the API became increasingly slow and unreliable for this
 | Metric              | Before (API-driven) | After (Pipeline) |
 |--------------------|-------------------|------------------|
 | Data Source         | Live API           | Preprocessed JSON, fully eliminated API usage on frontend|
-| Data Size           | Some API endpoints sorted through ~7GB of raw data per request           | <1MB per request (most requests are low KBs)  |
+| Data Size           | Some API endpoints sorted through ~3GB of raw data per request           | <1MB per request (most requests are low KBs)  |
 | Load Time           | 30+ seconds, some endpoints failed depending on the search      | ~1 second         |
 | Reliability         | Inconsistent       | Stable            |
 | Processing Location | Frontend           | Hybrid during automation step and frontend for easily managed files|
@@ -29,7 +29,7 @@ As the dataset grew and the API became increasingly slow and unreliable for this
 
 The external API presented several challenges:
 
-- Large dataset (>~7GB of raw match data at the time of writing this)
+- Large dataset (~3GB of raw match data at the time of writing this)
 - Slow response times for complex queries (some responses failed)
 - Unreliable performance for real-time usage
 - High latency when loading statistics in the frontend
@@ -84,15 +84,15 @@ A GitHub Actions workflow runs on a schedule to:
 
 ## Performance & Data Optimization
 
-The original dataset consisted of over ~7GB of raw match data, which was impractical for frontend use.
+The original dataset consisted of over ~3GB of raw match data, which was impractical for frontend use.
 
 A preprocessing pipeline was implemented to transform this data into efficient, query-ready formats.
 
 ### Results
-- Reduced dataset size from ~7GB raw data → <2GB processed data
+- Reduced total dataset size from ~3GB raw data down to <1.3GB of processed data
 - Generated lightweight JSON files (<1MB, often ~50KB) per request
 - Eliminated large real-time API calls from the frontend
-- Reduced load times from ~[X–Y seconds] → near-instant (<1s)
+- Reduced load times from ~30s-60s down to near-instant <1s
 - Improved reliability for all major queries
 
 This transformation allowed the application to evolve from a slow, API-dependent tool into a high-performance data platform.
@@ -102,7 +102,7 @@ This transformation allowed the application to evolve from a slow, API-dependent
 ### Tech Stack
 Frontend: JavaScript, HTML, CSS
 
-Data Processing: Python / JavaScript
+Data Processing: Python, JavaScript
 
 Automation: GitHub Actions
 
