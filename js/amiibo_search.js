@@ -8,18 +8,6 @@ window.onload = function () {
 
 
 
-// UPDATE THE STORED AMIIBO ID AND REDIRECT TO THE STATS TOOL
-//---------------------------------------------------------------------------------------------------------------------------------------------------------
-function updateStatsSearch(new_id) {
-    console.log('updated id');
-    window.localStorage.setItem('saved_amiibo_id', new_id);
-    window.location.href = "index.html";
-}
-
-
-
-
-
 // Queries all character names and IDs and pushed them into arrays
 //---------------------------------------------------------------------------------------------------------------------------------------------------------
 let all_characters = [];
@@ -106,7 +94,12 @@ function nameSearchBar() {
     let characterIcon = 'no icon';
 
 
-    all_amiibo_data.map(index => {
+    // Clear and rebuild instead of string concat
+    content.innerHTML = "";
+    const container = document.createElement("div");
+    container.className = "flex_list_container";
+
+    all_amiibo_data.forEach(index => {
         if (((index.amiibo_name).toUpperCase().indexOf(filter) > -1) && ((index.trainer_name).toUpperCase().indexOf(username_filter) > -1)) {
             amiibo_count++;
             status = 'reset';
@@ -117,12 +110,28 @@ function nameSearchBar() {
             if (index.match_selection_status == 'INACTIVE') { status = 'INACTIVE'; }
 
             // Match current character with icon
-            characterIcon = `${all_characters[index.character_id]}.png`
+            characterIcon = `${all_characters[index.character_id]}.png`;
+
+            // Create element instead of using innerHTML with onclick
+            const div = document.createElement("div");
+            div.className = `list_item ${status}`;
+            div.id = "list_item_searchable";
+
+            div.addEventListener("click", () => {
+                updateStatsSearch(index.amiibo_id);
+
+                addAmiiboToSearchHistory(
+                    index.trainer_name,
+                    index.amiibo_name,
+                    index.amiibo_id,
+                    index.character_id,
+                    window.localStorage.getItem("Global_Ruleset"),
+                    new Date()
+                );
+            });
 
             // Put image onto the listed item when amiibots is fixed
-            list += (
-                `<div class="list_item ${status}" id="list_item_searchable" onclick="updateStatsSearch('${index.amiibo_id}'), addAmiiboToSearchHistory('${index.trainer_name}', '${index.amiibo_name}', '${index.amiibo_id}', '${index.character_id}', '${window.localStorage.getItem("Global_Ruleset")}', '${new Date()}')">
-
+            div.innerHTML = `
                 <img src="./images/${characterIcon}" class="list_image">
 
                 <div class="list_stats_grid_container">
@@ -157,15 +166,14 @@ function nameSearchBar() {
                         <h2>Status:</h2>   
                         <h1>${index.match_selection_status}</h1>
                     </div>
-
                 </div>
+            `;
 
-            </div>`
-            );
+            container.appendChild(div);
         }
     });
-    list += "</div>";
-    content.innerHTML = list;
+
+    content.appendChild(container);
 
     document.getElementById('amiibo_count').innerText = (`Amiibo found: ${amiibo_count}`);
 

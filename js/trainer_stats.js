@@ -293,12 +293,15 @@ async function trainerStats() {
         //---------------------------------------------------------------------------------------------------------------------------------------------------------
         async function printValidTrainerAmiibo() {
             let content = document.getElementById('trainer_amiibo_list');
-            let list = '<div class="flex_list_container">';
-            let status = 'no status';
-            let characterIcon = 'no icon';
 
-            trainer_amiibo.map(index => {
-                status = 'reset';
+            // Clear existing content
+            content.innerHTML = "";
+
+            const container = document.createElement("div");
+            container.className = "flex_list_container";
+
+            trainer_amiibo.forEach(index => {
+                let status = 'reset';
 
                 if (index.match_selection_status == 'ACTIVE') { status = 'ACTIVE'; }
                 if (index.match_selection_status == 'STANDBY') { status = 'STANDBY'; }
@@ -307,10 +310,25 @@ async function trainerStats() {
                     index.character_rank = 'None';
                 }
 
-                // Put image onto the listed item when amiibots is fixed
-                list += (
-                    `<div class="list_item ${status}" id="list_item_searchable" onclick="updateStatsSearch('${index.id}'), addAmiiboToSearchHistory('${index.user.twitch_user_name}', '${index.name}', '${index.id}', '${index.playable_character_id}', '${window.localStorage.getItem("Global_Ruleset")}', '${new Date()}')">
+                const div = document.createElement("div");
+                div.className = `list_item ${status}`;
+                div.id = "list_item_searchable";
 
+                div.addEventListener("click", () => {
+                    updateStatsSearch(index.id);
+
+                    addAmiiboToSearchHistory(
+                        index.user.twitch_user_name,
+                        index.name,
+                        index.id,
+                        index.playable_character_id,
+                        window.localStorage.getItem("Global_Ruleset"),
+                        new Date()
+                    );
+                });
+
+                // Put image onto the listed item when amiibots is fixed
+                div.innerHTML = `
                     <img src="./images/${all_characters[index.playable_character_id]}.png" class="list_image">
 
                     <div class="list_stats_grid_container">
@@ -344,16 +362,16 @@ async function trainerStats() {
                             <h2>Rank:</h2>   
                             <h1>${index.character_rank}</h1>
                         </div>
-
                     </div>
+                `;
 
-                </div>`
-                );
+                container.appendChild(div);
             });
 
-            list += "</div>";
-            content.innerHTML = list;
-            document.getElementById('trainer_amiibo_count').innerText = (`Valid Amiibo: ${trainer_amiibo.length}`);
+            content.appendChild(container);
+
+            document.getElementById('trainer_amiibo_count').innerText =
+                `Valid Amiibo: ${trainer_amiibo.length}`;
         }
 
         await printValidTrainerAmiibo();

@@ -27,6 +27,18 @@ async function get_rulesets() {
 
 
 
+// UPDATE THE STORED AMIIBO ID AND REDIRECT TO THE STATS TOOL
+//---------------------------------------------------------------------------------------------------------------------------------------------------------
+function updateStatsSearch(new_id) {
+    console.log('updated id');
+    window.localStorage.setItem('saved_amiibo_id', new_id);
+    window.location.href = "./index.html";
+}
+
+
+
+
+
 // Adds new amiibo to the search history in local storage
 //---------------------------------------------------------------------------------------------------------------------------------------------------------
 async function addAmiiboToSearchHistory(trainer_name, amiibo_name, amiibo_id, character_id, ruleset, date_searched) {
@@ -86,7 +98,9 @@ document.addEventListener('DOMContentLoaded', async function () {
     let content = document.getElementById('searchHistoryDropdownContent');
 
     if (storedSearchHistory != null) {
-        storedSearchHistory.reverse().map(index => {
+        const storedSearchHistory = JSON.parse(localStorage.getItem("Search History")) || [];
+
+        storedSearchHistory.reverse().forEach(index => {
 
             // Calculate date searched from now
             function calculateTimeAgo(targetDate) {
@@ -122,45 +136,57 @@ document.addEventListener('DOMContentLoaded', async function () {
             // Match current character with icon
             let characterIcon = `${all_characters[index.character_id]}.png`;
 
-
             // Match current character with icon
             let ruleset_name;
             for (let i = 0; i < all_rulesets.length; i++) {
                 if (all_rulesets[i].id == index.ruleset) {
                     ruleset_name = all_rulesets[i].name;
+                    break;
                 }
             }
 
-            // Load everything onto the DOM
-            content.innerHTML += (
-                `<div class="list_item INACTIVE" id="list_item_searchable" onclick="updateStatsSearch('${index.amiibo_id}'), addAmiiboToSearchHistory('${index.trainer_name}', '${index.amiibo_name}', '${index.amiibo_id}', '${index.character_id}', '${index.ruleset}', '${new Date()}')">
+            const div = document.createElement("div");
+            div.className = "list_item INACTIVE";
+            div.id = "list_item_searchable";
 
-                    <img src="./images/${characterIcon}" class="list_image">
+            div.addEventListener("click", () => {
+                updateStatsSearch(index.amiibo_id);
 
-                    <div class="list_stats_grid_container">
-                        <div class="list_stats amiibo_trainer_name_title">
-                            <h2>${index.trainer_name}</h2>
-                            <h1>${index.amiibo_name}</h1>
-                        </div>
+                addAmiiboToSearchHistory(
+                    index.trainer_name,
+                    index.amiibo_name,
+                    index.amiibo_id,
+                    index.character_id,
+                    index.ruleset,
+                    new Date()
+                );
+            });
+
+            div.innerHTML = `
+                <img src="./images/${characterIcon}" class="list_image">
+
+                <div class="list_stats_grid_container">
+                    <div class="list_stats amiibo_trainer_name_title">
+                        <h2>${index.trainer_name}</h2>
+                        <h1>${index.amiibo_name}</h1>
+                    </div>
+                </div>
+
+                <div class="list_stats_container">
+                    <div class="list_stats">
+                        <h2>Ruleset</h2>   
+                        <h1>${ruleset_name}</h1>
                     </div>
 
-                    <div class="list_stats_container">
-                        <div class="list_stats">
-                            <h2>Ruleset</h2>   
-                            <h1>${ruleset_name}</h1>
-                        </div>
-
-                        <div class="list_stats">
-                            <h2>Searched</h2>   
-                            <h1>${timeAgo}</h1>
-                        </div>
-
+                    <div class="list_stats">
+                        <h2>Searched</h2>   
+                        <h1>${timeAgo}</h1>
                     </div>
+                </div>
+            `;
 
-                </div>`
-            );
+            content.appendChild(div);
         });
-
 
     } else {
         content.innerHTML = `<h2 style="margin: auto;">No search history to show :/</h2>`;
@@ -184,8 +210,8 @@ function toggleVisibility() {
 
 
 
-
-
-
+window.addAmiiboToSearchHistory = addAmiiboToSearchHistory;
+window.toggleVisibility = toggleVisibility;
+window.updateStatsSearch = updateStatsSearch;
 
 
