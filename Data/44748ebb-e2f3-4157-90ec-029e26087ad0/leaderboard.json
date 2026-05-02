@@ -48741,7 +48741,7 @@
     "losses": 19.0,
     "rating": 28.276014,
     "rating_mu": 31.957998,
-    "match_selection_status": "STANDBY",
+    "match_selection_status": "ACTIVE",
     "user": {
       "id": "1d6fea7d-29c8-4d99-b621-12b5b3140a63",
       "twitch_user_name": "birdy974"
@@ -92330,20 +92330,6 @@
     }
   },
   {
-    "name": "Williams",
-    "id": "e7885d54-579c-491e-b255-2a2a48f94a65",
-    "playable_character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
-    "wins": 58.0,
-    "losses": 75.0,
-    "rating": 23.164368,
-    "rating_mu": 25.87188,
-    "match_selection_status": "ACTIVE",
-    "user": {
-      "id": "7b9f6364-0291-4832-a2d0-bffa6edd6579",
-      "twitch_user_name": "resplendentxatu"
-    }
-  },
-  {
     "name": "ouija",
     "id": "5622fbfd-5013-4752-a210-b61fcd2560e4",
     "playable_character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
@@ -92355,6 +92341,20 @@
     "user": {
       "id": "259c6c07-f590-4aba-8069-85a64f78c6f3",
       "twitch_user_name": "massivmann"
+    }
+  },
+  {
+    "name": "Williams",
+    "id": "e7885d54-579c-491e-b255-2a2a48f94a65",
+    "playable_character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+    "wins": 58.0,
+    "losses": 75.0,
+    "rating": 23.164368,
+    "rating_mu": 25.87188,
+    "match_selection_status": "ACTIVE",
+    "user": {
+      "id": "7b9f6364-0291-4832-a2d0-bffa6edd6579",
+      "twitch_user_name": "resplendentxatu"
     }
   },
   {
@@ -100961,7 +100961,7 @@
     "losses": 187.0,
     "rating": 21.998571,
     "rating_mu": 24.535759,
-    "match_selection_status": "ACTIVE",
+    "match_selection_status": "INACTIVE",
     "user": {
       "id": "04082fa7-2907-4659-8e20-268b35dccc31",
       "twitch_user_name": "DemonTamer534"
