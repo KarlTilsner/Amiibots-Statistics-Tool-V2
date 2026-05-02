@@ -69909,7 +69909,7 @@
     "losses": 161.0,
     "rating": 25.83858,
     "rating_mu": 28.334328,
-    "match_selection_status": "ACTIVE",
+    "match_selection_status": "STANDBY",
     "user": {
       "id": "6476e38f-5b9b-4f8a-b17b-6ee733aba270",
       "twitch_user_name": "6samama9"
@@ -92330,20 +92330,6 @@
     }
   },
   {
-    "name": "ouija",
-    "id": "5622fbfd-5013-4752-a210-b61fcd2560e4",
-    "playable_character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
-    "wins": 17.0,
-    "losses": 7.0,
-    "rating": 23.164368,
-    "rating_mu": 28.270187,
-    "match_selection_status": "INACTIVE",
-    "user": {
-      "id": "259c6c07-f590-4aba-8069-85a64f78c6f3",
-      "twitch_user_name": "massivmann"
-    }
-  },
-  {
     "name": "Williams",
     "id": "e7885d54-579c-491e-b255-2a2a48f94a65",
     "playable_character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
@@ -92355,6 +92341,20 @@
     "user": {
       "id": "7b9f6364-0291-4832-a2d0-bffa6edd6579",
       "twitch_user_name": "resplendentxatu"
+    }
+  },
+  {
+    "name": "ouija",
+    "id": "5622fbfd-5013-4752-a210-b61fcd2560e4",
+    "playable_character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+    "wins": 17.0,
+    "losses": 7.0,
+    "rating": 23.164368,
+    "rating_mu": 28.270187,
+    "match_selection_status": "INACTIVE",
+    "user": {
+      "id": "259c6c07-f590-4aba-8069-85a64f78c6f3",
+      "twitch_user_name": "massivmann"
     }
   },
   {
@@ -92533,7 +92533,7 @@
     "losses": 17.0,
     "rating": 23.142366,
     "rating_mu": 27.683891,
-    "match_selection_status": "ACTIVE",
+    "match_selection_status": "STANDBY",
     "user": {
       "id": "6476e38f-5b9b-4f8a-b17b-6ee733aba270",
       "twitch_user_name": "6samama9"
@@ -114233,7 +114233,7 @@
     "losses": 24.0,
     "rating": 19.858503,
     "rating_mu": 23.75603,
-    "match_selection_status": "ACTIVE",
+    "match_selection_status": "STANDBY",
     "user": {
       "id": "6476e38f-5b9b-4f8a-b17b-6ee733aba270",
       "twitch_user_name": "6samama9"
@@ -140361,6 +140361,20 @@
     "user": {
       "id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
       "twitch_user_name": "RockMyRole"
+    }
+  },
+  {
+    "name": "グリーンマリオ",
+    "id": "da5309d9-6784-4702-b8ac-7e48be19ce09",
+    "playable_character_id": "da7df432-47e4-4cbe-9b29-1c7958197105",
+    "wins": 5.0,
+    "losses": 7.0,
+    "rating": 8.391549,
+    "rating_mu": 15.6904125,
+    "match_selection_status": "ACTIVE",
+    "user": {
+      "id": "34482b97-0dc9-4c6b-924b-cef02c2e42c6",
+      "twitch_user_name": "KermitTheqt"
     }
   },
   {
