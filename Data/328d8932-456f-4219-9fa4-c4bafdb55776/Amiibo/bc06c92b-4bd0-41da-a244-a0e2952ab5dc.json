@@ -888,6 +888,40 @@
         "trainer_name": "amiibofight",
         "result": "win"
       }
+    },
+    "2026-05-03T16:37:00.599707+00:00": {
+      "this_amiibo": {
+        "rating": 26.87714838840531,
+        "rating_mu": 30.196506850239032,
+        "rating_sigma": 1.1064528206112405,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "aa1d70bd-6b57-44d9-910a-fca4d817795a",
+        "name": "Silver",
+        "rating": 27.687571632388597,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "loss"
+      }
+    },
+    "2026-05-03T05:35:38.928218+00:00": {
+      "this_amiibo": {
+        "rating": 26.67759864858786,
+        "rating_mu": 30.02490857852627,
+        "rating_sigma": 1.115769976646136,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "c7e63b23-bb1f-4ba0-a873-d35f0c41fb95",
+        "name": "Radahn",
+        "rating": 25.099739602376417,
+        "trainer_id": "4d22dabf-1f24-4dc1-b7ac-9868a5dbbcb0",
+        "trainer_name": "FrostByte356",
+        "result": "win"
+      }
     }
   }
 }
