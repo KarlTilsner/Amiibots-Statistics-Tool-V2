@@ -1585,6 +1585,40 @@
         "trainer_name": "infinite_ultimate_life",
         "result": "loss"
       }
+    },
+    "2026-05-04T16:59:37.107147+00:00": {
+      "this_amiibo": {
+        "rating": 15.079904107245643,
+        "rating_mu": 17.857908890174706,
+        "rating_sigma": 0.9260015943096874,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "6c1b3cea-b74a-4095-a955-917c97260418",
+        "name": "Star Fox",
+        "rating": 14.48034834690464,
+        "trainer_id": "0dbb4031-0bb5-4915-81aa-3f796d5d9776",
+        "trainer_name": "infinite_ultimate_life",
+        "result": "win"
+      }
+    },
+    "2026-05-04T15:50:58.216323+00:00": {
+      "this_amiibo": {
+        "rating": 15.19705334160376,
+        "rating_mu": 17.986250703824805,
+        "rating_sigma": 0.9297324540736812,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4baddb51-1a48-481b-9c29-332c0f0fa5cb",
+        "id": "62400b8e-4fa9-4851-8dec-4d1cb332a23b",
+        "name": "Turnip",
+        "rating": 19.872790044954478,
+        "trainer_id": "2b17d8d4-70f5-49d7-846e-2ee5c4369d12",
+        "trainer_name": "kbee997",
+        "result": "loss"
+      }
     }
   }
 }
