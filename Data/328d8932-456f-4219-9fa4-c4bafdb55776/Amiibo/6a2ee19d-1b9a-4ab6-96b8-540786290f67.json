@@ -973,6 +973,40 @@
         "trainer_name": "ven_1234",
         "result": "win"
       }
+    },
+    "2026-05-05T07:54:53.769399+00:00": {
+      "this_amiibo": {
+        "rating": 28.384533636371053,
+        "rating_mu": 31.653918184599668,
+        "rating_sigma": 1.0897948494095386,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "6a26ef3b-8391-4278-ab0f-18ae68d0362e",
+        "name": "Cart",
+        "rating": 29.559659485813718,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "win"
+      }
+    },
+    "2026-05-05T02:32:47.036843+00:00": {
+      "this_amiibo": {
+        "rating": 28.484443869915207,
+        "rating_mu": 31.77403260446591,
+        "rating_sigma": 1.096529578183567,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "33800eab-da1c-4e64-8b6f-31b4f3ea460f",
+        "name": "Bloons",
+        "rating": 24.19290565404686,
+        "trainer_id": "d7805111-3127-4140-80fc-a8788cbe9976",
+        "trainer_name": "techmode5",
+        "result": "loss"
+      }
     }
   }
 }
