@@ -2299,6 +2299,40 @@
         "trainer_name": "ven_1234",
         "result": "loss"
       }
+    },
+    "2026-05-07T15:43:30.654134+00:00": {
+      "this_amiibo": {
+        "rating": 25.616790536667537,
+        "rating_mu": 28.213444862263398,
+        "rating_sigma": 0.8655514418652874,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "802f2c2f-ba63-47af-8861-cd26d0cf3aff",
+        "name": "Tatsu",
+        "rating": 24.9457043969263,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2026-05-07T12:33:23.361509+00:00": {
+      "this_amiibo": {
+        "rating": 25.725905637078352,
+        "rating_mu": 28.32918291092809,
+        "rating_sigma": 0.8677590912832459,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "7bf8c562-4dc3-44ce-80ec-cc66f0bb8ff7",
+        "id": "0682689b-b69a-43dd-89e2-14f640bc7ba5",
+        "name": "Flim",
+        "rating": 14.749266663904345,
+        "trainer_id": "d7805111-3127-4140-80fc-a8788cbe9976",
+        "trainer_name": "techmode5",
+        "result": "loss"
+      }
     }
   }
 }
