@@ -1092,6 +1092,40 @@
         "trainer_name": "ianavenger",
         "result": "loss"
       }
+    },
+    "2026-05-08T18:08:35.301287+00:00": {
+      "this_amiibo": {
+        "rating": 38.58845907684392,
+        "rating_mu": 41.68795490950861,
+        "rating_sigma": 1.0331652775548985,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "c91f2fa4-c625-4468-a59b-04f1e12a3797",
+        "name": "Stone Cold",
+        "rating": 39.36231625449867,
+        "trainer_id": "8bd5645e-4290-498b-9776-71751a6c2242",
+        "trainer_name": "MiDe1",
+        "result": "win"
+      }
+    },
+    "2026-05-08T14:32:02.017762+00:00": {
+      "this_amiibo": {
+        "rating": 38.71497681942472,
+        "rating_mu": 41.834598433424055,
+        "rating_sigma": 1.0398738713331113,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "7a2887be-ce36-4916-b8e8-39ef190202ba",
+        "name": "GasStation",
+        "rating": 34.31917806390718,
+        "trainer_id": "c75c7db9-7e00-42c5-93e4-81fcfb733220",
+        "trainer_name": "prowervolt",
+        "result": "loss"
+      }
     }
   }
 }
