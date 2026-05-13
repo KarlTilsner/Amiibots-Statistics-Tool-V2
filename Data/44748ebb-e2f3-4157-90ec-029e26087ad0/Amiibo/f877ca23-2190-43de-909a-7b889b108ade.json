@@ -1262,6 +1262,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2026-05-13T05:46:42.027827+00:00": {
+      "this_amiibo": {
+        "rating": 28.554838182776894,
+        "rating_mu": 31.50931487793689,
+        "rating_sigma": 0.9848255650533319,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "f5b5a206-272c-41e1-9830-a53eedf28ebc",
+        "name": "Yamato",
+        "rating": 27.615635107696527,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "win"
+      }
+    },
+    "2026-05-13T03:53:06.407722+00:00": {
+      "this_amiibo": {
+        "rating": 28.652333772667976,
+        "rating_mu": 31.61880526399295,
+        "rating_sigma": 0.9888238304416577,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3b44eedd-131c-4131-89a1-2f8bc4867e89",
+        "id": "8c105c53-2414-47cc-b5cf-77ef0e2d2ce8",
+        "name": "Audrey",
+        "rating": 27.28051597673484,
+        "trainer_id": "aa43658e-5b76-465a-8e40-88525da0addb",
+        "trainer_name": "flounder_ssbu",
+        "result": "win"
+      }
     }
   }
 }
