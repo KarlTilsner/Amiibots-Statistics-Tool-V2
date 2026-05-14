@@ -89,6 +89,40 @@
         "trainer_name": "smashssf2_ita",
         "result": "loss"
       }
+    },
+    "2026-05-13T21:16:06.594630+00:00": {
+      "this_amiibo": {
+        "rating": 21.438990007687952,
+        "rating_mu": 30.567518875264646,
+        "rating_sigma": 3.042842955858898,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "d9062485-114d-45c9-95ab-70bf2ede65d8",
+        "name": "X",
+        "rating": 26.949520035970657,
+        "trainer_id": "617a242b-ff29-4568-a5b4-ec41e1ce80d2",
+        "trainer_name": "Xedge14",
+        "result": "loss"
+      }
+    },
+    "2026-05-13T18:32:23.701434+00:00": {
+      "this_amiibo": {
+        "rating": 19.334932281658677,
+        "rating_mu": 29.245368376642354,
+        "rating_sigma": 3.3034786983278925,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "08158de0-3758-4bac-ace7-252d03167219",
+        "name": "Archibald",
+        "rating": 26.171538225669664,
+        "trainer_id": "47259976-75b0-4806-96ff-af13ee9a7977",
+        "trainer_name": "Uyodai",
+        "result": "win"
+      }
     }
   }
 }

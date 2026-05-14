@@ -701,6 +701,40 @@
         "trainer_name": "AlexanderAgne",
         "result": "loss"
       }
+    },
+    "2026-05-14T10:02:53.276746+00:00": {
+      "this_amiibo": {
+        "rating": 23.74591718737846,
+        "rating_mu": 27.4836497000708,
+        "rating_sigma": 1.2459108375641132,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6998259f-982b-47ee-90ea-c1dae66fca5a",
+        "id": "652fc3ef-db5b-4c5c-8323-84bcea125c79",
+        "name": "MaddiMouse",
+        "rating": 21.965191328302634,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "BreezyWisp",
+        "result": "win"
+      }
+    },
+    "2026-05-13T20:41:18.019267+00:00": {
+      "this_amiibo": {
+        "rating": 24.009967525190124,
+        "rating_mu": 27.80138189148905,
+        "rating_sigma": 1.2638047887663093,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "977cec63-ba41-4b30-b9a4-7553ff6e35e8",
+        "name": "Dr.Chill V",
+        "rating": 24.94993564591026,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "loss"
+      }
     }
   }
 }
