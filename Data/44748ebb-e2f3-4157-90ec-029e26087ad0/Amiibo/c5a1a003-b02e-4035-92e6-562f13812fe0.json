@@ -1,7 +1,7 @@
 {
   "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
   "id": "c5a1a003-b02e-4035-92e6-562f13812fe0",
-  "name": "DemiDevil",
+  "name": "DemiGod",
   "trainer_id": "16e50ade-e696-4d69-9605-177fadabd171",
   "trainer_name": "opms21",
   "matches": {
@@ -1005,6 +1005,40 @@
         "rating": 34.23032167199853,
         "trainer_id": "d5a5c4f3-d299-47a2-a5e0-ed4471b55e36",
         "trainer_name": "not_citrus23",
+        "result": "loss"
+      }
+    },
+    "2026-05-16T08:44:11.804719+00:00": {
+      "this_amiibo": {
+        "rating": 39.69297655668063,
+        "rating_mu": 42.8947961573735,
+        "rating_sigma": 1.0672732002309568,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "24b22573-e2b1-45f6-ad9a-8a0178c068f1",
+        "name": "CominAtYa",
+        "rating": 35.51946591000669,
+        "trainer_id": "8b58def7-f142-4a59-b1d1-322b89f76a74",
+        "trainer_name": "ja9k_was_taken",
+        "result": "win"
+      }
+    },
+    "2026-05-15T22:06:20.118472+00:00": {
+      "this_amiibo": {
+        "rating": 39.88769951138629,
+        "rating_mu": 43.11637992477131,
+        "rating_sigma": 1.0762268044616745,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "688590e3-1b83-420a-baaf-58669d487a62",
+        "name": "Takaba",
+        "rating": 36.75504893586173,
+        "trainer_id": "66d19cee-439f-4d74-83e9-ba7d4981be0d",
+        "trainer_name": "halfmario456_",
         "result": "loss"
       }
     }
