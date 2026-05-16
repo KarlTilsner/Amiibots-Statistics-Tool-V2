@@ -3659,6 +3659,40 @@
         "trainer_name": "testmemmr",
         "result": "win"
       }
+    },
+    "2026-05-15T15:51:13.658801+00:00": {
+      "this_amiibo": {
+        "rating": 17.827948875808737,
+        "rating_mu": 20.29783785236448,
+        "rating_sigma": 0.8232963255185815,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "1d9fa858-755f-41f5-993a-081b60e8bda4",
+        "name": ":microbe:",
+        "rating": 14.031605266117152,
+        "trainer_id": "98a0f133-1669-4320-a3ee-9df476691b19",
+        "trainer_name": "kixelmon",
+        "result": "loss"
+      }
+    },
+    "2026-05-15T15:44:45.865219+00:00": {
+      "this_amiibo": {
+        "rating": 17.75403315899198,
+        "rating_mu": 20.2244828053984,
+        "rating_sigma": 0.8234832154688062,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3",
+        "id": "87b2e66c-ed21-48ff-a82c-d8f5a40eb259",
+        "name": "Godzilla",
+        "rating": 17.84049924276084,
+        "trainer_id": "34482b97-0dc9-4c6b-924b-cef02c2e42c6",
+        "trainer_name": "kermit_the_qt",
+        "result": "win"
+      }
     }
   }
 }

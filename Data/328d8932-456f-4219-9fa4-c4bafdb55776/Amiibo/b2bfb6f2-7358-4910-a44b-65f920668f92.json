@@ -1,7 +1,7 @@
 {
   "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
   "id": "b2bfb6f2-7358-4910-a44b-65f920668f92",
-  "name": "DemiDevil",
+  "name": "DemiGod",
   "trainer_id": "16e50ade-e696-4d69-9605-177fadabd171",
   "trainer_name": "opms21",
   "matches": {
@@ -1482,6 +1482,57 @@
         "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
         "trainer_name": "rapjm14",
         "result": "win"
+      }
+    },
+    "2026-05-15T20:11:58.269965+00:00": {
+      "this_amiibo": {
+        "rating": 40.175986107203926,
+        "rating_mu": 42.977549500223326,
+        "rating_sigma": 0.9338544643397998,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "6cb23e37-dc59-473b-a8ee-1a593a415f75",
+        "name": "Gaogaen",
+        "rating": 40.06890719156321,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "loss"
+      }
+    },
+    "2026-05-15T17:15:23.464161+00:00": {
+      "this_amiibo": {
+        "rating": 40.052401210979035,
+        "rating_mu": 42.86454515923394,
+        "rating_sigma": 0.9373813160849683,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "f749d66e-3314-4f3d-b561-4cf3c8138661",
+        "name": "NoDivinity",
+        "rating": 36.14378013029824,
+        "trainer_id": "ca8867a9-3345-444a-9c19-ef55eeb56e1f",
+        "trainer_name": "mira_cle_lol",
+        "result": "loss"
+      }
+    },
+    "2026-05-15T15:23:30.964507+00:00": {
+      "this_amiibo": {
+        "rating": 39.96191347897674,
+        "rating_mu": 42.7813580696217,
+        "rating_sigma": 0.9398148635483201,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d2d68453-454c-41a2-bf12-7b001d4c8f41",
+        "id": "c83fdf51-7161-4e95-9b0a-315a8261128d",
+        "name": "Nessquik",
+        "rating": 38.77150119657221,
+        "trainer_id": "c59ed33e-200b-4aed-938d-da0fb5ea7227",
+        "trainer_name": "Drooganlol",
+        "result": "loss"
       }
     }
   }
