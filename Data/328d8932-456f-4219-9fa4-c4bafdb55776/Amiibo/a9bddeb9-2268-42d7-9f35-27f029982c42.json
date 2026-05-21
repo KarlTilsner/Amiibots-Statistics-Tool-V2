@@ -429,6 +429,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2026-05-20T21:21:35.217924+00:00": {
+      "this_amiibo": {
+        "rating": 31.82254045808578,
+        "rating_mu": 36.50097640216228,
+        "rating_sigma": 1.5594786480255,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "4c8513b8-a7c7-42f4-a4d4-55f5415d92fb",
+        "id": "4c745ebd-ca3d-4392-820f-2fdc16f48214",
+        "name": "MamaDorito",
+        "rating": 31.716897305691212,
+        "trainer_id": "2f2ac200-8c7b-4677-8244-efed4d0083ce",
+        "trainer_name": "lemoninyourheart",
+        "result": "loss"
+      }
+    },
+    "2026-05-20T10:24:18.003294+00:00": {
+      "this_amiibo": {
+        "rating": 31.48989807894177,
+        "rating_mu": 36.251788075579675,
+        "rating_sigma": 1.5872966655459677,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "327a2d54-fbe8-40a9-a30e-9d152d989757",
+        "name": "La Niña",
+        "rating": 27.942876984893854,
+        "trainer_id": "6620a138-5af3-4d27-8bc7-1e989943136b",
+        "trainer_name": "EthanZombieK",
+        "result": "win"
+      }
     }
   }
 }

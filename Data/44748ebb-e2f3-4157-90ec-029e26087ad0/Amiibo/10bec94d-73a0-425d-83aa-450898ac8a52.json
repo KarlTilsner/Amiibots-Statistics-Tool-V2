@@ -7450,6 +7450,40 @@
         "trainer_name": "gold_dxj",
         "result": "loss"
       }
+    },
+    "2026-05-20T19:30:29.661795+00:00": {
+      "this_amiibo": {
+        "rating": 31.6372744617349,
+        "rating_mu": 34.02278639992824,
+        "rating_sigma": 0.7951706460644477,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "d7637f9a-f90c-4c7f-841e-e60a277e82f5",
+        "name": "Saiko",
+        "rating": 27.95602897729892,
+        "trainer_id": "c1a8adfd-561e-4b61-9870-5e000224d33f",
+        "trainer_name": "Mario_Dude35",
+        "result": "win"
+      }
+    },
+    "2026-05-20T04:10:08.873938+00:00": {
+      "this_amiibo": {
+        "rating": 31.74045562078374,
+        "rating_mu": 34.12708767078179,
+        "rating_sigma": 0.7955440166660165,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "388a6622-c6aa-4eaf-8b7c-47f5e278b83a",
+        "name": "V-Guard",
+        "rating": 30.972778557560304,
+        "trainer_id": "76092551-3aba-4182-923a-848b2d279e4c",
+        "trainer_name": "BuzzyButts",
+        "result": "loss"
+      }
     }
   }
 }
