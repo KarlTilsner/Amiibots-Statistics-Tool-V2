@@ -1228,6 +1228,57 @@
         "trainer_name": "Uyodai",
         "result": "loss"
       }
+    },
+    "2026-05-21T06:00:15.664504+00:00": {
+      "this_amiibo": {
+        "rating": -3.0378573250838397,
+        "rating_mu": 0.012203569342057909,
+        "rating_sigma": 1.0166869648086325,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7a8f391b-e3ca-4c47-8ecb-d7eaa3d605aa",
+        "id": "a3ff6b33-c455-4499-9284-6fe84e4e2b40",
+        "name": "Lullaby□",
+        "rating": -1.1319912946106143,
+        "trainer_id": "47259976-75b0-4806-96ff-af13ee9a7977",
+        "trainer_name": "Uyodai",
+        "result": "win"
+      }
+    },
+    "2026-05-21T05:02:09.221412+00:00": {
+      "this_amiibo": {
+        "rating": -2.9806661698712302,
+        "rating_mu": 0.07702621103245379,
+        "rating_sigma": 1.0192307936345613,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "3a80cdac-93bb-4a75-8e38-f69f37d10ec6",
+        "id": "9cae9e06-a75f-4d66-8c55-7f656b667f37",
+        "name": "Shart□",
+        "rating": -4.103295972063481,
+        "trainer_id": "47259976-75b0-4806-96ff-af13ee9a7977",
+        "trainer_name": "Uyodai",
+        "result": "loss"
+      }
+    },
+    "2026-05-20T23:40:28.487997+00:00": {
+      "this_amiibo": {
+        "rating": -3.131523808195847,
+        "rating_mu": -0.05639613693608121,
+        "rating_sigma": 1.0250425570865886,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3a80cdac-93bb-4a75-8e38-f69f37d10ec6",
+        "id": "9cae9e06-a75f-4d66-8c55-7f656b667f37",
+        "name": "Shart□",
+        "rating": -3.954572449260387,
+        "trainer_id": "47259976-75b0-4806-96ff-af13ee9a7977",
+        "trainer_name": "Uyodai",
+        "result": "win"
+      }
     }
   }
 }
