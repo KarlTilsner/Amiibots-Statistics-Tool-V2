@@ -1296,6 +1296,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2026-05-22T12:42:50.764666+00:00": {
+      "this_amiibo": {
+        "rating": 30.142193718449818,
+        "rating_mu": 33.01573250437079,
+        "rating_sigma": 0.9578462619736571,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "86c37079-9c62-4faf-a938-69215270a7f8",
+        "name": "D3W",
+        "rating": 32.405130064442226,
+        "trainer_id": "8da52313-7867-4448-992b-710b18dc4742",
+        "trainer_name": "Vapor73",
+        "result": "win"
+      }
+    },
+    "2026-05-21T07:27:53.066055+00:00": {
+      "this_amiibo": {
+        "rating": 30.22641529542184,
+        "rating_mu": 33.11004714231373,
+        "rating_sigma": 0.9612106156306308,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c3a30ee3-52a5-4380-bf5f-a5514890a55f",
+        "id": "559a7b83-80e2-4d1d-8484-1061c12c0469",
+        "name": "Star Hero",
+        "rating": 33.698372100144304,
+        "trainer_id": "5fcedb7b-9f2e-4dc6-8498-cedb11992e0e",
+        "trainer_name": "nicholaskirbykins",
+        "result": "loss"
+      }
     }
   }
 }
