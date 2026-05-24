@@ -72,6 +72,40 @@
         "trainer_name": "HyperKritical",
         "result": "loss"
       }
+    },
+    "2026-05-24T02:59:38.237844+00:00": {
+      "this_amiibo": {
+        "rating": 22.08787143758297,
+        "rating_mu": 31.918003449781306,
+        "rating_sigma": 3.276710670732779,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "86c37079-9c62-4faf-a938-69215270a7f8",
+        "name": "D3W",
+        "rating": 32.476889662485725,
+        "trainer_id": "8da52313-7867-4448-992b-710b18dc4742",
+        "trainer_name": "Vapor73",
+        "result": "win"
+      }
+    },
+    "2026-05-23T21:53:36.077743+00:00": {
+      "this_amiibo": {
+        "rating": 22.397571949294772,
+        "rating_mu": 33.05125137649252,
+        "rating_sigma": 3.551226475732584,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "1cb4aef0-ef80-4495-b348-82cc14c4e3ad",
+        "name": "Chandra",
+        "rating": 32.365680056472584,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "BreezyWisp",
+        "result": "win"
+      }
     }
   }
 }
