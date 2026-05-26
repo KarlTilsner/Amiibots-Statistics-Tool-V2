@@ -1534,6 +1534,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2026-05-26T00:31:29.111910+00:00": {
+      "this_amiibo": {
+        "rating": 28.710889261036186,
+        "rating_mu": 31.578618647248245,
+        "rating_sigma": 0.9559097954040189,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "facccb1a-8077-4890-85a5-33ea9a4baf38",
+        "name": "Megamiibo",
+        "rating": 27.71674946415631,
+        "trainer_id": "a28a2913-c930-4acd-9cb7-d8a53b228189",
+        "trainer_name": "River_Tethys",
+        "result": "win"
+      }
+    },
+    "2026-05-25T23:28:03.012677+00:00": {
+      "this_amiibo": {
+        "rating": 28.846315898572755,
+        "rating_mu": 31.728885078384835,
+        "rating_sigma": 0.9608563932706934,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "66d89a85-3323-444c-907d-67f7d130c6e6",
+        "id": "a0874754-3d84-4db6-b14e-957aa5aef7bd",
+        "name": "Sihn",
+        "rating": 12.329893803119303,
+        "trainer_id": "6aa6df68-d41c-4d02-80c9-f77603e6f51e",
+        "trainer_name": "AlexanderAgne",
+        "result": "loss"
+      }
     }
   }
 }
