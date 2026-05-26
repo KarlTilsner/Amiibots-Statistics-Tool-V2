@@ -2945,6 +2945,40 @@
         "trainer_name": "improv_195",
         "result": "loss"
       }
+    },
+    "2026-05-25T22:28:57.347662+00:00": {
+      "this_amiibo": {
+        "rating": 26.310778095544475,
+        "rating_mu": 28.830451139012638,
+        "rating_sigma": 0.8398910144893877,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "bcfaf3a7-049c-478f-901f-31ac873260f3",
+        "id": "67f54526-a316-4ffa-8f2e-72e83ac0a92f",
+        "name": "K-Man",
+        "rating": 24.464740268750525,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "win"
+      }
+    },
+    "2026-05-25T18:10:45.676826+00:00": {
+      "this_amiibo": {
+        "rating": 26.419362266188003,
+        "rating_mu": 28.94374768751134,
+        "rating_sigma": 0.8414618071077792,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "39f4f717-151a-4cb0-b672-7a66ba3c5274",
+        "id": "0be7e3d3-c453-4331-a9bc-df3015101306",
+        "name": "Mickey",
+        "rating": 23.787555287471108,
+        "trainer_id": "f54e7916-021a-4c5a-b3c3-1957421dd6ae",
+        "trainer_name": "amiibofight",
+        "result": "loss"
+      }
     }
   }
 }

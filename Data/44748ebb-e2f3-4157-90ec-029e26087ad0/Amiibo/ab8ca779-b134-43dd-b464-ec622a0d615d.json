@@ -1007,6 +1007,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2026-05-25T22:04:50.616666+00:00": {
+      "this_amiibo": {
+        "rating": 31.13628189788723,
+        "rating_mu": 34.4096923240487,
+        "rating_sigma": 1.0911368087204893,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "518596af-acc8-4205-b24e-db8f8a953756",
+        "id": "aeddbae8-e191-4432-af0d-ecee278433d0",
+        "name": "MugenTrain",
+        "rating": 34.57652900123986,
+        "trainer_id": "de23bee4-13d7-4f73-b9bd-e817323439aa",
+        "trainer_name": "rapjm14",
+        "result": "win"
+      }
+    },
+    "2026-05-25T11:27:22.733376+00:00": {
+      "this_amiibo": {
+        "rating": 31.208377613841172,
+        "rating_mu": 34.49779435923351,
+        "rating_sigma": 1.096472248464113,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "295e8672-a7d0-40a1-861f-35097bf0f08b",
+        "id": "930650fe-7887-4d23-a4a8-1848b447352c",
+        "name": "Kaede",
+        "rating": 31.36483717649483,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "loss"
+      }
     }
   }
 }
