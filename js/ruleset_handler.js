@@ -39,3 +39,5 @@ async function changeRuleset(selection) {
 }
 
 
+
+window.changeRuleset = changeRuleset;
