@@ -905,6 +905,74 @@
         "trainer_name": "smashssf2_ita",
         "result": "loss"
       }
+    },
+    "2026-05-11T18:43:02.873293+00:00": {
+      "this_amiibo": {
+        "rating": 26.828173901838337,
+        "rating_mu": 30.49841932550817,
+        "rating_sigma": 1.2234151412232772,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8bae1c7b-a783-45ee-a246-1ab9507080ba",
+        "id": "f9f28d7e-428e-4997-9d7b-bb73b20aace3",
+        "name": "Squirrel",
+        "rating": 27.179429593354413,
+        "trainer_id": "5557ab09-f049-4753-9b0e-97781ec49b53",
+        "trainer_name": "iamgoomb",
+        "result": "win"
+      }
+    },
+    "2026-05-13T17:27:10.337707+00:00": {
+      "this_amiibo": {
+        "rating": 26.686991505047107,
+        "rating_mu": 30.319774268187977,
+        "rating_sigma": 1.2109275877136239,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "8df1cca7-8810-425b-8f6a-0e65a8eda7a3",
+        "id": "42da19b1-8752-4dd9-b911-96494f4d3c29",
+        "name": "Fïné",
+        "rating": 28.918474181208662,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2026-05-16T04:35:13.670128+00:00": {
+      "this_amiibo": {
+        "rating": 26.556481640046485,
+        "rating_mu": 30.154406182278255,
+        "rating_sigma": 1.1993081807439225,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "8c4aaad4-8efc-4cd1-b003-4f36a7b95d06",
+        "name": "ExAid",
+        "rating": 29.136283193780454,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
+    },
+    "2026-05-21T08:51:02.194186+00:00": {
+      "this_amiibo": {
+        "rating": 26.724926246343056,
+        "rating_mu": 30.302756758092638,
+        "rating_sigma": 1.1926101705831935,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "b2e680f3-0c62-4387-a4ac-b539d85e90c0",
+        "id": "de55f94a-3578-4026-9d7a-ba078ae1bd3a",
+        "name": "F-Type 1",
+        "rating": 15.6682088817033,
+        "trainer_id": "b2a798a6-4874-49ce-8055-7c420c6eca5a",
+        "trainer_name": "Arspamon",
+        "result": "loss"
+      }
     }
   }
 }

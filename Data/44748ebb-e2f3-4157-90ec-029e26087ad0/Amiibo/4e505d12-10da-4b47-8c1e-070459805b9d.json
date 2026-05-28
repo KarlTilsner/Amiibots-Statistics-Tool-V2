@@ -463,6 +463,40 @@
         "trainer_name": "Uyodai",
         "result": "loss"
       }
+    },
+    "2026-05-09T16:50:18.602870+00:00": {
+      "this_amiibo": {
+        "rating": 1.0152969838616155,
+        "rating_mu": 5.6557447562362935,
+        "rating_sigma": 1.5468159241248927,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "d3773b9a-8e0a-4eab-8864-d7f39af85ec1",
+        "name": "BAN INCIN?",
+        "rating": -1.0356772334819135,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "win"
+      }
+    },
+    "2026-05-11T17:08:23.502598+00:00": {
+      "this_amiibo": {
+        "rating": 0.8203621770967757,
+        "rating_mu": 5.385761044033373,
+        "rating_sigma": 1.5217996223121992,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "2cf4a409-b186-43a9-948f-175abbef3426",
+        "id": "d3773b9a-8e0a-4eab-8864-d7f39af85ec1",
+        "name": "BAN INCIN?",
+        "rating": 0.4634118800355509,
+        "trainer_id": "5cd165e0-7360-44da-a691-36afbd644d8d",
+        "trainer_name": "Azend_1",
+        "result": "win"
+      }
     }
   }
 }

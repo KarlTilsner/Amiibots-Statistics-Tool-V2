@@ -3438,6 +3438,40 @@
         "trainer_name": "netsyyy",
         "result": "loss"
       }
+    },
+    "2026-05-16T17:00:41.877828+00:00": {
+      "this_amiibo": {
+        "rating": 34.91561981620375,
+        "rating_mu": 37.38601150194692,
+        "rating_sigma": 0.8234638952477222,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "7a05494c-94d2-4999-bcca-2cc92f6c44e0",
+        "name": "Sauron",
+        "rating": 33.707506454729625,
+        "trainer_id": "d7f44591-9713-4c95-b840-3607f6a73d24",
+        "trainer_name": "luckman21",
+        "result": "win"
+      }
+    },
+    "2026-05-26T19:26:59.611284+00:00": {
+      "this_amiibo": {
+        "rating": 34.99928226942172,
+        "rating_mu": 37.467976204430606,
+        "rating_sigma": 0.8228979783362946,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "7a05494c-94d2-4999-bcca-2cc92f6c44e0",
+        "name": "Sauron",
+        "rating": 33.77725014101863,
+        "trainer_id": "d7f44591-9713-4c95-b840-3607f6a73d24",
+        "trainer_name": "luckman21",
+        "result": "loss"
+      }
     }
   }
 }

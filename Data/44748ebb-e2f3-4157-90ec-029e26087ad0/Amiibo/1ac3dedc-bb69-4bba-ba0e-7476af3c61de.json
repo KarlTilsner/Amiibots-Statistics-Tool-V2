@@ -4203,6 +4203,40 @@
         "trainer_name": "improv_195",
         "result": "loss"
       }
+    },
+    "2026-05-11T02:09:52.548695+00:00": {
+      "this_amiibo": {
+        "rating": 22.285820534599907,
+        "rating_mu": 24.81848832318349,
+        "rating_sigma": 0.8442225961945276,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d0d93ac1-1681-41df-baa3-7e3968103432",
+        "id": "7cffc853-01cd-4d20-94d9-616ef0b0378f",
+        "name": "Walmarth*",
+        "rating": 11.31302722811234,
+        "trainer_id": "e8358aff-7791-4753-acec-a1b705fa1b0c",
+        "trainer_name": "HolyWarsEnd2",
+        "result": "win"
+      }
+    },
+    "2026-05-12T15:00:04.388855+00:00": {
+      "this_amiibo": {
+        "rating": 22.335971114721374,
+        "rating_mu": 24.875350131724435,
+        "rating_sigma": 0.8464596723343538,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "363d4b63-ba5a-4685-8762-dff02b28266c",
+        "id": "ad98723a-26ca-4a1a-8641-a5f3d96f90fd",
+        "name": "Bowser IDK",
+        "rating": 0.5390404292235829,
+        "trainer_id": "3e2f0f90-d00d-455c-ad34-8009c3fd1f71",
+        "trainer_name": "BindyCot",
+        "result": "loss"
+      }
     }
   }
 }

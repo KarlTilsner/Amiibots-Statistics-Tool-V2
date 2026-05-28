@@ -905,6 +905,40 @@
         "trainer_name": "ven_1234",
         "result": "win"
       }
+    },
+    "2026-05-07T14:47:01.204260+00:00": {
+      "this_amiibo": {
+        "rating": 29.081486539217583,
+        "rating_mu": 32.50373886593768,
+        "rating_sigma": 1.1407507755733648,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "788beb66-f7b8-4370-bb75-67afabf4c509",
+        "id": "4fb2201d-8cad-4506-8cdd-dde551d5f8d3",
+        "name": "Sephiroth",
+        "rating": 27.442768466529795,
+        "trainer_id": "617a242b-ff29-4568-a5b4-ec41e1ce80d2",
+        "trainer_name": "Xedge14",
+        "result": "loss"
+      }
+    },
+    "2026-05-10T06:10:24.843568+00:00": {
+      "this_amiibo": {
+        "rating": 28.944390918453955,
+        "rating_mu": 32.33721091891297,
+        "rating_sigma": 1.1309400001530059,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "0160a1cc-8fbc-453f-bece-46bf07cc9f3e",
+        "name": "Royinleif",
+        "rating": 30.34127232237998,
+        "trainer_id": "e8358aff-7791-4753-acec-a1b705fa1b0c",
+        "trainer_name": "HolyWarsEnd2",
+        "result": "win"
+      }
     }
   }
 }

@@ -956,6 +956,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2026-05-04T21:32:06.693335+00:00": {
+      "this_amiibo": {
+        "rating": 32.07575363667149,
+        "rating_mu": 35.34552001668202,
+        "rating_sigma": 1.0899221266701762,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "be1fbfb9-9555-42bb-9e77-7aa2f82c5ded",
+        "id": "311b58e7-927a-4e57-b3a2-ec1eb61015d7",
+        "name": "Baphomet",
+        "rating": 27.741475732295598,
+        "trainer_id": "3e2f0f90-d00d-455c-ad34-8009c3fd1f71",
+        "trainer_name": "BindyCot",
+        "result": "win"
+      }
+    },
+    "2026-05-10T01:04:04.835444+00:00": {
+      "this_amiibo": {
+        "rating": 31.93432885333262,
+        "rating_mu": 35.179243130096616,
+        "rating_sigma": 1.0816380922546651,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "13cf2dc3-d990-4702-a244-1b63470b4fbc",
+        "name": "John (TDT)",
+        "rating": 31.357649678313308,
+        "trainer_id": "ed07ff6b-770b-43cf-8149-1a8ed56826cd",
+        "trainer_name": "Oliirik",
+        "result": "win"
+      }
     }
   }
 }

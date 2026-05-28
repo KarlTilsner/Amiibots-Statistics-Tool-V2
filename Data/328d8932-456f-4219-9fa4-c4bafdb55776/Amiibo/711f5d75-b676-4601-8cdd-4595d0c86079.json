@@ -242,6 +242,40 @@
         "trainer_name": "aarsters",
         "result": "loss"
       }
+    },
+    "2026-05-11T14:34:24.939168+00:00": {
+      "this_amiibo": {
+        "rating": 13.232287495130775,
+        "rating_mu": 19.47010172435195,
+        "rating_sigma": 2.0792714097403913,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "7b2f87a9-4631-42d0-9f4a-86a1c3ac4465",
+        "id": "b12bf625-0616-4060-a9bb-19f553aeafe9",
+        "name": "Rose Tyler",
+        "rating": 20.185675506078194,
+        "trainer_id": "6f081b04-5bb5-4923-9ac5-a80ebaec843f",
+        "trainer_name": "forenmagra",
+        "result": "win"
+      }
+    },
+    "2026-05-14T10:28:33.440532+00:00": {
+      "this_amiibo": {
+        "rating": 13.988587093822046,
+        "rating_mu": 20.013071306739285,
+        "rating_sigma": 2.008161404305746,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "c54fd324-6f7a-46a0-9353-29f80abb8c45",
+        "id": "2f6f7127-7a32-49d9-af0a-077819867a79",
+        "name": "Samsung",
+        "rating": 16.389957337176778,
+        "trainer_id": "c77a47ee-60f9-487e-abed-a8514fdaeeac",
+        "trainer_name": "trueschavi",
+        "result": "loss"
+      }
     }
   }
 }

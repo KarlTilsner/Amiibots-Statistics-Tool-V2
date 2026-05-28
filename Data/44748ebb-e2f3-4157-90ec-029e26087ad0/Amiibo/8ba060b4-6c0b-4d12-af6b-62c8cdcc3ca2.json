@@ -1313,6 +1313,40 @@
         "trainer_name": "blaz_68",
         "result": "win"
       }
+    },
+    "2026-05-05T03:10:52.633909+00:00": {
+      "this_amiibo": {
+        "rating": 22.10402042005997,
+        "rating_mu": 25.270979005923788,
+        "rating_sigma": 1.0556528619546057,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "8d0093c3-b435-4692-bcc4-5695ade045d7",
+        "id": "89561093-ac46-444c-9514-616c4675004b",
+        "name": "Crown",
+        "rating": 16.050132539464315,
+        "trainer_id": "8cf492bc-0b19-4f67-9bc9-f17385f9bd94",
+        "trainer_name": "RockMyRole",
+        "result": "loss"
+      }
+    },
+    "2026-05-07T20:31:28.367169+00:00": {
+      "this_amiibo": {
+        "rating": 22.016015028891466,
+        "rating_mu": 25.181941586650446,
+        "rating_sigma": 1.055308852586327,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "808d5329-e60d-445a-a6dd-2fef4a1d65b1",
+        "name": "Chop",
+        "rating": 11.53467992779116,
+        "trainer_id": "3e2f0f90-d00d-455c-ad34-8009c3fd1f71",
+        "trainer_name": "BindyCot",
+        "result": "win"
+      }
     }
   }
 }
