@@ -1262,6 +1262,40 @@
         "trainer_name": "ames155",
         "result": "loss"
       }
+    },
+    "2026-05-27T22:18:56.308468+00:00": {
+      "this_amiibo": {
+        "rating": 23.232226023117363,
+        "rating_mu": 26.279850039388677,
+        "rating_sigma": 1.0158746720904375,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d86a3a2b-363d-4fcd-94da-fa7122e9b626",
+        "id": "4cbc40e9-ec5e-49f6-95f2-1f8c0a7c8e8b",
+        "name": "夜に駆ける",
+        "rating": 27.52240333718118,
+        "trainer_id": "0369ba61-e623-47e6-b13d-a13d6dcb8dd9",
+        "trainer_name": "jocie8008",
+        "result": "win"
+      }
+    },
+    "2026-05-28T11:43:22.726393+00:00": {
+      "this_amiibo": {
+        "rating": 23.428596579654524,
+        "rating_mu": 26.455695501885074,
+        "rating_sigma": 1.00903297407685,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "759f3e11-0708-4cec-8fcd-f0374ab6aeeb",
+        "id": "da2fa32c-4062-423f-ba2b-1be7e95f0099",
+        "name": "Zapper",
+        "rating": 25.623761152545857,
+        "trainer_id": "f78bcac5-01eb-46ca-9c57-eb6d3e9c242b",
+        "trainer_name": "Epsilon080",
+        "result": "loss"
+      }
     }
   }
 }

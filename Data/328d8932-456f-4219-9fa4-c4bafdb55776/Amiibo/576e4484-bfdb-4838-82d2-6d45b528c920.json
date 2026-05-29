@@ -480,6 +480,40 @@
         "trainer_name": "testmemmr",
         "result": "loss"
       }
+    },
+    "2026-05-28T03:22:52.681397+00:00": {
+      "this_amiibo": {
+        "rating": 12.854547752486678,
+        "rating_mu": 17.44315855389519,
+        "rating_sigma": 1.5295369338028382,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "cc43dc32-d6fd-43eb-be16-47c498521272",
+        "id": "ab03e0d2-d56d-4ebe-bd62-c2a3b5d896fe",
+        "name": "Pummins",
+        "rating": 13.894362789277128,
+        "trainer_id": "76092551-3aba-4182-923a-848b2d279e4c",
+        "trainer_name": "BuzzyButts",
+        "result": "win"
+      }
+    },
+    "2026-05-28T08:50:11.972533+00:00": {
+      "this_amiibo": {
+        "rating": 12.732302000726236,
+        "rating_mu": 17.290609299206054,
+        "rating_sigma": 1.5194357661599391,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3a80cdac-93bb-4a75-8e38-f69f37d10ec6",
+        "id": "d7f52b1a-c1b1-4d27-9cb0-bd1dbb8087fb",
+        "name": "Mr. Fart",
+        "rating": 6.954193321239458,
+        "trainer_id": "36c33778-42b6-476d-a0f8-4de93dbb1373",
+        "trainer_name": "dusk2324",
+        "result": "win"
+      }
     }
   }
 }
