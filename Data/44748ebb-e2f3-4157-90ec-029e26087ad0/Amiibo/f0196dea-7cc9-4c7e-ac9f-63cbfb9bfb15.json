@@ -242,6 +242,40 @@
         "trainer_name": "testmemmr",
         "result": "loss"
       }
+    },
+    "2026-05-28T08:45:57.586005+00:00": {
+      "this_amiibo": {
+        "rating": 26.80398352106313,
+        "rating_mu": 32.935251861294766,
+        "rating_sigma": 2.0437561134105455,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "279e8c96-d915-480d-acbe-98306c958a19",
+        "id": "4cfc8c04-b800-4c20-85cf-73eb2d69cf7a",
+        "name": ">>O<<",
+        "rating": 28.838355732200572,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "loss"
+      }
+    },
+    "2026-05-28T08:37:11.222259+00:00": {
+      "this_amiibo": {
+        "rating": 26.094810854703173,
+        "rating_mu": 32.438885161799085,
+        "rating_sigma": 2.1146914356986377,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "c8ece041-e853-4a76-9156-a54fe2393738",
+        "name": "Charlie!!!",
+        "rating": 27.657948385671013,
+        "trainer_id": "f931fce3-9c34-44f6-89d1-6113f8895a2d",
+        "trainer_name": "sodium_c3",
+        "result": "win"
+      }
     }
   }
 }

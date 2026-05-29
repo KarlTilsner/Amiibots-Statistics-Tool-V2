@@ -752,6 +752,40 @@
         "trainer_name": "sodium_c3",
         "result": "loss"
       }
+    },
+    "2026-05-28T11:29:28.813045+00:00": {
+      "this_amiibo": {
+        "rating": 26.74069171312657,
+        "rating_mu": 30.452432100454498,
+        "rating_sigma": 1.2372467957759763,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "4dcbb633-58b0-481a-9d6a-c350b2c08640",
+        "id": "3f614478-2005-49fd-b527-43bc0722c8b8",
+        "name": "Frog Tier",
+        "rating": 20.75644551076834,
+        "trainer_id": "1dbad9b6-c3fe-42c6-958e-e4bf6e70f9f0",
+        "trainer_name": "Bunswe",
+        "result": "win"
+      }
+    },
+    "2026-05-28T05:22:16.204342+00:00": {
+      "this_amiibo": {
+        "rating": 26.986452625666423,
+        "rating_mu": 30.741371437321654,
+        "rating_sigma": 1.2516396038850761,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "1874d724-bd91-43ab-91ae-a8b4a740b951",
+        "id": "87c744e2-f4a6-4800-bf45-24c0962e635b",
+        "name": "incineroar",
+        "rating": 27.27914819844459,
+        "trainer_id": "50f35f3f-1a7f-4564-b8ab-645a9753872b",
+        "trainer_name": "grigonic",
+        "result": "loss"
+      }
     }
   }
 }
