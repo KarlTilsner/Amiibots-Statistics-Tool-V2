@@ -174,6 +174,40 @@
         "trainer_name": "ames155",
         "result": "loss"
       }
+    },
+    "2026-05-29T02:57:56.565426+00:00": {
+      "this_amiibo": {
+        "rating": 6.231703911594385,
+        "rating_mu": 13.666866395360609,
+        "rating_sigma": 2.478387494588741,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "58c94498-9528-4f21-ba1f-086e1b9a8474",
+        "name": "BoxingRing",
+        "rating": 10.782542360239615,
+        "trainer_id": "33251059-1f0b-4c58-bb8e-cf5bfa580cf8",
+        "trainer_name": "track8regret",
+        "result": "loss"
+      }
+    },
+    "2026-05-28T21:47:43.275041+00:00": {
+      "this_amiibo": {
+        "rating": 4.791579458625511,
+        "rating_mu": 12.669445690425155,
+        "rating_sigma": 2.625955410599881,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96b8056f-9f5d-4908-8acf-34353db33d74",
+        "id": "5b429c2f-9d15-4370-91c8-bdf023904cea",
+        "name": "Rorschach",
+        "rating": 13.673418337715752,
+        "trainer_id": "b2a798a6-4874-49ce-8055-7c420c6eca5a",
+        "trainer_name": "Arspamon",
+        "result": "win"
+      }
     }
   }
 }
