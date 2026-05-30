@@ -1347,6 +1347,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2026-05-29T19:09:21.925084+00:00": {
+      "this_amiibo": {
+        "rating": 28.89554779398448,
+        "rating_mu": 31.79536859360104,
+        "rating_sigma": 0.9666069332055197,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "96e48494-946f-4280-a419-488d644135e0",
+        "id": "0160a1cc-8fbc-453f-bece-46bf07cc9f3e",
+        "name": "Royinleif",
+        "rating": 31.856966043815582,
+        "trainer_id": "e8358aff-7791-4753-acec-a1b705fa1b0c",
+        "trainer_name": "HolyWarsEnd2",
+        "result": "win"
+      }
+    },
+    "2026-05-29T17:00:21.739656+00:00": {
+      "this_amiibo": {
+        "rating": 28.975180654196254,
+        "rating_mu": 31.885114466962293,
+        "rating_sigma": 0.9699779375886797,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "c0cb713e-e431-4ebe-9dec-dd63bfd2b807",
+        "id": "0892e21e-2fb0-4c16-9f92-041cfd69f04e",
+        "name": "MasterGuin",
+        "rating": 34.31418440807337,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "win"
+      }
     }
   }
 }
