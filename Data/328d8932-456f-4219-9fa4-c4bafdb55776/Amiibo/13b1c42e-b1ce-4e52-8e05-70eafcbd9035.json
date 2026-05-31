@@ -276,6 +276,40 @@
         "trainer_name": "testmemmr",
         "result": "win"
       }
+    },
+    "2026-05-30T06:52:16.500605+00:00": {
+      "this_amiibo": {
+        "rating": 9.962711803628624,
+        "rating_mu": 16.229908364179227,
+        "rating_sigma": 2.0890655201835346,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "592fb00b-2943-47de-973a-3a4a5ca56e6a",
+        "id": "235eb37a-a4a3-4f2f-a152-80306c5fee8d",
+        "name": "pika",
+        "rating": 1.400730257802934,
+        "trainer_id": "c921bf3a-cbfe-4cdf-bdbd-ca75a8f060f8",
+        "trainer_name": "jenny51501",
+        "result": "loss"
+      }
+    },
+    "2026-05-30T17:20:54.336407+00:00": {
+      "this_amiibo": {
+        "rating": 9.741191183185324,
+        "rating_mu": 15.909678157526312,
+        "rating_sigma": 2.0561623247803293,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "d65e8fc2-a593-4fef-bead-408a967fbb1e",
+        "id": "5f7688c4-cf7e-418b-b9b5-0ac950ed8e42",
+        "name": "babie_ie",
+        "rating": 5.626896945747404,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "win"
+      }
     }
   }
 }
