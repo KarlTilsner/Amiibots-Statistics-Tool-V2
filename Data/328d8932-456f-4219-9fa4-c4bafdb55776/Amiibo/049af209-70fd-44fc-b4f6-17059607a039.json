@@ -463,6 +463,40 @@
         "trainer_name": "beta_dude",
         "result": "loss"
       }
+    },
+    "2026-06-01T02:22:44.953381+00:00": {
+      "this_amiibo": {
+        "rating": 30.89275260025662,
+        "rating_mu": 35.235046022104775,
+        "rating_sigma": 1.447431140616051,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "3527fd64-64e0-4793-806e-a3656553c7ab",
+        "id": "95613795-e83a-4759-8a03-745ed2407752",
+        "name": "TouchSnake",
+        "rating": 32.62392805081021,
+        "trainer_id": "029b64bf-38ba-47af-9020-bd3f659ce1c3",
+        "trainer_name": "beta_dude",
+        "result": "win"
+      }
+    },
+    "2026-05-31T19:55:55.293915+00:00": {
+      "this_amiibo": {
+        "rating": 31.098938024446717,
+        "rating_mu": 35.515413953310016,
+        "rating_sigma": 1.4721586429544324,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "08273ee9-8390-454d-9678-acdc60bf1ff9",
+        "name": "Mirajane",
+        "rating": 31.209985855997648,
+        "trainer_id": "333ada9d-112d-469a-8a26-320358969432",
+        "trainer_name": "smashssf2_ita",
+        "result": "loss"
+      }
     }
   }
 }
