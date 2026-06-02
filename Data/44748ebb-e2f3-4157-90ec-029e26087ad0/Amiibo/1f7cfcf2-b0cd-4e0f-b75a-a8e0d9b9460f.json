@@ -344,6 +344,40 @@
         "trainer_name": "BindyCot",
         "result": "loss"
       }
+    },
+    "2026-06-02T13:12:05.168055+00:00": {
+      "this_amiibo": {
+        "rating": 19.761506910889047,
+        "rating_mu": 25.177815880849888,
+        "rating_sigma": 1.8054363233202804,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "da8fefbf-43a2-47f5-a5bf-d7dadb4fabdc",
+        "id": "92235cf0-a245-41e1-b988-dc2cb1ab3ee9",
+        "name": "SoulCrushr",
+        "rating": 11.442334064488247,
+        "trainer_id": "16e50ade-e696-4d69-9605-177fadabd171",
+        "trainer_name": "darksoulwarrior23",
+        "result": "win"
+      }
+    },
+    "2026-06-02T11:59:30.185714+00:00": {
+      "this_amiibo": {
+        "rating": 19.97701990454778,
+        "rating_mu": 25.44255295532566,
+        "rating_sigma": 1.8218443502592931,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "28afc91e-bdfd-45c6-83e9-ff0e9ad52938",
+        "id": "b7883fc8-5979-4526-a09b-261c0bb7449a",
+        "name": "Duke",
+        "rating": 9.19599562958453,
+        "trainer_id": "e38b33eb-2e79-4a11-a97a-be95482f8233",
+        "trainer_name": "dinoshark25",
+        "result": "loss"
+      }
     }
   }
 }
