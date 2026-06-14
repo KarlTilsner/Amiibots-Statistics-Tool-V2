@@ -1,46 +1,46 @@
-# name: Scrape Amiibots
+name: Scrape Amiibots
 
-# on:
-#   schedule:
-#     - cron: "20 */6 * * *"
-#   workflow_dispatch:
+on:
+  schedule:
+    - cron: "20 */6 * * *"
+  workflow_dispatch:
 
-# permissions:
-#   contents: write
+permissions:
+  contents: write
 
-# jobs:
-#   update:
-#     runs-on: ubuntu-latest
+jobs:
+  update:
+    runs-on: ubuntu-latest
 
-#     steps:
-#       - name: Checkout repo
-#         uses: actions/checkout@v4
-#         with:
-#           fetch-depth: 1
+    # steps:
+    #   - name: Checkout repo
+    #     uses: actions/checkout@v4
+    #     with:
+    #       fetch-depth: 1
 
-#       - name: Setup Python
-#         uses: actions/setup-python@v5
-#         with:
-#           python-version: "3.11"
+    #   - name: Setup Python
+    #     uses: actions/setup-python@v5
+    #     with:
+    #       python-version: "3.11"
 
-#       - name: Install dependencies
-#         run: |
-#           pip install requests
+    #   - name: Install dependencies
+    #     run: |
+    #       pip install requests
 
-#       - name: Run data collection
-#         run: python Data_Collection/main_fetching.py
+    #   - name: Run data collection
+    #     run: python Data_Collection/main_fetching.py
 
-#       - name: Run data processing
-#         run: python Data_Processing/main_processing.py
+    #   - name: Run data processing
+    #     run: python Data_Processing/main_processing.py
 
-#       - name: Run compress used data
-#         run: python Data_Processing/cleanup.py
+    #   - name: Run compress used data
+    #     run: python Data_Processing/cleanup.py
 
-#       - name: Commit all changes
-#         run: |
-#           git config user.name "github-actions"
-#           git config user.email "actions@github.com"
-#           git add -A
-#           git diff --cached --quiet && echo "No changes to commit" && exit 0
-#           git commit -m "Updated data (collection + processing)"
-#           git push
+    #   - name: Commit all changes
+    #     run: |
+    #       git config user.name "github-actions"
+    #       git config user.email "actions@github.com"
+    #       git add -A
+    #       git diff --cached --quiet && echo "No changes to commit" && exit 0
+    #       git commit -m "Updated data (collection + processing)"
+    #       git push
