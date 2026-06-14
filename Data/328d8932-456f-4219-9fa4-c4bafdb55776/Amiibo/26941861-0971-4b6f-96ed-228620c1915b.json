@@ -735,6 +735,57 @@
         "trainer_name": "gold_dxj",
         "result": "win"
       }
+    },
+    "2026-06-01T03:23:58.358148+00:00": {
+      "this_amiibo": {
+        "rating": 28.4471082585911,
+        "rating_mu": 32.26270239320407,
+        "rating_sigma": 1.271864711537658,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "5a6be0b7-a734-4507-8999-65130e56e292",
+        "id": "2bca3640-9de4-4605-9c75-22c38c6fe890",
+        "name": "Kouga",
+        "rating": 29.41586154151439,
+        "trainer_id": "f558b8d3-c283-4651-b7a0-b6d5a77c2ebb",
+        "trainer_name": "improv_195",
+        "result": "loss"
+      }
+    },
+    "2026-06-02T07:12:35.407716+00:00": {
+      "this_amiibo": {
+        "rating": 28.26081831706493,
+        "rating_mu": 32.03432039895667,
+        "rating_sigma": 1.257834027297248,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "5d06d81c-dad5-414b-9e6d-d8c0adeda607",
+        "id": "4bf5f0ed-9810-4b1a-b944-b5d7016317ab",
+        "name": "Rock Hard",
+        "rating": 25.248720328256127,
+        "trainer_id": "5149ad84-6876-49da-ad17-a50116795daf",
+        "trainer_name": "StaplesTV_",
+        "result": "win"
+      }
+    },
+    "2026-06-04T18:20:04.067838+00:00": {
+      "this_amiibo": {
+        "rating": 28.079091715293647,
+        "rating_mu": 31.809048344694588,
+        "rating_sigma": 1.243318876466981,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "b5d3ed43-ebe2-44fd-a228-d4e47f4ba969",
+        "name": "Reginleif",
+        "rating": 26.963905245278,
+        "trainer_id": "e8358aff-7791-4753-acec-a1b705fa1b0c",
+        "trainer_name": "HolyWarsEnd2",
+        "result": "win"
+      }
     }
   }
 }

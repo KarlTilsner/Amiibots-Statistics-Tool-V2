@@ -2061,6 +2061,40 @@
         "trainer_name": "carbon_show",
         "result": "loss"
       }
+    },
+    "2026-06-05T18:33:42.053580+00:00": {
+      "this_amiibo": {
+        "rating": 30.832316832758863,
+        "rating_mu": 33.44114977551231,
+        "rating_sigma": 0.869610980917815,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "42f53983-2889-4f04-9b2f-d2d7b4ef1823",
+        "id": "e29152b3-c8d2-4eaf-80cf-e9eedace6d10",
+        "name": "RoadCombat",
+        "rating": 22.462096978691985,
+        "trainer_id": "a6dca736-6554-4aaa-ad48-3cba91aa92bb",
+        "trainer_name": "unskilledplayer0192",
+        "result": "win"
+      }
+    },
+    "2026-06-06T12:51:18.063529+00:00": {
+      "this_amiibo": {
+        "rating": 30.917399060699893,
+        "rating_mu": 33.523350286206316,
+        "rating_sigma": 0.8686504085021405,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "25543733-526a-4d7e-ba50-081597cf28d3",
+        "id": "49cb9835-7012-4628-969a-2862b440361c",
+        "name": "Corn",
+        "rating": 25.503633848374907,
+        "trainer_id": "490605ad-ad19-4406-9bbb-e988d0c03685",
+        "trainer_name": "Frandy0412",
+        "result": "loss"
+      }
     }
   }
 }

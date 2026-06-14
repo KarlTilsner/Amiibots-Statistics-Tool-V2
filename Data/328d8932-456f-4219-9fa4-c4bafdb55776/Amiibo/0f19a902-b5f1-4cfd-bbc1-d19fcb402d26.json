@@ -1007,6 +1007,40 @@
         "trainer_name": "gold_dxj",
         "result": "loss"
       }
+    },
+    "2026-06-01T02:54:44.219264+00:00": {
+      "this_amiibo": {
+        "rating": 31.66934738223859,
+        "rating_mu": 34.92233118155205,
+        "rating_sigma": 1.0843279331044868,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6a728c16-df81-4513-9896-3222fbce4ea1",
+        "id": "1cb4aef0-ef80-4495-b348-82cc14c4e3ad",
+        "name": "Chandra",
+        "rating": 32.51310881893487,
+        "trainer_id": "ec4dab5e-3080-4a5b-8160-084e31f7961b",
+        "trainer_name": "BreezyWisp",
+        "result": "loss"
+      }
+    },
+    "2026-05-31T11:50:45.718652+00:00": {
+      "this_amiibo": {
+        "rating": 31.480245809430357,
+        "rating_mu": 34.75874252245721,
+        "rating_sigma": 1.0928322376756185,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "47c5c078-6112-48ad-9e29-18c6e1077a81",
+        "id": "edb3ed3b-f558-40c5-a549-ee8262c4bfb8",
+        "name": "Iceland",
+        "rating": 27.836478421777016,
+        "trainer_id": "6620a138-5af3-4d27-8bc7-1e989943136b",
+        "trainer_name": "EthanZombieK",
+        "result": "win"
+      }
     }
   }
 }

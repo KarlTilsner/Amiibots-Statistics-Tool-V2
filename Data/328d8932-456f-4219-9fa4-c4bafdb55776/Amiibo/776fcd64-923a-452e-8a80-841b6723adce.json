@@ -599,6 +599,40 @@
         "trainer_name": "amiibofight",
         "result": "loss"
       }
+    },
+    "2026-06-08T02:20:29.338466+00:00": {
+      "this_amiibo": {
+        "rating": 25.268201084622895,
+        "rating_mu": 29.209712158370717,
+        "rating_sigma": 1.3138370245826074,
+        "result": "loss"
+      },
+      "opponent": {
+        "character_id": "e3891498-94f6-4ccc-a527-c5f4e26051d1",
+        "id": "cf76ab5b-2d9d-4fe8-a8ee-4029cd5ab6fe",
+        "name": "The Rival",
+        "rating": 27.442500443095884,
+        "trainer_id": "2887c30c-2a70-4256-aacd-2622a67a1719",
+        "trainer_name": "TheWilderTheGamer",
+        "result": "win"
+      }
+    },
+    "2026-06-07T05:52:39.712587+00:00": {
+      "this_amiibo": {
+        "rating": 25.42568905808237,
+        "rating_mu": 29.417362618997377,
+        "rating_sigma": 1.3305578536383353,
+        "result": "win"
+      },
+      "opponent": {
+        "character_id": "6be7e121-5b65-405f-9905-6a9279ab199d",
+        "id": "55ede3e2-c1d0-431f-87b4-cae0c1d34aff",
+        "name": "Nero",
+        "rating": 27.50940447478819,
+        "trainer_id": "0dc4a16f-927f-41d7-bcf5-b338e590b5fa",
+        "trainer_name": "KodinGaming",
+        "result": "loss"
+      }
     }
   }
 }

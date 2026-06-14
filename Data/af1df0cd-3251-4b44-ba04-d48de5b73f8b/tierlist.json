@@ -1,7 +1,7 @@
 {
   "data": {
-    "created_at": "2026-05-03T00:00:51.130910+00:00",
-    "id": "6bb1784a-9d6a-408e-a374-7a91f0b6629e",
+    "created_at": "2026-06-04T16:55:50.567332+00:00",
+    "id": "94ab3bd2-c5cd-477b-89d9-c60543b555cc",
     "ruleset": {
       "amiibo_restrictions": {
         "banned_typings": [],
@@ -24,7 +24,7 @@
         "character_placements": [
           {
             "first_quartile": 38.26516,
-            "id": "6f5d11cc-06dc-436b-8fae-ec8f6ea94c8e",
+            "id": "cb31998c-6fa6-49de-8b0c-33e549c74c30",
             "interquartile_range": 3.887013500000002,
             "max": 45.244675,
             "mean": 40.41195428571429,
@@ -41,19 +41,19 @@
             "third_quartile": 42.1521735
           }
         ],
-        "id": "1a77d737-34a0-40df-a272-ce6a8e3d5fe6",
+        "id": "37e7c7c5-aa0c-452b-af14-f28c497b4149",
         "name": "S+",
         "order": 0
       },
       {
         "character_placements": [],
-        "id": "7c85214d-8b74-4367-a9c4-d966c3742cb7",
+        "id": "b0fc912d-e275-4a62-85a2-34ebdcdfa93c",
         "name": "S",
         "order": 1
       },
       {
         "character_placements": [],
-        "id": "815baceb-76c9-450f-a3f0-a456ba86e75b",
+        "id": "787bcaa1-b3b6-431f-ac4c-9198029f848b",
         "name": "S-",
         "order": 2
       },
@@ -61,7 +61,7 @@
         "character_placements": [
           {
             "first_quartile": 34.67943,
-            "id": "28b4de87-b013-44c3-aa19-eff757bc2e28",
+            "id": "07395ae6-796e-45b6-a08d-11a7dcc6fba7",
             "interquartile_range": 3.209432999999997,
             "max": 41.19806,
             "mean": 36.6873815,
@@ -79,7 +79,7 @@
           },
           {
             "first_quartile": 31.3314915,
-            "id": "9e1917ea-42e0-45ce-ad9d-35a6ec65bad2",
+            "id": "864ae4ad-4c10-4e5d-9928-1d35b096f2d8",
             "interquartile_range": 11.055073499999999,
             "max": 45.308674,
             "mean": 36.328141583333334,
@@ -97,7 +97,7 @@
           },
           {
             "first_quartile": 33.593662,
-            "id": "56822ef8-2578-45aa-9a72-5f6ffdc6b58d",
+            "id": "a2823158-c584-40a5-a08d-eeedd9e65562",
             "interquartile_range": 5.557538000000001,
             "max": 41.02947,
             "mean": 36.018243,
@@ -115,7 +115,7 @@
           },
           {
             "first_quartile": 32.66334,
-            "id": "1df3a10c-fc1c-4247-9463-a07de75d9897",
+            "id": "7541611e-2849-43a0-822f-a6046ad2b121",
             "interquartile_range": 5.613340000000001,
             "max": 39.464466,
             "mean": 35.83148893333333,
@@ -132,39 +132,21 @@
             "third_quartile": 38.27668
           }
         ],
-        "id": "1ac5da3a-032a-4a77-9478-2c501bbbaafc",
+        "id": "bb7cc99a-16d7-417a-9f9d-1f32c981edd3",
         "name": "A+",
         "order": 3
       },
       {
         "character_placements": [
           {
-            "first_quartile": 31.144459,
-            "id": "494cc338-bf22-40ad-9584-02aab04ee03e",
-            "interquartile_range": 6.318553999999995,
-            "max": 37.544533,
-            "mean": 34.7432885,
-            "median": 36.112723,
-            "min": 30.08228,
-            "order": 6,
-            "playable_character": {
-              "character_name": "Olimar",
-              "id": "11d7c49d-8677-4f87-876b-6db94fae00ef"
-            },
-            "range": 7.4622530000000005,
-            "sample_size": 6,
-            "standard_deviation": 3.033181733381123,
-            "third_quartile": 37.463013
-          },
-          {
             "first_quartile": 32.200321,
-            "id": "b9ecee45-3636-479e-a9ed-ba0428ba99a6",
+            "id": "e7a7b1cc-d44d-4a3d-a34e-d2c557ac2bed",
             "interquartile_range": 3.923197000000002,
             "max": 45.59763,
             "mean": 34.575475705882354,
             "median": 34.1105,
             "min": 28.822432,
-            "order": 7,
+            "order": 6,
             "playable_character": {
               "character_name": "King K. Rool",
               "id": "7f5de07d-9c82-45fb-adae-73c8a2b811e3"
@@ -175,7 +157,7 @@
             "third_quartile": 36.123518000000004
           }
         ],
-        "id": "3422eff7-7ec1-44e4-ba88-df129158d420",
+        "id": "3de7e801-c34d-42ce-8044-1d98bbc020ea",
         "name": "A",
         "order": 4
       },
@@ -183,13 +165,13 @@
         "character_placements": [
           {
             "first_quartile": 31.45239,
-            "id": "7c96583d-357a-4543-8d41-3b469e645d5f",
+            "id": "a884cd76-4454-4380-bb25-e342eb5d331a",
             "interquartile_range": 4.704940000000001,
             "max": 38.973125,
             "mean": 33.74447237142857,
             "median": 33.49841,
             "min": 29.116575,
-            "order": 8,
+            "order": 7,
             "playable_character": {
               "character_name": "Bowser",
               "id": "0b325755-b138-4dd6-bbc8-c9604ed0f90c"
@@ -198,9 +180,27 @@
             "sample_size": 35,
             "standard_deviation": 2.7853219428256306,
             "third_quartile": 36.15733
+          },
+          {
+            "first_quartile": 30.08228,
+            "id": "3db82cbb-dabe-48d2-adf4-c3ae1f73d283",
+            "interquartile_range": 7.380732999999996,
+            "max": 37.544533,
+            "mean": 33.382619166666665,
+            "median": 33.1912695,
+            "min": 28.82335,
+            "order": 8,
+            "playable_character": {
+              "character_name": "Olimar",
+              "id": "11d7c49d-8677-4f87-876b-6db94fae00ef"
+            },
+            "range": 8.721183,
+            "sample_size": 6,
+            "standard_deviation": 3.5143138347818526,
+            "third_quartile": 37.463013
           }
         ],
-        "id": "dad6d310-5495-46fb-8ca3-aeb5ac6dd50e",
+        "id": "895a03bc-0d8f-4f17-aec3-deaeddd7ed1a",
         "name": "A-",
         "order": 5
       },
@@ -208,7 +208,7 @@
         "character_placements": [
           {
             "first_quartile": 30.615974,
-            "id": "00c633dc-a499-4665-8c83-11f7012e8e12",
+            "id": "c5e6f0a7-725d-4ef3-9785-20849ffb2f1a",
             "interquartile_range": 4.359028000000002,
             "max": 35.653828,
             "mean": 33.04274671428571,
@@ -225,7 +225,7 @@
             "third_quartile": 34.975002
           }
         ],
-        "id": "60f8f133-2fbf-4499-89ca-47dda30e1c4f",
+        "id": "d1f2a32e-8031-450e-951b-96e1fde8aa5e",
         "name": "B+",
         "order": 6
       },
@@ -233,7 +233,7 @@
         "character_placements": [
           {
             "first_quartile": 27.8007615,
-            "id": "00fc5e93-e8ff-45a0-86cd-90127ebd5b30",
+            "id": "45f1547f-2de2-4f0f-85a2-4ea073689743",
             "interquartile_range": 7.7316920000000025,
             "max": 36.77074,
             "mean": 32.03816930769231,
@@ -251,7 +251,7 @@
           },
           {
             "first_quartile": 29.007881,
-            "id": "fe6608a8-e252-436a-a10d-b3f39cbf7bd0",
+            "id": "61a1a45c-ff2c-45aa-9644-b91810d887d8",
             "interquartile_range": 5.359118999999996,
             "max": 37.23965,
             "mean": 31.890136277777778,
@@ -269,7 +269,7 @@
           },
           {
             "first_quartile": 30.008198,
-            "id": "38c98ea9-fb56-4fef-977a-ea9e7c852398",
+            "id": "74b3b43f-fbbd-4956-967b-04894293d407",
             "interquartile_range": 2.642865499999999,
             "max": 33.15483,
             "mean": 31.3406096,
@@ -286,7 +286,7 @@
             "third_quartile": 32.6510635
           }
         ],
-        "id": "363c2e28-7391-4bda-ad22-07bfd0b88b3e",
+        "id": "0bbac7b4-2612-47ce-82d4-82855789cb37",
         "name": "B",
         "order": 7
       },
@@ -294,7 +294,7 @@
         "character_placements": [
           {
             "first_quartile": 28.004240000000003,
-            "id": "8ec48242-afa1-42ed-a629-27fb1e609b69",
+            "id": "6cde40ff-b23d-45a2-bd98-df8b32d0eac3",
             "interquartile_range": 4.455986000000003,
             "max": 38.266174,
             "mean": 30.800261,
@@ -312,7 +312,7 @@
           },
           {
             "first_quartile": 29.841372,
-            "id": "7ac13310-51ac-4095-9a7c-64d5ecdcd101",
+            "id": "cdde7ce8-6c2c-41d9-98ea-7c0786a926a9",
             "interquartile_range": 3.416165999999997,
             "max": 35.53404,
             "mean": 30.783834142857142,
@@ -330,7 +330,7 @@
           },
           {
             "first_quartile": 28.687801,
-            "id": "91c41e13-4d05-47d6-ae1a-a43d344f7440",
+            "id": "ddedb36b-feb3-4b65-aa2e-55d52308b885",
             "interquartile_range": 4.317062999999997,
             "max": 38.58077,
             "mean": 30.752420222222224,
@@ -348,7 +348,7 @@
           },
           {
             "first_quartile": 27.6190465,
-            "id": "9b0b6fea-9f51-4b13-9c7e-6dd1a7560757",
+            "id": "e6832cee-39f5-4c27-9655-6d0b0ba77306",
             "interquartile_range": 5.2911155,
             "max": 36.91506,
             "mean": 30.61906625,
@@ -366,7 +366,7 @@
           },
           {
             "first_quartile": 28.297407,
-            "id": "b803c950-40b9-4990-b9e6-c10aa17c0f23",
+            "id": "3fedcced-ea92-48c2-b58b-d80eb3b8932b",
             "interquartile_range": 3.6871469999999995,
             "max": 38.015907,
             "mean": 30.3462003,
@@ -384,7 +384,7 @@
           },
           {
             "first_quartile": 28.336380499999997,
-            "id": "008a0480-a4be-42a7-8221-6f00da9d0001",
+            "id": "ab08fe2b-e5ae-4804-a3a2-d940ce77f3a9",
             "interquartile_range": 3.647489499999999,
             "max": 36.436687,
             "mean": 30.29501282352941,
@@ -402,7 +402,7 @@
           },
           {
             "first_quartile": 27.160782,
-            "id": "3daa183a-15b5-46f2-9ea1-669c725558bc",
+            "id": "238075cd-e73d-4f53-9193-8c1bfea59f0d",
             "interquartile_range": 5.626738,
             "max": 35.99028,
             "mean": 30.265992333333333,
@@ -420,7 +420,7 @@
           },
           {
             "first_quartile": 28.947107,
-            "id": "33f232c0-979c-464d-ba7b-3fc72880a69e",
+            "id": "58ac6e1c-511c-424e-8cc8-d5f2e8ac78bd",
             "interquartile_range": 1.996106000000001,
             "max": 33.65472,
             "mean": 29.924902066666668,
@@ -438,7 +438,7 @@
           },
           {
             "first_quartile": 26.383583,
-            "id": "ce12c52b-c8fd-4703-a2d9-bfb7c417cb48",
+            "id": "df902ef8-8918-485a-9cdd-5146e21078df",
             "interquartile_range": 5.202796999999997,
             "max": 35.241116,
             "mean": 29.901580272727273,
@@ -456,7 +456,7 @@
           },
           {
             "first_quartile": 28.368748,
-            "id": "05598bfa-76e6-4c88-b0b0-6146272ea2a5",
+            "id": "c38c7f0e-3087-4ae2-b344-97281648df24",
             "interquartile_range": 2.568360000000002,
             "max": 33.03035,
             "mean": 29.7553655,
@@ -473,57 +473,21 @@
             "third_quartile": 30.937108000000002
           }
         ],
-        "id": "5031ceec-dacc-43e4-9560-dfc61588379a",
+        "id": "a44e4e64-ddfb-4caa-8032-1de38cac4811",
         "name": "B-",
         "order": 8
       },
       {
         "character_placements": [
           {
-            "first_quartile": 27.0366905,
-            "id": "505094a0-d532-46cd-9cac-fae5304a036f",
-            "interquartile_range": 5.145592000000001,
-            "max": 35.00519,
-            "mean": 29.648560083333333,
-            "median": 29.97871,
-            "min": 24.215628,
-            "order": 23,
-            "playable_character": {
-              "character_name": "Piranha Plant",
-              "id": "3b44eedd-131c-4131-89a1-2f8bc4867e89"
-            },
-            "range": 10.789562,
-            "sample_size": 12,
-            "standard_deviation": 3.0842179775609098,
-            "third_quartile": 32.1822825
-          },
-          {
-            "first_quartile": 26.2317335,
-            "id": "72515038-a784-4297-a47a-f476d5b515e7",
-            "interquartile_range": 5.988991500000001,
-            "max": 37.31924,
-            "mean": 29.316987833333332,
-            "median": 29.0689,
-            "min": 21.80432,
-            "order": 24,
-            "playable_character": {
-              "character_name": "Steve",
-              "id": "facf1100-a53c-4f9c-bdf3-8612b0df2330"
-            },
-            "range": 15.51492,
-            "sample_size": 12,
-            "standard_deviation": 4.680775770700459,
-            "third_quartile": 32.220725
-          },
-          {
             "first_quartile": null,
-            "id": "00b1b142-dccc-425f-aae8-63dc44690745",
+            "id": "7b2a7c28-e70e-4134-9141-4f1c00fe8cac",
             "interquartile_range": null,
             "max": 33.212116,
             "mean": 29.23251125,
             "median": 29.155171,
             "min": 25.407587,
-            "order": 25,
+            "order": 23,
             "playable_character": {
               "character_name": "Roy",
               "id": "96e48494-946f-4280-a419-488d644135e0"
@@ -534,32 +498,14 @@
             "third_quartile": null
           },
           {
-            "first_quartile": 27.221857,
-            "id": "df09076d-3b21-4cd8-a8a4-f4b04a26deb4",
-            "interquartile_range": 3.0153464999999997,
-            "max": 34.44889,
-            "mean": 29.20390075,
-            "median": 28.7835705,
-            "min": 26.697054,
-            "order": 26,
-            "playable_character": {
-              "character_name": "Shulk",
-              "id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29"
-            },
-            "range": 7.751835999999997,
-            "sample_size": 8,
-            "standard_deviation": 2.396749791284842,
-            "third_quartile": 30.2372035
-          },
-          {
             "first_quartile": null,
-            "id": "e772b2b1-a058-483b-8523-d3405d24584e",
+            "id": "978540c3-dd7a-47e3-93fc-9713bed24a48",
             "interquartile_range": null,
             "max": 34.44605,
             "mean": 29.202437666666665,
             "median": 30.3375,
             "min": 22.823763,
-            "order": 27,
+            "order": 24,
             "playable_character": {
               "character_name": "Fox",
               "id": "cc43dc32-d6fd-43eb-be16-47c498521272"
@@ -570,14 +516,50 @@
             "third_quartile": null
           },
           {
+            "first_quartile": 24.688303,
+            "id": "48e24104-f5e7-4721-a35f-40e472822e7e",
+            "interquartile_range": 8.031536999999997,
+            "max": 37.31924,
+            "mean": 29.191102272727274,
+            "median": 28.600967,
+            "min": 21.80432,
+            "order": 25,
+            "playable_character": {
+              "character_name": "Steve",
+              "id": "facf1100-a53c-4f9c-bdf3-8612b0df2330"
+            },
+            "range": 15.51492,
+            "sample_size": 11,
+            "standard_deviation": 4.869423288329627,
+            "third_quartile": 32.71984
+          },
+          {
+            "first_quartile": 26.682865,
+            "id": "327ea479-d767-4199-8893-a97de92d3f9d",
+            "interquartile_range": 4.994562000000002,
+            "max": 32.934822,
+            "mean": 29.161593727272727,
+            "median": 29.795746,
+            "min": 24.215628,
+            "order": 26,
+            "playable_character": {
+              "character_name": "Piranha Plant",
+              "id": "3b44eedd-131c-4131-89a1-2f8bc4867e89"
+            },
+            "range": 8.719193999999998,
+            "sample_size": 11,
+            "standard_deviation": 2.7443632111509477,
+            "third_quartile": 31.677427
+          },
+          {
             "first_quartile": 26.140904499999998,
-            "id": "722e889e-fbac-41cc-9bb6-79e2a15ebb6e",
+            "id": "7ad2833f-87cc-46ed-99b3-ae9976bb0128",
             "interquartile_range": 3.3560020000000037,
             "max": 42.4817,
             "mean": 29.137600166666665,
             "median": 28.5758795,
             "min": 24.695776,
-            "order": 28,
+            "order": 27,
             "playable_character": {
               "character_name": "Lucas",
               "id": "3527fd64-64e0-4793-806e-a3656553c7ab"
@@ -589,13 +571,13 @@
           },
           {
             "first_quartile": null,
-            "id": "4ba27b33-68a6-4945-829d-9cb5039d903b",
+            "id": "63c16ac3-4501-42a1-94e2-7e076759c15c",
             "interquartile_range": null,
             "max": 31.493776,
             "mean": 28.904774500000002,
             "median": 29.0468175,
             "min": 26.031687,
-            "order": 29,
+            "order": 28,
             "playable_character": {
               "character_name": "Toon Link",
               "id": "eea3bb5b-564a-46c4-9c4c-8cef6e59c8b1"
@@ -607,13 +589,13 @@
           },
           {
             "first_quartile": null,
-            "id": "478ccdd8-1156-409d-b4b8-9f63f797143c",
+            "id": "f7412375-50cc-43d6-9044-f71d3b92d20e",
             "interquartile_range": null,
             "max": 34.725758,
             "mean": 28.893164499999997,
             "median": 28.7564635,
             "min": 23.333973,
-            "order": 30,
+            "order": 29,
             "playable_character": {
               "character_name": "Palutena",
               "id": "279e8c96-d915-480d-acbe-98306c958a19"
@@ -625,13 +607,13 @@
           },
           {
             "first_quartile": 24.755562,
-            "id": "5f910b3a-1899-4070-a5a6-b121c933d7e6",
+            "id": "9b6c0033-9eb6-4f3a-8d45-719aa63988fb",
             "interquartile_range": 8.506972999999999,
             "max": 35.216343,
             "mean": 28.8209034,
             "median": 27.7791605,
             "min": 23.771145,
-            "order": 31,
+            "order": 30,
             "playable_character": {
               "character_name": "Falco",
               "id": "81bb935e-51ad-4a35-92e6-9d7565bed6a9"
@@ -642,8 +624,26 @@
             "third_quartile": 33.262535
           },
           {
+            "first_quartile": 26.963286500000002,
+            "id": "07d95dc9-0964-4f1c-98e6-1c69730a505b",
+            "interquartile_range": 3.2739169999999973,
+            "max": 34.44889,
+            "mean": 28.71083475,
+            "median": 28.7835705,
+            "min": 23.269667,
+            "order": 31,
+            "playable_character": {
+              "character_name": "Shulk",
+              "id": "6ed721a9-e20a-4d69-8d4f-567ba13cbb29"
+            },
+            "range": 11.179223,
+            "sample_size": 8,
+            "standard_deviation": 3.0672985891782587,
+            "third_quartile": 30.2372035
+          },
+          {
             "first_quartile": 23.651653,
-            "id": "32c59553-f703-470a-8d6e-9c7cf97a757f",
+            "id": "d9c0376d-1707-4447-8636-fa3e591e6ac0",
             "interquartile_range": 11.523384000000004,
             "max": 36.273632,
             "mean": 28.69565157142857,
@@ -660,7 +660,7 @@
             "third_quartile": 35.175037
           }
         ],
-        "id": "a8ec968d-7000-4fe7-bb7e-ba0ad1e8ad4a",
+        "id": "699c7ae1-607a-4fce-9c81-03659e08827f",
         "name": "C+",
         "order": 9
       },
@@ -668,7 +668,7 @@
         "character_placements": [
           {
             "first_quartile": 27.45153,
-            "id": "9983cf1d-751a-4952-af8e-4d971e6aa755",
+            "id": "8f95eb40-b9b4-4d3f-8d23-cb5faaa47004",
             "interquartile_range": 2.3970589999999987,
             "max": 32.20444,
             "mean": 28.503272666666668,
@@ -685,32 +685,14 @@
             "third_quartile": 29.848589
           },
           {
-            "first_quartile": 26.7320135,
-            "id": "ea31b86c-2fe7-4615-a2ea-21c6d51482c0",
-            "interquartile_range": 2.9906529999999982,
-            "max": 31.59806,
-            "mean": 28.42162976923077,
-            "median": 29.139574,
-            "min": 24.977575,
-            "order": 34,
-            "playable_character": {
-              "character_name": "Little Mac",
-              "id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047"
-            },
-            "range": 6.620484999999999,
-            "sample_size": 13,
-            "standard_deviation": 1.8270263896183514,
-            "third_quartile": 29.7226665
-          },
-          {
             "first_quartile": 26.6052645,
-            "id": "704f8a1b-2c13-416e-9b41-68976c9b8294",
+            "id": "a820fb4b-7007-4bab-9a1a-34ec7585236b",
             "interquartile_range": 3.2034294999999986,
             "max": 34.838196,
             "mean": 28.383866615384616,
             "median": 28.021349,
             "min": 25.28283,
-            "order": 35,
+            "order": 34,
             "playable_character": {
               "character_name": "Hero",
               "id": "da0c84d7-9c43-4e74-92e7-113194694b25"
@@ -721,8 +703,26 @@
             "third_quartile": 29.808694
           },
           {
+            "first_quartile": 26.6971335,
+            "id": "41e25019-25b1-433d-a265-0b65d4f81010",
+            "interquartile_range": 3.0255329999999994,
+            "max": 31.59806,
+            "mean": 28.239566307692307,
+            "median": 29.139574,
+            "min": 24.145815,
+            "order": 35,
+            "playable_character": {
+              "character_name": "Little Mac",
+              "id": "4d6019ea-9540-4dfe-a6d9-56caa35e7047"
+            },
+            "range": 7.452245000000001,
+            "sample_size": 13,
+            "standard_deviation": 2.104971555044295,
+            "third_quartile": 29.7226665
+          },
+          {
             "first_quartile": 26.49898,
-            "id": "f2769ff8-a1c5-44ea-9243-a18489315c94",
+            "id": "2c650107-08cd-456a-ba35-961d1245d75b",
             "interquartile_range": 3.3888440000000024,
             "max": 32.638954,
             "mean": 28.180152,
@@ -740,7 +740,7 @@
           },
           {
             "first_quartile": 24.931673,
-            "id": "006ef79f-b1b5-4550-8058-39b308b5f6a5",
+            "id": "2f1c4d2c-32a8-4c48-98d9-67e2e34c1107",
             "interquartile_range": 5.926237,
             "max": 34.35757,
             "mean": 28.128147333333335,
@@ -758,7 +758,7 @@
           },
           {
             "first_quartile": 25.550803,
-            "id": "332bd486-646d-4eec-b768-54527cb9c5fe",
+            "id": "af950215-2bae-4cfb-a248-c25ae82c0224",
             "interquartile_range": 5.216013499999999,
             "max": 31.943398,
             "mean": 28.0158792,
@@ -776,7 +776,7 @@
           },
           {
             "first_quartile": 25.6880465,
-            "id": "941b1e4e-3040-442d-8a78-51ff553efb70",
+            "id": "c873163a-bee3-4fa3-a980-ad69af73967b",
             "interquartile_range": 3.8593875000000004,
             "max": 34.41557,
             "mean": 27.984434416666666,
@@ -794,7 +794,7 @@
           },
           {
             "first_quartile": null,
-            "id": "cae98e36-4154-476a-9dec-ea3f617befb7",
+            "id": "a3d63b42-d51c-40e3-895e-662ea78a1145",
             "interquartile_range": null,
             "max": 28.95669,
             "mean": 27.88114975,
@@ -812,7 +812,7 @@
           },
           {
             "first_quartile": 26.603964,
-            "id": "6930f360-3666-4c09-86ef-a0dd3e2d75ac",
+            "id": "d1de5e0d-f494-4ade-a74d-d65816de4da9",
             "interquartile_range": 2.374212,
             "max": 30.462664,
             "mean": 27.85087814285714,
@@ -830,7 +830,7 @@
           },
           {
             "first_quartile": null,
-            "id": "5ea08b0a-7aae-49b1-838e-c63d2716d5a0",
+            "id": "11f4aa3a-5a43-401a-a79f-be45ed8535ea",
             "interquartile_range": null,
             "max": 29.725965,
             "mean": 27.8107295,
@@ -847,7 +847,7 @@
             "third_quartile": null
           }
         ],
-        "id": "f344d489-5e76-4d9a-a116-1bfc48a00945",
+        "id": "4882d304-e888-4bf0-a3d0-04b0f5b622ba",
         "name": "C",
         "order": 10
       },
@@ -855,7 +855,7 @@
         "character_placements": [
           {
             "first_quartile": null,
-            "id": "6ca7a638-c366-4200-bdb3-cdb1ee5335d3",
+            "id": "4518adef-903f-47b0-992a-f8caa1425c7f",
             "interquartile_range": null,
             "max": 29.366817,
             "mean": 27.101142250000002,
@@ -873,7 +873,7 @@
           },
           {
             "first_quartile": 25.223298,
-            "id": "7eafd5f5-b68f-4c28-8702-31401453d0c9",
+            "id": "2758cd9b-c741-4d90-a8c7-cb76e19fe756",
             "interquartile_range": 3.5489829999999998,
             "max": 29.831154,
             "mean": 26.9110108,
@@ -891,7 +891,7 @@
           },
           {
             "first_quartile": null,
-            "id": "b1ded4e0-4c62-4930-98d8-402d5297e77d",
+            "id": "719e60c0-f19b-4e8f-8acc-b145b94ed4bf",
             "interquartile_range": null,
             "max": 28.198156,
             "mean": 26.507690333333333,
@@ -909,7 +909,7 @@
           },
           {
             "first_quartile": null,
-            "id": "25f4365c-e308-4596-ae67-eae3e116dbce",
+            "id": "50237805-7eb7-4927-aee6-5c0b98c5a1a8",
             "interquartile_range": null,
             "max": 26.698408,
             "mean": 26.402236333333335,
@@ -927,7 +927,7 @@
           },
           {
             "first_quartile": 25.27328,
-            "id": "dbed82c3-3f87-4e30-bba8-db2e44373e33",
+            "id": "40232370-840d-4fa9-9eec-1c44da074b5c",
             "interquartile_range": 2.208307999999999,
             "max": 28.384047,
             "mean": 26.308964333333332,
@@ -944,7 +944,7 @@
             "third_quartile": 27.481588
           }
         ],
-        "id": "065187f8-bdfc-4e75-8b25-c7ebd72fba3d",
+        "id": "5d7091af-4639-447c-b170-f754db05a277",
         "name": "C-",
         "order": 11
       },
@@ -952,7 +952,7 @@
         "character_placements": [
           {
             "first_quartile": 19.553192000000003,
-            "id": "98c9f508-5290-49cf-9c8c-433f889f9819",
+            "id": "d033e027-3fcc-4105-9d3c-10b87ef35efb",
             "interquartile_range": 9.649552499999999,
             "max": 35.080723,
             "mean": 26.18771125,
@@ -970,7 +970,7 @@
           },
           {
             "first_quartile": 24.382843,
-            "id": "e1268d1f-b7a3-4090-aab5-8756f3fdbbff",
+            "id": "519c2772-8b13-43aa-81dd-ec1bbf6f96ff",
             "interquartile_range": 2.8848209999999987,
             "max": 31.3693,
             "mean": 26.019482454545454,
@@ -988,7 +988,7 @@
           },
           {
             "first_quartile": 22.846573,
-            "id": "bded2676-698e-4e42-be59-c484fd29b3a0",
+            "id": "d6141492-845f-432c-bc03-43c4625ccfe6",
             "interquartile_range": 6.024052000000001,
             "max": 32.898888,
             "mean": 25.885605066666667,
@@ -1006,7 +1006,7 @@
           },
           {
             "first_quartile": null,
-            "id": "b446edf1-21ec-4eaf-9450-250a3b9ca3a7",
+            "id": "7d8f0300-2a33-4ff8-849e-72c9c265921d",
             "interquartile_range": null,
             "max": 30.044718,
             "mean": 25.8258505,
@@ -1024,7 +1024,7 @@
           },
           {
             "first_quartile": null,
-            "id": "03118552-5161-4a06-97bd-43dca4580405",
+            "id": "400f9681-95ff-4a24-ae8a-a66eb883177f",
             "interquartile_range": null,
             "max": 28.480307,
             "mean": 25.71844,
@@ -1042,7 +1042,7 @@
           },
           {
             "first_quartile": 21.944355,
-            "id": "5a80e5f9-859b-41db-814d-c3a5dc1dc5e3",
+            "id": "75b1ad8f-04ea-4045-83be-3cb7d02423f8",
             "interquartile_range": 8.332789499999997,
             "max": 31.845295,
             "mean": 25.4380838,
@@ -1060,7 +1060,7 @@
           },
           {
             "first_quartile": null,
-            "id": "f91a4446-58ce-46c4-b2df-5b8f9259bb74",
+            "id": "8bc89f4b-77b8-49d8-9e71-78570be82dc3",
             "interquartile_range": null,
             "max": 28.452482,
             "mean": 25.436499333333334,
@@ -1078,7 +1078,7 @@
           },
           {
             "first_quartile": 23.889488,
-            "id": "4eb1f244-7750-4e5c-ab51-7f35f0c0ae3e",
+            "id": "16ffb7f5-747a-4b4c-bc7a-da7bfee68f43",
             "interquartile_range": 1.763456999999999,
             "max": 30.719599,
             "mean": 25.36218509090909,
@@ -1096,7 +1096,7 @@
           },
           {
             "first_quartile": 22.7087015,
-            "id": "a4cc318a-efad-4478-b64c-afeb820a188b",
+            "id": "968dc790-9bb7-4657-b06a-550833b4d48e",
             "interquartile_range": 4.7114875000000005,
             "max": 31.049582,
             "mean": 25.277744666666667,
@@ -1114,7 +1114,7 @@
           },
           {
             "first_quartile": 22.156252,
-            "id": "22773069-0627-4a3c-95b4-ef900ae41af1",
+            "id": "bd669652-9c17-4fb4-9c40-47205e7d673c",
             "interquartile_range": 5.523226000000001,
             "max": 30.224802,
             "mean": 25.260277833333333,
@@ -1132,7 +1132,7 @@
           },
           {
             "first_quartile": null,
-            "id": "c833ee2d-faaf-413f-b409-c14915a10385",
+            "id": "f2b35b73-bbbf-483b-96b4-4d0c18343aad",
             "interquartile_range": null,
             "max": 27.00183,
             "mean": 25.2505855,
@@ -1150,7 +1150,7 @@
           },
           {
             "first_quartile": 20.59361,
-            "id": "b548a523-6959-4a50-b05c-62b8b06829c5",
+            "id": "63d07b29-938c-4513-9365-ec47090689f7",
             "interquartile_range": 9.384477999999998,
             "max": 30.571646,
             "mean": 25.226871666666668,
@@ -1168,7 +1168,7 @@
           },
           {
             "first_quartile": 23.664371,
-            "id": "23c2b69e-5936-46a9-ad1e-c52dd7927b9a",
+            "id": "dfe1953a-22f6-4f9c-97ed-5763cf474644",
             "interquartile_range": 4.166316000000002,
             "max": 27.871464,
             "mean": 25.1720915,
@@ -1186,7 +1186,7 @@
           },
           {
             "first_quartile": 23.9557285,
-            "id": "683f3c89-d135-4ddf-988b-6b10c062b5dc",
+            "id": "cefabd5e-229e-434e-b22a-3263a74932e8",
             "interquartile_range": 1.6492900000000006,
             "max": 28.48633,
             "mean": 25.12218475,
@@ -1204,7 +1204,7 @@
           },
           {
             "first_quartile": 23.369854,
-            "id": "15aaece1-0a8f-4deb-af92-fb9fdd0fe564",
+            "id": "9c3dfcb1-ca1d-43ea-9256-cd402b212edb",
             "interquartile_range": 1.4755590000000005,
             "max": 33.45563,
             "mean": 25.059259714285716,
@@ -1221,7 +1221,7 @@
             "third_quartile": 24.845413
           }
         ],
-        "id": "99b86e82-c001-4942-96fd-da75c47a33b5",
+        "id": "a73e5aa6-c472-4845-9ed9-b8a65a174969",
         "name": "D+",
         "order": 12
       },
@@ -1229,7 +1229,7 @@
         "character_placements": [
           {
             "first_quartile": 21.7955055,
-            "id": "4f681652-134d-45ee-aaa3-44b58c2aee75",
+            "id": "2fa321ff-2511-499d-97ec-651756dd78b5",
             "interquartile_range": 5.697704499999997,
             "max": 35.066883,
             "mean": 24.779098176470587,
@@ -1247,7 +1247,7 @@
           },
           {
             "first_quartile": 22.0362685,
-            "id": "e94b84bf-2b7b-4145-93fc-8214ceea8e49",
+            "id": "002a01eb-ca3c-4f1c-ad63-2c1bca809e7e",
             "interquartile_range": 3.3725505000000027,
             "max": 34.396645,
             "mean": 24.751661125,
@@ -1265,7 +1265,7 @@
           },
           {
             "first_quartile": 21.762182,
-            "id": "d7b7ebd7-ba28-4e0d-a1c0-d23c1fa915bd",
+            "id": "2b5b38ff-643b-4bda-877f-13051cda57f7",
             "interquartile_range": 6.487492,
             "max": 28.753832,
             "mean": 24.710408166666667,
@@ -1283,7 +1283,7 @@
           },
           {
             "first_quartile": 24.410618,
-            "id": "529f2368-c192-4a33-97b4-abdd630d9fd3",
+            "id": "8acc006e-615c-4434-9b11-e327f452e021",
             "interquartile_range": 1.6921220000000012,
             "max": 26.735975,
             "mean": 24.461252,
@@ -1301,7 +1301,7 @@
           },
           {
             "first_quartile": null,
-            "id": "b4bdca3e-3f59-4083-9c5c-67ec84b63a8b",
+            "id": "1a5a4a10-8210-4b6d-bc57-51dc8f57fc89",
             "interquartile_range": null,
             "max": 35.519848,
             "mean": 24.232609,
@@ -1319,7 +1319,7 @@
           },
           {
             "first_quartile": 22.604362,
-            "id": "5a434e0c-ad7c-46b9-9ae6-103a987778bd",
+            "id": "2d2fc41c-c208-438f-86df-9b3f78f77259",
             "interquartile_range": 2.6183580000000006,
             "max": 25.81426,
             "mean": 24.231689666666668,
@@ -1337,7 +1337,7 @@
           },
           {
             "first_quartile": 22.3693415,
-            "id": "63c69d8d-f97a-4e4d-9f3e-7b398186211e",
+            "id": "66adc0f5-b01a-4078-98dc-b6abc8576bb2",
             "interquartile_range": 3.7092895000000006,
             "max": 27.778109,
             "mean": 24.205049250000002,
@@ -1355,7 +1355,7 @@
           },
           {
             "first_quartile": 21.816021,
-            "id": "63bb0ceb-f35d-425c-a99e-251540cccada",
+            "id": "1ff1bea1-41da-4f92-9529-ab63e520591d",
             "interquartile_range": 5.785332,
             "max": 28.363247,
             "mean": 24.193302833333334,
@@ -1373,7 +1373,7 @@
           },
           {
             "first_quartile": 21.745178,
-            "id": "2a508d7d-d5b1-4621-972a-d23b034ae045",
+            "id": "2ca4d2ea-cbc6-47d6-b142-c178cf15b0ae",
             "interquartile_range": 4.63588,
             "max": 28.046412,
             "mean": 24.035890833333333,
@@ -1391,7 +1391,7 @@
           },
           {
             "first_quartile": 20.082413,
-            "id": "174869c6-7b97-41de-afc0-dbba62f6e66e",
+            "id": "a23127c5-be8c-47d0-99cc-a3c1ea002cdb",
             "interquartile_range": 7.153669000000001,
             "max": 29.159683,
             "mean": 23.856808285714287,
@@ -1408,7 +1408,7 @@
             "third_quartile": 27.236082
           }
         ],
-        "id": "d2a2e13d-c7b2-494a-b40d-ab95623f4bb4",
+        "id": "b647bf89-8c1d-4810-9a05-e0c0b35293a2",
         "name": "D",
         "order": 13
       },
@@ -1416,7 +1416,7 @@
         "character_placements": [
           {
             "first_quartile": 20.6537535,
-            "id": "21f42755-b7c1-4ed2-ab5d-7102154f9784",
+            "id": "941ef205-8e47-4d85-96f2-f5dde323e60d",
             "interquartile_range": 5.372656499999998,
             "max": 32.958015,
             "mean": 23.682209375,
@@ -1434,7 +1434,7 @@
           },
           {
             "first_quartile": 21.432935999999998,
-            "id": "d50cd0bd-fd98-42e6-bcd4-d4d4c9c579fe",
+            "id": "49be1236-389b-4ac4-8e68-9516ee1c7829",
             "interquartile_range": 4.986375500000001,
             "max": 29.816372,
             "mean": 23.549261,
@@ -1452,7 +1452,7 @@
           },
           {
             "first_quartile": 22.048956500000003,
-            "id": "edb6436d-071a-425a-8130-c5e5c4293fa5",
+            "id": "0026c448-5ede-4b5c-8a28-c0d6d875782b",
             "interquartile_range": 3.220852999999998,
             "max": 26.166183,
             "mean": 23.4897064,
@@ -1470,7 +1470,7 @@
           },
           {
             "first_quartile": 21.161894,
-            "id": "25900963-2a36-49ef-bb4d-5070ab2ad52f",
+            "id": "03b56bd4-f6b8-440d-8364-b1af39da46e3",
             "interquartile_range": 4.064916999999998,
             "max": 28.45368,
             "mean": 23.446619166666665,
@@ -1488,7 +1488,7 @@
           },
           {
             "first_quartile": 22.201551,
-            "id": "9827c5b8-99ca-40ca-97d4-996532dc5234",
+            "id": "1212ba23-0172-4ebf-a5e8-b1c7d6cfb7df",
             "interquartile_range": 2.998496000000003,
             "max": 25.312632,
             "mean": 23.28891757142857,
@@ -1506,7 +1506,7 @@
           },
           {
             "first_quartile": 21.720047,
-            "id": "be8dc8bc-22c0-47ee-a9b6-26b749e2c8c7",
+            "id": "cf80cc0e-314c-47aa-b678-782d32d202cf",
             "interquartile_range": 2.861934999999999,
             "max": 24.689806,
             "mean": 23.264892714285715,
@@ -1523,7 +1523,7 @@
             "third_quartile": 24.581982
           }
         ],
-        "id": "5dd1fe77-edcc-4701-9614-54e4f58c8297",
+        "id": "d744adf8-447e-48cb-9f45-26b4ea321a55",
         "name": "D-",
         "order": 14
       },
@@ -1531,7 +1531,7 @@
         "character_placements": [
           {
             "first_quartile": 19.445168,
-            "id": "3f8d4cb2-7c6d-4c9f-9a35-8f0a0daef2ba",
+            "id": "1c11dd7b-a27e-4687-a247-cf9e75ec394c",
             "interquartile_range": 7.217174,
             "max": 30.59047,
             "mean": 22.430228,
@@ -1549,7 +1549,7 @@
           },
           {
             "first_quartile": 19.564676,
-            "id": "0871f272-f74f-4ae4-bd7a-3b9598becb55",
+            "id": "4b1a386e-c205-47e3-b88e-b02ff1d1d409",
             "interquartile_range": 2.53632,
             "max": 31.32718,
             "mean": 22.396421,
@@ -1567,7 +1567,7 @@
           },
           {
             "first_quartile": 19.14478,
-            "id": "cb0d839e-217c-4be4-a805-1569fd097e99",
+            "id": "d7c4c4ef-dc6e-4379-9090-7210706fe711",
             "interquartile_range": 4.406027999999999,
             "max": 25.312946,
             "mean": 21.789783571428572,
@@ -1585,7 +1585,7 @@
           },
           {
             "first_quartile": null,
-            "id": "426b596d-357c-4131-9bfe-a456571073d8",
+            "id": "b5192d4a-6863-4ddf-ad3e-bacbe4092c6f",
             "interquartile_range": null,
             "max": 27.392221,
             "mean": 21.58250425,
@@ -1602,7 +1602,7 @@
             "third_quartile": null
           }
         ],
-        "id": "74ac78c6-c759-465f-9cae-29e9da3e8828",
+        "id": "b3c10339-35be-4263-84cf-402b96b10c8f",
         "name": "F+",
         "order": 15
       },
@@ -1610,7 +1610,7 @@
         "character_placements": [
           {
             "first_quartile": 17.461136,
-            "id": "24e683e2-82d4-4a7a-ac99-72de0d61fd1d",
+            "id": "58953a78-cbd0-4a82-9b37-2b379e9edb01",
             "interquartile_range": 8.194612500000002,
             "max": 28.038788,
             "mean": 20.8626598,
@@ -1628,7 +1628,7 @@
           },
           {
             "first_quartile": 16.635658,
-            "id": "e010c591-0356-46c5-8b13-6930c14fa9f4",
+            "id": "fdf7c87a-962e-41f9-93a4-e79bdce84694",
             "interquartile_range": 5.176432000000002,
             "max": 29.653873,
             "mean": 20.401138818181817,
@@ -1645,7 +1645,7 @@
             "third_quartile": 21.81209
           }
         ],
-        "id": "061380d2-1351-4362-b9d5-e28a39cdda83",
+        "id": "3998208b-f2be-4064-be6e-90d646413499",
         "name": "F",
         "order": 16
       },
@@ -1653,7 +1653,7 @@
         "character_placements": [
           {
             "first_quartile": 17.704535,
-            "id": "b4571cba-03f9-41eb-a683-2be599c1e208",
+            "id": "743118c7-35bf-4957-8b07-98d5bdd9df41",
             "interquartile_range": 3.827328999999999,
             "max": 21.769373,
             "mean": 19.78590416666667,
@@ -1671,7 +1671,7 @@
           },
           {
             "first_quartile": 15.7719585,
-            "id": "a566d26c-d910-4f24-9bc3-4edce3d10cc2",
+            "id": "40e79af4-edb9-46d3-ae5e-88b553c4b2fd",
             "interquartile_range": 7.2992335,
             "max": 26.498089,
             "mean": 19.0901236,
@@ -1688,7 +1688,7 @@
             "third_quartile": 23.071192
           }
         ],
-        "id": "9cae6dab-9b3d-4878-be73-d6970f55a0f5",
+        "id": "cbcd6818-959e-4aa1-bd1e-0fa10d009b42",
         "name": "F-",
         "order": 17
       }
